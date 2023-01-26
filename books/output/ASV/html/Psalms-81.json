@@ -1,0 +1,166 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19081001,
+            "text": "<b>God\u2019s goodness and Israel\u2019s waywardness.</b>\n\u00b6 For the Chief Musician; set to the Gittith.  of Asaph.\u00b6     Sing aloud unto God our strength:\n    Make a joyful noise unto the God of Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081002,
+            "text": "  Raise a song, and <i>[a]</i>bring hither the timbrel,\n    The pleasant harp with the psaltery.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>strike the timbrel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081003,
+            "text": "    Blow the trumpet at the new moon,\n    At the full moon, on our feast-day.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081004,
+            "text": "    For it is a statute for Israel,\n    An ordinance of the God of Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081005,
+            "text": " He appointed it in Joseph for a testimony,\n When he went out <i>[b]</i>over the land of Egypt,\n   I heard <i>[c]</i>a language that I knew not.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>against</i>"
+                },
+                {
+                    "c": "Or, <i>the speech of one that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081006,
+            "text": "    I removed his shoulder from the burden:\n    His hands were freed from the basket.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081007,
+            "text": "    Thou calledst in trouble, and I delivered thee;\n    I answered thee in the secret place of thunder;\n    I proved thee at the waters of Meribah. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081008,
+            "text": "\u00b6     Hear, O my people, and I will testify unto thee:\n    O Israel, if thou wouldest hearken unto me!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081009,
+            "text": "    There shall no strange god be in thee;\n    Neither shalt thou worship any foreign god.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081010,
+            "text": "    I am Jehovah thy God,\n    Who brought thee up out of the land of Egypt:\n    Open thy mouth wide, and I will fill it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081011,
+            "text": "    But my people hearkened not to my voice;\n    And Israel would none of me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081012,
+            "text": "    So I let them go after the stubbornness of their heart,\n    That they might walk in their own counsels.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081013,
+            "text": "    Oh that my people would hearken unto me,\n    That Israel would walk in my ways!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081014,
+            "text": "    I would soon subdue their enemies,\n    And turn my hand against their adversaries.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081015,
+            "text": "  The haters of Jehovah should <i>[d]</i>submit themselves unto him:\n    But their time should endure for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>yield feigned obedience</i>. Hebrew <i>lie</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19081016,
+            "text": "  He would feed them also with the <i>[e]</i>finest of the wheat;\n    And with honey out of the rock would I satisfy thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-81-16",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>fat of wheat</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 81
+}

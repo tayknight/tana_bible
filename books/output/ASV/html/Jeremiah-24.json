@@ -1,0 +1,103 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24024001,
+            "text": "\u00b6 Jehovah showed me, and, behold, two baskets of figs set before the temple of Jehovah, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim, king of Judah, and the princes of Judah, with the craftsmen and smiths, from Jerusalem, and had brought them to Babylon. ",
+            "version": "ASV",
+            "clsstr": "Jer-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024002,
+            "text": "One basket had very good figs, like the figs that are first-ripe; and the other basket had very bad figs, which could not be eaten, they were so bad. ",
+            "version": "ASV",
+            "clsstr": "Jer-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024003,
+            "text": "Then said Jehovah unto me, What seest thou, Jeremiah? And I said, Figs; the good figs, very good; and the bad, very bad, that cannot be eaten, they are so bad.",
+            "version": "ASV",
+            "clsstr": "Jer-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024004,
+            "text": "\u00b6 And the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024005,
+            "text": "Thus saith Jehovah, the God of Israel: Like these good figs, so will I regard the captives of Judah, whom I have sent out of this place into the land of the Chaldeans, for good. ",
+            "version": "ASV",
+            "clsstr": "Jer-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024006,
+            "text": "For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up. ",
+            "version": "ASV",
+            "clsstr": "Jer-24-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024007,
+            "text": "And I will give them a heart to know me, that I am Jehovah: and they shall be my people, and I will be their God; for they shall return unto me with their whole heart.",
+            "version": "ASV",
+            "clsstr": "Jer-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024008,
+            "text": "\u00b6 And as the bad figs, which cannot be eaten, they are so bad, surely thus saith Jehovah, So will I give up Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt, ",
+            "version": "ASV",
+            "clsstr": "Jer-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024009,
+            "text": "I will even give them up to be <i>[a]</i>tossed to and fro among all the kingdoms of the earth for evil; to be a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them. ",
+            "version": "ASV",
+            "clsstr": "Jer-24-9",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a terror unto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24024010,
+            "text": "And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.",
+            "version": "ASV",
+            "clsstr": "Jer-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 24
+}

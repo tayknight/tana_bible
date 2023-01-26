@@ -1,0 +1,185 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19045001,
+            "text": "<b>A song celebrating the king\u2019s marriage.</b>\n\u00b6 For the Chief Musician; set to <i>[a]</i>Shoshannim. of the sons of Korah. Maschil. A Song of loves.\u00b6   My heart overfloweth with a goodly matter;\n   <i>[b]</i>I speak the things which I have made touching the king:\n    My tongue is the pen of a ready writer.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>Lilies</i>."
+                },
+                {
+                    "b": "Or, <i>I speak: my work is for a king</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045002,
+            "text": "  Thou art fairer than the children of men;\n  Grace is poured <i>[c]</i>into thy lips:\n    Therefore God hath blessed thee for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045003,
+            "text": "    Gird thy sword upon thy thigh, O mighty one,\n    Thy glory and thy majesty.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045004,
+            "text": " And in thy majesty ride on prosperously,\n  <i>[d]</i>Because of truth and meekness righteousness:\n  And <i>[e]</i>thy right hand shall teach thee terrible things.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>In behalf of</i>"
+                },
+                {
+                    "e": "Or, <i>let thy right hand teach</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045005,
+            "text": "    Thine arrows are sharp;\n    The peoples fall under thee;\n     in the heart of the king\u2019s enemies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045006,
+            "text": "   <i>[f]</i>Thy throne, O God, is for ever and ever:\n    A sceptre of equity is the sceptre of thy kingdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Thy throne is</i> the throne of <i>God etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045007,
+            "text": "    Thou hast loved righteousness, and hated wickedness:\n    Therefore God, thy God, hath anointed thee\n    With the oil of gladness above thy fellows.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045008,
+            "text": "    All thy garments  myrrh, and aloes,  cassia;\n    Out of ivory palaces stringed instruments have made thee glad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045009,
+            "text": "    Kings\u2019 daughters are among thy honorable women:\n    At thy right hand doth stand the queen in gold of Ophir.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045010,
+            "text": "    Hearken, O daughter, and consider, and incline thine ear;\n    Forget also thine own people, and thy father\u2019s house:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045011,
+            "text": "    So will the king desire thy beauty;\n    For he is thy lord; and reverence thou him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045012,
+            "text": "    And the daughter of Tyre  with a gift;\n    The rich among the people shall entreat thy favor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045013,
+            "text": "  The king\u2019s daughter <i>[g]</i>within  is all glorious:\n    Her clothing is inwrought with gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>in the inner part</i> of the palace"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045014,
+            "text": "  She shall be led unto the king <i>[h]</i>in broidered work:\n    The virgins her companions that follow her\n    Shall be brought unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045015,
+            "text": "    With gladness and rejoicing shall they be led:\n    They shall enter into the king\u2019s palace.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045016,
+            "text": "    Instead of thy fathers shall be thy children,\n    Whom thou shalt make princes in all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19045017,
+            "text": "    I will make thy name to be remembered in all generations:\n    Therefore shall the peoples give thee thanks for ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-45-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 45
+}

@@ -1,0 +1,294 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20019001,
+            "text": "\u00b6     Better is the poor that walketh in his integrity\n    Than he that is perverse in his lips and is a fool.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019002,
+            "text": " Also, <i>[a]</i>that the soul be without knowledge is not good;\n  And he that hasteth with his feet <i>[b]</i>sinneth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>desire without knowledge is not good</i>"
+                },
+                {
+                    "b": "Or, <i>misseth</i> his way"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019003,
+            "text": "    The foolishness of man subverteth his way;\n    And his heart fretteth against Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019004,
+            "text": "  Wealth addeth many friends;\n  But <i>[c]</i>the poor is separated from his friend.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the friend of the poor separateth himself from him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019005,
+            "text": "  A false witness shall not be unpunished;\n  And he that <i>[d]</i>uttereth lies shall not escape.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-5",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>breatheth out</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019006,
+            "text": "  Many will entreat the favor of <i>[e]</i>the liberal man;\n    And every man is a friend to him that giveth gifts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>a prince</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019007,
+            "text": "  All the brethren of the poor do hate him:\n  How much more do his friends go far from him!\n   <i>[f]</i>He pursueth  words,  they are gone.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-7",
+            "footnotes": [
+                {
+                    "f": "Or, <i>He pursueth after words</i>, which <i>are nought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019008,
+            "text": "  He that getteth <i>[g]</i>wisdom loveth his own soul:\n    He that keepeth understanding shall find good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-8",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019009,
+            "text": "  A false witness shall not be unpunished;\n  And he that <i>[h]</i>uttereth lies shall perish.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-9",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>breatheth out</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019010,
+            "text": "    Delicate living is not seemly for a fool;\n    Much less for a servant to have rule over princes.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019011,
+            "text": "    The discretion of a man maketh him slow to anger;\n    And it is his glory to pass over a transgression.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019012,
+            "text": "    The king\u2019s wrath is as the roaring of a lion;\n    But his favor is as dew upon the grass.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019013,
+            "text": "    A foolish son is the calamity of his father;\n    And the contentions of a wife are a continual dropping.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019014,
+            "text": "    House and riches are an inheritance from fathers;\n    But a prudent wife is from Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019015,
+            "text": "    Slothfulness casteth into a deep sleep;\n    And the idle soul shall suffer hunger.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019016,
+            "text": "  He that keepeth the commandment keepeth his soul;\n   he that <i>[i]</i>is careless of his ways shall die.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-16",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>despiseth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019017,
+            "text": "    He that hath pity upon the poor lendeth unto Jehovah,\n    And his good deed will he pay him again.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019018,
+            "text": "  Chasten thy son, seeing there is hope;\n  And set not thy heart on <i>[j]</i>his destruction.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-18",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>causing him to die</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019019,
+            "text": "    A man of great wrath shall bear the penalty;\n    For if thou deliver , thou must do it yet again.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019020,
+            "text": "  Hear counsel, and receive <i>[k]</i>instruction,\n    That thou mayest be wise in thy latter end.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-20",
+            "footnotes": [
+                {
+                    "k": "Or, <i>correction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019021,
+            "text": "    There are many devices in a man\u2019s heart;\n    But the counsel of Jehovah, that shall stand.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019022,
+            "text": "    That which maketh a man to be desired is his kindness;\n    And a poor man is better than a liar.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019023,
+            "text": "    The fear of Jehovah  to life;\n    And he  shall abide satisfied;\n    He shall not be visited with evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019024,
+            "text": "    The sluggard burieth his hand in the dish,\n    And will not so much as bring it to his mouth again.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019025,
+            "text": "    Smite a scoffer, and the simple will learn prudence;\n    And reprove one that hath understanding,  he will understand knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019026,
+            "text": "    He that doeth violence to his father, and chaseth away his mother,\n    Is a son that causeth shame and bringeth reproach.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019027,
+            "text": "    Cease, my son, to hear instruction\n     to err from the words of knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019028,
+            "text": "    A worthless witness mocketh at justice;\n    And the mouth of the wicked swalloweth iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20019029,
+            "text": "    Judgments are prepared for scoffers,\n    And stripes for the back of fools.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-19-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 19
+}

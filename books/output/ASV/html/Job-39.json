@@ -1,0 +1,302 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18039001,
+            "text": "\u00b6     Knowest thou the time when the wild goats of the rock bring forth?\n     canst thou mark when the hinds do calve?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039002,
+            "text": "    Canst thou number the months that they fulfil?\n    Or knowest thou the time when they bring forth?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039003,
+            "text": "    They bow themselves, they bring forth their young,\n    They cast out their pains.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039004,
+            "text": "  Their young ones become strong, they grow up in the open field;\n  They go forth, and <i>[a]</i>return not again.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>return not unto them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039005,
+            "text": "\u00b6     Who hath sent out the wild ass free?\n    Or who hath loosed the bonds of the swift ass,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039006,
+            "text": "    Whose home I have made the wilderness,\n    And the salt land his dwelling-place?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039007,
+            "text": "  He scorneth the tumult of the city,\n  Neither heareth he the shoutings of the <i>[b]</i>driver.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>taskmaster</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039008,
+            "text": "    The range of the mountains is his pasture,\n    And he searcheth after every green thing.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039009,
+            "text": "    Will the wild-ox be content to serve thee?\n    Or will he abide by thy crib?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039010,
+            "text": "    Canst thou bind the wild-ox with his band in the furrow?\n    Or will he harrow the valleys after thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039011,
+            "text": "    Wilt thou trust him, because his strength is great?\n    Or wilt thou leave to him thy labor?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039012,
+            "text": "    Wilt thou confide in him, that he will bring home thy seed,\n    And gather  of thy threshing-floor?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039013,
+            "text": "\u00b6   The wings of the ostrich wave proudly;\n   are they the pinions and plumage of <i>[c]</i>love?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>a stork</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039014,
+            "text": "    For she leaveth her eggs on the earth,\n    And warmeth them in the dust,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039015,
+            "text": "    And forgetteth that the foot may crush them,\n    Or that the wild beast may trample them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039016,
+            "text": "  She <i>[d]</i>dealeth hardly with her young ones, as if they were not hers:\n    Though her labor be in vain,  without fear;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>is hardened against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039017,
+            "text": "  Because God hath <i>[e]</i>deprived her of wisdom,\n    Neither hath he imparted to her understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-17",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>made her to forget wisdom</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039018,
+            "text": "  What time she <i>[f]</i>lifteth up herself on high,\n    She scorneth the horse and his rider.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-18",
+            "footnotes": [
+                {
+                    "f": "Or, <i>rouseth herself up to flight</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039019,
+            "text": "\u00b6   Hast thou given the horse might?\n  Hast thou clothed his neck with the <i>[g]</i>quivering mane?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-19",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>shaking</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039020,
+            "text": "    Hast thou made him to leap as a locust?\n    The glory of his snorting is terrible.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039021,
+            "text": "  <i>[h]</i>He paweth in the valley, and rejoiceth in his strength:\n  He goeth out to meet <i>[i]</i>the armed men.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-21",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>They paw</i>."
+                },
+                {
+                    "i": "Or, <i>the weapons</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039022,
+            "text": "    He mocketh at fear, and is not dismayed;\n    Neither turneth he back from the sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039023,
+            "text": "  The quiver rattleth <i>[j]</i>against him,\n    The flashing spear and the javelin.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-23",
+            "footnotes": [
+                {
+                    "j": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039024,
+            "text": "  He swalloweth the ground with fierceness and rage;\n  Neither <i>[k]</i>believeth he that it is the voice of the trumpet.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-24",
+            "footnotes": [
+                {
+                    "k": "Or, <i>standeth he still at etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039025,
+            "text": "    As oft as the trumpet  he saith, Aha!\n    And he smelleth the battle afar off,\n    The thunder of the captains, and the shouting.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039026,
+            "text": "\u00b6     Is it by thy wisdom that the hawk soareth,\n     stretcheth her wings toward the south?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039027,
+            "text": "    Is it at thy command that the eagle mounteth up,\n    And maketh her nest on high?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039028,
+            "text": "    On the cliff she dwelleth, and maketh her home,\n    Upon the point of the cliff, and the stronghold.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039029,
+            "text": "    From thence she spieth out the prey;\n    Her eyes behold it afar off.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18039030,
+            "text": "    Her young ones also suck up blood:\n    And where the slain are, there is she.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-39-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 39
+}

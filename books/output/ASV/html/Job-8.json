@@ -1,0 +1,225 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18008001,
+            "text": "\u00b6 Then answered Bildad the Shuhite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008002,
+            "text": "\u00b6     How long wilt thou speak these things?\n    And  shall the words of thy mouth be  a mighty wind?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008003,
+            "text": "    Doth God pervert justice?\n    Or doth the Almighty pervert righteousness?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008004,
+            "text": "   <i>[a]</i>If thy children have sinned against him,\n    And he hath delivered them into the hand of their transgression;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>If thy children sinned\u00a0.\u00a0.\u00a0. he delivered etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008005,
+            "text": "    If thou wouldest seek diligently unto God,\n    And make thy supplication to the Almighty;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008006,
+            "text": "    If thou wert pure and upright:\n    Surely now he would awake for thee,\n    And make the habitation of thy righteousness prosperous.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008007,
+            "text": "    And though thy beginning was small,\n    Yet thy latter end would greatly increase.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008008,
+            "text": "\u00b6     For inquire, I pray thee, of the former age,\n    And apply thyself to that which their fathers have searched out\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008009,
+            "text": "    (For we are but of yesterday, and know nothing,\n    Because our days upon earth are a shadow);\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008010,
+            "text": "    Shall not they teach thee, and tell thee,\n    And utter words out of their heart?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008011,
+            "text": "\u00b6  Can the <i>[b]</i>rush grow up without mire?\n  Can the <i>[c]</i>flag grow without water?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-11",
+            "footnotes": [
+                {
+                    "b": "Or, <i>papyrus</i>"
+                },
+                {
+                    "c": "Or, <i>reed-grass</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008012,
+            "text": "    Whilst it is yet in its greenness,  not cut down,\n    It withereth before any  herb.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008013,
+            "text": "    So are the paths of all that forget God;\n    And the hope of the godless man shall perish:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008014,
+            "text": " Whose confidence shall <i>[d]</i>break in sunder,\n  And whose trust is a spider\u2019s <i>[e]</i>web.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-14",
+            "footnotes": [
+                {
+                    "d": "Or, <i>be cut off</i>"
+                },
+                {
+                    "e": "Hebrew <i>house</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008015,
+            "text": "    He shall lean upon his house, but it shall not stand:\n    He shall hold fast thereby, but it shall not endure.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008016,
+            "text": "    He is green before the sun,\n    And his shoots go forth over his garden.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008017,
+            "text": "  His roots are wrapped <i>[f]</i>about the -heap,\n    He beholdeth the place of stones.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>beside the spring</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008018,
+            "text": "    If he be destroyed from his place,\n    Then it shall deny him, , I have not seen thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008019,
+            "text": "  Behold, this is the joy of his way;\n  And out of the <i>[g]</i>earth shall others spring.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>dust</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008020,
+            "text": "    Behold, God will not cast away a perfect man,\n    Neither will he uphold the evil-doers.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008021,
+            "text": "   <i>[h]</i>He will yet fill thy mouth with laughter,\n    And thy lips with shouting.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-21",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Till he fill</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18008022,
+            "text": "    They that hate thee shall be clothed with shame;\n    And the tent of the wicked shall be no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 8
+}

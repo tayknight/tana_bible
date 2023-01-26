@@ -1,0 +1,225 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18010001,
+            "text": "\u00b6     My soul is weary of my life;\n    I will give free course to my complaint;\n    I will speak in the bitterness of my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010002,
+            "text": "    I will say unto God, Do not condemn me;\n    Show me wherefore thou contendest with me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010003,
+            "text": "  Is it good unto thee that thou shouldest oppress,\n  That thou shouldest despise the <i>[a]</i>work of thy hands,\n    And shine upon the counsel of the wicked?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>labor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010004,
+            "text": "    Hast thou eyes of flesh?\n    Or seest thou as man seeth?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010005,
+            "text": "    Are thy days as the days of man,\n    Or thy years as man\u2019s days,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010006,
+            "text": "    That thou inquirest after mine iniquity,\n    And searchest after my sin,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010007,
+            "text": "    Although thou knowest that I am not wicked,\n    And there is none that can deliver out of thy hand?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010008,
+            "text": "\u00b6     Thy hands have framed me and fashioned me\n    Together round about; yet thou dost destroy me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010009,
+            "text": "    Remember, I beseech thee, that thou hast fashioned me as clay;\n    And wilt thou bring me into dust again?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010010,
+            "text": "    Hast thou not poured me out as milk,\n    And curdled me like cheese?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010011,
+            "text": "    Thou hast clothed me with skin and flesh,\n    And knit me together with bones and sinews.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010012,
+            "text": "  Thou hast granted me life and lovingkindness;\n  And thy <i>[b]</i>visitation hath preserved my spirit.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>care</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010013,
+            "text": "    Yet these things thou didst hide in thy heart;\n    I know that this is with thee:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010014,
+            "text": "    If I sin, then thou markest me,\n    And thou wilt not acquit me from mine iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010015,
+            "text": "  If I be wicked, woe unto me;\n  And if I be righteous, yet shall I not lift up my head;\n   <i>[c]</i>Being filled with ignominy,\n    And looking upon mine affliction.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-15",
+            "footnotes": [
+                {
+                    "c": "Or, <i>I am filled with ignominy, but look thou\u00a0.\u00a0.\u00a0. for it increaseth: thou etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010016,
+            "text": "    And if  exalt itself, thou huntest me as a lion;\n    And again thou showest thyself marvellous upon me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010017,
+            "text": "  Thou renewest thy witnesses against me,\n  And increasest thine indignation upon me:\n   <i>[d]</i>Changes and warfare are with me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-17",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Host after host is against me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010018,
+            "text": "\u00b6     Wherefore then hast thou brought me forth out of the womb?\n    I had given up the ghost, and no eye had seen me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010019,
+            "text": "    I should have been as though I had not been;\n    I should have been carried from the womb to the grave.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010020,
+            "text": " Are not my days few? <i>[e]</i>cease then,\n  And let me alone, that I may <i>[f]</i>take comfort a little,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-20",
+            "footnotes": [
+                {
+                    "e": "Another reading is, <i>let him cease, and leave me alone</i>."
+                },
+                {
+                    "f": "Hebrew <i>brighten up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010021,
+            "text": "    Before I go whence I shall not return,\n     to the land of darkness and of the shadow of death;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18010022,
+            "text": " The land dark as <i>[g]</i>midnight,\n   of the shadow of death, without any order,\n  And where the light is as <i>[h]</i>midnight.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-10-22",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>thick darkness</i>."
+                },
+                {
+                    "h": "Hebrew <i>thick darkness</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 10
+}

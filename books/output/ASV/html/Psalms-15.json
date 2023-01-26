@@ -1,0 +1,81 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19015001,
+            "text": "<b>Description of a citizen of Zion.</b>\n\u00b6 A Psalm of David.\u00b6   Jehovah, who shall sojourn in thy <i>[a]</i>tabernacle?\n    Who shall dwell in thy holy hill?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-15-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>tent</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19015002,
+            "text": "    He that walketh uprightly, and worketh righteousness,\n    And speaketh truth in his heart;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-15-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19015003,
+            "text": "   <i>[b]</i>He that slandereth not with his tongue,\n    Nor doeth evil to his friend,\n    Nor taketh up a reproach against his neighbor;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-15-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>He slandereth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19015004,
+            "text": " In <i>[c]</i>whose eyes a reprobate is despised,\n But <i>[d]</i>who honoreth them that fear Jehovah;\n   <i>[e]</i>He that sweareth to his own hurt, and changeth not;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-15-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>his\u00a0.\u00a0.\u00a0. he</i>"
+                },
+                {
+                    "d": "Or, <i>his\u00a0.\u00a0.\u00a0. he</i>"
+                },
+                {
+                    "e": "Or, <i>He sweareth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19015005,
+            "text": "   <i>[f]</i>He that putteth not out his money to interest,\n    Nor taketh reward against the innocent.\n    He that doeth these things shall never be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-15-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>He putteth</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 15
+}

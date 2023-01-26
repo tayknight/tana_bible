@@ -1,0 +1,187 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1012001,
+            "text": "\u00b6 Now Jehovah said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father\u2019s house, unto the land that I will show thee: ",
+            "version": "ASV",
+            "clsstr": "Gen-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012002,
+            "text": "and I will make of thee a great nation, and I will bless thee, and make thy name great; and be thou a blessing: ",
+            "version": "ASV",
+            "clsstr": "Gen-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012003,
+            "text": "and I will bless them that bless thee, and him that curseth thee will I curse: and in thee shall all the families of the earth be blessed. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012004,
+            "text": "So Abram went, as Jehovah had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012005,
+            "text": "And Abram took Sarai his wife, and Lot his brother\u2019s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012006,
+            "text": "And Abram passed through the land unto the place of Shechem, unto the <i>[a]</i>oak of Moreh. And the Canaanite was then in the land. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>terebinth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012007,
+            "text": "And Jehovah appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto Jehovah, who appeared unto him. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012008,
+            "text": "And he removed from thence unto the mountain on the east of Beth-el, and pitched his tent, having Beth-el on the west, and Ai on the east: and there he builded an altar unto Jehovah, and called upon the name of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012009,
+            "text": "And Abram journeyed, going on still toward the <i>[b]</i>South.",
+            "version": "ASV",
+            "clsstr": "Gen-12-9",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Negeb</i>, the southern tract of Judah."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012010,
+            "text": "\u00b6 And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was sore in the land. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012011,
+            "text": "And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon: ",
+            "version": "ASV",
+            "clsstr": "Gen-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012012,
+            "text": "and it will come to pass, when the Egyptians shall see thee, that they will say, This is his wife: and they will kill me, but they will save thee alive. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012013,
+            "text": "Say, I pray thee, thou art my sister; that it may be well with me for thy sake, and that my soul may live because of thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012014,
+            "text": "And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012015,
+            "text": "And the princes of Pharaoh saw her, and praised her to Pharaoh: and the woman was taken into Pharaoh\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012016,
+            "text": "And he dealt well with Abram for her sake: and he had sheep, and oxen, and he-asses, and men-servants, and maid-servants, and she-asses, and camels. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012017,
+            "text": "And Jehovah plagued Pharaoh and his house with great plagues because of Sarai, Abram\u2019s wife. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012018,
+            "text": "And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife? ",
+            "version": "ASV",
+            "clsstr": "Gen-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012019,
+            "text": "why saidst thou, She is my sister, so that I took her to be my wife? now therefore behold thy wife, take her, and go thy way. ",
+            "version": "ASV",
+            "clsstr": "Gen-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1012020,
+            "text": "And Pharaoh gave men charge concerning him: and they brought him on the way, and his wife, and all that he had.",
+            "version": "ASV",
+            "clsstr": "Gen-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 12
+}

@@ -1,0 +1,370 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45003001,
+            "text": "\u00b6 What advantage then hath the Jew? or what is the profit of circumcision? ",
+            "version": "ASV",
+            "clsstr": "Rom-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003002,
+            "text": "Much every way: first of all, that they were intrusted with the oracles of God. ",
+            "version": "ASV",
+            "clsstr": "Rom-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003003,
+            "text": "For what if some were without faith? shall their want of faith make of none effect the faithfulness of God? ",
+            "version": "ASV",
+            "clsstr": "Rom-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003004,
+            "text": " <i>[a]</i>God forbid: yea, let God be found true, but every man a liar; as it is written,\u00b6   <i>[b]</i>That thou mightest be justified in thy words,\n    And mightest prevail when thou comest into judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-4",
+            "footnotes": [
+                {
+                    "a": "Greek <i>Be it not so</i>: and so elsewhere."
+                },
+                {
+                    "b": "[[Ps. 51:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003005,
+            "text": "\u00b6 But if our unrighteousness commendeth the righteousness of God, what shall we say? Is God unrighteous who visiteth with wrath? (I speak after the manner of men.) ",
+            "version": "ASV",
+            "clsstr": "Rom-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003006,
+            "text": " <i>[c]</i>God forbid: for then how shall God judge the world? ",
+            "version": "ASV",
+            "clsstr": "Rom-3-6",
+            "footnotes": [
+                {
+                    "c": "Greek <i>Be it not so</i>: and so elsewhere."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003007,
+            "text": " <i>[d]</i>But if the truth of God through my lie abounded unto his glory, why am I also still judged as a sinner? ",
+            "version": "ASV",
+            "clsstr": "Rom-3-7",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities read <i>For</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003008,
+            "text": "and why not (as we are slanderously reported, and as some affirm that we say), Let us do evil, that good may come? whose condemnation is just.",
+            "version": "ASV",
+            "clsstr": "Rom-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003009,
+            "text": "\u00b6 What then? are we better than they? No, in no wise: for we before laid to the charge both of Jews and Greeks, that they are all under sin; ",
+            "version": "ASV",
+            "clsstr": "Rom-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003010,
+            "text": "as it is written,\u00b6   <i>[e]</i>There is none righteous, no, not one;\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-10",
+            "footnotes": [
+                {
+                    "e": "[[Ps. 14:1ff]]; [[53:1ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003011,
+            "text": "    There is none that understandeth,\n    There is none that seeketh after God;\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003012,
+            "text": "    They have all turned aside, they are together become unprofitable;\n    There is none that doeth good, no, not so much as one:\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003013,
+            "text": "  <i>[f]</i>Their throat is an open sepulchre;\n  With their tongues they have used deceit:\n   <i>[g]</i>The poison of asps is under their lips:\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-13",
+            "footnotes": [
+                {
+                    "f": "[[Ps. 5:9]]."
+                },
+                {
+                    "g": "[[Ps. 140:3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003014,
+            "text": "   <i>[h]</i>Whose mouth is full of cursing and bitterness:\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-14",
+            "footnotes": [
+                {
+                    "h": "[[Ps. 10:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003015,
+            "text": "   <i>[i]</i>Their feet are swift to shed blood;\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-15",
+            "footnotes": [
+                {
+                    "i": "[[Isa. 59:7f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003016,
+            "text": "    Destruction and misery are in their ways;\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003017,
+            "text": "    And the way of peace have they not known:\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003018,
+            "text": "   <i>[j]</i>There is no fear of God before their eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-3-18",
+            "footnotes": [
+                {
+                    "j": "[[Ps. 36:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003019,
+            "text": "\u00b6 Now we know that what things soever the law saith, it speaketh to them that are under the law; that every mouth may be stopped, and all the world may be brought under the judgment of God: ",
+            "version": "ASV",
+            "clsstr": "Rom-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003020,
+            "text": "because <i>[k]</i>by <i>[l]</i>the works of the law shall no flesh be <i>[m]</i>justified in his sight; for <i>[n]</i>through the law  the knowledge of sin.",
+            "version": "ASV",
+            "clsstr": "Rom-3-20",
+            "footnotes": [
+                {
+                    "k": "Greek <i>out of</i>."
+                },
+                {
+                    "l": "Or, <i>works of law</i>"
+                },
+                {
+                    "m": "Or, <i>accounted righteous</i>"
+                },
+                {
+                    "n": "Or, <i>through law</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003021,
+            "text": "\u00b6 But now apart from the law a righteousness of God hath been manifested, being witnessed by the law and the prophets; ",
+            "version": "ASV",
+            "clsstr": "Rom-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003022,
+            "text": "even the righteousness of God through faith <i>[o]</i>in Jesus Christ unto all <i>[p]</i>them that believe; for there is no distinction; ",
+            "version": "ASV",
+            "clsstr": "Rom-3-22",
+            "footnotes": [
+                {
+                    "o": "Or, <i>of</i>"
+                },
+                {
+                    "p": "Some ancient authorities add <i>and upon all</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003023,
+            "text": "for all <i>[q]</i>have sinned, and fall short of the glory of God; ",
+            "version": "ASV",
+            "clsstr": "Rom-3-23",
+            "footnotes": [
+                {
+                    "q": "Greek <i>sinned</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003024,
+            "text": "being justified freely by his grace through the redemption that is in Christ Jesus: ",
+            "version": "ASV",
+            "clsstr": "Rom-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003025,
+            "text": "whom God set forth <i>[r]</i> a propitiation, through faith, in his blood, to show his righteousness because of the passing over of the sins done aforetime, in the forbearance of God; ",
+            "version": "ASV",
+            "clsstr": "Rom-3-25",
+            "footnotes": [
+                {
+                    "r": "Or, to be <i>propitiatory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003026,
+            "text": "for the showing, , of his righteousness at this present season: that he might himself be <i>[s]</i>just, and the <i>[t]</i>justifier of him that <i>[u]</i>hath faith <i>[v]</i>in Jesus. ",
+            "version": "ASV",
+            "clsstr": "Rom-3-26",
+            "footnotes": [
+                {
+                    "s": "See [[2:13]] margin."
+                },
+                {
+                    "t": "See [[2:13]] margin."
+                },
+                {
+                    "u": "Greek <i>is of faith</i>."
+                },
+                {
+                    "v": "Or, <i>of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003027,
+            "text": "Where then is the glorying? It is excluded. By what manner of law? of works? Nay: but by a law of faith. ",
+            "version": "ASV",
+            "clsstr": "Rom-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003028,
+            "text": " <i>[w]</i>We reckon therefore that a man is justified by faith apart from <i>[x]</i>the works of the law. ",
+            "version": "ASV",
+            "clsstr": "Rom-3-28",
+            "footnotes": [
+                {
+                    "w": "Many ancient authorities read <i>For we reckon</i>."
+                },
+                {
+                    "x": "Or, <i>works of law</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003029,
+            "text": "Or is God  of Jews only? is he not  of Gentiles also? Yea, of Gentiles also: ",
+            "version": "ASV",
+            "clsstr": "Rom-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003030,
+            "text": "if so be that God is one, and he shall justify the circumcision <i>[y]</i>by faith, and the uncircumcision <i>[z]</i>through faith.",
+            "version": "ASV",
+            "clsstr": "Rom-3-30",
+            "footnotes": [
+                {
+                    "y": "Greek <i>out of</i>. [[Gal. 3:8]]."
+                },
+                {
+                    "z": "Or, <i>through the faith</i>. [[Gal. 2:16]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45003031,
+            "text": "\u00b6 Do we then make <i>[aa]</i>the law of none effect <i>[ab]</i>through faith? God forbid: nay, we establish <i>[ac]</i>the law.",
+            "version": "ASV",
+            "clsstr": "Rom-3-31",
+            "footnotes": [
+                {
+                    "aa": "Or, <i>law</i>"
+                },
+                {
+                    "ab": "Or, <i>through the faith</i>. [[Gal. 2:16]]"
+                },
+                {
+                    "ac": "Or, <i>law</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 3
+}

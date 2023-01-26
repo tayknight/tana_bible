@@ -1,0 +1,138 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 7,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 7,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 7017001,
+            "text": "\u00b6 And there was a man of the hill-country of Ephraim, whose name was Micah. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017002,
+            "text": "And he said unto his mother, The eleven hundred of silver that were taken from thee, about which thou didst utter <i>[a]</i>a curse, and didst also speak it in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be my son of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>an adjuration</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017003,
+            "text": "And he restored the eleven hundred of silver to his mother; and his mother said, I verily <i>[b]</i>dedicate the silver unto Jehovah from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>had dedicated</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017004,
+            "text": "And when he restored the money unto his mother, his mother took two hundred  of silver, and gave them to the founder, who made thereof a graven image and a molten image: and it was in the house of Micah. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017005,
+            "text": "And the man Micah had a house of <i>[c]</i>gods, and he made an ephod, and teraphim, and <i>[d]</i>consecrated one of his sons, who became his priest. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>God</i>"
+                },
+                {
+                    "d": "Hebrew <i>filled the hand of</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017006,
+            "text": "In those days there was no king in Israel: every man did that which was right in his own eyes.",
+            "version": "ASV",
+            "clsstr": "Judg-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017007,
+            "text": "\u00b6 And there was a young man out of Beth-lehem-judah, of the family of Judah, who was a Levite; and he sojourned there. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017008,
+            "text": "And the man departed out of the city, out of Beth-lehem-judah, to sojourn where he could find , and he came to the hill-country of Ephraim to the house of Micah, as he journeyed. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017009,
+            "text": "And Micah said unto him, Whence comest thou? And he said unto him, I am a Levite of Beth-lehem-judah, and I go to sojourn where I may find . ",
+            "version": "ASV",
+            "clsstr": "Judg-17-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017010,
+            "text": "And Micah said unto him, Dwell with me, and be unto me a father and a priest, and I will give thee ten  of silver by the year, and a suit of apparel, and thy victuals. So the Levite went in. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017011,
+            "text": "And the Levite was content to dwell with the man; and the young man was unto him as one of his sons. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017012,
+            "text": "And Micah consecrated the Levite, and the young man became his priest, and was in the house of Micah. ",
+            "version": "ASV",
+            "clsstr": "Judg-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7017013,
+            "text": "Then said Micah, Now know I that Jehovah will do me good, seeing I have a Levite to my priest.",
+            "version": "ASV",
+            "clsstr": "Judg-17-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Judges",
+    "chapters": 17
+}

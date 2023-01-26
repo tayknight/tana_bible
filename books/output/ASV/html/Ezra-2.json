@@ -1,0 +1,663 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 15,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 10,
+            "end_verse": 44,
+            "end_book": null
+        }
+    ],
+    "book": 15,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 15002001,
+            "text": "\u00b6 Now these are the children of the province, that went up out of the captivity of those that had been carried away, whom <i>[a]</i>Nebuchadnezzar the king of Babylon had carried away unto Babylon, and that returned unto Jerusalem and Judah, every one unto his city; ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Nebuchadnezzor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002002,
+            "text": "who came with Zerubbabel, Jeshua, Nehemiah, <i>[b]</i>Seraiah, <i>[c]</i>Reelaiah, Mordecai, Bilshan, <i>[d]</i>Mispar, Bigvai, <i>[e]</i>Rehum, Baanah.\u00b6 The number of the men of the people of Israel: ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-2",
+            "footnotes": [
+                {
+                    "b": "In [[Neh. 7:7]], <i>Azariah</i>."
+                },
+                {
+                    "c": "In [[Neh. 7:7]], <i>Raamiah</i>."
+                },
+                {
+                    "d": "In [[Neh. 7:7]], <i>Mispereth</i>."
+                },
+                {
+                    "e": "In [[Neh. 7:7]], <i>Nehum</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002003,
+            "text": "The children of Parosh, two thousand a hundred seventy and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002004,
+            "text": "The children of Shephatiah, three hundred seventy and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002005,
+            "text": "The children of Arah, seven hundred seventy and five. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002006,
+            "text": "The children of Pahath-moab, of the children of Jeshua  Joab, two thousand eight hundred and twelve. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002007,
+            "text": "The children of Elam, a thousand two hundred fifty and four. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002008,
+            "text": "The children of Zattu, nine hundred forty and five. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002009,
+            "text": "The children of Zaccai, seven hundred and threescore. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002010,
+            "text": "The children of <i>[f]</i>Bani, six hundred forty and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-10",
+            "footnotes": [
+                {
+                    "f": "In [[Neh. 7:15]], <i>Binnui</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002011,
+            "text": "The children of Bebai, six hundred twenty and three. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002012,
+            "text": "The children of Azgad, a thousand two hundred twenty and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002013,
+            "text": "The children of Adonikam, six hundred sixty and six. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002014,
+            "text": "The children of Bigvai, two thousand fifty and six. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002015,
+            "text": "The children of Adin, four hundred fifty and four. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002016,
+            "text": "The children of Ater, of Hezekiah, ninety and eight. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002017,
+            "text": "The children of Bezai, three hundred twenty and three. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002018,
+            "text": "The children of <i>[g]</i>Jorah, a hundred and twelve. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-18",
+            "footnotes": [
+                {
+                    "g": "In [[Neh. 7:24]], <i>Hariph</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002019,
+            "text": "The children of Hashum, two hundred twenty and three. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002020,
+            "text": "The children of <i>[h]</i>Gibbar, ninety and five. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-20",
+            "footnotes": [
+                {
+                    "h": "In [[Neh. 7:25]], <i>Gibeon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002021,
+            "text": "The children of Beth-lehem, a hundred twenty and three. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002022,
+            "text": "The men of Netophah, fifty and six. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002023,
+            "text": "The men of Anathoth, a hundred twenty and eight. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002024,
+            "text": "The children of <i>[i]</i>Azmaveth, forty and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-24",
+            "footnotes": [
+                {
+                    "i": "In [[Neh. 7:28]], <i>Beth-azmaveth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002025,
+            "text": "The children of <i>[j]</i>Kiriath-arim, Chephirah, and Beeroth, seven hundred and forty and three. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-25",
+            "footnotes": [
+                {
+                    "j": "In [[Neh. 7:29]], <i>Kiriath-jearim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002026,
+            "text": "The children of Ramah and Geba, six hundred twenty and one. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002027,
+            "text": "The men of Michmas, a hundred twenty and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002028,
+            "text": "The men of Beth-el and Ai, two hundred twenty and three. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002029,
+            "text": "The children of Nebo, fifty and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002030,
+            "text": "The children of Magbish, a hundred fifty and six. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002031,
+            "text": "The children of the other Elam, a thousand two hundred fifty and four. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002032,
+            "text": "The children of Harim, three hundred and twenty. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002033,
+            "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and five. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002034,
+            "text": "The children of Jericho, three hundred forty and five. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002035,
+            "text": "The children of Senaah, three thousand and six hundred and thirty.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002036,
+            "text": "\u00b6 The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002037,
+            "text": "The children of Immer, a thousand fifty and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002038,
+            "text": "The children of Pashhur, a thousand two hundred forty and seven. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002039,
+            "text": "The children of Harim, a thousand and seventeen.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002040,
+            "text": "\u00b6 The Levites: the children of Jeshua and Kadmiel, of the children of <i>[k]</i>Hodaviah, seventy and four. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-40",
+            "footnotes": [
+                {
+                    "k": "In [[3:9]], <i>Judah</i>. In [[Neh. 7:43]], <i>Hodevah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002041,
+            "text": "The singers: the children of Asaph, a hundred twenty and eight. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002042,
+            "text": "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all a hundred thirty and nine.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002043,
+            "text": "\u00b6 The Nethinim: the children of Ziha, the children of Hasupha, the children of Tabbaoth, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002044,
+            "text": "the children of Keros, the children of <i>[l]</i>Siaha, the children of Padon, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-44",
+            "footnotes": [
+                {
+                    "l": "In [[Neh. 7:47]], <i>Sia</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002045,
+            "text": "the children of Lebanah, the children of Hagabah, the children of Akkub, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002046,
+            "text": "the children of Hagab, the children of <i>[m]</i>Shamlai, the children of Hanan, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-46",
+            "footnotes": [
+                {
+                    "m": "In [[Neh. 7:48]], <i>Salmai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002047,
+            "text": "the children of Giddel, the children of Gahar, the children of Reaiah, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002048,
+            "text": "the children of Rezin, the children of Nekoda, the children of Gazzam, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002049,
+            "text": "the children of Uzza, the children of Paseah, the children of Besai, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002050,
+            "text": "the children of Asnah, the children of Meunim, the children of <i>[n]</i>Nephisim, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-50",
+            "footnotes": [
+                {
+                    "n": "Another reading is, <i>Nephusim</i>. In [[Neh. 7:52]], <i>Nephushesim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002051,
+            "text": "the children of Bakbuk, the children of Hakupha, the children of Harhur, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002052,
+            "text": "the children of <i>[o]</i>Bazluth, the children of Mehida, the children of Harsha, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-52",
+            "footnotes": [
+                {
+                    "o": "In [[Neh. 7:54]], <i>Bazlith</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002053,
+            "text": "the children of Barkos, the children of Sisera, the children of Temah, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002054,
+            "text": "the children of Neziah, the children of Hatipha.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002055,
+            "text": "\u00b6 The children of Solomon\u2019s servants: the children of Sotai, the children of <i>[p]</i>Hassophereth, the children of <i>[q]</i>Peruda, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-55",
+            "footnotes": [
+                {
+                    "p": "In [[Neh. 7:57]], <i>Sophereth</i>."
+                },
+                {
+                    "q": "In [[Neh. 7:57]], <i>Perida</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002056,
+            "text": "the children of Jaalah, the children of Darkon, the children of Giddel, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002057,
+            "text": "the children of Shephatiah, the children of Hattil, the children of Pochereth-hazzebaim, the children of <i>[r]</i>Ami. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-57",
+            "footnotes": [
+                {
+                    "r": "In [[Neh. 7:59]], <i>Amon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002058,
+            "text": "All the Nethinim, and the children of Solomon\u2019s servants, were three hundred ninety and two.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002059,
+            "text": "\u00b6 And these were they that went up from Tel-melah, Tel-harsha, Cherub, <i>[s]</i>Addan,  Immer; but they could not show their fathers\u2019 houses, and their seed, whether they were of Israel: ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-59",
+            "footnotes": [
+                {
+                    "s": "In [[Neh. 7:61]], <i>Addon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002060,
+            "text": "the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002061,
+            "text": "And of the children of the priests: the children of <i>[t]</i>Habaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-61",
+            "footnotes": [
+                {
+                    "t": "In [[Neh. 7:63]], <i>Hobaiah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002062,
+            "text": "These sought their register those that were reckoned by genealogy, but they were not found: therefore <i>[u]</i>were they deemed polluted and put from the priesthood. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-62",
+            "footnotes": [
+                {
+                    "u": "Hebrew <i>they were polluted from the priesthood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002063,
+            "text": "And the governor said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002064,
+            "text": "\u00b6 The whole assembly together was forty and two thousand three hundred and threescore, ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002065,
+            "text": "besides their men-servants and their maid-servants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred singing men and singing women. ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002066,
+            "text": "Their horses were seven hundred thirty and six; their mules, two hundred forty and five; ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002067,
+            "text": "their camels, four hundred thirty and five;  asses, six thousand seven hundred and twenty.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-67",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002068,
+            "text": "\u00b6 And some of the heads of fathers\u2019 , when they came to the house of Jehovah which is in Jerusalem, offered willingly for the house of God to set it up in its place: ",
+            "version": "ASV",
+            "clsstr": "Ezra-2-68",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002069,
+            "text": "they gave after their ability into the treasury of the work threescore and one thousand darics of gold, and five thousand <i>[v]</i>pounds of silver, and one hundred priests\u2019 garments.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-69",
+            "footnotes": [
+                {
+                    "v": "Hebrew <i>maneh</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15002070,
+            "text": "\u00b6 So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinim, dwelt in their cities, and all Israel in their cities.",
+            "version": "ASV",
+            "clsstr": "Ezra-2-70",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezra",
+    "chapters": 2
+}

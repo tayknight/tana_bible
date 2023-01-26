@@ -1,0 +1,495 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3014001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-14-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014002,
+            "text": "This shall be the law of the leper in the day of his cleansing: he shall be brought unto the priest: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014003,
+            "text": "and the priest shall go forth out of the camp; and the priest shall look; and, behold, if the plague of leprosy be healed in the leper, ",
+            "version": "ASV",
+            "clsstr": "Lev-14-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014004,
+            "text": "then shall the priest command to take for him that is to be cleansed two living clean birds, and cedar wood, and scarlet, and hyssop: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014005,
+            "text": "and the priest shall command to kill one of the birds in an earthen vessel over <i>[a]</i>running water. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>living</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014006,
+            "text": "As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the <i>[b]</i>running water: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-6",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>living</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014007,
+            "text": "and he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let go the living bird into the open field. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014008,
+            "text": "And he that is to be cleansed shall wash his clothes, and shave off all his hair, and bathe himself in water; and he shall be clean: and after that he shall come into the camp, but shall dwell outside his tent seven days. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014009,
+            "text": "And it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, and he shall bathe his flesh in water, and he shall be clean.",
+            "version": "ASV",
+            "clsstr": "Lev-14-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014010,
+            "text": "\u00b6 And on the eighth day he shall take two he-lambs without blemish, and one ewe-lamb a year old without blemish, and three tenth parts  of fine flour for a meal-offering, mingled with oil, and one log of oil. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014011,
+            "text": "And the priest that cleanseth him shall set the man that is to be cleansed, and those things, before Jehovah, at the door of the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014012,
+            "text": "And the priest shall take one of the he-lambs, and offer him for a trespass-offering, and the log of oil, and wave them for a wave-offering before Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014013,
+            "text": "and he shall kill the he-lamb in the place where they kill the sin-offering and the burnt-offering, in the place of the sanctuary: for as the sin-offering is the priest\u2019s, so is the trespass-offering: it is most holy. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014014,
+            "text": "And the priest shall take of the blood of the trespass-offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014015,
+            "text": "And the priest shall take of the log of oil, and pour it into the palm of his own left hand; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014016,
+            "text": "and the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014017,
+            "text": "And of the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass-offering: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014018,
+            "text": "and the rest of the oil that is in the priest\u2019s hand he shall put upon the head of him that is to be cleansed: and the priest shall make atonement for him before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014019,
+            "text": "And the priest shall offer the sin-offering, and make atonement for him that is to be cleansed because of his uncleanness: and afterward he shall kill the burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014020,
+            "text": "and the priest shall offer the burnt-offering and the meal-offering upon the altar: and the priest shall make atonement for him, and he shall be clean.",
+            "version": "ASV",
+            "clsstr": "Lev-14-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014021,
+            "text": "\u00b6 And if he be poor, and cannot get so much, then he shall take one he-lamb for a trespass-offering to be waved, to make atonement for him, and one tenth part  of fine flour mingled with oil for a meal-offering, and a log of oil; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014022,
+            "text": "and two turtle-doves, or two young pigeons, such as he is able to get; and the one shall be a sin-offering, and the other a burnt-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014023,
+            "text": "And on the eighth day he shall bring them for his cleansing unto the priest, unto the door of the tent of meeting, before Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014024,
+            "text": "and the priest shall take the lamb of the trespass-offering, and the log of oil, and the priest shall wave them for a wave-offering before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014025,
+            "text": "And he shall kill the lamb of the trespass-offering; and the priest shall take of the blood of the trespass-offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014026,
+            "text": "And the priest shall pour of the oil into the palm of his own left hand; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014027,
+            "text": "and the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014028,
+            "text": "and the priest shall put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass-offering: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014029,
+            "text": "and the rest of the oil that is in the priest\u2019s hand he shall put upon the head of him that is to be cleansed, to make atonement for him before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014030,
+            "text": "And he shall offer one of the turtle-doves, or of the young pigeons, such as he is able to get, ",
+            "version": "ASV",
+            "clsstr": "Lev-14-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014031,
+            "text": "even such as he is able to get, the one for a sin-offering, and the other for a burnt-offering, with the meal-offering: and the priest shall make atonement for him that is to be cleansed before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014032,
+            "text": "This is the law of him in whom is the plague of leprosy, who is not able to get  to his cleansing.",
+            "version": "ASV",
+            "clsstr": "Lev-14-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014033,
+            "text": "\u00b6 And Jehovah spake unto Moses and unto Aaron, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-14-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014034,
+            "text": "When ye are come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014035,
+            "text": "then he that owneth the house shall come and tell the priest, saying, There seemeth to me to be as it were a plague in the house. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014036,
+            "text": "And the priest shall command that they empty the house, before the priest goeth in to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014037,
+            "text": "and he shall look on the plague; and, behold, if the plague be in the walls of the house with hollow streaks, greenish or reddish, and the appearance thereof be lower than the wall; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014038,
+            "text": "then the priest shall go out of the house to the door of the house, and shut up the house seven days. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014039,
+            "text": "And the priest shall come again the seventh day, and shall look; and, behold, if the plague be spread in the walls of the house; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014040,
+            "text": "then the priest shall command that they take out the stones in which the plague is, and cast them into an unclean place without the city: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014041,
+            "text": "and he shall cause the house to be scraped within round about, and they shall pour out the mortar, that they scrape off, without the city into an unclean place: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014042,
+            "text": "and they shall take other stones, and put them in the place of those stones; and he shall take other mortar, and shall plaster the house.",
+            "version": "ASV",
+            "clsstr": "Lev-14-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014043,
+            "text": "\u00b6 And if the plague come again, and break out in the house, after that he hath taken out the stones, and after he hath scraped the house, and after it is plastered; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014044,
+            "text": "then the priest shall come in and look; and, behold, if the plague be spread in the house, it is a fretting leprosy in the house: it is unclean. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014045,
+            "text": "And he shall break down the house, the stones of it, and the timber thereof, and all the mortar of the house; and he shall carry them forth out of the city into an unclean place. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014046,
+            "text": "Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014047,
+            "text": "And he that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes.",
+            "version": "ASV",
+            "clsstr": "Lev-14-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014048,
+            "text": "\u00b6 And if the priest shall come in, and look, and, behold, the plague hath not spread in the house, after the house was plastered; then the priest shall pronounce the house clean, because the plague is healed. ",
+            "version": "ASV",
+            "clsstr": "Lev-14-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014049,
+            "text": "And he shall take to cleanse the house two birds, and cedar-wood, and scarlet, and hyssop: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014050,
+            "text": "and he shall kill one of the birds in an earthen vessel over <i>[c]</i>running water: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-50",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>living</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014051,
+            "text": "and he shall take the cedar-wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the <i>[d]</i>running water, and sprinkle the house seven times: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-51",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>living</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014052,
+            "text": "and he shall cleanse the house with the blood of the bird, and with the <i>[e]</i>running water, and with the living bird, and with the cedar-wood, and with the hyssop, and with the scarlet: ",
+            "version": "ASV",
+            "clsstr": "Lev-14-52",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>living</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014053,
+            "text": "but he shall let go the living bird out of the city into the open field: so shall he make atonement for the house; and it shall be clean.",
+            "version": "ASV",
+            "clsstr": "Lev-14-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014054,
+            "text": "\u00b6 This is the law for all manner of plague of leprosy, and for a scall, ",
+            "version": "ASV",
+            "clsstr": "Lev-14-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014055,
+            "text": "and for the leprosy of a garment, and for a house, ",
+            "version": "ASV",
+            "clsstr": "Lev-14-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014056,
+            "text": "and for a rising, and for a scab, and for a bright spot; ",
+            "version": "ASV",
+            "clsstr": "Lev-14-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3014057,
+            "text": "to teach when it is unclean, and when it is clean: this is the law of leprosy.",
+            "version": "ASV",
+            "clsstr": "Lev-14-57",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 14
+}

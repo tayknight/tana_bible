@@ -1,0 +1,135 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19096001,
+            "text": "<b>A call to worship Jehovah the Righteous Judge.</b>\n\u00b6     Oh sing unto Jehovah a new song:\n    Sing unto Jehovah, all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096002,
+            "text": "    Sing unto Jehovah, bless his name;\n    Show forth his salvation from day to day.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096003,
+            "text": "    Declare his glory among the nations,\n    His marvellous works among all the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096004,
+            "text": "    For great is Jehovah, and greatly to be praised:\n    He is to be feared above all gods.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096005,
+            "text": "  For all the gods of the peoples are <i>[a]</i>idols;\n    But Jehovah made the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>things of nought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096006,
+            "text": "    Honor and majesty are before him:\n    Strength and beauty are in his sanctuary.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096007,
+            "text": "    Ascribe unto Jehovah, ye kindreds of the peoples,\n    Ascribe unto Jehovah glory and strength.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096008,
+            "text": "    Ascribe unto Jehovah the glory due unto his name:\n    Bring an offering, and come into his courts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096009,
+            "text": "  Oh worship Jehovah <i>[b]</i>in holy array:\n    Tremble before him, all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in the beauty of holiness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096010,
+            "text": "    Say among the nations, Jehovah reigneth:\n    The world also is established that it cannot be moved:\n    He will judge the peoples with equity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096011,
+            "text": "    Let the heavens be glad, and let the earth rejoice;\n    Let the sea roar, and the fulness thereof;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096012,
+            "text": "    Let the field exult, and all that is therein;\n    Then shall all the trees of the wood sing for joy\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19096013,
+            "text": "  Before Jehovah; for he cometh,\n  For he cometh to judge the earth:\n  He will judge the world with righteousness,\n  And the peoples <i>[c]</i>with his truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-96-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in his faithfulness</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 96
+}

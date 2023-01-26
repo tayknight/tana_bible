@@ -1,0 +1,98 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19061001,
+            "text": "<b>Confidence in God\u2019s protection.</b>\n\u00b6 For the Chief Musician; on a stringed instrument.  of David.\u00b6     Hear my cry, O God;\n    Attend unto my prayer.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19061002,
+            "text": " From the end of the earth will I call unto thee, when my heart <i>[a]</i>is overwhelmed:\n  Lead me to <i>[b]</i>the rock that is higher than I.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>fainteth</i>"
+                },
+                {
+                    "b": "Or, <i>a rock that is too high for me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19061003,
+            "text": "    For thou hast been a refuge for me,\n    A strong tower from the enemy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19061004,
+            "text": "  I will dwell in thy <i>[c]</i>tabernacle for ever:\n    I will take refuge in the covert of thy wings. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-4",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>tent</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19061005,
+            "text": "  For thou, O God, hast heard my vows:\n  Thou hast <i>[d]</i>given  the heritage of those that fear thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>given a heritage unto those etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19061006,
+            "text": "    Thou wilt prolong the king\u2019s life;\n    His years shall be as many generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19061007,
+            "text": "    He shall abide before God for ever:\n    Oh prepare lovingkindness and truth, that they may preserve him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19061008,
+            "text": "    So will I sing praise unto thy name for ever,\n    That I may daily perform my vows.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-61-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 61
+}

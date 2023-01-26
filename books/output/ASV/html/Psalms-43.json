@@ -1,0 +1,67 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19043001,
+            "text": "<b>Prayer for deliverance.</b>\n\u00b6     Judge me, O God, and plead my cause against an ungodly nation:\n    Oh deliver me from the deceitful and unjust man.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-43-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19043002,
+            "text": "  For thou art the God of my strength; why hast thou cast me off?\n  Why go I mourning <i>[a]</i>because of the oppression of the enemy?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-43-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>while the enemy oppresseth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19043003,
+            "text": "    Oh send out thy light and thy truth; let them lead me:\n    Let them bring me unto thy holy hill,\n    And to thy tabernacles.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-43-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19043004,
+            "text": "  Then will I go unto the altar of God,\n  Unto God <i>[b]</i>my exceeding joy;\n    And upon the harp will I praise thee, O God, my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-43-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>the gladness of my joy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19043005,
+            "text": "    Why art thou cast down, O my soul?\n    And why art thou disquieted within me?\n    Hope thou in God; for I shall yet praise him,\n     the help of my countenance, and my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-43-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 43
+}

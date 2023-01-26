@@ -1,0 +1,250 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 61,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 18,
+            "end_book": null
+        }
+    ],
+    "book": 61,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 61001001,
+            "text": "\u00b6 <i>[a]</i>Simon Peter, a <i>[b]</i>servant and apostle of Jesus Christ, to them that have obtained <i>[c]</i>a like precious faith with us in the righteousness of <i>[d]</i>our God and  Saviour Jesus Christ: ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-1",
+            "footnotes": [
+                {
+                    "a": "Many ancient authorities read <i>Symeon</i>. See [[Acts 15:14]]."
+                },
+                {
+                    "b": "Greek <i>bondservant</i>."
+                },
+                {
+                    "c": "Greek <i>an equally precious</i>."
+                },
+                {
+                    "d": "Or, <i>our God and Saviour</i>. Compare [[verse 11]]; [[2:20]]; [[3:18]]; [[Titus 2:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001002,
+            "text": "Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord; ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001003,
+            "text": "seeing that his divine power hath granted unto us all things that pertain unto life and godliness, through the knowledge of him that called us <i>[e]</i>by his own glory and virtue; ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-3",
+            "footnotes": [
+                {
+                    "e": "Some ancient authorities read <i>through glory and virtue</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001004,
+            "text": "whereby he hath granted unto us his precious and exceeding great promises; that through these ye may become partakers of <i>[f]</i>the divine nature, having escaped from the corruption that is in the world by lust. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-4",
+            "footnotes": [
+                {
+                    "f": "Or, <i>a</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001005,
+            "text": "Yea, and for this very cause adding on your part all diligence, in your faith supply virtue; and in  virtue knowledge; ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001006,
+            "text": "and in knowledge self-control; and in self-control <i>[g]</i>patience; and in  <i>[h]</i>patience godliness; ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-6",
+            "footnotes": [
+                {
+                    "g": "Or, <i>stedfastness</i>"
+                },
+                {
+                    "h": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001007,
+            "text": "and in godliness <i>[i]</i>brotherly kindness; and in  <i>[j]</i>brotherly kindness love. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-7",
+            "footnotes": [
+                {
+                    "i": "Greek <i>love of the brethren</i>."
+                },
+                {
+                    "j": "Greek <i>love of the brethren</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001008,
+            "text": "For if these things are yours and abound, they make you to be not idle nor unfruitful unto the knowledge of our Lord Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001009,
+            "text": "For he that lacketh these things is blind, <i>[k]</i>seeing only what is near, having forgotten the cleansing from his old sins. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-9",
+            "footnotes": [
+                {
+                    "k": "Or, <i>closing his eyes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001010,
+            "text": "Wherefore, brethren, give the more diligence to make your calling and election sure: for if ye do these things, ye shall never stumble: ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001011,
+            "text": "for thus shall be richly supplied unto you the entrance into the eternal kingdom of our Lord and Saviour Jesus Christ.",
+            "version": "ASV",
+            "clsstr": "2Pet-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001012,
+            "text": "\u00b6 Wherefore I shall be ready always to put you in remembrance of these things, though ye know them, and are established in the truth which is with . ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001013,
+            "text": "And I think it right, as long as I am in this tabernacle, to stir you up by putting you in remembrance; ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001014,
+            "text": "knowing that the putting off of my tabernacle cometh swiftly, even as our Lord Jesus Christ signified unto me. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001015,
+            "text": "Yea, I will give diligence that at every time ye may be able after my <i>[l]</i>decease to call these things to remembrance. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-15",
+            "footnotes": [
+                {
+                    "l": "Or, <i>departure</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001016,
+            "text": "For we did not follow cunningly devised fables, when we made known unto you the power and <i>[m]</i>coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-16",
+            "footnotes": [
+                {
+                    "m": "Greek <i>presence</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001017,
+            "text": "For he <i>[n]</i>received from God the Father honor and glory, when there was borne such a voice to him by the Majestic Glory, This is my beloved Son, in whom I am well pleased: ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-17",
+            "footnotes": [
+                {
+                    "n": "Greek <i>having received</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001018,
+            "text": "and this voice we  heard borne out of heaven, when we were with him in the holy mount. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001019,
+            "text": "And we have the word of prophecy more sure; whereunto ye do well that ye take heed, as unto a lamp shining in a <i>[o]</i>dark place, until the day dawn, and the day-star arise in your hearts: ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-19",
+            "footnotes": [
+                {
+                    "o": "Greek <i>squalid</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001020,
+            "text": "knowing this first, that no prophecy of scripture is of <i>[p]</i>private interpretation. ",
+            "version": "ASV",
+            "clsstr": "2Pet-1-20",
+            "footnotes": [
+                {
+                    "p": "Or, <i>special</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 61001021,
+            "text": "For no prophecy ever <i>[q]</i>came by the will of man: but men spake from God, being moved by the Holy Spirit.",
+            "version": "ASV",
+            "clsstr": "2Pet-1-21",
+            "footnotes": [
+                {
+                    "q": "Greek <i>was brought</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Peter",
+    "chapters": 1
+}

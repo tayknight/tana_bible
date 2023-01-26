@@ -1,0 +1,238 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5023001,
+            "text": "\u00b6 He that is wounded in the stones, or hath his privy member cut off, shall not enter into the assembly of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Deut-23-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023002,
+            "text": "\u00b6 A bastard shall not enter into the assembly of Jehovah; even to the tenth generation shall none of his enter into the assembly of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Deut-23-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023003,
+            "text": "\u00b6 An Ammonite or a Moabite shall not enter into the assembly of Jehovah; even to the tenth generation shall none belonging to them enter into the assembly of Jehovah for ever: ",
+            "version": "ASV",
+            "clsstr": "Deut-23-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023004,
+            "text": "because they met you not with bread and with water in the way, when ye came forth out of Egypt, and because they hired against thee Balaam the son of Beor from Pethor of <i>[a]</i>Mesopotamia, to curse thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Aram-naharaim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023005,
+            "text": "Nevertheless Jehovah thy God would not hearken unto Balaam; but Jehovah thy God turned the curse into a blessing unto thee, because Jehovah thy God loved thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023006,
+            "text": "Thou shalt not seek their peace nor their prosperity all thy days for ever.",
+            "version": "ASV",
+            "clsstr": "Deut-23-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023007,
+            "text": "\u00b6 Thou shalt not abhor an Edomite; for he is thy brother: thou shalt not abhor an Egyptian; because thou wast a sojourner in his land. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023008,
+            "text": "The children of the third generation that are born unto them shall enter into the assembly of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Deut-23-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023009,
+            "text": "\u00b6 When thou goest forth in camp against thine enemies, then thou shalt keep thee from every evil thing. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023010,
+            "text": "If there be among you any man, that is not clean by reason of that which chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp: ",
+            "version": "ASV",
+            "clsstr": "Deut-23-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023011,
+            "text": "but it shall be, when evening cometh on, he shall bathe himself in water; and when the sun is down, he shall come within the camp. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023012,
+            "text": "Thou shalt have a place also without the camp, whither thou shalt go forth abroad: ",
+            "version": "ASV",
+            "clsstr": "Deut-23-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023013,
+            "text": "and thou shalt have a <i>[b]</i>paddle among thy weapons; and it shall be, when thou sittest down abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee: ",
+            "version": "ASV",
+            "clsstr": "Deut-23-13",
+            "footnotes": [
+                {
+                    "b": "Or, <i>shovel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023014,
+            "text": "for Jehovah thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy, that he may not see <i>[c]</i>an unclean thing in thee, and turn away from thee.",
+            "version": "ASV",
+            "clsstr": "Deut-23-14",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>nakedness of anything</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023015,
+            "text": "\u00b6 Thou shalt not deliver unto his master a servant that is escaped from his master unto thee: ",
+            "version": "ASV",
+            "clsstr": "Deut-23-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023016,
+            "text": "he shall dwell with thee, in the midst of thee, in the place which he shall choose within one of thy gates, where it pleaseth him best: thou shalt not oppress him.",
+            "version": "ASV",
+            "clsstr": "Deut-23-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023017,
+            "text": "\u00b6 There shall be no <i>[d]</i>prostitute of the daughters of Israel, neither shall there be a <i>[e]</i>sodomite of the sons of Israel. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-17",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>kedeshah</i>. See [[Gen. 38:21]]."
+                },
+                {
+                    "e": "Hebrew <i>kadesh</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023018,
+            "text": "Thou shalt not bring the hire of a harlot, or the wages of a dog, into the house of Jehovah thy God for any vow: for even both these are an abomination unto Jehovah thy God.",
+            "version": "ASV",
+            "clsstr": "Deut-23-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023019,
+            "text": "\u00b6 Thou shalt not lend upon interest to thy brother; interest of money, interest of victuals, interest of anything that is lent upon interest. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023020,
+            "text": "Unto a foreigner thou mayest lend upon interest; but unto thy brother thou shalt not lend upon interest, that Jehovah thy God may bless thee in all that thou puttest thy hand unto, in the land whither thou goest in to possess it.",
+            "version": "ASV",
+            "clsstr": "Deut-23-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023021,
+            "text": "\u00b6 When thou shalt vow a vow unto Jehovah thy God, thou shalt not be slack to pay it: for Jehovah thy God will surely require it of thee; and it would be sin in thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023022,
+            "text": "But if thou shalt forbear to vow, it shall be no sin in thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023023,
+            "text": "That which is gone out of thy lips thou shalt observe and do; according as thou hast vowed unto Jehovah thy God, a freewill-offering, which thou hast promised with thy mouth.",
+            "version": "ASV",
+            "clsstr": "Deut-23-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023024,
+            "text": "\u00b6 When thou comest into thy neighbor\u2019s vineyard, then thou mayest eat of grapes thy fill at thine own pleasure; but thou shalt not put any in thy vessel. ",
+            "version": "ASV",
+            "clsstr": "Deut-23-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5023025,
+            "text": "When thou comest into thy neighbor\u2019s standing grain, then thou mayest pluck the ears with thy hand; but thou shalt not move a sickle unto thy neighbor\u2019s standing grain.",
+            "version": "ASV",
+            "clsstr": "Deut-23-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 23
+}

@@ -1,0 +1,230 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 35,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 19,
+            "end_book": null
+        }
+    ],
+    "book": 35,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 35002001,
+            "text": "\u00b6 I will stand upon my watch, and set me upon the <i>[a]</i>tower, and will look forth to see what he will speak <i>[b]</i>with me, and what I shall answer concerning my complaint. ",
+            "version": "ASV",
+            "clsstr": "Hab-2-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>fortress</i>"
+                },
+                {
+                    "b": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002002,
+            "text": "And Jehovah answered me, and said, Write the vision, and make it plain upon tablets, that he may run that readeth it. ",
+            "version": "ASV",
+            "clsstr": "Hab-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002003,
+            "text": "For the vision is yet for the appointed time, and it <i>[c]</i>hasteth toward the end, and shall not lie: though it tarry, wait for it; because it will surely come, it will not delay.",
+            "version": "ASV",
+            "clsstr": "Hab-2-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>panteth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002004,
+            "text": "\u00b6 Behold, his soul is puffed up, it is not <i>[d]</i>upright in him; but the righteous shall live <i>[e]</i>by his faith. ",
+            "version": "ASV",
+            "clsstr": "Hab-2-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>straight</i>"
+                },
+                {
+                    "e": "Or, <i>in his faithfulness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002005,
+            "text": " <i>[f]</i>Yea, moreover, wine is treacherous, a haughty man, <i>[g]</i>that keepeth not at home; who enlargeth his desire as Sheol, and he is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all peoples. ",
+            "version": "ASV",
+            "clsstr": "Hab-2-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>And also because his wine\u00a0.\u00a0.\u00a0. he is a haughty man</i>"
+                },
+                {
+                    "g": "Or, <i>he shall not abide</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002006,
+            "text": "Shall not all these take up a parable against him, and a taunting <i>[h]</i>proverb against him, and say, Woe to him that increaseth that which is not his! how long? and that ladeth himself with pledges! ",
+            "version": "ASV",
+            "clsstr": "Hab-2-6",
+            "footnotes": [
+                {
+                    "h": "Or, <i>riddle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002007,
+            "text": "Shall they not rise up suddenly that shall <i>[i]</i>bite thee, and awake that shall <i>[j]</i>vex thee, and thou shalt be for booty unto them? ",
+            "version": "ASV",
+            "clsstr": "Hab-2-7",
+            "footnotes": [
+                {
+                    "i": "Or, <i>exact usury of thee</i>"
+                },
+                {
+                    "j": "Or, <i>toss thee to and fro</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002008,
+            "text": "Because thou hast plundered many nations, all the remnant of the peoples shall plunder thee, because of men\u2019s blood, and for the violence done to the land, to the city and to all that dwell therein.",
+            "version": "ASV",
+            "clsstr": "Hab-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002009,
+            "text": "\u00b6 Woe to him that getteth an evil gain for his house, that he may set his nest on high, that he may be delivered from the hand of evil! ",
+            "version": "ASV",
+            "clsstr": "Hab-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002010,
+            "text": "Thou hast devised shame to thy house, by cutting off many peoples, and hast sinned against thy soul. ",
+            "version": "ASV",
+            "clsstr": "Hab-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002011,
+            "text": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it.",
+            "version": "ASV",
+            "clsstr": "Hab-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002012,
+            "text": "\u00b6 Woe to him that buildeth a town with blood, and establisheth a city by iniquity! ",
+            "version": "ASV",
+            "clsstr": "Hab-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002013,
+            "text": "Behold, is it not of Jehovah of hosts that the peoples labor for the fire, and the nations weary themselves for vanity? ",
+            "version": "ASV",
+            "clsstr": "Hab-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002014,
+            "text": "For the earth shall be filled with the knowledge of the glory of Jehovah, as the waters cover the sea.",
+            "version": "ASV",
+            "clsstr": "Hab-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002015,
+            "text": "\u00b6 Woe unto him that giveth his neighbor drink, that <i>[k]</i>addest thy <i>[l]</i>venom, and makest him drunken also, that thou mayest look on their nakedness! ",
+            "version": "ASV",
+            "clsstr": "Hab-2-15",
+            "footnotes": [
+                {
+                    "k": "Or, <i>pourest</i>"
+                },
+                {
+                    "l": "Or, <i>fury</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002016,
+            "text": "Thou art filled with shame, and not glory: drink thou also, and <i>[m]</i>be as one uncircumcised; the cup of Jehovah\u2019s right hand shall come round unto thee, and foul shame shall be upon thy glory. ",
+            "version": "ASV",
+            "clsstr": "Hab-2-16",
+            "footnotes": [
+                {
+                    "m": "Or, <i>let thy foreskin be uncovered</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002017,
+            "text": "For the violence done to Lebanon shall cover thee, and the destruction of the beasts, which made them afraid; because of men\u2019s blood, and for the violence done to the land, to the city and to all that dwell therein.",
+            "version": "ASV",
+            "clsstr": "Hab-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002018,
+            "text": "\u00b6 What profiteth the graven image, that the maker thereof hath graven it; the molten image, even the teacher of lies, that he that fashioneth its form trusteth therein, to make dumb idols? ",
+            "version": "ASV",
+            "clsstr": "Hab-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002019,
+            "text": "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise! Shall this teach? Behold, it is overlaid with gold and silver, and there is no breath at all in the midst of it. ",
+            "version": "ASV",
+            "clsstr": "Hab-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35002020,
+            "text": "But Jehovah is in his holy temple: <i>[n]</i>let all the earth keep silence before him.",
+            "version": "ASV",
+            "clsstr": "Hab-2-20",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>be silent before him, all the earth</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Habakkuk",
+    "chapters": 2
+}

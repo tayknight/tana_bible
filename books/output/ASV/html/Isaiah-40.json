@@ -1,0 +1,331 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23040001,
+            "text": "\u00b6 Comfort ye, comfort ye my people, saith your God. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040002,
+            "text": "Speak ye <i>[a]</i>comfortably to Jerusalem; and cry unto her, that her <i>[b]</i>warfare is accomplished, that her <i>[c]</i>iniquity is pardoned, that she hath received of Jehovah\u2019s hand double for all her sins.",
+            "version": "ASV",
+            "clsstr": "Isa-40-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>to the heart of</i>."
+                },
+                {
+                    "b": "Or, <i>time of service</i>"
+                },
+                {
+                    "c": "Or, <i>punishment is accepted</i>. See [[Lev. 26:43]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040003,
+            "text": "\u00b6 The voice of one <i>[d]</i>that crieth, Prepare ye in the wilderness the way of Jehovah; make level in the desert a highway for our God. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>that crieth in the wilderness, Prepare ye the way etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040004,
+            "text": "Every valley shall be exalted, and every mountain and hill shall be made low; and the uneven shall be made level, and the rough places a plain: ",
+            "version": "ASV",
+            "clsstr": "Isa-40-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040005,
+            "text": "and the glory of Jehovah shall be revealed, and all flesh shall see it together; for the mouth of Jehovah hath spoken it.",
+            "version": "ASV",
+            "clsstr": "Isa-40-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040006,
+            "text": "\u00b6 The voice of one saying, Cry. And one said, What shall I cry? All flesh is grass, and all the goodliness thereof is as the flower of the field. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040007,
+            "text": "The grass withereth, the flower fadeth, because the breath of Jehovah bloweth upon it; surely the people is grass. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040008,
+            "text": "The grass withereth, the flower fadeth; but the word of our God shall stand forever.",
+            "version": "ASV",
+            "clsstr": "Isa-40-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040009,
+            "text": "\u00b6 <i>[e]</i>O thou that tellest good tidings to Zion, get thee up on a high mountain; <i>[f]</i>O thou that tellest good tidings to Jerusalem, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold, your God! ",
+            "version": "ASV",
+            "clsstr": "Isa-40-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>O Zion, that bringest good tidings</i>"
+                },
+                {
+                    "f": "Or, <i>O Jerusalem, that bringest good tidings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040010,
+            "text": "Behold, the Lord Jehovah will come as a mighty one, and his arm will rule for him: Behold, his reward is with him, and his recompense before him. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040011,
+            "text": "He will feed his flock like a shepherd, he will gather the lambs in his arm, and carry them in his bosom,  will gently lead those that have their young.",
+            "version": "ASV",
+            "clsstr": "Isa-40-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040012,
+            "text": "\u00b6 Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance? ",
+            "version": "ASV",
+            "clsstr": "Isa-40-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040013,
+            "text": "Who hath <i>[g]</i>directed the Spirit of Jehovah, or being his counsellor hath taught him? ",
+            "version": "ASV",
+            "clsstr": "Isa-40-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>meted out</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040014,
+            "text": "With whom took he counsel, and who instructed him, and taught him in the path of justice, and taught him knowledge, and showed to him the way of understanding? ",
+            "version": "ASV",
+            "clsstr": "Isa-40-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040015,
+            "text": "Behold, the nations are as a drop of a bucket, and are accounted as the small dust of the balance: behold, <i>[h]</i>he taketh up the isles as a very little thing. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>the isles are as the fine dust that is lifted up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040016,
+            "text": "And Lebanon is not sufficient to burn, nor the beasts thereof sufficient for a burnt-offering. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040017,
+            "text": "All the nations are as nothing before him; they are accounted by him as <i>[i]</i>less than nothing, and <i>[j]</i>vanity.",
+            "version": "ASV",
+            "clsstr": "Isa-40-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>as a thing of nought</i>"
+                },
+                {
+                    "j": "Or, <i>confusion</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040018,
+            "text": "\u00b6 To whom then will ye liken God? or what likeness will ye compare unto him? ",
+            "version": "ASV",
+            "clsstr": "Isa-40-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040019,
+            "text": "The image, a workman hath cast , and the goldsmith overlayeth it with gold, and casteth  silver chains. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040020,
+            "text": "He that is too impoverished for an oblation chooseth a tree that will not rot; he seeketh unto him a skilful workman to <i>[k]</i>set up a graven image, that shall not be moved. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-20",
+            "footnotes": [
+                {
+                    "k": "Or, <i>prepare</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040021,
+            "text": "Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not <i>[l]</i>understood from the foundations of the earth? ",
+            "version": "ASV",
+            "clsstr": "Isa-40-21",
+            "footnotes": [
+                {
+                    "l": "Or, <i>understood the foundations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040022,
+            "text": " he that sitteth above the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as <i>[m]</i>a curtain, and spreadeth them out as a tent to dwell in; ",
+            "version": "ASV",
+            "clsstr": "Isa-40-22",
+            "footnotes": [
+                {
+                    "m": "Or, <i>gauze</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040023,
+            "text": "that bringeth princes to nothing; that maketh the judges of the earth as <i>[n]</i>vanity. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-23",
+            "footnotes": [
+                {
+                    "n": "Or, <i>confusion</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040024,
+            "text": " <i>[o]</i>Yea, they have not been planted; yea, they have not been sown; yea, their stock hath not taken root in the earth: moreover he bloweth upon them, and they wither, and the whirlwind taketh them away as stubble. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-24",
+            "footnotes": [
+                {
+                    "o": "Or, <i>Scarce are they planted, scarce are they sown, scarce hath their stock taken root in the earth, when he bloweth upon them etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040025,
+            "text": "To whom then will ye liken me, that I should be equal ? saith the Holy One. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040026,
+            "text": "Lift up your eyes on high, <i>[p]</i>and see who hath created these, that bringeth out their host by number; he calleth them all by name; by the greatness of his might, and for that he is strong in power, not one is lacking.",
+            "version": "ASV",
+            "clsstr": "Isa-40-26",
+            "footnotes": [
+                {
+                    "p": "Or, <i>and see: who hath created these? he that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040027,
+            "text": "\u00b6 Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from Jehovah, and the justice  to me is passed away from my God? ",
+            "version": "ASV",
+            "clsstr": "Isa-40-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040028,
+            "text": "Hast thou not known? hast thou not heard? <i>[q]</i>The everlasting God, Jehovah, the Creator of the ends of the earth, fainteth not, neither is weary; there is no searching of his understanding. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-28",
+            "footnotes": [
+                {
+                    "q": "Or, <i>Jehovah is an everlasting God, the Creator\u00a0.\u00a0.\u00a0. he fainteth not etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040029,
+            "text": "He giveth power to the faint; and to him that hath no might he increaseth strength. ",
+            "version": "ASV",
+            "clsstr": "Isa-40-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040030,
+            "text": "Even the youths shall faint and be weary, and the young men shall utterly fall: ",
+            "version": "ASV",
+            "clsstr": "Isa-40-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23040031,
+            "text": "but they that wait for Jehovah shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; they shall walk, and not faint.",
+            "version": "ASV",
+            "clsstr": "Isa-40-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 40
+}

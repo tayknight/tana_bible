@@ -1,0 +1,164 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 22,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 8,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 22,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 22006001,
+            "text": "\u00b6     Whither is thy beloved gone,\n    O thou fairest among women?\n    Whither hath thy beloved turned him,\n    That we may seek him with thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006002,
+            "text": "\u00b6   My beloved is gone down to his garden,\n  To the beds of <i>[a]</i>spices,\n    To feed in the gardens, and to gather lilies.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>balsam</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006003,
+            "text": "    I am my beloved\u2019s, and my beloved is mine:\n    He feedeth  among the lilies.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006004,
+            "text": "\u00b6   Thou art fair, O my love, as Tirzah,\n  Comely as Jerusalem,\n  Terrible as <i>[b]</i>an army with banners.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>bannered</i> hosts."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006005,
+            "text": "  Turn away thine eyes from me,\n  For they <i>[c]</i>have overcome me.\n    Thy hair is as a flock of goats,\n    That lie along the side of Gilead.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>make me afraid</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006006,
+            "text": "    Thy teeth are like a flock of ewes,\n    Which are come up from the washing;\n    Whereof every one hath twins,\n    And none is bereaved among them.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006007,
+            "text": "    Thy temples are like a piece of a pomegranate\n    Behind thy veil.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006008,
+            "text": "  There are threescore queens, and fourscore concubines,\n  And <i>[d]</i>virgins without number.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>maidens</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006009,
+            "text": " My dove, my <i>[e]</i>undefiled, is one;\n  She is the only one of her mother;\n  She is the <i>[f]</i>choice one of her that bare her.\n    The daughters saw her, and called her blessed;\n    , the queens and the concubines, and they praised her.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-9",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>perfect</i>."
+                },
+                {
+                    "f": "Or, <i>pure</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006010,
+            "text": "\u00b6   Who is she that looketh forth as the morning,\n  Fair as the moon,\n   <i>[g]</i>Clear as the sun,\n    Terrible as an army with banners?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Pure</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006011,
+            "text": "\u00b6     I went down into the garden of nuts,\n    To see the green plants of the valley,\n    To see whether the vine budded,\n     the pomegranates were in flower.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006012,
+            "text": " Before I was aware, my <i>[h]</i>soul <i>[i]</i>set me\n   the chariots of my <i>[j]</i>princely people.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-12",
+            "footnotes": [
+                {
+                    "h": "Or, <i>desire</i>"
+                },
+                {
+                    "i": "Or, <i>made me</i> like <i>the chariots of Amminadib</i>"
+                },
+                {
+                    "j": "Or, <i>willing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22006013,
+            "text": "\u00b6   Return, return, O Shulammite;\n  Return, return, that we may look upon thee.\n  Why will ye look upon the Shulammite,\n  As upon the dance <i>[k]</i>of Mahanaim?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-6-13",
+            "footnotes": [
+                {
+                    "k": "Or, <i>of two companies</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Song of Solomon",
+    "chapters": 6
+}

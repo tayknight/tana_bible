@@ -1,0 +1,179 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28007001,
+            "text": "\u00b6 When I would heal Israel, then is the iniquity of Ephraim uncovered, and the wickedness of Samaria; for they commit falsehood, and the thief entereth in, and the troop of robbers <i>[a]</i>ravageth without. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>maketh a raid</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007002,
+            "text": "And they consider not in their hearts that I remember all their wickedness: now have their own doings beset them about; they are before my face. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007003,
+            "text": "They make the king glad with their wickedness, and the princes with their lies. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007004,
+            "text": "They are all adulterers; they are as an oven heated by the baker; he ceaseth to stir , from the kneading of the dough, until it be leavened. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007005,
+            "text": "On the day of our king the princes made <i>[b]</i>themselves sick with the heat of wine; he stretched out his hand with scoffers. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007006,
+            "text": "For they have <i>[c]</i>made ready their heart like an oven, while they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>brought near</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007007,
+            "text": "They are all hot as an oven, and devour their judges; all their kings are fallen: there is none among them that calleth unto me.",
+            "version": "ASV",
+            "clsstr": "Hos-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007008,
+            "text": "\u00b6 Ephraim, he mixeth himself among the peoples; Ephraim is a cake not turned. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007009,
+            "text": "Strangers have devoured his strength, and he knoweth not: yea, gray hairs are <i>[d]</i>here and there upon him, and he knoweth  not. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-9",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>sprinkled</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007010,
+            "text": "And the <i>[e]</i>pride of Israel doth testify to his face: yet they have not returned unto Jehovah their God, nor sought him, for all this. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>excellency</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007011,
+            "text": "And Ephraim is like a silly dove, without <i>[f]</i>understanding: they call unto Egypt, they go to Assyria. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-11",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007012,
+            "text": "When they shall go, I will spread my net upon them; I will bring them down as the birds of the heavens; I will chastise them, <i>[g]</i>as their congregation hath heard. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-12",
+            "footnotes": [
+                {
+                    "g": "Or, <i>when the report cometh to their congregation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007013,
+            "text": "Woe unto them! for they have wandered from me; destruction unto them! for they have trespassed against me: though I would redeem them, yet they have spoken lies against me. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007014,
+            "text": "And they have not cried unto me with their heart, but they howl upon their beds: they assemble themselves for grain and new wine; they rebel against me. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007015,
+            "text": "Though I have <i>[h]</i>taught and strengthened their arms, yet do they devise mischief against me. ",
+            "version": "ASV",
+            "clsstr": "Hos-7-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>chastened</i> them"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28007016,
+            "text": "They return, but not to  on high; they are like a deceitful bow; their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.",
+            "version": "ASV",
+            "clsstr": "Hos-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 7
+}

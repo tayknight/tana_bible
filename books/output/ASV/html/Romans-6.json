@@ -1,0 +1,250 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45006001,
+            "text": "\u00b6 What shall we say then? Shall we continue in sin, that grace may abound? ",
+            "version": "ASV",
+            "clsstr": "Rom-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006002,
+            "text": "God forbid. We who died to sin, how shall we any longer live therein? ",
+            "version": "ASV",
+            "clsstr": "Rom-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006003,
+            "text": "Or are ye ignorant that all we who were baptized into Christ Jesus were baptized into his death? ",
+            "version": "ASV",
+            "clsstr": "Rom-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006004,
+            "text": "We were buried therefore with him through baptism into death: that like as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006005,
+            "text": "For if we have become <i>[a]</i>united with  in the likeness of his death, we shall be also  of his resurrection; ",
+            "version": "ASV",
+            "clsstr": "Rom-6-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>united with the likeness</i> \u00a0.\u00a0.\u00a0. with the likeness"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006006,
+            "text": "knowing this, that our old man was crucified with , that the body of sin might be done away, that so we should no longer be in bondage to sin; ",
+            "version": "ASV",
+            "clsstr": "Rom-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006007,
+            "text": "for he that hath died is <i>[b]</i>justified from sin. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>released</i>. Compare [[Ecclus. 26:29]] (Greek); [[7:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006008,
+            "text": "But if we died with Christ, we believe that we shall also live with him; ",
+            "version": "ASV",
+            "clsstr": "Rom-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006009,
+            "text": "knowing that Christ being raised from the dead dieth no more; death no more hath dominion over him. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006010,
+            "text": "For <i>[c]</i>the death that he died, he died unto sin <i>[d]</i>once: but <i>[e]</i>the life that he liveth, he liveth unto God. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in that</i>"
+                },
+                {
+                    "d": "Greek <i>once for all</i>. [[Heb. 7:27]]."
+                },
+                {
+                    "e": "Or, <i>in that</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006011,
+            "text": "Even so reckon ye also yourselves to be dead unto sin, but alive unto God in Christ Jesus.",
+            "version": "ASV",
+            "clsstr": "Rom-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006012,
+            "text": "\u00b6 Let not sin therefore reign in your mortal body, that ye should obey the lusts thereof: ",
+            "version": "ASV",
+            "clsstr": "Rom-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006013,
+            "text": "neither present your members unto sin  <i>[f]</i>instruments of unrighteousness; but present yourselves unto God, as alive from the dead, and your members  instruments of righteousness unto God. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>weapons</i>. Compare [[2 Cor. 10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006014,
+            "text": "For sin shall not have dominion over you: for ye are not under law, but under grace.",
+            "version": "ASV",
+            "clsstr": "Rom-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006015,
+            "text": "\u00b6 What then? shall we sin, because we are not under law, but under grace? God forbid. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006016,
+            "text": "Know ye not, that to whom ye present yourselves <i>[g]</i>servants unto obedience, his <i>[h]</i>servants ye are whom ye obey; whether of sin unto death, or of obedience unto righteousness? ",
+            "version": "ASV",
+            "clsstr": "Rom-6-16",
+            "footnotes": [
+                {
+                    "g": "Greek <i>bondservants</i>."
+                },
+                {
+                    "h": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006017,
+            "text": "But thanks be to God, <i>[i]</i>that, whereas ye were <i>[j]</i>servants of sin, ye became obedient from the heart to that <i>[k]</i>form of teaching whereunto ye were delivered; ",
+            "version": "ASV",
+            "clsstr": "Rom-6-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>that ye were\u00a0.\u00a0.\u00a0. but ye became</i>"
+                },
+                {
+                    "j": "Greek <i>bondservants</i>."
+                },
+                {
+                    "k": "Or, <i>pattern</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006018,
+            "text": "and being made free from sin, ye became <i>[l]</i>servants of righteousness. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-18",
+            "footnotes": [
+                {
+                    "l": "Greek <i>bondservents</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006019,
+            "text": "I speak after the manner of men because of the infirmity of your flesh: for as ye presented your members  servants to uncleanness and to iniquity unto iniquity, even so now present your members  servants to righteousness unto sanctification. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006020,
+            "text": "For when ye were <i>[m]</i>servants of sin, ye were free in regard of righteousness. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-20",
+            "footnotes": [
+                {
+                    "m": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006021,
+            "text": "What fruit then had ye at that time in the things whereof ye are now ashamed? for the end of those things is death. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006022,
+            "text": "But now being made free from sin and become servants to God, ye have your fruit unto sanctification, and the end eternal life. ",
+            "version": "ASV",
+            "clsstr": "Rom-6-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45006023,
+            "text": "For the wages of sin is death; but the free gift of God is eternal life in Christ Jesus our Lord.",
+            "version": "ASV",
+            "clsstr": "Rom-6-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 6
+}

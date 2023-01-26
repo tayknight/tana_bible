@@ -1,0 +1,403 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58011001,
+            "text": "\u00b6 Now faith is <i>[a]</i>assurance of hoped for, a <i>[b]</i>conviction of things not seen. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the giving substance to</i>"
+                },
+                {
+                    "b": "Or, <i>test</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011002,
+            "text": "For therein the elders had witness borne to them. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011003,
+            "text": "By faith we understand that the <i>[c]</i>worlds have been framed by the word of God, so that what is seen hath not been made out of things which appear. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-3",
+            "footnotes": [
+                {
+                    "c": "Greek <i>ages</i>. Compare [[1 Tim. 1:17]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011004,
+            "text": "By faith Abel offered unto God a more excellent sacrifice than Cain, through which he had witness borne to him that he was righteous, <i>[d]</i>God bearing witness <i>[e]</i>in respect of his gifts: and through it he being dead yet speaketh. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-4",
+            "footnotes": [
+                {
+                    "d": "The Greek text in this clause is somewhat uncertain."
+                },
+                {
+                    "e": "Or, <i>over his gifts</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011005,
+            "text": "By faith Enoch was translated that he should not see death; and he was not found, because God translated him: <i>[f]</i>for he hath had witness borne to him that before his translation he had been well-pleasing unto God: ",
+            "version": "ASV",
+            "clsstr": "Heb-11-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>for before his translation he hath had witness borne to him that he etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011006,
+            "text": "and without faith it is impossible to be well-pleasing ; for he that cometh to God must believe that he is, and  he is a rewarder of them that seek after him. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011007,
+            "text": "By faith Noah, being warned  concerning things not seen as yet, moved with godly fear, prepared an ark to the saving of his house; through which he condemned the world, and became heir of the righteousness which is according to faith. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011008,
+            "text": "By faith Abraham, when he was called, obeyed to go out unto a place which he was to receive for an inheritance; and he went out, not knowing whither he went. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011009,
+            "text": "By faith he became a sojourner in the land of promise, as in a not his own, <i>[g]</i>dwelling in tents, with Isaac and Jacob, the heirs with him of the same promise: ",
+            "version": "ASV",
+            "clsstr": "Heb-11-9",
+            "footnotes": [
+                {
+                    "g": "Or, <i>having taken up his abode in tents</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011010,
+            "text": "for he looked for the city which hath the foundations, whose <i>[h]</i>builder and maker is God. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-10",
+            "footnotes": [
+                {
+                    "h": "Or, <i>architect</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011011,
+            "text": "By faith even Sarah herself received power to conceive seed when she was past age, since she counted him faithful who had promised: ",
+            "version": "ASV",
+            "clsstr": "Heb-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011012,
+            "text": "wherefore also there sprang of one, and him as good as dead,  as the stars of heaven in multitude, and as the sand, which is by the sea-shore, innumerable. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011013,
+            "text": "These all died <i>[i]</i>in faith, not having received the promises, but having seen them and greeted them from afar, and having confessed that they were strangers and pilgrims on the earth. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-13",
+            "footnotes": [
+                {
+                    "i": "Greek <i>according to</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011014,
+            "text": "For they that say such things make it manifest that they are seeking after a country of their own. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011015,
+            "text": "And if indeed they had been mindful of that  from which they went out, they would have had opportunity to return. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011016,
+            "text": "But now they desire a better , that is, a heavenly: wherefore God is not ashamed of them, to be called their God; for he hath prepared for them a city. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011017,
+            "text": "By faith Abraham, being tried, <i>[j]</i>offered up Isaac: yea, he that had gladly received the promises was offering up his only begotten ; ",
+            "version": "ASV",
+            "clsstr": "Heb-11-17",
+            "footnotes": [
+                {
+                    "j": "Greek <i>hath offered up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011018,
+            "text": " <i>[k]</i>to whom it was said, <i>[l]</i>In Isaac shall thy seed be called: ",
+            "version": "ASV",
+            "clsstr": "Heb-11-18",
+            "footnotes": [
+                {
+                    "k": "Or, <i>of</i>"
+                },
+                {
+                    "l": "[[Gen. 21:12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011019,
+            "text": "accounting that God  able to raise up, even from the dead; from whence he did also in a figure receive him back. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011020,
+            "text": "By faith Isaac blessed Jacob and Esau, even concerning things to come. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011021,
+            "text": "By faith Jacob, when he was dying, blessed each of the sons of Joseph; and worshipped,  upon the top of his staff. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011022,
+            "text": "By faith Joseph, when his end was nigh, made mention of the departure of the children of Israel; and gave commandment concerning his bones. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011023,
+            "text": "By faith Moses, when he was born, was hid three months by his parents, because they saw he was a goodly child; and they were not afraid of the king\u2019s commandment. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011024,
+            "text": "By faith Moses, when he was grown up, refused to be called the son of Pharaoh\u2019s daughter; ",
+            "version": "ASV",
+            "clsstr": "Heb-11-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011025,
+            "text": "choosing rather to share ill treatment with the people of God, than to enjoy the pleasures of sin for a season; ",
+            "version": "ASV",
+            "clsstr": "Heb-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011026,
+            "text": "accounting the reproach of <i>[m]</i>Christ greater riches than the treasures of Egypt: for he looked unto the recompense of reward. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-26",
+            "footnotes": [
+                {
+                    "m": "Or, <i>the Christ</i>. Compare [[1 Cor. 10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011027,
+            "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011028,
+            "text": "By faith he <i>[n]</i>kept the passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-28",
+            "footnotes": [
+                {
+                    "n": "Or, <i>instituted</i>. Greek <i>hath made</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011029,
+            "text": "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were swallowed up. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011030,
+            "text": "By faith the walls of Jericho fell down, after they had been compassed about for seven days. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011031,
+            "text": "By faith Rahab the harlot perished not with them that were disobedient, having received the spies with peace. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011032,
+            "text": "And what shall I more say? for the time will fail me if I tell of Gideon, Barak, Samson, Jephthah; of David and Samuel and the prophets: ",
+            "version": "ASV",
+            "clsstr": "Heb-11-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011033,
+            "text": "who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions, ",
+            "version": "ASV",
+            "clsstr": "Heb-11-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011034,
+            "text": "quenched the power of fire, escaped the edge of the sword, from weakness were made strong, waxed mighty in war, turned to flight armies of aliens. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011035,
+            "text": "Women received their dead by a resurrection: and others were <i>[o]</i>tortured, not accepting <i>[p]</i>their deliverance; that they might obtain a better resurrection: ",
+            "version": "ASV",
+            "clsstr": "Heb-11-35",
+            "footnotes": [
+                {
+                    "o": "Or, <i>beaten to death</i>"
+                },
+                {
+                    "p": "Greek <i>the redemption</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011036,
+            "text": "and others had trial of mockings and scourgings, yea, moreover of bonds and imprisonment: ",
+            "version": "ASV",
+            "clsstr": "Heb-11-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011037,
+            "text": "they were stoned, they were sawn asunder, they were tempted, they were slain with the sword: they went about in sheepskins, in goatskins; being destitute, afflicted, ill-treated ",
+            "version": "ASV",
+            "clsstr": "Heb-11-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011038,
+            "text": "(of whom the world was not worthy), wandering in deserts and mountains and caves, and the holes of the earth. ",
+            "version": "ASV",
+            "clsstr": "Heb-11-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011039,
+            "text": "And these all, having had witness borne to them through their faith, received not the promise, ",
+            "version": "ASV",
+            "clsstr": "Heb-11-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58011040,
+            "text": "God having <i>[q]</i>provided some better thing concerning us, that apart from us they should not be made perfect.",
+            "version": "ASV",
+            "clsstr": "Heb-11-40",
+            "footnotes": [
+                {
+                    "q": "Or, <i>foreseen</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 11
+}

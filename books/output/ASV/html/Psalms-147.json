@@ -1,0 +1,201 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19147001,
+            "text": "<b>Praise for Jerusalem\u2019s restoration and prosperity.</b>\n\u00b6  <i>[a]</i>Praise ye Jehovah;\n   <i>[b]</i>For it is good to sing praises unto our God;\n    For it is pleasant,  praise is comely.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                },
+                {
+                    "b": "Or, <i>For he is good: sing praises unto our God; For he is gracious</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147002,
+            "text": "    Jehovah doth build up Jerusalem;\n    He gathereth together the outcasts of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147003,
+            "text": "  He healeth the broken in heart,\n  And bindeth up their <i>[c]</i>wounds.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>sorrows</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147004,
+            "text": "    He counteth the number of the stars;\n    He calleth them all by  names.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147005,
+            "text": "    Great is our Lord, and mighty in power;\n    His understanding is infinite.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147006,
+            "text": "    Jehovah upholdeth the meek:\n    He bringeth the wicked down to the ground.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147007,
+            "text": "    Sing unto Jehovah with thanksgiving;\n    Sing praises upon the harp unto our God,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147008,
+            "text": "    Who covereth the heavens with clouds,\n    Who prepareth rain for the earth,\n    Who maketh grass to grow upon the mountains.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147009,
+            "text": "    He giveth to the beast his food,\n     to the young ravens which cry.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147010,
+            "text": "    He delighteth not in the strength of the horse:\n    He taketh no pleasure in the legs of a man.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147011,
+            "text": "    Jehovah taketh pleasure in them that fear him,\n    In those that hope in his lovingkindness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147012,
+            "text": "    Praise Jehovah, O Jerusalem;\n    Praise thy God, O Zion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147013,
+            "text": "    For he hath strengthened the bars of thy gates;\n    He hath blessed thy children within thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147014,
+            "text": " He maketh <i>[d]</i>peace in thy borders;\n  He filleth thee with the <i>[e]</i>finest of the wheat.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-14",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>thy border peace</i>."
+                },
+                {
+                    "e": "Hebrew <i>fat of wheat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147015,
+            "text": "    He sendeth out his commandment upon earth;\n    His word runneth very swiftly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147016,
+            "text": "    He giveth snow like wool;\n    He scattereth the hoar-frost like ashes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147017,
+            "text": "    He casteth forth his ice like morsels:\n    Who can stand before his cold?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147018,
+            "text": "    He sendeth out his word, and melteth them:\n    He causeth his wind to blow, and the waters flow.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147019,
+            "text": "    He showeth his word unto Jacob,\n    His statutes and his ordinances unto Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19147020,
+            "text": "  He hath not dealt so with any nation;\n  And as for his ordinances, they have not known them.\n   <i>[f]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-147-20",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 147
+}

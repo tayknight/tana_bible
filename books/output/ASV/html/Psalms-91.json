@@ -1,0 +1,155 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19091001,
+            "text": "<b>Security of him who trusts in Jehovah.</b>\n\u00b6   He that dwelleth in the secret place of the Most High\n   <i>[a]</i>Shall abide under the shadow of the Almighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>That abideth\u00a0.\u00a0.\u00a0. Almighty; Even I etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091002,
+            "text": "    I will say of Jehovah, He is my refuge and my fortress;\n    My God, in whom I trust.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091003,
+            "text": "    For he will deliver thee from the snare of the fowler,\n    And from the deadly pestilence.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091004,
+            "text": "    He will cover thee with his pinions,\n    And under his wings shalt thou take refuge:\n    His truth is a shield and a buckler.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091005,
+            "text": "    Thou shalt not be afraid for the terror by night,\n    Nor for the arrow that flieth by day;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091006,
+            "text": "    For the pestilence that walketh in darkness,\n    Nor for the destruction that wasteth at noonday.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091007,
+            "text": "    A thousand shall fall at thy side,\n    And ten thousand at thy right hand;\n     it shall not come nigh thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091008,
+            "text": "    Only with thine eyes shalt thou behold,\n    And see the reward of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091009,
+            "text": "   <i>[b]</i>For thou, O Jehovah, art my refuge!\n    Thou hast made the Most High thy habitation;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Because thou</i> hast said, <i>Jehovah is my refuge</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091010,
+            "text": "    There shall no evil befall thee,\n    Neither shall any plague come nigh thy tent.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091011,
+            "text": "    For he will give his angels charge over thee,\n    To keep thee in all thy ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091012,
+            "text": "    They shall bear thee up in their hands,\n    Lest thou dash thy foot against a stone.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091013,
+            "text": "    Thou shalt tread upon the lion and adder:\n    The young lion and the serpent shalt thou trample under foot.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091014,
+            "text": "    Because he hath set his love upon me, therefore will I deliver him:\n    I will set him on high, because he hath known my name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091015,
+            "text": "    He shall call upon me, and I will answer him;\n    I will be with him in trouble:\n    I will deliver him, and honor him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19091016,
+            "text": "    With long life will I satisfy him,\n    And show him my salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-91-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 91
+}

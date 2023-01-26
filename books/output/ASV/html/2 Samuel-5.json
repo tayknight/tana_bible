@@ -1,0 +1,256 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 10,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 10,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 10005001,
+            "text": "\u00b6 Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005002,
+            "text": "In times past, when Saul was king over us, it was thou that leddest out and broughtest in Israel: and Jehovah said to thee, Thou shalt be shepherd of my people Israel, and thou shalt be <i>[a]</i>prince over Israel. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>leader</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005003,
+            "text": "So all the elders of Israel came to the king to Hebron; and king David made a covenant with them in Hebron before Jehovah: and they anointed David king over Israel. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005004,
+            "text": "David was thirty years old when he began to reign, and he reigned forty years. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005005,
+            "text": "In Hebron he reigned over Judah seven years and six months; and in Jerusalem he reigned thirty and three years over all Israel and Judah.",
+            "version": "ASV",
+            "clsstr": "2Sam-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005006,
+            "text": "\u00b6 And the king and his men went to Jerusalem against the Jebusites, the inhabitants of the land, who spake unto David, saying, <i>[b]</i>Except thou take away the blind and the lame, thou shalt not come in hither; thinking, David cannot come in hither. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Thou shalt not come in hither, but the blind and the lame shall turn thee away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005007,
+            "text": "Nevertheless David took the stronghold of Zion; the same is the city of David. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005008,
+            "text": "And David said on that day, Whosoever smiteth the Jebusites, let him get up to the watercourse, <i>[c]</i>and the lame and the blind, <i>[d]</i>that are hated of David\u2019s soul. Wherefore they say, <i>[e]</i>There are the blind and the lame; he cannot come into the house. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>and as for the lame and the blind, that are hated of David\u2019s soul\u2014</i>"
+                },
+                {
+                    "d": "Another reading is, <i>that hate David\u2019s soul</i>."
+                },
+                {
+                    "e": "Or, <i>The blind and the lame shall not come into the house</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005009,
+            "text": "And David dwelt in the stronghold, and called it the city of David. And David built round about from Millo and inward. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005010,
+            "text": "And David waxed greater and greater; for Jehovah, the God of hosts, was with him.",
+            "version": "ASV",
+            "clsstr": "2Sam-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005011,
+            "text": "\u00b6 And Hiram king of Tyre sent messengers to David, and cedar-trees, and carpenters, and masons; and they built David a house. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005012,
+            "text": "And David perceived that Jehovah had established him king over Israel, and that he had exalted his kingdom for his people Israel\u2019s sake.",
+            "version": "ASV",
+            "clsstr": "2Sam-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005013,
+            "text": "\u00b6 And David took him more concubines and wives out of Jerusalem, after he was come from Hebron; and there were yet sons and daughters born to David. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005014,
+            "text": "And these are the names of those that were born unto him in Jerusalem: Shammua, and Shobab, and Nathan, and Solomon, ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005015,
+            "text": "and Ibhar, and Elishua, and Nepheg, and Japhia, ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005016,
+            "text": "and Elishama, and <i>[f]</i>Eliada, and Eliphelet.",
+            "version": "ASV",
+            "clsstr": "2Sam-5-16",
+            "footnotes": [
+                {
+                    "f": "In [[1 Chr. 14:7]], <i>Beeliada</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005017,
+            "text": "\u00b6 And when the Philistines heard that they had anointed David king over Israel, all the Philistines went up to seek David; and David heard of it, and went down to the stronghold. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005018,
+            "text": "Now the Philistines had come and spread themselves in the valley of Rephaim. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005019,
+            "text": "And David inquired of Jehovah, saying, Shall I go up against the Philistines? wilt thou deliver them into my hand? And Jehovah said unto David, Go up; for I will certainly deliver the Philistines into thy hand. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005020,
+            "text": "And David came to Baal-perazim, and David smote them there; and he said, Jehovah hath <i>[g]</i>broken mine enemies before me, like the breach of waters. Therefore he called the name of that place <i>[h]</i>Baal-perazim. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-20",
+            "footnotes": [
+                {
+                    "g": "Or, <i>broken forth upon mine enemies</i>"
+                },
+                {
+                    "h": "That is, <i>The place of breakings forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005021,
+            "text": "And they left their images there; and David and his men took them away.",
+            "version": "ASV",
+            "clsstr": "2Sam-5-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005022,
+            "text": "\u00b6 And the Philistines came up yet again, and spread themselves in the valley of Rephaim. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005023,
+            "text": "And when David inquired of Jehovah, he said, Thou shalt not go up: make a circuit behind them, and come upon them over against the <i>[i]</i>mulberry-trees. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-23",
+            "footnotes": [
+                {
+                    "i": "Or, <i>balsam-trees</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005024,
+            "text": "And it shall be, when thou hearest the sound of marching in the tops of the mulberry-trees, that then thou shalt bestir thyself; for then is Jehovah gone out before thee to smite the host of the Philistines. ",
+            "version": "ASV",
+            "clsstr": "2Sam-5-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10005025,
+            "text": "And David did so, as Jehovah commanded him, and smote the Philistines from <i>[j]</i>Geba until thou come to Gezer.",
+            "version": "ASV",
+            "clsstr": "2Sam-5-25",
+            "footnotes": [
+                {
+                    "j": "In [[1 Chr. 14:16]], <i>Gibeon</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Samuel",
+    "chapters": 5
+}

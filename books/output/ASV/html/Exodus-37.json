@@ -1,0 +1,270 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2037001,
+            "text": "\u00b6 And Bezalel made the ark of acacia wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037002,
+            "text": "And he overlaid it with pure gold within and without, and made a <i>[a]</i>crown of gold to it round about. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>rim</i>. Or, <i>moulding</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037003,
+            "text": "And he cast for it four rings of gold, in the four feet thereof; even two rings on the one <i>[b]</i>side of it, and two rings on the other <i>[c]</i>side of it. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>rib</i>."
+                },
+                {
+                    "c": "Hebrew <i>rib</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037004,
+            "text": "And he made staves of acacia wood, and overlaid them with gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037005,
+            "text": "And he put the staves into the rings on the sides of the ark, to bear the ark. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037006,
+            "text": "And he made a <i>[d]</i>mercy-seat of pure gold: two cubits and a half  the length thereof, and a cubit and a half the breadth thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>covering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037007,
+            "text": "And he made two cherubim of gold; of <i>[e]</i>beaten work made he them, at the two ends of the mercy-seat; ",
+            "version": "ASV",
+            "clsstr": "Exod-37-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>turned</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037008,
+            "text": "one cherub at the one end, and one cherub at the other end: of one piece with the mercy-seat made he the cherubim at the two ends thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037009,
+            "text": "And the cherubim spread out their wings on high, covering the mercy-seat with their wings, with their faces one to another; toward the mercy-seat were the faces of the cherubim.",
+            "version": "ASV",
+            "clsstr": "Exod-37-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037010,
+            "text": "\u00b6 And he made the table of acacia wood: two cubits  the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037011,
+            "text": "And he overlaid it with pure gold, and made thereto a crown of gold round about. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037012,
+            "text": "And he made unto it a border of a handbreadth round about, and made a golden crown to the border thereof round about. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037013,
+            "text": "And he cast for it four rings of gold, and put the rings in the four corners that were on the four feet thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037014,
+            "text": "Close by the border were the rings, the places for the staves to bear the table. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037015,
+            "text": "And he made the staves of acacia wood, and overlaid them with gold, to bear the table. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037016,
+            "text": "And he made the vessels which were upon the table, the dishes thereof, and the spoons thereof, and the bowls thereof, and the flagons thereof, wherewith to pour out, of pure gold.",
+            "version": "ASV",
+            "clsstr": "Exod-37-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037017,
+            "text": "\u00b6 And he made the candlestick of pure gold: of beaten work made he the candlestick, even its base, and its shaft; its cups, it knops, and its flowers, were of one piece with it. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037018,
+            "text": "And there were six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof: ",
+            "version": "ASV",
+            "clsstr": "Exod-37-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037019,
+            "text": "three cups made like almond-blossoms in one branch, a knop and a flower, and three cups made like almond-blossoms in the other branch, a knop and a flower: so for the six branches going out of the candlestick. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037020,
+            "text": "And in the candlestick were four cups made like almond-blossoms, the knops thereof, and the flowers thereof; ",
+            "version": "ASV",
+            "clsstr": "Exod-37-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037021,
+            "text": "and a knop under two branches of one piece with it, and a knop under two branches of one piece with it, and a knop under two branches of one piece with it, for the six branches going out of it. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037022,
+            "text": "Their knops and their branches were of one piece with it: the whole of it was one beaten work of pure gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037023,
+            "text": "And he made the lamps thereof, seven, and the snuffers thereof, and the snuffdishes thereof, of pure gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037024,
+            "text": "Of a talent of pure gold made he it, and all the vessels thereof.",
+            "version": "ASV",
+            "clsstr": "Exod-37-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037025,
+            "text": "\u00b6 And he made the altar of incense of acacia wood: a cubit was the length thereof, and a cubit the breadth thereof, foursquare; and two cubits was the height thereof; the horns thereof were of one piece with it. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037026,
+            "text": "And he overlaid it with pure gold, the top thereof, and the sides thereof round about, and the horns of it: and he made unto it a crown of gold round about. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037027,
+            "text": "And he made for it two golden rings under the crown thereof, upon the two ribs thereof, upon the two sides of it, for places for staves wherewith to bear it. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037028,
+            "text": "And he made the staves of acacia wood, and overlaid them with gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-37-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2037029,
+            "text": "And he made the holy anointing oil, and the pure incense of sweet spices, after the art of the perfumer.",
+            "version": "ASV",
+            "clsstr": "Exod-37-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 37
+}

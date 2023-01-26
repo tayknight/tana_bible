@@ -1,0 +1,194 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 33,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 7,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 33,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 33001001,
+            "text": "\u00b6 The word of Jehovah that came to Micah the Morashtite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+            "version": "ASV",
+            "clsstr": "Mic-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001002,
+            "text": "\u00b6 Hear, ye peoples, all of you; hearken, O earth, and <i>[a]</i>all that therein is: and let the Lord Jehovah be witness <i>[b]</i>against you, the Lord from his holy temple. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>the fulness thereof</i>."
+                },
+                {
+                    "b": "Or, <i>among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001003,
+            "text": "For, behold, Jehovah cometh forth out of his place, and will come down, and tread upon the high places of the earth. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001004,
+            "text": "And the mountains shall be melted under him, and the valleys shall be cleft, as wax before the fire, as waters that are poured down a steep place. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001005,
+            "text": "For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem? ",
+            "version": "ASV",
+            "clsstr": "Mic-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001006,
+            "text": "Therefore I will make Samaria as a heap of the field,  as places for planting vineyards; and I will pour down the stones thereof into the valley, and I will uncover the foundations thereof. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001007,
+            "text": "And all her graven images shall be beaten to pieces, and all her hires shall be burned with fire, and all her idols will I lay desolate; for of the hire of a harlot hath she gathered them, and unto the hire of a harlot shall they return.",
+            "version": "ASV",
+            "clsstr": "Mic-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001008,
+            "text": "\u00b6 For this will I lament and wail; I will go stripped and naked; I will make a wailing like the jackals, and a lamentation like the ostriches. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001009,
+            "text": "For her wounds are incurable; for it is come even unto Judah; it reacheth unto the gate of my people, even to Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001010,
+            "text": "Tell it not in Gath, weep not at all: at <i>[c]</i>Beth-le-aphrah <i>[d]</i>have I rolled myself in the dust. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-10",
+            "footnotes": [
+                {
+                    "c": "That is, <i>A house of dust</i>."
+                },
+                {
+                    "d": "Another reading is, <i>roll thyself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001011,
+            "text": "Pass away, O <i>[e]</i>inhabitant of Shaphir, in nakedness and shame: the <i>[f]</i>inhabitant of Zaanan is not come forth; the wailing of Beth-ezel shall take from you the <i>[g]</i>stay thereof. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-11",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>inhabitress</i>."
+                },
+                {
+                    "f": "Hebrew <i>inhabitress</i>."
+                },
+                {
+                    "g": "Or, <i>standing-place</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001012,
+            "text": "For the <i>[h]</i>inhabitant of Maroth <i>[i]</i>waiteth anxiously for good, because evil is come down from Jehovah unto the gate of Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-12",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>inhabitress</i>."
+                },
+                {
+                    "i": "Or, <i>is in travail for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001013,
+            "text": "Bind the chariot to the swift steed, O <i>[j]</i>inhabitant of Lachish: she was the beginning of sin to the daughter of Zion; for the transgressions of Israel were found in thee. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-13",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>inhabitress</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001014,
+            "text": "Therefore shalt thou give a parting gift to Moresheth-gath: the houses of Achzib shall be <i>[k]</i>a deceitful thing unto the kings of Israel. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-14",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>achzab</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001015,
+            "text": "I will yet bring unto thee, O <i>[l]</i>inhabitant of Mareshah, him that shall possess thee: the glory of Israel shall come even unto Adullam. ",
+            "version": "ASV",
+            "clsstr": "Mic-1-15",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>inhabitress</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 33001016,
+            "text": "Make thee bald, and cut off thy hair for the children of thy delight: enlarge thy baldness as the <i>[m]</i>eagle; for they are gone into captivity from thee.",
+            "version": "ASV",
+            "clsstr": "Mic-1-16",
+            "footnotes": [
+                {
+                    "m": "Or, <i>vulture</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Micah",
+    "chapters": 1
+}

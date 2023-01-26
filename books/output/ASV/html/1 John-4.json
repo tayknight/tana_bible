@@ -1,0 +1,203 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 62,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 62,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 62004001,
+            "text": "\u00b6 Beloved, believe not every spirit, but prove the spirits, whether they are of God; because many false prophets are gone out into the world. ",
+            "version": "ASV",
+            "clsstr": "1John-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004002,
+            "text": "Hereby know ye the Spirit of God: every spirit that confesseth that Jesus Christ is come in the flesh is of God: ",
+            "version": "ASV",
+            "clsstr": "1John-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004003,
+            "text": "and every spirit that <i>[a]</i>confesseth not Jesus is not of God: and this is the  of the antichrist, whereof ye have heard that it cometh; and now it is in the world already. ",
+            "version": "ASV",
+            "clsstr": "1John-4-3",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities read <i>annulleth Jesus</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004004,
+            "text": "Ye are of God,  little children, and have overcome them: because greater is he that is in you than he that is in the world. ",
+            "version": "ASV",
+            "clsstr": "1John-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004005,
+            "text": "They are of the world: therefore speak they  of the world, and the world heareth them. ",
+            "version": "ASV",
+            "clsstr": "1John-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004006,
+            "text": "We are of God: he that knoweth God heareth us; he who is not of God heareth us not. By this we know the spirit of truth, and the spirit of error.",
+            "version": "ASV",
+            "clsstr": "1John-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004007,
+            "text": "\u00b6 Beloved, let us love one another: for love is of God; and every one that loveth is begotten of God, and knoweth God. ",
+            "version": "ASV",
+            "clsstr": "1John-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004008,
+            "text": "He that loveth not knoweth not God; for God is love. ",
+            "version": "ASV",
+            "clsstr": "1John-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004009,
+            "text": "Herein was the love of God manifested <i>[b]</i>in us, that God hath sent his only begotten Son into the world that we might live through him. ",
+            "version": "ASV",
+            "clsstr": "1John-4-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in our case</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004010,
+            "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son  the propitiation for our sins. ",
+            "version": "ASV",
+            "clsstr": "1John-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004011,
+            "text": "Beloved, if God so loved us, we also ought to love one another. ",
+            "version": "ASV",
+            "clsstr": "1John-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004012,
+            "text": "No man hath beheld God at any time: if we love one another, God abideth in us, and his love is perfected in us: ",
+            "version": "ASV",
+            "clsstr": "1John-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004013,
+            "text": "hereby we know that we abide in him and he in us, because he hath given us of his Spirit. ",
+            "version": "ASV",
+            "clsstr": "1John-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004014,
+            "text": "And we have beheld and bear witness that the Father hath sent the Son  the Saviour of the world. ",
+            "version": "ASV",
+            "clsstr": "1John-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004015,
+            "text": "Whosoever shall confess that Jesus is the Son of God, God abideth in him, and he in God. ",
+            "version": "ASV",
+            "clsstr": "1John-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004016,
+            "text": "And we know and have believed the love which God hath <i>[c]</i>in us. God is love; and he that abideth in love abideth in God, and God abideth in him. ",
+            "version": "ASV",
+            "clsstr": "1John-4-16",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in our case</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004017,
+            "text": "Herein is love made perfect with us, that we may have boldness in the day of judgment; because as he is, even so are we in this world. ",
+            "version": "ASV",
+            "clsstr": "1John-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004018,
+            "text": "There is no fear in love: but perfect love casteth out fear, because fear hath punishment; and he that feareth is not made perfect in love. ",
+            "version": "ASV",
+            "clsstr": "1John-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004019,
+            "text": "We love, because he first loved us. ",
+            "version": "ASV",
+            "clsstr": "1John-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004020,
+            "text": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, <i>[d]</i>cannot love God whom he hath not seen. ",
+            "version": "ASV",
+            "clsstr": "1John-4-20",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities read <i>how can he love God whom he hath not seen?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62004021,
+            "text": "And this commandment have we from him, that he who loveth God love his brother also.",
+            "version": "ASV",
+            "clsstr": "1John-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 John",
+    "chapters": 4
+}

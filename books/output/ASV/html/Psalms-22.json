@@ -1,0 +1,298 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19022001,
+            "text": "<b>A cry of anguish, and a song of praise.</b>\n\u00b6 For the Chief Musician; set to <i>[a]</i>Aijeleth hash-Shahar. A Psalm of David.\u00b6   My God, my God, why hast thou forsaken me?\n   <i>[b]</i> far from helping me,  the words of my groaning?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>The hind of the morning</i>."
+                },
+                {
+                    "b": "Or, <i>Far from my help</i> are <i>the words of my groaning</i>. Hebrew <i>roaring</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022002,
+            "text": "  O my God, I cry in the daytime, but thou answerest not;\n  And in the night season, <i>[c]</i>and am not silent.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>but find no rest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022003,
+            "text": "  But thou art holy,\n  O thou that <i>[d]</i>inhabitest the praises of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>art enthroned upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022004,
+            "text": "    Our fathers trusted in thee:\n    They trusted, and thou didst deliver them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022005,
+            "text": "    They cried unto thee, and were delivered:\n    They trusted in thee, and were not put to shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022006,
+            "text": "    But I am a worm, and no man;\n    A reproach of men, and despised of the people.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022007,
+            "text": "    All they that see me laugh me to scorn:\n    They shoot out the lip, they shake the head, ,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022008,
+            "text": "   <i>[e]</i>Commit  unto Jehovah; let him deliver him:\n    Let him rescue him, seeing he delighteth in him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>He trusted on Jehovah, that he would deliver him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022009,
+            "text": "    But thou art he that took me out of the womb;\n    Thou didst make me trust  upon my mother\u2019s breasts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022010,
+            "text": "    I was cast upon thee from the womb;\n    Thou art my God since my mother bare me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022011,
+            "text": "    Be not far from me; for trouble is near;\n    For there is none to help.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022012,
+            "text": "    Many bulls have compassed me;\n    Strong bulls of Bashan have beset me round.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022013,
+            "text": "    They gape upon me with their mouth,\n     a ravening and a roaring lion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022014,
+            "text": "    I am poured out like water,\n    And all my bones are out of joint:\n    My heart is like wax;\n    It is melted within me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022015,
+            "text": "    My strength is dried up like a potsherd;\n    And my tongue cleaveth to my jaws;\n    And thou hast brought me into the dust of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022016,
+            "text": "  For dogs have compassed me:\n  A company of evil-doers have inclosed me;\n   <i>[f]</i>They pierced my hands and my feet.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-16",
+            "footnotes": [
+                {
+                    "f": "So the Septuagint, Vulgate, and Syriac. The Hebrew text as pointed reads, <i>Like a lion, my etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022017,
+            "text": "    I may count all my bones.\n    They look and stare upon me;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022018,
+            "text": "    They part my garments among them,\n    And upon my vesture do they cast lots.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022019,
+            "text": "    But be not thou far off, O Jehovah:\n    O thou my succor, haste thee to help me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022020,
+            "text": "  Deliver my soul from the sword,\n  My <i>[g]</i>darling from the power of the dog.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-20",
+            "footnotes": [
+                {
+                    "g": "Or, <i>dear</i> life. Hebrew <i>only one</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022021,
+            "text": "    Save me from the lion\u2019s mouth;\n    Yea, from the horns of the wild-oxen thou hast answered me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022022,
+            "text": "\u00b6     I will declare thy name unto my brethren:\n    In the midst of the assembly will I praise thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022023,
+            "text": "    Ye that fear Jehovah, praise him;\n    All ye the seed of Jacob, glorify him;\n    And stand in awe of him, all ye the seed of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022024,
+            "text": "    For he hath not despised nor abhorred the affliction of the afflicted;\n    Neither hath he hid his face from him;\n    But when he cried unto him, he heard.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022025,
+            "text": "    Of thee cometh my praise in the great assembly:\n    I will pay my vows before them that fear him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022026,
+            "text": "    The meek shall eat and be satisfied;\n    They shall praise Jehovah that seek after him:\n    Let your heart live for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022027,
+            "text": "    All the ends of the earth shall remember and turn unto Jehovah;\n    And all the kindreds of the nations shall worship before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022028,
+            "text": "    For the kingdom is Jehovah\u2019s;\n    And he is the ruler over the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022029,
+            "text": "    All the fat ones of the earth shall eat and worship:\n    All they that go down to the dust shall bow before him,\n    Even he that cannot keep his soul alive.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022030,
+            "text": "  A seed shall serve him;\n  It shall be <i>[h]</i>told of the Lord unto the  generation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-30",
+            "footnotes": [
+                {
+                    "h": "Or, <i>counted unto the Lord for</i> his <i>generations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19022031,
+            "text": "    They shall come and shall declare his righteousness\n    Unto a people that shall be born, that he hath done it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-22-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 22
+}

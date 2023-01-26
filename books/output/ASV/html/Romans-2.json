@@ -1,0 +1,306 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45002001,
+            "text": "\u00b6 Wherefore thou art without excuse, O man, whosoever thou art that judgest: for wherein thou judgest <i>[a]</i>another, thou condemnest thyself; for thou that judgest dost practise the same things. ",
+            "version": "ASV",
+            "clsstr": "Rom-2-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>the other</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002002,
+            "text": " <i>[b]</i>And we know that the judgment of God is according to truth against them that practise such things. ",
+            "version": "ASV",
+            "clsstr": "Rom-2-2",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>For</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002003,
+            "text": "And reckonest thou this, O man, who judgest them that practise such things, and doest the same, that thou shalt escape the judgment of God? ",
+            "version": "ASV",
+            "clsstr": "Rom-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002004,
+            "text": "Or despisest thou the riches of his goodness and forbearance and longsuffering, not knowing that the goodness of God leadeth thee to repentance? ",
+            "version": "ASV",
+            "clsstr": "Rom-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002005,
+            "text": "but after thy hardness and impenitent heart treasurest up for thyself wrath in the day of wrath and revelation of the righteous judgment of God; ",
+            "version": "ASV",
+            "clsstr": "Rom-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002006,
+            "text": "who will render to every man according to his works: ",
+            "version": "ASV",
+            "clsstr": "Rom-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002007,
+            "text": "to them that by <i>[c]</i>patience in well-doing seek for glory and honor and incorruption, eternal life: ",
+            "version": "ASV",
+            "clsstr": "Rom-2-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002008,
+            "text": "but unto them that are factious, and obey not the truth, but obey unrighteousness,  wrath and indignation, ",
+            "version": "ASV",
+            "clsstr": "Rom-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002009,
+            "text": "tribulation and anguish, upon every soul of man that worketh evil, of the Jew first, and also of the Greek; ",
+            "version": "ASV",
+            "clsstr": "Rom-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002010,
+            "text": "but glory and honor and peace to every man that worketh good, to the Jew first, and also to the Greek: ",
+            "version": "ASV",
+            "clsstr": "Rom-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002011,
+            "text": "for there is no respect of persons with God. ",
+            "version": "ASV",
+            "clsstr": "Rom-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002012,
+            "text": "For as many as <i>[d]</i>have sinned without the law shall also perish without the law: and as many as <i>[e]</i>have sinned under the law shall be judged by the law; ",
+            "version": "ASV",
+            "clsstr": "Rom-2-12",
+            "footnotes": [
+                {
+                    "d": "Greek <i>sinned</i>."
+                },
+                {
+                    "e": "Greek <i>sinned</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002013,
+            "text": "for not the hearers of the law are <i>[f]</i>just before God, but the doers of the law shall be <i>[g]</i>justified; ",
+            "version": "ASV",
+            "clsstr": "Rom-2-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>righteous</i>"
+                },
+                {
+                    "g": "Or, <i>accounted righteous</i>: and so elsewhere."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002014,
+            "text": "(for when Gentiles that have not the law do by nature the things of the law, these, not having the law, are the law unto themselves; ",
+            "version": "ASV",
+            "clsstr": "Rom-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002015,
+            "text": "in that they show the work of the law written in their hearts, their conscience bearing witness therewith, and <i>[h]</i>their <i>[i]</i>thoughts one with another accusing or else excusing ); ",
+            "version": "ASV",
+            "clsstr": "Rom-2-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>their thoughts accusing or else excusing</i> them <i>one with another</i>"
+                },
+                {
+                    "i": "Or, <i>reasonings</i>. [[2 Cor. 10:5]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002016,
+            "text": "in the day when God <i>[j]</i>shall judge the secrets of men, according to my <i>[k]</i>gospel, by Jesus Christ.",
+            "version": "ASV",
+            "clsstr": "Rom-2-16",
+            "footnotes": [
+                {
+                    "j": "Or, <i>judgeth</i>"
+                },
+                {
+                    "k": "See marginal note on [[1:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002017,
+            "text": "\u00b6 But if thou bearest the name of a Jew, and restest upon the law, and gloriest in God, ",
+            "version": "ASV",
+            "clsstr": "Rom-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002018,
+            "text": "and knowest <i>[l]</i>his will, and <i>[m]</i>approvest the things that are excellent, being instructed out of the law, ",
+            "version": "ASV",
+            "clsstr": "Rom-2-18",
+            "footnotes": [
+                {
+                    "l": "Or, <i>the Will</i>"
+                },
+                {
+                    "m": "Or, <i>dost distinguish the things that differ</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002019,
+            "text": "and art confident that thou thyself art a guide of the blind, a light of them that are in darkness, ",
+            "version": "ASV",
+            "clsstr": "Rom-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002020,
+            "text": " <i>[n]</i>a corrector of the foolish, a teacher of babes, having in the law the form of knowledge and of the truth; ",
+            "version": "ASV",
+            "clsstr": "Rom-2-20",
+            "footnotes": [
+                {
+                    "n": "Or, <i>an instructor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002021,
+            "text": "thou therefore that teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal? ",
+            "version": "ASV",
+            "clsstr": "Rom-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002022,
+            "text": "thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou rob temples? ",
+            "version": "ASV",
+            "clsstr": "Rom-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002023,
+            "text": "thou who gloriest in the law, through thy transgression of the law dishonorest thou God? ",
+            "version": "ASV",
+            "clsstr": "Rom-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002024,
+            "text": "For the name of God is blasphemed among the Gentiles because of you, <i>[o]</i>even as it is written. ",
+            "version": "ASV",
+            "clsstr": "Rom-2-24",
+            "footnotes": [
+                {
+                    "o": "[[Isa. 52:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002025,
+            "text": "For circumcision indeed profiteth, if thou be a doer of the law: but if thou be a transgressor of the law, thy circumcision is become uncircumcision. ",
+            "version": "ASV",
+            "clsstr": "Rom-2-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002026,
+            "text": "If therefore the uncircumcision keep the ordinances of the law, shall not his uncircumcision be reckoned for circumcision? ",
+            "version": "ASV",
+            "clsstr": "Rom-2-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002027,
+            "text": "and shall not the uncircumcision which is by nature, if it fulfil the law, judge thee, who with the letter and circumcision art a transgressor of the law? ",
+            "version": "ASV",
+            "clsstr": "Rom-2-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002028,
+            "text": "For he is not a Jew who is one outwardly; neither is that circumcision which is outward in the flesh: ",
+            "version": "ASV",
+            "clsstr": "Rom-2-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45002029,
+            "text": "but he is a Jew who is one inwardly; and circumcision is that of the heart, in the spirit not in the letter; whose praise is not of men, but of God.",
+            "version": "ASV",
+            "clsstr": "Rom-2-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 2
+}

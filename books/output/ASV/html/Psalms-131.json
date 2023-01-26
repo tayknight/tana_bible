@@ -1,0 +1,47 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19131001,
+            "text": "<b>Childlike trust in Jehovah.</b>\n\u00b6 A Song of Ascents; of David.\u00b6   Jehovah, my heart is not haughty, nor mine eyes lofty;\n  Neither do I <i>[a]</i>exercise myself in great matters,\n    Or in things too wonderful for me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-131-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>walk</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19131002,
+            "text": "    Surely I have stilled and quieted my soul;\n    Like a weaned child with his mother,\n    Like a weaned child is my soul within me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-131-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19131003,
+            "text": "    O Israel, hope in Jehovah\n    From this time forth and for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-131-3",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 131
+}

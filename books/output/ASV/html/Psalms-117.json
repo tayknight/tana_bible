@@ -1,0 +1,39 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19117001,
+            "text": "<b>A psalm of praise.</b>\n\u00b6     Oh praise Jehovah, all ye nations;\n    Laud him, all ye peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-117-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19117002,
+            "text": "  For his lovingkindness is great toward us;\n  And the truth of Jehovah for ever.\n   <i>[a]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-117-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 117
+}

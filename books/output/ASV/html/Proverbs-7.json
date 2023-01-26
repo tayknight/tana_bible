@@ -1,0 +1,278 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20007001,
+            "text": "\u00b6     My son, keep my words,\n    And lay up my commandments with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007002,
+            "text": "    Keep my commandments and live;\n    And my law as the apple of thine eye.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007003,
+            "text": "    Bind them upon thy fingers;\n    Write them upon the tablet of thy heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007004,
+            "text": "  Say unto wisdom, Thou art my sister;\n  And call understanding  <i>[a]</i>kinswoman:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>familiar friend</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007005,
+            "text": "  That they may keep thee from the strange woman,\n  From the foreigner that <i>[b]</i>flattereth with her words.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>maketh smooth her words</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007006,
+            "text": "    For at the window of my house\n    I looked forth through my lattice;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007007,
+            "text": "    And I beheld among the simple ones,\n    I discerned among the youths,\n    A young man void of understanding,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007008,
+            "text": "    Passing through the street near her corner;\n    And he went the way to her house,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007009,
+            "text": "  In the twilight, in the evening of the day,\n  In the <i>[c]</i>middle of the night and in the darkness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-9",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>pupil</i> (of the eye)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007010,
+            "text": "  And, behold, there met him a woman\n  With the attire of a harlot, and <i>[d]</i>wily of heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>close</i>. Hebrew <i>guarded</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007011,
+            "text": "  (She is <i>[e]</i>clamorous and wilful;\n    Her feet abide not in her house:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>turbulent</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007012,
+            "text": "    Now she is in the streets, now in the broad places,\n    And lieth in wait at every corner.)\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007013,
+            "text": "  So she caught him, and kissed him,\n   <i>[f]</i> with an impudent face she said unto him:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-13",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>She hardened her face, and said</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007014,
+            "text": "  Sacrifices of peace-offerings <i>[g]</i>are with me;\n    This day have I paid my vows.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>were due from me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007015,
+            "text": "    Therefore came I forth to meet thee,\n    Diligently to seek thy face, and I have found thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007016,
+            "text": "  I have spread my couch with <i>[h]</i>carpets of tapestry,\n    With striped cloths of the yarn of Egypt.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-16",
+            "footnotes": [
+                {
+                    "h": "Or, <i>cushions</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007017,
+            "text": "  I have <i>[i]</i>perfumed my bed\n    With myrrh, aloes, and cinnamon.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>sprinkled</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007018,
+            "text": "    Come, let us take our fill of love until the morning;\n    Let us solace ourselves with loves.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007019,
+            "text": "    For the man is not at home;\n    He is gone a long journey:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007020,
+            "text": "    He hath taken a bag of money with him;\n    He will come home at the full moon.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007021,
+            "text": "    With her much fair speech she causeth him to yield;\n    With the flattering of her lips she forceth him along.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007022,
+            "text": " He goeth after her <i>[j]</i>straightway,\n  As an ox goeth to the slaughter,\n  Or as  <i>[k]</i>fetters to the correction of the fool;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-22",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>suddenly</i>."
+                },
+                {
+                    "k": "The Hebrew is obscure."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007023,
+            "text": "    Till an arrow strike through his liver;\n    As a bird hasteth to the snare,\n    And knoweth not that it is for his life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007024,
+            "text": "\u00b6     Now therefore,  sons, hearken unto me,\n    And attend to the words of my mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007025,
+            "text": "    Let not thy heart decline to her ways;\n    Go not astray in her paths.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007026,
+            "text": "    For she hath cast down many wounded:\n    Yea, all her slain are a mighty host.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20007027,
+            "text": "    Her house is the way to Sheol,\n    Going down to the chambers of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-7-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 7
+}

@@ -1,0 +1,346 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20003001,
+            "text": "\u00b6   My son, forget not my <i>[a]</i>law;\n    But let thy heart keep my commandments:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003002,
+            "text": "    For length of days, and years of life,\n    And peace, will they add to thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003003,
+            "text": "    Let not kindness and truth forsake thee:\n    Bind them about thy neck;\n    Write them upon the tablet of thy heart:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003004,
+            "text": "  So shalt thou find favor and <i>[b]</i>good understanding\n    In the sight of God and man.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>good repute</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003005,
+            "text": "    Trust in Jehovah with all thy heart,\n    And lean not upon thine own understanding:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003006,
+            "text": "  In all thy ways acknowledge him,\n  And he will <i>[c]</i>direct thy paths.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>make straight</i> (or, <i>plain</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003007,
+            "text": "    Be not wise in thine own eyes;\n    Fear Jehovah, and depart from evil:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003008,
+            "text": "  It will be health to thy navel,\n  And <i>[d]</i>marrow to thy bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>refreshing</i>. Hebrew <i>moistening</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003009,
+            "text": "    Honor Jehovah with thy substance,\n    And with the first-fruits of all thine increase:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003010,
+            "text": "    So shall thy barns be filled with plenty,\n    And thy vats shall overflow with new wine.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003011,
+            "text": "  My son, despise not the <i>[e]</i>chastening of Jehovah;\n    Neither be weary of his reproof:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>instruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003012,
+            "text": "    For whom Jehovah loveth he reproveth,\n    Even as a father the son in whom he delighteth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003013,
+            "text": "\u00b6   Happy is the man that findeth wisdom,\n  And the man that <i>[f]</i>getteth understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-13",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>draweth forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003014,
+            "text": "    For the gaining of it is better than the gaining of silver,\n    And the profit thereof than fine gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003015,
+            "text": "    She is more precious than rubies:\n    And none of the things thou canst desire are to be compared unto her.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003016,
+            "text": "    Length of days is in her right hand;\n    In her left hand are riches and honor.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003017,
+            "text": "    Her ways are ways of pleasantness,\n    And all her paths are peace.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003018,
+            "text": "    She is a tree of life to them that lay hold upon her:\n    And happy is every one that retaineth her.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003019,
+            "text": "    Jehovah by wisdom founded the earth;\n    By understanding he established the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003020,
+            "text": "    By his knowledge the depths were broken up,\n    And the skies drop down the dew.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003021,
+            "text": "    My son, let them not depart from thine eyes;\n    Keep sound wisdom and discretion:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003022,
+            "text": "    So shall they be life unto thy soul,\n    And grace to thy neck.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003023,
+            "text": "  Then shalt thou walk in thy way securely,\n  And <i>[g]</i>thy foot shall not stumble.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-23",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>thou shalt not dash thy foot</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003024,
+            "text": "    When thou liest down, thou shalt not be afraid:\n    Yea, thou shalt lie down, and thy sleep shall be sweet.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003025,
+            "text": "  Be not afraid of sudden fear,\n  Neither of the <i>[h]</i>desolation of the wicked, when it cometh:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-25",
+            "footnotes": [
+                {
+                    "h": "Or, <i>storm</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003026,
+            "text": "    For Jehovah will be thy confidence,\n    And will keep thy foot from being taken.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003027,
+            "text": "\u00b6     Withhold not good from them to whom it is due,\n    When it is in the power of thy hand to do it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003028,
+            "text": "    Say not unto thy neighbor, Go, and come again,\n    And to-morrow I will give;\n    When thou hast it by thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003029,
+            "text": "    Devise not evil against thy neighbor,\n    Seeing he dwelleth securely by thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003030,
+            "text": "    Strive not with a man without cause,\n    If he have done thee no harm.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003031,
+            "text": "    Envy thou not the man of violence,\n    And choose none of his ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003032,
+            "text": "  For the perverse is an abomination to Jehovah;\n  But his <i>[i]</i>friendship is with the upright.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-32",
+            "footnotes": [
+                {
+                    "i": "Or, <i>counsel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003033,
+            "text": "    The curse of Jehovah is in the house of the wicked;\n    But he blesseth the habitation of the righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003034,
+            "text": "  <i>[j]</i>Surely he scoffeth at the scoffers;\n   <i>[k]</i>But he giveth grace unto the lowly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-34",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Though</i>"
+                },
+                {
+                    "k": "Or, <i>Yet</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20003035,
+            "text": "  The wise shall inherit glory;\n  But <i>[l]</i>shame shall be the promotion of fools.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-3-35",
+            "footnotes": [
+                {
+                    "l": "Or, <i>fools carry away shame</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 3
+}

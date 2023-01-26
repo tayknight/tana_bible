@@ -1,0 +1,390 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13009001,
+            "text": "\u00b6 So all Israel were reckoned by genealogies; and, behold, they are written in the book of the kings of Israel. And Judah was carried away captive to Babylon for their transgression. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009002,
+            "text": "Now the first inhabitants that dwelt in their possessions in their cities were Israel, the priests, the Levites, and the Nethinim. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009003,
+            "text": "And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim and Manasseh: ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009004,
+            "text": "Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Perez the son of Judah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009005,
+            "text": "And of the Shilonites: Asaiah the first-born, and his sons. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009006,
+            "text": "And of the sons of Zerah: Jeuel, and their brethren, six hundred and ninety. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009007,
+            "text": "And of the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009008,
+            "text": "and Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah; ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009009,
+            "text": "and their brethren, according to their generations, nine hundred and fifty and six. All these men were heads of fathers\u2019  by their fathers\u2019 houses.",
+            "version": "ASV",
+            "clsstr": "1Chr-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009010,
+            "text": "\u00b6 And of the priests: Jedaiah, and Jehoiarib, Jachin, ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009011,
+            "text": "and <i>[a]</i>Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God; ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-11",
+            "footnotes": [
+                {
+                    "a": "In [[Neh. 11:11]], <i>Seraiah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009012,
+            "text": "and Adaiah the son of Jeroham, the son of Pashhur, the son of Malchijah, and Maasai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer; ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009013,
+            "text": "and their brethren, heads of their fathers\u2019 houses, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.",
+            "version": "ASV",
+            "clsstr": "1Chr-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009014,
+            "text": "\u00b6 And of the Levites: Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari; ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009015,
+            "text": "and Bakbakkar, Heresh, and Galal, and Mattaniah the son of Mica, the son of <i>[b]</i>Zichri, the son of Asaph, ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-15",
+            "footnotes": [
+                {
+                    "b": "In [[Neh. 11:17]], <i>Zabdi</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009016,
+            "text": "and <i>[c]</i>Obadiah the son of <i>[d]</i>Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.",
+            "version": "ASV",
+            "clsstr": "1Chr-9-16",
+            "footnotes": [
+                {
+                    "c": "In [[Neh. 11:17]], <i>Abda</i>."
+                },
+                {
+                    "d": "In [[Neh. 11:17]], <i>Shammua</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009017,
+            "text": "\u00b6 And the porters: Shallum, and Akkub, and Talmon, and Ahiman, and their brethren (Shallum was the chief), ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009018,
+            "text": "who hitherto  in the king\u2019s gate eastward: they were the porters for the camp of the children of Levi. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009019,
+            "text": "And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of his father\u2019s house, the Korahites, were over the work of the service, keepers of the thresholds of the tent: and their fathers had been over the camp of Jehovah, keepers of the entry. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009020,
+            "text": "And Phinehas the son of Eleazar was ruler over them in time past,  Jehovah was with him. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009021,
+            "text": "Zechariah the son of Meshelemiah was porter of the door of the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009022,
+            "text": "All these that were chosen to be porters in the thresholds were two hundred and twelve. These were reckoned by genealogy in their villages, whom David and Samuel the seer did ordain in their office of trust. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009023,
+            "text": "So they and their children had the oversight of the gates of the house of Jehovah, even the house of the tent, by wards. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009024,
+            "text": " <i>[e]</i>On the four sides were the porters, toward the east, west, north, and south. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-24",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>Towards the four winds</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009025,
+            "text": "And their brethren, in their villages, were to come in every seven days from time to time to be with them: ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009026,
+            "text": "for the four chief porters, who were Levites, were in an office of trust, and were over the chambers and over the treasuries in the house of God. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009027,
+            "text": "And they lodged round about the house of God, because the charge  was upon them; and to them pertained the opening thereof morning by morning.",
+            "version": "ASV",
+            "clsstr": "1Chr-9-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009028,
+            "text": "\u00b6 And certain of them had charge of the vessels of service; for by count were these brought in and by count were these taken out. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009029,
+            "text": "Some of them also were appointed over the furniture, and over all the vessels of the sanctuary, and over the fine flour, and the wine, and the oil, and the frankincense, and the spices. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009030,
+            "text": "And some of the sons of the priests prepared the confection of the spices. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009031,
+            "text": "And Mattithiah, one of the Levites, who was the first-born of Shallum the Korahite, had the office of trust over the things that were baked in pans. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009032,
+            "text": "And some of their brethren, of the sons of the Kohathites, were over the showbread, to prepare it every sabbath.",
+            "version": "ASV",
+            "clsstr": "1Chr-9-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009033,
+            "text": "\u00b6 And these are the singers, heads of fathers\u2019  of the Levites,  in the chambers  free ; for they were employed in their work day and night. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009034,
+            "text": "These were heads of fathers\u2019  of the Levites, throughout their generations, chief men: these dwelt at Jerusalem.",
+            "version": "ASV",
+            "clsstr": "1Chr-9-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009035,
+            "text": "\u00b6 And in Gibeon there dwelt the father of Gibeon, Jeiel, whose wife\u2019s name was Maacah; ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009036,
+            "text": "and his first-born son Abdon, and Zur, and Kish, and Baal, and Ner, and Nadab, ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009037,
+            "text": "and Gedor, and Ahio, and Zechariah, and Mikloth. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009038,
+            "text": "And Mikloth begat Shimeam. And they also dwelt with their brethren in Jerusalem, over against their brethren. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009039,
+            "text": "And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009040,
+            "text": "And the son of Jonathan was Merib-baal; and Merib-baal begat Micah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009041,
+            "text": "And the sons of Micah: Pithon, and Melech, and Tahrea, . ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009042,
+            "text": "And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza; ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009043,
+            "text": "and Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-9-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13009044,
+            "text": "And Azel had six sons, whose names are these: Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.",
+            "version": "ASV",
+            "clsstr": "1Chr-9-44",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 9
+}

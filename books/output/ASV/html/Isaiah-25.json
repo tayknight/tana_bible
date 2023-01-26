@@ -1,0 +1,140 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23025001,
+            "text": "\u00b6 O Jehovah, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things,  counsels of old, in faithfulness  truth. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025002,
+            "text": "For thou hast made of a city a heap, of a fortified city a ruin, a palace of strangers to be no city; it shall never be built. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025003,
+            "text": "Therefore shall a strong people glorify thee; a city of terrible nations shall fear thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025004,
+            "text": "For thou hast been a stronghold to the poor, a stronghold to the needy in his distress, a refuge from the storm, a shade from the heat, when the blast of the terrible ones is as a storm against the wall. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025005,
+            "text": "As the heat in a dry place wilt thou bring down the noise of strangers; as the heat by the shade of a cloud, the song of the terrible ones shall be brought low.",
+            "version": "ASV",
+            "clsstr": "Isa-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025006,
+            "text": "\u00b6 And in this mountain will Jehovah of hosts make unto all peoples a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025007,
+            "text": "And he will <i>[a]</i>destroy in this mountain the face of the covering that covereth all peoples, and the veil that is spread over all nations. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-7",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>swallow up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025008,
+            "text": "He hath swallowed up death for ever; and the Lord Jehovah will wipe away tears from off all faces; and the reproach of his people will he take away from off all the earth: for Jehovah hath spoken it.",
+            "version": "ASV",
+            "clsstr": "Isa-25-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025009,
+            "text": "\u00b6 And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is Jehovah; we have waited for him, we will be glad and rejoice in his salvation. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025010,
+            "text": "For in this mountain will the hand of Jehovah rest; and Moab shall be trodden down in his place, even as straw is trodden down <i>[b]</i>in the water of the dunghill. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-10",
+            "footnotes": [
+                {
+                    "b": "Another reading is, <i>in the dunghill</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025011,
+            "text": "And he shall spread forth his hands in the midst <i>[c]</i>thereof, as he that swimmeth spreadeth forth to swim; but will lay low <i>[d]</i>his pride <i>[e]</i>together with the craft of <i>[f]</i>his hands. ",
+            "version": "ASV",
+            "clsstr": "Isa-25-11",
+            "footnotes": [
+                {
+                    "c": "Or, <i>of them</i>"
+                },
+                {
+                    "d": "Or, <i>their</i>"
+                },
+                {
+                    "e": "Or, <i>for all the craft</i>"
+                },
+                {
+                    "f": "Or, <i>their</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23025012,
+            "text": "And the high fortress of thy walls <i>[g]</i>hath he brought down, laid low, and brought to the ground, even to the dust.",
+            "version": "ASV",
+            "clsstr": "Isa-25-12",
+            "footnotes": [
+                {
+                    "g": "Or, <i>will he bring down, lay low, and bring etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 25
+}

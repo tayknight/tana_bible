@@ -1,0 +1,148 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 52,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 28,
+            "end_book": null
+        }
+    ],
+    "book": 52,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 52003001,
+            "text": "\u00b6 Wherefore when we could no longer forbear, we thought it good to be left behind at Athens alone; ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003002,
+            "text": "and sent Timothy, our brother and <i>[a]</i>God\u2019s minister in the <i>[b]</i>gospel of Christ, to establish you, and to comfort  concerning your faith; ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-2",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities read <i>fellow-worker with God</i>."
+                },
+                {
+                    "b": "Greek <i>good tidings</i>. See [[1:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003003,
+            "text": "that no man be moved by these afflictions; for yourselves know that hereunto we are appointed. ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003004,
+            "text": "For verily, when we were with you, we told you <i>[c]</i>beforehand that we are to suffer affliction; even as it came to pass, and ye know. ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>plainly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003005,
+            "text": "For this cause I also, when I could no longer forbear, sent that I might know your faith, lest by any means the tempter had tempted you, and our labor should be in vain. ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003006,
+            "text": "But when Timothy came even now unto us from you, and brought us glad tidings of your faith and love, and that ye have good remembrance of us always, longing to see us, even as we also  you; ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003007,
+            "text": "for this cause, brethren, we were comforted over you in all our distress and affliction through your faith: ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003008,
+            "text": "for now we live, if ye stand fast in the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003009,
+            "text": "For what thanksgiving can we render again unto God for you, for all the joy wherewith we joy for your sakes before our God; ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003010,
+            "text": "night and day praying exceedingly that we may see your face, and may perfect that which is lacking in your faith?",
+            "version": "ASV",
+            "clsstr": "1Thess-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003011,
+            "text": "\u00b6 Now may <i>[d]</i>our God and Father himself, and our Lord Jesus, direct our way unto you: ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>God himself and our Father</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003012,
+            "text": "and the Lord make you to increase and abound in love one toward another, and toward all men, even as we also  toward you; ",
+            "version": "ASV",
+            "clsstr": "1Thess-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52003013,
+            "text": "to the end he may establish your hearts unblamable in holiness before <i>[e]</i>our God and Father, at the <i>[f]</i>coming of our Lord Jesus with all his saints. <i>[g]</i>",
+            "version": "ASV",
+            "clsstr": "1Thess-3-13",
+            "footnotes": [
+                {
+                    "e": "Or, <i>God and our Father</i>"
+                },
+                {
+                    "f": "Greek <i>presence</i>. Compare [[2 Cor. 10:10]]."
+                },
+                {
+                    "g": "Many ancient authorities add <i>Amen</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Thessalonians",
+    "chapters": 3
+}

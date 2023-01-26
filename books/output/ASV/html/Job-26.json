@@ -1,0 +1,171 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18026001,
+            "text": "\u00b6 Then Job answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-26-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026002,
+            "text": "\u00b6     How hast thou helped him that is without power!\n    How hast thou saved the arm that hath no strength!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026003,
+            "text": "    How hast thou counselled him that hath no wisdom,\n    And plentifully declared sound knowledge!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026004,
+            "text": "  To whom hast thou uttered words?\n  And whose <i>[a]</i>spirit came forth from thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>breath</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026005,
+            "text": "\u00b6   <i>[b]</i>They that are deceased tremble\n    Beneath the waters and the inhabitants thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>The shades</i>. Hebrew <i>The Rephaim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026006,
+            "text": " Sheol is naked before <i>[c]</i>,\n  And <i>[d]</i>Abaddon hath no covering.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>him</i>."
+                },
+                {
+                    "d": "Or, <i>Destruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026007,
+            "text": "  He stretcheth out the north over empty space,\n  And hangeth the earth <i>[e]</i>upon nothing.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>over</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026008,
+            "text": "    He bindeth up the waters in his thick clouds;\n    And the cloud is not rent under them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026009,
+            "text": "    He incloseth the face of his throne,\n    And spreadeth his cloud upon it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026010,
+            "text": "    He hath described a boundary upon the face of the waters,\n    Unto the confines of light and darkness.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026011,
+            "text": "    The pillars of heaven tremble\n    And are astonished at his rebuke.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026012,
+            "text": "  He <i>[f]</i>stirreth up the sea with his power,\n    And by his understanding he smiteth through Rahab.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>stilleth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026013,
+            "text": " By his Spirit the heavens are <i>[g]</i>garnished;\n  His hand hath pierced the <i>[h]</i>swift serpent.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-13",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>beauty</i>."
+                },
+                {
+                    "h": "Or, <i>fleeing</i>. Or, <i>gliding</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18026014,
+            "text": " Lo, these are but the outskirts of his ways:\n And <i>[i]</i>how small a whisper <i>[j]</i>do we hear of him!\n  But the thunder of his <i>[k]</i>power who can understand?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-26-14",
+            "footnotes": [
+                {
+                    "i": "Or, <i>how little a portion</i>"
+                },
+                {
+                    "j": "Or, <i>is heard</i>"
+                },
+                {
+                    "k": "Or, <i>mighty deeds</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 26
+}

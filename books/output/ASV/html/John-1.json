@@ -1,0 +1,521 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43001001,
+            "text": "\u00b6 In the beginning was the Word, and the Word was with God, and the Word was God. ",
+            "version": "ASV",
+            "clsstr": "John-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001002,
+            "text": "The same was in the beginning with God. ",
+            "version": "ASV",
+            "clsstr": "John-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001003,
+            "text": "All things were made through him; and without him <i>[a]</i>was not anything made that hath been made. ",
+            "version": "ASV",
+            "clsstr": "John-1-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>was not anything made. That which hath been made was life in him; and the life etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001004,
+            "text": "In him was life; and the life was the light of men. ",
+            "version": "ASV",
+            "clsstr": "John-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001005,
+            "text": "And the light shineth in the darkness; and the darkness <i>[b]</i>apprehended it not. ",
+            "version": "ASV",
+            "clsstr": "John-1-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>overcame</i>. See [[12:35]] (Greek)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001006,
+            "text": "There came a man, sent from God, whose name was John. ",
+            "version": "ASV",
+            "clsstr": "John-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001007,
+            "text": "The same came for witness, that he might bear witness of the light, that all might believe through him. ",
+            "version": "ASV",
+            "clsstr": "John-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001008,
+            "text": "He was not the light, but  that he might bear witness of the light. ",
+            "version": "ASV",
+            "clsstr": "John-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001009,
+            "text": " <i>[c]</i>There was the true light, which lighteth <i>[d]</i>every man, coming into the world. ",
+            "version": "ASV",
+            "clsstr": "John-1-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the true light, which lighteth every man, was coming</i>"
+                },
+                {
+                    "d": "Or, <i>every man as he cometh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001010,
+            "text": "He was in the world, and the world was made through him, and the world knew him not. ",
+            "version": "ASV",
+            "clsstr": "John-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001011,
+            "text": "He came unto <i>[e]</i>his own, and they that were his own received him not. ",
+            "version": "ASV",
+            "clsstr": "John-1-11",
+            "footnotes": [
+                {
+                    "e": "Greek <i>his own things</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001012,
+            "text": "But as many as received him, to them gave he the right to become children of God,  to them that believe on his name: ",
+            "version": "ASV",
+            "clsstr": "John-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001013,
+            "text": "who were <i>[f]</i>born, not of <i>[g]</i>blood, nor of the will of the flesh, nor of the will of man, but of God. ",
+            "version": "ASV",
+            "clsstr": "John-1-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>begotten</i>"
+                },
+                {
+                    "g": "Greek <i>bloods</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001014,
+            "text": "And the Word became flesh, and <i>[h]</i>dwelt among us (and we beheld his glory, glory as of <i>[i]</i>the only begotten from the Father), full of grace and truth. ",
+            "version": "ASV",
+            "clsstr": "John-1-14",
+            "footnotes": [
+                {
+                    "h": "Greek <i>tabernacled</i>."
+                },
+                {
+                    "i": "Or, <i>an only begotten from a father</i>. Compare [[Heb. 11:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001015,
+            "text": "John beareth witness of him, and crieth, saying, <i>[j]</i>This was he of whom I said, He that cometh after me is become before me: for he was <i>[k]</i>before me. ",
+            "version": "ASV",
+            "clsstr": "John-1-15",
+            "footnotes": [
+                {
+                    "j": "Some ancient authorities read <i>(this was he that said)</i>."
+                },
+                {
+                    "k": "Greek <i>first in regard of me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001016,
+            "text": "For of his fulness we all received, and <i>[l]</i>grace for grace. ",
+            "version": "ASV",
+            "clsstr": "John-1-16",
+            "footnotes": [
+                {
+                    "l": "Or, <i>grace upon grace</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001017,
+            "text": "For the law was given through Moses; grace and truth came through Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "John-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001018,
+            "text": "No man hath seen God at any time; <i>[m]</i>the only begotten Son, who is in the bosom of the Father, he hath declared .",
+            "version": "ASV",
+            "clsstr": "John-1-18",
+            "footnotes": [
+                {
+                    "m": "Many very ancient authorities read <i>God only begotten</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001019,
+            "text": "\u00b6 And this is the witness of John, when the Jews sent unto him from Jerusalem priests and Levites to ask him, Who art thou? ",
+            "version": "ASV",
+            "clsstr": "John-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001020,
+            "text": "And he confessed, and denied not; and he confessed, I am not the Christ. ",
+            "version": "ASV",
+            "clsstr": "John-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001021,
+            "text": "And they asked him, What then? Art thou Elijah? And he saith, I am not. Art thou the prophet? And he answered, No. ",
+            "version": "ASV",
+            "clsstr": "John-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001022,
+            "text": "They said therefore unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself? ",
+            "version": "ASV",
+            "clsstr": "John-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001023,
+            "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as <i>[n]</i>said Isaiah the prophet. ",
+            "version": "ASV",
+            "clsstr": "John-1-23",
+            "footnotes": [
+                {
+                    "n": "[[Isa. 40:3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001024,
+            "text": " <i>[o]</i>And they had been sent from the Pharisees. ",
+            "version": "ASV",
+            "clsstr": "John-1-24",
+            "footnotes": [
+                {
+                    "o": "Or, <i>And</i> certain <i>had been sent from among the Pharisees</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001025,
+            "text": "And they asked him, and said unto him, Why then baptizest thou, if thou art not the Christ, neither Elijah, neither the prophet? ",
+            "version": "ASV",
+            "clsstr": "John-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001026,
+            "text": "John answered them, saying, I baptize <i>[p]</i>in water: in the midst of you standeth one whom ye know not, ",
+            "version": "ASV",
+            "clsstr": "John-1-26",
+            "footnotes": [
+                {
+                    "p": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001027,
+            "text": " he that cometh after me, the latchet of whose shoe I am not worthy to unloose. ",
+            "version": "ASV",
+            "clsstr": "John-1-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001028,
+            "text": "These things were done in <i>[q]</i>Bethany beyond the Jordan, where John was baptizing.",
+            "version": "ASV",
+            "clsstr": "John-1-28",
+            "footnotes": [
+                {
+                    "q": "Many ancient authorities read <i>Bethabarah</i>, some <i>Betharabah</i>. Compare [[Josh. 15:6]], [[61]]; [[18:22]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001029,
+            "text": "\u00b6 On the morrow he seeth Jesus coming unto him, and saith, Behold, the Lamb of God, that <i>[r]</i>taketh away the sin of the world! ",
+            "version": "ASV",
+            "clsstr": "John-1-29",
+            "footnotes": [
+                {
+                    "r": "Or, <i>beareth the sin</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001030,
+            "text": "This is he of whom I said, After me cometh a man who is become before me: for he was <i>[s]</i>before me. ",
+            "version": "ASV",
+            "clsstr": "John-1-30",
+            "footnotes": [
+                {
+                    "s": "Greek <i>first in regard of me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001031,
+            "text": "And I knew him not; but that he should be made manifest to Israel, for this cause came I baptizing <i>[t]</i>in water. ",
+            "version": "ASV",
+            "clsstr": "John-1-31",
+            "footnotes": [
+                {
+                    "t": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001032,
+            "text": "And John bare witness, saying, I have beheld the Spirit descending as a dove out of heaven; and it abode upon him. ",
+            "version": "ASV",
+            "clsstr": "John-1-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001033,
+            "text": "And I knew him not: but he that sent me to baptize <i>[u]</i>in water, he said unto me, Upon whomsoever thou shalt see the Spirit descending, and abiding upon him, the same is he that baptizeth <i>[v]</i>in the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "John-1-33",
+            "footnotes": [
+                {
+                    "u": "Or, <i>with</i>"
+                },
+                {
+                    "v": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001034,
+            "text": "And I have seen, and have borne witness that this is the Son of God.",
+            "version": "ASV",
+            "clsstr": "John-1-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001035,
+            "text": "\u00b6 Again on the morrow John was standing, and two of his disciples; ",
+            "version": "ASV",
+            "clsstr": "John-1-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001036,
+            "text": "and he looked upon Jesus as he walked, and saith, Behold, the Lamb of God! ",
+            "version": "ASV",
+            "clsstr": "John-1-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001037,
+            "text": "And the two disciples heard him speak, and they followed Jesus. ",
+            "version": "ASV",
+            "clsstr": "John-1-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001038,
+            "text": "And Jesus turned, and beheld them following, and saith unto them, What seek ye? And they said unto him, Rabbi (which is to say, being interpreted, Teacher), where abidest thou? ",
+            "version": "ASV",
+            "clsstr": "John-1-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001039,
+            "text": "He saith unto them, Come, and ye shall see. They came therefore and saw where he abode; and they abode with him that day: it was about the tenth hour. ",
+            "version": "ASV",
+            "clsstr": "John-1-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001040,
+            "text": "One of the two that heard John , and followed him, was Andrew, Simon Peter\u2019s brother. ",
+            "version": "ASV",
+            "clsstr": "John-1-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001041,
+            "text": "He findeth first his own brother Simon, and saith unto him, We have found the Messiah (which is, being interpreted, <i>[w]</i>Christ). ",
+            "version": "ASV",
+            "clsstr": "John-1-41",
+            "footnotes": [
+                {
+                    "w": "That is, <i>Anointed</i>. Compare [[Ps. 2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001042,
+            "text": "He brought him unto Jesus. Jesus looked upon him, and said, Thou art Simon the son of <i>[x]</i>John: thou shalt be called Cephas (which is by interpretation, <i>[y]</i>Peter).",
+            "version": "ASV",
+            "clsstr": "John-1-42",
+            "footnotes": [
+                {
+                    "x": "Greek <i>Joanes</i>: called in [[Mt. 16:17]] <i>Jonah</i>."
+                },
+                {
+                    "y": "That is, <i>Rock</i> or <i>Stone</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001043,
+            "text": "\u00b6 On the morrow he was minded to go forth into Galilee, and he findeth Philip: and Jesus saith unto him, Follow me. ",
+            "version": "ASV",
+            "clsstr": "John-1-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001044,
+            "text": "Now Philip was from Bethsaida, of the city of Andrew and Peter. ",
+            "version": "ASV",
+            "clsstr": "John-1-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001045,
+            "text": "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, wrote, Jesus of Nazareth, the son of Joseph. ",
+            "version": "ASV",
+            "clsstr": "John-1-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001046,
+            "text": "And Nathanael said unto him, Can any good thing come out of Nazareth? Philip saith unto him, Come and see. ",
+            "version": "ASV",
+            "clsstr": "John-1-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001047,
+            "text": "Jesus saw Nathanael coming to him, and saith of him, Behold, an Israelite indeed, in whom is no guile! ",
+            "version": "ASV",
+            "clsstr": "John-1-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001048,
+            "text": "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before Philip called thee, when thou wast under the fig tree, I saw thee. ",
+            "version": "ASV",
+            "clsstr": "John-1-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001049,
+            "text": "Nathanael answered him, Rabbi, thou art the Son of God; thou art King of Israel. ",
+            "version": "ASV",
+            "clsstr": "John-1-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001050,
+            "text": "Jesus answered and said unto him, Because I said unto thee, I saw thee underneath the fig tree, believest thou? thou shalt see greater things than these. ",
+            "version": "ASV",
+            "clsstr": "John-1-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43001051,
+            "text": "And he saith unto him, Verily, verily, I say unto you, Ye shall see the heaven opened, and the angels of God ascending and descending upon the Son of man.",
+            "version": "ASV",
+            "clsstr": "John-1-51",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 1
+}

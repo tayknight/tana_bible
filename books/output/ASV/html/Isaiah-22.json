@@ -1,0 +1,261 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23022001,
+            "text": "\u00b6 The <i>[a]</i>burden of the valley of vision.\u00b6 What aileth thee now, that thou art wholly gone up to the housetops? ",
+            "version": "ASV",
+            "clsstr": "Isa-22-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle concerning</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022002,
+            "text": "O thou that art full of shoutings, a tumultuous city, a joyous town; thy slain are not slain with the sword, neither are they dead in battle. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022003,
+            "text": "All thy rulers fled away together, they were bound <i>[b]</i>by the archers; all that were found of thee were bound together; <i>[c]</i>they fled afar off. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>without the bow</i>"
+                },
+                {
+                    "c": "Or, <i>that had fled from far</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022004,
+            "text": "Therefore said I, Look away from me, I will weep bitterly; <i>[d]</i>labor not to comfort me for the destruction of the daughter of my people.",
+            "version": "ASV",
+            "clsstr": "Isa-22-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>hasten</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022005,
+            "text": "\u00b6 For it is a day of discomfiture, and of treading down, and of perplexity, from the Lord, Jehovah of hosts, in the valley of vision; a breaking down of the walls, and a crying to the <i>[e]</i>mountains. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-5",
+            "footnotes": [
+                {
+                    "e": "Or, <i>mountain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022006,
+            "text": "And Elam bare the quiver, with <i>[f]</i>chariots of men  horsemen; and Kir uncovered the shield. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>troops</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022007,
+            "text": "And it came to pass, that thy choicest valleys were full of chariots, and the horsemen set themselves in array at the gate. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022008,
+            "text": "And he took away the covering of Judah; and thou didst look in that day to the armor in the house of the forest. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022009,
+            "text": "And ye saw the breaches of the city of David, that they were many; and ye gathered together the waters of the lower pool; ",
+            "version": "ASV",
+            "clsstr": "Isa-22-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022010,
+            "text": "and ye numbered the houses of Jerusalem, and ye brake down the houses to fortify the wall; ",
+            "version": "ASV",
+            "clsstr": "Isa-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022011,
+            "text": "ye made also a reservoir between the two walls for the water of the old pool. But ye looked not unto <i>[g]</i>him that had done this, neither had ye respect unto him that purposed it long ago.",
+            "version": "ASV",
+            "clsstr": "Isa-22-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the maker thereof</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022012,
+            "text": "\u00b6 And in that day did the Lord, Jehovah of hosts, call to weeping, and to mourning, and to baldness, and to girding with sackcloth: ",
+            "version": "ASV",
+            "clsstr": "Isa-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022013,
+            "text": "and, behold, joy and gladness, slaying oxen and killing sheep, eating flesh and drinking wine: Let us eat and drink, for to-morrow we shall die. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022014,
+            "text": "And Jehovah of hosts revealed himself in mine ears, Surely this iniquity shall not be <i>[h]</i>forgiven you till ye die, saith the Lord, Jehovah of hosts.",
+            "version": "ASV",
+            "clsstr": "Isa-22-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>expiated by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022015,
+            "text": "\u00b6 Thus saith the Lord, Jehovah of hosts, Go, get thee unto this <i>[i]</i>treasurer, even unto Shebna, who is over the house, , ",
+            "version": "ASV",
+            "clsstr": "Isa-22-15",
+            "footnotes": [
+                {
+                    "i": "Or, <i>steward</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022016,
+            "text": "What doest thou here? and whom hast thou here, that thou hast hewed thee out here a sepulchre? hewing him out a sepulchre on high, graving a habitation for himself in the rock! ",
+            "version": "ASV",
+            "clsstr": "Isa-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022017,
+            "text": "Behold, Jehovah, <i>[j]</i>like a man, will hurl thee away violently; yea, he will <i>[k]</i>wrap thee up closely. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>O thou</i> strong <i>man</i>"
+                },
+                {
+                    "k": "Or, <i>lay fast hold on thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022018,
+            "text": "He will surely wind thee round and round,  like a ball into a large country; there shalt thou die, and there shall be the chariots of thy glory, thou shame of thy lord\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022019,
+            "text": "And I will thrust thee from thine office; and from thy station shalt thou be pulled down. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022020,
+            "text": "And it shall come to pass in that day, that I will call my servant Eliakim the son of Hilkiah: ",
+            "version": "ASV",
+            "clsstr": "Isa-22-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022021,
+            "text": "and I will clothe him with thy robe, and strengthen him with thy girdle, and I will commit thy government into his hand; and he shall be a father to the inhabitants of Jerusalem, and to the house of Judah. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022022,
+            "text": "And the key of the house of David will I lay upon his shoulder; and he shall open, and none shall shut; and he shall shut, and none shall open. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022023,
+            "text": "And I will fasten him as a nail in a sure place; and he shall be for a throne of glory to his father\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022024,
+            "text": "And they shall hang upon him all the glory of his father\u2019s house, the offspring and the issue, every small vessel, from the cups even to all the flagons. ",
+            "version": "ASV",
+            "clsstr": "Isa-22-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23022025,
+            "text": "In that day, saith Jehovah of hosts, shall the nail that was fastened in a sure place give way; and it shall be hewn down, and fall; and the burden that was upon it shall be cut off; for Jehovah hath spoken it.",
+            "version": "ASV",
+            "clsstr": "Isa-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 22
+}

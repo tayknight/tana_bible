@@ -1,0 +1,303 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 10,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 10,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 10002001,
+            "text": "\u00b6 And it came to pass after this, that David inquired of Jehovah, saying, Shall I go up into any of the cities of Judah? And Jehovah said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002002,
+            "text": "So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002003,
+            "text": "And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002004,
+            "text": "And the men of Judah came, and there they anointed David king over the house of Judah.\u00b6 And they told David, saying, The men of Jabesh-gilead were they that buried Saul. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002005,
+            "text": "And David sent messengers unto the men of Jabesh-gilead, and said unto them, Blessed be ye of Jehovah, that ye have showed this kindness unto your lord, even unto Saul, and have buried him. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002006,
+            "text": "And now Jehovah show lovingkindness and truth unto you: and I also will requite you this kindness, because ye have done this thing. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002007,
+            "text": "Now therefore let your hands be strong, and be ye valiant; for Saul your lord is dead, and also the house of Judah have anointed me king over them.",
+            "version": "ASV",
+            "clsstr": "2Sam-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002008,
+            "text": "\u00b6 Now Abner the son of Ner, captain of Saul\u2019s host, had taken <i>[a]</i>Ish-bosheth the son of Saul, and brought him over to Mahanaim; ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-8",
+            "footnotes": [
+                {
+                    "a": "In [[1 Chr. 8:33]]; [[9:39]], <i>Eshbaal</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002009,
+            "text": "and he made him king over Gilead, and over the <i>[b]</i>Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-9",
+            "footnotes": [
+                {
+                    "b": "The Vulgate and Syriac have, <i>Geshurites</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002010,
+            "text": "Ish-bosheth, Saul\u2019s son, was forty years old when he began to reign over Israel, and he reigned two years. But the house of Judah followed David. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002011,
+            "text": "And the time that David was king in Hebron over the house of Judah was seven years and six months.",
+            "version": "ASV",
+            "clsstr": "2Sam-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002012,
+            "text": "\u00b6 And Abner the son of Ner, and the servants of Ish-bosheth the son of Saul, went out from Mahanaim to Gibeon. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002013,
+            "text": "And Joab the son of Zeruiah, and the servants of David, went out, and met <i>[c]</i>them by the pool of Gibeon; and they sat down, the one on the one side of the pool, and the other on the other side of the pool. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-13",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>them together</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002014,
+            "text": "And Abner said to Joab, Let the young men, I pray thee, arise and play before us. And Joab said, Let them arise. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002015,
+            "text": "Then they arose and went over by number: twelve for Benjamin, and for Ish-bosheth the son of Saul, and twelve of the servants of David. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002016,
+            "text": "And they caught every one his fellow by the head, and his sword in his fellow\u2019s side; so they fell down together: wherefore that place was called <i>[d]</i>Helkath-hazzurim, which is in Gibeon. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-16",
+            "footnotes": [
+                {
+                    "d": "That is, <i>The field of the sharp knives</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002017,
+            "text": "And the battle was very sore that day; and Abner was beaten, and the men of Israel, before the servants of David.",
+            "version": "ASV",
+            "clsstr": "2Sam-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002018,
+            "text": "\u00b6 And the three sons of Zeruiah were there, Joab, and Abishai, and Asahel: and Asahel was as light of foot <i>[e]</i>as a wild roe. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-18",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>as one of the roes that are in the field</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002019,
+            "text": "And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002020,
+            "text": "Then Abner looked behind him, and said, Is it thou, Asahel? And he answered, It is I. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002021,
+            "text": "And Abner said to him, Turn thee aside to thy right hand or to thy left, and lay thee hold on one of the young men, and take thee his <i>[f]</i>armor. But Asahel would not turn aside from following him. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-21",
+            "footnotes": [
+                {
+                    "f": "Or, <i>spoil</i>. See [[Judg. 14:19]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002022,
+            "text": "And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother? ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002023,
+            "text": "Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him in the body, so that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, that as many as came to the place where Asahel fell down and died stood still.",
+            "version": "ASV",
+            "clsstr": "2Sam-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002024,
+            "text": "\u00b6 But Joab and Abishai pursued after Abner: and the sun went down when they were come to the hill of Ammah, that lieth before Giah by the way of the wilderness of Gibeon. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002025,
+            "text": "And the children of Benjamin gathered themselves together after Abner, and became one band, and stood on the top of a hill. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002026,
+            "text": "Then Abner called to Joab, and said, Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end? how long shall it be then, ere thou bid the people return from following their brethren? ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002027,
+            "text": "And Joab said, As God liveth, if thou hadst not spoken, surely then <i>[g]</i>in the morning the people had gone away, nor followed every one his brother. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-27",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>from the morning</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002028,
+            "text": "So Joab blew the trumpet; and all the people stood still, and pursued after Israel no more, neither fought they any more. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002029,
+            "text": "And Abner and his men went all that night through the Arabah; and they passed over the Jordan, and went through all Bithron, and came to Mahanaim.",
+            "version": "ASV",
+            "clsstr": "2Sam-2-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002030,
+            "text": "\u00b6 And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David\u2019s servants nineteen men and Asahel. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002031,
+            "text": "But the servants of David had smitten of Benjamin, and of Abner\u2019s men,  three hundred and threescore men died. ",
+            "version": "ASV",
+            "clsstr": "2Sam-2-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10002032,
+            "text": "And they took up Asahel, and buried him in the sepulchre of his father, which was in Beth-lehem. And Joab and his men went all night, and the day brake upon them at Hebron.",
+            "version": "ASV",
+            "clsstr": "2Sam-2-32",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Samuel",
+    "chapters": 2
+}

@@ -1,0 +1,95 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19028001,
+            "text": "<b>A prayer for help, and praise for its answer.</b>\n\u00b6  of David.\u00b6     Unto thee, O Jehovah, will I call:\n    My rock, be not thou deaf unto me;\n    Lest, if thou be silent unto me,\n    I become like them that go down into the pit.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028002,
+            "text": "  Hear the voice of my supplications, when I cry unto thee,\n  When I lift up my hands <i>[a]</i>toward thy holy oracle.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>toward the innermost place of thy sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028003,
+            "text": "    Draw me not away with the wicked,\n    And with the workers of iniquity;\n    That speak peace with their neighbors,\n    But mischief is in their hearts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028004,
+            "text": "    Give them according to their work, and according to the wickedness of their doings:\n    Give them after the operation of their hands;\n    Render to them their desert.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028005,
+            "text": "    Because they regard not the works of Jehovah,\n    Nor the operation of his hands,\n    He will break them down and not build them up.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028006,
+            "text": "\u00b6     Blessed be Jehovah,\n    Because he hath heard the voice of my supplications.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028007,
+            "text": "    Jehovah is my strength and my shield;\n    My heart hath trusted in him, and I am helped:\n    Therefore my heart greatly rejoiceth;\n    And with my song will I praise him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028008,
+            "text": "    Jehovah is their strength,\n    And he is a stronghold of salvation to his anointed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19028009,
+            "text": "    Save thy people, and bless thine inheritance:\n    Be their shepherd also, and bear them up for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-28-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 28
+}

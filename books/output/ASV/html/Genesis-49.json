@@ -1,0 +1,352 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1049001,
+            "text": "\u00b6 And Jacob called unto his sons, and said: Gather yourselves together, that I may tell you that which shall befall you in the latter days.",
+            "version": "ASV",
+            "clsstr": "Gen-49-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049002,
+            "text": "\u00b6     Assemble yourselves, and hear, ye sons of Jacob;\n    And hearken unto Israel your father.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049003,
+            "text": "\u00b6   Reuben, thou art my first-born, my might, and the <i>[a]</i>beginning of my strength;\n    The pre-eminence of dignity, and the pre-eminence of power.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>first-fruits</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049004,
+            "text": "  Boiling over as water, <i>[b]</i>thou shalt not have the pre-eminence;\n    Because thou wentest up to thy father\u2019s bed;\n    Then defiledst thou it: he went up to my couch.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>have not thou</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049005,
+            "text": "\u00b6   Simeon and Levi are brethren;\n  Weapons of violence are their <i>[c]</i>swords.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>compacts</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049006,
+            "text": " O my soul, come not thou into their <i>[d]</i>council;\n Unto their assembly, my glory, be not thou united;\n For in their anger they slew <i>[e]</i>a man,\n  And in their self-will they hocked <i>[f]</i>an ox.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>secret</i>"
+                },
+                {
+                    "e": "Or, <i>men</i>"
+                },
+                {
+                    "f": "Or, <i>oxen</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049007,
+            "text": "    Cursed be their anger, for it was fierce;\n    And their wrath, for it was cruel:\n    I will divide them in Jacob,\n    And scatter them in Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049008,
+            "text": "\u00b6     Judah, thee shall thy brethren praise:\n    Thy hand shall be on the neck of thine enemies;\n    Thy father\u2019s sons shall bow down before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049009,
+            "text": "    Judah is a lion\u2019s whelp;\n    From the prey, my son, thou art gone up:\n    He stooped down, he couched as a lion,\n    And as a lioness; who shall rouse him up?\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049010,
+            "text": " The sceptre shall not depart from Judah,\n Nor <i>[g]</i>the ruler\u2019s staff from between his feet,\n   <i>[h]</i>Until Shiloh come;\n    And unto him shall the obedience of the peoples be.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>a lawgiver</i>"
+                },
+                {
+                    "h": "Or, <i>Till he come to Shiloh, having the obedience of the peoples</i>. Or, according to Syriac, <i>Till he come whose it is etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049011,
+            "text": "    Binding his foal unto the vine,\n    And his ass\u2019s colt unto the choice vine;\n    He hath washed his garments in wine,\n    And his vesture in the blood of grapes:\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049012,
+            "text": "    His eyes shall be red with wine,\n    And his teeth white with milk.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049013,
+            "text": "\u00b6  Zebulun shall dwell at the <i>[i]</i>haven of the sea;\n  And he shall be for a haven of ships;\n  And his border shall be <i>[j]</i>upon Sidon.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-13",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>beach</i>."
+                },
+                {
+                    "j": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049014,
+            "text": "\u00b6     Issachar is a strong ass,\n    Couching down between the sheepfolds:\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049015,
+            "text": "  And he saw <i>[k]</i>a resting-place that it was good,\n    And the land that it was pleasant;\n    And he bowed his shoulder to bear,\n    And became a servant under taskwork.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-15",
+            "footnotes": [
+                {
+                    "k": "Or, <i>rest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049016,
+            "text": "\u00b6     Dan shall judge his people,\n    As one of the tribes of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049017,
+            "text": "  Dan shall be a serpent in the way,\n  An <i>[l]</i>adder in the path,\n    That biteth the horse\u2019s heels,\n    So that his rider falleth backward.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-17",
+            "footnotes": [
+                {
+                    "l": "Or, <i>horned snake</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049018,
+            "text": "    I have waited for thy salvation, O Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049019,
+            "text": "\u00b6  Gad, <i>[m]</i>a troop <i>[n]</i>shall press upon him;\n    But he shall press upon their heel.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-19",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>gedud</i>, a marauding band."
+                },
+                {
+                    "n": "Hebrew <i>gad</i>, to press."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049020,
+            "text": "\u00b6     Out of Asher his bread shall be fat,\n    And he shall yield royal dainties.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049021,
+            "text": "\u00b6     Naphtali is a hind let loose:\n    He giveth goodly words.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049022,
+            "text": "\u00b6  Joseph is <i>[o]</i>a fruitful bough,\n  A fruitful bough by a fountain;\n  His <i>[p]</i>branches run over the wall.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-22",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>the son of a fruitful tree</i>."
+                },
+                {
+                    "p": "Hebrew <i>daughters</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049023,
+            "text": "    The archers have sorely grieved him,\n    And shot at him, and persecuted him:\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049024,
+            "text": " But his bow abode in strength,\n And the arms of his hands were made <i>[q]</i>strong,\n  By the hands of the Mighty One of Jacob\n   <i>[r]</i>(From thence is the shepherd, the stone of Israel),\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-24",
+            "footnotes": [
+                {
+                    "q": "Or, <i>active</i>"
+                },
+                {
+                    "r": "Or, <i>From thence</i>, from <i>the shepherd</i>. Or, as otherwise read, <i>By the name of the shepherd</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049025,
+            "text": "    Even by the God of thy father, who shall help thee,\n    And by the Almighty, who shall bless thee,\n    With blessings of heaven above,\n    Blessings of the deep that coucheth beneath,\n    Blessings of the breasts, and of the womb.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049026,
+            "text": "  The blessings of thy father\n  Have prevailed above the blessings of my progenitors\n  Unto the utmost bound of the everlasting hills:\n  They shall be on the head of Joseph,\n  And on the crown of the head of him <i>[s]</i>that was separate from his brethren.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-26",
+            "footnotes": [
+                {
+                    "s": "Or, <i>that is prince among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049027,
+            "text": "\u00b6     Benjamin is a wolf that raveneth:\n    In the morning he shall devour the prey,\n    And at even he shall divide the spoil.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-49-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049028,
+            "text": "\u00b6 All these are the twelve tribes of Israel: and this is it that their father spake unto them and blessed them; every one according to his blessing he blessed them. ",
+            "version": "ASV",
+            "clsstr": "Gen-49-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049029,
+            "text": "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite, ",
+            "version": "ASV",
+            "clsstr": "Gen-49-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049030,
+            "text": "in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite for a possession of a burying-place. ",
+            "version": "ASV",
+            "clsstr": "Gen-49-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049031,
+            "text": "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah\u2014",
+            "version": "ASV",
+            "clsstr": "Gen-49-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049032,
+            "text": "the field and the cave that is therein, which was purchased from the children of Heth. ",
+            "version": "ASV",
+            "clsstr": "Gen-49-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1049033,
+            "text": "And when Jacob made an end of charging his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.",
+            "version": "ASV",
+            "clsstr": "Gen-49-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 49
+}

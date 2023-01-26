@@ -1,0 +1,339 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20024001,
+            "text": "\u00b6     Be not thou envious against evil men;\n    Neither desire to be with them:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024002,
+            "text": "    For their heart studieth oppression,\n    And their lips talk of mischief.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024003,
+            "text": "    Through wisdom is a house builded;\n    And by understanding it is established;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024004,
+            "text": "    And by knowledge are the chambers filled\n    With all precious and pleasant riches.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024005,
+            "text": " A wise man <i>[a]</i>is strong;\n  Yea, a man of knowledge <i>[b]</i>increaseth might.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>is in strength</i>."
+                },
+                {
+                    "b": "Hebrew <i>strengtheneth might</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024006,
+            "text": "  For by wise guidance thou shalt make thy war;\n  And in the multitude of counsellors there is <i>[c]</i>safety.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>victory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024007,
+            "text": "    Wisdom is too high for a fool:\n    He openeth not his mouth in the gate.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024008,
+            "text": "    He that deviseth to do evil,\n    Men shall call him a mischief-maker.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024009,
+            "text": "    The thought of foolishness is sin;\n    And the scoffer is an abomination to men.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024010,
+            "text": "    If thou faint in the day of adversity,\n    Thy strength is small.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024011,
+            "text": " Deliver them that are carried away unto death,\n And those that are <i>[d]</i>ready to be slain <i>[e]</i>see that thou hold back.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-11",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>tottering to the slaughter</i>."
+                },
+                {
+                    "e": "Or, <i>forbear thou not to deliver</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024012,
+            "text": "  If thou sayest, Behold, we knew not <i>[f]</i>this;\n    Doth not he that weigheth the hearts consider it?\n    And he that keepeth thy soul, doth not he know it?\n    And shall not he render to every man according to his work?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>this man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024013,
+            "text": "    My son, eat thou honey, for it is good;\n    And the droppings of the honeycomb, which are sweet to thy taste:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024014,
+            "text": "    So shalt thou know wisdom to be unto thy soul;\n    If thou hast found it, then shall there be a reward,\n    And thy hope shall not be cut off.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024015,
+            "text": " Lay not wait, <i>[g]</i>O wicked man, against the <i>[h]</i>habitation of the righteous;\n  Destroy not his <i>[i]</i>resting-place:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-15",
+            "footnotes": [
+                {
+                    "g": "Or, <i>as a wicked man</i>"
+                },
+                {
+                    "h": "Or, <i>pasture</i>"
+                },
+                {
+                    "i": "Or, <i>fold</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024016,
+            "text": "    For a righteous man falleth seven times, and riseth up again;\n    But the wicked are overthrown by calamity.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024017,
+            "text": "    Rejoice not when thine enemy falleth,\n    And let not thy heart be glad when he is overthrown;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024018,
+            "text": "    Lest Jehovah see it, and it displease him,\n    And he turn away his wrath from him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024019,
+            "text": "    Fret not thyself because of evil-doers;\n    Neither be thou envious at the wicked:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024020,
+            "text": "    For there shall be no reward to the evil man;\n    The lamp of the wicked shall be put out.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024021,
+            "text": "    My son, fear thou Jehovah and the king;\n     company not with them that are given to change:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024022,
+            "text": "  For their calamity shall rise suddenly;\n  And the destruction <i>[j]</i>from them both, who knoweth it?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-22",
+            "footnotes": [
+                {
+                    "j": "Or, <i>of their years</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024023,
+            "text": "\u00b6 These also are  of the wise.\u00b6     To have respect of persons in judgment is not good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024024,
+            "text": "    He that saith unto the wicked, Thou art righteous,\n    Peoples shall curse him, nations shall abhor him;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024025,
+            "text": "    But to them that rebuke  shall be delight,\n    And a good blessing shall come upon them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024026,
+            "text": "  He <i>[k]</i>kisseth the lips\n    Who giveth a right answer.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-26",
+            "footnotes": [
+                {
+                    "k": "Or, <i>kisseth with the lips</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024027,
+            "text": "    Prepare thy work without,\n    And make it ready for thee in the field;\n    And afterwards build thy house.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024028,
+            "text": "  Be not a witness against thy neighbor without cause;\n   <i>[l]</i>And deceive not with thy lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-28",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>And wouldest thou deceive with thy lips?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024029,
+            "text": "    Say not, I will do so to him as he hath done to me;\n    I will render to the man according to his work.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024030,
+            "text": "    I went by the field of the sluggard,\n    And by the vineyard of the man void of understanding;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024031,
+            "text": "  And, lo, it was all grown over with thorns,\n  The face thereof was covered with <i>[m]</i>nettles,\n    And the stone wall thereof was broken down.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-31",
+            "footnotes": [
+                {
+                    "m": "Or, <i>wild vetches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024032,
+            "text": "    Then I beheld, and considered well;\n    I saw, and received instruction:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024033,
+            "text": "     a little sleep, a little slumber,\n    A little folding of the hands to sleep;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20024034,
+            "text": "    So shall thy poverty come as a robber,\n    And thy want as an armed man.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-24-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 24
+}

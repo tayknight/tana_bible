@@ -1,0 +1,255 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44024001,
+            "text": "\u00b6 And after five days the high priest Ananias came down with certain elders, and  an orator, one Tertullus; and they informed the governor against Paul. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024002,
+            "text": "And when he was called, Tertullus began to accuse him, saying,\u00b6 Seeing that by thee we enjoy much peace, and that by thy providence evils are corrected for this nation, ",
+            "version": "ASV",
+            "clsstr": "Acts-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024003,
+            "text": "we accept it in all ways and in all places, most excellent Felix, with all thankfulness. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024004,
+            "text": "But, that I be not further tedious unto thee, I entreat thee to hear us of thy clemency a few words. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024005,
+            "text": "For we have found this man a pestilent fellow, and a mover of insurrections among all the Jews throughout <i>[a]</i>the world, and a ringleader of the sect of the Nazarenes: ",
+            "version": "ASV",
+            "clsstr": "Acts-24-5",
+            "footnotes": [
+                {
+                    "a": "Greek <i>the inhabited earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024006,
+            "text": "who moreover assayed to profane the temple: on whom also we laid hold: <i>[b]</i> ",
+            "version": "ASV",
+            "clsstr": "Acts-24-6",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities insert <i>and we would have judged him according to our law.</i> <i>But the chief captain Lysias came, and with great violence took him away out of our hands,</i> <i>commanding his accusers to come before thee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024008,
+            "text": "from whom thou wilt be able, by examining him thyself, to take knowledge of all these things whereof we accuse him. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024009,
+            "text": "And the Jews also joined in the charge, affirming that these things were so.",
+            "version": "ASV",
+            "clsstr": "Acts-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024010,
+            "text": "\u00b6 And when the governor had beckoned unto him to speak, Paul answered,\u00b6 Forasmuch as I know that thou hast been of many years a judge unto this nation, I cheerfully make my defence: ",
+            "version": "ASV",
+            "clsstr": "Acts-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024011,
+            "text": "seeing that thou canst take knowledge that it is not more than twelve days since I went up to worship at Jerusalem: ",
+            "version": "ASV",
+            "clsstr": "Acts-24-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024012,
+            "text": "and neither in the temple did they find me disputing with any man or stirring up a crowd, nor in the synagogues, nor in the city. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024013,
+            "text": "Neither can they prove to thee the things whereof they now accuse me. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024014,
+            "text": "But this I confess unto thee, that after the Way which they call a sect, so serve I the God of our fathers, believing all things which are according to the law, and which are written in the prophets; ",
+            "version": "ASV",
+            "clsstr": "Acts-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024015,
+            "text": "having hope toward God, which these also themselves <i>[c]</i>look for, that there shall be a resurrection both of the just and unjust. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-15",
+            "footnotes": [
+                {
+                    "c": "Or, <i>accept</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024016,
+            "text": " <i>[d]</i>Herein I also exercise myself to have a conscience void of offence toward God and men always. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>On this account</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024017,
+            "text": "Now after some years I came to bring alms to my nation, and offerings: ",
+            "version": "ASV",
+            "clsstr": "Acts-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024018,
+            "text": " <i>[e]</i>amidst which they found me purified in the temple, with no crowd, nor yet with tumult: but  certain Jews from Asia\u2014",
+            "version": "ASV",
+            "clsstr": "Acts-24-18",
+            "footnotes": [
+                {
+                    "e": "Or, <i>in</i> presenting <i>which</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024019,
+            "text": "who ought to have been here before thee, and to make accusation, if they had aught against me. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024020,
+            "text": "Or else let these men themselves say what wrong-doing they found when I stood before the council, ",
+            "version": "ASV",
+            "clsstr": "Acts-24-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024021,
+            "text": "except it be for this one voice, that I cried standing among them, Touching the resurrection of the dead I am called in question before you this day.",
+            "version": "ASV",
+            "clsstr": "Acts-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024022,
+            "text": "\u00b6 But Felix, having more exact knowledge concerning the Way, deferred them, saying, When Lysias the <i>[f]</i>chief captain shall come down, I will determine your matter. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-22",
+            "footnotes": [
+                {
+                    "f": "Or, <i>military tribune</i>. Greek <i>chiliarch</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024023,
+            "text": "And he gave order to the centurion that he should be kept in charge, and should have indulgence; and not to forbid any of his friends to minister unto him.",
+            "version": "ASV",
+            "clsstr": "Acts-24-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024024,
+            "text": "\u00b6 But after certain days, Felix came with Drusilla, <i>[g]</i>his wife, who was a Jewess, and sent for Paul, and heard him concerning the faith in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-24",
+            "footnotes": [
+                {
+                    "g": "Greek <i>his own wife</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024025,
+            "text": "And as he reasoned of righteousness, and self-control, and the judgment to come, Felix was terrified, and answered, Go thy way for this time; and when I have a convenient season, I will call thee unto me. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024026,
+            "text": "He hoped withal that money would be given him of Paul: wherefore also he sent for him the oftener, and communed with him. ",
+            "version": "ASV",
+            "clsstr": "Acts-24-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44024027,
+            "text": "But when two years were fulfilled, Felix was succeeded by Porcius Festus; and desiring to gain favor with the Jews, Felix left Paul in bonds.",
+            "version": "ASV",
+            "clsstr": "Acts-24-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 24
+}

@@ -1,0 +1,307 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2008001,
+            "text": "\u00b6 And Jehovah spake unto Moses, Go in unto Pharaoh, and say unto him, Thus saith Jehovah, Let my people go, that they may serve me. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008002,
+            "text": "And if thou refuse to let them go, behold, I will smite all thy borders with frogs: ",
+            "version": "ASV",
+            "clsstr": "Exod-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008003,
+            "text": "and the river shall swarm with frogs, which shall go up and come into thy house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneading-troughs: ",
+            "version": "ASV",
+            "clsstr": "Exod-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008004,
+            "text": "and the frogs shall come up both upon thee, and upon thy people, and upon all thy servants. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008005,
+            "text": "And Jehovah said unto Moses, Say unto Aaron, Stretch forth thy hand with thy rod over the rivers, over the <i>[a]</i>streams, and over the pools, and cause frogs to come up upon the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>canals</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008006,
+            "text": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008007,
+            "text": "And the magicians did in like manner with their enchantments, and brought up frogs upon the land of Egypt.",
+            "version": "ASV",
+            "clsstr": "Exod-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008008,
+            "text": "\u00b6 Then Pharaoh called for Moses and Aaron, and said, Entreat Jehovah, that he take away the frogs from me, and from my people; and I will let the people go, that they may sacrifice unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008009,
+            "text": "And Moses said unto Pharaoh, Have thou this glory over me: against what time shall I entreat for thee, and for thy servants, and for thy people, that the frogs be destroyed from thee and thy houses, and remain in the river only? ",
+            "version": "ASV",
+            "clsstr": "Exod-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008010,
+            "text": "And he said, Against to-morrow. And he said, Be it according to thy word; that thou mayest know that there is none like unto Jehovah our God. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008011,
+            "text": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008012,
+            "text": "And Moses and Aaron went out from Pharaoh: and Moses cried unto Jehovah concerning the frogs <i>[b]</i>which he had brought upon Pharaoh. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>as he had appointed unto Pharaoh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008013,
+            "text": "And Jehovah did according to the word of Moses; and the frogs died out of the houses, out of the courts, and out of the fields. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008014,
+            "text": "And they gathered them together in heaps; and the land stank. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008015,
+            "text": "But when Pharaoh saw that there was respite, he <i>[c]</i>hardened his heart, and hearkened not unto them; as Jehovah had spoken.",
+            "version": "ASV",
+            "clsstr": "Exod-8-15",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>made heavy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008016,
+            "text": "\u00b6 And Jehovah said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the earth, that it may become <i>[d]</i>lice throughout all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>sand files</i>. Or, <i>fleas</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008017,
+            "text": "And they did so; and Aaron stretched out his hand with his rod, and smote the dust of the earth, and there were lice upon man, and upon beast; all the dust of the earth became lice throughout all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008018,
+            "text": "And the magicians did so with their enchantments to bring forth lice, but they could not: and there were lice upon man, and upon beast. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008019,
+            "text": "Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh\u2019s heart <i>[e]</i>was hardened, and he hearkened not unto them; as Jehovah had spoken.",
+            "version": "ASV",
+            "clsstr": "Exod-8-19",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>was strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008020,
+            "text": "\u00b6 And Jehovah said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith Jehovah, Let my people go, that they may serve me. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008021,
+            "text": "Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008022,
+            "text": "And I will set apart in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am Jehovah in the midst of the earth. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008023,
+            "text": "And I will <i>[f]</i>put a division between my people and thy people: by to-morrow shall this sign be. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-23",
+            "footnotes": [
+                {
+                    "f": "Or, <i>set</i> a sign of <i>deliverance</i>. Hebrew <i>set redemption</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008024,
+            "text": "And Jehovah did so; and there came grievous swarms of flies into the house of Pharaoh, and into his servants\u2019 houses: and in all the land of Egypt the land was <i>[g]</i>corrupted by reason of the swarms of flies.",
+            "version": "ASV",
+            "clsstr": "Exod-8-24",
+            "footnotes": [
+                {
+                    "g": "Or, <i>destroyed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008025,
+            "text": "\u00b6 And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008026,
+            "text": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to Jehovah our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us? ",
+            "version": "ASV",
+            "clsstr": "Exod-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008027,
+            "text": "We will go three days\u2019 journey into the wilderness, and sacrifice to Jehovah our God, as he shall command us. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008028,
+            "text": "And Pharaoh said, I will let you go, that ye may sacrifice to Jehovah your God in the wilderness; only ye shall not go very far away: entreat for me. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008029,
+            "text": "And Moses said, Behold, I go out from thee, and I will entreat Jehovah that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to-morrow: only let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008030,
+            "text": "And Moses went out from Pharaoh, and entreated Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008031,
+            "text": "And Jehovah did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one. ",
+            "version": "ASV",
+            "clsstr": "Exod-8-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2008032,
+            "text": "And Pharaoh <i>[h]</i>hardened his heart this time also, and he did not let the people go.",
+            "version": "ASV",
+            "clsstr": "Exod-8-32",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>made heavy</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 8
+}

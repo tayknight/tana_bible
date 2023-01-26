@@ -1,0 +1,165 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19027001,
+            "text": "<b>A psalm of fearless trust in God.</b>\n\u00b6 of David.\u00b6   Jehovah is my light and my salvation;\n  Whom shall I fear?\n  Jehovah is the <i>[a]</i>strength of my life;\n    Of whom shall I be afraid?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stronghold</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027002,
+            "text": "    When evil-doers came upon me to eat up my flesh,\n     mine adversaries and my foes, they stumbled and fell.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027003,
+            "text": "  Though a host should encamp against me,\n  My heart shall not fear:\n  Though war should rise against me,\n   <i>[b]</i>Even then will I be confident.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>In this</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027004,
+            "text": " One thing have I asked of Jehovah, that will I seek after:\n That I may dwell in the house of Jehovah all the days of my life,\n To behold <i>[c]</i>the beauty of Jehovah,\n  And to <i>[d]</i>inquire in his temple.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the pleasantness</i>"
+                },
+                {
+                    "d": "Or, <i>consider his temple</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027005,
+            "text": "  For in the day of trouble he will keep me secretly in his pavilion:\n  In the covert of his <i>[e]</i>tabernacle will he hide me;\n    He will lift me up upon a rock.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-5",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>tent</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027006,
+            "text": " And now shall my head be lifted up above mine enemies round about me;\n And I will offer in his <i>[f]</i>tabernacle sacrifices of <i>[g]</i>joy;\n    I will sing, yea, I will sing praises unto Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-6",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>tent</i>."
+                },
+                {
+                    "g": "Or, <i>shouting</i>. Or, <i>trumpet-sound</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027007,
+            "text": "\u00b6     Hear, O Jehovah, when I cry with my voice:\n    Have mercy also upon me, and answer me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027008,
+            "text": "    , Seek ye my face; my heart said unto thee,\n    Thy face, Jehovah, will I seek.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027009,
+            "text": "    Hide not thy face from me;\n    Put not thy servant away in anger:\n    Thou hast been my help;\n    Cast me not off, neither forsake me, O God of my salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027010,
+            "text": "   <i>[h]</i>When my father and my mother forsake me,\n    Then Jehovah will take me up.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-10",
+            "footnotes": [
+                {
+                    "h": "Or, <i>For my father and my mother have forsaken me, But Jehovah etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027011,
+            "text": "  Teach me thy way, O Jehovah;\n  And lead me in a plain path,\n  Because of <i>[i]</i>mine enemies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-11",
+            "footnotes": [
+                {
+                    "i": "Or, <i>them that lie in wait for me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027012,
+            "text": "    Deliver me not over unto the will of mine adversaries:\n    For false witnesses are risen up against me,\n    And such as breathe out cruelty.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027013,
+            "text": "    , unless I had believed to see the goodness of Jehovah\n    In the land of the living.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19027014,
+            "text": "    Wait for Jehovah:\n    Be strong, and let thy heart take courage;\n    Yea, wait thou for Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 27
+}

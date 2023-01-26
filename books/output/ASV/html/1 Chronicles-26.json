@@ -1,0 +1,320 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13026001,
+            "text": "\u00b6 For the courses of the doorkeepers: of the Korahites, <i>[a]</i>Meshelemiah the son of Kore, of the sons of <i>[b]</i>Asaph. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-1",
+            "footnotes": [
+                {
+                    "a": "In [[verse 14]], <i>Shelemiah</i>."
+                },
+                {
+                    "b": "In [[9:19]], <i>Ebiasaph</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026002,
+            "text": "And Meshelemiah had sons: Zechariah the first-born, Jediael the second, Zebadiah the third, Jathniel the fourth, ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026003,
+            "text": "Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026004,
+            "text": "And Obed-edom had sons: Shemaiah the first-born, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethanel the fifth, ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026005,
+            "text": "Ammiel the sixth, Issachar the seventh, Peullethai the eighth; for God blessed him. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026006,
+            "text": "Also unto Shemaiah his son were sons born, that ruled over the house of their father; for they were mighty men of valor. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026007,
+            "text": "The sons of Shemaiah: Othni, and Rephael, and Obed, Elzabad, whose brethren were valiant men, Elihu, and Semachiah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026008,
+            "text": "All these were of the sons of Obed-edom: they and their sons and their brethren, able men in strength for the service; threescore and two of Obed-edom. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026009,
+            "text": "And Meshelemiah had sons and brethren, valiant men, eighteen. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026010,
+            "text": "Also Hosah, of the children of Merari, had sons: Shimri the chief (for though he was not the first-born, yet his father made him chief), ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026011,
+            "text": "Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen.",
+            "version": "ASV",
+            "clsstr": "1Chr-26-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026012,
+            "text": "\u00b6 Of these were the courses of the doorkeepers, even of the chief men, having <i>[c]</i>offices like their brethren, to minister in the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>wards over against their brethren</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026013,
+            "text": "And they cast lots, as well the small as the great, according to their fathers\u2019 houses, for every gate. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026014,
+            "text": "And the lot eastward fell to <i>[d]</i>Shelemiah. Then for Zechariah his son, a discreet counsellor, they cast lots; and his lot came out northward. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-14",
+            "footnotes": [
+                {
+                    "d": "In [[verse 1]], <i>Meshelemiah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026015,
+            "text": "To Obed-edom southward; and to his sons the store-house. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026016,
+            "text": "To Shuppim and Hosah westward, by the gate of <i>[e]</i>Shallecheth, at the causeway that goeth up, watch against watch. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-16",
+            "footnotes": [
+                {
+                    "e": "That is, <i>Casting forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026017,
+            "text": "Eastward were six Levites, northward four a day, southward four a day, and for the store-house two and two. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026018,
+            "text": "For <i>[f]</i>Parbar westward, four at the causeway, and two at <i>[g]</i>Parbar. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-18",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the precinct</i>"
+                },
+                {
+                    "g": "Or, <i>the precinct</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026019,
+            "text": "These were the courses of the doorkeepers; of the sons of the Korahites, and of the sons of Merari.",
+            "version": "ASV",
+            "clsstr": "1Chr-26-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026020,
+            "text": "\u00b6 And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the <i>[h]</i>dedicated things. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-20",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>holy things</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026021,
+            "text": "The sons of <i>[i]</i>Ladan, the sons of the Gershonites belonging to Ladan, the heads of the fathers\u2019 belonging to Ladan the Gershonite: <i>[j]</i>Jehieli. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-21",
+            "footnotes": [
+                {
+                    "i": "In [[6:17]], <i>Libni</i>."
+                },
+                {
+                    "j": "In [[23:8]], <i>Jehiel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026022,
+            "text": "The sons of Jehieli: Zetham, and Joel his brother, over the treasures of the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026023,
+            "text": "Of the Amramites, of the Izharites, of the Hebronites, of the Uzzielites: ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026024,
+            "text": "and Shebuel the son of Gershom, the son of Moses, was ruler over the treasures. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026025,
+            "text": "And his brethren: of Eliezer  Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomoth his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026026,
+            "text": "This Shelomoth and his brethren were over all the treasures of the dedicated things, which David the king, and the heads of the fathers\u2019 , the captains over thousands and hundreds, and the captains of the host, had dedicated. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026027,
+            "text": " <i>[k]</i>Out of the spoil won in battles did they dedicate to repair the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-27",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>Out of the battles and the spoil</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026028,
+            "text": "And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated, whosoever had dedicated anything, it was under the hand of <i>[l]</i>Shelomoth, and of his brethren.",
+            "version": "ASV",
+            "clsstr": "1Chr-26-28",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>Shelomith</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026029,
+            "text": "\u00b6 Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026030,
+            "text": "Of the Hebronites, Hashabiah and his brethren, men of valor, a thousand and seven hundred, had the oversight of Israel beyond the Jordan westward, for all the business of Jehovah, and for the service of the king. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026031,
+            "text": "Of the Hebronites was Jerijah the chief, even of the Hebronites, according to their generations by fathers\u2019 . In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valor at Jazer of Gilead. ",
+            "version": "ASV",
+            "clsstr": "1Chr-26-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13026032,
+            "text": "And his brethren, men of valor, were two thousand and seven hundred, heads of fathers\u2019 , whom king David made overseers over the Reubenites, and the Gadites, and the half-tribe of the Manassites, for every matter pertaining to God, and for the affairs of the king.",
+            "version": "ASV",
+            "clsstr": "1Chr-26-32",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 26
+}

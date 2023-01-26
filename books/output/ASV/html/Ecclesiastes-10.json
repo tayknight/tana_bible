@@ -1,0 +1,231 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 21,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 21,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 21010001,
+            "text": "\u00b6 Dead flies cause the oil of the perfumer <i>[a]</i>to send forth an evil odor; doth a little folly <i>[b]</i>outweigh wisdom and honor. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>to stink and putrefy</i>"
+                },
+                {
+                    "b": "Or, <i>him that is valued for wisdom</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010002,
+            "text": "A wise man\u2019s heart is at his right hand; but a fool\u2019s heart at his left. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010003,
+            "text": "Yea also, when the fool walketh by the way, his <i>[c]</i>understanding faileth him, and he saith <i>[d]</i>to every one  he is a fool. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>heart</i>."
+                },
+                {
+                    "d": "Or, <i>of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010004,
+            "text": "If the spirit of the ruler rise up against thee, leave not thy place; for <i>[e]</i>gentleness allayeth great offences. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-4",
+            "footnotes": [
+                {
+                    "e": "Or, <i>calmness leaveth great sins undone</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010005,
+            "text": "There is an evil which I have seen under the sun, as it were an error which proceedeth from the ruler: ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010006,
+            "text": "folly is set in great <i>[f]</i>dignity, and the rich sit in a low place. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-6",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>heights</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010007,
+            "text": "I have seen servants upon horses, and princes walking like servants upon the earth. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010008,
+            "text": "He that diggeth a pit shall fall into it; and whoso breaketh through a wall, a serpent shall bite him. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010009,
+            "text": "Whoso <i>[g]</i>heweth out stones shall be hurt therewith;  he that cleaveth wood is endangered thereby. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-9",
+            "footnotes": [
+                {
+                    "g": "Or, <i>moveth stones</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010010,
+            "text": "If the iron be blunt, and one do not whet the edge, then must he put to more strength: but wisdom is profitable to direct. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010011,
+            "text": " <i>[h]</i>If the serpent bite <i>[i]</i>before it is charmed, then is there no advantage in <i>[j]</i>the charmer. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-11",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Surely the serpent will bite where there is no enchantment; and the slanderer is no better</i>"
+                },
+                {
+                    "i": "Hebrew <i>without enchantment</i>."
+                },
+                {
+                    "j": "Hebrew <i>the master of the tongue</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010012,
+            "text": "The words of a wise man\u2019s mouth are gracious; but the lips of a fool will swallow up himself. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010013,
+            "text": "The beginning of the words of his mouth is foolishness; and the end of <i>[k]</i>his talk is mischievous madness. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-13",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>his mouth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010014,
+            "text": "A fool also multiplieth words:  man knoweth not what shall be; and that which shall be after him, who can tell him? ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010015,
+            "text": "The labor of fools wearieth every one of them; for he knoweth not how to go to the city. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010016,
+            "text": "Woe to thee, O land, when thy king is a <i>[l]</i>child, and thy princes eat in the morning! ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-16",
+            "footnotes": [
+                {
+                    "l": "Or, <i>servant</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010017,
+            "text": "Happy art thou, O land, when thy king is <i>[m]</i>the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness! ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-17",
+            "footnotes": [
+                {
+                    "m": "Or, <i>a free man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010018,
+            "text": "By slothfulness the <i>[n]</i>roof sinketh in; and through idleness of the hands the house leaketh. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-18",
+            "footnotes": [
+                {
+                    "n": "Or, <i>rafters sink</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010019,
+            "text": "A feast is made for laughter, and wine maketh glad the life; and money answereth all things. ",
+            "version": "ASV",
+            "clsstr": "Eccl-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21010020,
+            "text": "Revile not the king, no, not in thy thought; and revile not the rich in thy bedchamber: for a bird of the heavens shall carry the voice, and that which hath wings shall tell the matter.",
+            "version": "ASV",
+            "clsstr": "Eccl-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ecclesiastes",
+    "chapters": 10
+}

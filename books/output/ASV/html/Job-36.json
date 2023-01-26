@@ -1,0 +1,363 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18036001,
+            "text": "\u00b6 Elihu also proceeded, and said,",
+            "version": "ASV",
+            "clsstr": "Job-36-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036002,
+            "text": "\u00b6  <i>[a]</i>Suffer me a little, and I will show thee;\n  For <i>[b]</i>I have yet somewhat to say on God\u2019s behalf.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Wait for</i>."
+                },
+                {
+                    "b": "Hebrew there are <i>yet words for God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036003,
+            "text": "    I will fetch my knowledge from afar,\n    And will ascribe righteousness to my Maker.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036004,
+            "text": "    For truly my words are not false:\n    One that is perfect in knowledge is with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036005,
+            "text": "  Behold, God is mighty, and despiseth not any:\n  He is mighty in strength of <i>[c]</i>understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036006,
+            "text": "    He preserveth not the life of the wicked,\n    But giveth to the afflicted  right.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036007,
+            "text": "    He withdraweth not his eyes from the righteous:\n    But with kings upon the throne\n    He setteth them for ever, and they are exalted.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036008,
+            "text": "    And if they be bound in fetters,\n    And be taken in the cords of affliction;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036009,
+            "text": "    Then he showeth them their work,\n    And their transgressions, that they have behaved themselves proudly.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036010,
+            "text": "    He openeth also their ear to instruction,\n    And commandeth that they return from iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036011,
+            "text": "  If they hearken and serve ,\n  They shall spend their days in prosperity,\n  And their years in <i>[d]</i>pleasures.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>pleasantness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036012,
+            "text": "  But if they hearken not, they shall perish by <i>[e]</i>the sword,\n    And they shall die without knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>weapons</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036013,
+            "text": "    But they that are godless in heart lay up anger:\n    They cry not for help when he bindeth them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036014,
+            "text": " <i>[f]</i>They die in youth,\n And their life <i>[g]</i>among the <i>[h]</i>unclean.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-14",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>Their soul dieth</i>."
+                },
+                {
+                    "g": "Or, <i>like</i>"
+                },
+                {
+                    "h": "Or, <i>sodomites</i>. See [[Dt. 23:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036015,
+            "text": " He delivereth the afflicted <i>[i]</i>by their affliction,\n  And openeth their ear <i>[j]</i>in oppression.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-15",
+            "footnotes": [
+                {
+                    "i": "Or, <i>in</i>"
+                },
+                {
+                    "j": "Or, <i>by adversity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036016,
+            "text": "  Yea, he would have allured thee <i>[k]</i>out of distress\n    Into a broad place, where there is no straitness;\n    And that which is set on thy table would be full of fatness.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-16",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>out of the mouth of</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036017,
+            "text": "\u00b6   But thou <i>[l]</i>art full of the judgment of the wicked:\n    Judgment and justice take hold .\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-17",
+            "footnotes": [
+                {
+                    "l": "Or, <i>hast filled up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036018,
+            "text": "\u00b6   <i>[m]</i>For let not wrath stir thee up against chastisements;\n    Neither let the greatness of the ransom turn thee aside.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-18",
+            "footnotes": [
+                {
+                    "m": "Or, <i>Because there is wrath, beware lest thou be led away by thy sufficiency</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036019,
+            "text": "    Will thy cry avail,  not in distress,\n    Or all the forces of  strength?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036020,
+            "text": "  Desire not the night,\n  When peoples <i>[n]</i>are cut off in their place.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-20",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>go up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036021,
+            "text": "    Take heed, regard not iniquity:\n    For this hast thou chosen rather than affliction.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036022,
+            "text": "    Behold, God doeth loftily in his power:\n    Who is a teacher like unto him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036023,
+            "text": "    Who hath enjoined him his way?\n    Or who can say, Thou hast wrought unrighteousness?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036024,
+            "text": "\u00b6     Remember that thou magnify his work,\n    Whereof men have sung.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036025,
+            "text": "\u00b6     All men have looked thereon;\n    Man beholdeth it afar off.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036026,
+            "text": "    Behold, God is great, and we know him not;\n    The number of his years is unsearchable.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036027,
+            "text": " For he draweth up the drops of water,\n Which distil in rain <i>[o]</i>from <i>[p]</i>his vapor,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-27",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>belonging to</i>."
+                },
+                {
+                    "p": "Or, <i>the vapor thereof</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036028,
+            "text": "    Which the skies pour down\n    And drop upon man abundantly.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036029,
+            "text": "    Yea, can any understand the spreadings of the clouds,\n    The thunderings of his pavilion?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036030,
+            "text": " Behold, he spreadeth his light <i>[q]</i>around him;\n  And he <i>[r]</i>covereth the bottom of the sea.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-30",
+            "footnotes": [
+                {
+                    "q": "Or, <i>thereon</i>"
+                },
+                {
+                    "r": "Or, <i>covereth</i> it <i>with the depths of the sea</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036031,
+            "text": "    For by these he judgeth the peoples;\n    He giveth food in abundance.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036032,
+            "text": " He covereth his hands with the <i>[s]</i>lightning,\n  And giveth it a charge <i>[t]</i>that it strike the mark.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-32",
+            "footnotes": [
+                {
+                    "s": "Hebrew <i>light</i>."
+                },
+                {
+                    "t": "Or, <i>against the assailant</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18036033,
+            "text": " The noise thereof telleth concerning <i>[u]</i>him,\n  The cattle also concerning <i>[v]</i> that cometh up.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-36-33",
+            "footnotes": [
+                {
+                    "u": "Or, <i>it</i>"
+                },
+                {
+                    "v": "Or, him"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 36
+}

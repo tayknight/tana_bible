@@ -1,0 +1,133 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19016001,
+            "text": "<b>Jehovah the psalmist\u2019s portion in life and deliverer in death.</b>\n\u00b6 Michtam of David.\u00b6     Preserve me, O God; for in thee do I take refuge.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016002,
+            "text": "  , thou hast said unto Jehovah, Thou art <i>[a]</i>my Lord:\n    I have no good beyond thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the Lord</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016003,
+            "text": "  <i>[b]</i>As for the saints that are in the earth,\n   <i>[c]</i>They are the excellent in whom is all my delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Unto</i>"
+                },
+                {
+                    "c": "Or, <i>And the excellent\u00a0.\u00a0.\u00a0. delight; Their etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016004,
+            "text": "    Their sorrows shall be multiplied that give gifts for another :\n    Their drink-offerings of blood will I not offer,\n    Nor take their names upon my lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016005,
+            "text": "    Jehovah is the portion of mine inheritance and of my cup:\n    Thou maintainest my lot.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016006,
+            "text": "    The lines are fallen unto me in pleasant places;\n    Yea, I have a goodly heritage.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016007,
+            "text": "  I will bless Jehovah, who hath given me counsel;\n  Yea, my <i>[d]</i>heart instructeth me in the night seasons.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-7",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>reins</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016008,
+            "text": "    I have set Jehovah always before me:\n    Because he is at my right hand, I shall not be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016009,
+            "text": "  Therefore my heart is glad, and my glory rejoiceth:\n  My flesh also shall dwell <i>[e]</i>in safety.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>confidently</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016010,
+            "text": " For thou wilt not leave my soul to Sheol;\n Neither wilt thou suffer thy <i>[f]</i>holy one to see <i>[g]</i>corruption.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-10",
+            "footnotes": [
+                {
+                    "f": "Or, <i>godly</i>. Or, <i>beloved</i>. Another reading is, <i>holy ones</i>"
+                },
+                {
+                    "g": "Or, <i>the pit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19016011,
+            "text": "    Thou wilt show me the path of life:\n    In thy presence is fulness of joy;\n    In thy right hand there are pleasures for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 16
+}

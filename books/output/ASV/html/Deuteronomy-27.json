@@ -1,0 +1,231 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5027001,
+            "text": "\u00b6 And Moses and the elders of Israel commanded the people, saying, Keep all the commandment which I command you this day. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027002,
+            "text": "And it shall be on the day when ye shall pass over the Jordan unto the land which Jehovah thy God giveth thee, that thou shalt set thee up great stones, and plaster them with plaster: ",
+            "version": "ASV",
+            "clsstr": "Deut-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027003,
+            "text": "and thou shalt write upon them all the words of this law, when thou art passed over; that thou mayest go in unto the land which Jehovah thy God giveth thee, a land flowing with milk and honey, as Jehovah, the God of thy fathers, hath promised thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027004,
+            "text": "And it shall be, when ye are passed over the Jordan, that ye shall set up these stones, which I command you this day, in mount Ebal, and thou shalt plaster them with plaster. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027005,
+            "text": "And there shalt thou build an altar unto Jehovah thy God, an altar of stones: thou shalt lift up no iron  upon them. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027006,
+            "text": "Thou shalt build the altar of Jehovah thy God of <i>[a]</i>unhewn stones; and thou shalt offer burnt-offerings thereon unto Jehovah thy God: ",
+            "version": "ASV",
+            "clsstr": "Deut-27-6",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>whole</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027007,
+            "text": "and thou shalt sacrifice peace-offerings, and shalt eat there; and thou shalt rejoice before Jehovah thy God. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027008,
+            "text": "And thou shalt write upon the stones all the words of this law very plainly.",
+            "version": "ASV",
+            "clsstr": "Deut-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027009,
+            "text": "\u00b6 And Moses and the priests the Levites spake unto all Israel, saying, Keep silence, and hearken, O Israel: This day thou art become the people of Jehovah thy God. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027010,
+            "text": "Thou shalt therefore obey the voice of Jehovah thy God, and do his commandments and his statutes, which I command thee this day.",
+            "version": "ASV",
+            "clsstr": "Deut-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027011,
+            "text": "\u00b6 And Moses charged the people the same day, saying, ",
+            "version": "ASV",
+            "clsstr": "Deut-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027012,
+            "text": "These shall stand upon mount Gerizim to bless the people, when ye are passed over the Jordan: Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027013,
+            "text": "And these shall stand upon mount Ebal for the curse: Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali. ",
+            "version": "ASV",
+            "clsstr": "Deut-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027014,
+            "text": "And the Levites shall answer, and say unto all the men of Israel with a loud voice,",
+            "version": "ASV",
+            "clsstr": "Deut-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027015,
+            "text": "\u00b6 Cursed be the man that maketh a graven or molten image, an abomination unto Jehovah, the work of the hands of the craftsman, and setteth it up in secret. And all the people shall answer and say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027016,
+            "text": "\u00b6 Cursed be he that setteth light by his father or his mother. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027017,
+            "text": "\u00b6 Cursed be he that removeth his neighbor\u2019s landmark. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027018,
+            "text": "\u00b6 Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027019,
+            "text": "\u00b6 Cursed be he that wresteth the justice  to the sojourner, fatherless, and widow. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027020,
+            "text": "\u00b6 Cursed be he that lieth with his father\u2019s wife, because he hath uncovered his father\u2019s skirt. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027021,
+            "text": "\u00b6 Cursed be he that lieth with any manner of beast. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027022,
+            "text": "\u00b6 Cursed be he that lieth with his sister, the daughter of his father, or the daughter of his mother. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027023,
+            "text": "\u00b6 Cursed be he that lieth with his mother-in-law. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027024,
+            "text": "\u00b6 Cursed be he that smiteth his neighbor in secret. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027025,
+            "text": "\u00b6 Cursed be he that taketh a bribe to slay an innocent person. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5027026,
+            "text": "\u00b6 Cursed be he that confirmeth not the words of this law to do them. And all the people shall say, Amen.",
+            "version": "ASV",
+            "clsstr": "Deut-27-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 27
+}

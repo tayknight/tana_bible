@@ -1,0 +1,127 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4017001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-17-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017002,
+            "text": "Speak unto the children of Israel, and take of them rods, one for each fathers\u2019 house, of all their princes according to their fathers\u2019 houses, twelve rods: write thou every man\u2019s name upon his rod. ",
+            "version": "ASV",
+            "clsstr": "Num-17-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017003,
+            "text": "And thou shalt write Aaron\u2019s name upon the rod of Levi; for there shall be one rod for each head of their fathers\u2019 houses. ",
+            "version": "ASV",
+            "clsstr": "Num-17-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017004,
+            "text": "And thou shalt lay them up in the tent of meeting before the testimony, where I meet with you. ",
+            "version": "ASV",
+            "clsstr": "Num-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017005,
+            "text": "And it shall come to pass, that the rod of the man whom I shall choose shall bud: and I will make to cease from me the murmurings of the children of Israel, which they murmur against you. ",
+            "version": "ASV",
+            "clsstr": "Num-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017006,
+            "text": "And Moses spake unto the children of Israel; and all their princes gave him rods, for each prince one, according to their fathers\u2019 houses, even twelve rods: and the rod of Aaron was among their rods. ",
+            "version": "ASV",
+            "clsstr": "Num-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017007,
+            "text": "And Moses laid up the rods before Jehovah in the tent of the testimony.",
+            "version": "ASV",
+            "clsstr": "Num-17-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017008,
+            "text": "\u00b6 And it came to pass on the morrow, that Moses went into the tent of the testimony; and, behold, the rod of Aaron for the house of Levi was budded, and put forth buds, and produced blossoms, and bare ripe almonds. ",
+            "version": "ASV",
+            "clsstr": "Num-17-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017009,
+            "text": "And Moses brought out all the rods from before Jehovah unto all the children of Israel: and they looked, and took every man his rod. ",
+            "version": "ASV",
+            "clsstr": "Num-17-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017010,
+            "text": "And Jehovah said unto Moses, Put back the rod of Aaron before the testimony, to be kept for a token against the children of rebellion; that thou mayest make an end of their murmurings against me, that they die not. ",
+            "version": "ASV",
+            "clsstr": "Num-17-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017011,
+            "text": "Thus did Moses: as Jehovah commanded him, so did he.",
+            "version": "ASV",
+            "clsstr": "Num-17-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017012,
+            "text": "\u00b6 And the children of Israel spake unto Moses, saying, Behold, we perish, we are undone, we are all undone. ",
+            "version": "ASV",
+            "clsstr": "Num-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4017013,
+            "text": "Every one that cometh near, that cometh near unto the tabernacle of Jehovah, <i>[a]</i>dieth: shall we perish all of us?",
+            "version": "ASV",
+            "clsstr": "Num-17-13",
+            "footnotes": [
+                {
+                    "a": "Or, <i>shall die</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 17
+}

@@ -1,0 +1,135 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9027001,
+            "text": "\u00b6 And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel: so shall I escape out of his hand. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027002,
+            "text": "And David arose, and passed over, he and the six hundred men that were with him, unto Achish the son of Maoch, king of Gath. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027003,
+            "text": "And David dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal\u2019s wife. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027004,
+            "text": "And it was told Saul that David was fled to Gath: and he sought no more again for him.",
+            "version": "ASV",
+            "clsstr": "1Sam-27-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027005,
+            "text": "\u00b6 And David said unto Achish, If now I have found favor in thine eyes, let them give me a place in one of the cities in the <i>[a]</i>country, that I may dwell there: for why should thy servant dwell in the royal city with thee? ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>field</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027006,
+            "text": "Then Achish gave him Ziklag that day: wherefore Ziklag pertaineth unto the kings of Judah unto this day. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027007,
+            "text": "And the number of the days that David dwelt in the <i>[b]</i>country of the Philistines was a full year and four months.",
+            "version": "ASV",
+            "clsstr": "1Sam-27-7",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>field</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027008,
+            "text": "\u00b6 And David and his men went up, and made a raid upon the Geshurites, and the <i>[c]</i>Girzites, and the Amalekites; for those  were the inhabitants of the land, who were of old, as thou goest to Shur, even unto the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-8",
+            "footnotes": [
+                {
+                    "c": "Another reading is, <i>Gizrites</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027009,
+            "text": "And David smote the land, and saved neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel; and he returned, and came to Achish. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027010,
+            "text": "And Achish said, <i>[d]</i>Against whom have ye made a raid to-day? And David said, Against the South of Judah, and against the South of the Jerahmeelites, and against the South of the Kenites. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-10",
+            "footnotes": [
+                {
+                    "d": "So Septuagint and Vulgate"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027011,
+            "text": "And David saved neither man nor woman alive, to bring them to Gath, saying, Lest they should tell of us, saying, So did David, and so hath been his manner all the while he hath dwelt in the <i>[e]</i>country of the Philistines. ",
+            "version": "ASV",
+            "clsstr": "1Sam-27-11",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>field</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9027012,
+            "text": "And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.",
+            "version": "ASV",
+            "clsstr": "1Sam-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 27
+}

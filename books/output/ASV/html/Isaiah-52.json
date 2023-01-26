@@ -1,0 +1,169 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23052001,
+            "text": "\u00b6 Awake, awake, put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052002,
+            "text": "Shake thyself from the dust; arise, sit , O Jerusalem: <i>[a]</i>loose thyself from the bonds of thy neck, O captive daughter of Zion.",
+            "version": "ASV",
+            "clsstr": "Isa-52-2",
+            "footnotes": [
+                {
+                    "a": "Another reading is, <i>the bonds of thy neck are loosed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052003,
+            "text": "\u00b6 For thus saith Jehovah, Ye were sold for nought; and ye shall be redeemed without money. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052004,
+            "text": "For thus saith the Lord Jehovah, My people went down at the first into Egypt to sojourn there: and the Assyrian hath oppressed them without cause. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052005,
+            "text": "Now therefore, what do I here, saith Jehovah, seeing that my people is taken away for nought? they that rule over them do howl, saith Jehovah, and my name continually all the day is blasphemed. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052006,
+            "text": "Therefore my people shall know my name: therefore in that day that I am he that doth speak; behold, <i>[b]</i>it is I.",
+            "version": "ASV",
+            "clsstr": "Isa-52-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>here I am</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052007,
+            "text": "\u00b6 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace, that bringeth good tidings of good, that publisheth salvation, that saith unto Zion, Thy God reigneth! ",
+            "version": "ASV",
+            "clsstr": "Isa-52-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052008,
+            "text": "The voice of thy watchmen! they lift up the voice, together do they sing; for they shall see eye to eye, <i>[c]</i>when Jehovah returneth to Zion. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>how</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052009,
+            "text": "Break forth into joy, sing together, ye waste places of Jerusalem; for Jehovah hath comforted his people, he hath redeemed Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052010,
+            "text": "Jehovah hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth have seen the salvation of our God.",
+            "version": "ASV",
+            "clsstr": "Isa-52-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052011,
+            "text": "\u00b6 Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; cleanse yourselves, ye that bear the vessels of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052012,
+            "text": "For ye shall not go out in haste, neither shall ye go by flight: for Jehovah will go before you; and the God of Israel will be your rearward.",
+            "version": "ASV",
+            "clsstr": "Isa-52-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052013,
+            "text": "\u00b6 Behold, my servant shall <i>[d]</i>deal wisely, he shall be exalted and lifted up, and shall be very high. ",
+            "version": "ASV",
+            "clsstr": "Isa-52-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>prosper</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052014,
+            "text": "Like as many were astonished at thee (his visage was so marred <i>[e]</i>more than any man, and his form more than the sons of men), ",
+            "version": "ASV",
+            "clsstr": "Isa-52-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>from that of man, and his form from that of the sons of men</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23052015,
+            "text": "so shall he <i>[f]</i>sprinkle many nations; kings shall shut their mouths <i>[g]</i>at him: for that which had not been told them shall they see; and that which they had not heard shall they <i>[h]</i>understand.",
+            "version": "ASV",
+            "clsstr": "Isa-52-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>startle</i>"
+                },
+                {
+                    "g": "Or, <i>because of</i>"
+                },
+                {
+                    "h": "Or, <i>consider</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 52
+}

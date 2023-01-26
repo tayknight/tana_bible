@@ -1,0 +1,186 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19051001,
+            "text": "<b>A contrite sinner\u2019s prayer for pardon.</b>\n\u00b6 For the Chief Musician. A Psalm of David; when Nathan the prophet came unto him, after he had gone in to Bath-sheba.\u00b6     Have mercy upon me, O God, according to thy lovingkindness:\n    According to the multitude of thy tender mercies blot out my transgressions.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051002,
+            "text": "    Wash me thoroughly from mine iniquity,\n    And cleanse me from my sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051003,
+            "text": "    For I know my transgressions;\n    And my sin is ever before me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051004,
+            "text": "    Against thee, thee only, have I sinned,\n    And done that which is evil in thy sight;\n    That thou mayest be justified when thou speakest,\n    And be clear when thou judgest.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051005,
+            "text": "    Behold, I was brought forth in iniquity;\n    And in sin did my mother conceive me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051006,
+            "text": "    Behold, thou desirest truth in the inward parts;\n    And in the hidden part thou wilt make me to know wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051007,
+            "text": "    Purify me with hyssop, and I shall be clean:\n    Wash me, and I shall be whiter than snow.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051008,
+            "text": "    Make me to hear joy and gladness,\n    That the bones which thou hast broken may rejoice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051009,
+            "text": "    Hide thy face from my sins,\n    And blot out all mine iniquities.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051010,
+            "text": " Create <i>[a]</i>in me a clean heart, O God;\n  And renew a <i>[b]</i>right spirit within me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-10",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for me</i>"
+                },
+                {
+                    "b": "Or, <i>stedfast</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051011,
+            "text": "    Cast me not away from thy presence;\n    And take not thy holy Spirit from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051012,
+            "text": "    Restore unto me the joy of thy salvation;\n    And uphold me with a willing spirit.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051013,
+            "text": "  Then will I teach transgressors thy ways;\n  And sinners shall <i>[c]</i>be converted unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>return</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051014,
+            "text": "    Deliver me from bloodguiltiness, O God, thou God of my salvation;\n     my tongue shall sing aloud of thy righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051015,
+            "text": "    O Lord, open thou my lips;\n    And my mouth shall show forth thy praise.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051016,
+            "text": "  For thou delightest not in sacrifice; <i>[d]</i>else would I give it:\n    Thou hast no pleasure in burnt-offering.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>that I should give it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051017,
+            "text": "    The sacrifices of God are a broken spirit:\n    A broken and a contrite heart, O God, thou wilt not despise.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051018,
+            "text": "\u00b6     Do good in thy good pleasure unto Zion:\n    Build thou the walls of Jerusalem.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19051019,
+            "text": "    Then wilt thou delight in the sacrifices of righteousness,\n    In burnt-offering and whole burnt-offering:\n    Then will they offer bullocks upon thine altar.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-51-19",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 51
+}

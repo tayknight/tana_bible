@@ -1,0 +1,131 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19062001,
+            "text": "<b>God alone a refuge from treachery and oppression.</b>\n\u00b6 For the Chief Musician; after the manner of Jeduthun. A Psalm of David.\u00b6   My soul <i>[a]</i>waiteth in silence for God only:\n    From him  my salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>is silent unto God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062002,
+            "text": "    He only is my rock and my salvation:\n     my high tower; I shall not be greatly moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062003,
+            "text": "  How long will ye set upon a man,\n   <i>[b]</i>That ye may slay , all of you,\n    Like a leaning wall, like a tottering fence?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-3",
+            "footnotes": [
+                {
+                    "b": "Or, as otherwise read, <i>Ye shall be slain etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062004,
+            "text": "    They only consult to thrust him down from his dignity;\n    They delight in lies;\n    They bless with their mouth, but they curse inwardly. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062005,
+            "text": "  My soul, <i>[c]</i>wait thou in silence for God only;\n    For my expectation is from him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>be thou silent unto God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062006,
+            "text": "    He only is my rock and my salvation:\n     my high tower; I shall not be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062007,
+            "text": "    With God is my salvation and my glory:\n    The rock of my strength, and my refuge, is in God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062008,
+            "text": "    Trust in him at all times, ye people;\n    Pour out your heart before him:\n    God is a refuge for us. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062009,
+            "text": "  Surely men of low degree are <i>[d]</i>vanity, and men of high degree are a lie:\n    In the balances they will go up;\n    They are together lighter than vanity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-9",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>a breath</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062010,
+            "text": "    Trust not in oppression,\n    And become not vain in robbery:\n    If riches increase, set not your heart .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062011,
+            "text": "    God hath spoken once,\n    Twice have I heard this,\n    That power belongeth unto God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19062012,
+            "text": "    Also unto thee, O Lord, belongeth lovingkindness;\n    For thou renderest to every man according to his work.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-62-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 62
+}

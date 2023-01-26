@@ -1,0 +1,393 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44005001,
+            "text": "\u00b6 But a certain man named Ananias, with Sapphira his wife, sold a possession, ",
+            "version": "ASV",
+            "clsstr": "Acts-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005002,
+            "text": "and kept back  of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles\u2019 feet. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005003,
+            "text": "But Peter said, Ananias, why hath Satan filled thy heart to <i>[a]</i>lie to the Holy Spirit, and to keep back  of the price of the land? ",
+            "version": "ASV",
+            "clsstr": "Acts-5-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>deceive</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005004,
+            "text": "While it remained, did it not remain thine own? and after it was sold, was it not in thy power? How is it that thou hast conceived this thing in thy heart? thou hast not lied unto men, but unto God. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005005,
+            "text": "And Ananias hearing these words fell down and gave up the ghost: and great fear came upon all that heard it. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005006,
+            "text": "And the <i>[b]</i>young men arose and wrapped him round, and they carried him out and buried him.",
+            "version": "ASV",
+            "clsstr": "Acts-5-6",
+            "footnotes": [
+                {
+                    "b": "Greek <i>younger</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005007,
+            "text": "\u00b6 And it was about the space of three hours after, when his wife, not knowing what was done, came in. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005008,
+            "text": "And Peter answered unto her, Tell me whether ye sold the land for so much. And she said, Yea, for so much. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005009,
+            "text": "But Peter  unto her, How is it that ye have agreed together to try the Spirit of the Lord? behold, the feet of them that have buried thy husband are at the door, and they shall carry thee out. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005010,
+            "text": "And she fell down immediately at his feet, and gave up the ghost: and the young men came in and found her dead, and they carried her out and buried her by her husband. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005011,
+            "text": "And great fear came upon the whole church, and upon all that heard these things.",
+            "version": "ASV",
+            "clsstr": "Acts-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005012,
+            "text": "\u00b6 And by the hands of the apostles were many signs and wonders wrought among the people: and they were all with one accord in Solomon\u2019s <i>[c]</i>porch. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>portico</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005013,
+            "text": "But of the rest durst no man join himself to them: howbeit the people magnified them; ",
+            "version": "ASV",
+            "clsstr": "Acts-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005014,
+            "text": " <i>[d]</i>and believers were the more added to the Lord, multitudes both of men and women: ",
+            "version": "ASV",
+            "clsstr": "Acts-5-14",
+            "footnotes": [
+                {
+                    "d": "Or, <i>and there were the more added</i> to them, <i>believing on the Lord</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005015,
+            "text": "insomuch that they even carried out the sick into the streets, and laid them on beds and <i>[e]</i>couches, that, as Peter came by, at the least his shadow might overshadow some one of them. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>pallets</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005016,
+            "text": "And there also came together the multitude from the cities round about Jerusalem, bringing sick folk, and them that were vexed with unclean spirits: and they were healed every one.",
+            "version": "ASV",
+            "clsstr": "Acts-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005017,
+            "text": "\u00b6 But the high priest rose up, and all they that were with him (which is the sect of the Sadducees), and they were filled with jealousy, ",
+            "version": "ASV",
+            "clsstr": "Acts-5-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005018,
+            "text": "and laid hands on the apostles, and put them in public ward. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005019,
+            "text": "But an angel of the Lord by night opened the prison doors, and brought them out, and said, ",
+            "version": "ASV",
+            "clsstr": "Acts-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005020,
+            "text": "Go ye, and stand and speak in the temple to the people all the words of this Life. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005021,
+            "text": "And when they heard , they entered into the temple about daybreak, and taught. But the high priest came, and they that were with him, and called the council together, and all the senate of the children of Israel, and sent to the prison-house to have them brought. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005022,
+            "text": "But the officers that came found them not in the prison; and they returned, and told, ",
+            "version": "ASV",
+            "clsstr": "Acts-5-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005023,
+            "text": "saying, The prison-house we found shut in all safety, and the keepers standing at the doors: but when we had opened, we found no man within. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005024,
+            "text": "Now when the captain of the temple and the chief priests heard these words, they were much perplexed concerning them whereunto this would grow. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005025,
+            "text": "And there came one and told them, Behold, the men whom ye put in the prison are in the temple standing and teaching the people. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005026,
+            "text": "Then went the captain with the officers, and brought them,  without violence; for they feared the people, lest they should be stoned. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005027,
+            "text": "And when they had brought them, they set them before the council. And the high priest asked them, ",
+            "version": "ASV",
+            "clsstr": "Acts-5-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005028,
+            "text": "saying, We strictly charged you not to teach in this name: and behold, ye have filled Jerusalem with your teaching, and intend to bring this man\u2019s blood upon us. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005029,
+            "text": "But Peter and the apostles answered and said, We must obey God rather than men. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005030,
+            "text": "The God of our fathers raised up Jesus, whom ye slew, hanging him on a tree. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005031,
+            "text": "Him did God exalt <i>[f]</i>with his right hand  a Prince and a Saviour, to give repentance to Israel, and remission of sins. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-31",
+            "footnotes": [
+                {
+                    "f": "Or, <i>at</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005032,
+            "text": "And we are witnesses <i>[g]</i>of these <i>[h]</i>things; <i>[i]</i>and  the Holy Spirit, whom God hath given to them that obey him.",
+            "version": "ASV",
+            "clsstr": "Acts-5-32",
+            "footnotes": [
+                {
+                    "g": "Some ancient authorities add <i>in him</i>."
+                },
+                {
+                    "h": "Greek <i>sayings</i>."
+                },
+                {
+                    "i": "Some ancient authorities read <i>and God hath given the Holy Spirit to them that obey him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005033,
+            "text": "\u00b6 But they, when they heard this, were cut to the heart, and were minded to slay them. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005034,
+            "text": "But there stood up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in honor of all the people, and commanded to put the men forth a little while. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005035,
+            "text": "And he said unto them, Ye men of Israel, take heed to yourselves as touching these men, what ye are about to do. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005036,
+            "text": "For before these days rose up Theudas, giving himself out to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were dispersed, and came to nought. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005037,
+            "text": "After this man rose up Judas of Galilee in the days of the enrolment, and drew away  people after him: he also perished; and all, as many as obeyed him, were scattered abroad. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005038,
+            "text": "And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will be overthrown: ",
+            "version": "ASV",
+            "clsstr": "Acts-5-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005039,
+            "text": "but if it is of God, ye will not be able to overthrow them; lest haply ye be found even to be fighting against God. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005040,
+            "text": "And to him they agreed: and when they had called the apostles unto them, they beat them and charged them not to speak in the name of Jesus, and let them go. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005041,
+            "text": "They therefore departed from the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the Name. ",
+            "version": "ASV",
+            "clsstr": "Acts-5-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44005042,
+            "text": "And every day, in the temple and at home, they ceased not to teach and to <i>[j]</i>preach Jesus  the Christ.",
+            "version": "ASV",
+            "clsstr": "Acts-5-42",
+            "footnotes": [
+                {
+                    "j": "Greek <i>bring good tidings of</i>. See [[13:32]]; [[14:15]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 5
+}

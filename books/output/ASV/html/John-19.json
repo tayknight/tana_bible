@@ -1,0 +1,412 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43019001,
+            "text": "\u00b6 Then Pilate therefore took Jesus, and scourged him. ",
+            "version": "ASV",
+            "clsstr": "John-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019002,
+            "text": "And the soldiers platted a crown of thorns, and put it on his head, and arrayed him in a purple garment; ",
+            "version": "ASV",
+            "clsstr": "John-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019003,
+            "text": "and they came unto him, and said, Hail, King of the Jews! and they struck him <i>[a]</i>with their hands. ",
+            "version": "ASV",
+            "clsstr": "John-19-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>with rods</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019004,
+            "text": "And Pilate went out again, and saith unto them, Behold, I bring him out to you, that ye may know that I find no crime in him. ",
+            "version": "ASV",
+            "clsstr": "John-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019005,
+            "text": "Jesus therefore came out, wearing the crown of thorns and the purple garment. And  saith unto them, Behold, the man! ",
+            "version": "ASV",
+            "clsstr": "John-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019006,
+            "text": "When therefore the chief priests and the officers saw him, they cried out, saying, Crucify , crucify ! Pilate saith unto them, Take him yourselves, and crucify him: for I find no crime in him. ",
+            "version": "ASV",
+            "clsstr": "John-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019007,
+            "text": "The Jews answered him, We have a law, and by that law he ought to die, because he made himself the Son of God. ",
+            "version": "ASV",
+            "clsstr": "John-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019008,
+            "text": "When Pilate therefore heard this saying, he was the more afraid; ",
+            "version": "ASV",
+            "clsstr": "John-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019009,
+            "text": "and he entered into the <i>[b]</i>Praetorium again, and saith unto Jesus, Whence art thou? But Jesus gave him no answer. ",
+            "version": "ASV",
+            "clsstr": "John-19-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>palace</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019010,
+            "text": "Pilate therefore saith unto him, Speakest thou not unto me? knowest thou not that I have <i>[c]</i>power to release thee, and have <i>[d]</i>power to crucify thee? ",
+            "version": "ASV",
+            "clsstr": "John-19-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>authority</i>"
+                },
+                {
+                    "d": "Or, <i>authority</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019011,
+            "text": "Jesus answered him, Thou wouldest have no <i>[e]</i>power against me, except it were given thee from above: therefore he that delivered me unto thee hath greater sin. ",
+            "version": "ASV",
+            "clsstr": "John-19-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>authority</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019012,
+            "text": "Upon this Pilate sought to release him: but the Jews cried out, saying, If thou release this man, thou art not Caesar\u2019s friend: every one that maketh himself a king <i>[f]</i>speaketh against Caesar. ",
+            "version": "ASV",
+            "clsstr": "John-19-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>opposeth Caesar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019013,
+            "text": "When Pilate therefore heard these words, he brought Jesus out, and sat down on the judgment-seat at a place called The Pavement, but in Hebrew, Gabbatha. ",
+            "version": "ASV",
+            "clsstr": "John-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019014,
+            "text": "Now it was the Preparation of the passover: it was about the sixth hour. And he saith unto the Jews, Behold, your King! ",
+            "version": "ASV",
+            "clsstr": "John-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019015,
+            "text": "They therefore cried out, Away with , away with , crucify him! Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar. ",
+            "version": "ASV",
+            "clsstr": "John-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019016,
+            "text": "Then therefore he delivered him unto them to be crucified.",
+            "version": "ASV",
+            "clsstr": "John-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019017,
+            "text": "\u00b6 They took Jesus therefore: and he went out, bearing the cross for himself, unto the place called The place of a skull, which is called in Hebrew Golgotha: ",
+            "version": "ASV",
+            "clsstr": "John-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019018,
+            "text": "where they crucified him, and with him two others, on either side one, and Jesus in the midst. ",
+            "version": "ASV",
+            "clsstr": "John-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019019,
+            "text": "And Pilate wrote a title also, and put it on the cross. And there was written, <b>LORD</b>. ",
+            "version": "ASV",
+            "clsstr": "John-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019020,
+            "text": "This title therefore read many of the Jews, <i>[g]</i>for the place where Jesus was crucified was nigh to the city; and it was written in Hebrew,  in Latin,  in Greek. ",
+            "version": "ASV",
+            "clsstr": "John-19-20",
+            "footnotes": [
+                {
+                    "g": "Or, <i>for the place of the city where Jesus was crucified was nigh at hand</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019021,
+            "text": "The chief priests of the Jews therefore said to Pilate, Write not, The King of the Jews; but, that he said, I am King of the Jews. ",
+            "version": "ASV",
+            "clsstr": "John-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019022,
+            "text": "Pilate answered, What I have written I have written.",
+            "version": "ASV",
+            "clsstr": "John-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019023,
+            "text": "\u00b6 The soldiers therefore, when they had crucified Jesus, took his garments and made four parts, to every soldier a part; and also the <i>[h]</i>coat: now the <i>[i]</i>coat was without seam, woven from the top throughout. ",
+            "version": "ASV",
+            "clsstr": "John-19-23",
+            "footnotes": [
+                {
+                    "h": "Or, <i>tunic</i>"
+                },
+                {
+                    "i": "Or, <i>tunic</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019024,
+            "text": "They said therefore one to another, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith,\u00b6   <i>[j]</i>They parted my garments among them,\n    And upon my vesture did they cast lots.\n    ",
+            "version": "ASV",
+            "clsstr": "John-19-24",
+            "footnotes": [
+                {
+                    "j": "[[Ps. 22:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019025,
+            "text": "\u00b6 These things therefore the soldiers did. But there were standing by the cross of Jesus his mother, and his mother\u2019s sister, Mary the  of Clopas, and Mary Magdalene. ",
+            "version": "ASV",
+            "clsstr": "John-19-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019026,
+            "text": "When Jesus therefore saw his mother, and the disciple standing by whom he loved, he saith unto his mother, Woman, behold, thy son! ",
+            "version": "ASV",
+            "clsstr": "John-19-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019027,
+            "text": "Then saith he to the disciple, Behold, thy mother! And from that hour the disciple took her unto his own .",
+            "version": "ASV",
+            "clsstr": "John-19-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019028,
+            "text": "\u00b6 After this Jesus, knowing that all things are now finished, <i>[k]</i>that the scripture might be accomplished, saith, I thirst. ",
+            "version": "ASV",
+            "clsstr": "John-19-28",
+            "footnotes": [
+                {
+                    "k": "[[Ps. 69:21]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019029,
+            "text": "There was set there a vessel full of vinegar: so they put a sponge full of the vinegar upon hyssop, and brought it to his mouth. ",
+            "version": "ASV",
+            "clsstr": "John-19-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019030,
+            "text": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up his spirit.",
+            "version": "ASV",
+            "clsstr": "John-19-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019031,
+            "text": "\u00b6 The Jews therefore, because it was the Preparation, that the bodies should not remain on the cross upon the sabbath (for the day of that sabbath was a high ), asked of Pilate that their legs might be broken, and  they might be taken away. ",
+            "version": "ASV",
+            "clsstr": "John-19-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019032,
+            "text": "The soldiers therefore came, and brake the legs of the first, and of the other that was crucified with him: ",
+            "version": "ASV",
+            "clsstr": "John-19-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019033,
+            "text": "but when they came to Jesus, and saw that he was dead already, they brake not his legs: ",
+            "version": "ASV",
+            "clsstr": "John-19-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019034,
+            "text": "howbeit one of the soldiers with a spear pierced his side, and straightway there came out blood and water. ",
+            "version": "ASV",
+            "clsstr": "John-19-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019035,
+            "text": "And he that hath seen hath borne witness, and his witness is true: and he knoweth that he saith true, that ye also may believe. ",
+            "version": "ASV",
+            "clsstr": "John-19-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019036,
+            "text": "For these things came to pass, <i>[l]</i>that the scripture might be fulfilled, A bone of him shall not be <i>[m]</i>broken. ",
+            "version": "ASV",
+            "clsstr": "John-19-36",
+            "footnotes": [
+                {
+                    "l": "[[Ex. 12:46]]; [[Num. 9:12]]; [[Ps. 34:20]]."
+                },
+                {
+                    "m": "Or, <i>crushed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019037,
+            "text": "And again another scripture saith, <i>[n]</i>They shall look on him whom they pierced.",
+            "version": "ASV",
+            "clsstr": "John-19-37",
+            "footnotes": [
+                {
+                    "n": "[[Zech. 12:10]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019038,
+            "text": "\u00b6 And after these things Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away the body of Jesus: and Pilate gave  leave. He came therefore, and took away his body. ",
+            "version": "ASV",
+            "clsstr": "John-19-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019039,
+            "text": "And there came also Nicodemus, he who at the first came to him by night, bringing a <i>[o]</i>mixture of myrrh and aloes, about a hundred pounds. ",
+            "version": "ASV",
+            "clsstr": "John-19-39",
+            "footnotes": [
+                {
+                    "o": "Some ancient authorities read <i>roll</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019040,
+            "text": "So they took the body of Jesus, and bound it in linen cloths with the spices, as the custom of the Jews is to bury. ",
+            "version": "ASV",
+            "clsstr": "John-19-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019041,
+            "text": "Now in the place where he was crucified there was a garden; and in the garden a new tomb wherein was never man yet laid. ",
+            "version": "ASV",
+            "clsstr": "John-19-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43019042,
+            "text": "There then because of the Jews\u2019 Preparation (for the tomb was nigh at hand) they laid Jesus.",
+            "version": "ASV",
+            "clsstr": "John-19-42",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 19
+}

@@ -1,0 +1,47 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19133001,
+            "text": "<b>The excellency of brotherly unity.</b>\n\u00b6 A Song of Ascents; of David.\u00b6     Behold, how good and how pleasant it is\n    For brethren to dwell together in unity!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-133-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19133002,
+            "text": "  It is like the precious oil upon the head,\n  That ran down upon the beard,\n  Even Aaron\u2019s beard;\n  That came down upon the <i>[a]</i>skirt of his garments;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-133-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>collar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19133003,
+            "text": "    Like the dew of Hermon,\n    That cometh down upon the mountains of Zion:\n    For there Jehovah commanded the blessing,\n    Even life for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-133-3",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 133
+}

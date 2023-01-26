@@ -1,0 +1,174 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19115001,
+            "text": "<b>Heathen idols contrasted with Jehovah.</b>\n\u00b6     Not unto us, O Jehovah, not unto us,\n    But unto thy name give glory,\n    For thy lovingkindness, and for thy truth\u2019s sake.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115002,
+            "text": "    Wherefore should the nations say,\n    Where is now their God?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115003,
+            "text": "    But our God is in the heavens:\n    He hath done whatsoever he pleased.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115004,
+            "text": "    Their idols are silver and gold,\n    The work of men\u2019s hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115005,
+            "text": "    They have mouths, but they speak not;\n    Eyes have they, but they see not;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115006,
+            "text": "    They have ears, but they hear not;\n    Noses have they, but they smell not;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115007,
+            "text": "    They have hands, but they handle not;\n    Feet have they, but they walk not;\n    Neither speak they through their throat.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115008,
+            "text": "    They that make them shall be like unto them;\n    Yea, every one that trusteth in them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115009,
+            "text": "    O Israel, trust thou in Jehovah:\n    He is their help and their shield.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115010,
+            "text": "    O house of Aaron, trust ye in Jehovah:\n    He is their help and their shield.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115011,
+            "text": "    Ye that fear Jehovah, trust in Jehovah:\n    He is their help and their shield.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115012,
+            "text": "    Jehovah hath been mindful of us; he will bless :\n    He will bless the house of Israel;\n    He will bless the house of Aaron.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115013,
+            "text": "    He will bless them that fear Jehovah,\n    Both small and great.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115014,
+            "text": "    Jehovah increase you more and more,\n    You and your children.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115015,
+            "text": "    Blessed are ye of Jehovah,\n    Who made heaven and earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115016,
+            "text": "    The heavens are the heavens of Jehovah;\n    But the earth hath he given to the children of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115017,
+            "text": "  The dead praise not <i>[a]</i>Jehovah,\n    Neither any that go down into silence;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-17",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Jah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19115018,
+            "text": " But we will bless <i>[b]</i>Jehovah\n  From this time forth and for evermore.\n   <i>[c]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-115-18",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Jah</i>."
+                },
+                {
+                    "c": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 115
+}

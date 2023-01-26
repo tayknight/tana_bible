@@ -1,0 +1,149 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 66,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 66,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 66008001,
+            "text": "\u00b6 And when he opened the seventh seal, there followed a silence in heaven about the space of half an hour. ",
+            "version": "ASV",
+            "clsstr": "Rev-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008002,
+            "text": "And I saw the seven angels that stand before God; and there were given unto them seven trumpets.",
+            "version": "ASV",
+            "clsstr": "Rev-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008003,
+            "text": "\u00b6 And another angel came and stood <i>[a]</i>over the altar, having a golden censer; and there was given unto him much incense, that he should <i>[b]</i>add it unto the prayers of all the saints upon the golden altar which was before the throne. ",
+            "version": "ASV",
+            "clsstr": "Rev-8-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>at</i>"
+                },
+                {
+                    "b": "Greek <i>give</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008004,
+            "text": "And the smoke of the incense, <i>[c]</i>with the prayers of the saints, went up before God out of the angel\u2019s hand. ",
+            "version": "ASV",
+            "clsstr": "Rev-8-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008005,
+            "text": "And the angel <i>[d]</i>taketh the censer; and he filled it with the fire of the altar, and cast it <i>[e]</i>upon the earth: and there followed thunders, and voices, and lightnings, and an earthquake.",
+            "version": "ASV",
+            "clsstr": "Rev-8-5",
+            "footnotes": [
+                {
+                    "d": "Greek <i>hath taken</i>."
+                },
+                {
+                    "e": "Or, <i>into</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008006,
+            "text": "\u00b6 And the seven angels that had the seven trumpets prepared themselves to sound.",
+            "version": "ASV",
+            "clsstr": "Rev-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008007,
+            "text": "\u00b6 And the first sounded, and there followed hail and fire, mingled with blood, and they were cast <i>[f]</i>upon the earth: and the third part of the earth was burnt up, and the third part of the trees was burnt up, and all green grass was burnt up.",
+            "version": "ASV",
+            "clsstr": "Rev-8-7",
+            "footnotes": [
+                {
+                    "f": "Or, <i>into</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008008,
+            "text": "\u00b6 And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood; ",
+            "version": "ASV",
+            "clsstr": "Rev-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008009,
+            "text": "and there died the third part of the creatures which were in the sea,  they that had life; and the third part of the ships was destroyed.",
+            "version": "ASV",
+            "clsstr": "Rev-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008010,
+            "text": "\u00b6 And the third angel sounded, and there fell from heaven a great star, burning as a torch, and it fell upon the third part of the rivers, and upon the fountains of the waters; ",
+            "version": "ASV",
+            "clsstr": "Rev-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008011,
+            "text": "and the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.",
+            "version": "ASV",
+            "clsstr": "Rev-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008012,
+            "text": "\u00b6 And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; that the third part of them should be darkened, and the day should not shine for the third part of it, and the night in like manner.",
+            "version": "ASV",
+            "clsstr": "Rev-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66008013,
+            "text": "\u00b6 And I saw, and I heard <i>[g]</i>an eagle, flying in mid heaven, saying with a great voice, Woe, woe, woe, for them that dwell on the earth, by reason of the other voices of the trumpet of the three angels, who are yet to sound.",
+            "version": "ASV",
+            "clsstr": "Rev-8-13",
+            "footnotes": [
+                {
+                    "g": "Greek <i>one eagle</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Revelation",
+    "chapters": 8
+}

@@ -1,0 +1,111 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 17,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 10,
+            "end_verse": 3,
+            "end_book": null
+        }
+    ],
+    "book": 17,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 17007001,
+            "text": "\u00b6 So the king and Haman came <i>[a]</i>to banquet with Esther the queen. ",
+            "version": "ASV",
+            "clsstr": "Esth-7-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>to drink</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007002,
+            "text": "And the king said again unto Esther on the second day at the banquet of wine, What is thy petition, queen Esther? and it shall be granted thee: and what is thy request? even to the half of the kingdom it shall be performed. ",
+            "version": "ASV",
+            "clsstr": "Esth-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007003,
+            "text": "Then Esther the queen answered and said, If I have found favor in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request: ",
+            "version": "ASV",
+            "clsstr": "Esth-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007004,
+            "text": "for we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my peace, <i>[b]</i>although the adversary could not have compensated for the king\u2019s damage. ",
+            "version": "ASV",
+            "clsstr": "Esth-7-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>for our affliction is not to be compared with the king\u2019s damage</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007005,
+            "text": "Then spake the king Ahasuerus and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so? ",
+            "version": "ASV",
+            "clsstr": "Esth-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007006,
+            "text": "And Esther said, An adversary and an enemy, even this wicked Haman. Then Haman was afraid before the king and the queen. ",
+            "version": "ASV",
+            "clsstr": "Esth-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007007,
+            "text": "And the king arose in his wrath from the banquet of wine  into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king. ",
+            "version": "ASV",
+            "clsstr": "Esth-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007008,
+            "text": "Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the couch whereon Esther was. Then said the king, Will he even force the queen before me in the house? As the word went out of the king\u2019s mouth, they covered Haman\u2019s face. ",
+            "version": "ASV",
+            "clsstr": "Esth-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007009,
+            "text": "Then said Harbonah, one of the chamberlains that were before the king, Behold also, the <i>[c]</i>gallows fifty cubits high, which Haman hath made for Mordecai, who spake good for the king, standeth in the house of Haman. And the king said, Hang him thereon. ",
+            "version": "ASV",
+            "clsstr": "Esth-7-9",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>tree</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17007010,
+            "text": "So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king\u2019s wrath pacified.",
+            "version": "ASV",
+            "clsstr": "Esth-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Esther",
+    "chapters": 7
+}

@@ -1,0 +1,213 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 38,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 38,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 38009001,
+            "text": "\u00b6 The <i>[a]</i>burden of the word of Jehovah upon the land of Hadrach, and Damascus its resting-place (for <i>[b]</i>the eye of man and of all the tribes of Israel is toward Jehovah); ",
+            "version": "ASV",
+            "clsstr": "Zech-9-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle</i>"
+                },
+                {
+                    "b": "Or, <i>Jehovah hath an eye upon men and upon all the tribe of Israel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009002,
+            "text": "and Hamath, also, which bordereth thereon; Tyre and Sidon, <i>[c]</i>because they are very wise. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>though</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009003,
+            "text": "And Tyre did build herself a stronghold, and heaped up silver as the dust, and fine gold as the mire of the streets. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009004,
+            "text": "Behold, the Lord will dispossess her, and he will smite <i>[d]</i>her power in the sea; and she shall be devoured with fire. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>the sea which is her rampart</i>. Or, <i>her rampart into the sea</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009005,
+            "text": "Ashkelon shall see it, and fear; Gaza also, and shall be sore pained; and Ekron, for her expectation shall be put to shame; and the king shall perish from Gaza, and Ashkelon shall not be inhabited. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009006,
+            "text": "And <i>[e]</i>a bastard shall <i>[f]</i>dwell in Ashdod, and I will cut off the pride of the Philistines. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>a bastard race</i>"
+                },
+                {
+                    "f": "Or, <i>sit</i> as king"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009007,
+            "text": "And I will take away his blood out of his mouth, and his abominations from between his teeth; and he also shall be a remnant for our God; and he shall be as a chieftain in Judah, and Ekron as a Jebusite.",
+            "version": "ASV",
+            "clsstr": "Zech-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009008,
+            "text": "\u00b6 And I will encamp about my house <i>[g]</i>against the army, that none pass through or return; and no <i>[h]</i>oppressor shall pass through them any more: for now have I seen with mine eyes.",
+            "version": "ASV",
+            "clsstr": "Zech-9-8",
+            "footnotes": [
+                {
+                    "g": "Or, as otherwise read, <i>as a garrison</i>"
+                },
+                {
+                    "h": "Or, <i>exactor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009009,
+            "text": "\u00b6 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy king cometh unto thee; he is just, and <i>[i]</i>having <i>[j]</i>salvation; lowly, and riding upon an ass, even upon a colt the foal of an ass. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-9",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>saved</i>."
+                },
+                {
+                    "j": "Or, <i>victory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009010,
+            "text": "And I will cut off the chariot from Ephraim, and the horse from Jerusalem; and the battle bow shall be cut off; and he shall speak peace unto the nations: and his dominion shall be from sea to sea, and from the River to the ends of the earth.",
+            "version": "ASV",
+            "clsstr": "Zech-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009011,
+            "text": "\u00b6 As for thee also, because of the blood of thy covenant I have set free thy prisoners from the pit wherein is no water. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009012,
+            "text": " <i>[k]</i>Turn you to the stronghold, ye prisoners of hope: even to-day do I declare that I will render double unto thee. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-12",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Return</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009013,
+            "text": "For I have bent Judah for me, I have filled the bow with Ephraim; and I will stir up thy sons, O Zion, against thy sons, O <i>[l]</i>Greece, and will make thee as the sword of a mighty man. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-13",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>Javan</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009014,
+            "text": "And Jehovah shall be seen over them; and his arrow shall go forth as the lightning; and the Lord Jehovah will blow the trumpet, and will go with whirlwinds of the south. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009015,
+            "text": "Jehovah of hosts will defend them; and they shall devour, and shall tread down the sling-stones; and they shall drink, and make a noise as through wine; and they shall be filled like bowls, like the corners of the altar. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009016,
+            "text": "And Jehovah their God will save them in that day as the flock of his people; for the stones of a crown, <i>[m]</i>lifted on high over his land. ",
+            "version": "ASV",
+            "clsstr": "Zech-9-16",
+            "footnotes": [
+                {
+                    "m": "Or, <i>glittering upon etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38009017,
+            "text": "For how great is <i>[n]</i>his <i>[o]</i>goodness, and how great is <i>[p]</i>his beauty! grain shall make the young men flourish, and new wine the virgins.",
+            "version": "ASV",
+            "clsstr": "Zech-9-17",
+            "footnotes": [
+                {
+                    "n": "Or, <i>their</i>"
+                },
+                {
+                    "o": "Or, <i>prosperity</i>"
+                },
+                {
+                    "p": "Or, <i>their</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Zechariah",
+    "chapters": 9
+}

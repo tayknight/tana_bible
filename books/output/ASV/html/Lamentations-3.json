@@ -1,0 +1,595 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 25,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 22,
+            "end_book": null
+        }
+    ],
+    "book": 25,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 25003001,
+            "text": "\u00b6     I am the man that hath seen affliction by the rod of his wrath.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003002,
+            "text": "  He hath led me and caused me to walk in darkness, <i>[a]</i>and not in light.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>without light</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003003,
+            "text": "    Surely against me he turneth his hand again and again all the day.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003004,
+            "text": "  My flesh and my skin hath he <i>[b]</i>made old; he hath broken my bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>worn out</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003005,
+            "text": "    He hath builded against me, and compassed me with gall and travail.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003006,
+            "text": "    He hath made me to dwell in dark places, as those that have been long dead.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003007,
+            "text": "    He hath walled me about, that I cannot go forth; he hath made my chain heavy.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003008,
+            "text": "    Yea, when I cry, and call for help, he shutteth out my prayer.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003009,
+            "text": "    He hath walled up my ways with hewn stone; he hath made my paths crooked.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003010,
+            "text": "    He is unto me as a bear lying in wait, as a lion in secret places.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003011,
+            "text": "    He hath turned aside my ways, and pulled me in pieces; he hath made me desolate.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003012,
+            "text": "    He hath bent his bow, and set me as a mark for the arrow.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003013,
+            "text": "  He hath caused the <i>[c]</i>shafts of his quiver to enter into my reins.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-13",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>sons</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003014,
+            "text": "    I am become a derision to all my people, and their song all the day.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003015,
+            "text": "    He hath filled me with bitterness, he hath sated me with wormwood.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003016,
+            "text": "    He hath also broken my teeth with gravel stones; he hath covered me with ashes.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003017,
+            "text": "  And thou hast <i>[d]</i>removed my soul far off from peace; I forgat prosperity.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-17",
+            "footnotes": [
+                {
+                    "d": "Or, <i>cast off</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003018,
+            "text": "    And I said, My strength is perished, and mine expectation from Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003019,
+            "text": "\u00b6   Remember mine affliction and my <i>[e]</i>misery, the wormwood and the gall.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>wandering</i>. Or, <i>outcast state</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003020,
+            "text": "    My soul hath them still in remembrance, and is bowed down within me.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003021,
+            "text": "    This I recall to my mind; therefore have I hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003022,
+            "text": "     Jehovah\u2019s lovingkindnesses that we are not consumed, because his compassions fail not.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003023,
+            "text": "    They are new every morning; great is thy faithfulness.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003024,
+            "text": "    Jehovah is my portion, saith my soul; therefore will I hope in him.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003025,
+            "text": "    Jehovah is good unto them that wait for him, to the soul that seeketh him.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003026,
+            "text": "    It is good that a man should hope and quietly wait for the salvation of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003027,
+            "text": "    It is good for a man that he bear the yoke in his youth.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003028,
+            "text": "   <i>[f]</i>Let him sit alone and keep silence, because he hath laid it upon him.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-28",
+            "footnotes": [
+                {
+                    "f": "Or, <i>He sitteth etc.</i> (so through [[verses 28\u201330]])"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003029,
+            "text": "    Let him put his mouth in the dust, if so be there may be hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003030,
+            "text": "    Let him give his cheek to him that smiteth him; let him be filled full with reproach.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003031,
+            "text": "    For the Lord will not cast off for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003032,
+            "text": "    For though he cause grief, yet will he have compassion according to the multitude of his lovingkindnesses.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003033,
+            "text": "  For he doth not afflict <i>[g]</i>willingly, nor grieve the children of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-33",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>from his heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003034,
+            "text": "    To crush under foot all the prisoners of the earth,\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003035,
+            "text": "    To turn aside the right of a man before the face of the Most High,\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003036,
+            "text": "  To subvert a man in his cause, the Lord <i>[h]</i>approveth not.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-36",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>seeth not</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003037,
+            "text": "    Who is he that saith, and it cometh to pass, when the Lord commandeth it not?\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003038,
+            "text": "    Out of the mouth of the Most High cometh there not evil and good?\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003039,
+            "text": "  Wherefore doth a living man complain, <i>[i]</i>a man for the punishment of his sins?\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-39",
+            "footnotes": [
+                {
+                    "i": "Or, <i>a man that is in his sins</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003040,
+            "text": "\u00b6     Let us search and try our ways, and turn again to Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003041,
+            "text": "    Let us lift up our heart with our hands unto God in the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003042,
+            "text": "    We have transgressed and have rebelled; thou hast not pardoned.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003043,
+            "text": "  Thou hast <i>[j]</i>covered with anger and pursued us; thou hast slain, thou hast not pitied.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-43",
+            "footnotes": [
+                {
+                    "j": "Or, <i>covered</i> thyself"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003044,
+            "text": "    Thou hast covered thyself with a cloud, so that no prayer can pass through.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003045,
+            "text": "    Thou hast made us an offscouring and refuse in the midst of the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003046,
+            "text": "    All our enemies have opened their mouth wide against us.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003047,
+            "text": "  Fear and the pit are come upon us, <i>[k]</i>devastation and destruction.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-47",
+            "footnotes": [
+                {
+                    "k": "Or, <i>tumult</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003048,
+            "text": "    Mine eye runneth down with streams of water, for the destruction of the daughter of my people.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003049,
+            "text": "    Mine eye poureth down, and ceaseth not, without any intermission,\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003050,
+            "text": "    Till Jehovah look down, and behold from heaven.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003051,
+            "text": "    Mine eye affecteth my soul, because of all the daughters of my city.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003052,
+            "text": "    They have chased me sore like a bird, they that are mine enemies without cause.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003053,
+            "text": "    They have cut off my life in the dungeon, and have cast a stone upon me.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003054,
+            "text": "    Waters flowed over my head; I said, I am cut off.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003055,
+            "text": "\u00b6     I called upon thy name, O Jehovah, out of the lowest dungeon.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003056,
+            "text": "    Thou heardest my voice; hide not thine ear at my breathing, at my cry.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003057,
+            "text": "    Thou drewest near in the day that I called upon thee; thou saidst, Fear not.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003058,
+            "text": "    O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003059,
+            "text": "    O Jehovah, thou hast seen my wrong; judge thou my cause.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003060,
+            "text": "    Thou hast seen all their vengeance and all their devices against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003061,
+            "text": "    Thou hast heard their reproach, O Jehovah, and all their devices against me,\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003062,
+            "text": "    The lips of those that rose up against me, and their device against me all the day.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003063,
+            "text": "    Behold thou their sitting down, and their rising up; I am their song.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003064,
+            "text": "    Thou wilt render unto them a recompense, O Jehovah, according to the work of their hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003065,
+            "text": "  Thou wilt give them <i>[l]</i>hardness of heart, thy curse unto them.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-65",
+            "footnotes": [
+                {
+                    "l": "Or, <i>blindness</i>. Hebrew <i>covering</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25003066,
+            "text": "    Thou wilt pursue them in anger, and destroy them from under the heavens of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-3-66",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Lamentations",
+    "chapters": 3
+}

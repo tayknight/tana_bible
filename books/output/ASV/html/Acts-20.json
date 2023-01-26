@@ -1,0 +1,368 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44020001,
+            "text": "\u00b6 And after the uproar ceased, Paul having sent for the disciples and exhorted them, took leave of them, and departed to go into Macedonia. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020002,
+            "text": "And when he had gone through those parts, and had given them much exhortation, he came into Greece. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020003,
+            "text": "And when he had spent three months , and a plot was laid against him by the Jews as he was about to set sail for Syria, he determined to return through Macedonia. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020004,
+            "text": "And there accompanied him <i>[a]</i>as far as Asia, Sopater of Beroea,  of Pyrrhus; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timothy; and of Asia, Tychicus and Trophimus. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-4",
+            "footnotes": [
+                {
+                    "a": "Many ancient authorities omit <i>as far as Asia</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020005,
+            "text": "But these <i>[b]</i>had gone before, and were waiting for us at Troas. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-5",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>came, and were waiting</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020006,
+            "text": "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we tarried seven days.",
+            "version": "ASV",
+            "clsstr": "Acts-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020007,
+            "text": "\u00b6 And upon the first day of the week, when we were gathered together to break bread, Paul discoursed with them, intending to depart on the morrow; and prolonged his speech until midnight. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020008,
+            "text": "And there were many lights in the upper chamber where we were gathered together. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020009,
+            "text": "And there sat in the window a certain young man named Eutychus, borne down with deep sleep; and as Paul discoursed yet longer, being borne down by his sleep he fell down from the third story, and was taken up dead. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020010,
+            "text": "And Paul went down, and fell on him, and embracing him said, Make ye no ado; for his life is in him. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020011,
+            "text": "And when he was gone up, and had broken the bread, and eaten, and had talked with them a long while, even till break of day, so he departed. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020012,
+            "text": "And they brought the lad alive, and were not a little comforted.",
+            "version": "ASV",
+            "clsstr": "Acts-20-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020013,
+            "text": "\u00b6 But we, going before to the ship, set sail for Assos, there intending to take in Paul: for so had he appointed, intending himself to go <i>[c]</i>by land. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>on foot</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020014,
+            "text": "And when he met us at Assos, we took him in, and came to Mitylene. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020015,
+            "text": "And sailing from thence, we came the following day over against Chios; and the next day we touched at Samos; and <i>[d]</i>the day after we came to Miletus. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-15",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities insert <i>having tarried at Trogyllium</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020016,
+            "text": "For Paul had determined to sail past Ephesus, that he might not have to spend time in Asia; for he was hastening, if it were possible for him, to be at Jerusalem the day of Pentecost.",
+            "version": "ASV",
+            "clsstr": "Acts-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020017,
+            "text": "\u00b6 And from Miletus he sent to Ephesus, and called to him the <i>[e]</i>elders of the church. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-17",
+            "footnotes": [
+                {
+                    "e": "Or, <i>presbyters</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020018,
+            "text": "And when they were come to him, he said unto them,\u00b6 Ye yourselves know, from the first day that I set foot in Asia, after what manner I was with you all the time, ",
+            "version": "ASV",
+            "clsstr": "Acts-20-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020019,
+            "text": "serving the Lord with all lowliness of mind, and with tears, and with trials which befell me by the plots of the Jews; ",
+            "version": "ASV",
+            "clsstr": "Acts-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020020,
+            "text": "how I shrank not from declaring unto you anything that was profitable, and teaching you publicly, and from house to house, ",
+            "version": "ASV",
+            "clsstr": "Acts-20-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020021,
+            "text": "testifying both to Jews and to Greeks repentance toward God, and faith toward our Lord Jesus <i>[f]</i>Christ. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-21",
+            "footnotes": [
+                {
+                    "f": "Many ancient authorities omit <i>Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020022,
+            "text": "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there: ",
+            "version": "ASV",
+            "clsstr": "Acts-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020023,
+            "text": "save that the Holy Spirit testifieth unto me in every city, saying that bonds and afflictions abide me. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020024,
+            "text": "But I hold not my life of any account as dear unto myself, <i>[g]</i>so that I may accomplish my course, and the ministry which I received from the Lord Jesus, to testify the <i>[h]</i>gospel of the grace of God. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-24",
+            "footnotes": [
+                {
+                    "g": "Or, <i>in comparison of accomplishing my course</i>"
+                },
+                {
+                    "h": "Or, <i>good tidings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020025,
+            "text": "And now, behold, I know that ye all, among whom I went about preaching the kingdom, shall see my face no more. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020026,
+            "text": "Wherefore I testify unto you this day, that I am pure from the blood of all men. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020027,
+            "text": "For I shrank not from declaring unto you the whole counsel of God. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020028,
+            "text": "Take heed unto yourselves, and to all the flock, in which the Holy Spirit hath made you <i>[i]</i>bishops, to feed the church of <i>[j]</i>the Lord which he <i>[k]</i>purchased with his own blood. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-28",
+            "footnotes": [
+                {
+                    "i": "Or, <i>overseers</i>"
+                },
+                {
+                    "j": "Some ancient authorities, including the two oldest manuscripts, read <i>God</i>."
+                },
+                {
+                    "k": "Greek <i>acquired</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020029,
+            "text": "I know that after my departing grievous wolves shall enter in among you, not sparing the flock; ",
+            "version": "ASV",
+            "clsstr": "Acts-20-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020030,
+            "text": "and from among your own selves shall men arise, speaking perverse things, to draw away the disciples after them. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020031,
+            "text": "Wherefore watch ye, remembering that by the space of three years I ceased not to admonish every one night and day with tears. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020032,
+            "text": "And now I commend you to <i>[l]</i>God, and to the word of his grace, which is able to build  up, and to give  the inheritance among all them that are sanctified. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-32",
+            "footnotes": [
+                {
+                    "l": "Some ancient authorities read <i>the Lord</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020033,
+            "text": "I coveted no man\u2019s silver, or gold, or apparel. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020034,
+            "text": "Ye yourselves know that these hands ministered unto my necessities, and to them that were with me. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020035,
+            "text": "In all things I gave you an example, that so laboring ye ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.",
+            "version": "ASV",
+            "clsstr": "Acts-20-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020036,
+            "text": "\u00b6 And when he had thus spoken, he kneeled down and prayed with them all. ",
+            "version": "ASV",
+            "clsstr": "Acts-20-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020037,
+            "text": "And they all wept sore, and fell on Paul\u2019s neck and kissed him, ",
+            "version": "ASV",
+            "clsstr": "Acts-20-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44020038,
+            "text": "sorrowing most of all for the word which he had spoken, that they should behold his face no more. And they brought him on his way unto the ship.",
+            "version": "ASV",
+            "clsstr": "Acts-20-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 20
+}

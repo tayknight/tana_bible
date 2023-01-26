@@ -1,0 +1,395 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1027001,
+            "text": "\u00b6 And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder son, and said unto him, My son: and he said unto him, Here am I. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027002,
+            "text": "And he said, Behold now, I am old, I know not the day of my death. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027003,
+            "text": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me venison; ",
+            "version": "ASV",
+            "clsstr": "Gen-27-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027004,
+            "text": "and make me savory food, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die.",
+            "version": "ASV",
+            "clsstr": "Gen-27-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027005,
+            "text": "\u00b6 And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027006,
+            "text": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying, ",
+            "version": "ASV",
+            "clsstr": "Gen-27-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027007,
+            "text": "Bring me venison, and make me savory food, that I may eat, and bless thee before Jehovah before my death. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027008,
+            "text": "Now therefore, my son, obey my voice according to that which I command thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027009,
+            "text": "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savory food for thy father, such as he loveth: ",
+            "version": "ASV",
+            "clsstr": "Gen-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027010,
+            "text": "and thou shalt bring it to thy father, that he may eat, so that he may bless thee before his death. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027011,
+            "text": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027012,
+            "text": "My father peradventure will feel me, and I shall seem to him as a <i>[a]</i>deceiver; and I shall bring a curse upon me, and not a blessing. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-12",
+            "footnotes": [
+                {
+                    "a": "Or, <i>mocker</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027013,
+            "text": "And his mother said unto him, Upon me be thy curse, my son; only obey my voice, and go fetch me them. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027014,
+            "text": "And he went, and fetched, and brought them to his mother: and his mother made savory food, such as his father loved. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027015,
+            "text": "And Rebekah took the goodly garments of Esau her elder son, which were with her in the house, and put them upon Jacob her younger son; ",
+            "version": "ASV",
+            "clsstr": "Gen-27-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027016,
+            "text": "and she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck: ",
+            "version": "ASV",
+            "clsstr": "Gen-27-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027017,
+            "text": "and she gave the savory food and the bread, which she had prepared, into the hand of her son Jacob.",
+            "version": "ASV",
+            "clsstr": "Gen-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027018,
+            "text": "\u00b6 And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son? ",
+            "version": "ASV",
+            "clsstr": "Gen-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027019,
+            "text": "And Jacob said unto his father, I am Esau thy first-born; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027020,
+            "text": "And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because Jehovah thy God sent me good speed. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027021,
+            "text": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027022,
+            "text": "And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob\u2019s voice, but the hands are the hands of Esau. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027023,
+            "text": "And he discerned him not, because his hands were hairy, as his brother Esau\u2019s hands: so he blessed him. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027024,
+            "text": "And he said, Art thou my very son Esau? And he said, I am. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027025,
+            "text": "And he said, Bring it near to me, and I will eat of my son\u2019s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027026,
+            "text": "And his father Isaac said unto him, Come near now, and kiss me, my son. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027027,
+            "text": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said,\u00b6     See, the smell of my son\n    Is as the smell of a field which Jehovah hath blessed:\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-27-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027028,
+            "text": "    And God give thee of the dew of heaven,\n    And of the fatness of the earth,\n    And plenty of grain and new wine:\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-27-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027029,
+            "text": "    Let peoples serve thee,\n    And nations bow down to thee:\n    Be lord over thy brethren,\n    And let thy mother\u2019s sons bow down to thee:\n    Cursed be every one that curseth thee,\n    And blessed be every one that blesseth thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-27-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027030,
+            "text": "\u00b6 And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027031,
+            "text": "And he also made savory food, and brought it unto his father; and he said unto his father, Let my father arise, and eat of his son\u2019s venison, that thy soul may bless me. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027032,
+            "text": "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy first-born, Esau. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027033,
+            "text": "And Isaac trembled very exceedingly, and said, Who then is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea,  he shall be blessed. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027034,
+            "text": "When Esau heard the words of his father, he cried with an exceeding great and bitter cry, and said unto his father, Bless me, even me also, O my father. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027035,
+            "text": "And he said, Thy brother came with guile, and hath taken away thy blessing. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027036,
+            "text": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me? ",
+            "version": "ASV",
+            "clsstr": "Gen-27-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027037,
+            "text": "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with grain and new wine have I sustained him: and what then shall I do for thee, my son? ",
+            "version": "ASV",
+            "clsstr": "Gen-27-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027038,
+            "text": "And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027039,
+            "text": "And Isaac his father answered and said unto him,\u00b6   Behold, <i>[b]</i>of the fatness of the earth shall be thy dwelling,\n    And of the dew of heaven from above;\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-27-39",
+            "footnotes": [
+                {
+                    "b": "Or, <i>away from</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027040,
+            "text": "    And by thy sword shalt thou live, and thou shalt serve thy brother;\n    And it shall come to pass, when thou shalt break loose,\n    That thou shalt shake his yoke from off thy neck.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-27-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027041,
+            "text": "\u00b6 And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027042,
+            "text": "And the words of Esau her elder son were told to Rebekah; and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself,  to kill thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-27-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027043,
+            "text": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran; ",
+            "version": "ASV",
+            "clsstr": "Gen-27-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027044,
+            "text": "and tarry with him a few days, until thy brother\u2019s fury turn away; ",
+            "version": "ASV",
+            "clsstr": "Gen-27-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027045,
+            "text": "until thy brother\u2019s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be bereaved of you both in one day?",
+            "version": "ASV",
+            "clsstr": "Gen-27-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1027046,
+            "text": "\u00b6 And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these, of the daughters of the land, what good shall my life do me?",
+            "version": "ASV",
+            "clsstr": "Gen-27-46",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 27
+}

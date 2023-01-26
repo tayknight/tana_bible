@@ -1,0 +1,219 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3024001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024002,
+            "text": "Command the children of Israel, that they bring unto thee pure olive oil beaten for the light, <i>[a]</i>to cause a lamp to burn continually. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>to set up a lamp continually</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024003,
+            "text": "Without the veil of the testimony, in the tent of meeting, shall Aaron keep it in order from evening to morning before Jehovah continually: it shall be a statute for ever throughout your generations. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024004,
+            "text": "He shall keep in order the lamps upon the pure candlestick before Jehovah continually.",
+            "version": "ASV",
+            "clsstr": "Lev-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024005,
+            "text": "\u00b6 And thou shalt take fine flour, and bake twelve cakes thereof: two tenth parts  shall be in one cake. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024006,
+            "text": "And thou shalt set them in <i>[b]</i>two rows, six on a row, upon the pure table before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>two piles, six in a pile</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024007,
+            "text": "And thou shalt put pure frankincense upon each <i>[c]</i>row, that it may be to the bread for a memorial, even an offering made by fire unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>pile</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024008,
+            "text": "Every sabbath day he shall set it in order before Jehovah continually; it is <i>[d]</i>on the behalf of the children of Israel, an everlasting covenant. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>from</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024009,
+            "text": "And it shall be for Aaron and his sons; and they shall eat it in a holy place: for it is most holy unto him of the offerings of Jehovah made by fire by a perpetual statute.",
+            "version": "ASV",
+            "clsstr": "Lev-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024010,
+            "text": "\u00b6 And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel; and the son of the Israelitish woman and a man of Israel strove together in the camp: ",
+            "version": "ASV",
+            "clsstr": "Lev-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024011,
+            "text": "and the son of the Israelitish woman blasphemed the Name, and cursed; and they brought him unto Moses. And his mother\u2019s name was Shelomith, the daughter of Dibri, of the tribe of Dan. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024012,
+            "text": "And they put him in ward, that it might be declared unto them at the mouth of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-24-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024013,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024014,
+            "text": "Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024015,
+            "text": "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024016,
+            "text": "And he that blasphemeth the name of Jehovah, he shall surely be put to death; all the congregation shall certainly stone him: as well the sojourner, as the home-born, when he blasphemeth the name , shall be put to death. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024017,
+            "text": "And he that smiteth any man mortally shall surely be put to death. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024018,
+            "text": "And he that smiteth a beast mortally shall make it good, life for life. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024019,
+            "text": "And if a man cause a blemish in his neighbor; as he hath done, so shall it be done to him: ",
+            "version": "ASV",
+            "clsstr": "Lev-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024020,
+            "text": "breach for breach, eye for eye, tooth for tooth; as he hath caused a blemish in a man, so shall it be rendered unto him. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024021,
+            "text": "And he that killeth a beast shall make it good: and he that killeth a man shall be put to death. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024022,
+            "text": "Ye shall have one manner of law, as well for the sojourner, as for the home-born: for I am Jehovah your God. ",
+            "version": "ASV",
+            "clsstr": "Lev-24-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3024023,
+            "text": "And Moses spake to the children of Israel; and they brought forth him that had cursed out of the camp, and stoned him with stones. And the children of Israel did as Jehovah commanded Moses.",
+            "version": "ASV",
+            "clsstr": "Lev-24-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 24
+}

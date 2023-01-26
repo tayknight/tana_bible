@@ -1,0 +1,271 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44025001,
+            "text": "\u00b6 Festus therefore, <i>[a]</i>having come into the province, after three days went up to Jerusalem from Caesarea. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>having entered upon his province</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025002,
+            "text": "And the chief priests and the principal men of the Jews informed him against Paul; and they besought him, ",
+            "version": "ASV",
+            "clsstr": "Acts-25-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025003,
+            "text": "asking a favor against him, that he would send for him to Jerusalem; laying a plot to kill him on the way. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025004,
+            "text": "Howbeit Festus answered, that Paul was kept in charge at Caesarea, and that he himself was about to depart  shortly. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025005,
+            "text": "Let them therefore, saith he, that are of power among you go down with me, and if there is anything amiss in the man, let them accuse him.",
+            "version": "ASV",
+            "clsstr": "Acts-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025006,
+            "text": "\u00b6 And when he had tarried among them not more than eight or ten days, he went down unto Caesarea; and on the morrow he sat on the judgment-seat, and commanded Paul to be brought. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025007,
+            "text": "And when he was come, the Jews that had come down from Jerusalem stood round about him, bringing against him many and grievous charges which they could not prove; ",
+            "version": "ASV",
+            "clsstr": "Acts-25-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025008,
+            "text": "while Paul said in his defence, Neither against the law of the Jews, nor against the temple, nor against Caesar, have I sinned at all. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025009,
+            "text": "But Festus, desiring to gain favor with the Jews, answered Paul and said, Wilt thou go up to Jerusalem, and there be judged of these things before me? ",
+            "version": "ASV",
+            "clsstr": "Acts-25-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025010,
+            "text": "But Paul said, I am standing before Caesar\u2019s judgment-seat, where I ought to be judged: to the Jews have I done no wrong, as thou also very well knowest. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025011,
+            "text": "If then I am a wrong-doer, and have committed anything worthy of death, I refuse not to die; but if none of those things is whereof these accuse me, no man can <i>[b]</i>give me up unto them. I appeal unto Caesar. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-11",
+            "footnotes": [
+                {
+                    "b": "Greek <i>grant me by favor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025012,
+            "text": "Then Festus, when he had conferred with the council, answered, Thou hast appealed unto Caesar: unto Caesar shalt thou go.",
+            "version": "ASV",
+            "clsstr": "Acts-25-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025013,
+            "text": "\u00b6 Now when certain days were passed, Agrippa the king and Bernice arrived at Caesarea, <i>[c]</i>and saluted Festus. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>having saluted</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025014,
+            "text": "And as they tarried there many days, Festus laid Paul\u2019s case before the king, saying, There is a certain man left a prisoner by Felix; ",
+            "version": "ASV",
+            "clsstr": "Acts-25-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025015,
+            "text": "about whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed , asking for sentence against him. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025016,
+            "text": "To whom I answered, that it is not the custom of the Romans to <i>[d]</i>give up any man, before that the accused have the accusers face to face, and have had opportunity to make his defence concerning the matter laid against him. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-16",
+            "footnotes": [
+                {
+                    "d": "Greek <i>grant me by favor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025017,
+            "text": "When therefore they were come together here, I made no delay, but on the next day sat on the judgment-seat, and commanded the man to be brought. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025018,
+            "text": "Concerning whom, when the accusers stood up, they brought no charge of such evil things as I supposed; ",
+            "version": "ASV",
+            "clsstr": "Acts-25-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025019,
+            "text": "but had certain questions against him of their own <i>[e]</i>religion, and of one Jesus, who was dead, whom Paul affirmed to be alive. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>superstition</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025020,
+            "text": "And I, being perplexed how to inquire concerning these things, asked whether he would go to Jerusalem and there be judged of these matters. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025021,
+            "text": "But when Paul had appealed to be kept for the decision of <i>[f]</i>the emperor, I commanded him to be kept till I should send him to Caesar. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-21",
+            "footnotes": [
+                {
+                    "f": "Greek <i>the Augustus</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025022,
+            "text": "And Agrippa unto Festus, I also <i>[g]</i>could wish to hear the man myself. To-morrow, saith he, thou shalt hear him.",
+            "version": "ASV",
+            "clsstr": "Acts-25-22",
+            "footnotes": [
+                {
+                    "g": "Or, <i>was wishing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025023,
+            "text": "\u00b6 So on the morrow, when Agrippa was come, and Bernice, with great pomp, and they were entered into the place of hearing with the <i>[h]</i>chief captains and the principal men of the city, at the command of Festus Paul was brought in. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-23",
+            "footnotes": [
+                {
+                    "h": "Or, <i>military tribunes</i>. Greek <i>chiliarchs</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025024,
+            "text": "And Festus saith, King Agrippa, and all men who are here present with us, ye behold this man, about whom all the multitude of the Jews made suit to me, both at Jerusalem and here, crying that he ought not to live any longer. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025025,
+            "text": "But I found that he had committed nothing worthy of death: and as he himself appealed to <i>[i]</i>the emperor I determined to send him. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-25",
+            "footnotes": [
+                {
+                    "i": "Greek <i>the Augustus</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025026,
+            "text": "Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, king Agrippa, that, after examination had, I may have somewhat to write. ",
+            "version": "ASV",
+            "clsstr": "Acts-25-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44025027,
+            "text": "For it seemeth to me unreasonable, in sending a prisoner, not withal to signify the charges against him.",
+            "version": "ASV",
+            "clsstr": "Acts-25-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 25
+}

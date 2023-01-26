@@ -1,0 +1,192 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19132001,
+            "text": "<b>Prayer for Jehovah\u2019s blessing upon the sanctuary.</b>\n\u00b6 A Song of Ascents.\u00b6     Jehovah, remember for David\n    All his affliction;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132002,
+            "text": "    How he sware unto Jehovah,\n    And vowed unto the Mighty One of Jacob:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132003,
+            "text": " Surely I will not come into the <i>[a]</i>tabernacle of my house,\n  Nor go up into <i>[b]</i>my bed;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>tent</i>."
+                },
+                {
+                    "b": "Hebrew <i>the couch of my bed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132004,
+            "text": "    I will not give sleep to mine eyes,\n    Or slumber to mine eyelids;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132005,
+            "text": "  Until I find out a place for Jehovah,\n   <i>[c]</i>A tabernacle for the Mighty One of Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Tabernacles</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132006,
+            "text": " Lo, we heard of it in <i>[d]</i>Ephrathah:\n  We found it in the field of <i>[e]</i>the wood.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Ephraim</i>"
+                },
+                {
+                    "e": "Or, <i>Jaar</i>. See [[1 Chr. 13:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132007,
+            "text": "    We will go into his tabernacles;\n    We will worship at his footstool.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132008,
+            "text": "    Arise, O Jehovah, into thy resting-place;\n    Thou, and the ark of thy strength.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132009,
+            "text": "    Let thy priests be clothed with righteousness;\n    And let thy saints shout for joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132010,
+            "text": "    For thy servant David\u2019s sake\n    Turn not away the face of thine anointed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132011,
+            "text": "    Jehovah hath sworn unto David in truth;\n    He will not turn from it:\n    Of the fruit of thy body will I set upon thy throne.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132012,
+            "text": "    If thy children will keep my covenant\n    And my testimony that I shall teach them,\n    Their children also shall sit upon thy throne for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132013,
+            "text": "    For Jehovah hath chosen Zion;\n    He hath desired it for his habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132014,
+            "text": "    This is my resting-place for ever:\n    Here will I dwell; for I have desired it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132015,
+            "text": "  I will <i>[f]</i>abundantly bless her provision:\n    I will satisfy her poor with bread.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>surely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132016,
+            "text": "    Her priests also will I clothe with salvation;\n    And her saints shall shout aloud for joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132017,
+            "text": " There will I make <i>[g]</i>the horn of David to bud:\n  I have <i>[h]</i>ordained a lamp for mine anointed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>a horn to spring forth unto David</i>"
+                },
+                {
+                    "h": "Or, <i>prepared</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19132018,
+            "text": "    His enemies will I clothe with shame;\n    But upon himself shall his crown flourish.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-132-18",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 132
+}

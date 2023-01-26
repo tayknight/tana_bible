@@ -1,0 +1,327 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40020001,
+            "text": "For the kingdom of heaven is like unto a man that was a householder, who went out early in the morning to hire laborers into his vineyard. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020002,
+            "text": "And when he had agreed with the laborers for a <i>[a]</i>shilling a day, he sent them into his vineyard. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-2",
+            "footnotes": [
+                {
+                    "a": "See marginal note on [[18:28]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020003,
+            "text": "And he went out about the third hour, and saw others standing in the marketplace idle; ",
+            "version": "ASV",
+            "clsstr": "Matt-20-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020004,
+            "text": "and to them he said, Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020005,
+            "text": "Again he went out about the sixth and the ninth hour, and did likewise. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020006,
+            "text": "And about the eleventh  he went out, and found others standing; and he saith unto them, Why stand ye here all the day idle? ",
+            "version": "ASV",
+            "clsstr": "Matt-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020007,
+            "text": "They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020008,
+            "text": "And when even was come, the lord of the vineyard saith unto his steward, Call the laborers, and pay them their hire, beginning from the last unto the first. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020009,
+            "text": "And when they came that about the eleventh hour, they received every man a <i>[b]</i>shilling. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-9",
+            "footnotes": [
+                {
+                    "b": "See marginal note on [[18:28]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020010,
+            "text": "And when the first came, they supposed that they would receive more; and they likewise received every man a <i>[c]</i>shilling. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-10",
+            "footnotes": [
+                {
+                    "c": "See marginal note on [[18:28]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020011,
+            "text": "And when they received it, they murmured against the householder, ",
+            "version": "ASV",
+            "clsstr": "Matt-20-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020012,
+            "text": "saying, These last have spent one hour, and thou hast made them equal unto us, who have borne the burden of the day and the <i>[d]</i>scorching heat. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>hot wind</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020013,
+            "text": "But he answered and said to one of them, Friend, I do thee no wrong: didst not thou agree with me for a <i>[e]</i>shilling? ",
+            "version": "ASV",
+            "clsstr": "Matt-20-13",
+            "footnotes": [
+                {
+                    "e": "See marginal note on [[18:28]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020014,
+            "text": "Take up that which is thine, and go thy way; it is my will to give unto this last, even as unto thee. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020015,
+            "text": "Is it not lawful for me to do what I will with mine own? or is thine eye evil, because I am good? ",
+            "version": "ASV",
+            "clsstr": "Matt-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020016,
+            "text": "So the last shall be first, and the first last.",
+            "version": "ASV",
+            "clsstr": "Matt-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020017,
+            "text": "\u00b6 And as Jesus was going up to Jerusalem, he took the twelve disciples apart, and on the way he said unto them, ",
+            "version": "ASV",
+            "clsstr": "Matt-20-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020018,
+            "text": "Behold, we go up to Jerusalem; and the Son of man shall be <i>[f]</i>delivered unto the chief priests and scribes; and they shall condemn him to death, ",
+            "version": "ASV",
+            "clsstr": "Matt-20-18",
+            "footnotes": [
+                {
+                    "f": "See [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020019,
+            "text": "and shall deliver him unto the Gentiles to mock, and to scourge, and to crucify: and the third day he shall be raised up.",
+            "version": "ASV",
+            "clsstr": "Matt-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020020,
+            "text": "\u00b6 Then came to him the mother of the sons of Zebedee with her sons, <i>[g]</i>worshipping , and asking a certain thing of him. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-20",
+            "footnotes": [
+                {
+                    "g": "See marginal note on [[2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020021,
+            "text": "And he said unto her, What wouldest thou? She saith unto him, Command that these my two sons may sit, one on thy right hand, and one on thy left hand, in thy kingdom. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020022,
+            "text": "But Jesus answered and said, Ye know not what ye ask. Are ye able to drink the cup that I am about to drink? They say unto him, We are able. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020023,
+            "text": "He saith unto them, My cup indeed ye shall drink: but to sit on my right hand, and on  left hand, is not mine to give; but  for whom it hath been prepared of my Father. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020024,
+            "text": "And when the ten heard it, they were moved with indignation concerning the two brethren. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020025,
+            "text": "But Jesus called them unto him, and said, Ye know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020026,
+            "text": "Not so shall it be among you: but whosoever would become great among you shall be your <i>[h]</i>minister; ",
+            "version": "ASV",
+            "clsstr": "Matt-20-26",
+            "footnotes": [
+                {
+                    "h": "Or, <i>servant</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020027,
+            "text": "and whosoever would be first among you shall be your <i>[i]</i>servant: ",
+            "version": "ASV",
+            "clsstr": "Matt-20-27",
+            "footnotes": [
+                {
+                    "i": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020028,
+            "text": "even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+            "version": "ASV",
+            "clsstr": "Matt-20-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020029,
+            "text": "\u00b6 And as they went out from Jericho, a great multitude followed him. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020030,
+            "text": "And behold, two blind men sitting by the way side, when they heard that Jesus was passing by, cried out, saying, Lord, have mercy on us, thou son of David. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020031,
+            "text": "And the multitude rebuked them, that they should hold their peace: but they cried out the more, saying, Lord, have mercy on us, thou son of David. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020032,
+            "text": "And Jesus stood still, and called them, and said, What will ye that I should do unto you? ",
+            "version": "ASV",
+            "clsstr": "Matt-20-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020033,
+            "text": "They say unto him, Lord, that our eyes may be opened. ",
+            "version": "ASV",
+            "clsstr": "Matt-20-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40020034,
+            "text": "And Jesus, being moved with compassion, touched their eyes; and straightway they received their sight, and followed him.",
+            "version": "ASV",
+            "clsstr": "Matt-20-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 20
+}

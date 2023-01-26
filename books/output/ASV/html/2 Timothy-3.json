@@ -1,0 +1,170 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 55,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 22,
+            "end_book": null
+        }
+    ],
+    "book": 55,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 55003001,
+            "text": "\u00b6 But know this, that in the last days grievous times shall come. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003002,
+            "text": "For men shall be lovers of self, lovers of money, boastful, haughty, railers, disobedient to parents, unthankful, unholy, ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003003,
+            "text": "without natural affection, implacable, slanderers, without self-control, fierce, no lovers of good, ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003004,
+            "text": "traitors, headstrong, puffed up, lovers of pleasure rather than lovers of God; ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003005,
+            "text": "holding a form of godliness, but having denied the power thereof: from these also turn away. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003006,
+            "text": "For of these are they that creep into houses, and take captive silly women laden with sins, led away by divers lusts, ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003007,
+            "text": "ever learning, and never able to come to the knowledge of the truth. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003008,
+            "text": "And even as Jannes and Jambres withstood Moses, so do these also withstand the truth; men corrupted in mind, reprobate concerning the faith. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003009,
+            "text": "But they shall proceed no further: for their folly shall be evident unto all men, as theirs also came to be. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003010,
+            "text": "But thou didst follow my teaching, conduct, purpose, faith, longsuffering, love, <i>[a]</i>patience, ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-10",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003011,
+            "text": "persecutions, sufferings; what things befell me at Antioch, at Iconium, at Lystra; what persecutions I endured: and out of them all the Lord delivered me. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003012,
+            "text": "Yea, and all that would live godly in Christ Jesus shall suffer persecution. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003013,
+            "text": "But evil men and impostors shall wax worse and worse, deceiving and being deceived. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003014,
+            "text": "But abide thou in the things which thou hast learned and hast been assured of, knowing of <i>[b]</i>whom thou hast learned them; ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-14",
+            "footnotes": [
+                {
+                    "b": "Greek <i>what persons</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003015,
+            "text": "and that from a babe thou hast known the sacred writings which are able to make thee wise unto salvation through faith which is in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003016,
+            "text": " <i>[c]</i>Every scripture inspired of God also profitable for teaching, for reproof, for correction, for <i>[d]</i>instruction which is in righteousness: ",
+            "version": "ASV",
+            "clsstr": "2Tim-3-16",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Every scripture</i> is <i>inspired of God, and profitable</i>"
+                },
+                {
+                    "d": "Or, <i>discipline</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55003017,
+            "text": "that the man of God may be complete, furnished completely unto every good work.",
+            "version": "ASV",
+            "clsstr": "2Tim-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Timothy",
+    "chapters": 3
+}

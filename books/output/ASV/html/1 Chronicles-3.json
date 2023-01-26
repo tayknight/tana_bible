@@ -1,0 +1,227 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13003001,
+            "text": "\u00b6 Now these were the sons of David, that were born unto him in Hebron: the first-born, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess; ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003002,
+            "text": "the third, Absalom the son of Maacah the daughter of Talmai king of Geshur; the fourth, Adonijah the son of Haggith; ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003003,
+            "text": "the fifth, Shephatiah of Abital; the sixth, Ithream by Eglah his wife: ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003004,
+            "text": "six were born unto him in Hebron; and there he reigned seven years and six months. And in Jerusalem he reigned thirty and three years; ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003005,
+            "text": "and these were born unto him in Jerusalem: Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel; ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003006,
+            "text": "and Ibhar, and Elishama, and Eliphelet, ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003007,
+            "text": "and Nogah, and Nepheg, and Japhia, ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003008,
+            "text": "and Elishama, and Eliada, and Eliphelet, nine. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003009,
+            "text": "All these were the sons of David, besides the sons of the concubines; and Tamar was their sister.",
+            "version": "ASV",
+            "clsstr": "1Chr-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003010,
+            "text": "\u00b6 And Solomon\u2019s son was Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003011,
+            "text": "Joram his son, Ahaziah his son, Joash his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003012,
+            "text": "Amaziah his son, Azariah his son, Jotham his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003013,
+            "text": "Ahaz his son, Hezekiah his son, Manasseh his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003014,
+            "text": "Amon his son, Josiah his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003015,
+            "text": "And the sons of Josiah: the first-born Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003016,
+            "text": "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003017,
+            "text": "And the sons of Jeconiah, <i>[a]</i>the captive: Shealtiel his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-17",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Assir</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003018,
+            "text": "and Malchiram, and Pedaiah, and Shenazzar, Jekamiah, Hoshama, and Nedabiah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003019,
+            "text": "And the sons of Pedaiah: Zerubbabel, and Shimei. And the <i>[b]</i>sons of Zerubbabel: Meshullam, and Hananiah; and Shelomith was their sister; ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-19",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>son</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003020,
+            "text": "and Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003021,
+            "text": "And the <i>[c]</i>sons of Hananiah: Pelatiah, and Jeshaiah; the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-21",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>son</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003022,
+            "text": "And the sons of Shecaniah: Shemaiah. And the sons of Shemaiah: Hattush, and Igal, and Bariah, and Neariah, and Shaphat, six. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003023,
+            "text": "And the <i>[d]</i>sons of Neariah: Elioenai, and Hizkiah, and Azrikam, three. ",
+            "version": "ASV",
+            "clsstr": "1Chr-3-23",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>son</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13003024,
+            "text": "And the sons of Elioenai: Hodaviah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Delaiah, and Anani, seven.",
+            "version": "ASV",
+            "clsstr": "1Chr-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 3
+}

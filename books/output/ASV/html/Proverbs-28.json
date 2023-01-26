@@ -1,0 +1,279 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20028001,
+            "text": "\u00b6     The wicked flee when no man pursueth;\n    But the righteous are bold as a lion.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028002,
+            "text": "  For the transgression of a land many are the princes thereof;\n  But by <i>[a]</i>men of understanding  knowledge the state  shall be prolonged.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028003,
+            "text": "  A needy man that oppresseth the poor\n  Is a sweeping rain <i>[b]</i>which leaveth no food.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>without food</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028004,
+            "text": "    They that forsake the law praise the wicked;\n    But such as keep the law contend with them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028005,
+            "text": "    Evil men understand not justice;\n    But they that seek Jehovah understand all things.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028006,
+            "text": "  Better is the poor that walketh in his integrity,\n  Than he that is <i>[c]</i>perverse in  ways, though he be rich.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>perverse of two ways</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028007,
+            "text": "    Whoso keepeth the law is a wise son;\n    But he that is a companion of gluttons shameth his father.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028008,
+            "text": "    He that augmenteth his substance by interest and increase,\n    Gathereth it for him that hath pity on the poor.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028009,
+            "text": "    He that turneth away his ear from hearing the law,\n    Even his prayer is an abomination.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028010,
+            "text": "    Whoso causeth the upright to go astray in an evil way,\n    He shall fall himself into his own pit;\n    But the perfect shall inherit good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028011,
+            "text": "  The rich man is wise in <i>[d]</i>his own conceit;\n    But the poor that hath understanding searcheth him out.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-11",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>his own eyes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028012,
+            "text": "  When the righteous triumph, there is great glory;\n  But when the wicked rise, men <i>[e]</i>hide themselves.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-12",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>must be searched for</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028013,
+            "text": "    He that covereth his transgressions shall not prosper;\n    But whoso confesseth and forsaketh them shall obtain mercy.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028014,
+            "text": "  Happy is the man that feareth alway;\n  But he that hardeneth his heart shall fall into <i>[f]</i>mischief.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-14",
+            "footnotes": [
+                {
+                    "f": "Or, <i>calamity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028015,
+            "text": "     a roaring lion, and a ranging bear,\n     a wicked ruler over a poor people.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028016,
+            "text": "   <i>[g]</i>The prince that lacketh understanding is also a great oppressor;\n     he that hateth covetousness shall prolong his days.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>O prince that lackest understanding and art a great oppressor, He etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028017,
+            "text": "    A man that is laden with the blood of any person\n    Shall flee unto the pit; let no man stay him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028018,
+            "text": "  Whoso walketh uprightly shall be delivered;\n  But <i>[h]</i>he that is perverse in  ways shall fall at once.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-18",
+            "footnotes": [
+                {
+                    "h": "Or, <i>he that walketh perversely in two ways</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028019,
+            "text": "    He that tilleth his land shall have plenty of bread;\n    But he that followeth after vain  shall have poverty enough.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028020,
+            "text": "    A faithful man shall abound with blessings;\n    But he that maketh haste to be rich shall not be unpunished.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028021,
+            "text": "  To have respect of persons is not good;\n   <i>[i]</i>Neither that a man should transgress for a piece of bread.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-21",
+            "footnotes": [
+                {
+                    "i": "Or, <i>For for a piece of bread a man will transgress</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028022,
+            "text": "    He that hath an evil eye hasteth after riches,\n    And knoweth not that want shall come upon him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028023,
+            "text": "    He that rebuketh a man shall afterward find more favor\n    Than he that flattereth with the tongue.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028024,
+            "text": "    Whoso robbeth his father or his mother, and saith, It is no transgression,\n    The same is the companion of a destroyer.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028025,
+            "text": "    He that is of a greedy spirit stirreth up strife;\n    But he that putteth his trust in Jehovah shall be made fat.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028026,
+            "text": "    He that trusteth in his own heart is a fool;\n    But whoso walketh wisely, he shall be delivered.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028027,
+            "text": "    He that giveth unto the poor shall not lack;\n    But he that hideth his eyes shall have many a curse.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20028028,
+            "text": "    When the wicked rise, men hide themselves;\n    But when they perish, the righteous increase.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-28-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 28
+}

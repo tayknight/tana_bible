@@ -1,0 +1,253 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 47,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 47,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 47001001,
+            "text": "\u00b6 Paul, an apostle of Christ Jesus through the will of God, and Timothy <i>[a]</i>our brother, unto the church of God which is at Corinth, with all the saints that are in the whole of Achaia: ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>the brother</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001002,
+            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+            "version": "ASV",
+            "clsstr": "2Cor-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001003,
+            "text": "\u00b6 Blessed  <i>[b]</i>the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort; ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>God and the Father</i>. See [[Rom. 15:6]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001004,
+            "text": "who comforteth us in all our affliction, that we may be able to comfort them that are in any affliction, through the comfort wherewith we ourselves are comforted of God. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001005,
+            "text": "For as the sufferings of Christ abound unto us, even so our comfort also aboundeth through Christ. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001006,
+            "text": "But whether we are afflicted, it is for your comfort and salvation; or whether we are comforted, it is for your comfort, which worketh in the patient enduring of the same sufferings which we also suffer: ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001007,
+            "text": "and our hope for you is stedfast; knowing that, as ye are partakers of the sufferings, so also are ye of the comfort. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001008,
+            "text": "For we would not have you ignorant, brethren, concerning our affliction which befell  in Asia, that we were weighed down exceedingly, beyond our power, insomuch that we despaired even of life: ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001009,
+            "text": " <i>[c]</i>yea, we ourselves have had the <i>[d]</i>sentence of death within ourselves, that we should not trust in ourselves, but in God who raiseth the dead: ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>but we ourselves</i>"
+                },
+                {
+                    "d": "Greek <i>answer</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001010,
+            "text": "who delivered us out of so great a death, and will deliver: on whom we have <i>[e]</i>set our hope that he will also still deliver us; ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-10",
+            "footnotes": [
+                {
+                    "e": "Some ancient authorities read <i>set our hope; and still will he deliver us</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001011,
+            "text": "ye also helping together on our behalf by your supplication; that, for the gift bestowed upon us by means of many, thanks may be given by many persons on our behalf.",
+            "version": "ASV",
+            "clsstr": "2Cor-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001012,
+            "text": "\u00b6 For our glorying is this, the testimony of our conscience, that in holiness and sincerity of God, not in fleshly wisdom but in the grace of God, we behaved ourselves in the world, and more abundantly to you-ward. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001013,
+            "text": "For we write no other things unto you, than what ye read or even acknowledge, and I hope ye will acknowledge unto the end: ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001014,
+            "text": "as also ye did acknowledge us in part, that we are your glorying, even as ye also are ours, in the day of our Lord Jesus.",
+            "version": "ASV",
+            "clsstr": "2Cor-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001015,
+            "text": "\u00b6 And in this confidence I was minded to come first unto you, that ye might have a second <i>[f]</i>benefit; ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>grace</i>. Some ancient authorities read <i>joy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001016,
+            "text": "and by you to pass into Macedonia, and again from Macedonia to come unto you, and of you to be set forward on my journey unto Judaea. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001017,
+            "text": "When I therefore was thus minded, did I show fickleness? or the things that I purpose, do I purpose according to the flesh, that with me there should be the yea yea and the nay nay? ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001018,
+            "text": "But as God is faithful, our word toward you is not yea and nay. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001019,
+            "text": "For the Son of God, Jesus Christ, who was preached among you <i>[g]</i>by us,  <i>[h]</i>by me and Silvanus and Timothy, was not yea and nay, but in him is yea. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-19",
+            "footnotes": [
+                {
+                    "g": "Greek <i>through</i>."
+                },
+                {
+                    "h": "Greek <i>through</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001020,
+            "text": "For how many soever be the promises of God, in him is the yea: wherefore also through him is the Amen, unto the glory of God through us. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001021,
+            "text": "Now he that establisheth us with you <i>[i]</i>in Christ, and anointed us, is God; ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-21",
+            "footnotes": [
+                {
+                    "i": "Greek <i>into</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001022,
+            "text": " <i>[j]</i>who also sealed us, and gave  the earnest of the Spirit in our hearts.",
+            "version": "ASV",
+            "clsstr": "2Cor-1-22",
+            "footnotes": [
+                {
+                    "j": "Or, <i>seeing that he both sealed us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001023,
+            "text": "\u00b6 But I call God for a witness upon my soul, that to spare you I forbare to come unto Corinth. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47001024,
+            "text": "Not that we have lordship over your faith, but are helpers of your joy: for in <i>[k]</i>faith ye stand fast. ",
+            "version": "ASV",
+            "clsstr": "2Cor-1-24",
+            "footnotes": [
+                {
+                    "k": "Or, <i>your faith</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Corinthians",
+    "chapters": 1
+}

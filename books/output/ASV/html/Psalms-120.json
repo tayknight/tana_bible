@@ -1,0 +1,82 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19120001,
+            "text": "<b>Prayer for deliverance from the treacherous.</b>\n\u00b6 A Song of Ascents.\u00b6     In my distress I cried unto Jehovah,\n    And he answered me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-120-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19120002,
+            "text": "    Deliver my soul, O Jehovah, from lying lips,\n     from a deceitful tongue.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-120-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19120003,
+            "text": "    What shall be given unto thee, and what shall be done more unto thee,\n    Thou deceitful tongue?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-120-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19120004,
+            "text": "  <i>[a]</i>Sharp arrows of the mighty,\n  With coals of <i>[b]</i>juniper.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-120-4",
+            "footnotes": [
+                {
+                    "a": "Or, It is as <i>the sharp arrows of the mighty</i> man"
+                },
+                {
+                    "b": "Or, <i>broom</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19120005,
+            "text": "    Woe is me, that I sojourn in Meshech,\n    That I dwell among the tents of Kedar!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-120-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19120006,
+            "text": "    My soul hath long had her dwelling\n    With him that hateth peace.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-120-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19120007,
+            "text": "    I am  peace:\n    But when I speak, they are for war.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-120-7",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 120
+}

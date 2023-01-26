@@ -1,0 +1,219 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23051001,
+            "text": "\u00b6 Hearken to me, ye that follow after righteousness, ye that seek Jehovah: look unto the rock whence ye were hewn, and to the hole of the pit whence ye were digged. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051002,
+            "text": "Look unto Abraham your father, and unto Sarah that bare you; for when he was but one I called him, and I blessed him, and made him many. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051003,
+            "text": "For Jehovah hath comforted Zion; he hath comforted all her waste places, and hath made her wilderness like Eden, and her desert like the garden of Jehovah; joy and gladness shall be found therein, thanksgiving, and the voice of melody.",
+            "version": "ASV",
+            "clsstr": "Isa-51-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051004,
+            "text": "\u00b6 Attend unto me, O my people; and give ear unto me, O my nation: for a law shall go forth from me, and I will establish my justice for a light of the peoples. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051005,
+            "text": "My righteousness is near, my salvation is gone forth, and mine arms shall judge the peoples; the isles shall wait for me, and on mine arm shall they trust. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051006,
+            "text": "Lift up your eyes to the heavens, and look upon the earth beneath; for the heavens shall vanish away like smoke, and the earth shall wax old like a garment; and they that dwell therein shall die <i>[a]</i>in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.",
+            "version": "ASV",
+            "clsstr": "Isa-51-6",
+            "footnotes": [
+                {
+                    "a": "Or perhaps, <i>like gnats</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051007,
+            "text": "\u00b6 Hearken unto me, ye that know righteousness, the people in whose heart is my law; fear ye not the reproach of men, neither be ye dismayed at their revilings. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051008,
+            "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool; but my righteousness shall be for ever, and my salvation unto all generations.",
+            "version": "ASV",
+            "clsstr": "Isa-51-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051009,
+            "text": "\u00b6 Awake, awake, put on strength, O arm of Jehovah; awake, as in the days of old, the generations of ancient times. Is it not thou that didst cut Rahab in pieces, that didst pierce the monster? ",
+            "version": "ASV",
+            "clsstr": "Isa-51-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051010,
+            "text": "Is it not thou that driedst up the sea, the waters of the great deep; that madest the depths of the sea a way for the redeemed to pass over? ",
+            "version": "ASV",
+            "clsstr": "Isa-51-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051011,
+            "text": "And the ransomed of Jehovah shall return, and come with singing unto Zion; and everlasting joy shall be upon their heads: they shall obtain gladness and joy;  sorrow and sighing shall flee away.",
+            "version": "ASV",
+            "clsstr": "Isa-51-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051012,
+            "text": "\u00b6 I, even I, am he that comforteth you: who art thou, that thou art afraid of man that shall die, and of the son of man that shall be made as grass; ",
+            "version": "ASV",
+            "clsstr": "Isa-51-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051013,
+            "text": "and hast forgotten Jehovah thy Maker, that stretched forth the heavens, and laid the foundations of the earth; and fearest continually all the day because of the fury of the oppressor, <i>[b]</i>when he maketh ready to destroy? and where is the fury of the oppressor? ",
+            "version": "ASV",
+            "clsstr": "Isa-51-13",
+            "footnotes": [
+                {
+                    "b": "Or, <i>as though he made ready</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051014,
+            "text": " <i>[c]</i>The captive exile shall speedily be loosed; and he shall not die  into the pit, neither shall his bread fail. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>He that is bent down</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051015,
+            "text": "For I am Jehovah thy God, who <i>[d]</i>stirreth up the sea, so that the waves thereof roar: Jehovah of hosts is his name. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>stilleth the sea when the waves thereof roar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051016,
+            "text": "And I have put my words in thy mouth, and have covered thee in the shadow of my hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion, Thou art my people.",
+            "version": "ASV",
+            "clsstr": "Isa-51-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051017,
+            "text": "\u00b6 Awake, awake, stand up, O Jerusalem, that hast drunk at the hand of Jehovah the cup of his wrath; thou hast drunken the bowl of the cup of staggering, and drained it. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051018,
+            "text": "There is none to guide her among all the sons whom she hath brought forth; neither is there any that taketh her by the hand among all the sons that she hath brought up. ",
+            "version": "ASV",
+            "clsstr": "Isa-51-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051019,
+            "text": "These two things are befallen thee, who shall bemoan thee? desolation and destruction, and the famine and the sword; how shall I comfort thee? ",
+            "version": "ASV",
+            "clsstr": "Isa-51-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051020,
+            "text": "Thy sons have fainted, they lie at the head of all the streets, as an antelope in a net; they are full of the wrath of Jehovah, the rebuke of thy God.",
+            "version": "ASV",
+            "clsstr": "Isa-51-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051021,
+            "text": "\u00b6 Therefore hear now this, thou afflicted, and drunken, but not with wine: ",
+            "version": "ASV",
+            "clsstr": "Isa-51-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051022,
+            "text": "Thus saith thy Lord Jehovah, and thy God that pleadeth the cause of his people, Behold, I have taken out of thy hand the cup of staggering, even the bowl of the cup of my wrath; thou shalt no more drink it again: ",
+            "version": "ASV",
+            "clsstr": "Isa-51-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23051023,
+            "text": "and I will put it into the hand of them that afflict thee, that have said to thy soul, Bow down, that we may go over; and thou hast laid thy back as the ground, and as the street, to them that go over.",
+            "version": "ASV",
+            "clsstr": "Isa-51-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 51
+}

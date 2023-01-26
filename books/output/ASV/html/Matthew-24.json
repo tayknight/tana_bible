@@ -1,0 +1,518 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40024001,
+            "text": "\u00b6 And Jesus went out from the temple, and was going on his way; and his disciples came to him to show him the buildings of the temple. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024002,
+            "text": "But he answered and said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.",
+            "version": "ASV",
+            "clsstr": "Matt-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024003,
+            "text": "\u00b6 And as he sat on the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what the sign of thy <i>[a]</i>coming, and of <i>[b]</i>the end of the world? ",
+            "version": "ASV",
+            "clsstr": "Matt-24-3",
+            "footnotes": [
+                {
+                    "a": "Greek <i>presence</i>."
+                },
+                {
+                    "b": "Or, <i>the consummation of the age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024004,
+            "text": "And Jesus answered and said unto them, Take heed that no man lead you astray. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024005,
+            "text": "For many shall come in my name, saying, I am the Christ; and shall lead many astray. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024006,
+            "text": "And ye shall hear of wars and rumors of wars; see that ye be not troubled: for  must needs come to pass; but the end is not yet. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024007,
+            "text": "For nation shall rise against nation, and kingdom against kingdom; and there shall be famines and earthquakes in divers places. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024008,
+            "text": "But all these things are the beginning of travail. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024009,
+            "text": "Then shall they deliver you up unto tribulation, and shall kill you: and ye shall be hated of all the nations for my name\u2019s sake. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024010,
+            "text": "And then shall many stumble, and shall <i>[c]</i>deliver up one another, and shall hate one another. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-10",
+            "footnotes": [
+                {
+                    "c": "See [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024011,
+            "text": "And many false prophets shall arise, and shall lead many astray. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024012,
+            "text": "And because iniquity shall be multiplied, the love of the many shall wax cold. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024013,
+            "text": "But he that endureth to the end, the same shall be saved. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024014,
+            "text": "And <i>[d]</i>this gospel of the kingdom shall be preached in the whole <i>[e]</i>world for a testimony unto all the nations; and then shall the end come.",
+            "version": "ASV",
+            "clsstr": "Matt-24-14",
+            "footnotes": [
+                {
+                    "d": "Or, <i>these good tidings</i>"
+                },
+                {
+                    "e": "Greek <i>inhabited earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024015,
+            "text": "\u00b6 When therefore ye see the abomination of desolation, which was <i>[f]</i>spoken of through Daniel the prophet, standing in <i>[g]</i>the holy place (let him that readeth understand), ",
+            "version": "ASV",
+            "clsstr": "Matt-24-15",
+            "footnotes": [
+                {
+                    "f": "[[Dan. 9:27]]; [[11:31]]; [[12:11]]."
+                },
+                {
+                    "g": "Or, <i>a holy place</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024016,
+            "text": "then let them that are in Judaea flee unto the mountains: ",
+            "version": "ASV",
+            "clsstr": "Matt-24-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024017,
+            "text": "let him that is on the housetop not go down to take out the things that are in his house: ",
+            "version": "ASV",
+            "clsstr": "Matt-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024018,
+            "text": "and let him that is in the field not return back to take his cloak. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024019,
+            "text": "But woe unto them that are with child and to them that give suck in those days! ",
+            "version": "ASV",
+            "clsstr": "Matt-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024020,
+            "text": "And pray ye that your flight be not in the winter, neither on a sabbath: ",
+            "version": "ASV",
+            "clsstr": "Matt-24-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024021,
+            "text": "for then shall be great tribulation, such as hath not been from the beginning of the world until now, no, nor ever shall be. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024022,
+            "text": "And except those days had been shortened, no flesh would have been saved: but for the elect\u2019s sake those days shall be shortened. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024023,
+            "text": "Then if any man shall say unto you, Lo, here is the Christ, or, Here; believe <i>[h]</i> not. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-23",
+            "footnotes": [
+                {
+                    "h": "Or, him"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024024,
+            "text": "For there shall arise false Christs, and false prophets, and shall show great signs and wonders; so as to lead astray, if possible, even the elect. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024025,
+            "text": "Behold, I have told you beforehand. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024026,
+            "text": "If therefore they shall say unto you, Behold, he is in the wilderness; go not forth: Behold, he is in the inner chambers; believe <i>[i]</i> not. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-26",
+            "footnotes": [
+                {
+                    "i": "Or, them"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024027,
+            "text": "For as the lightning cometh forth from the east, and is seen even unto the west; so shall be the <i>[j]</i>coming of the Son of man. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-27",
+            "footnotes": [
+                {
+                    "j": "Greek <i>presence</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024028,
+            "text": "Wheresoever the carcase is, there will the <i>[k]</i>eagles be gathered together.",
+            "version": "ASV",
+            "clsstr": "Matt-24-28",
+            "footnotes": [
+                {
+                    "k": "Or, <i>vultures</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024029,
+            "text": "\u00b6 But immediately after the tribulation of those days the sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken: ",
+            "version": "ASV",
+            "clsstr": "Matt-24-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024030,
+            "text": "and then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming on the clouds of heaven with power and great glory. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024031,
+            "text": "And he shall send forth his angels <i>[l]</i>with <i>[m]</i>a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.",
+            "version": "ASV",
+            "clsstr": "Matt-24-31",
+            "footnotes": [
+                {
+                    "l": "Many ancient authorities read <i>with a great trumpet, and they shall gather etc.</i>"
+                },
+                {
+                    "m": "Or, <i>a trumpet of great sound</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024032,
+            "text": "\u00b6 Now from the fig tree learn her parable: when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh; ",
+            "version": "ASV",
+            "clsstr": "Matt-24-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024033,
+            "text": "even so ye also, when ye see all these things, know ye that <i>[n]</i>he is nigh,  at the doors. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-33",
+            "footnotes": [
+                {
+                    "n": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024034,
+            "text": "Verily I say unto you, This generation shall not pass away, till all these things be accomplished. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024035,
+            "text": "Heaven and earth shall pass away, but my words shall not pass away. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024036,
+            "text": "But of that day and hour knoweth no one, not even the angels of heaven, <i>[o]</i>neither the Son, but the Father only. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-36",
+            "footnotes": [
+                {
+                    "o": "Many authorities, some ancient, omit <i>neither the Son</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024037,
+            "text": "And as the days of Noah, so shall be the <i>[p]</i>coming of the Son of man. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-37",
+            "footnotes": [
+                {
+                    "p": "Greek <i>presence</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024038,
+            "text": "For as in those days which were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ark, ",
+            "version": "ASV",
+            "clsstr": "Matt-24-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024039,
+            "text": "and they knew not until the flood came, and took them all away; so shall be the <i>[q]</i>coming of the Son of man. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-39",
+            "footnotes": [
+                {
+                    "q": "Greek <i>presence</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024040,
+            "text": "Then shall two men be in the field; one is taken, and one is left: ",
+            "version": "ASV",
+            "clsstr": "Matt-24-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024041,
+            "text": "two women  grinding at the mill; one is taken, and one is left. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024042,
+            "text": "Watch therefore: for ye know not on what day your Lord cometh. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024043,
+            "text": " <i>[r]</i>But know this, that if the master of the house had known in what watch the thief was coming, he would have watched, and would not have suffered his house to be <i>[s]</i>broken through. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-43",
+            "footnotes": [
+                {
+                    "r": "Or, <i>But this ye know</i>"
+                },
+                {
+                    "s": "Greek <i>digged through</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024044,
+            "text": "Therefore be ye also ready; for in an hour that ye think not the Son of man cometh.",
+            "version": "ASV",
+            "clsstr": "Matt-24-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024045,
+            "text": "\u00b6 Who then is the faithful and wise <i>[t]</i>servant, whom his lord hath set over his household, to give them their food in due season? ",
+            "version": "ASV",
+            "clsstr": "Matt-24-45",
+            "footnotes": [
+                {
+                    "t": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024046,
+            "text": "Blessed is that <i>[u]</i>servant, whom his lord when he cometh shall find so doing. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-46",
+            "footnotes": [
+                {
+                    "u": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024047,
+            "text": "Verily I say unto you, that he will set him over all that he hath. ",
+            "version": "ASV",
+            "clsstr": "Matt-24-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024048,
+            "text": "But if that evil <i>[v]</i>servant shall say in his heart, My lord tarrieth; ",
+            "version": "ASV",
+            "clsstr": "Matt-24-48",
+            "footnotes": [
+                {
+                    "v": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024049,
+            "text": "and shall begin to beat his fellow-servants, and shall eat and drink with the drunken; ",
+            "version": "ASV",
+            "clsstr": "Matt-24-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024050,
+            "text": "the lord of that <i>[w]</i>servant shall come in a day when he expecteth not, and in an hour when he knoweth not, ",
+            "version": "ASV",
+            "clsstr": "Matt-24-50",
+            "footnotes": [
+                {
+                    "w": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40024051,
+            "text": "and shall <i>[x]</i>cut him asunder, and appoint his portion with the hypocrites: there shall be the weeping and the gnashing of teeth.",
+            "version": "ASV",
+            "clsstr": "Matt-24-51",
+            "footnotes": [
+                {
+                    "x": "Or, <i>severely scourge him</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 24
+}

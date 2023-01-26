@@ -1,0 +1,157 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19065001,
+            "text": "<b>God\u2019s abundant favor to earth and man.</b>\n\u00b6 For the Chief Musician. A Psalm. A Song of David.\u00b6   <i>[a]</i>Praise waiteth for thee, O God, in Zion;\n    And unto thee shall the vow be performed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>There shall be silence before thee</i>, and <i>praise, O God etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065002,
+            "text": "    O thou that hearest prayer,\n    Unto thee shall all flesh come.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065003,
+            "text": "  <i>[b]</i>Iniquities prevail against me:\n  As for our transgressions, thou wilt <i>[c]</i>forgive them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Words</i> (or <i>Matters</i>) <i>of iniquities</i>."
+                },
+                {
+                    "c": "Or, <i>expiate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065004,
+            "text": "    Blessed is the man whom thou choosest, and causest to approach ,\n    That he may dwell in thy courts:\n    We shall be satisfied with the goodness of thy house,\n    Thy holy temple.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065005,
+            "text": "  By terrible things thou wilt answer us in righteousness,\n  O God of our salvation,\n  Thou that art the confidence of all the ends of the earth,\n  And <i>[d]</i>of them that are afar off upon the sea:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>of the sea, afar off</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065006,
+            "text": "    Who by his strength setteth fast the mountains,\n    Being girded about with might;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065007,
+            "text": "    Who stilleth the roaring of the seas,\n    The roaring of their waves,\n    And the tumult of the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065008,
+            "text": "    They also that dwell in the uttermost parts are afraid at thy tokens:\n    Thou makest the outgoings of the morning and evening to rejoice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065009,
+            "text": " Thou visitest the earth, and waterest it,\n Thou greatly enrichest it;\n The river of God is full of water:\n Thou providest them grain, <i>[e]</i>when thou hast so prepared <i>[f]</i>the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>for so preparest thou</i>"
+                },
+                {
+                    "f": "Hebrew <i>it</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065010,
+            "text": "  Thou waterest its furrows abundantly;\n  Thou <i>[g]</i>settlest the ridges thereof:\n    Thou makest it soft with showers;\n    Thou blessest the springing thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-10",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>lowerest</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065011,
+            "text": "  Thou crownest <i>[h]</i>the year with thy goodness;\n    And thy paths drop fatness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-11",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>the year of thy goodness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065012,
+            "text": "   <i>[i]</i>They drop upon the pastures of the wilderness;\n    And the hills are girded with joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-12",
+            "footnotes": [
+                {
+                    "i": "Or, <i>The pastures\u00a0.\u00a0.\u00a0. do drop</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19065013,
+            "text": "    The pastures are clothed with flocks;\n    The valleys also are covered over with grain;\n    They shout for joy, they also sing.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-65-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 65
+}

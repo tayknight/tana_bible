@@ -1,0 +1,111 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2011001,
+            "text": "\u00b6 And Jehovah said unto Moses, Yet one plague more will I bring upon Pharaoh, and upon Egypt; afterwards he will let you go hence: <i>[a]</i>when he shall let you go, he shall surely thrust you out hence altogether. ",
+            "version": "ASV",
+            "clsstr": "Exod-11-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>when he shall let you go altogether, he shall utterly thrust you out hence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011002,
+            "text": "Speak now in the ears of the people, and let them ask every man of his neighbor, and every woman of her neighbor, jewels of silver, and jewels of gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011003,
+            "text": "And Jehovah gave the people favor in the sight of the Egyptians. Moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh\u2019s servants, and in the sight of the people.",
+            "version": "ASV",
+            "clsstr": "Exod-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011004,
+            "text": "\u00b6 And Moses said, Thus saith Jehovah, About midnight will I go out into the midst of Egypt: ",
+            "version": "ASV",
+            "clsstr": "Exod-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011005,
+            "text": "and all the first-born in the land of Egypt shall die, from the first-born of Pharaoh that sitteth upon his throne, even unto the first-born of the maid-servant that is behind the mill; and all the first-born of cattle. ",
+            "version": "ASV",
+            "clsstr": "Exod-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011006,
+            "text": "And there shall be a great cry throughout all the land of Egypt, such as there hath not been, nor shall be any more. ",
+            "version": "ASV",
+            "clsstr": "Exod-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011007,
+            "text": "But against any of the children of Israel shall not a dog <i>[b]</i>move his tongue, against man or beast: that ye may know how that Jehovah doth make a distinction between the Egyptians and Israel. ",
+            "version": "ASV",
+            "clsstr": "Exod-11-7",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>whet</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011008,
+            "text": "And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in hot anger.",
+            "version": "ASV",
+            "clsstr": "Exod-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011009,
+            "text": "\u00b6 And Jehovah said unto Moses, Pharaoh will not hearken unto you; that my wonders may be multiplied in the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2011010,
+            "text": "And Moses and Aaron did all these wonders before Pharaoh: and Jehovah <i>[c]</i>hardened Pharaoh\u2019s heart, and he did not let the children of Israel go out of his land.",
+            "version": "ASV",
+            "clsstr": "Exod-11-10",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>made strong</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 11
+}

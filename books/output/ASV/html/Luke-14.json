@@ -1,0 +1,334 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42014001,
+            "text": "\u00b6 And it came to pass, when he went into the house of one of the rulers of the Pharisees on a sabbath to eat bread, that they were watching him. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014002,
+            "text": "And behold, there was before him a certain man that had the dropsy. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014003,
+            "text": "And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath, or not? ",
+            "version": "ASV",
+            "clsstr": "Luke-14-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014004,
+            "text": "But they held their peace. And he took him, and healed him, and let him go. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014005,
+            "text": "And he said unto them, Which of you shall have <i>[a]</i>an ass or an ox fallen into a well, and will not straightway draw him up on a sabbath day? ",
+            "version": "ASV",
+            "clsstr": "Luke-14-5",
+            "footnotes": [
+                {
+                    "a": "Many ancient authorities read <i>a son</i>. See [[13:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014006,
+            "text": "And they could not answer again unto these things.",
+            "version": "ASV",
+            "clsstr": "Luke-14-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014007,
+            "text": "\u00b6 And he spake a parable unto those that were bidden, when he marked how they chose out the chief seats; saying unto them, ",
+            "version": "ASV",
+            "clsstr": "Luke-14-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014008,
+            "text": "When thou art bidden of any man to a marriage feast, <i>[b]</i>sit not down in the chief seat; lest haply a more honorable man than thou be bidden of him, ",
+            "version": "ASV",
+            "clsstr": "Luke-14-8",
+            "footnotes": [
+                {
+                    "b": "Greek <i>recline not</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014009,
+            "text": "and he that bade thee and him shall come and say to thee, Give this man place; and then thou shalt begin with shame to take the lowest place. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014010,
+            "text": "But when thou art bidden, go and sit down in the lowest place; that when he that hath bidden thee cometh, he may say to thee, Friend, go up higher: then shalt thou have glory in the presence of all that <i>[c]</i>sit at meat with thee. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-10",
+            "footnotes": [
+                {
+                    "c": "Greek <i>recline</i>. Compare [[7:36]], [[37]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014011,
+            "text": "For every one that exalteth himself shall be humbled; and he that humbleth himself shall be exalted.",
+            "version": "ASV",
+            "clsstr": "Luke-14-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014012,
+            "text": "\u00b6 And he said to him also that had bidden him, When thou makest a dinner or a supper, call not thy friends, nor thy brethren, nor thy kinsmen, nor rich neighbors; lest haply they also bid thee again, and a recompense be made thee. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014013,
+            "text": "But when thou makest a feast, bid the poor, the maimed, the lame, the blind: ",
+            "version": "ASV",
+            "clsstr": "Luke-14-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014014,
+            "text": "and thou shalt be blessed; because they have not  to recompense thee: for thou shalt be recompensed in the resurrection of the just.",
+            "version": "ASV",
+            "clsstr": "Luke-14-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014015,
+            "text": "\u00b6 And when one of them that <i>[d]</i>sat at meat with him heard these things, he said unto him, Blessed is he that shall eat bread in the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-15",
+            "footnotes": [
+                {
+                    "d": "Greek <i>reclined</i>. Compare [[7:36]], [[37]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014016,
+            "text": "But he said unto him, A certain man made a great supper; and he bade many: ",
+            "version": "ASV",
+            "clsstr": "Luke-14-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014017,
+            "text": "and he sent forth his <i>[e]</i>servant at supper time to say to them that were bidden, Come; for  things are now ready. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-17",
+            "footnotes": [
+                {
+                    "e": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014018,
+            "text": "And they all with one  began to make excuse. The first said unto him, I have bought a field, and I must needs go out and see it; I pray thee have me excused. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014019,
+            "text": "And another said, I have bought five yoke of oxen, and I go to prove them; I pray thee have me excused. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014020,
+            "text": "And another said, I have married a wife, and therefore I cannot come. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014021,
+            "text": "And the <i>[f]</i>servant came, and told his lord these things. Then the master of the house being angry said to his <i>[g]</i>servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor and maimed and blind and lame. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-21",
+            "footnotes": [
+                {
+                    "f": "Greek <i>bondservant</i>."
+                },
+                {
+                    "g": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014022,
+            "text": "And the <i>[h]</i>servant said, Lord, what thou didst command is done, and yet there is room. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-22",
+            "footnotes": [
+                {
+                    "h": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014023,
+            "text": "And the lord said unto the <i>[i]</i>servant, Go out into the highways and hedges, and constrain  to come in, that my house may be filled. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-23",
+            "footnotes": [
+                {
+                    "i": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014024,
+            "text": "For I say unto you, that none of those men that were bidden shall taste of my supper.",
+            "version": "ASV",
+            "clsstr": "Luke-14-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014025,
+            "text": "\u00b6 Now there went with him great multitudes: and he turned, and said unto them, ",
+            "version": "ASV",
+            "clsstr": "Luke-14-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014026,
+            "text": "If any man cometh unto me, and hateth not his own father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014027,
+            "text": "Whosoever doth not bear his own cross, and come after me, cannot be my disciple. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014028,
+            "text": "For which of you, desiring to build a tower, doth not first sit down and count the cost, whether he have  to complete it? ",
+            "version": "ASV",
+            "clsstr": "Luke-14-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014029,
+            "text": "Lest haply, when he hath laid a foundation, and is not able to finish, all that behold begin to mock him, ",
+            "version": "ASV",
+            "clsstr": "Luke-14-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014030,
+            "text": "saying, This man began to build, and was not able to finish. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014031,
+            "text": "Or what king, as he goeth to encounter another king in war, will not sit down first and take counsel whether he is able with ten thousand to meet him that cometh against him with twenty thousand? ",
+            "version": "ASV",
+            "clsstr": "Luke-14-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014032,
+            "text": "Or else, while the other is yet a great way off, he sendeth an ambassage, and asketh conditions of peace. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014033,
+            "text": "So therefore whosoever he be of you that renounceth not all that he hath, he cannot be my disciple. ",
+            "version": "ASV",
+            "clsstr": "Luke-14-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014034,
+            "text": "Salt therefore is good: but if even the salt have lost its savor, wherewith shall it be seasoned? ",
+            "version": "ASV",
+            "clsstr": "Luke-14-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42014035,
+            "text": "It is fit neither for the land nor for the dunghill:  cast it out. He that hath ears to hear, let him hear.",
+            "version": "ASV",
+            "clsstr": "Luke-14-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 14
+}

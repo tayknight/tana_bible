@@ -1,0 +1,454 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4003001,
+            "text": "\u00b6 Now these are the generations of Aaron and Moses in the day that Jehovah spake with Moses in mount Sinai. ",
+            "version": "ASV",
+            "clsstr": "Num-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003002,
+            "text": "And these are the names of the sons of Aaron: Nadab the first-born, and Abihu, Eleazar, and Ithamar. ",
+            "version": "ASV",
+            "clsstr": "Num-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003003,
+            "text": "These are the names of the sons of Aaron, the priests that were anointed, whom he consecrated to minister in the priest\u2019s office. ",
+            "version": "ASV",
+            "clsstr": "Num-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003004,
+            "text": "And Nadab and Abihu died before Jehovah, when they offered strange fire before Jehovah, in the wilderness of Sinai, and they had no children; and Eleazar and Ithamar ministered in the priest\u2019s office in the presence of Aaron their father.",
+            "version": "ASV",
+            "clsstr": "Num-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003005,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003006,
+            "text": "Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister unto him. ",
+            "version": "ASV",
+            "clsstr": "Num-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003007,
+            "text": "And they shall keep his charge, and the charge of the whole congregation before the tent of meeting, to do the service of the tabernacle. ",
+            "version": "ASV",
+            "clsstr": "Num-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003008,
+            "text": "And they shall keep all the furniture of the tent of meeting, and the charge of the children of Israel, to do the service of the tabernacle. ",
+            "version": "ASV",
+            "clsstr": "Num-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003009,
+            "text": "And thou shalt give the Levites unto Aaron and to his sons: they are <i>[a]</i>wholly given unto him <i>[b]</i>on the behalf of the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Num-3-9",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>given, given</i>."
+                },
+                {
+                    "b": "Or, <i>from</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003010,
+            "text": "And thou shalt <i>[c]</i>appoint Aaron and his sons, and they shall keep their priesthood: and the stranger that cometh nigh shall be put to death.",
+            "version": "ASV",
+            "clsstr": "Num-3-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>number</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003011,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003012,
+            "text": "And I, behold, I have taken the Levites from among the children of Israel instead of all the first-born that openeth the womb among the children of Israel; and the Levites shall be mine: ",
+            "version": "ASV",
+            "clsstr": "Num-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003013,
+            "text": "for all the first-born are mine; on the day that I smote all the first-born in the land of Egypt I hallowed unto me all the first-born in Israel, both man and beast; mine they shall be: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Num-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003014,
+            "text": "\u00b6 And Jehovah spake unto Moses in the wilderness of Sinai, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003015,
+            "text": "Number the children of Levi by their fathers\u2019 houses, by their families: every male from a month old and upward shalt thou number them. ",
+            "version": "ASV",
+            "clsstr": "Num-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003016,
+            "text": "And Moses numbered them according to the word of Jehovah, as he was commanded. ",
+            "version": "ASV",
+            "clsstr": "Num-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003017,
+            "text": "And these were the sons of Levi by their names: Gershon, and Kohath, and Merari. ",
+            "version": "ASV",
+            "clsstr": "Num-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003018,
+            "text": "And these are the names of the sons of Gershon by their families: Libni and Shimei. ",
+            "version": "ASV",
+            "clsstr": "Num-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003019,
+            "text": "And the sons of Kohath by their families: Amram, and Izhar, Hebron, and Uzziel. ",
+            "version": "ASV",
+            "clsstr": "Num-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003020,
+            "text": "And the sons of Merari by their families: Mahli and Mushi. These are the families of the Levites according to their fathers\u2019 houses.",
+            "version": "ASV",
+            "clsstr": "Num-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003021,
+            "text": "\u00b6 Of Gershon was the family of the Libnites, and the family of the Shimeites: these are the families of the Gershonites. ",
+            "version": "ASV",
+            "clsstr": "Num-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003022,
+            "text": "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003023,
+            "text": "The families of the Gershonites shall encamp behind the tabernacle westward. ",
+            "version": "ASV",
+            "clsstr": "Num-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003024,
+            "text": "And the prince of the fathers\u2019 house of the Gershonites shall be Eliasaph the son of Lael. ",
+            "version": "ASV",
+            "clsstr": "Num-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003025,
+            "text": "And the charge of the sons of Gershon in the tent of meeting shall be the tabernacle, and the Tent, the covering thereof, and the screen for the door of the tent of meeting, ",
+            "version": "ASV",
+            "clsstr": "Num-3-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003026,
+            "text": "and the hangings of the court, and the screen for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.",
+            "version": "ASV",
+            "clsstr": "Num-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003027,
+            "text": "\u00b6 And of Kohath was the family of the Amramites, and the family of the Izharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites. ",
+            "version": "ASV",
+            "clsstr": "Num-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003028,
+            "text": "According to the number of all the males, from a month old and upward, there were eight thousand and six hundred, keeping the charge of the sanctuary. ",
+            "version": "ASV",
+            "clsstr": "Num-3-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003029,
+            "text": "The families of the sons of Kohath shall encamp on the side of the tabernacle southward. ",
+            "version": "ASV",
+            "clsstr": "Num-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003030,
+            "text": "And the prince of the fathers\u2019 house of the families of the Kohathites shall be Elizaphan the son of Uzziel. ",
+            "version": "ASV",
+            "clsstr": "Num-3-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003031,
+            "text": "And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the screen, and all the service thereof. ",
+            "version": "ASV",
+            "clsstr": "Num-3-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003032,
+            "text": "And Eleazar the son of Aaron the priest shall be prince of the princes of the Levites,  the oversight of them that keep the charge of the sanctuary.",
+            "version": "ASV",
+            "clsstr": "Num-3-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003033,
+            "text": "\u00b6 Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari. ",
+            "version": "ASV",
+            "clsstr": "Num-3-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003034,
+            "text": "And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-3-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003035,
+            "text": "And the prince of the fathers\u2019 house of the families of Merari was Zuriel the son of Abihail: they shall encamp on the side of the tabernacle northward. ",
+            "version": "ASV",
+            "clsstr": "Num-3-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003036,
+            "text": "And <i>[d]</i>the appointed charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the instruments thereof, and all the service thereof, ",
+            "version": "ASV",
+            "clsstr": "Num-3-36",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>the office of the charge</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003037,
+            "text": "and the pillars of the court round about, and their sockets, and their pins, and their cords.",
+            "version": "ASV",
+            "clsstr": "Num-3-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003038,
+            "text": "\u00b6 And those that encamp before the tabernacle eastward, before the tent of meeting toward the sunrising, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary <i>[e]</i>for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death. ",
+            "version": "ASV",
+            "clsstr": "Num-3-38",
+            "footnotes": [
+                {
+                    "e": "Or, <i>even</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003039,
+            "text": "All that were numbered of the Levites, whom Moses and Aaron numbered at the commandment of Jehovah, by their families, all the males from a month old and upward, were twenty and two thousand.",
+            "version": "ASV",
+            "clsstr": "Num-3-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003040,
+            "text": "\u00b6 And Jehovah said unto Moses, Number all the first-born males of the children of Israel from a month old and upward, and take the number of their names. ",
+            "version": "ASV",
+            "clsstr": "Num-3-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003041,
+            "text": "And thou shalt take the Levites for me (I am Jehovah) instead of all the first-born among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Num-3-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003042,
+            "text": "And Moses numbered, as Jehovah commanded him, all the first-born among the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Num-3-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003043,
+            "text": "And all the first-born males according to the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.",
+            "version": "ASV",
+            "clsstr": "Num-3-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003044,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-3-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003045,
+            "text": "Take the Levites instead of all the first-born among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Num-3-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003046,
+            "text": "And for <i>[f]</i>the redemption of the two hundred and threescore and thirteen of the first-born of the children of Israel, that are over and above  the Levites, ",
+            "version": "ASV",
+            "clsstr": "Num-3-46",
+            "footnotes": [
+                {
+                    "f": "Or, <i>those that are to be redeemed, the etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003047,
+            "text": "thou shalt take five shekels apiece by the poll; after the shekel of the sanctuary shalt thou take them (the shekel is twenty gerahs): ",
+            "version": "ASV",
+            "clsstr": "Num-3-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003048,
+            "text": "and thou shalt give the money, wherewith the odd number of them is redeemed, unto Aaron and to his sons. ",
+            "version": "ASV",
+            "clsstr": "Num-3-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003049,
+            "text": "And Moses took the redemption-money from them that were over and above them that were redeemed by the Levites; ",
+            "version": "ASV",
+            "clsstr": "Num-3-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003050,
+            "text": "from the first-born of the children of Israel took he the money, a thousand three hundred and threescore and five , after the shekel of the sanctuary: ",
+            "version": "ASV",
+            "clsstr": "Num-3-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4003051,
+            "text": "and Moses gave <i>[g]</i>the redemption-money unto Aaron and to his sons, according to the word of Jehovah, as Jehovah commanded Moses.",
+            "version": "ASV",
+            "clsstr": "Num-3-51",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the money of them that were redeemed</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 3
+}

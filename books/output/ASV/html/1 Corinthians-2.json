@@ -1,0 +1,213 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46002001,
+            "text": "\u00b6 And I, brethren, when I came unto you, came not with excellency of <i>[a]</i>speech or of wisdom, proclaiming to you the <i>[b]</i>testimony of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>word</i>"
+                },
+                {
+                    "b": "Many ancient authorities read <i>mystery</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002002,
+            "text": "For I determined not to know anything among you, save Jesus Christ, and him crucified. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002003,
+            "text": "And I was with you in weakness, and in fear, and in much trembling. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002004,
+            "text": "And my <i>[c]</i>speech and my <i>[d]</i>preaching were not in persuasive words of wisdom, but in demonstration of the Spirit and of power: ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>word</i>"
+                },
+                {
+                    "d": "Greek <i>thing preached</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002005,
+            "text": "that your faith should not <i>[e]</i>stand in the wisdom of men, but in the power of God.",
+            "version": "ASV",
+            "clsstr": "1Cor-2-5",
+            "footnotes": [
+                {
+                    "e": "Greek <i>be</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002006,
+            "text": "\u00b6 We speak wisdom, however, among them that are fullgrown: yet a wisdom not of this <i>[f]</i>world, nor of the rulers of this <i>[g]</i>world, who are coming to nought: ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>age</i>: and so in verses [[7]], [[8]]; but not in [[verse 12]]."
+                },
+                {
+                    "g": "Or, <i>age</i>: and so in verses [[7]], [[8]]; but not in [[verse 12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002007,
+            "text": "but we speak God\u2019s wisdom in a mystery, the that hath been hidden, which God foreordained before the <i>[h]</i>worlds unto our glory: ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-7",
+            "footnotes": [
+                {
+                    "h": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002008,
+            "text": "which none of the rulers of this <i>[i]</i>world hath known: for had they known it, they would not have crucified the Lord of glory: ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-8",
+            "footnotes": [
+                {
+                    "i": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002009,
+            "text": "but as it is written,\u00b6   <i>[j]</i>Things which eye saw not, and ear heard not,\n    And  entered not into the heart of man,\n    Whatsoever things God prepared for them that love him.\n    ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-9",
+            "footnotes": [
+                {
+                    "j": "[[Isa. 64:4]]; [[65:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002010,
+            "text": "\u00b6 <i>[k]</i>But unto us God revealed <i>[l]</i> through the Spirit: for the Spirit searcheth all things, yea, the deep things of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-10",
+            "footnotes": [
+                {
+                    "k": "Some ancient authorities read <i>For</i>."
+                },
+                {
+                    "l": "Or, it"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002011,
+            "text": "For who among men knoweth the things of a man, save the spirit of the man, which is in him? even so the things of God none knoweth, save the Spirit of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002012,
+            "text": "But we received, not the spirit of the <i>[m]</i>world, but the spirit which is from God; that we might know the things that were freely given to us of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-12",
+            "footnotes": [
+                {
+                    "m": "See [[verse 6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002013,
+            "text": "Which things also we speak, not in words which man\u2019s wisdom teacheth, but which the Spirit teacheth; <i>[n]</i>combining spiritual things with spiritual . ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-13",
+            "footnotes": [
+                {
+                    "n": "Or, <i>interpreting spiritual things to spiritual</i> men"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002014,
+            "text": "Now the <i>[o]</i>natural man receiveth not the things of the Spirit of God: for they are foolishness unto him; and he cannot know them, because they are spiritually <i>[p]</i>judged. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-14",
+            "footnotes": [
+                {
+                    "o": "Or, <i>unspiritual</i>. Greek <i>psychical</i>."
+                },
+                {
+                    "p": "Or, <i>examined</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002015,
+            "text": "But he that is spiritual <i>[q]</i>judgeth all things, and he himself is <i>[r]</i>judged of no man. ",
+            "version": "ASV",
+            "clsstr": "1Cor-2-15",
+            "footnotes": [
+                {
+                    "q": "Or, <i>examineth</i>"
+                },
+                {
+                    "r": "Or, <i>examined</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46002016,
+            "text": "For who hath known the mind of the Lord, that he should instruct him? But we have the mind of Christ.",
+            "version": "ASV",
+            "clsstr": "1Cor-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 2
+}

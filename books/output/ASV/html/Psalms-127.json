@@ -1,0 +1,63 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19127001,
+            "text": "<b>Prosperity comes from Jehovah.</b>\n\u00b6 A Song of Ascents; of Solomon.\u00b6     Except Jehovah build the house,\n    They labor in vain that build it:\n    Except Jehovah keep the city,\n    The watchman waketh but in vain.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-127-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19127002,
+            "text": "  It is vain for you to rise up early,\n  To take rest late,\n  To eat the bread of toil;\n   so he giveth unto his beloved <i>[a]</i>sleep.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-127-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>in sleep</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19127003,
+            "text": "    Lo, children are a heritage of Jehovah;\n     the fruit of the womb is  reward.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-127-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19127004,
+            "text": "    As arrows in the hand of a mighty man,\n    So are the children of youth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-127-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19127005,
+            "text": "    Happy is the man that hath his quiver full of them:\n    They shall not be put to shame,\n    When they speak with their enemies in the gate.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-127-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 127
+}

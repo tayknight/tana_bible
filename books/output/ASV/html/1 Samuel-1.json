@@ -1,0 +1,258 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9001001,
+            "text": "\u00b6 Now there was a certain man of Ramathaim-zophim, of the hill-country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite: ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001002,
+            "text": "and he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001003,
+            "text": "And this man went up out of his city from year to year to worship and to sacrifice unto Jehovah of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, priests unto Jehovah, were there. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001004,
+            "text": "And when the day came that Elkanah sacrificed, he gave to Peninnah his wife, and to all her sons and her daughters, portions: ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001005,
+            "text": "but unto Hannah he gave a double portion; for he loved Hannah, but Jehovah had shut up her womb. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001006,
+            "text": "And her rival provoked her sore, to make her fret, because Jehovah had shut up her womb. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001007,
+            "text": "And  he did so year by year, when she went up to the house of Jehovah, so she provoked her; therefore she wept, and did not eat. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001008,
+            "text": "And Elkanah her husband said unto her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?",
+            "version": "ASV",
+            "clsstr": "1Sam-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001009,
+            "text": "\u00b6 So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest was sitting upon his seat by the door-post of the temple of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001010,
+            "text": "And she was in bitterness of soul, and prayed unto Jehovah, and wept sore. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001011,
+            "text": "And she vowed a vow, and said, O Jehovah of hosts, if thou wilt indeed look on the affliction of thy handmaid, and remember me, and not forget thy handmaid, but wilt give unto thy handmaid a <i>[a]</i>man-child, then I will give him unto Jehovah all the days of his life, and there shall no razor come upon his head.",
+            "version": "ASV",
+            "clsstr": "1Sam-1-11",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>seed of men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001012,
+            "text": "\u00b6 And it came to pass, as she continued praying before Jehovah, that Eli marked her mouth. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001013,
+            "text": "Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001014,
+            "text": "And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001015,
+            "text": "And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but I poured out my soul before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001016,
+            "text": "Count not thy handmaid for a wicked woman; for out of the abundance of my complaint and my provocation have I spoken hitherto. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001017,
+            "text": "Then Eli answered and said, Go in peace; and the God of Israel grant thy petition that thou hast asked of him. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001018,
+            "text": "And she said, Let thy handmaid find favor in thy sight. So the woman went her way, and did eat; and her countenance was no more .",
+            "version": "ASV",
+            "clsstr": "1Sam-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001019,
+            "text": "\u00b6 And they rose up in the morning early, and worshipped before Jehovah, and returned, and came to their house to Ramah. And Elkanah knew Hannah his wife; and Jehovah remembered her; ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001020,
+            "text": "and it came to pass, when the time was come about, that Hannah conceived, and bare a son; and she called his name Samuel, , Because I have asked him of Jehovah.",
+            "version": "ASV",
+            "clsstr": "1Sam-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001021,
+            "text": "\u00b6 And the man Elkanah, and all his house, went up to offer unto Jehovah the yearly sacrifice, and his vow. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001022,
+            "text": "But Hannah went not up; for she said unto her husband,  until the child be weaned; and then I will bring him, that he may appear before Jehovah, and there abide for ever. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001023,
+            "text": "And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only Jehovah establish his word. So the woman tarried and gave her son suck, until she weaned him. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001024,
+            "text": "And when she had weaned him, she took him up with her, with <i>[b]</i>three bullocks, and one ephah of meal, and a <i>[c]</i>bottle of wine, and brought him unto the house of Jehovah in Shiloh: and the child was young. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-24",
+            "footnotes": [
+                {
+                    "b": "The Septuagint and Syriac have, <i>a bullock three years old</i>."
+                },
+                {
+                    "c": "Or, <i>skin</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001025,
+            "text": "And they slew the bullock, and brought the child to Eli. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001026,
+            "text": "And she said, Oh, my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001027,
+            "text": "For this child I prayed; and Jehovah hath given me my petition which I asked of him: ",
+            "version": "ASV",
+            "clsstr": "1Sam-1-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9001028,
+            "text": "therefore also I have <i>[d]</i>granted him to Jehovah; as long as he liveth he is granted to Jehovah. And he worshipped Jehovah there.",
+            "version": "ASV",
+            "clsstr": "1Sam-1-28",
+            "footnotes": [
+                {
+                    "d": "Or, <i>lent</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 1
+}

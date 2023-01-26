@@ -1,0 +1,342 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58012001,
+            "text": "\u00b6 Therefore let us also, seeing we are compassed about with so great a cloud of witnesses, lay aside every <i>[a]</i>weight, and the sin which <i>[b]</i>doth so easily beset us, and let us run with <i>[c]</i>patience the race that is set before us, ",
+            "version": "ASV",
+            "clsstr": "Heb-12-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>encumbrance</i>"
+                },
+                {
+                    "b": "Or, <i>doth closely cling to us</i>. Or, <i>is admired of many</i>"
+                },
+                {
+                    "c": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012002,
+            "text": "looking unto Jesus the <i>[d]</i>author and perfecter of  faith, who for the joy that was set before him endured the cross, despising shame, and hath sat down at the right hand of the throne of God. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-2",
+            "footnotes": [
+                {
+                    "d": "Or, <i>captain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012003,
+            "text": "For consider him that hath endured such gainsaying of sinners against <i>[e]</i>himself, that ye wax not weary, fainting in your souls. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-3",
+            "footnotes": [
+                {
+                    "e": "Many ancient authorities read <i>themselves</i>. Compare [[Num. 16:38]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012004,
+            "text": "Ye have not yet resisted unto blood, striving against sin: ",
+            "version": "ASV",
+            "clsstr": "Heb-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012005,
+            "text": "and ye have forgotten the exhortation which reasoneth with you as with sons,\u00b6   <i>[f]</i>My son, regard not lightly the chastening of the Lord,\n    Nor faint when thou art reproved of him;\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-12-5",
+            "footnotes": [
+                {
+                    "f": "[[Prov. 3:11f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012006,
+            "text": "    For whom the Lord loveth he chasteneth,\n    And scourgeth every son whom he receiveth.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012007,
+            "text": "\u00b6 <i>[g]</i>It is for chastening that ye endure; God dealeth with you as with sons; for what son is there whom  father chasteneth not? ",
+            "version": "ASV",
+            "clsstr": "Heb-12-7",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Endure unto chastening</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012008,
+            "text": "But if ye are without chastening, whereof all have been made partakers, then are ye bastards, and not sons. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012009,
+            "text": "Furthermore, we had the fathers of our flesh to chasten us, and we gave them reverence: shall we not much rather be in subjection unto the Father of <i>[h]</i>spirits, and live? ",
+            "version": "ASV",
+            "clsstr": "Heb-12-9",
+            "footnotes": [
+                {
+                    "h": "Or, <i>our spirits</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012010,
+            "text": "For they indeed for a few days chastened  as seemed good to them; but he for  profit, that  may be partakers of his holiness. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012011,
+            "text": "All chastening seemeth for the present to be not joyous but grievous; yet afterward it yieldeth peaceable fruit unto them that have been exercised thereby,  of righteousness. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012012,
+            "text": "Wherefore <i>[i]</i>lift up the hands that hang down, and the palsied knees; ",
+            "version": "ASV",
+            "clsstr": "Heb-12-12",
+            "footnotes": [
+                {
+                    "i": "Greek <i>make straight</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012013,
+            "text": "and make straight paths for your feet, that that which is lame be not <i>[j]</i>turned out of the way, but rather be healed.",
+            "version": "ASV",
+            "clsstr": "Heb-12-13",
+            "footnotes": [
+                {
+                    "j": "Or, <i>put out of joint</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012014,
+            "text": "\u00b6 Follow after peace with all men, and the sanctification without which no man shall see the Lord: ",
+            "version": "ASV",
+            "clsstr": "Heb-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012015,
+            "text": "looking carefully <i>[k]</i>lest any man that <i>[l]</i>falleth short of the grace of God; lest any root of bitterness springing up trouble , and thereby the many be defiled; ",
+            "version": "ASV",
+            "clsstr": "Heb-12-15",
+            "footnotes": [
+                {
+                    "k": "Or, <i>whether</i>"
+                },
+                {
+                    "l": "Or, <i>falleth back from</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012016,
+            "text": " <i>[m]</i>lest  any fornicator, or profane person, as Esau, who for one mess of meat sold his own birthright. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-16",
+            "footnotes": [
+                {
+                    "m": "Or, <i>whether</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012017,
+            "text": "For ye know that even when he afterward desired to inherit the blessing, he was <i>[n]</i>rejected; for he found no place for a change of mind , though he sought it diligently with tears.",
+            "version": "ASV",
+            "clsstr": "Heb-12-17",
+            "footnotes": [
+                {
+                    "n": "Or, <i>rejected (for he found no place of repentance), etc.</i> Or, <i>rejected; for\u00a0.\u00a0.\u00a0. of repentance etc.</i> Compare [[6:6]]; [[2 Esdr. 9:11]]; [[Wisd. 12:10]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012018,
+            "text": "\u00b6 For ye are not come unto <i>[o]</i> that might be touched, and that burned with fire, and unto blackness, and darkness, and tempest, ",
+            "version": "ASV",
+            "clsstr": "Heb-12-18",
+            "footnotes": [
+                {
+                    "o": "Or, <i>a palpable and kindled fire</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012019,
+            "text": "and the sound of a trumpet, and the voice of words; which  they that heard entreated that no word more should be spoken unto them; ",
+            "version": "ASV",
+            "clsstr": "Heb-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012020,
+            "text": "for they could not endure that which was enjoined, <i>[p]</i>If even a beast touch the mountain, it shall be stoned; ",
+            "version": "ASV",
+            "clsstr": "Heb-12-20",
+            "footnotes": [
+                {
+                    "p": "[[Ex. 19:12f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012021,
+            "text": "and so fearful was the appearance, Moses said, <i>[q]</i>I exceedingly fear and quake: ",
+            "version": "ASV",
+            "clsstr": "Heb-12-21",
+            "footnotes": [
+                {
+                    "q": "[[Dt. 9:19]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012022,
+            "text": "but ye are come unto mount Zion, and unto the city of the living God, the heavenly Jerusalem, <i>[r]</i>and to <i>[s]</i>innumerable hosts of angels, ",
+            "version": "ASV",
+            "clsstr": "Heb-12-22",
+            "footnotes": [
+                {
+                    "r": "Or, <i>and to innumerable hosts, the general assembly of angels, and the church etc.</i>"
+                },
+                {
+                    "s": "Greek <i>myriads of angels</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012023,
+            "text": "to the general assembly and church of the firstborn who are enrolled in heaven, and to God the Judge of all, and to the spirits of just men made perfect, ",
+            "version": "ASV",
+            "clsstr": "Heb-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012024,
+            "text": "and to Jesus the mediator of a new covenant, and to the blood of sprinkling that speaketh better <i>[t]</i>than  Abel. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-24",
+            "footnotes": [
+                {
+                    "t": "Or, <i>than Abel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012025,
+            "text": "See that ye refuse not him that speaketh. For if they escaped not when they refused him that warned on earth, much more we who turn away from him <i>[u]</i>that  from heaven: ",
+            "version": "ASV",
+            "clsstr": "Heb-12-25",
+            "footnotes": [
+                {
+                    "u": "Or, <i>that</i> is <i>from heaven</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012026,
+            "text": "whose voice then shook the earth: but now he hath promised, saying, <i>[v]</i>Yet once more will I make to tremble not the earth only, but also the heaven. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-26",
+            "footnotes": [
+                {
+                    "v": "[[Hag. 2:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012027,
+            "text": "And this , Yet once more, signifieth the removing of those things that are shaken, as of things that have been made, that those things which are not shaken may remain. ",
+            "version": "ASV",
+            "clsstr": "Heb-12-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012028,
+            "text": "Wherefore, receiving a kingdom that cannot be shaken, let us have <i>[w]</i>grace, whereby we may offer service well-pleasing to God with <i>[x]</i>reverence and awe: ",
+            "version": "ASV",
+            "clsstr": "Heb-12-28",
+            "footnotes": [
+                {
+                    "w": "Or, <i>thankfulness</i>. Compare [[1 Cor. 10:30]]."
+                },
+                {
+                    "x": "Or, <i>godly fear</i>. Compare [[5:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58012029,
+            "text": "for our God is a consuming fire.",
+            "version": "ASV",
+            "clsstr": "Heb-12-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 12
+}

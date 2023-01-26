@@ -1,0 +1,135 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19140001,
+            "text": "<b>Prayer for protection against persecutors.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6     Deliver me, O Jehovah, from the evil man;\n    Preserve me from the violent man:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140002,
+            "text": "  Who devise mischiefs in their heart;\n  Continually do they <i>[a]</i>gather themselves together for war.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stir up wars</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140003,
+            "text": "    They have sharpened their tongue like a serpent;\n    Adders\u2019 poison is under their lips. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140004,
+            "text": "    Keep me, O Jehovah, from the hands of the wicked;\n    Preserve me from the violent man:\n    Who have purposed to thrust aside my steps.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140005,
+            "text": "    The proud have hid a snare for me, and cords;\n    They have spread a net by the wayside;\n    They have set gins for me. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140006,
+            "text": "    I said unto Jehovah, Thou art my God:\n    Give ear unto the voice of my supplications, O Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140007,
+            "text": "    O Jehovah the Lord, the strength of my salvation,\n    Thou hast covered my head in the day of battle.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140008,
+            "text": "    Grant not, O Jehovah, the desires of the wicked;\n    Further not his evil device,  they exalt themselves. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140009,
+            "text": "    As for the head of those that compass me about,\n    Let the mischief of their own lips cover them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140010,
+            "text": "  Let burning coals fall upon them:\n  Let them be cast into the fire,\n  Into <i>[b]</i>deep pits, whence they shall not rise.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-10",
+            "footnotes": [
+                {
+                    "b": "Or, <i>floods</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140011,
+            "text": "   <i>[c]</i>An evil speaker shall not be established in the earth:\n    Evil shall hunt the violent man to overthrow him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>A man of tongue</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140012,
+            "text": "    I know that Jehovah will maintain the cause of the afflicted,\n    And justice for the needy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19140013,
+            "text": "    Surely the righteous shall give thanks unto thy name:\n    The upright shall dwell in thy presence.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-140-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 140
+}

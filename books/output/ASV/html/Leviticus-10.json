@@ -1,0 +1,199 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3010001,
+            "text": "\u00b6 And Nadab and Abihu, the sons of Aaron, took each of them his censer, and put fire therein, and laid incense thereon, and offered strange fire before Jehovah, which he had not commanded them. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010002,
+            "text": "And there came forth fire from before Jehovah, and devoured them, and they died before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010003,
+            "text": "Then Moses said unto Aaron, This is it that Jehovah spake, saying, I will be sanctified in them that <i>[a]</i>come nigh me, and before all the people I will be glorified. And Aaron held his peace. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>are nigh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010004,
+            "text": "And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Draw near, carry your brethren from before the sanctuary out of the camp. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010005,
+            "text": "So they drew near, and carried them in their coats out of the camp, as Moses had said. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010006,
+            "text": "And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons, <i>[b]</i>Let not the hair of your heads go loose, neither rend your clothes; that ye die not, and that he be not wroth with all the congregation: but let your brethren, the whole house of Israel, bewail the burning which Jehovah hath kindled. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-6",
+            "footnotes": [
+                {
+                    "b": "According to Septuagint, Vulgate, and Syriac, <i>Uncover not your heads</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010007,
+            "text": "And ye shall not go out from the door of the tent of meeting, lest ye die; for the anointing oil of Jehovah is upon you. And they did according to the word of Moses.",
+            "version": "ASV",
+            "clsstr": "Lev-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010008,
+            "text": "\u00b6 And Jehovah spake unto Aaron, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010009,
+            "text": "Drink no wine nor strong drink, thou, nor thy sons with thee, when ye go into the tent of meeting, that ye die not: it shall be a statute for ever throughout your generations: ",
+            "version": "ASV",
+            "clsstr": "Lev-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010010,
+            "text": "and <i>[c]</i>that ye may make a distinction between the holy and the common, and between the unclean and the clean; ",
+            "version": "ASV",
+            "clsstr": "Lev-10-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>ye shall</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010011,
+            "text": "and <i>[d]</i>that ye may teach the children of Israel all the statutes which Jehovah hath spoken unto them by Moses.",
+            "version": "ASV",
+            "clsstr": "Lev-10-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>ye shall</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010012,
+            "text": "\u00b6 And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meal-offering that remaineth of the offerings of Jehovah made by fire, and eat it without leaven beside the altar; for it is most holy; ",
+            "version": "ASV",
+            "clsstr": "Lev-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010013,
+            "text": "and ye shall eat it in a holy place, because it is thy portion, and thy sons\u2019 portion, of the offerings of Jehovah made by fire: for so I am commanded. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010014,
+            "text": "And the wave-breast and the heave-thigh shall ye eat in a clean place, thou, and thy sons, and thy daughters with thee: for they are given as thy portion, and thy sons\u2019 portion, out of the sacrifices of the peace-offerings of the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010015,
+            "text": "The heave-thigh and the wave-breast shall they bring with the offerings made by fire of the fat, to wave it for a wave-offering before Jehovah: and it shall be thine, and thy sons\u2019 with thee, as a portion for ever; as Jehovah hath commanded.",
+            "version": "ASV",
+            "clsstr": "Lev-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010016,
+            "text": "\u00b6 And Moses diligently sought the goat of the sin-offering, and, behold, it was burnt: and he was angry with Eleazar and with Ithamar, the sons of Aaron that were left, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010017,
+            "text": "Wherefore have ye not eaten the sin-offering in the place of the sanctuary, seeing it is most holy, and he hath given it you <i>[e]</i>to bear the iniquity of the congregation, to make atonement for them before Jehovah? ",
+            "version": "ASV",
+            "clsstr": "Lev-10-17",
+            "footnotes": [
+                {
+                    "e": "Or, <i>to take away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010018,
+            "text": "Behold, the blood of it was not brought into the sanctuary within: ye should certainly have eaten it in the sanctuary, as I commanded. ",
+            "version": "ASV",
+            "clsstr": "Lev-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010019,
+            "text": "And Aaron spake unto Moses, Behold, this day have they offered their sin-offering and their burnt-offering before Jehovah; and there have befallen me such things as these: and if I had eaten the sin-offering to-day, would it have been well-pleasing in the sight of Jehovah? ",
+            "version": "ASV",
+            "clsstr": "Lev-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3010020,
+            "text": "And when Moses heard , it was well-pleasing in his sight.",
+            "version": "ASV",
+            "clsstr": "Lev-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 10
+}

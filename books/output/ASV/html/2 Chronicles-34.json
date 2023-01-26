@@ -1,0 +1,325 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14034001,
+            "text": "\u00b6 Josiah was eight years old when he began to reign; and he reigned thirty and one years in Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034002,
+            "text": "And he did that which was right in the eyes of Jehovah, and walked in the ways of David his father, and turned not aside to the right hand or to the left. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034003,
+            "text": "For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father; and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the Asherim, and the graven images, and the molten images. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034004,
+            "text": "And they brake down the altars of the Baalim in his presence; and the sun-images that were on high above them he hewed down; and the Asherim, and the graven images, and the molten images, he brake in pieces, and made dust of them, and strewed it upon the graves  that had sacrificed unto them. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034005,
+            "text": "And he burnt the bones of the priests upon their altars, and purged Judah and Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034006,
+            "text": "And in the cities of Manasseh and Ephraim and Simeon, even unto Naphtali, <i>[a]</i>in their ruins round about. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-6",
+            "footnotes": [
+                {
+                    "a": "Or, as otherwise read, <i>with their axes</i>. The Hebrew is obscure."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034007,
+            "text": "And he brake down the altars, and beat the Asherim and the graven images into powder, and hewed down all the sun-images throughout all the land of Israel, and returned to Jerusalem.",
+            "version": "ASV",
+            "clsstr": "2Chr-34-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034008,
+            "text": "\u00b6 Now in the eighteenth year of his reign, when he had purged the land and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the <i>[b]</i>recorder, to repair the house of Jehovah his God. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>chronicler</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034009,
+            "text": "And they came to Hilkiah the high priest, and delivered the money that was brought into the house of God, which the Levites, the keepers of the threshold, had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin, <i>[c]</i>and of the inhabitants of Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-9",
+            "footnotes": [
+                {
+                    "c": "Another reading is, <i>and they returned to Jerusalem</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034010,
+            "text": "And they delivered it into the hand of the workmen that had the oversight of the house of Jehovah; and <i>[d]</i>the workmen that wrought in the house of Jehovah gave it to mend and repair the house: ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>they gave it</i> to <i>the workmen etc.</i> See [[2 Kin. 22:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034011,
+            "text": "even to the carpenters and to the builders gave they it, to buy hewn stone, and timber for couplings, and to make beams for the houses which the kings of Judah had destroyed. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034012,
+            "text": "And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, <i>[e]</i>to set it forward; and  the Levites, all that were skilful with instruments of music. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>to preside over it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034013,
+            "text": "Also they were over the bearers of burdens, and set forward all that did the work in every manner of service: and of the Levites there were scribes, and officers, and porters.",
+            "version": "ASV",
+            "clsstr": "2Chr-34-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034014,
+            "text": "\u00b6 And when they brought out the money that was brought into the house of Jehovah, Hilkiah the priest found the book of the law of Jehovah <i>[f]</i> by Moses. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-14",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>by the hand of</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034015,
+            "text": "And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of Jehovah. And Hilkiah delivered the book to Shaphan. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034016,
+            "text": "And Shaphan carried the book to the king, and moreover brought back word to the king, saying, All that was committed to thy servants, they are doing. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034017,
+            "text": "And they have <i>[g]</i>emptied out the money that was found in the house of Jehovah, and have delivered it into the hand of the overseers, and into the hand of the workmen. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>poured out</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034018,
+            "text": "And Shaphan the scribe told the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read therein before the king. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034019,
+            "text": "And it came to pass, when the king had heard the words of the law, that he rent his clothes. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034020,
+            "text": "And the king commanded Hilkiah, and Ahikam the son of Shaphan, and <i>[h]</i>Abdon the son of Micah, and Shaphan the scribe, and Asaiah the king\u2019s servant, saying, ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-20",
+            "footnotes": [
+                {
+                    "h": "In [[2 Kin. 22:12]], <i>Achbor the son of Micaiah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034021,
+            "text": "Go ye, inquire of Jehovah for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found; for great is the wrath of Jehovah that is poured out upon us, because our fathers have not kept the word of Jehovah, to do according unto all that is written in this book.",
+            "version": "ASV",
+            "clsstr": "2Chr-34-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034022,
+            "text": "\u00b6 So Hilkiah, and they whom the king , went to Huldah the prophetess, the wife of Shallum the son of <i>[i]</i>Tokhath, the son of <i>[j]</i>Hasrah, keeper of the wardrobe (now she dwelt in Jerusalem in the <i>[k]</i>second quarter); and they spake to her to that effect. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-22",
+            "footnotes": [
+                {
+                    "i": "In [[2 Kin. 22:14]], <i>Tikvah</i>."
+                },
+                {
+                    "j": "In [[2 Kin. 22:14]], <i>Harhas</i>."
+                },
+                {
+                    "k": "Hebrew <i>Mishneh</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034023,
+            "text": "And she said unto them, Thus saith Jehovah, the God of Israel: Tell ye the man that sent you unto me, ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034024,
+            "text": "Thus saith Jehovah, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034025,
+            "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore is my wrath poured out upon this place, and it shall not be quenched. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034026,
+            "text": "But unto the king of Judah, who sent you to inquire of Jehovah, thus shall ye say to him, Thus saith Jehovah, the God of Israel: As touching the words which thou hast heard, ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034027,
+            "text": "because thy heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and hast humbled thyself before me, and hast rent thy clothes, and wept before me; I also have heard thee, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034028,
+            "text": "Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants thereof. And they brought back word to the king.",
+            "version": "ASV",
+            "clsstr": "2Chr-34-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034029,
+            "text": "\u00b6 Then the king sent and gathered together all the elders of Judah and Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034030,
+            "text": "And the king went up to the house of Jehovah, and all the men of Judah and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, both great and small: and he read in their ears all the words of the book of the covenant that was found in the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034031,
+            "text": "And the king stood in his place, and made a covenant before Jehovah, to walk after Jehovah, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant that were written in this book. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034032,
+            "text": "And he caused all that were found in Jerusalem and Benjamin to stand . And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers. ",
+            "version": "ASV",
+            "clsstr": "2Chr-34-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14034033,
+            "text": "And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were found in Israel to serve, even to serve Jehovah their God. All his days they departed not from following Jehovah, the God of their fathers.",
+            "version": "ASV",
+            "clsstr": "2Chr-34-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 34
+}

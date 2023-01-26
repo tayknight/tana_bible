@@ -1,0 +1,222 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 47,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 47,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 47005001,
+            "text": "\u00b6 For we know that if the earthly house of our <i>[a]</i>tabernacle be dissolved, we have a building from God, a house not made with hands, eternal, in the heavens. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>bodily frame</i>. Compare [[Wisd. 9:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005002,
+            "text": "For verily in this we groan, longing to be clothed upon with our habitation which is from heaven: ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005003,
+            "text": "if so be that being clothed we shall not be found naked. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005004,
+            "text": "For indeed we that are in this <i>[b]</i>tabernacle do groan, <i>[c]</i>being burdened; not for that we would be unclothed, but that we would be clothed upon, that what is mortal may be swallowed up of life. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>bodily frame</i>. Compare [[Wisd. 9:15]]."
+                },
+                {
+                    "c": "Or, <i>being burdened, in that we would not be unclothed, but would be clothed upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005005,
+            "text": "Now he that wrought us for this very thing is God, who gave unto us the earnest of the Spirit. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005006,
+            "text": "Being therefore always of good courage, and knowing that, whilst we are at home in the body, we are absent from the Lord ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005007,
+            "text": "(for we walk by faith, not by <i>[d]</i>sight); ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-7",
+            "footnotes": [
+                {
+                    "d": "Greek <i>appearance</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005008,
+            "text": "we are of good courage, I say, and are willing rather to be absent from the body, and to be at home with the Lord. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005009,
+            "text": "Wherefore also we <i>[e]</i>make it our aim, whether at home or absent, to be well-pleasing unto him. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-9",
+            "footnotes": [
+                {
+                    "e": "Greek <i>are ambitious</i>. See [[Rom. 15:20]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005010,
+            "text": "For we must all be made manifest before the judgment-seat of Christ; that each one may receive the things  <i>[f]</i>in the body, according to what he hath done, whether  good or bad.",
+            "version": "ASV",
+            "clsstr": "2Cor-5-10",
+            "footnotes": [
+                {
+                    "f": "Greek <i>through</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005011,
+            "text": "\u00b6 Knowing therefore the fear of the Lord, we persuade men, but we are made manifest unto God; and I hope that we are made manifest also in your consciences. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005012,
+            "text": "We are not again commending ourselves unto you, but  as giving you occasion of glorying on our behalf, that ye may have wherewith to answer them that glory in appearance, and not in heart. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005013,
+            "text": "For whether we <i>[g]</i>are beside ourselves, it is unto God; or whether we are of sober mind, it is unto you. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>were</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005014,
+            "text": "For the love of Christ constraineth us; because we thus judge, that one died for all, therefore all died; ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005015,
+            "text": "and he died for all, that they that live should no longer live unto themselves, but unto him who for their sakes died and rose again. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005016,
+            "text": "Wherefore we henceforth know no man after the flesh: even though we have known Christ after the flesh, yet now we know  no more. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005017,
+            "text": "Wherefore if any man is in Christ, <i>[h]</i> a new creature: the old things are passed away; behold, they are become new. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-17",
+            "footnotes": [
+                {
+                    "h": "Or, there is <i>a new creation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005018,
+            "text": "But all things are of God, who reconciled us to himself through Christ, and gave unto us the ministry of reconciliation; ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005019,
+            "text": "to wit, that God was in Christ reconciling the world unto himself, not reckoning unto them their trespasses, and having <i>[i]</i>committed unto us the word of reconciliation.",
+            "version": "ASV",
+            "clsstr": "2Cor-5-19",
+            "footnotes": [
+                {
+                    "i": "Or, <i>placed in us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005020,
+            "text": "\u00b6 We are ambassadors therefore on behalf of Christ, as though God were entreating by us: we beseech  on behalf of Christ, be ye reconciled to God. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47005021,
+            "text": "Him who knew no sin he made  sin on our behalf; that we might become the righteousness of God in him. ",
+            "version": "ASV",
+            "clsstr": "2Cor-5-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Corinthians",
+    "chapters": 5
+}

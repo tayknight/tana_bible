@@ -1,0 +1,314 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1043001,
+            "text": "\u00b6 And the famine was sore in the land. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043002,
+            "text": "And it came to pass, when they had eaten up the grain which they had brought out of Egypt, their father said unto them, Go again, buy us a little food. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043003,
+            "text": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043004,
+            "text": "If thou wilt send our brother with us, we will go down and buy thee food: ",
+            "version": "ASV",
+            "clsstr": "Gen-43-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043005,
+            "text": "but if thou wilt not send him, we will not go down; for the man said unto us, Ye shall not see my face, except your brother be with you. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043006,
+            "text": "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother? ",
+            "version": "ASV",
+            "clsstr": "Gen-43-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043007,
+            "text": "And they said, The man asked straitly concerning ourselves, and concerning our kindred, saying, Is your father yet alive? have ye  brother? and we told him according to the tenor of these words: could we in any wise know that he would say, Bring your brother down? ",
+            "version": "ASV",
+            "clsstr": "Gen-43-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043008,
+            "text": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043009,
+            "text": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then <i>[a]</i>let me bear the blame for ever: ",
+            "version": "ASV",
+            "clsstr": "Gen-43-9",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>I shall have sinned against thee for ever</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043010,
+            "text": "for except we had lingered, surely we had now returned a second time. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043011,
+            "text": "And their father Israel said unto them, If it be so now, do this: take of the choice fruits of the land in your vessels, and carry down the man a present, a little balm, and a little honey, spicery and myrrh, <i>[b]</i>nuts, and almonds; ",
+            "version": "ASV",
+            "clsstr": "Gen-43-11",
+            "footnotes": [
+                {
+                    "b": "That is, <i>pistachio nuts</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043012,
+            "text": "and take double money in your hand; and the money that was returned in the mouth of your sacks carry again in your hand; peradventure it was an oversight: ",
+            "version": "ASV",
+            "clsstr": "Gen-43-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043013,
+            "text": "take also your brother, and arise, go again unto the man: ",
+            "version": "ASV",
+            "clsstr": "Gen-43-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043014,
+            "text": "and <i>[c]</i>God Almighty give you mercy before the man, that he may release unto you your other brother and Benjamin. And if I be bereaved of my children, I am bereaved. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-14",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>El Shaddai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043015,
+            "text": "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
+            "version": "ASV",
+            "clsstr": "Gen-43-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043016,
+            "text": "\u00b6 And when Joseph saw Benjamin with them, he said to the steward of his house, Bring the men into the house, and slay, and make ready; for the men shall dine with me at noon. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043017,
+            "text": "And the man did as Joseph bade; and the man brought the men to Joseph\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043018,
+            "text": "And the men were afraid, because they were brought to Joseph\u2019s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may <i>[d]</i>seek occasion against us, and fall upon us, and take us for bondmen, and our asses. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-18",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>roll himself upon us</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043019,
+            "text": "And they came near to the steward of Joseph\u2019s house, and they spake unto him at the door of the house, ",
+            "version": "ASV",
+            "clsstr": "Gen-43-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043020,
+            "text": "and said, Oh, my lord, we came indeed down at the first time to buy food: ",
+            "version": "ASV",
+            "clsstr": "Gen-43-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043021,
+            "text": "and it came to pass, when we came to the lodging-place, that we opened our sacks, and, behold, every man\u2019s money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043022,
+            "text": "And other money have we brought down in our hand to buy food: we know not who put our money in our sacks. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043023,
+            "text": "And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043024,
+            "text": "And the man brought the men into Joseph\u2019s house, and gave them water, and they washed their feet; and he gave their asses provender. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043025,
+            "text": "And they made ready the present against Joseph\u2019s coming at noon: for they heard that they should eat bread there.",
+            "version": "ASV",
+            "clsstr": "Gen-43-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043026,
+            "text": "\u00b6 And when Joseph came home, they brought him the present which was in their hand into the house, and bowed down themselves to him to the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043027,
+            "text": "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive? ",
+            "version": "ASV",
+            "clsstr": "Gen-43-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043028,
+            "text": "And they said, Thy servant our father is well, he is yet alive. And they bowed the head, and made obeisance. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043029,
+            "text": "And he lifted up his eyes, and saw Benjamin his brother, his mother\u2019s son, and said, Is this your youngest brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043030,
+            "text": "And Joseph made haste; for his heart yearned over his brother: and he sought where to weep; and he entered into his chamber, and wept there. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043031,
+            "text": "And he washed his face, and came out; and he refrained himself, and said, Set on bread. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043032,
+            "text": "And they set on for him by himself, and for them by themselves, and for the Egyptians, that did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043033,
+            "text": "And they sat before him, the first-born according to his birthright, and the youngest according to his youth: and the men marvelled one with another. ",
+            "version": "ASV",
+            "clsstr": "Gen-43-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1043034,
+            "text": "And <i>[e]</i>he took messes unto them from before him: but Benjamin\u2019s mess was five times so much as any of theirs. And they drank, and <i>[f]</i>were merry with him.",
+            "version": "ASV",
+            "clsstr": "Gen-43-34",
+            "footnotes": [
+                {
+                    "e": "Or, <i>messes were taken</i>"
+                },
+                {
+                    "f": "Hebrew <i>drank largely</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 43
+}

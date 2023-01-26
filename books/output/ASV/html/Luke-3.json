@@ -1,0 +1,365 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42003001,
+            "text": "\u00b6 Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003002,
+            "text": "in the high-priesthood of Annas and Caiaphas, the word of God came unto John the son of Zacharias in the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Luke-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003003,
+            "text": "And he came into all the region round about the Jordan, preaching the baptism of repentance unto remission of sins; ",
+            "version": "ASV",
+            "clsstr": "Luke-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003004,
+            "text": "as it is written in the book of the words of Isaiah the prophet,\u00b6   <i>[a]</i>The voice of one crying in the wilderness,\n    Make ye ready the way of the Lord,\n    Make his paths straight.\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-3-4",
+            "footnotes": [
+                {
+                    "a": "[[Isa. 40:3ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003005,
+            "text": "    Every valley shall be filled,\n    And every mountain and hill shall be brought low;\n    And the crooked shall become straight,\n    And the rough ways smooth;\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003006,
+            "text": "    And all flesh shall see the salvation of God.\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003007,
+            "text": "\u00b6 He said therefore to the multitudes that went out to be baptized of him, Ye offspring of vipers, who warned you to flee from the wrath to come? ",
+            "version": "ASV",
+            "clsstr": "Luke-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003008,
+            "text": "Bring forth therefore fruits worthy of <i>[b]</i>repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham. ",
+            "version": "ASV",
+            "clsstr": "Luke-3-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>your repentance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003009,
+            "text": "And even now the axe also lieth at the root of the trees: every tree therefore that bringeth not forth good fruit is hewn down, and cast into the fire. ",
+            "version": "ASV",
+            "clsstr": "Luke-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003010,
+            "text": "And the multitudes asked him, saying, What then must we do? ",
+            "version": "ASV",
+            "clsstr": "Luke-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003011,
+            "text": "And he answered and said unto them, He that hath two coats, let him impart to him that hath none; and he that hath food, let him do likewise. ",
+            "version": "ASV",
+            "clsstr": "Luke-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003012,
+            "text": "And there came also <i>[c]</i>publicans to be baptized, and they said unto him, Teacher, what must we do? ",
+            "version": "ASV",
+            "clsstr": "Luke-3-12",
+            "footnotes": [
+                {
+                    "c": "That is, <i>collectors or renters of Roman taxes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003013,
+            "text": "And he said unto them, Extort no more than that which is appointed you. ",
+            "version": "ASV",
+            "clsstr": "Luke-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003014,
+            "text": "And <i>[d]</i>soldiers also asked him, saying, And we, what must we do? And he said unto them, Extort from no man by violence, neither accuse  wrongfully; and be content with your wages.",
+            "version": "ASV",
+            "clsstr": "Luke-3-14",
+            "footnotes": [
+                {
+                    "d": "Greek <i>soldiers on service</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003015,
+            "text": "\u00b6 And as the people were in expectation, and all men reasoned in their hearts concerning John, whether haply he were the Christ; ",
+            "version": "ASV",
+            "clsstr": "Luke-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003016,
+            "text": "John answered, saying unto them all, I indeed baptize you with water; but there cometh he that is mightier than I, the latchet of whose shoes I am not <i>[e]</i>worthy to unloose: he shall baptize you <i>[f]</i>in the Holy Spirit and  fire: ",
+            "version": "ASV",
+            "clsstr": "Luke-3-16",
+            "footnotes": [
+                {
+                    "e": "Greek <i>sufficient</i>."
+                },
+                {
+                    "f": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003017,
+            "text": "whose fan is in his hand, thoroughly to cleanse his threshing-floor, and to gather the wheat into his garner; but the chaff he will burn up with unquenchable fire.",
+            "version": "ASV",
+            "clsstr": "Luke-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003018,
+            "text": "\u00b6 With many other exhortations therefore preached he <i>[g]</i>good tidings unto the people; ",
+            "version": "ASV",
+            "clsstr": "Luke-3-18",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the gospel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003019,
+            "text": "but Herod the tetrarch, being reproved by him for Herodias his brother\u2019s wife, and for all the evil things which Herod had done, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003020,
+            "text": "added this also to them all, that he shut up John in prison.",
+            "version": "ASV",
+            "clsstr": "Luke-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003021,
+            "text": "\u00b6 Now it came to pass, when all the people were baptized, that, Jesus also having been baptized, and praying, the heaven was opened, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003022,
+            "text": "and the Holy Spirit descended in a bodily form, as a dove, upon him, and a voice came out of heaven, Thou art my beloved Son; in thee I am well pleased.",
+            "version": "ASV",
+            "clsstr": "Luke-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003023,
+            "text": "\u00b6 And Jesus himself, when he began , was about thirty years of age, being the son (as was supposed) of Joseph, the  of Heli, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003024,
+            "text": "the  of Matthat, the  of Levi, the  of Melchi, the  of Jannai, the  of Joseph, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003025,
+            "text": "the  of Mattathias, the  of Amos, the  of Nahum, the  of Esli, the  of Naggai, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003026,
+            "text": "the  of Maath, the  of Mattathias, the  of Semein, the  of Josech, the  of Joda, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003027,
+            "text": "the of Joanan, the of Rhesa, the of Zerubbabel, the of <i>[h]</i>Shealtiel, the  of Neri, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-27",
+            "footnotes": [
+                {
+                    "h": "Greek <i>Salathiel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003028,
+            "text": "the  of Melchi, the  of Addi, the  of Cosam, the  of Elmadam, the  of Er, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003029,
+            "text": "the  of Jesus, the  of Eliezer, the  of Jorim, the  of Matthat, the  of Levi, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003030,
+            "text": "the  of Symeon, the  of Judas, the  of Joseph, the  of Jonam, the  of Eliakim, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003031,
+            "text": "the  of Melea, the  of Menna, the  of Mattatha, the  of Nathan, the  of David, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003032,
+            "text": "the of Jesse, the of Obed, the of Boaz, the of <i>[i]</i>Salmon, the  of Nahshon, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-32",
+            "footnotes": [
+                {
+                    "i": "Some ancient authorities write <i>Sala</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003033,
+            "text": "the of Amminadab, <i>[j]</i>the of <i>[k]</i>Arni, the  of Hezron, the  of Perez, the  of Judah, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-33",
+            "footnotes": [
+                {
+                    "j": "Many ancient authorities insert <i>the</i> son <i>of Admin</i>: and one writes <i>Admin</i> for <i>Amminadab</i>."
+                },
+                {
+                    "k": "Some ancient authorities write <i>Aram</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003034,
+            "text": "the  of Jacob, the  of Isaac, the  of Abraham, the  of Terah, the  of Nahor, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003035,
+            "text": "the  of Serug, the  of Reu, the  of Peleg, the  of Eber, the  of Shelah, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003036,
+            "text": "the  of Cainan, the  of Arphaxad, the  of Shem, the  of Noah, the  of Lamech, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003037,
+            "text": "the  of Methuselah, the  of Enoch, the  of Jared, the  of Mahalaleel, the  of Cainan, ",
+            "version": "ASV",
+            "clsstr": "Luke-3-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42003038,
+            "text": "the  of Enos, the  of Seth, the  of Adam, the  of God.",
+            "version": "ASV",
+            "clsstr": "Luke-3-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 3
+}

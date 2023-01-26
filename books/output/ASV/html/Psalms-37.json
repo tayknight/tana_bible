@@ -1,0 +1,384 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19037001,
+            "text": "<b>Security of those who trust in Jehovah, and insecurity of the wicked.</b>\n\u00b6  of David.\u00b6     Fret not thyself because of evil-doers,\n    Neither be thou envious against them that work unrighteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037002,
+            "text": "    For they shall soon be cut down like the grass,\n    And wither as the green herb.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037003,
+            "text": " Trust in Jehovah, and do good;\n  <i>[a]</i>Dwell in the land, and <i>[b]</i>feed on  faithfulness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>So shalt thou dwell in the land and feed securely</i>"
+                },
+                {
+                    "b": "Or, verily <i>thou shalt be fed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037004,
+            "text": "  <i>[c]</i>Delight thyself also in Jehovah;\n  And he will give thee the <i>[d]</i>desires of thy heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>So shalt thou have thy delight in etc.</i>"
+                },
+                {
+                    "d": "Hebrew <i>petitions</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037005,
+            "text": "   <i>[e]</i>Commit thy way unto Jehovah;\n    Trust also in him, and he will bring it to pass.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-5",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>Roll thy way upon Jehovah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037006,
+            "text": "    And he will make thy righteousness to go forth as the light,\n    And thy justice as the noon-day.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037007,
+            "text": "   <i>[f]</i>Rest in Jehovah, and wait patiently for him:\n    Fret not thyself because of him who prospereth in his way,\n    Because of the man who bringeth wicked devices to pass.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-7",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Be still before</i> (Hebrew <i>silent to</i>) <i>Jehovah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037008,
+            "text": "    Cease from anger, and forsake wrath:\n    Fret not thyself,  only to evil-doing.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037009,
+            "text": "  For evil-doers shall be cut off;\n  But those that wait for Jehovah, they shall inherit <i>[g]</i>the land.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-9",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the earth</i> (and so in verses [[11]], [[22]], [[29]], [[34]])"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037010,
+            "text": "  For yet a little while, and the wicked shall not be:\n  Yea, thou shalt diligently consider his place, and <i>[h]</i>he shall not be.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-10",
+            "footnotes": [
+                {
+                    "h": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037011,
+            "text": "    But the meek shall inherit the land,\n    And shall delight themselves in the abundance of peace.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037012,
+            "text": "    The wicked plotteth against the just,\n    And gnasheth upon him with his teeth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037013,
+            "text": "    The Lord will laugh at him;\n    For he seeth that his day is coming.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037014,
+            "text": "    The wicked have drawn out the sword, and have bent their bow,\n    To cast down the poor and needy,\n    To slay such as are upright in the way.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037015,
+            "text": "    Their sword shall enter into their own heart,\n    And their bows shall be broken.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037016,
+            "text": "    Better is a little that the righteous hath\n    Than the abundance of many wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037017,
+            "text": "    For the arms of the wicked shall be broken;\n    But Jehovah upholdeth the righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037018,
+            "text": "    Jehovah knoweth the days of the perfect;\n    And their inheritance shall be for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037019,
+            "text": "    They shall not be put to shame in the time of evil;\n    And in the days of famine they shall be satisfied.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037020,
+            "text": " But the wicked shall perish,\n And the enemies of Jehovah shall be as <i>[i]</i>the fat of lambs:\n  They shall consume; <i>[j]</i>in smoke shall they consume away.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-20",
+            "footnotes": [
+                {
+                    "i": "Or, <i>the excellency of the pastures</i>"
+                },
+                {
+                    "j": "Or, <i>like smoke</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037021,
+            "text": "    The wicked borroweth, and payeth not again;\n    But the righteous dealeth graciously, and giveth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037022,
+            "text": "    For such as are blessed of him shall inherit the land;\n    And they that are cursed of him shall be cut off.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037023,
+            "text": "    A man\u2019s goings are established of Jehovah;\n    And he delighteth in his way.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037024,
+            "text": "  Though he fall, he shall not be utterly cast down;\n  For Jehovah <i>[k]</i>upholdeth him with his hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-24",
+            "footnotes": [
+                {
+                    "k": "Or, <i>upholdeth his hand</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037025,
+            "text": "    I have been young, and now am old;\n    Yet have I not seen the righteous forsaken,\n    Nor his seed begging bread.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037026,
+            "text": "    All the day long he dealeth graciously, and lendeth;\n    And his seed is blessed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037027,
+            "text": "    Depart from evil, and do good;\n    And dwell for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037028,
+            "text": "    For Jehovah loveth justice,\n    And forsaketh not his saints;\n    They are preserved for ever:\n    But the seed of the wicked shall be cut off.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037029,
+            "text": "    The righteous shall inherit the land,\n    And dwell therein for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037030,
+            "text": "    The mouth of the righteous talketh of wisdom,\n    And his tongue speaketh justice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037031,
+            "text": "    The law of his God is in his heart;\n    None of his steps shall slide.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037032,
+            "text": "    The wicked watcheth the righteous,\n    And seeketh to slay him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037033,
+            "text": "    Jehovah will not leave him in his hand,\n    Nor condemn him when he is judged.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037034,
+            "text": "    Wait for Jehovah, and keep his way,\n    And he will exalt thee to inherit the land:\n    When the wicked are cut off, thou shalt see it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037035,
+            "text": "    I have seen the wicked in great power,\n    And spreading himself like a green tree in its native soil.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037036,
+            "text": "   <i>[l]</i>But one passed by, and, lo, he was not:\n    Yea, I sought him, but he could not be found.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-36",
+            "footnotes": [
+                {
+                    "l": "Or, <i>Yet he passed away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037037,
+            "text": "    Mark the perfect man, and behold the upright;\n    For there is a  end to the man of peace.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037038,
+            "text": "    As for transgressors, they shall be destroyed together:\n    The end of the wicked shall be cut off.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037039,
+            "text": "    But the salvation of the righteous is of Jehovah:\n    He is their stronghold in the time of trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19037040,
+            "text": "    And Jehovah helpeth them, and rescueth them:\n    He rescueth them from the wicked, and saveth them,\n    Because they have taken refuge in him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-37-40",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 37
+}

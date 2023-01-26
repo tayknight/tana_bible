@@ -1,0 +1,313 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19073001,
+            "text": "\u00b6 Book III\n<b>The end of the wicked contrasted with that of the righteous.</b>\n\u00b6 A Psalm of Asaph.\u00b6   <i>[a]</i>Surely God is good to Israel,\n     to such as are pure in heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Only good is God</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073002,
+            "text": "    But as for me, my feet were almost gone;\n    My steps had well nigh slipped.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073003,
+            "text": "  For I was envious at the <i>[b]</i>arrogant,\n    When I saw the prosperity of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>fools</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073004,
+            "text": "    For there are no pangs in their death;\n    But their strength is firm.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073005,
+            "text": "  They are not <i>[c]</i>in trouble as  men;\n    Neither are they plagued like  men.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>in the trouble of men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073006,
+            "text": "    Therefore pride is as a chain about their neck;\n    Violence covereth them as a garment.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073007,
+            "text": "  Their eyes stand out with fatness:\n   <i>[d]</i>They have more than heart could wish.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>The imaginations of their heart overflow</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073008,
+            "text": "  They scoff, and in wickedness utter oppression:\n  They speak <i>[e]</i>loftily.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>from on high</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073009,
+            "text": "  They have set their mouth <i>[f]</i>in the heavens,\n    And their tongue walketh through the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-9",
+            "footnotes": [
+                {
+                    "f": "Or, <i>against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073010,
+            "text": "  Therefore <i>[g]</i>his people return hither:\n    And waters of a full  are drained by them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-10",
+            "footnotes": [
+                {
+                    "g": "Another reading is, <i>he will bring back his people</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073011,
+            "text": "    And they say, How doth God know?\n    And is there knowledge in the Most High?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073012,
+            "text": "    Behold, these are the wicked;\n    And, being alway at ease, they increase in riches.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073013,
+            "text": "    Surely in vain have I cleansed my heart,\n    And washed my hands in innocency;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073014,
+            "text": "  For all the day long have I been plagued,\n  And <i>[h]</i>chastened every morning.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-14",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>my chastisement</i> was."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073015,
+            "text": "    If I had said, I will speak thus;\n    Behold, I had dealt treacherously with the generation of thy children.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073016,
+            "text": "  When I thought how I might know this,\n  It was <i>[i]</i>too painful for me;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-16",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>labor in mine eyes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073017,
+            "text": "    Until I went into the sanctuary of God,\n    And considered their latter end.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073018,
+            "text": "  Surely thou settest them in slippery places:\n  Thou castest them down to <i>[j]</i>destruction.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-18",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>ruins</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073019,
+            "text": "    How are they become a desolation in a moment!\n    They are utterly consumed with terrors.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073020,
+            "text": "  As a dream when one awaketh,\n  So, O Lord, <i>[k]</i>when thou awakest, thou wilt despise their image.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-20",
+            "footnotes": [
+                {
+                    "k": "Or, <i>in the city</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073021,
+            "text": " For my soul <i>[l]</i>was grieved,\n  And I was pricked in my <i>[m]</i>heart:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-21",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>was in a ferment</i>."
+                },
+                {
+                    "m": "Hebrew <i>reins</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073022,
+            "text": " So brutish <i>[n]</i>was I, and ignorant;\n  I was a beast <i>[o]</i>before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-22",
+            "footnotes": [
+                {
+                    "n": "Or, <i>am</i>"
+                },
+                {
+                    "o": "Hebrew <i>with thee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073023,
+            "text": "    Nevertheless I am continually with thee:\n    Thou hast holden my right hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073024,
+            "text": "  Thou wilt guide me with thy counsel,\n  And afterward receive me <i>[p]</i>to glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-24",
+            "footnotes": [
+                {
+                    "p": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073025,
+            "text": "  Whom have I in heaven ?\n  And there is none upon earth that I desire <i>[q]</i>besides thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-25",
+            "footnotes": [
+                {
+                    "q": "Or, <i>with thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073026,
+            "text": "  My flesh and my heart faileth;\n   God is the <i>[r]</i>strength of my heart and my portion for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-26",
+            "footnotes": [
+                {
+                    "r": "Hebrew <i>rock</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073027,
+            "text": "    For, lo, they that are far from thee shall perish:\n    Thou hast destroyed all them that play the harlot,  from thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19073028,
+            "text": "    But it is good for me to draw near unto God:\n    I have made the Lord Jehovah my refuge,\n    That I may tell of all thy works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-73-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 73
+}

@@ -1,0 +1,130 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 66,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 66,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 66004001,
+            "text": "\u00b6 After these things I saw, and behold, a door opened in heaven, and the first voice that I heard, as of a trumpet speaking with me, one saying, Come up hither, and I will show thee the things which must <i>[a]</i>come to pass hereafter. ",
+            "version": "ASV",
+            "clsstr": "Rev-4-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>come to pass. After these things straightway etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004002,
+            "text": "Straightway I was in the Spirit: and behold, there was a throne set in heaven, and one sitting upon the throne; ",
+            "version": "ASV",
+            "clsstr": "Rev-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004003,
+            "text": "and he that sat  to look upon like a jasper stone and a sardius: and  a rainbow round about the throne, like an emerald to look upon. ",
+            "version": "ASV",
+            "clsstr": "Rev-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004004,
+            "text": "And round about the throne  four and twenty thrones: and upon the thrones  four and twenty elders sitting, arrayed in white garments; and on their heads crowns of gold. ",
+            "version": "ASV",
+            "clsstr": "Rev-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004005,
+            "text": "And out of the throne proceed lightnings and voices and thunders. And  seven lamps of fire burning before the throne, which are the seven Spirits of God; ",
+            "version": "ASV",
+            "clsstr": "Rev-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004006,
+            "text": "and before the throne, as it were a <i>[b]</i>sea of glass like unto crystal; and in the midst <i>[c]</i>of the throne, and round about the throne, four living creatures full of eyes before and behind. ",
+            "version": "ASV",
+            "clsstr": "Rev-4-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>glassy sea</i>"
+                },
+                {
+                    "c": "Or, <i>before</i>. See [[7:17]]; compare [[5:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004007,
+            "text": "And the first creature  like a lion, and the second creature like a calf, and the third creature had a face as of a man, and the fourth creature  like a flying eagle. ",
+            "version": "ASV",
+            "clsstr": "Rev-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004008,
+            "text": "And the four living creatures, having each one of them six wings, are full of eyes round about and within: and they have no rest day and night, saying,\u00b6 Holy, holy, holy, the Lord God, the Almighty, who was and who is and <i>[d]</i>who is to come.",
+            "version": "ASV",
+            "clsstr": "Rev-4-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>who cometh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004009,
+            "text": "\u00b6 And when the living creatures shall give glory and honor and thanks to him that sitteth on the throne, to him that liveth <i>[e]</i>for ever and ever, ",
+            "version": "ASV",
+            "clsstr": "Rev-4-9",
+            "footnotes": [
+                {
+                    "e": "Greek <i>unto the ages of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004010,
+            "text": "the four and twenty elders shall fall down before him that sitteth on the throne, and shall worship him that liveth <i>[f]</i>for ever and ever, and shall cast their crowns before the throne, saying,",
+            "version": "ASV",
+            "clsstr": "Rev-4-10",
+            "footnotes": [
+                {
+                    "f": "Greek <i>unto the ages of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66004011,
+            "text": "\u00b6 Worthy art thou, our Lord and our God, to receive the glory and the honor and the power: for thou didst create all things, and because of thy will they were, and were created.",
+            "version": "ASV",
+            "clsstr": "Rev-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Revelation",
+    "chapters": 4
+}

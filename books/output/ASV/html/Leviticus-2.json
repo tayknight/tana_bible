@@ -1,0 +1,151 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3002001,
+            "text": "\u00b6 And when any one offereth an oblation of a meal-offering unto Jehovah, his oblation shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon: ",
+            "version": "ASV",
+            "clsstr": "Lev-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002002,
+            "text": "and he shall bring it to Aaron\u2019s sons the priests; and he shall take thereout his handful of the fine flour thereof, and of the oil thereof, with all the frankincense thereof. And the priest shall burn  the memorial thereof upon the altar, an offering made by fire, of a sweet savor unto Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Lev-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002003,
+            "text": "and that which is left of the meal-offering shall be Aaron\u2019s and his sons\u2019: it is a thing most holy of the offerings of Jehovah made by fire.",
+            "version": "ASV",
+            "clsstr": "Lev-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002004,
+            "text": "\u00b6 And when thou offerest an oblation of a meal-offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002005,
+            "text": "And if thy oblation be a meal-offering of the <i>[a]</i>baking-pan, it shall be of fine flour unleavened, mingled with oil. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>flat plate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002006,
+            "text": "Thou shalt part it in pieces, and pour oil thereon: it is a meal-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002007,
+            "text": "And if thy oblation be a meal-offering of the frying-pan, it shall be made of fine flour with oil. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002008,
+            "text": "And thou shalt bring the meal-offering that is made of these things unto Jehovah: and it shall be presented unto the priest, and he shall bring it unto the altar. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002009,
+            "text": "And the priest shall take up from the meal-offering the memorial thereof, and shall burn it upon the altar, an offering made by fire, of a sweet savor unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002010,
+            "text": "And that which is left of the meal-offering shall be Aaron\u2019s and his sons\u2019: it is a thing most holy of the offerings of Jehovah made by fire.",
+            "version": "ASV",
+            "clsstr": "Lev-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002011,
+            "text": "\u00b6 No meal-offering, which ye shall offer unto Jehovah, shall be made with leaven; for ye shall burn no leaven, nor any honey, as an offering made by fire unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002012,
+            "text": "As an oblation of first- ye shall offer them unto Jehovah: but they shall not come up for a sweet savor on the altar. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002013,
+            "text": "And every oblation of thy meal-offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meal-offering: with all thine oblations thou shalt offer salt.",
+            "version": "ASV",
+            "clsstr": "Lev-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002014,
+            "text": "\u00b6 And if thou offer a meal-offering of first-fruits unto Jehovah, thou shalt offer for the meal-offering of thy first-fruits grain in the ear parched with fire, bruised grain of the fresh ear. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002015,
+            "text": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meal-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3002016,
+            "text": "And the priest shall burn the memorial of it, part of the bruised grain thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 2
+}

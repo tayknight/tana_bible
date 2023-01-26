@@ -1,0 +1,151 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19108001,
+            "text": "<b>God praised, and supplicated to give victory.</b>\n\u00b6 A Song, a Psalm of David.\u00b6     My heart is fixed, O God;\n    I will sing, yea, I will sing praises, even with my glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108002,
+            "text": "  Awake, psaltery and harp:\n  I myself will <i>[a]</i>awake right early.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>awake the dawn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108003,
+            "text": "    I will give thanks unto thee, O Jehovah, among the peoples;\n    And I will sing praises unto thee among the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108004,
+            "text": "    For thy lovingkindness is great above the heavens;\n    And thy truth  unto the skies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108005,
+            "text": "    Be thou exalted, O God, above the heavens,\n    And thy glory above all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108006,
+            "text": "  That thy beloved may be delivered,\n  Save with thy right hand, and answer <i>[b]</i>us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-6",
+            "footnotes": [
+                {
+                    "b": "Another reading is, <i>me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108007,
+            "text": "    God hath spoken in his holiness: I will exult;\n    I will divide Shechem, and mete out the valley of Succoth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108008,
+            "text": "  Gilead is mine; Manasseh is mine;\n  Ephraim also is the defence of my head;\n  Judah is my <i>[c]</i>sceptre.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>lawgiver</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108009,
+            "text": "  Moab is my washpot;\n   <i>[d]</i>Upon Edom will I cast my shoe;\n    Over Philistia will I shout.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Unto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108010,
+            "text": "  Who will bring me into the fortified city?\n  Who <i>[e]</i>hath led me unto Edom?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>will lead me etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108011,
+            "text": "   <i>[f]</i>Hast not thou cast us off, O God?\n    And thou goest not forth, O God, with our hosts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Wilt not thou, O God, who hast cast us off, And goest\u00a0.\u00a0.\u00a0. hosts?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108012,
+            "text": "  Give us help against the adversary;\n  For vain is the <i>[g]</i>help of man.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-12",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19108013,
+            "text": "    Through God we shall do valiantly:\n    For he it is that will tread down our adversaries.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-108-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 108
+}

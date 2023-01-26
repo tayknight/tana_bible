@@ -1,0 +1,308 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24004001,
+            "text": "\u00b6 If thou wilt return, O Israel, saith Jehovah, if thou wilt return unto me, and <i>[a]</i>if thou wilt put away thine abominations out of my sight; then shalt thou not be removed; ",
+            "version": "ASV",
+            "clsstr": "Jer-4-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>if thou wilt put\u00a0.\u00a0.\u00a0. and will not wander, and wilt swear\u00a0.\u00a0.\u00a0. then shall the nations etc.</i>; or <i>then shalt thou swear\u00a0.\u00a0.\u00a0. and the nations etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004002,
+            "text": "and thou shalt swear, As Jehovah liveth, in truth, in justice, and in righteousness; and the nations shall bless themselves in him, and in him shall they glory. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004003,
+            "text": "For thus saith Jehovah to the men of Judah and to Jerusalem, Break up your fallow ground, and sow not among thorns.",
+            "version": "ASV",
+            "clsstr": "Jer-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004004,
+            "text": "\u00b6 Circumcise yourselves to Jehovah, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem; lest my wrath go forth like fire, and burn so that none can quench it, because of the evil of your doings.",
+            "version": "ASV",
+            "clsstr": "Jer-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004005,
+            "text": "\u00b6 Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry aloud and say, Assemble yourselves, and let us go into the fortified cities. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004006,
+            "text": "Set up a standard toward Zion: flee for safety, stay not; for I will bring evil from the north, and a great destruction. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004007,
+            "text": "A lion is gone up from his thicket, and a destroyer of nations; he is on his way, he is gone forth from his place, to make thy land desolate, that thy cities be laid waste, without inhabitant. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004008,
+            "text": "For this gird you with sackcloth, lament and wail; for the fierce anger of Jehovah is not turned back from us. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004009,
+            "text": "And it shall come to pass at that day, saith Jehovah, that the heart of the king shall perish, and the heart of the princes; and the priests shall be astonished, and the prophets shall wonder.",
+            "version": "ASV",
+            "clsstr": "Jer-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004010,
+            "text": "\u00b6 Then said I, Ah, Lord Jehovah! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the life.",
+            "version": "ASV",
+            "clsstr": "Jer-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004011,
+            "text": "\u00b6 At that time shall it be said to this people and to Jerusalem, A hot wind from the bare heights in the wilderness toward the daughter of my people, not to winnow, nor to cleanse; ",
+            "version": "ASV",
+            "clsstr": "Jer-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004012,
+            "text": " <i>[b]</i>a full wind from these shall come for me: now will I also utter judgments against them. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>a wind too strong for this</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004013,
+            "text": "Behold, he shall come up as clouds, and his chariots  as the whirlwind: his horses are swifter than eagles. Woe unto us! for we are ruined. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004014,
+            "text": "O Jerusalem, wash thy heart from wickedness, that thou mayest be saved. How long shall thine evil thoughts lodge within thee? ",
+            "version": "ASV",
+            "clsstr": "Jer-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004015,
+            "text": "For <i>[c]</i>a voice declareth from Dan, and publisheth evil from the hills of Ephraim. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-15",
+            "footnotes": [
+                {
+                    "c": "Or, <i>there is a voice of one that declareth etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004016,
+            "text": "Make ye mention to the nations; behold, publish against Jerusalem,  watchers come from a far country, and give out their voice against the cities of Judah. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004017,
+            "text": "As keepers of a field are they against her round about, because she hath been rebellious against me, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004018,
+            "text": "Thy way and thy doings have procured these things unto thee; this is thy wickedness; <i>[d]</i>for it is bitter, <i>[e]</i>for it reacheth unto thy heart.",
+            "version": "ASV",
+            "clsstr": "Jer-4-18",
+            "footnotes": [
+                {
+                    "d": "Or, <i>surely</i>"
+                },
+                {
+                    "e": "Or, <i>surely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004019,
+            "text": "\u00b6 My anguish, my anguish! <i>[f]</i>I am pained at <i>[g]</i>my very heart; my heart is disquieted in me; I cannot hold my peace; because <i>[h]</i>thou hast heard, O my soul, the sound of the trumpet, the alarm of war. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-19",
+            "footnotes": [
+                {
+                    "f": "Another reading is, <i>I will wait patiently</i>"
+                },
+                {
+                    "g": "Hebrew <i>the walls of my heart</i>."
+                },
+                {
+                    "h": "Or, as otherwise read, <i>my soul heareth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004020,
+            "text": "Destruction upon destruction is cried; for the whole land is laid waste: suddenly are my tents destroyed,  my curtains in a moment. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004021,
+            "text": "How long shall I see the standard, and hear the sound of the trumpet? ",
+            "version": "ASV",
+            "clsstr": "Jer-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004022,
+            "text": "For my people are foolish, they know me not; they are sottish children, and they have no understanding; they are wise to do evil, but to do good they have no knowledge.",
+            "version": "ASV",
+            "clsstr": "Jer-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004023,
+            "text": "\u00b6 I beheld the earth, and, lo, it was waste and void; and the heavens, and they had no light. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004024,
+            "text": "I beheld the mountains, and, lo, they trembled, and all the hills <i>[i]</i>moved to and fro. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-24",
+            "footnotes": [
+                {
+                    "i": "Or, <i>moved lightly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004025,
+            "text": "I beheld, and, lo, there was no man, and all the birds of the heavens were fled. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004026,
+            "text": "I beheld, and, lo, <i>[j]</i>the fruitful field was a wilderness, and all the cities thereof were broken down at the presence of Jehovah,  before his fierce anger. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-26",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Carmel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004027,
+            "text": "For thus saith Jehovah, The whole land shall be a desolation; yet will I not make a full end. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004028,
+            "text": "For this shall the earth mourn, and the heavens above be black; because I have spoken it, I have purposed it, and I have not repented, neither will I turn back from it. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004029,
+            "text": "Every city fleeth for the noise of the horsemen and bowmen; they go into the thickets, and climb up upon the rocks: every city is forsaken, and not a man dwelleth therein. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004030,
+            "text": "And thou, when thou art made desolate, what wilt thou do? Though thou clothest thyself with scarlet, though thou deckest thee with ornaments of gold, though thou <i>[k]</i>enlargest thine eyes with paint, in vain dost thou make thyself fair;  lovers despise thee, they seek thy life. ",
+            "version": "ASV",
+            "clsstr": "Jer-4-30",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>rendest</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24004031,
+            "text": "For I have heard a voice as of a woman in travail, the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that gaspeth for breath, that spreadeth her hands, , Woe is me now! for my soul fainteth before the murderers.",
+            "version": "ASV",
+            "clsstr": "Jer-4-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 4
+}

@@ -1,0 +1,282 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 30,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 9,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 30,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 30005001,
+            "text": "\u00b6 Hear ye this word which I take up for a lamentation over you, O house of Israel. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005002,
+            "text": "The virgin of Israel is fallen; she shall no more rise: she <i>[a]</i>is cast down upon her land; there is none to raise her up. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>lieth forsaken</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005003,
+            "text": "For thus saith the Lord Jehovah: The city that went forth a thousand shall have a hundred left, and that which went forth a hundred shall have ten left, to the house of Israel.",
+            "version": "ASV",
+            "clsstr": "Amos-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005004,
+            "text": "\u00b6 For thus saith Jehovah unto the house of Israel, Seek ye me, and ye shall live; ",
+            "version": "ASV",
+            "clsstr": "Amos-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005005,
+            "text": "but seek not Beth-el, nor enter into Gilgal, and pass not to Beer-sheba: for Gilgal shall surely go into captivity, and Beth-el shall <i>[b]</i>come to nought. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>become vanity</i> (Hebrew <i>Aven</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005006,
+            "text": "Seek Jehovah, and ye shall live; lest he break out like fire in the house of Joseph, and it devour, and there be none to quench it in Beth-el. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005007,
+            "text": "Ye who turn justice to wormwood, and cast down righteousness to the earth, ",
+            "version": "ASV",
+            "clsstr": "Amos-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005008,
+            "text": " that maketh the Pleiades and Orion, and turneth <i>[c]</i>the shadow of death into the morning, and maketh the day dark with night; that calleth for the waters of the sea, and poureth them out upon the face of the earth (Jehovah is his name); ",
+            "version": "ASV",
+            "clsstr": "Amos-5-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>deep darkness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005009,
+            "text": "that <i>[d]</i>bringeth sudden destruction upon the strong, so that destruction cometh upon the fortress.",
+            "version": "ASV",
+            "clsstr": "Amos-5-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>causeth destruction to flash forth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005010,
+            "text": "\u00b6 They hate him that reproveth in the gate, and they abhor him that speaketh uprightly. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005011,
+            "text": "Forasmuch therefore as ye trample upon the poor, and take exactions from him of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink the wine thereof. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005012,
+            "text": "For I know how manifold are your transgressions, and how mighty are your sins\u2014ye that afflict the just, that take a bribe, and that turn aside the needy in the gate . ",
+            "version": "ASV",
+            "clsstr": "Amos-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005013,
+            "text": "Therefore he that is prudent shall keep silence in such a time; for it is an evil time.",
+            "version": "ASV",
+            "clsstr": "Amos-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005014,
+            "text": "\u00b6 Seek good, and not evil, that ye may live; and so Jehovah, the God of hosts, will be with you, as ye say. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005015,
+            "text": "Hate the evil, and love the good, and establish justice in the gate: it may be that Jehovah, the God of hosts, will be gracious unto the remnant of Joseph.",
+            "version": "ASV",
+            "clsstr": "Amos-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005016,
+            "text": "\u00b6 Therefore thus saith Jehovah, the God of hosts, the Lord: Wailing shall be in all the broad ways; and they shall say in all the streets, Alas! alas! and they shall call the husbandman to mourning, <i>[e]</i>and such as are skilful in lamentation to wailing. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-16",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>and</i> proclaim <i>wailing to such as are skilful in lamentation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005017,
+            "text": "And in all vineyards shall be wailing; for I will pass through the midst of thee, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-5-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005018,
+            "text": "\u00b6 Woe unto you that desire the day of Jehovah! Wherefore would ye have the day of Jehovah? It is darkness, and not light. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005019,
+            "text": "As if a man did flee from a lion, and a bear met him; <i>[f]</i>or went into the house and leaned his hand on the wall, and a serpent bit him. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-19",
+            "footnotes": [
+                {
+                    "f": "Or, <i>and</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005020,
+            "text": "Shall not the day of Jehovah be darkness, and not light? even very dark, and no brightness in it?",
+            "version": "ASV",
+            "clsstr": "Amos-5-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005021,
+            "text": "\u00b6 I hate, I despise your feasts, and I <i>[g]</i>will take no delight in your solemn assemblies. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-21",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>will not smell</i> a savor."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005022,
+            "text": "Yea, though ye offer me <i>[h]</i>your burnt-offerings and meal-offerings, I will not accept them; neither will I regard the <i>[i]</i>peace-offerings of your fat beasts. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-22",
+            "footnotes": [
+                {
+                    "h": "Or, <i>burnt-offerings with your meal-offerings</i>"
+                },
+                {
+                    "i": "Or, <i>thank-offerings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005023,
+            "text": "Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005024,
+            "text": "But let justice roll down as waters, and righteousness as a <i>[j]</i>mighty stream.",
+            "version": "ASV",
+            "clsstr": "Amos-5-24",
+            "footnotes": [
+                {
+                    "j": "Or, <i>ever-flowing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005025,
+            "text": "\u00b6 Did ye bring unto me sacrifices and <i>[k]</i>offerings in the wilderness forty years, O house of Israel? ",
+            "version": "ASV",
+            "clsstr": "Amos-5-25",
+            "footnotes": [
+                {
+                    "k": "Or, <i>meal-offerings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005026,
+            "text": "Yea, ye <i>[l]</i>have borne the tabernacle of your king and the shrine of your images, the star of your god, which ye made to yourselves. ",
+            "version": "ASV",
+            "clsstr": "Amos-5-26",
+            "footnotes": [
+                {
+                    "l": "Or, <i>shall take up\u00a0.\u00a0.\u00a0. And I will cause etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30005027,
+            "text": "Therefore will I cause you to go into captivity beyond Damascus, saith Jehovah, whose name is the God of hosts.",
+            "version": "ASV",
+            "clsstr": "Amos-5-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Amos",
+    "chapters": 5
+}

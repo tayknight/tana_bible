@@ -1,0 +1,453 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40022001,
+            "text": "\u00b6 And Jesus answered and spake again in parables unto them, saying, ",
+            "version": "ASV",
+            "clsstr": "Matt-22-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022002,
+            "text": "The kingdom of heaven is likened unto a certain king, who made a marriage feast for his son, ",
+            "version": "ASV",
+            "clsstr": "Matt-22-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022003,
+            "text": "and sent forth his <i>[a]</i>servants to call them that were bidden to the marriage feast: and they would not come. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-3",
+            "footnotes": [
+                {
+                    "a": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022004,
+            "text": "Again he sent forth other <i>[b]</i>servants, saying, Tell them that are bidden, Behold, I have made ready my dinner; my oxen and my fatlings are killed, and all things are ready: come to the marriage feast. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-4",
+            "footnotes": [
+                {
+                    "b": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022005,
+            "text": "But they made light of it, and went their ways, one to his own farm, another to his merchandise; ",
+            "version": "ASV",
+            "clsstr": "Matt-22-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022006,
+            "text": "and the rest laid hold on his <i>[c]</i>servants, and treated them shamefully, and killed them. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-6",
+            "footnotes": [
+                {
+                    "c": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022007,
+            "text": "But the king was wroth; and he sent his armies, and destroyed those murderers, and burned their city. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022008,
+            "text": "Then saith he to his <i>[d]</i>servants, The wedding is ready, but they that were bidden were not worthy. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-8",
+            "footnotes": [
+                {
+                    "d": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022009,
+            "text": "Go ye therefore unto the partings of the highways, and as many as ye shall find, bid to the marriage feast. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022010,
+            "text": "And those <i>[e]</i>servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was filled with guests. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-10",
+            "footnotes": [
+                {
+                    "e": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022011,
+            "text": "But when the king came in to behold the guests, he saw there a man who had not on a wedding-garment: ",
+            "version": "ASV",
+            "clsstr": "Matt-22-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022012,
+            "text": "and he saith unto him, Friend, how camest thou in hither not having a wedding-garment? And he was speechless. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022013,
+            "text": "Then the king said to the <i>[f]</i>servants, Bind him hand and foot, and cast him out into the outer darkness; there shall be the weeping and the gnashing of teeth. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>ministers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022014,
+            "text": "For many are called, but few chosen.",
+            "version": "ASV",
+            "clsstr": "Matt-22-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022015,
+            "text": "\u00b6 Then went the Pharisees, and took counsel how they might ensnare him in  talk. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022016,
+            "text": "And they send to him their disciples, with the Herodians, saying, Teacher, we know that thou art true, and teachest the way of God in truth, and carest not for any one: for thou regardest not the person of men. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022017,
+            "text": "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not? ",
+            "version": "ASV",
+            "clsstr": "Matt-22-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022018,
+            "text": "But Jesus perceived their wickedness, and said, Why make ye trial of me, ye hypocrites? ",
+            "version": "ASV",
+            "clsstr": "Matt-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022019,
+            "text": "Show me the tribute money. And they brought unto him a <i>[g]</i>denarius. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-19",
+            "footnotes": [
+                {
+                    "g": "See marginal note on [[18:28]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022020,
+            "text": "And he saith unto them, Whose is this image and superscription? ",
+            "version": "ASV",
+            "clsstr": "Matt-22-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022021,
+            "text": "They say unto him, Caesar\u2019s. Then saith he unto them, Render therefore unto Caesar the things that are Caesar\u2019s; and unto God the things that are God\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022022,
+            "text": "And when they heard it, they marvelled, and left him, and went away.",
+            "version": "ASV",
+            "clsstr": "Matt-22-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022023,
+            "text": "\u00b6 On that day there came to him Sadducees, <i>[h]</i>they that say that there is no resurrection: and they asked him, ",
+            "version": "ASV",
+            "clsstr": "Matt-22-23",
+            "footnotes": [
+                {
+                    "h": "Many ancient authorities read <i>saying</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022024,
+            "text": "saying, Teacher, Moses said, <i>[i]</i>If a man die, having no children, his brother <i>[j]</i>shall marry his wife, and raise up seed unto his brother. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-24",
+            "footnotes": [
+                {
+                    "i": "[[Dt. 25:5]]."
+                },
+                {
+                    "j": "Greek <i>shall perform the duty of a husband\u2019s brother to his wife</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022025,
+            "text": "Now there were with us seven brethren: and the first married and deceased, and having no seed left his wife unto his brother; ",
+            "version": "ASV",
+            "clsstr": "Matt-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022026,
+            "text": "in like manner the second also, and the third, unto the <i>[k]</i>seventh. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-26",
+            "footnotes": [
+                {
+                    "k": "Greek <i>seven</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022027,
+            "text": "And after them all, the woman died. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022028,
+            "text": "In the resurrection therefore whose wife shall she be of the seven? for they all had her. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022029,
+            "text": "But Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022030,
+            "text": "For in the resurrection they neither marry, nor are given in marriage, but are as angels <i>[l]</i>in heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-30",
+            "footnotes": [
+                {
+                    "l": "Many ancient authorities add <i>of God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022031,
+            "text": "But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying, ",
+            "version": "ASV",
+            "clsstr": "Matt-22-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022032,
+            "text": " <i>[m]</i>I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not  of the dead, but of the living. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-32",
+            "footnotes": [
+                {
+                    "m": "[[Ex. 3:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022033,
+            "text": "And when the multitudes heard it, they were astonished at his teaching.",
+            "version": "ASV",
+            "clsstr": "Matt-22-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022034,
+            "text": "\u00b6 But the Pharisees, when they heard that he had put the Sadducees to silence, gathered themselves together. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022035,
+            "text": "And one of them, a lawyer, asked him a question, trying him: ",
+            "version": "ASV",
+            "clsstr": "Matt-22-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022036,
+            "text": "Teacher, which is the great commandment in the law? ",
+            "version": "ASV",
+            "clsstr": "Matt-22-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022037,
+            "text": "And he said unto him, <i>[n]</i>Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-37",
+            "footnotes": [
+                {
+                    "n": "[[Dt. 6:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022038,
+            "text": "This is the great and first commandment. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022039,
+            "text": " <i>[o]</i>And a second like is this, <i>[p]</i>Thou shalt love thy neighbor as thyself. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-39",
+            "footnotes": [
+                {
+                    "o": "Or, <i>And a second is like unto it, Thou shalt love etc.</i>"
+                },
+                {
+                    "p": "[[Lev. 19:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022040,
+            "text": "On these two commandments the whole law hangeth, and the prophets.",
+            "version": "ASV",
+            "clsstr": "Matt-22-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022041,
+            "text": "\u00b6 Now while the Pharisees were gathered together, Jesus asked them a question, ",
+            "version": "ASV",
+            "clsstr": "Matt-22-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022042,
+            "text": "saying, What think ye of the Christ? whose son is he? They say unto him,  of David. ",
+            "version": "ASV",
+            "clsstr": "Matt-22-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022043,
+            "text": "He saith unto them, How then doth David in the Spirit call him Lord, saying,",
+            "version": "ASV",
+            "clsstr": "Matt-22-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022044,
+            "text": "\u00b6   <i>[q]</i>The Lord said unto my Lord,\n    Sit thou on my right hand,\n    Till I put thine enemies underneath thy feet?\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-22-44",
+            "footnotes": [
+                {
+                    "q": "[[Ps. 110:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022045,
+            "text": "\u00b6 If David then calleth him Lord, how is he his son? ",
+            "version": "ASV",
+            "clsstr": "Matt-22-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40022046,
+            "text": "And no one was able to answer him a word, neither durst any man from that day forth ask him any more questions.",
+            "version": "ASV",
+            "clsstr": "Matt-22-46",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 22
+}

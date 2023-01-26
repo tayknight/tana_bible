@@ -1,0 +1,238 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 60,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 60,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 60003001,
+            "text": "\u00b6 In like manner, ye wives, in subjection to your own husbands; that, even if any obey not the word, they may without the word be gained by the <i>[a]</i>behavior of their wives; ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>manner of life</i>. [[verse 16]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003002,
+            "text": "beholding your chaste <i>[b]</i>behavior  with fear. ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>manner of life</i>. [[verse 16]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003003,
+            "text": "Whose  let it not be the outward adorning of braiding the hair, and of wearing jewels of gold, or of putting on apparel; ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003004,
+            "text": "but  the hidden man of the heart, in the incorruptible  of a meek and quiet spirit, which is in the sight of God of great price. ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003005,
+            "text": "For after this manner aforetime the holy women also, who hoped in God, adorned themselves, being in subjection to their own <i>[c]</i>husbands: ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>husbands (as Sarah\u00a0.\u00a0.\u00a0. ye are become), doing well, and not being afraid</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003006,
+            "text": "as Sarah obeyed Abraham, calling him lord: whose children ye now are, if ye do well, and are not <i>[d]</i>put in fear by any terror.",
+            "version": "ASV",
+            "clsstr": "1Pet-3-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>afraid with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003007,
+            "text": "\u00b6 Ye husbands, in like manner, dwell with according to knowledge, giving honor <i>[e]</i>unto the woman, as unto the weaker vessel, as being also joint-heirs of the grace of life; to the end that your prayers be not hindered.",
+            "version": "ASV",
+            "clsstr": "1Pet-3-7",
+            "footnotes": [
+                {
+                    "e": "Greek <i>unto the female vessel, as weaker</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003008,
+            "text": "\u00b6 Finally, ye all likeminded, <i>[f]</i>compassionate, loving as brethren, tenderhearted, humbleminded: ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-8",
+            "footnotes": [
+                {
+                    "f": "Greek <i>sympathetic</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003009,
+            "text": "not rendering evil for evil, or reviling for reviling; but contrariwise blessing; for hereunto were ye called, that ye should inherit a blessing. ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003010,
+            "text": "For,\u00b6   <i>[g]</i>He that would love life,\n    And see good days,\n    Let him refrain his tongue from evil,\n    And his lips that they speak no guile:\n    ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-10",
+            "footnotes": [
+                {
+                    "g": "[[Ps. 34:12ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003011,
+            "text": "    And let him turn away from evil, and do good;\n    Let him seek peace, and pursue it.\n    ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003012,
+            "text": "    For the eyes of the Lord are upon the righteous,\n    And his ears unto their supplication:\n    But the face of the Lord is upon them that do evil.\n    ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003013,
+            "text": "\u00b6 And who is he that will harm you, if ye be zealous of that which is good? ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003014,
+            "text": "But even if ye should suffer for righteousness\u2019 sake, blessed : and fear not their fear, neither be troubled; ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003015,
+            "text": "but sanctify in your hearts Christ as Lord:  ready always to give answer to every man that asketh you a reason concerning the hope that is in you, yet with meekness and fear: ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003016,
+            "text": "having a good conscience; that, wherein ye are spoken against, they may be put to shame who revile your good manner of life in Christ. ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003017,
+            "text": "For it is better, if the will of God should so will, that ye suffer for well-doing than for evil-doing. ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003018,
+            "text": "Because Christ also <i>[h]</i>suffered for sins once, the righteous for the unrighteous, that he might bring us to God; being put to death in the flesh, but made alive in the spirit; ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-18",
+            "footnotes": [
+                {
+                    "h": "Many ancient authorities read <i>died</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003019,
+            "text": "in which also he went and preached unto the spirits in prison, ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003020,
+            "text": "that aforetime were disobedient, when the longsuffering of God waited in the days of Noah, while the ark was a preparing, <i>[i]</i>wherein few, that is, eight souls, were saved through water: ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-20",
+            "footnotes": [
+                {
+                    "i": "Or, <i>into which few, that is, eight souls, were brought safely through water</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003021,
+            "text": "which also <i>[j]</i>after a true likeness doth now save you, baptism, not the putting away of the filth of the flesh, but the <i>[k]</i>interrogation of a good conscience toward God, through the resurrection of Jesus Christ; ",
+            "version": "ASV",
+            "clsstr": "1Pet-3-21",
+            "footnotes": [
+                {
+                    "j": "Or, <i>in the antitype</i>"
+                },
+                {
+                    "k": "Or, <i>inquiry</i>. Or, <i>appeal</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60003022,
+            "text": "who is on the right hand of God, having gone into heaven; angels and authorities and powers being made subject unto him.",
+            "version": "ASV",
+            "clsstr": "1Pet-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Peter",
+    "chapters": 3
+}

@@ -1,0 +1,584 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26016001,
+            "text": "\u00b6 Again the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016002,
+            "text": "Son of man, cause Jerusalem to know her abominations; ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016003,
+            "text": "and say, Thus saith the Lord Jehovah unto Jerusalem: <i>[a]</i>Thy birth and thy nativity is of the land of the Canaanite; the Amorite was thy father, and thy mother was a Hittite. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Thine origin</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016004,
+            "text": "And as for thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to cleanse thee; thou wast not salted at all, nor swaddled at all. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016005,
+            "text": "No eye pitied thee, to do any of these things unto thee, to have compassion upon thee; but thou wast cast out in the open field, for that thy person was abhorred, in the day that thou wast born.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016006,
+            "text": "\u00b6 And when I passed by thee, and saw thee weltering in thy blood, I said unto thee,  in thy blood, live; yea, I said unto thee,  in thy blood, live. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016007,
+            "text": "I <i>[b]</i>caused thee to multiply as that which groweth in the field, and thou didst increase and wax great, and thou attainedst to <i>[c]</i>excellent ornament; thy breasts were fashioned, and thy hair was grown; yet thou wast naked and bare. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-7",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>made thee a myriad</i>."
+                },
+                {
+                    "c": "Hebrew <i>ornament of ornaments</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016008,
+            "text": "Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord Jehovah, and thou becamest mine. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016009,
+            "text": "Then washed I thee with water; yea, I thoroughly washed away thy blood from thee, and I anointed thee with oil. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016010,
+            "text": "I clothed thee also with broidered work, and shod thee with <i>[d]</i>sealskin, and I <i>[e]</i>girded thee about with fine linen, and covered thee with silk. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>porpoise-skin</i>"
+                },
+                {
+                    "e": "Or, <i>bound thee with</i> attire of <i>fine linen</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016011,
+            "text": "And I decked thee with ornaments, and I put bracelets upon thy hands, and a chain on thy neck. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016012,
+            "text": "And I put a ring upon thy nose, and ear-rings in thine ears, and a beautiful crown upon thy head. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016013,
+            "text": "Thus wast thou decked with gold and silver; and thy raiment was of fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil; and thou wast exceeding beautiful, and thou didst prosper unto royal estate. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016014,
+            "text": "And thy renown went forth among the nations for thy beauty; for it was perfect, through my majesty which I had put upon thee, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016015,
+            "text": "\u00b6 But thou didst trust in thy beauty, and playedst the harlot because of thy renown, and pouredst out thy whoredoms on every one that passed by; his it was. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016016,
+            "text": "And thou didst take of thy garments, and madest for thee high places decked with divers colors, and playedst the harlot upon them:  shall not come, neither shall it be . ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016017,
+            "text": "Thou didst also take thy <i>[f]</i>fair jewels of my gold and of my silver, which I had given thee, and madest for thee <i>[g]</i>images of men, and didst play the harlot with them; ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>beautiful vessels</i>"
+                },
+                {
+                    "g": "Or, <i>male images</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016018,
+            "text": "and thou tookest thy broidered garments, and coveredst them, and didst set mine oil and mine incense before them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016019,
+            "text": "My bread also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou didst even set it before them for a sweet savor; and  it was, saith the Lord Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016020,
+            "text": "Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. Were thy whoredoms a small matter, ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016021,
+            "text": "that thou hast slain my children, and delivered them up, in <i>[h]</i>causing them to pass through  unto them? ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-21",
+            "footnotes": [
+                {
+                    "h": "Or, <i>setting them apart</i>. Hebrew <i>making them pass over</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016022,
+            "text": "And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, and wast weltering in thy blood.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016023,
+            "text": "\u00b6 And it is come to pass after all thy wickedness (woe, woe unto thee! saith the Lord Jehovah), ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016024,
+            "text": "that thou hast built unto thee a vaulted place, and hast made thee a lofty place in every street. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016025,
+            "text": "Thou hast built thy lofty place at the head of every way, and hast made thy beauty an abomination, and hast opened thy feet to every one that passed by, and multiplied thy whoredom. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016026,
+            "text": "Thou hast also committed fornication with the Egyptians, thy neighbors, great of flesh; and hast multiplied thy whoredom, to provoke me to anger. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016027,
+            "text": "Behold therefore, I have stretched out my hand over thee, and have diminished thine <i>[i]</i>ordinary , and delivered thee unto the will of them that hate thee, the daughters of the Philistines, that are ashamed of thy lewd way. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-27",
+            "footnotes": [
+                {
+                    "i": "Or, <i>allowance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016028,
+            "text": "Thou hast played the harlot also with the Assyrians, because thou wast insatiable; yea, thou hast played the harlot with them, and yet thou wast not satisfied. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016029,
+            "text": "Thou hast moreover multiplied thy whoredom unto the land of <i>[j]</i>traffic, unto Chaldea; and yet thou wast not satisfied herewith.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-29",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Canaan</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016030,
+            "text": "\u00b6 How weak is thy heart, saith the Lord Jehovah, seeing thou doest all these things, the work of an impudent harlot; ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016031,
+            "text": "in that thou buildest thy vaulted place at the head of every way, and makest thy lofty place in every street, and hast not been as a harlot, <i>[k]</i>in that thou scornest hire. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-31",
+            "footnotes": [
+                {
+                    "k": "Or, <i>that scoffeth at</i> her <i>hire</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016032,
+            "text": "A wife that committeth adultery! that taketh strangers instead of her husband! ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016033,
+            "text": "They give gifts to all harlots; but thou givest thy gifts to all thy lovers, and bribest them, that they may come unto thee on every side for thy whoredoms. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016034,
+            "text": "And thou art different from  women in thy whoredoms, in that none followeth thee to play the harlot; and whereas thou givest hire, and no hire is given unto thee, therefore thou art different.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016035,
+            "text": "\u00b6 Wherefore, O harlot, hear the word of Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016036,
+            "text": "Thus saith the Lord Jehovah, Because thy <i>[l]</i>filthiness was poured out, and thy nakedness uncovered through thy whoredoms with thy lovers; and because of all the idols of thy abominations, and for the blood of thy children, that thou didst give unto them; ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-36",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>brass</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016037,
+            "text": "therefore behold, I will gather all thy lovers, with whom thou hast taken pleasure, and all them that thou hast loved, with all them that thou hast hated; I will even gather them against thee on every side, and will uncover thy nakedness unto them, that they may see all thy nakedness. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016038,
+            "text": "And I will judge thee, as women that break wedlock and shed blood are judged; and I will bring upon thee the blood of wrath and jealousy. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016039,
+            "text": "I will also give thee into their hand, and they shall throw down thy vaulted place, and break down thy lofty places; and they shall strip thee of thy clothes, and take thy fair jewels; and they shall leave thee naked and bare. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016040,
+            "text": "They shall also bring up a company against thee, and they shall stone thee with stones, and thrust thee through with their swords. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016041,
+            "text": "And they shall burn thy houses with fire, and execute judgments upon thee in the sight of many women; and I will cause thee to cease from playing the harlot, and thou shalt also give no hire any more. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016042,
+            "text": "So will I cause my wrath toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016043,
+            "text": "Because thou hast not remembered the days of thy youth, but hast raged against me in all these things; therefore, behold, I also will bring thy way upon thy head, saith the Lord Jehovah: and <i>[m]</i>thou shalt not commit this lewdness with all thine abominations.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-43",
+            "footnotes": [
+                {
+                    "m": "Or, <i>hast thou not committed etc.?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016044,
+            "text": "\u00b6 Behold, every one that useth proverbs shall use  proverb against thee, saying, As is the mother, so is her daughter. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016045,
+            "text": "Thou art the daughter of thy mother, that loatheth her husband and her children; and thou art the sister of thy sisters, who loathed their husbands and their children: your mother was a Hittite, and your father an Amorite. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016046,
+            "text": "And thine elder sister is Samaria, that dwelleth at thy left hand, she and her daughters; and thy younger sister, that dwelleth at thy right hand, is Sodom and her daughters. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016047,
+            "text": "Yet hast thou not walked in their ways, nor done after their abominations; but, as  a very little , thou wast more corrupt than they in all thy ways. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016048,
+            "text": "As I live, saith the Lord Jehovah, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016049,
+            "text": "Behold, this was the iniquity of thy sister Sodom: pride, fulness of bread, and prosperous ease was in her and in her daughters; neither did she strengthen the hand of the poor and needy. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016050,
+            "text": "And they were haughty, and committed abomination before me: therefore I took them away <i>[n]</i>as I saw . ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-50",
+            "footnotes": [
+                {
+                    "n": "Or, <i>when I saw</i> it"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016051,
+            "text": "Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters by all thine abominations which thou hast done. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016052,
+            "text": "Thou also, bear thou thine own shame, in that thou hast given judgment for thy <i>[o]</i>sisters; through thy sins that thou hast committed more abominable than they, they are more righteous than thou: yea, be thou also confounded, and bear thy shame, in that thou hast justified thy sisters.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-52",
+            "footnotes": [
+                {
+                    "o": "Or, <i>sister</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016053,
+            "text": "\u00b6 And I will <i>[p]</i>turn again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, and the captivity of thy captives in the midst of them; ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-53",
+            "footnotes": [
+                {
+                    "p": "Or, <i>return to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016054,
+            "text": "that thou mayest bear thine own shame, and mayest be ashamed because of all that thou hast done, in that thou art a comfort unto them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016055,
+            "text": "And thy sisters, Sodom and her daughters, shall return to their former estate; and Samaria and her daughters shall return to their former estate; and thou and thy daughters shall return to your former estate. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016056,
+            "text": "For thy sister Sodom was not mentioned by thy mouth in the day of thy pride, ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016057,
+            "text": "before thy wickedness was uncovered, as at the time of the reproach of the daughters of Syria, and of all that are round about her, the daughters of the Philistines, that do despite unto thee round about. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016058,
+            "text": "Thou hast borne thy lewdness and thine abominations, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016059,
+            "text": "For thus saith the Lord Jehovah: I will also deal with thee as thou hast done, who hast despised the oath in breaking the covenant.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016060,
+            "text": "\u00b6 Nevertheless I will remember my covenant with thee in the days of thy youth, and I will establish unto thee an everlasting covenant. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016061,
+            "text": "Then shalt thou remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder  and thy younger; and I will give them unto thee for daughters, but not by thy covenant. ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016062,
+            "text": "And I will establish my covenant with thee; and thou shalt know that I am Jehovah; ",
+            "version": "ASV",
+            "clsstr": "Ezek-16-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26016063,
+            "text": "that thou mayest remember, and be confounded, and never open thy mouth any more, because of thy shame, when I have forgiven thee all that thou hast done, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-16-63",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 16
+}

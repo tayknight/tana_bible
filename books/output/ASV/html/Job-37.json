@@ -1,0 +1,269 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18037001,
+            "text": "\u00b6     Yea, at this my heart trembleth,\n    And is moved out of its place.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037002,
+            "text": "  Hear, oh, hear the noise of his voice,\n  And the <i>[a]</i>sound that goeth out of his mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>muttering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037003,
+            "text": " He sendeth it forth under the whole heaven,\n And his <i>[b]</i>lightning unto the <i>[c]</i>ends of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>light</i>."
+                },
+                {
+                    "c": "Hebrew <i>skirts</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037004,
+            "text": "  After it a voice roareth;\n  He thundereth with the voice of his majesty;\n  And he restraineth not <i>[d]</i> when his voice is heard.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-4",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>them</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037005,
+            "text": "    God thundereth marvellously with his voice;\n    Great things doeth he, which we cannot comprehend.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037006,
+            "text": "    For he saith to the snow, Fall thou on the earth;\n    Likewise to the shower of rain,\n    And to the showers of his mighty rain.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037007,
+            "text": "    He sealeth up the hand of every man,\n    That all men whom he hath made may know .\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037008,
+            "text": "    Then the beasts go into coverts,\n    And remain in their dens.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037009,
+            "text": "  Out of the chamber cometh the storm,\n  And cold out of the <i>[e]</i>north.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-9",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>scattering</i> winds."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037010,
+            "text": "  By the breath of God ice is given;\n  And the breadth of the waters is <i>[f]</i>straitened.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-10",
+            "footnotes": [
+                {
+                    "f": "Or, <i>congealed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037011,
+            "text": "  Yea, he ladeth the thick cloud with moisture;\n  He spreadeth abroad the cloud of his <i>[g]</i>lightning:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-11",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>light</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037012,
+            "text": "    And it is turned round about by his guidance,\n    That they may do whatsoever he commandeth them\n    Upon the face of the habitable world,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037013,
+            "text": "  Whether it be for correction, or for his <i>[h]</i>land,\n    Or for lovingkindness, that he cause it to come.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037014,
+            "text": "\u00b6     Hearken unto this, O Job:\n    Stand still, and consider the wondrous works of God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037015,
+            "text": "  Dost thou know how God layeth upon them,\n  And causeth the <i>[i]</i>lightning of his cloud to shine?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-15",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>light</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037016,
+            "text": "    Dost thou know the balancings of the clouds,\n    The wondrous works of him who is perfect in knowledge?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037017,
+            "text": "  <i>[j]</i>How thy garments are warm,\n   <i>[k]</i>When the earth is still by reason of the south ?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Thou whose garments are etc.</i>"
+                },
+                {
+                    "k": "Or, <i>When he quieteth the earth by the south</i> wind"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037018,
+            "text": "    Canst thou with him spread out the sky,\n    Which is strong as a molten mirror?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037019,
+            "text": "    Teach us what we shall say unto him;\n     we cannot set  in order by reason of darkness.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037020,
+            "text": "  Shall it be told him that I would speak?\n   <i>[l]</i>Or should a man wish that he were swallowed up?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-20",
+            "footnotes": [
+                {
+                    "l": "Or, <i>If a man speak, surely he shall be swallowed up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037021,
+            "text": "\u00b6   And now men <i>[m]</i>see not the light which is bright in the skies;\n    But the wind passeth, and cleareth them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-21",
+            "footnotes": [
+                {
+                    "m": "Or, <i>cannot look on the light when it is bright in the skies, When the wind hath passed, and cleared them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037022,
+            "text": "  Out of the north cometh <i>[n]</i>golden splendor:\n    God hath upon him terrible majesty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-22",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>gold</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037023,
+            "text": "   the Almighty, we cannot find him out:\n  He is excellent in power;\n  And <i>[o]</i>in justice and plenteous righteousness he will not afflict.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-23",
+            "footnotes": [
+                {
+                    "o": "Or, <i>to justice\u00a0.\u00a0.\u00a0. he doeth no violence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18037024,
+            "text": "    Men do therefore fear him:\n    He regardeth not any that are wise of heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-37-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 37
+}

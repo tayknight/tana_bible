@@ -1,0 +1,233 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 21,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 21,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 21003001,
+            "text": "\u00b6 For everything there is a season, and a time for every <i>[a]</i>purpose under heaven: ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>matter</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003002,
+            "text": "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003003,
+            "text": "a time to kill, and a time to heal; a time to break down, and a time to build up; ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003004,
+            "text": "a time to weep, and a time to laugh; a time to mourn, and a time to dance; ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003005,
+            "text": "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing; ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003006,
+            "text": "a time to seek, and a time to lose; a time to keep, and a time to cast away; ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003007,
+            "text": "a time to rend, and a time to sew; a time to keep silence, and a time to speak; ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003008,
+            "text": "a time to love, and a time to hate; a time for war, and a time for peace. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003009,
+            "text": "What profit hath he that worketh in that wherein he laboreth? ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003010,
+            "text": "I have seen the travail which God hath given to the sons of men to be exercised therewith. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003011,
+            "text": "He hath made everything beautiful in its time: also he hath set <i>[b]</i>eternity in their heart, yet so that man cannot find out the work that God hath done from the beginning even to the end. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-11",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the world</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003012,
+            "text": "I know that there is nothing better for them, than to rejoice, and <i>[c]</i>to do good so long as they live. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>to get good</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003013,
+            "text": "And also that every man should eat and drink, and enjoy good in all his labor, is the gift of God. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003014,
+            "text": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor anything taken from it; and God hath done it, that men should fear before him. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003015,
+            "text": " <i>[d]</i>That which is hath been long ago; and that which is to be hath long ago been: and God seeketh again that which is <i>[e]</i>passed away. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>That which hath been is now</i>"
+                },
+                {
+                    "e": "Hebrew <i>driven away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003016,
+            "text": "And moreover I saw under the sun, in the place of justice, that wickedness was there; and in the place of righteousness, that wickedness was there. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003017,
+            "text": "I said in my heart, God will judge the righteous and the wicked; for there is a time there for every <i>[f]</i>purpose and for every work. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>matter</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003018,
+            "text": " <i>[g]</i>I said in my heart,  because of the sons of men, that God may prove them, and that they may see that they themselves are  beasts. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-18",
+            "footnotes": [
+                {
+                    "g": "Or, <i>I said in my heart concerning the sons of men.</i> It is <i>that God etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003019,
+            "text": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one <i>[h]</i>breath; and man hath no preeminence above the beasts: for all is vanity. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-19",
+            "footnotes": [
+                {
+                    "h": "Or, <i>spirit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003020,
+            "text": "All go unto one place; all are of the dust, and all turn to dust again. ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003021,
+            "text": "Who knoweth the spirit <i>[i]</i>of man, <i>[j]</i>whether it goeth upward, and the spirit of the beast, whether it goeth downward to the earth? ",
+            "version": "ASV",
+            "clsstr": "Eccl-3-21",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>of the sons of men</i>."
+                },
+                {
+                    "j": "Or, <i>that goeth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21003022,
+            "text": "Wherefore I saw that there is nothing better, than that a man should rejoice in his works; for that is his portion: for who shall bring him  to see what shall be after him?",
+            "version": "ASV",
+            "clsstr": "Eccl-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ecclesiastes",
+    "chapters": 3
+}

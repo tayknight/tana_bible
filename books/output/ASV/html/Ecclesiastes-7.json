@@ -1,0 +1,302 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 21,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 21,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 21007001,
+            "text": "\u00b6 A  name is better than precious oil; and the day of death, than the day of one\u2019s birth. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007002,
+            "text": "It is better to go to the house of mourning than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007003,
+            "text": "Sorrow is better than laughter; for by the sadness of the countenance the heart is made <i>[a]</i>glad. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>better</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007004,
+            "text": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007005,
+            "text": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007006,
+            "text": "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007007,
+            "text": " <i>[b]</i>Surely extortion maketh the wise man foolish; and a bribe destroyeth the understanding. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>For</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007008,
+            "text": "Better is the end of a thing than the beginning thereof;  the patient in spirit is better than the proud in spirit. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007009,
+            "text": "Be not hasty in thy spirit to be <i>[c]</i>angry; for <i>[d]</i>anger resteth in the bosom of fools. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>vexed</i>"
+                },
+                {
+                    "d": "Or, <i>vexation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007010,
+            "text": "Say not thou, What is the cause that the former days were better than these? for thou dost not inquire <i>[e]</i>wisely concerning this. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-10",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>out of wisdom</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007011,
+            "text": "Wisdom <i>[f]</i>is as good as an inheritance; yea, more excellent is it for them that see the sun. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>is good together with an inheritance, and profitable unto them etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007012,
+            "text": "For wisdom is a defence, even as money is a defence; but the excellency of knowledge is, that wisdom preserveth the life of him that hath it. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007013,
+            "text": "Consider the work of God: for who can make that straight, which he hath made crooked? ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007014,
+            "text": "In the day of prosperity be joyful, and in the day of adversity consider; yea, God hath made the one side by side with the other, to the end that man should not find out anything  after him. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007015,
+            "text": "All this have I seen in my days of vanity: there is a righteous man that perisheth in his righteousness, and there is a wicked man that prolongeth  in his evil-doing. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007016,
+            "text": "Be not righteous overmuch; neither make thyself overwise: why shouldest thou destroy thyself? ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007017,
+            "text": "Be not overmuch wicked, neither be thou foolish: why shouldest thou die before thy time? ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007018,
+            "text": "It is good that thou shouldest take hold of this; yea, also from that withdraw not thy hand: for he that feareth God shall come forth from them all. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007019,
+            "text": "Wisdom is a strength to the wise man more than ten rulers that are in a city. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007020,
+            "text": " <i>[g]</i>Surely there is not a righteous man upon earth, that doeth good, and sinneth not. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-20",
+            "footnotes": [
+                {
+                    "g": "Or, <i>For</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007021,
+            "text": "Also <i>[h]</i>take not heed unto all words that are spoken, lest thou hear thy servant curse thee; ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-21",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>give not thy heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007022,
+            "text": "for oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007023,
+            "text": "All this have I <i>[i]</i>proved in wisdom: I said, I will be wise; but it was far from me. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-23",
+            "footnotes": [
+                {
+                    "i": "Or, <i>tried by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007024,
+            "text": "That which <i>[j]</i>is, is far off and exceeding deep; who can find it out? ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-24",
+            "footnotes": [
+                {
+                    "j": "Or, <i>hath been</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007025,
+            "text": "I turned about, and my heart to know and to search out, and to seek wisdom and the reason , and to know <i>[k]</i>that wickedness is folly, and that foolishness is madness. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-25",
+            "footnotes": [
+                {
+                    "k": "Or, <i>the wickedness of folly, and foolishness</i> which is <i>madness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007026,
+            "text": "And I find more bitter than death the woman <i>[l]</i>whose heart is snares and nets,  whose hands are bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-26",
+            "footnotes": [
+                {
+                    "l": "Or, <i>who is a snare, and her heart is</i> as <i>nets</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007027,
+            "text": "Behold, this have I found, saith the Preacher, <i>[m]</i> one thing to another, to find out the account; ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-27",
+            "footnotes": [
+                {
+                    "m": "Or, weighing <i>one thing after another, to find out the reason</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007028,
+            "text": "which my soul still seeketh, but I have not found: one man among a thousand have I found; but a woman among all those have I not found. ",
+            "version": "ASV",
+            "clsstr": "Eccl-7-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21007029,
+            "text": "Behold, this only have I found: that God made man upright; but they have sought out many inventions.",
+            "version": "ASV",
+            "clsstr": "Eccl-7-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ecclesiastes",
+    "chapters": 7
+}

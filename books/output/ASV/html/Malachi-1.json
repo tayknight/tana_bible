@@ -1,0 +1,176 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 39,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 39,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 39001001,
+            "text": "\u00b6 The <i>[a]</i>burden of the word of Jehovah to Israel by <i>[b]</i>Malachi.",
+            "version": "ASV",
+            "clsstr": "Mal-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle</i>"
+                },
+                {
+                    "b": "Or, <i>my messenger</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001002,
+            "text": "\u00b6 I have loved you, saith Jehovah. Yet ye say, Wherein hast thou loved us? <i>[c]</i>Was not Esau Jacob\u2019s brother? saith Jehovah: yet I loved Jacob; ",
+            "version": "ASV",
+            "clsstr": "Mal-1-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Is not Esau\u00a0.\u00a0.\u00a0. yet I have loved etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001003,
+            "text": "but Esau I hated, and made his mountains a desolation, and  his heritage to the jackals of the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001004,
+            "text": " <i>[d]</i>Whereas Edom saith, We are <i>[e]</i>beaten down, but we will return and build the waste places; thus saith Jehovah of hosts, They shall build, but I will throw down; and men shall call them The border of wickedness, and The people against whom Jehovah hath indignation for ever. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Though Edom say</i>"
+                },
+                {
+                    "e": "Or, as otherwise read, <i>impoverished</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001005,
+            "text": "And your eyes shall see, and ye shall say, Jehovah <i>[f]</i>be magnified <i>[g]</i>beyond the border of Israel.",
+            "version": "ASV",
+            "clsstr": "Mal-1-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>is great</i>"
+                },
+                {
+                    "g": "Or, <i>over</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001006,
+            "text": "\u00b6 A son honoreth his father, and a servant his master: if then I am a father, where is mine honor? and if I am a master, where is my fear? saith Jehovah of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name? ",
+            "version": "ASV",
+            "clsstr": "Mal-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001007,
+            "text": "Ye offer polluted bread upon mine altar. And ye say, Wherein have we polluted thee? In that ye say, The table of Jehovah is contemptible. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001008,
+            "text": "And when ye offer the blind for sacrifice, it is no evil! and when ye offer the lame and sick, it is no evil! Present it now unto thy governor; will he be pleased with thee? or will he accept thy person? saith Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001009,
+            "text": "And now, I pray you, entreat the favor of God, that he may be gracious unto us: this hath been <i>[h]</i>by your means: will he <i>[i]</i>accept any of your persons? saith Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-9",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>from your hand</i>."
+                },
+                {
+                    "i": "Or, <i>accept any because of you</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001010,
+            "text": "Oh that there were one among you that would shut the doors, that ye might not kindle  mine altar in vain! I have no pleasure in you, saith Jehovah of hosts, neither will I accept an offering at your hand. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001011,
+            "text": "For from the rising of the sun even unto the going down of the same my name <i>[j]</i> great among the Gentiles; and in every place <i>[k]</i>incense <i>[l]</i> offered unto my name, and a pure offering: for my name <i>[m]</i> great among the Gentiles, saith Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-11",
+            "footnotes": [
+                {
+                    "j": "Or, <i>is</i>"
+                },
+                {
+                    "k": "Or, <i>incense and a pure oblation are offered</i>"
+                },
+                {
+                    "l": "Or, <i>is</i>"
+                },
+                {
+                    "m": "Or, <i>is</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001012,
+            "text": "But ye profane it, in that ye say, The table of Jehovah is polluted, and the fruit thereof, even its food, is contemptible. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001013,
+            "text": "Ye say also, Behold, what a weariness is it! and ye have snuffed at it, saith Jehovah of hosts; and ye have brought that which was taken by violence, and the lame, and the sick; thus ye bring the offering: should I accept this at your hand? saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Mal-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 39001014,
+            "text": "But cursed be the deceiver, who hath in his flock a male, and voweth, and sacrificeth unto the Lord a blemished thing; for I am a great King, saith Jehovah of hosts, and my name is terrible among the Gentiles.",
+            "version": "ASV",
+            "clsstr": "Mal-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Malachi",
+    "chapters": 1
+}

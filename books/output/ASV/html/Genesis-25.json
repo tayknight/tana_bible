@@ -1,0 +1,326 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1025001,
+            "text": "\u00b6 And Abraham took another wife, and her name was Keturah. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025002,
+            "text": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025003,
+            "text": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025004,
+            "text": "And the sons of Midian: Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the children of Keturah. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025005,
+            "text": "And Abraham gave all that he had unto Isaac. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025006,
+            "text": "But unto the sons of the concubines, that Abraham had, Abraham gave gifts; and he sent them away from Isaac his son, while he yet lived, eastward, unto the east country. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025007,
+            "text": "And these are the days of the years of Abraham\u2019s life which he lived, a hundred threescore and fifteen years. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025008,
+            "text": "And Abraham gave up the ghost, and died in a good old age, an old man, and full , and was gathered to his people. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025009,
+            "text": "And Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre; ",
+            "version": "ASV",
+            "clsstr": "Gen-25-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025010,
+            "text": "the field which Abraham purchased of the children of Heth: there was Abraham buried, and Sarah his wife. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025011,
+            "text": "And it came to pass after the death of Abraham, that God blessed Isaac his son: and Isaac dwelt by Beer-lahai-roi.",
+            "version": "ASV",
+            "clsstr": "Gen-25-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025012,
+            "text": "\u00b6 Now these are the generations of Ishmael, Abraham\u2019s son, whom Hagar the Egyptian, Sarah\u2019s handmaid, bare unto Abraham: ",
+            "version": "ASV",
+            "clsstr": "Gen-25-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025013,
+            "text": "and these are the names of the sons of Ishmael, by their names, according to their generations: the first-born of Ishmael, Nebaioth; and Kedar, and Adbeel, and Mibsam, ",
+            "version": "ASV",
+            "clsstr": "Gen-25-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025014,
+            "text": "and Mishma, and Dumah, and Massa, ",
+            "version": "ASV",
+            "clsstr": "Gen-25-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025015,
+            "text": "Hadad, and Tema, Jetur, Naphish, and Kedemah: ",
+            "version": "ASV",
+            "clsstr": "Gen-25-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025016,
+            "text": "these are the sons of Ishmael, and these are their names, by their villages, and by their encampments; twelve princes according to their nations. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025017,
+            "text": "And these are the years of the life of Ishmael, a hundred and thirty and seven years: and he gave up the ghost and died, and was gathered unto his people. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025018,
+            "text": "And they dwelt from Havilah unto Shur that is before Egypt, as thou goest toward Assyria: he <i>[a]</i>abode over against all his brethren.",
+            "version": "ASV",
+            "clsstr": "Gen-25-18",
+            "footnotes": [
+                {
+                    "a": "Or, <i>settled</i>. Hebrew <i>fell</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025019,
+            "text": "\u00b6 And these are the generations of Isaac, Abraham\u2019s son: Abraham begat Isaac: ",
+            "version": "ASV",
+            "clsstr": "Gen-25-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025020,
+            "text": "and Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Syrian of Paddan-aram, the sister of Laban the <i>[b]</i>Syrian, to be his wife. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-20",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Aramean</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025021,
+            "text": "And Isaac entreated Jehovah for his wife, because she was barren: and Jehovah was entreated of him, and Rebekah his wife conceived. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025022,
+            "text": "And the children struggled together within her; and she said, If it be so, <i>[c]</i>wherefore do I live? And she went to inquire of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-22",
+            "footnotes": [
+                {
+                    "c": "Or, <i>wherefore am I thus?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025023,
+            "text": "And Jehovah said unto her,\u00b6     Two nations are in thy womb,\n    And two peoples shall be separated from thy bowels:\n    And the one people shall be stronger than the other people;\n    And the elder shall serve the younger.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-25-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025024,
+            "text": "\u00b6 And when her days to be delivered were fulfilled, behold, there were twins in her womb. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025025,
+            "text": "And the first came forth <i>[d]</i>red, all over like a hairy garment; and they called his name Esau. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-25",
+            "footnotes": [
+                {
+                    "d": "Or, <i>ruddy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025026,
+            "text": "And after that came forth his brother, and his hand had hold on Esau\u2019s heel; and his name was called <i>[e]</i>Jacob: and Isaac was threescore years old when she bare them.",
+            "version": "ASV",
+            "clsstr": "Gen-25-26",
+            "footnotes": [
+                {
+                    "e": "That is, <i>One that takes by the heel</i> or <i>supplants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025027,
+            "text": "\u00b6 And the boys grew: and Esau was a skilful hunter, a man of the field; and Jacob was a <i>[f]</i>quiet man, dwelling in tents. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-27",
+            "footnotes": [
+                {
+                    "f": "Or, <i>harmless</i>. Hebrew <i>perfect</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025028,
+            "text": "Now Isaac loved Esau, because he did eat of his venison: and Rebekah loved Jacob. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025029,
+            "text": "And Jacob boiled pottage: and Esau came in from the field, and he was faint: ",
+            "version": "ASV",
+            "clsstr": "Gen-25-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025030,
+            "text": "and Esau said to Jacob, Feed me, I pray thee, with <i>[g]</i>that same red ; for I am faint: therefore was his name called <i>[h]</i>Edom. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-30",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>the red</i> pottage, <i>this red</i> pottage."
+                },
+                {
+                    "h": "That is, <i>Red</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025031,
+            "text": "And Jacob said, Sell me <i>[i]</i>first thy birthright. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-31",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>to-day</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025032,
+            "text": "And Esau said, Behold, I am about to die: and what profit shall the birthright do to me? ",
+            "version": "ASV",
+            "clsstr": "Gen-25-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025033,
+            "text": "And Jacob said, Swear to me first; and he sware unto him: and he sold his birthright unto Jacob. ",
+            "version": "ASV",
+            "clsstr": "Gen-25-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1025034,
+            "text": "And Jacob gave Esau bread and pottage of lentils; and he did eat and drink, and rose up, and went his way: so Esau despised his birthright.",
+            "version": "ASV",
+            "clsstr": "Gen-25-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 25
+}

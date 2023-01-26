@@ -1,0 +1,481 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13011001,
+            "text": "\u00b6 Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011002,
+            "text": "In times past, even when Saul was king, it was thou that leddest out and broughtest in Israel: and Jehovah thy God said unto thee, Thou shalt be shepherd of my people Israel, and thou shalt be <i>[a]</i>prince over my people Israel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>leader</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011003,
+            "text": "So all the elders of Israel came to the king to Hebron; and David made a covenant with them in Hebron before Jehovah; and they anointed David king over Israel, according to the word of Jehovah by Samuel.",
+            "version": "ASV",
+            "clsstr": "1Chr-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011004,
+            "text": "\u00b6 And David and all Israel went to Jerusalem (the same is Jebus); and the Jebusites, the inhabitants of the land, were there. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011005,
+            "text": "And the inhabitants of Jebus said to David, Thou shalt not come in hither. Nevertheless David took the stronghold of Zion; the same is the city of David. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011006,
+            "text": "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. And Joab the son of Zeruiah went up first, and was made chief. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011007,
+            "text": "And David dwelt in the stronghold; therefore they called it the city of David. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011008,
+            "text": "And he built the city round about, from Millo even round about; and Joab <i>[b]</i>repaired the rest of the city. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-8",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>revived</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011009,
+            "text": "And David waxed greater and greater; for Jehovah of hosts was with him.",
+            "version": "ASV",
+            "clsstr": "1Chr-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011010,
+            "text": "\u00b6 Now these are the chief of the mighty men whom David had, who <i>[c]</i>showed themselves strong with him in his kingdom, together with all Israel, to make him king, according to the word of Jehovah concerning Israel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>held strongly with him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011011,
+            "text": "And this is the number of the mighty men whom David had: Jashobeam, the son of a Hachmonite, the chief of the <i>[d]</i>thirty; he lifted up his spear against three hundred <i>[e]</i>and slew them at one time. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-11",
+            "footnotes": [
+                {
+                    "d": "Another reading is, <i>captains</i>."
+                },
+                {
+                    "e": "Hebrew <i>slain</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011012,
+            "text": "And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighty men. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011013,
+            "text": "He was with David at <i>[f]</i>Pasdammim, and there the Philistines were gathered together to battle, where was a plot of ground full of barley; and the people fled from before the Philistines. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-13",
+            "footnotes": [
+                {
+                    "f": "In [[1 Sam. 17:1]], <i>Ephes-dammim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011014,
+            "text": "And they stood in the midst of the plot, and defended it, and slew the Philistines; and Jehovah saved them by a great <i>[g]</i>victory.",
+            "version": "ASV",
+            "clsstr": "1Chr-11-14",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011015,
+            "text": "\u00b6 And three of the thirty chief men went down to the rock to David, into the cave of Adullam; and the host of the Philistines were encamped in the valley of Rephaim. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011016,
+            "text": "And David was then in the stronghold, and the garrison of the Philistines was then in Beth-lehem. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011017,
+            "text": "And David longed, and said, Oh that one would give me water to drink of the well of Beth-lehem, which is by the gate! ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011018,
+            "text": "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink thereof, but poured it out unto Jehovah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011019,
+            "text": "and said, My God forbid it me, that I should do this: shall I drink the blood of these men <i>[h]</i>that have put their lives in jeopardy? for with  their lives they brought it. Therefore he would not drink it. These things did the three mighty men.",
+            "version": "ASV",
+            "clsstr": "1Chr-11-19",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>with their lives</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011020,
+            "text": "\u00b6 And <i>[i]</i>Abishai, the brother of Joab, he was chief of the three; for he lifted up his spear against three hundred <i>[j]</i>and slew them, and had a name among the three. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-20",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>Abshai</i>."
+                },
+                {
+                    "j": "Hebrew <i>slain</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011021,
+            "text": " <i>[k]</i>Of the three, he was more honorable than the two, and was made their captain: howbeit he attained not to the  three.",
+            "version": "ASV",
+            "clsstr": "1Chr-11-21",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Of the three in the second rank he was the most honorable</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011022,
+            "text": "\u00b6 Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done mighty deeds, he slew the two  Ariel of Moab: he went down also and slew a lion in the midst of a pit in time of snow. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011023,
+            "text": "And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian\u2019s hand was a spear like a weaver\u2019s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian\u2019s hand, and slew him with his own spear. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011024,
+            "text": "These things did Benaiah the son of Jehoiada, and had a name among the three mighty men. ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011025,
+            "text": "Behold, he was more honorable than the thirty, but he attained not to the three: and David set him over his <i>[l]</i>guard.",
+            "version": "ASV",
+            "clsstr": "1Chr-11-25",
+            "footnotes": [
+                {
+                    "l": "Or, <i>council</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011026,
+            "text": "\u00b6 Also the mighty men of the armies: Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011027,
+            "text": " <i>[m]</i>Shammoth the Harorite, Helez the <i>[n]</i>Pelonite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-27",
+            "footnotes": [
+                {
+                    "m": "In [[2 Sam. 23:25]], <i>Shammath the Harodite</i>."
+                },
+                {
+                    "n": "In [[2 Sam. 23:26]], <i>Paltite</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011028,
+            "text": "Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011029,
+            "text": " <i>[o]</i>Sibbecai the Hushathite, <i>[p]</i>Ilai the Ahohite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-29",
+            "footnotes": [
+                {
+                    "o": "In [[2 Sam. 23:27]], <i>Mebunnai</i>."
+                },
+                {
+                    "p": "In [[2 Sam. 23:28]], <i>Zalmon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011030,
+            "text": "Maharai the Netophathite, <i>[q]</i>Heled the son of Baanah the Netophathite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-30",
+            "footnotes": [
+                {
+                    "q": "In [[2 Sam. 23:29]], <i>Heleb</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011031,
+            "text": "Ithai the son of Ribai of Gibeah of the children of Benjamin, Benaiah the Pirathonite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011032,
+            "text": " <i>[r]</i>Hurai of the brooks of Gaash, <i>[s]</i>Abiel the Arbathite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-32",
+            "footnotes": [
+                {
+                    "r": "In [[2 Sam. 23:30]], <i>Hiddai</i>."
+                },
+                {
+                    "s": "In [[2 Sam. 23:31]], <i>Abi-albon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011033,
+            "text": "Azmaveth the Baharumite, Eliahba the Shaalbonite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011034,
+            "text": "the sons of <i>[t]</i>Hashem the Gizonite, Jonathan the son of Shagee the Hararite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-34",
+            "footnotes": [
+                {
+                    "t": "In [[2 Sam. 23:32]], <i>Jashen</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011035,
+            "text": "Ahiam the son of <i>[u]</i>Sacar the Hararite, <i>[v]</i>Eliphal the son of Ur, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-35",
+            "footnotes": [
+                {
+                    "u": "In [[2 Sam. 23:33]], <i>Sharar</i>."
+                },
+                {
+                    "v": "In [[2 Sam. 23:34]], <i>Eliphelet the son of Ahasbai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011036,
+            "text": "Hepher the Mecherathite, Ahijah the Pelonite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011037,
+            "text": "Hezro the Carmelite, <i>[w]</i>Naarai the son of Ezbai, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-37",
+            "footnotes": [
+                {
+                    "w": "In [[2 Sam. 23:35]], <i>Paarai the Arbite</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011038,
+            "text": "Joel the brother of Nathan, Mibhar the son of Hagri, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011039,
+            "text": "Zelek the Ammonite, Naharai the Berothite, the armorbearer of Joab the son of Zeruiah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011040,
+            "text": "Ira the Ithrite, Gareb the Ithrite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011041,
+            "text": "Uriah the Hittite, Zabad the son of Ahlai, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011042,
+            "text": "Adina the son of Shiza the Reubenite, a chief of the Reubenites, and thirty with him, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011043,
+            "text": "Hanan the son of Maacah, and Joshaphat the Mithnite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011044,
+            "text": "Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011045,
+            "text": "Jediael the son of Shimri, and Joha his brother, the Tizite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011046,
+            "text": "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-11-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13011047,
+            "text": "Eliel, and Obed, and Jaasiel the Mezobaite.",
+            "version": "ASV",
+            "clsstr": "1Chr-11-47",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 11
+}

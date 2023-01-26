@@ -1,0 +1,149 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 22,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 8,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 22,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 22007001,
+            "text": "\u00b6   How beautiful are thy <i>[a]</i>feet in sandals, O prince\u2019s daughter!\n    Thy rounded thighs are like jewels,\n    The work of the hands of a skilful workman.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>steps</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007002,
+            "text": "    Thy body is  a round goblet,\n     no mingled wine is wanting:\n    Thy waist is  a heap of wheat\n    Set about with lilies.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007003,
+            "text": "    Thy two breasts are like two fawns\n    That are twins of a roe.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007004,
+            "text": "    Thy neck is like the tower of ivory;\n    Thine eyes  the pools in Heshbon,\n    By the gate of Bath-rabbim;\n    Thy nose is like the tower of Lebanon\n    Which looketh toward Damascus.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007005,
+            "text": "    Thy head upon thee is like Carmel,\n    And the hair of thy head like purple;\n    The king is held captive in the tresses .\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007006,
+            "text": "    How fair and how pleasant art thou,\n    O love, for delights!\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007007,
+            "text": "    This thy stature is like to a palm-tree,\n    And thy breasts to its clusters.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007008,
+            "text": "  I said, I will climb up into the palm-tree,\n  I will take hold of the branches thereof:\n  Let thy breasts be as clusters of the vine,\n  And the smell of thy <i>[b]</i>breath like apples,\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-8",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>nose</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007009,
+            "text": " And thy <i>[c]</i>mouth like the best wine,\n That goeth down <i>[d]</i>smoothly for my beloved,\n   <i>[e]</i>Gliding through the lips of those that are asleep.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-9",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>palate</i>."
+                },
+                {
+                    "d": "Hebrew <i>aright</i>."
+                },
+                {
+                    "e": "Or, <i>Causing the lips of those that are asleep to move</i> (or, <i>speak</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007010,
+            "text": "\u00b6     I am my beloved\u2019s;\n    And his desire is toward me.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007011,
+            "text": "    Come, my beloved, let us go forth into the field;\n    Let us lodge in the villages.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007012,
+            "text": "  Let us get up early to the vineyards;\n  Let us see whether the vine hath budded,\n   <i>[f]</i>its blossom is open,\n     the pomegranates are in flower:\n    There will I give thee my love.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the tender grape appeareth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22007013,
+            "text": "  The mandrakes give forth fragrance;\n  And <i>[g]</i>at our doors are all manner of precious fruits, new and old,\n    Which I have laid up for thee, O my beloved.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-7-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>over</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Song of Solomon",
+    "chapters": 7
+}

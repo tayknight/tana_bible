@@ -1,0 +1,327 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3019001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019002,
+            "text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy; for I Jehovah your God am holy. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019003,
+            "text": "Ye shall fear every man his mother, and his father; and ye shall keep my sabbaths: I am Jehovah your God. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019004,
+            "text": "Turn ye not unto <i>[a]</i>idols, nor make to yourselves molten gods: I am Jehovah your God.",
+            "version": "ASV",
+            "clsstr": "Lev-19-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>things of nought</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019005,
+            "text": "\u00b6 And when ye offer a sacrifice of peace-offerings unto Jehovah, ye shall offer it that ye may be accepted. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019006,
+            "text": "It shall be eaten the same day ye offer it, and on the morrow: and if aught remain until the third day, it shall be burnt with fire. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019007,
+            "text": "And if it be eaten at all on the third day, it is an abomination; it shall not be accepted: ",
+            "version": "ASV",
+            "clsstr": "Lev-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019008,
+            "text": "but every one that eateth it shall bear his iniquity, because he hath profaned the holy thing of Jehovah: and that soul shall be cut off from his people.",
+            "version": "ASV",
+            "clsstr": "Lev-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019009,
+            "text": "\u00b6 And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleaning of thy harvest. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019010,
+            "text": "And thou shalt not glean thy vineyard, neither shalt thou gather the fallen fruit of thy vineyard; thou shalt leave them for the poor and for the sojourner: I am Jehovah your God.",
+            "version": "ASV",
+            "clsstr": "Lev-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019011,
+            "text": "\u00b6 Ye shall not steal; neither shall ye deal falsely, nor lie one to another. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019012,
+            "text": "And ye shall not swear by my name falsely, and profane the name of thy God: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019013,
+            "text": "\u00b6 Thou shalt not oppress thy neighbor, nor rob him: the wages of a hired servant shall not abide with thee all night until the morning. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019014,
+            "text": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind; but thou shalt fear thy God: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019015,
+            "text": "\u00b6 Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty; but in righteousness shalt thou judge thy neighbor. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019016,
+            "text": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbor: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019017,
+            "text": "\u00b6 Thou shalt not hate thy brother in thy heart: thou shalt surely rebuke thy neighbor, and not bear sin because of him. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019018,
+            "text": "Thou shalt not take vengeance, nor bear any grudge against the children of thy people; but thou shalt love thy neighbor as thyself: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019019,
+            "text": "\u00b6 Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with two kinds of seed: neither shall there come upon thee a garment of two kinds of stuff mingled together. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019020,
+            "text": "And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to a husband, and not at all redeemed, nor freedom given her; <i>[b]</i>they shall be punished; they shall not be put to death, because she was not free. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-20",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>there shall be inquisition</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019021,
+            "text": "And he shall bring his trespass-offering unto Jehovah, unto the door of the tent of meeting, even a ram for a trespass-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019022,
+            "text": "And the priest shall make atonement for him with the ram of the trespass-offering before Jehovah for his sin which he hath sinned: and the sin which he hath sinned shall be forgiven him.",
+            "version": "ASV",
+            "clsstr": "Lev-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019023,
+            "text": "\u00b6 And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as their uncircumcision: three years shall they be as uncircumcised unto you; it shall not be eaten. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019024,
+            "text": "But in the fourth year all the fruit thereof shall be holy, for giving praise unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019025,
+            "text": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am Jehovah your God.",
+            "version": "ASV",
+            "clsstr": "Lev-19-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019026,
+            "text": "\u00b6 Ye shall not eat anything with the blood: neither shall ye use enchantments, nor practise augury. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019027,
+            "text": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019028,
+            "text": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019029,
+            "text": "\u00b6 Profane not thy daughter, to make her a harlot; lest the land fall to whoredom, and the land become full of <i>[c]</i>wickedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-29",
+            "footnotes": [
+                {
+                    "c": "Or, <i>enormity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019030,
+            "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019031,
+            "text": "\u00b6 Turn ye not unto them that have familiar spirits, nor unto the wizards; seek them not out, to be defiled by them: I am Jehovah your God.",
+            "version": "ASV",
+            "clsstr": "Lev-19-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019032,
+            "text": "\u00b6 Thou shalt rise up before the hoary head, and honor the face of the old man, and thou shalt fear thy God: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019033,
+            "text": "\u00b6 And if a stranger sojourn with thee in your land, ye shall not do him wrong. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019034,
+            "text": "The stranger that sojourneth with you shall be unto you as the home-born among you, and thou shalt love him as thyself; for ye were sojourners in the land of Egypt: I am Jehovah your God.",
+            "version": "ASV",
+            "clsstr": "Lev-19-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019035,
+            "text": "\u00b6 Ye shall do no unrighteousness in judgment, in measures of length, of weight, or of quantity. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019036,
+            "text": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am Jehovah your God, who brought you out of the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Lev-19-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3019037,
+            "text": "And ye shall observe all my statutes, and all mine ordinances, and do them: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-19-37",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 19
+}

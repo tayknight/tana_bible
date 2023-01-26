@@ -1,0 +1,421 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40010001,
+            "text": "\u00b6 And he called unto him his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal all manner of disease and all manner of sickness.",
+            "version": "ASV",
+            "clsstr": "Matt-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010002,
+            "text": "\u00b6 Now the names of the twelve apostles are these: The first, Simon, who is called Peter, and Andrew his brother; <i>[a]</i>James the  of Zebedee, and John his brother; ",
+            "version": "ASV",
+            "clsstr": "Matt-10-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010003,
+            "text": "Philip, and Bartholomew; Thomas, and Matthew the <i>[b]</i>publican; <i>[c]</i>James the  of Alphaeus, and Thaddaeus; ",
+            "version": "ASV",
+            "clsstr": "Matt-10-3",
+            "footnotes": [
+                {
+                    "b": "See marginal note on [[5:46]]."
+                },
+                {
+                    "c": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010004,
+            "text": "Simon the <i>[d]</i>Cananaean, and Judas Iscariot, who also <i>[e]</i>betrayed him.",
+            "version": "ASV",
+            "clsstr": "Matt-10-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Zealot</i>. See [[Lk. 6:15]]; [[Acts 1:13]]."
+                },
+                {
+                    "e": "Or, <i>delivered him up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010005,
+            "text": "\u00b6 These twelve Jesus sent forth, and charged them, saying, Go not into  way of the Gentiles, and enter not into any city of the Samaritans: ",
+            "version": "ASV",
+            "clsstr": "Matt-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010006,
+            "text": "but go rather to the lost sheep of the house of Israel. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010007,
+            "text": "And as ye go, preach, saying, The kingdom of heaven is at hand. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010008,
+            "text": "Heal the sick, raise the dead, cleanse the lepers, cast out demons: freely ye received, freely give. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010009,
+            "text": "Get you no gold, nor silver, nor brass in your <i>[f]</i>purses; ",
+            "version": "ASV",
+            "clsstr": "Matt-10-9",
+            "footnotes": [
+                {
+                    "f": "Greek <i>girdles</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010010,
+            "text": "no wallet for  journey, neither two coats, nor shoes, nor staff: for the laborer is worthy of his food. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010011,
+            "text": "And into whatsoever city or village ye shall enter, search out who in it is worthy; and there abide till ye go forth. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010012,
+            "text": "And as ye enter into the house, salute it. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010013,
+            "text": "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010014,
+            "text": "And whosoever shall not receive you, nor hear your words, as ye go forth out of that house or that city, shake off the dust of your feet. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010015,
+            "text": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrah in the day of judgment, than for that city.",
+            "version": "ASV",
+            "clsstr": "Matt-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010016,
+            "text": "\u00b6 Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and <i>[g]</i>harmless as doves. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>simple</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010017,
+            "text": "But beware of men: for they will deliver you up to councils, and in their synagogues they will scourge you; ",
+            "version": "ASV",
+            "clsstr": "Matt-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010018,
+            "text": "yea and before governors and kings shall ye be brought for my sake, for a testimony to them and to the Gentiles. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010019,
+            "text": "But when they deliver you up, be not anxious how or what ye shall speak: for it shall be given you in that hour what ye shall speak. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010020,
+            "text": "For it is not ye that speak, but the Spirit of your Father that speaketh in you. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010021,
+            "text": "And brother shall deliver up brother to death, and the father his child: and children shall rise up against parents, and <i>[h]</i>cause them to be put to death. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-21",
+            "footnotes": [
+                {
+                    "h": "Or, <i>put them to death</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010022,
+            "text": "And ye shall be hated of all men for my name\u2019s sake: but he that endureth to the end, the same shall be saved. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010023,
+            "text": "But when they persecute you in this city, flee into the next: for verily I say unto you, Ye shall not have gone through the cities of Israel, till the Son of man be come.",
+            "version": "ASV",
+            "clsstr": "Matt-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010024,
+            "text": "\u00b6 A disciple is not above his teacher, nor a <i>[i]</i>servant above his lord. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-24",
+            "footnotes": [
+                {
+                    "i": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010025,
+            "text": "It is enough for the disciple that he be as his teacher, and the <i>[j]</i>servant as his lord. If they have called the master of the house <i>[k]</i>Beelzebub, how much more them of his household! ",
+            "version": "ASV",
+            "clsstr": "Matt-10-25",
+            "footnotes": [
+                {
+                    "j": "Greek <i>bondservant</i>."
+                },
+                {
+                    "k": "Greek <i>Beelzebul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010026,
+            "text": "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010027,
+            "text": "What I tell you in the darkness, speak ye in the light; and what ye hear in the ear, proclaim upon the house-tops. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010028,
+            "text": "And be not afraid of them that kill the body, but are not able to kill the soul: but rather fear him who is able to destroy both soul and body in <i>[l]</i>hell. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-28",
+            "footnotes": [
+                {
+                    "l": "Greek <i>Gehenna</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010029,
+            "text": "Are not two sparrows sold for a penny? and not one of them shall fall on the ground without your Father: ",
+            "version": "ASV",
+            "clsstr": "Matt-10-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010030,
+            "text": "but the very hairs of your head are all numbered. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010031,
+            "text": "Fear not therefore: ye are of more value than many sparrows. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010032,
+            "text": "Every one therefore who shall confess <i>[m]</i>me before men, <i>[n]</i>him will I also confess before my Father who is in heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-32",
+            "footnotes": [
+                {
+                    "m": "Greek <i>in me</i>."
+                },
+                {
+                    "n": "Greek <i>in him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010033,
+            "text": "But whosoever shall deny me before men, him will I also deny before my Father who is in heaven.",
+            "version": "ASV",
+            "clsstr": "Matt-10-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010034,
+            "text": "\u00b6 Think not that I came to <i>[o]</i>send peace on the earth: I came not to <i>[p]</i>send peace, but a sword. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-34",
+            "footnotes": [
+                {
+                    "o": "Greek <i>cast</i>."
+                },
+                {
+                    "p": "Greek <i>cast</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010035,
+            "text": "For I came to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law: ",
+            "version": "ASV",
+            "clsstr": "Matt-10-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010036,
+            "text": "and a man\u2019s foes  they of his own household. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010037,
+            "text": "He that loveth father or mother more than me is not worthy of me; and he that loveth son or daughter more than me is not worthy of me. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010038,
+            "text": "And he that doth not take his cross and follow after me, is not worthy of me. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010039,
+            "text": "He that <i>[q]</i>findeth his life shall lose it; and he that <i>[r]</i>loseth his life for my sake shall find it.",
+            "version": "ASV",
+            "clsstr": "Matt-10-39",
+            "footnotes": [
+                {
+                    "q": "Or, <i>found</i>"
+                },
+                {
+                    "r": "Or, <i>lost</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010040,
+            "text": "\u00b6 He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010041,
+            "text": "He that receiveth a prophet in the name of a prophet shall receive a prophet\u2019s reward: and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man\u2019s reward. ",
+            "version": "ASV",
+            "clsstr": "Matt-10-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40010042,
+            "text": "And whosoever shall give to drink unto one of these little ones a cup of cold water only, in the name of a disciple, verily I say unto you he shall in no wise lose his reward.",
+            "version": "ASV",
+            "clsstr": "Matt-10-42",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 10
+}

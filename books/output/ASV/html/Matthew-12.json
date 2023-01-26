@@ -1,0 +1,522 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40012001,
+            "text": "\u00b6 At that season Jesus went on the sabbath day through the grainfields; and his disciples were hungry and began to pluck ears and to eat. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012002,
+            "text": "But the Pharisees, when they saw it, said unto him, Behold, thy disciples do that which it is not lawful to do upon the sabbath. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012003,
+            "text": "But he said unto them, <i>[a]</i>Have ye not read what David did, when he was hungry, and they that were with him; ",
+            "version": "ASV",
+            "clsstr": "Matt-12-3",
+            "footnotes": [
+                {
+                    "a": "[[1 Sam. 21:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012004,
+            "text": "how he entered into the house of God, and <i>[b]</i>ate the showbread, which it was not lawful for him to eat, neither for them that were with him, but only for the priests? ",
+            "version": "ASV",
+            "clsstr": "Matt-12-4",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities read <i>they ate</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012005,
+            "text": "Or have ye not read in the law, <i>[c]</i>that on the sabbath day the priests in the temple profane the sabbath, and are guiltless? ",
+            "version": "ASV",
+            "clsstr": "Matt-12-5",
+            "footnotes": [
+                {
+                    "c": "[[Num. 28:9]], [[10]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012006,
+            "text": "But I say unto you, that <i>[d]</i>one greater than the temple is here. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-6",
+            "footnotes": [
+                {
+                    "d": "Greek <i>a greater thing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012007,
+            "text": "But if ye had known what this meaneth, <i>[e]</i>I desire mercy, and not sacrifice, ye would not have condemned the guiltless. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-7",
+            "footnotes": [
+                {
+                    "e": "[[Hos. 6:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012008,
+            "text": "For the Son of man is lord of the sabbath.",
+            "version": "ASV",
+            "clsstr": "Matt-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012009,
+            "text": "\u00b6 And he departed thence, and went into their synagogue: ",
+            "version": "ASV",
+            "clsstr": "Matt-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012010,
+            "text": "and behold, a man having a withered hand. And they asked him, saying, Is it lawful to heal on the sabbath day? that they might accuse him. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012011,
+            "text": "And he said unto them, What man shall there be of you, that shall have one sheep, and if this fall into a pit on the sabbath day, will he not lay hold on it, and lift it out? ",
+            "version": "ASV",
+            "clsstr": "Matt-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012012,
+            "text": "How much then is a man of more value than a sheep! Wherefore it is lawful to do good on the sabbath day. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012013,
+            "text": "Then saith he to the man, Stretch forth thy hand. And he stretched it forth; and it was restored whole, as the other. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012014,
+            "text": "But the Pharisees went out, and took counsel against him, how they might destroy him.",
+            "version": "ASV",
+            "clsstr": "Matt-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012015,
+            "text": "\u00b6 And Jesus perceiving  withdrew from thence: and many followed him; and he healed them all, ",
+            "version": "ASV",
+            "clsstr": "Matt-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012016,
+            "text": "and charged them that they should not make him known: ",
+            "version": "ASV",
+            "clsstr": "Matt-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012017,
+            "text": "that it might be fulfilled which was spoken through Isaiah the prophet, saying,",
+            "version": "ASV",
+            "clsstr": "Matt-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012018,
+            "text": "\u00b6 <i>[f]</i>Behold, my <i>[g]</i>servant whom I have chosen;\n  My beloved in whom my soul is well pleased:\n  I will put my Spirit upon him,\n  And he shall declare judgment to the <i>[h]</i>Gentiles.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-12-18",
+            "footnotes": [
+                {
+                    "f": "[[Isa. 42:1ff]]."
+                },
+                {
+                    "g": "See marginal note on [[Acts 3:13]]."
+                },
+                {
+                    "h": "See marginal note on [[4:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012019,
+            "text": "    He shall not strive, nor cry aloud;\n    Neither shall any one hear his voice in the streets.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012020,
+            "text": "    A bruised reed shall he not break,\n    And smoking flax shall he not quench,\n    Till he send forth judgment unto victory.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012021,
+            "text": "  And in his name shall the <i>[i]</i>Gentiles hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-12-21",
+            "footnotes": [
+                {
+                    "i": "See marginal note on [[4:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012022,
+            "text": "\u00b6 Then was brought unto him <i>[j]</i>one possessed with a demon, blind and dumb: and he healed him, insomuch that the dumb man spake and saw. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-22",
+            "footnotes": [
+                {
+                    "j": "Or, <i>a demoniac</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012023,
+            "text": "And all the multitudes were amazed, and said, Can this be the son of David? ",
+            "version": "ASV",
+            "clsstr": "Matt-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012024,
+            "text": "But when the Pharisees heard it, they said, This man doth not cast out demons, but <i>[k]</i>by <i>[l]</i>Beelzebub the prince of the demons. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-24",
+            "footnotes": [
+                {
+                    "k": "Or, <i>in</i>"
+                },
+                {
+                    "l": "Greek <i>Beelzebul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012025,
+            "text": "And knowing their thoughts he said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand: ",
+            "version": "ASV",
+            "clsstr": "Matt-12-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012026,
+            "text": "and if Satan casteth out Satan, he is divided against himself; how then shall his kingdom stand? ",
+            "version": "ASV",
+            "clsstr": "Matt-12-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012027,
+            "text": "And if I <i>[m]</i>by <i>[n]</i>Beelzebub cast out demons, <i>[o]</i>by whom do your sons cast them out? therefore shall they be your judges. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-27",
+            "footnotes": [
+                {
+                    "m": "Or, <i>in</i>"
+                },
+                {
+                    "n": "Greek <i>Beelzebul</i>."
+                },
+                {
+                    "o": "Or, <i>in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012028,
+            "text": "But if I <i>[p]</i>by the Spirit of God cast out demons, then is the kingdom of God come upon you. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-28",
+            "footnotes": [
+                {
+                    "p": "Or, <i>in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012029,
+            "text": "Or how can one enter into the house of the strong , and spoil his goods, except he first bind the strong ? and then he will spoil his house. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012030,
+            "text": "He that is not with me is against me; and he that gathereth not with me scattereth. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012031,
+            "text": "Therefore I say unto you, Every sin and blasphemy shall be forgiven unto men; but the blasphemy against the Spirit shall not be forgiven. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012032,
+            "text": "And whosoever shall speak a word against the Son of man, it shall be forgiven him; but whosoever shall speak against the Holy Spirit, it shall not be forgiven him, neither in this <i>[q]</i>world, nor in that which is to come. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-32",
+            "footnotes": [
+                {
+                    "q": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012033,
+            "text": "Either make the tree good, and its fruit good; or make the tree corrupt, and its fruit corrupt: for the tree is known by its fruit. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012034,
+            "text": "Ye offspring of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012035,
+            "text": "The good man out of his good treasure bringeth forth good things: and the evil man out of his evil treasure bringeth forth evil things. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012036,
+            "text": "And I say unto you, that every idle word that men shall speak, they shall give account thereof in the day of judgment. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012037,
+            "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned.",
+            "version": "ASV",
+            "clsstr": "Matt-12-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012038,
+            "text": "\u00b6 Then certain of the scribes and Pharisees answered him, saying, Teacher, we would see a sign from thee. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012039,
+            "text": "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it but the sign of Jonah the prophet: ",
+            "version": "ASV",
+            "clsstr": "Matt-12-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012040,
+            "text": "for as Jonah was three days and three nights in the belly of the <i>[r]</i>whale; so shall the Son of man be three days and three nights in the heart of the earth. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-40",
+            "footnotes": [
+                {
+                    "r": "Greek <i>sea-monster</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012041,
+            "text": "The men of Nineveh shall stand up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonah; and behold, <i>[s]</i>a greater than Jonah is here. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-41",
+            "footnotes": [
+                {
+                    "s": "Greek <i>more than</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012042,
+            "text": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the ends of the earth to hear the wisdom of Solomon; and behold, <i>[t]</i>a greater than Solomon is here. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-42",
+            "footnotes": [
+                {
+                    "t": "Greek <i>more than</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012043,
+            "text": "But the unclean spirit, when <i>[u]</i>he is gone out of the man, passeth through waterless places, seeking rest, and findeth it not. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-43",
+            "footnotes": [
+                {
+                    "u": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012044,
+            "text": "Then <i>[v]</i>he saith, I will return into my house whence I came out; and when <i>[w]</i>he is come, <i>[x]</i>he findeth it empty, swept, and garnished. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-44",
+            "footnotes": [
+                {
+                    "v": "Or, <i>it</i>"
+                },
+                {
+                    "w": "Or, <i>it</i>"
+                },
+                {
+                    "x": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012045,
+            "text": "Then goeth <i>[y]</i>he, and taketh with <i>[z]</i>himself seven other spirits more evil than <i>[aa]</i>himself, and they enter in and dwell there: and the last state of that man becometh worse than the first. Even so shall it be also unto this evil generation.",
+            "version": "ASV",
+            "clsstr": "Matt-12-45",
+            "footnotes": [
+                {
+                    "y": "Or, <i>it</i>"
+                },
+                {
+                    "z": "Or, <i>itself</i>"
+                },
+                {
+                    "aa": "Or, <i>itself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012046,
+            "text": "\u00b6 While he was yet speaking to the multitudes, behold, his mother and his brethren stood without, seeking to speak to him. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012047,
+            "text": " <i>[ab]</i>And one said unto him, Behold, thy mother and thy brethren stand without, seeking to speak to thee. ",
+            "version": "ASV",
+            "clsstr": "Matt-12-47",
+            "footnotes": [
+                {
+                    "ab": "Some ancient authorities omit [[verse 47]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012048,
+            "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren? ",
+            "version": "ASV",
+            "clsstr": "Matt-12-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012049,
+            "text": "And he stretched forth his hand towards his disciples, and said, Behold, my mother and my brethren! ",
+            "version": "ASV",
+            "clsstr": "Matt-12-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40012050,
+            "text": "For whosoever shall do the will of my Father who is in heaven, he is my brother, and sister, and mother.",
+            "version": "ASV",
+            "clsstr": "Matt-12-50",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 12
+}

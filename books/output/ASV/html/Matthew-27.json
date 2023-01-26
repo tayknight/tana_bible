@@ -1,0 +1,641 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40027001,
+            "text": "\u00b6 Now when morning was come, all the chief priests and the elders of the people took counsel against Jesus to put him to death: ",
+            "version": "ASV",
+            "clsstr": "Matt-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027002,
+            "text": "and they bound him, and led him away, and delivered him up to Pilate the governor.",
+            "version": "ASV",
+            "clsstr": "Matt-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027003,
+            "text": "\u00b6 Then Judas, who <i>[a]</i>betrayed him, when he saw that he was condemned, repented himself, and brought back the thirty pieces of silver to the chief priests and elders, ",
+            "version": "ASV",
+            "clsstr": "Matt-27-3",
+            "footnotes": [
+                {
+                    "a": "See marginal note on [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027004,
+            "text": "saying, I have sinned in that I <i>[b]</i>betrayed <i>[c]</i>innocent blood. But they said, What is that to us? see thou . ",
+            "version": "ASV",
+            "clsstr": "Matt-27-4",
+            "footnotes": [
+                {
+                    "b": "See marginal note on [[10:4]]."
+                },
+                {
+                    "c": "Many ancient authorities read <i>righteous</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027005,
+            "text": "And he cast down the pieces of silver into the sanctuary, and departed; and he went away and hanged himself. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027006,
+            "text": "And the chief priests took the pieces of silver, and said, It is not lawful to put them into the <i>[d]</i>treasury, since it is the price of blood. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-6",
+            "footnotes": [
+                {
+                    "d": "Greek <i>corbanas</i>, that is, <i>sacred treasury</i>. Compare [[Mk. 7:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027007,
+            "text": "And they took counsel, and bought with them the potter\u2019s field, to bury strangers in. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027008,
+            "text": "Wherefore that field was called, The field of blood, unto this day. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027009,
+            "text": "Then was fulfilled that which was spoken through Jeremiah the prophet, saying, <i>[e]</i>And <i>[f]</i>they took the thirty pieces of silver, the price of him that was priced, <i>[g]</i>whom  of the children of Israel did price; ",
+            "version": "ASV",
+            "clsstr": "Matt-27-9",
+            "footnotes": [
+                {
+                    "e": "[[Zech. 11:12]], [[13]]."
+                },
+                {
+                    "f": "Or, <i>I took</i>"
+                },
+                {
+                    "g": "Or, <i>whom they priced on the part of the sons of Israel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027010,
+            "text": "and <i>[h]</i>they gave them for the potter\u2019s field, as the Lord appointed me.",
+            "version": "ASV",
+            "clsstr": "Matt-27-10",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities read <i>I gave</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027011,
+            "text": "\u00b6 Now Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027012,
+            "text": "And when he was accused by the chief priests and elders, he answered nothing. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027013,
+            "text": "Then saith Pilate unto him, Hearest thou not how many things they witness against thee? ",
+            "version": "ASV",
+            "clsstr": "Matt-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027014,
+            "text": "And he gave him no answer, not even to one word: insomuch that the governor marvelled greatly. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027015,
+            "text": "Now at <i>[i]</i>the feast the governor was wont to release unto the multitude one prisoner, whom they would. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-15",
+            "footnotes": [
+                {
+                    "i": "Or, <i>a feast</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027016,
+            "text": "And they had then a notable prisoner, called Barabbas. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027017,
+            "text": "When therefore they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus who is called Christ? ",
+            "version": "ASV",
+            "clsstr": "Matt-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027018,
+            "text": "For he knew that for envy they had delivered him up. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027019,
+            "text": "And while he was sitting on the judgment-seat, his wife sent unto him, saying, Have thou nothing to do with that righteous man; for I have suffered many things this day in a dream because of him. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027020,
+            "text": "Now the chief priests and the elders persuaded the multitudes that they should ask for Barabbas, and destroy Jesus. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027021,
+            "text": "But the governor answered and said unto them, Which of the two will ye that I release unto you? And they said, Barabbas. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027022,
+            "text": "Pilate saith unto them, What then shall I do unto Jesus who is called Christ? They all say, Let him be crucified. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027023,
+            "text": "And he said, Why, what evil hath he done? But they cried out exceedingly, saying, Let him be crucified. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027024,
+            "text": "So when Pilate saw that he prevailed nothing, but rather that a tumult was arising, he took water, and washed his hands before the multitude, saying, I am innocent <i>[j]</i>of the blood of this righteous man; see ye . ",
+            "version": "ASV",
+            "clsstr": "Matt-27-24",
+            "footnotes": [
+                {
+                    "j": "Some ancient authorities read <i>of this blood: see ye etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027025,
+            "text": "And all the people answered and said, His blood  on us, and on our children. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027026,
+            "text": "Then released he unto them Barabbas; but Jesus he scourged and delivered to be crucified.",
+            "version": "ASV",
+            "clsstr": "Matt-27-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027027,
+            "text": "\u00b6 Then the soldiers of the governor took Jesus into the <i>[k]</i>Praetorium, and gathered unto him the whole <i>[l]</i>band. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-27",
+            "footnotes": [
+                {
+                    "k": "Or, <i>palace</i> See [[Mk. 15:16]]."
+                },
+                {
+                    "l": "Or, <i>cohort</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027028,
+            "text": "And they <i>[m]</i>stripped him, and put on him a scarlet robe. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-28",
+            "footnotes": [
+                {
+                    "m": "Some ancient authorities read <i>clothed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027029,
+            "text": "And they platted a crown of thorns and put it upon his head, and a reed in his right hand; and they kneeled down before him, and mocked him, saying, Hail, King of the Jews! ",
+            "version": "ASV",
+            "clsstr": "Matt-27-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027030,
+            "text": "And they spat upon him, and took the reed and smote him on the head. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027031,
+            "text": "And when they had mocked him, they took off from him the robe, and put on him his garments, and led him away to crucify him.",
+            "version": "ASV",
+            "clsstr": "Matt-27-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027032,
+            "text": "\u00b6 And as they came out, they found a man of Cyrene, Simon by name: him they <i>[n]</i>compelled to go , that he might bear his cross.",
+            "version": "ASV",
+            "clsstr": "Matt-27-32",
+            "footnotes": [
+                {
+                    "n": "Greek <i>impressed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027033,
+            "text": "\u00b6 And when they were come unto a place called Golgotha, that is to say, The place of a skull, ",
+            "version": "ASV",
+            "clsstr": "Matt-27-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027034,
+            "text": "they gave him wine to drink mingled with gall: and when he had tasted it, he would not drink. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027035,
+            "text": "And when they had crucified him, they parted his garments among them, casting lots; ",
+            "version": "ASV",
+            "clsstr": "Matt-27-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027036,
+            "text": "and they sat and watched him there. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027037,
+            "text": "And they set up over his head his accusation written, <b>LORD</b>. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027038,
+            "text": "Then are there crucified with him two robbers, one on the right hand and one on the left. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027039,
+            "text": "And they that passed by railed on him, wagging their heads, ",
+            "version": "ASV",
+            "clsstr": "Matt-27-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027040,
+            "text": "and saying, Thou that destroyest the <i>[o]</i>temple, and buildest it in three days, save thyself: if thou art the Son of God, come down from the cross. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-40",
+            "footnotes": [
+                {
+                    "o": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027041,
+            "text": "In like manner also the chief priests mocking , with the scribes and elders, said, ",
+            "version": "ASV",
+            "clsstr": "Matt-27-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027042,
+            "text": "He saved others; <i>[p]</i>himself he cannot save. He is the King of Israel; let him now come down from the cross, and we will believe on him. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-42",
+            "footnotes": [
+                {
+                    "p": "Or, <i>can he not save himself?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027043,
+            "text": "He trusteth on God; let him deliver him now, if he desireth him: for he said, I am the Son of God. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027044,
+            "text": "And the robbers also that were crucified with him cast upon him the same reproach.",
+            "version": "ASV",
+            "clsstr": "Matt-27-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027045,
+            "text": "\u00b6 Now from the sixth hour there was darkness over all the <i>[q]</i>land until the ninth hour. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-45",
+            "footnotes": [
+                {
+                    "q": "Or, <i>earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027046,
+            "text": "And about the ninth hour Jesus cried with a loud voice, saying, <i>[r]</i>Eli, Eli, lama sabachthani? that is, My God, my God, <i>[s]</i>why hast thou forsaken me? ",
+            "version": "ASV",
+            "clsstr": "Matt-27-46",
+            "footnotes": [
+                {
+                    "r": "[[Ps. 22:1]]."
+                },
+                {
+                    "s": "Or, <i>why didst thou forsake me?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027047,
+            "text": "And some of them that stood there, when they heard it, said, This man calleth Elijah. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027048,
+            "text": "And straightway one of them ran, and took a sponge, and filled it with vinegar, and put it on a reed, and gave him to drink. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027049,
+            "text": "And the rest said, Let be; let us see whether Elijah cometh to save him. <i>[t]</i> ",
+            "version": "ASV",
+            "clsstr": "Matt-27-49",
+            "footnotes": [
+                {
+                    "t": "Many ancient authorities add <i>And another took a spear and pierced his side, and there came out water and blood</i>. See [[Jn. 19:34]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027050,
+            "text": "And Jesus cried again with a loud voice, and yielded up his spirit. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027051,
+            "text": "And behold, the veil of the <i>[u]</i>temple was rent in two from the top to the bottom; and the earth did quake; and the rocks were rent; ",
+            "version": "ASV",
+            "clsstr": "Matt-27-51",
+            "footnotes": [
+                {
+                    "u": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027052,
+            "text": "and the tombs were opened; and many bodies of the saints that had fallen asleep were raised; ",
+            "version": "ASV",
+            "clsstr": "Matt-27-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027053,
+            "text": "and coming forth out of the tombs after his resurrection they entered into the holy city and appeared unto many. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027054,
+            "text": "Now the centurion, and they that were with him watching Jesus, when they saw the earthquake, and the things that were done, feared exceedingly, saying, Truly this was <i>[v]</i>the Son of God. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-54",
+            "footnotes": [
+                {
+                    "v": "Or, <i>a son of God</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027055,
+            "text": "And many women were there beholding from afar, who had followed Jesus from Galilee, ministering unto him: ",
+            "version": "ASV",
+            "clsstr": "Matt-27-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027056,
+            "text": "among whom was Mary Magdalene, and Mary the mother of <i>[w]</i>James and Joses, and the mother of the sons of Zebedee.",
+            "version": "ASV",
+            "clsstr": "Matt-27-56",
+            "footnotes": [
+                {
+                    "w": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027057,
+            "text": "\u00b6 And when even was come, there came a rich man from Arimathaea, named Joseph, who also himself was Jesus\u2019 disciple: ",
+            "version": "ASV",
+            "clsstr": "Matt-27-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027058,
+            "text": "this man went to Pilate, and asked for the body of Jesus. Then Pilate commanded it to be given up. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027059,
+            "text": "And Joseph took the body, and wrapped it in a clean linen cloth, ",
+            "version": "ASV",
+            "clsstr": "Matt-27-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027060,
+            "text": "and laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the tomb, and departed. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027061,
+            "text": "And Mary Magdalene was there, and the other Mary, sitting over against the sepulchre.",
+            "version": "ASV",
+            "clsstr": "Matt-27-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027062,
+            "text": "\u00b6 Now on the morrow, which is  after the Preparation, the chief priests and the Pharisees were gathered together unto Pilate, ",
+            "version": "ASV",
+            "clsstr": "Matt-27-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027063,
+            "text": "saying, Sir, we remember that that deceiver said while he was yet alive, After three days I rise again. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027064,
+            "text": "Command therefore that the sepulchre be made sure until the third day, lest haply his disciples come and steal him away, and say unto the people, He is risen from the dead: and the last error will be worse than the first. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027065,
+            "text": "Pilate said unto them, <i>[x]</i>Ye have a guard: go, <i>[y]</i>make it  sure as ye can. ",
+            "version": "ASV",
+            "clsstr": "Matt-27-65",
+            "footnotes": [
+                {
+                    "x": "Or, <i>Take a guard</i>"
+                },
+                {
+                    "y": "Greek <i>make it sure, as ye know</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40027066,
+            "text": "So they went, and made the sepulchre sure, sealing the stone, the guard being with them.",
+            "version": "ASV",
+            "clsstr": "Matt-27-66",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 27
+}

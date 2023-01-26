@@ -1,0 +1,249 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18001001,
+            "text": "\u00b6 There was a man in the land of Uz, whose name was <i>[a]</i>Job; and that man was perfect and upright, and one that feared God, and turned away from evil. ",
+            "version": "ASV",
+            "clsstr": "Job-1-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Iyob</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001002,
+            "text": "And there were born unto him seven sons and three daughters. ",
+            "version": "ASV",
+            "clsstr": "Job-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001003,
+            "text": "His <i>[b]</i>substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she-asses, and a very great household; so that this man was the greatest of all the children of the east. ",
+            "version": "ASV",
+            "clsstr": "Job-1-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>cattle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001004,
+            "text": "And his sons went and held a feast in the house of each one upon his day; and they sent and called for their three sisters to eat and to drink with them. ",
+            "version": "ASV",
+            "clsstr": "Job-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001005,
+            "text": "And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt-offerings according to the number of them all: for Job said, It may be that my sons have sinned, and <i>[c]</i>renounced God in their hearts. Thus did Job continually.",
+            "version": "ASV",
+            "clsstr": "Job-1-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>blasphemed</i>. So [[verse 11]]; [[2:5]], [[9]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001006,
+            "text": "\u00b6 Now it came to pass on the day when the sons of God came to present themselves before Jehovah, that <i>[d]</i>Satan also came among them. ",
+            "version": "ASV",
+            "clsstr": "Job-1-6",
+            "footnotes": [
+                {
+                    "d": "That is, <i>the Adversary</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001007,
+            "text": "And Jehovah said unto Satan, Whence comest thou? Then Satan answered Jehovah, and said, From going to and fro in the earth, and from walking up and down in it. ",
+            "version": "ASV",
+            "clsstr": "Job-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001008,
+            "text": "And Jehovah said unto Satan, Hast thou considered my servant Job? <i>[e]</i>for there is none like him in the earth, a perfect and an upright man, one that feareth God, and turneth away from evil. ",
+            "version": "ASV",
+            "clsstr": "Job-1-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>that</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001009,
+            "text": "Then Satan answered Jehovah, and said, Doth Job fear God for nought? ",
+            "version": "ASV",
+            "clsstr": "Job-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001010,
+            "text": "Hast not thou made a hedge about him, and about his house, and about all that he hath, on every side? thou hast blessed the work of his hands, and his <i>[f]</i>substance is increased in the land. ",
+            "version": "ASV",
+            "clsstr": "Job-1-10",
+            "footnotes": [
+                {
+                    "f": "Or, <i>cattle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001011,
+            "text": "But put forth thy hand now, and touch all that he hath, and he will renounce thee to thy face. ",
+            "version": "ASV",
+            "clsstr": "Job-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001012,
+            "text": "And Jehovah said unto Satan, Behold, all that he hath is in thy <i>[g]</i>power; only upon himself put not forth thy hand. So Satan went forth from the presence of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Job-1-12",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001013,
+            "text": "\u00b6 And it fell on a day when his sons and his daughters were eating and drinking wine in their eldest brother\u2019s house, ",
+            "version": "ASV",
+            "clsstr": "Job-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001014,
+            "text": "that there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them; ",
+            "version": "ASV",
+            "clsstr": "Job-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001015,
+            "text": "and <i>[h]</i>the Sabeans fell , and took them away: yea, they have slain the <i>[i]</i>servants with the edge of the sword; and I only am escaped alone to tell thee. ",
+            "version": "ASV",
+            "clsstr": "Job-1-15",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>Sheba</i>."
+                },
+                {
+                    "i": "Hebrew <i>young men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001016,
+            "text": "While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep and the <i>[j]</i>servants, and consumed them; and I only am escaped alone to tell thee. ",
+            "version": "ASV",
+            "clsstr": "Job-1-16",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>young men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001017,
+            "text": "While he was yet speaking, there came also another, and said, The Chaldeans made three bands, and <i>[k]</i>fell upon the camels, and have taken them away, yea, and slain the <i>[l]</i>servants with the edge of the sword; and I only am escaped alone to tell thee. ",
+            "version": "ASV",
+            "clsstr": "Job-1-17",
+            "footnotes": [
+                {
+                    "k": "Or, <i>made a raid</i>"
+                },
+                {
+                    "l": "Hebrew <i>young men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001018,
+            "text": "While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother\u2019s house; ",
+            "version": "ASV",
+            "clsstr": "Job-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001019,
+            "text": "and, behold, there came a great wind <i>[m]</i>from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.",
+            "version": "ASV",
+            "clsstr": "Job-1-19",
+            "footnotes": [
+                {
+                    "m": "Or, <i>over</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001020,
+            "text": "\u00b6 Then Job arose, and rent his robe, and shaved his head, and fell down upon the ground, and worshipped; ",
+            "version": "ASV",
+            "clsstr": "Job-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001021,
+            "text": "and he said, Naked came I out of my mother\u2019s womb, and naked shall I return thither: Jehovah gave, and Jehovah hath taken away; blessed be the name of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Job-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18001022,
+            "text": "In all this Job sinned not, nor <i>[n]</i>charged God foolishly.",
+            "version": "ASV",
+            "clsstr": "Job-1-22",
+            "footnotes": [
+                {
+                    "n": "Or, <i>attributed folly to God</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 1
+}

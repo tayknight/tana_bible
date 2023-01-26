@@ -1,0 +1,235 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19044001,
+            "text": "<b>Former deliverances and present troubles.</b>\n\u00b6 For the Chief Musician.  of the sons of Korah. Maschil.\u00b6     We have heard with our ears, O God,\n    Our fathers have told us,\n    What work thou didst in their days,\n    In the days of old.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044002,
+            "text": "    Thou didst drive out the nations with thy hand;\n    But them thou didst plant:\n    Thou didst afflict the peoples;\n    But them thou didst spread abroad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044003,
+            "text": "    For they gat not the land in possession by their own sword,\n    Neither did their own arm save them;\n    But thy right hand, and thine arm, and the light of thy countenance,\n    Because thou wast favorable unto them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044004,
+            "text": "  Thou art my King, O God:\n  Command <i>[a]</i>deliverance for Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>victories</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044005,
+            "text": "    Through thee will we push down our adversaries:\n    Through thy name will we tread them under that rise up against us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044006,
+            "text": "    For I will not trust in my bow,\n    Neither shall my sword save me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044007,
+            "text": "    But thou hast saved us from our adversaries,\n    And hast put them to shame that hate us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044008,
+            "text": "    In God have we made our boast all the day long,\n    And we will give thanks unto thy name for ever. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044009,
+            "text": "\u00b6     But now thou hast cast  off, and brought us to dishonor,\n    And goest not forth with our hosts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044010,
+            "text": "    Thou makest us to turn back from the adversary;\n    And they that hate us take spoil for themselves.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044011,
+            "text": "    Thou hast made us like sheep  for food,\n    And hast scattered us among the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044012,
+            "text": "    Thou sellest thy people for nought,\n    And hast not increased  by their price.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044013,
+            "text": "    Thou makest us a reproach to our neighbors,\n    A scoffing and a derision to them that are round about us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044014,
+            "text": "    Thou makest us a byword among the nations,\n    A shaking of the head among the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044015,
+            "text": "    All the day long is my dishonor before me,\n    And the shame of my face hath covered me,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044016,
+            "text": "    For the voice of him that reproacheth and blasphemeth,\n    By reason of the enemy and the avenger.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044017,
+            "text": "    All this is come upon us; yet have we not forgotten thee,\n    Neither have we dealt falsely in thy covenant.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044018,
+            "text": "    Our heart is not turned back,\n    Neither have our steps declined from thy way,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044019,
+            "text": "   <i>[b]</i>That thou hast sore broken us in the place of jackals,\n    And covered us with the shadow of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-19",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Though</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044020,
+            "text": "    If we have forgotten the name of our God,\n    Or spread forth our hands to a strange god;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044021,
+            "text": "    Will not God search this out?\n    For he knoweth the secrets of the heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044022,
+            "text": "    Yea, for thy sake are we killed all the day long;\n    We are accounted as sheep for the slaughter.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044023,
+            "text": "    Awake, why sleepest thou, O Lord?\n    Arise, cast  not off for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044024,
+            "text": "    Wherefore hidest thou thy face,\n    And forgettest our affliction and our oppression?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044025,
+            "text": "    For our soul is bowed down to the dust:\n    Our body cleaveth unto the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19044026,
+            "text": "    Rise up for our help,\n    And redeem us for thy lovingkindness\u2019 sake.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-44-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 44
+}

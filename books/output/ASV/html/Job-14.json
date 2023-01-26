@@ -1,0 +1,233 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18014001,
+            "text": "\u00b6     Man, that is born of a woman,\n    Is of few days, and full of trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014002,
+            "text": "  He cometh forth like a flower, and <i>[a]</i>is cut down:\n    He fleeth also as a shadow, and continueth not.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>withereth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014003,
+            "text": "    And dost thou open thine eyes upon such a one,\n    And bringest me into judgment with thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014004,
+            "text": "   <i>[b]</i>Who can bring a clean thing out of an unclean? not one.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Oh that a clean thing could come out of an unclean! not one</i> can."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014005,
+            "text": "    Seeing his days are determined,\n    The number of his months is with thee,\n    And thou hast appointed his bounds that he cannot pass;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014006,
+            "text": " Look away from him, that he may <i>[c]</i>rest,\n  Till he shall <i>[d]</i>accomplish, as a hireling, his day.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>cease</i>."
+                },
+                {
+                    "d": "Or, <i>have pleasure in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014007,
+            "text": "\u00b6     For there is hope of a tree,\n    If it be cut down, that it will sprout again,\n    And that the tender branch thereof will not cease.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014008,
+            "text": "    Though the root thereof wax old in the earth,\n    And the stock thereof die in the ground;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014009,
+            "text": "    Yet through the scent of water it will bud,\n    And put forth boughs like a plant.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014010,
+            "text": "    But man dieth, and is laid low:\n    Yea, man giveth up the ghost, and where is he?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014011,
+            "text": "   the waters <i>[e]</i>fail from the sea,\n    And the river wasteth and drieth up;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-11",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>are gone</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014012,
+            "text": "    So man lieth down and riseth not:\n    Till the heavens be no more, they shall not awake,\n    Nor be roused out of their sleep.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014013,
+            "text": "\u00b6     Oh that thou wouldest hide me in Sheol,\n    That thou wouldest keep me secret, until thy wrath be past,\n    That thou wouldest appoint me a set time, and remember me!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014014,
+            "text": " If a man die, shall he live ?\n All the days of my warfare <i>[f]</i>would I wait,\n  Till my <i>[g]</i>release should come.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-14",
+            "footnotes": [
+                {
+                    "f": "Or, <i>will\u00a0.\u00a0.\u00a0. shall come</i>"
+                },
+                {
+                    "g": "Or, <i>change</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014015,
+            "text": "  Thou <i>[h]</i>wouldest call, and I would answer thee:\n    Thou wouldest have a desire to the work of thy hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>shalt call, and I will etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014016,
+            "text": "    But now thou numberest my steps:\n    Dost thou not watch over my sin?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014017,
+            "text": "    My transgression is sealed up in a bag,\n    And thou fastenest up mine iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014018,
+            "text": "\u00b6   But the mountain falling <i>[i]</i>cometh to nought;\n    And the rock is removed out of its place;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-18",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>fadeth away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014019,
+            "text": "    The waters wear the stones;\n    The overflowings thereof wash away the dust of the earth:\n    So thou destroyest the hope of man.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014020,
+            "text": "    Thou prevailest for ever against him, and he passeth;\n    Thou changest his countenance, and sendest him away.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014021,
+            "text": "    His sons come to honor, and he knoweth it not;\n    And they are brought low, but he perceiveth it not of them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18014022,
+            "text": "   <i>[j]</i>But his flesh upon him hath pain,\n    And his soul within him mourneth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-14-22",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Only for himself his flesh hath pain, and for himself his soul mourneth</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 14
+}

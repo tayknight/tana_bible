@@ -1,0 +1,301 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19035001,
+            "text": "<b>Prayer for rescue from enemies.</b>\n\u00b6  of David.\u00b6     Strive thou, O Jehovah, with them that strive with me:\n    Fight thou against them that fight against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035002,
+            "text": "    Take hold of shield and buckler,\n    And stand up for my help.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035003,
+            "text": "  Draw out also the spear, <i>[a]</i>and stop the way against them that pursue me:\n    Say unto my soul, I am thy salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>and the battle axe against etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035004,
+            "text": "    Let them be put to shame and brought to dishonor that seek after my soul:\n    Let them be turned back and confounded that devise my hurt.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035005,
+            "text": "    Let them be as chaff before the wind,\n    And the angel of Jehovah driving  on.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035006,
+            "text": "  Let their way be <i>[b]</i>dark and slippery,\n    And the angel of Jehovah pursuing them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-6",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>darkness and slippery places</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035007,
+            "text": "  For without cause have they hid for me <i>[c]</i>their net  a pit;\n    Without cause have they digged  for my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the pit of their net</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035008,
+            "text": "  Let destruction come upon him unawares;\n  And let his net that he hath hid catch himself:\n   <i>[d]</i>With destruction let him fall therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Into that very destruction let him fall</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035009,
+            "text": "    And my soul shall be joyful in Jehovah:\n    It shall rejoice in his salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035010,
+            "text": "    All my bones shall say, Jehovah, who is like unto thee,\n    Who deliverest the poor from him that is too strong for him,\n    Yea, the poor and the needy from him that robbeth him?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035011,
+            "text": "   <i>[e]</i>Unrighteous witnesses rise up;\n    They ask me of things that I know not.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Malicious</i>. See [[Ex. 23:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035012,
+            "text": "    They reward me evil for good,\n     the bereaving of my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035013,
+            "text": "  But as for me, when they were sick, my clothing was sackcloth:\n  I afflicted my soul with fasting;\n  And my prayer <i>[f]</i>returned into mine own bosom.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>shall return</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035014,
+            "text": "    I behaved myself as though it had been my friend or my brother:\n    I bowed down mourning, as one that bewaileth his mother.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035015,
+            "text": " But in <i>[g]</i>mine adversity they rejoiced, and gathered themselves together:\n The <i>[h]</i>abjects gathered themselves together against me, and <i>[i]</i>I knew  not;\n    They did tear me, and ceased not:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-15",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>my limping</i>."
+                },
+                {
+                    "h": "Or, <i>smiters</i>"
+                },
+                {
+                    "i": "Or, those whom <i>I knew not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035016,
+            "text": "   <i>[j]</i>Like the profane mockers in feasts,\n    They gnashed upon me with their teeth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-16",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035017,
+            "text": "  Lord, how long wilt thou look on?\n  Rescue my soul from their destructions,\n  My <i>[k]</i>darling from the lions.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-17",
+            "footnotes": [
+                {
+                    "k": "Or, <i>dear</i> life Hebrew <i>only one</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035018,
+            "text": "  I will give thee thanks in the great assembly:\n  I will praise thee among <i>[l]</i>much people.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-18",
+            "footnotes": [
+                {
+                    "l": "Or, <i>a mighty people</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035019,
+            "text": "  Let not them that are mine enemies <i>[m]</i>wrongfully rejoice over me;\n    Neither let them wink with the eye that hate me without a cause.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-19",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>falsely</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035020,
+            "text": "    For they speak not peace;\n    But they devise deceitful words against them that are quiet in the land.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035021,
+            "text": "    Yea, they opened their mouth wide against me;\n    They said, Aha, aha, our eye hath seen it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035022,
+            "text": "    Thou hast seen it, O Jehovah; keep not silence:\n    O Lord, be not far from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035023,
+            "text": "    Stir up thyself, and awake to the justice  unto me,\n     unto my cause, my God and my Lord.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035024,
+            "text": "    Judge me, O Jehovah my God, according to thy righteousness;\n    And let them not rejoice over me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035025,
+            "text": "  Let them not say in their heart, <i>[n]</i>Aha, so would we have it:\n    Let them not say, We have swallowed him up.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-25",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>Aha, our desire</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035026,
+            "text": "    Let them be put to shame and confounded together that rejoice at my hurt:\n    Let them be clothed with shame and dishonor that magnify themselves against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035027,
+            "text": "  Let them shout for joy, and be glad, that <i>[o]</i>favor my righteous cause:\n    Yea, let them say continually, Jehovah be magnified,\n    Who hath pleasure in the prosperity of his servant.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-27",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>have pleasure in my righteousness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19035028,
+            "text": "    And my tongue shall talk of thy righteousness\n     of thy praise all the day long.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-35-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 35
+}

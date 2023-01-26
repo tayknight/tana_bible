@@ -1,0 +1,364 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26027001,
+            "text": "\u00b6 The word of Jehovah came again unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027002,
+            "text": "And thou, son of man, take up a lamentation over Tyre; ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027003,
+            "text": "and say unto Tyre, O thou that dwellest at the <i>[a]</i>entry of the sea, that art the merchant of the peoples unto many isles, thus saith the Lord Jehovah: Thou, O Tyre, hast said, I am perfect in beauty. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>entrances</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027004,
+            "text": "Thy borders are in the heart of the seas; thy builders have perfected thy beauty. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027005,
+            "text": "They have <i>[b]</i>made all thy planks of fir-trees from Senir; they have taken a cedar from Lebanon to make a mast for thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>built</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027006,
+            "text": "Of the oaks of Bashan have they made thine oars; they have made thy <i>[c]</i>benches of ivory inlaid in boxwood, from the isles of Kittim. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>deck</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027007,
+            "text": "Of fine linen with broidered work from Egypt was thy sail, that it might be to thee for an ensign; blue and purple from the isles of Elishah was thine awning. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027008,
+            "text": "The inhabitants of Sidon and Arvad were thy rowers: thy wise men, O Tyre, were in thee, they were thy pilots. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027009,
+            "text": "The <i>[d]</i>old men of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to <i>[e]</i>deal in thy merchandise. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>elders</i>"
+                },
+                {
+                    "e": "Or, <i>exchange</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027010,
+            "text": "Persia and Lud and Put were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027011,
+            "text": "The men of Arvad with thine army were upon thy walls round about, and valorous men were in thy towers; they hanged their shields upon thy walls round about; they have perfected thy beauty.",
+            "version": "ASV",
+            "clsstr": "Ezek-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027012,
+            "text": "\u00b6 Tarshish was thy merchant by reason of the multitude of all kinds of riches; with silver, iron, tin, and lead, they traded for thy wares. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027013,
+            "text": "Javan, Tubal, and Meshech, they were thy traffickers; they traded the persons of men and vessels of brass for thy merchandise. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027014,
+            "text": "They of the house of Togarmah traded for thy wares with horses and war-horses and mules. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027015,
+            "text": "The men of Dedan were thy traffickers; many isles were the mart of thy hand: they brought thee <i>[f]</i>in exchange horns of ivory and ebony. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>for a present</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027016,
+            "text": "Syria was thy merchant by reason of the multitude of thy handiworks: they traded for thy wares with <i>[g]</i>emeralds, purple, and broidered work, and fine linen, and coral, and rubies. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>carbuncles</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027017,
+            "text": "Judah, and the land of Israel, they were thy traffickers: they traded for thy merchandise wheat of Minnith, and <i>[h]</i>pannag, and honey, and oil, and balm. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-17",
+            "footnotes": [
+                {
+                    "h": "Perhaps, a kind of confection."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027018,
+            "text": "Damascus was thy merchant for the multitude of thy handiworks, by reason of the multitude of all kinds of riches, with the wine of Helbon, and white wool. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027019,
+            "text": "Vedan and Javan traded <i>[i]</i>with yarn for thy wares: <i>[j]</i>bright iron, cassia, and calamus, were among thy merchandise. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-19",
+            "footnotes": [
+                {
+                    "i": "Or, as otherwise read, <i>from Uzal</i>"
+                },
+                {
+                    "j": "Or, <i>wrought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027020,
+            "text": "Dedan was thy trafficker in precious cloths for riding. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027021,
+            "text": "Arabia, and all the princes of Kedar, they were the merchants of thy hand; in lambs, and rams, and goats, in these were they thy merchants. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027022,
+            "text": "The traffickers of Sheba and Raamah, they were thy traffickers; they traded for thy wares with the chief of all spices, and with all precious stones, and gold. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027023,
+            "text": "Haran and Canneh and Eden, the traffickers of Sheba, Asshur  Chilmad, were thy traffickers. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027024,
+            "text": "These were thy traffickers in choice wares, in <i>[k]</i>wrappings of blue and broidered work, and in chests of rich apparel, bound with cords and made of cedar, among thy merchandise. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-24",
+            "footnotes": [
+                {
+                    "k": "Or, <i>bales</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027025,
+            "text": "The ships of Tarshish were thy caravans for thy merchandise: and thou wast replenished, and made very glorious in the heart of the seas.",
+            "version": "ASV",
+            "clsstr": "Ezek-27-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027026,
+            "text": "\u00b6 Thy rowers have brought thee into great waters: the east wind hath broken thee in the heart of the seas. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027027,
+            "text": "Thy riches, and thy wares, thy merchandise, thy mariners, and thy pilots, thy calkers, and the <i>[l]</i>dealers in thy merchandise, and all thy men of war, that are in thee, <i>[m]</i>with all thy company which is in the midst of thee, shall fall into the heart of the seas in the day of thy ruin. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-27",
+            "footnotes": [
+                {
+                    "l": "Or, <i>exchangers</i>"
+                },
+                {
+                    "m": "Or, <i>and in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027028,
+            "text": "At the sound of the cry of thy pilots the <i>[n]</i>suburbs shall shake. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-28",
+            "footnotes": [
+                {
+                    "n": "Or, <i>waves</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027029,
+            "text": "And all that handle the oar, the mariners,  all the pilots of the sea, shall come down from their ships; they shall stand upon the land, ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027030,
+            "text": "and shall cause their voice to be heard over thee, and shall cry bitterly, and shall cast up dust upon their heads; they shall wallow themselves in the ashes: ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027031,
+            "text": "and they shall make themselves bald for thee, and gird them with sackcloth, and they shall weep for thee in bitterness of soul with bitter mourning. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027032,
+            "text": "And in their wailing they shall take up a lamentation for thee, and lament over thee, , Who is there like Tyre, like her that is brought to silence in the midst of the sea? ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027033,
+            "text": "When thy wares went forth out of the seas, thou filledst many peoples; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027034,
+            "text": "In the time that thou wast broken by the seas in the depths of the waters, thy merchandise and all thy company did fall in the midst of thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027035,
+            "text": "All the inhabitants of the isles are astonished at thee, and their kings are horribly afraid; they are troubled in their countenance. ",
+            "version": "ASV",
+            "clsstr": "Ezek-27-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26027036,
+            "text": "The merchants among the peoples hiss at thee; thou art become <i>[o]</i>a terror, and thou shalt nevermore have any being.",
+            "version": "ASV",
+            "clsstr": "Ezek-27-36",
+            "footnotes": [
+                {
+                    "o": "Or, <i>a destruction</i>. Hebrew <i>terrors</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 27
+}

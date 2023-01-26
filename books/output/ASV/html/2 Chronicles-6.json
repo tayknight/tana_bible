@@ -1,0 +1,410 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14006001,
+            "text": "\u00b6 Then spake Solomon, Jehovah hath said that he would dwell in the thick darkness. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006002,
+            "text": "But I have built thee a house of habitation, and a place for thee to dwell in for ever. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006003,
+            "text": "And the king turned his face, and blessed all the assembly of Israel: and all the assembly of Israel stood.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006004,
+            "text": "\u00b6 And he said, Blessed be Jehovah, the God of Israel, who spake with his mouth unto David my father, and hath with his hands fulfilled it, saying, ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006005,
+            "text": "Since the day that I brought forth my people out of the land of Egypt, I chose no city out of all the tribes of Israel to build a house in, that my name might be there; neither chose I any man to be <i>[a]</i>prince over my people Israel: ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>leader</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006006,
+            "text": "but I have chosen Jerusalem, that my name might be there, and have chosen David to be over my people Israel. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006007,
+            "text": "Now it was in the heart of David my father to build a house for the name of Jehovah, the God of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006008,
+            "text": "But Jehovah said unto David my father, Whereas it was in thy heart to build a house for my name, thou didst well that it was in thy heart: ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006009,
+            "text": "nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house for my name. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006010,
+            "text": "And Jehovah hath performed his word that he spake; for I am risen up in the room of David my father, and sit on the throne of Israel, as Jehovah promised, and have built the house for the name of Jehovah, the God of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006011,
+            "text": "And there have I set the ark, wherein is the covenant of Jehovah, which he made with the children of Israel.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006012,
+            "text": "\u00b6 And he stood before the altar of Jehovah in the presence of all the assembly of Israel, and spread forth his hands ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006013,
+            "text": "(for Solomon had made a brazen scaffold, five cubits long, and five cubits broad, and three cubits high, and had set it in the midst of the court; and upon it he stood, and kneeled down upon his knees before all the assembly of Israel, and spread forth his hands toward heaven); ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006014,
+            "text": "and he said, O Jehovah, the God of Israel, there is no God like thee, in heaven, or on earth; who keepest covenant and lovingkindness <i>[b]</i>with thy servants, that walk before thee with all their heart; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-14",
+            "footnotes": [
+                {
+                    "b": "Or, <i>for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006015,
+            "text": "who hast kept with thy servant David my father that which thou didst promise him: yea, thou spakest with thy mouth, and hast fulfilled it with thy hand, as it is this day. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006016,
+            "text": "Now therefore, O Jehovah, the God of Israel, keep with thy servant David my father that which thou hast promised him, saying, <i>[c]</i>There shall not fail thee a man in my sight to sit on the throne of Israel, if only thy children take heed to their way, to walk in my law as thou hast walked before me. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-16",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>There shall not be cut off unto thee a man from my sight</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006017,
+            "text": "Now therefore, O Jehovah, the God of Israel, let thy word be verified, which thou spakest unto thy servant David.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006018,
+            "text": "\u00b6 But will God in very deed dwell with men on the earth? behold, heaven and the heaven of heavens cannot contain thee; how much less this house which I have builded! ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006019,
+            "text": "Yet have thou respect unto the prayer of thy servant, and to his supplication, O Jehovah my God, to hearken unto the cry and to the prayer which thy servant prayeth before thee; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006020,
+            "text": "that thine eyes may be open toward this house day and night, even toward the place whereof thou hast said that thou wouldest put thy name there; to hearken unto the prayer which thy servant shall pray toward this place. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006021,
+            "text": "And hearken thou to the supplications of thy servant, and of thy people Israel, when they shall pray toward this place: yea, hear thou from thy dwelling-place, even from heaven; and when thou hearest, forgive.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006022,
+            "text": "\u00b6 <i>[d]</i>If a man sin against his neighbor, and an oath be laid upon him to cause him to swear, and he come  swear before thine altar in this house; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-22",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Whereinsoever a man shall sin</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006023,
+            "text": "then hear thou from heaven, and do, and judge thy servants, requiting the wicked, to bring his way upon his own head; and justifying the righteous, to give him according to his righteousness.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006024,
+            "text": "\u00b6 And if thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again and confess thy name, and pray and make supplication before thee in this house; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006025,
+            "text": "then hear thou from heaven, and forgive the sin of thy people Israel, and bring them again unto the land which thou gavest to them and to their fathers.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006026,
+            "text": "\u00b6 When the heavens are shut up, and there is no rain, because they have sinned against thee; if they pray toward this place, and confess thy name, and turn from their sin, <i>[e]</i>when thou <i>[f]</i>dost afflict them: ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-26",
+            "footnotes": [
+                {
+                    "e": "Or, <i>because</i>"
+                },
+                {
+                    "f": "Or, <i>answerest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006027,
+            "text": "then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, <i>[g]</i>when thou teachest them the good way wherein they should walk; and send rain upon thy land, which thou hast given to thy people for an inheritance.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-27",
+            "footnotes": [
+                {
+                    "g": "Or, <i>because</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006028,
+            "text": "\u00b6 If there be in the land famine, if there be pestilence, if there be blasting or mildew, locust or caterpillar; if their enemies besiege them in the land of their <i>[h]</i>cities; whatsoever plague or whatsoever sickness there be; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-28",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>gates</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006029,
+            "text": "what prayer and supplication soever be made by any man, or by all thy people Israel, who shall know every man his own plague and his own sorrow, and shall spread forth his hands toward this house: ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006030,
+            "text": "then hear thou from heaven thy dwelling-place, and forgive, and render unto every man according to all his ways, whose heart thou knowest (for thou, even thou only, knowest the hearts of the children of men); ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006031,
+            "text": "that they may fear thee, to walk in thy ways, so long as they live in the land which thou gavest unto our fathers.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006032,
+            "text": "\u00b6 Moreover concerning the foreigner, that is not of thy people Israel, when he shall come from a far country for thy great name\u2019s sake, and thy mighty hand, and thine outstretched arm; when they shall come and pray toward this house: ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006033,
+            "text": "then hear thou from heaven, even from thy dwelling-place, and do according to all that the foreigner calleth to thee for; that all the peoples of the earth may know thy name, and fear thee, as doth thy people Israel, and that they may know that <i>[i]</i>this house which I have built is called by thy name.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-33",
+            "footnotes": [
+                {
+                    "i": "Or, <i>thy name is called upon this house etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006034,
+            "text": "\u00b6 If thy people go out to battle against their enemies, by whatsoever way thou shalt send them, and they pray unto thee toward this city which thou hast chosen, and the house which I have built for thy name; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006035,
+            "text": "then hear thou from heaven their prayer and their supplication, and maintain their <i>[j]</i>cause.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-35",
+            "footnotes": [
+                {
+                    "j": "Or, <i>right</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006036,
+            "text": "\u00b6 If they sin against thee (for there is no man that sinneth not), and thou be angry with them, and deliver them to the enemy, so that <i>[k]</i>they carry them away captive unto a land far off or near; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-36",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>they that take them captive carry them away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006037,
+            "text": "yet if they shall bethink themselves in the land whither they are carried captive, and turn again, and make supplication unto thee in the land of their captivity, saying, We have sinned, we have done perversely, and have dealt wickedly; ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006038,
+            "text": "if they return unto thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captive, and pray toward their land, which thou gavest unto their fathers, and the city which thou hast chosen, and toward the house which I have built for thy name: ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006039,
+            "text": "then hear thou from heaven, even from thy dwelling-place, their prayer and their supplications, and maintain their <i>[l]</i>cause, and forgive thy people who have sinned against thee.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-39",
+            "footnotes": [
+                {
+                    "l": "Or, <i>right</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006040,
+            "text": "\u00b6 Now, O my God, let, I beseech thee, thine eyes be open, and let thine ears be attent, unto the prayer that is made in this place. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006041,
+            "text": "Now therefore arise, O Jehovah God, into thy resting-place, thou, and the ark of thy strength: let thy priests, O Jehovah God, be clothed with salvation, and let thy saints rejoice in <i>[m]</i>goodness. ",
+            "version": "ASV",
+            "clsstr": "2Chr-6-41",
+            "footnotes": [
+                {
+                    "m": "Or, <i>good</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14006042,
+            "text": "O Jehovah God, turn not away the face of thine anointed: remember  <i>[n]</i>lovingkindnesses to David thy servant.",
+            "version": "ASV",
+            "clsstr": "2Chr-6-42",
+            "footnotes": [
+                {
+                    "n": "Or, <i>good deeds</i>. See [[32:32]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 6
+}

@@ -1,0 +1,276 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 60,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 60,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 60001001,
+            "text": "\u00b6 Peter, an apostle of Jesus Christ, to the elect who are sojourners of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001002,
+            "text": "according to the foreknowledge of God the Father, in sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace to you and peace be multiplied.",
+            "version": "ASV",
+            "clsstr": "1Pet-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001003,
+            "text": "\u00b6 Blessed  <i>[a]</i>the God and Father of our Lord Jesus Christ, who according to his great mercy begat us again unto a living hope by the resurrection of Jesus Christ from the dead, ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>God and the Father</i>. See [[Rom. 15:6]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001004,
+            "text": "unto an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you, ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001005,
+            "text": "who by the power of God are guarded through faith unto a salvation ready to be revealed in the last time. ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001006,
+            "text": "Wherein ye greatly rejoice, though now for a little while, if need be, ye have been put to grief in manifold <i>[b]</i>trials, ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>temptations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001007,
+            "text": "that the proof of your faith,  more precious than gold that perisheth though it is proved by fire, may be found unto praise and glory and honor at the revelation of Jesus Christ: ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001008,
+            "text": "whom not having seen ye love; on whom, though now ye see him not, yet believing, ye rejoice greatly with joy unspeakable and <i>[c]</i>full of glory: ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-8",
+            "footnotes": [
+                {
+                    "c": "Greek <i>glorified</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001009,
+            "text": "receiving the end of your faith,  the salvation of  souls. ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001010,
+            "text": "Concerning which salvation the prophets sought and searched diligently, who prophesied of the grace that  unto you: ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001011,
+            "text": "searching what or what manner of time the Spirit of Christ which was in them did point unto, when it testified beforehand the sufferings <i>[d]</i>of Christ, and the glories that should follow them. ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-11",
+            "footnotes": [
+                {
+                    "d": "Greek <i>unto</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001012,
+            "text": "To whom it was revealed, that not unto themselves, but unto you, did they minister these things, which now have been announced unto you through them that <i>[e]</i>preached the gospel unto you <i>[f]</i>by the Holy Spirit sent forth from heaven; which things angels desire to look into.",
+            "version": "ASV",
+            "clsstr": "1Pet-1-12",
+            "footnotes": [
+                {
+                    "e": "Greek <i>brought good tidings</i>. Compare [[Mt. 11:5]]."
+                },
+                {
+                    "f": "Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001013,
+            "text": "\u00b6 Wherefore girding up the loins of your mind, be sober and set your hope perfectly on the grace that <i>[g]</i>is to be brought unto you at the revelation of Jesus Christ; ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-13",
+            "footnotes": [
+                {
+                    "g": "Greek <i>is being brought</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001014,
+            "text": "as children of obedience, not fashioning yourselves according to your former lusts in  your ignorance: ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001015,
+            "text": "but <i>[h]</i>like as he who called you is holy, be ye yourselves also holy in all manner of living; ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>like the Holy One who called you</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001016,
+            "text": "because it is written, <i>[i]</i>Ye shall be holy; for I am holy. ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-16",
+            "footnotes": [
+                {
+                    "i": "[[Lev. 11:44f]]; [[19:2]]; [[20:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001017,
+            "text": "And if ye call on him as Father, who without respect of persons judgeth according to each man\u2019s work, pass the time of your sojourning in fear: ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001018,
+            "text": "knowing that ye were redeemed, not with corruptible things, with silver or gold, from your vain manner of life handed down from your fathers; ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001019,
+            "text": "but with precious blood, as of a lamb without blemish and without spot,  of Christ: ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001020,
+            "text": "who was foreknown indeed before the foundation of the world, but was manifested at the end of the times for your sake, ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001021,
+            "text": "who through him are believers in God, that raised him from the dead, and gave him glory; so that your faith and hope might be in God. ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001022,
+            "text": "Seeing ye have purified your souls in your obedience to the truth unto unfeigned love of the brethren, love one another <i>[j]</i>from the heart fervently: ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-22",
+            "footnotes": [
+                {
+                    "j": "Many ancient authorities read <i>from a clean heart</i>. Compare [[1 Tim. 1:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001023,
+            "text": "having been begotten again, not of corruptible seed, but of incorruptible, through the word of <i>[k]</i>God, which liveth and abideth. ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-23",
+            "footnotes": [
+                {
+                    "k": "Or, <i>God who liveth</i>. Compare [[Dan. 6:26]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001024,
+            "text": "For,\u00b6   <i>[l]</i>All flesh is as grass,\n    And all the glory thereof as the flower of grass.\n    The grass withereth, and the flower falleth:\n    ",
+            "version": "ASV",
+            "clsstr": "1Pet-1-24",
+            "footnotes": [
+                {
+                    "l": "[[Isa. 40:6ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60001025,
+            "text": " But the <i>[m]</i>word of the Lord abideth for ever.\n \u00b6 And this is the <i>[n]</i>word of good tidings which was <i>[o]</i>preached unto you.",
+            "version": "ASV",
+            "clsstr": "1Pet-1-25",
+            "footnotes": [
+                {
+                    "m": "Greek <i>saying</i>."
+                },
+                {
+                    "n": "Greek <i>saying</i>."
+                },
+                {
+                    "o": "See [[verse 12]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Peter",
+    "chapters": 1
+}

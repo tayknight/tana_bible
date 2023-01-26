@@ -1,0 +1,346 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 16,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 16,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 16010001,
+            "text": "\u00b6 Now those that sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010002,
+            "text": "Seraiah, Azariah, Jeremiah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010003,
+            "text": "Pashhur, Amariah, Malchijah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010004,
+            "text": "Hattush, Shebaniah, Malluch, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010005,
+            "text": "Harim, Meremoth, Obadiah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010006,
+            "text": "Daniel, Ginnethon, Baruch, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010007,
+            "text": "Meshullam, Abijah, Mijamin, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010008,
+            "text": "Maaziah, Bilgai, Shemaiah; these were the priests. ",
+            "version": "ASV",
+            "clsstr": "Neh-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010009,
+            "text": "And the Levites: namely, Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010010,
+            "text": "and their brethren, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010011,
+            "text": "Mica, Rehob, Hashabiah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010012,
+            "text": "Zaccur, Sherebiah, Shebaniah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010013,
+            "text": "Hodiah, Bani, Beninu. ",
+            "version": "ASV",
+            "clsstr": "Neh-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010014,
+            "text": "The chiefs of the people: Parosh, Pahath-moab, Elam, Zattu, Bani, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010015,
+            "text": "Bunni, Azgad, Bebai, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010016,
+            "text": "Adonijah, Bigvai, Adin, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010017,
+            "text": "Ater, Hezekiah, Azzur, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010018,
+            "text": "Hodiah, Hashum, Bezai, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010019,
+            "text": "Hariph, Anathoth, <i>[a]</i>Nobai, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-19",
+            "footnotes": [
+                {
+                    "a": "Another reading is, <i>Nebai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010020,
+            "text": "Magpiash, Meshullam, Hezir, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010021,
+            "text": "Meshezabel, Zadok, Jaddua, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010022,
+            "text": "Pelatiah, Hanan, Anaiah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010023,
+            "text": "Hoshea, Hananiah, Hasshub, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010024,
+            "text": "Hallohesh, Pilha, Shobek, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010025,
+            "text": "Rehum, Hashabnah, Maaseiah, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010026,
+            "text": "and Ahiah, Hanan, Anan, ",
+            "version": "ASV",
+            "clsstr": "Neh-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010027,
+            "text": "Malluch, Harim, Baanah.",
+            "version": "ASV",
+            "clsstr": "Neh-10-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010028,
+            "text": "\u00b6 And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinim, and all they that had separated themselves from the peoples of the lands unto the law of God, their wives, their sons, and their daughters, every one that had knowledge, and understanding; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010029,
+            "text": "they clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God\u2019s law, which was given by Moses the servant of God, and to observe and do all the commandments of Jehovah our Lord, and his ordinances and his statutes; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010030,
+            "text": "and that we would not give our daughters unto the peoples of the land, nor take their daughters for our sons; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010031,
+            "text": "and if the peoples of the land bring wares or any grain on the sabbath day to sell, that we would not buy of them on the sabbath, or on a holy day; and that we would forego the seventh year, and the exaction of every debt.",
+            "version": "ASV",
+            "clsstr": "Neh-10-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010032,
+            "text": "\u00b6 Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010033,
+            "text": "for the showbread, and for the continual meal-offering, and for the continual burnt-offering, for the sabbaths, for the new moons, for the set feasts, and for the holy things, and for the sin-offerings to make atonement for Israel, and for all the work of the house of our God. ",
+            "version": "ASV",
+            "clsstr": "Neh-10-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010034,
+            "text": "And we cast lots, the priests, the Levites, and the people, for the wood-offering, to bring it into the house of our God, according to our fathers\u2019 houses, at times appointed, year by year, to burn upon the altar of Jehovah our God, as it is written in the law; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010035,
+            "text": "and to bring the first-fruits of our ground, and the first-fruits of all fruit of all manner of trees, year by year, unto the house of Jehovah; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010036,
+            "text": "also the first-born of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God; ",
+            "version": "ASV",
+            "clsstr": "Neh-10-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010037,
+            "text": "and that we should bring the first-fruits of our <i>[b]</i>dough, and our heave-offerings, and the fruit of all manner of trees, <i>[c]</i>the new wine and the oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites; for they, the Levites, take the tithes in all the cities of our tillage. ",
+            "version": "ASV",
+            "clsstr": "Neh-10-37",
+            "footnotes": [
+                {
+                    "b": "Or, <i>coarse meal</i>"
+                },
+                {
+                    "c": "Or, <i>the vintage</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010038,
+            "text": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure-house. ",
+            "version": "ASV",
+            "clsstr": "Neh-10-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16010039,
+            "text": "For the children of Israel and the children of Levi shall bring the heave-offering of the grain, of <i>[d]</i>the new wine, and of the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+            "version": "ASV",
+            "clsstr": "Neh-10-39",
+            "footnotes": [
+                {
+                    "d": "Or, <i>the vintage</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Nehemiah",
+    "chapters": 10
+}

@@ -1,0 +1,102 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19137001,
+            "text": "<b>Sorrows of the exiles in Babylon.</b>\n\u00b6     By the rivers of Babylon,\n    There we sat down, yea, we wept,\n    When we remembered Zion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137002,
+            "text": "    Upon the willows in the midst thereof\n    We hanged up our harps.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137003,
+            "text": " For there they that led us captive required of us <i>[a]</i>songs,\n  And <i>[b]</i>they that wasted us  mirth, ,\n    Sing us one of the songs of Zion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>words of song</i>."
+                },
+                {
+                    "b": "Or, <i>our tormentors</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137004,
+            "text": "    How shall we sing Jehovah\u2019s song\n    In a foreign land?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137005,
+            "text": "    If I forget thee, O Jerusalem,\n    Let my right hand forget .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137006,
+            "text": "    Let my tongue cleave to the roof of my mouth,\n    If I remember thee not;\n    If I prefer not Jerusalem\n    Above my chief joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137007,
+            "text": "    Remember, O Jehovah, against the children of Edom\n    The day of Jerusalem;\n    Who said, Rase it, rase it,\n    Even to the foundation thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137008,
+            "text": "  O daughter of Babylon, <i>[c]</i>that art to be destroyed,\n    Happy shall he be, that rewardeth thee\n    As thou hast served us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>that art laid waste</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19137009,
+            "text": "    Happy shall he be, that taketh and dasheth thy little ones\n    Against the rock.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-137-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 137
+}

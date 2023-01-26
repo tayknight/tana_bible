@@ -1,0 +1,151 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 6,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 33,
+            "end_book": null
+        }
+    ],
+    "book": 6,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 6005001,
+            "text": "\u00b6 And it came to pass, when all the kings of the Amorites, that were beyond the Jordan westward, and all the kings of the Canaanites, that were by the sea, heard how that Jehovah had dried up the waters of the Jordan from before the children of Israel, until <i>[a]</i>we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.",
+            "version": "ASV",
+            "clsstr": "Josh-5-1",
+            "footnotes": [
+                {
+                    "a": "Another reading is, <i>they</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005002,
+            "text": "\u00b6 At that time Jehovah said unto Joshua, Make thee knives of flint, and circumcise again the children of Israel the second time. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005003,
+            "text": "And Joshua made him knives of flint, and circumcised the children of Israel at <i>[b]</i>the hill of the foreskins. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Gibeath-haaraloth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005004,
+            "text": "And this is the cause why Joshua did circumcise: all the people that came forth out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came forth out of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005005,
+            "text": "For all the people that came out were circumcised; but all the people that were born in the wilderness by the way as they came forth out of Egypt, they had not circumcised. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005006,
+            "text": "For the children of Israel walked forty years in the wilderness, till all the nation, even the men of war that came forth out of Egypt, were consumed, because they hearkened not unto the voice of Jehovah: unto whom Jehovah sware that he would not let them see the land which Jehovah sware unto their fathers that he would give us, a land flowing with milk and honey. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005007,
+            "text": "And their children, whom he raised up in their stead, them did Joshua circumcise: for they were uncircumcised, because they had not circumcised them by the way. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005008,
+            "text": "And it came to pass, when they had done circumcising all the nation, that they abode in their places in the camp, till they were whole. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005009,
+            "text": "And Jehovah said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of that place was called <i>[c]</i>Gilgal, unto this day.",
+            "version": "ASV",
+            "clsstr": "Josh-5-9",
+            "footnotes": [
+                {
+                    "c": "That is, <i>Rolling</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005010,
+            "text": "\u00b6 And the children of Israel encamped in Gilgal; and they kept the passover on the fourteenth day of the month at even in the plains of Jericho. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005011,
+            "text": "And they did eat of the produce of the land on the morrow after the passover, unleavened cakes and parched grain, in the selfsame day. ",
+            "version": "ASV",
+            "clsstr": "Josh-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005012,
+            "text": "And the manna ceased on the morrow, after they had eaten of the produce of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.",
+            "version": "ASV",
+            "clsstr": "Josh-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005013,
+            "text": "\u00b6 And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries? ",
+            "version": "ASV",
+            "clsstr": "Josh-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005014,
+            "text": "And he said, Nay; but  prince of the host of Jehovah am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant? ",
+            "version": "ASV",
+            "clsstr": "Josh-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6005015,
+            "text": "And the prince of Jehovah\u2019s host said unto Joshua, Put off thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so.",
+            "version": "ASV",
+            "clsstr": "Josh-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Joshua",
+    "chapters": 5
+}

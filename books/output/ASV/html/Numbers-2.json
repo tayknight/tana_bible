@@ -1,0 +1,295 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4002001,
+            "text": "\u00b6 And Jehovah spake unto Moses and unto Aaron, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002002,
+            "text": "The children of Israel shall encamp every man by his own standard, with the ensigns of their fathers\u2019 houses: over against the tent of meeting shall they encamp round about. ",
+            "version": "ASV",
+            "clsstr": "Num-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002003,
+            "text": "And those that encamp on the east side toward the sunrising shall be they of the standard of the camp of Judah, according to their hosts: and the prince of the children of Judah shall be Nahshon the son of Amminadab. ",
+            "version": "ASV",
+            "clsstr": "Num-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002004,
+            "text": "And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002005,
+            "text": "And those that encamp next unto him shall be the tribe of Issachar: and the prince of the children of Issachar shall be Nethanel the son of Zuar. ",
+            "version": "ASV",
+            "clsstr": "Num-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002006,
+            "text": "And his host, and those that were numbered thereof, were fifty and four thousand and four hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002007,
+            "text": " the tribe of Zebulun: and the prince of the children of Zebulun shall be Eliab the son of Helon. ",
+            "version": "ASV",
+            "clsstr": "Num-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002008,
+            "text": "And his host, and those that were numbered thereof, were fifty and seven thousand and four hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002009,
+            "text": "All that were numbered of the camp of Judah were a hundred thousand and fourscore thousand and six thousand and four hundred, according to their hosts. They shall set forth first.",
+            "version": "ASV",
+            "clsstr": "Num-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002010,
+            "text": "\u00b6 On the south side shall be the standard of the camp of Reuben according to their hosts: and the prince of the children of Reuben shall be Elizur the son of Shedeur. ",
+            "version": "ASV",
+            "clsstr": "Num-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002011,
+            "text": "And his host, and those that were numbered thereof, were forty and six thousand and five hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002012,
+            "text": "And those that encamp next unto him shall be the tribe of Simeon: and the prince of the children of Simeon shall be Shelumiel the son of Zurishaddai. ",
+            "version": "ASV",
+            "clsstr": "Num-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002013,
+            "text": "And his host, and those that were numbered of them, were fifty and nine thousand and three hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002014,
+            "text": "And the tribe of Gad: and the prince of the children of Gad shall be Eliasaph the son of <i>[a]</i>Reuel. ",
+            "version": "ASV",
+            "clsstr": "Num-2-14",
+            "footnotes": [
+                {
+                    "a": "In [[1:14]], <i>Deuel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002015,
+            "text": "And his host, and those that were numbered of them, were forty and five thousand and six hundred and fifty. ",
+            "version": "ASV",
+            "clsstr": "Num-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002016,
+            "text": "All that were numbered of the camp of Reuben were a hundred thousand and fifty and one thousand and four hundred and fifty, according to their hosts. And they shall set forth second.",
+            "version": "ASV",
+            "clsstr": "Num-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002017,
+            "text": "\u00b6 Then the tent of meeting shall set forward, with the camp of the Levites in the midst of the camps: as they encamp, so shall they set forward, every man in his place, by their standards.",
+            "version": "ASV",
+            "clsstr": "Num-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002018,
+            "text": "\u00b6 On the west side shall be the standard of the camp of Ephraim according to their hosts: and the prince of the children of Ephraim shall be Elishama the son of Ammihud. ",
+            "version": "ASV",
+            "clsstr": "Num-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002019,
+            "text": "And his host, and those that were numbered of them, were forty thousand and five hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002020,
+            "text": "And next unto him shall be the tribe of Manasseh: and the prince of the children of Manasseh shall be Gamaliel the son of Pedahzur. ",
+            "version": "ASV",
+            "clsstr": "Num-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002021,
+            "text": "And his host, and those that were numbered of them, were thirty and two thousand and two hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002022,
+            "text": "And the tribe of Benjamin: and the prince of the children of Benjamin shall be Abidan the son of Gideoni. ",
+            "version": "ASV",
+            "clsstr": "Num-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002023,
+            "text": "And his host, and those that were numbered of them, were thirty and five thousand and four hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002024,
+            "text": "All that were numbered of the camp of Ephraim were a hundred thousand and eight thousand and a hundred, according to their hosts. And they shall set forth third.",
+            "version": "ASV",
+            "clsstr": "Num-2-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002025,
+            "text": "\u00b6 On the north side shall be the standard of the camp of Dan according to their hosts: and the prince of the children of Dan shall be Ahiezer the son of Ammishaddai. ",
+            "version": "ASV",
+            "clsstr": "Num-2-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002026,
+            "text": "And his host, and those that were numbered of them, were threescore and two thousand and seven hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002027,
+            "text": "And those that encamp next unto him shall be the tribe of Asher: and the prince of the children of Asher shall be Pagiel the son of Ochran. ",
+            "version": "ASV",
+            "clsstr": "Num-2-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002028,
+            "text": "And his hosts, and those that were numbered of them, were forty and one thousand and five hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002029,
+            "text": "And the tribe of Naphtali: and the prince of the children of Naphtali shall be Ahira the son of Enan. ",
+            "version": "ASV",
+            "clsstr": "Num-2-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002030,
+            "text": "And his host, and those that were numbered of them, were fifty and three thousand and four hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-2-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002031,
+            "text": "All that were numbered of the camp of Dan were a hundred thousand and fifty and seven thousand and six hundred. They shall set forth hindmost by their standards.",
+            "version": "ASV",
+            "clsstr": "Num-2-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002032,
+            "text": "\u00b6 These are they that were numbered of the children of Israel by their fathers\u2019 houses: all that were numbered of the camps according to their hosts were six hundred thousand and three thousand and five hundred and fifty. ",
+            "version": "ASV",
+            "clsstr": "Num-2-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002033,
+            "text": "But the Levites were not numbered among the children of Israel; as Jehovah commanded Moses. ",
+            "version": "ASV",
+            "clsstr": "Num-2-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4002034,
+            "text": "Thus did the children of Israel; according to all that Jehovah commanded Moses, so they encamped by their standards, and so they set forward, every one by their families, according to their fathers\u2019 houses.",
+            "version": "ASV",
+            "clsstr": "Num-2-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 2
+}

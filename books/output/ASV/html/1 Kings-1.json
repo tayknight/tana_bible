@@ -1,0 +1,487 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11001001,
+            "text": "\u00b6 Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001002,
+            "text": "Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and cherish him; and let her lie in thy bosom, that my lord the king may get heat. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001003,
+            "text": "So they sought for a fair damsel throughout all the borders of Israel, and found Abishag the Shunammite, and brought her to the king. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001004,
+            "text": "And the damsel was very fair; and she cherished the king, and ministered to him; but the king knew her not.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001005,
+            "text": "\u00b6 Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001006,
+            "text": "And his father had not displeased him <i>[a]</i>at any time in saying, Why hast thou done so? and he was also a very goodly man; and he was born after Absalom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>all his life</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001007,
+            "text": "And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001008,
+            "text": "But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men that belonged to David, were not with Adonijah. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001009,
+            "text": "And Adonijah <i>[b]</i>slew sheep and oxen and fatlings by the stone of Zoheleth, which is beside En-rogel; and he called all his brethren, the king\u2019s sons, and all the men of Judah, the king\u2019s servants: ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>sacrificed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001010,
+            "text": "but Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001011,
+            "text": "\u00b6 Then Nathan spake unto Bath-sheba the mother of Solomon, saying, Hast thou not heard that Adonijah the son of Haggith doth reign, and David our lord knoweth it not? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001012,
+            "text": "Now therefore come, let me, I pray thee, give thee counsel, that thou mayest save thine own life, and the life of thy son Solomon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001013,
+            "text": "Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thy handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001014,
+            "text": "Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001015,
+            "text": "\u00b6 And Bath-sheba went in unto the king into the chamber: and the king was very old; and Abishag the Shunammite was ministering unto the king. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001016,
+            "text": "And Bath-sheba bowed, and did obeisance unto the king. And the king said, What wouldest thou? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001017,
+            "text": "And she said unto him, My lord, thou swarest by Jehovah thy God unto thy handmaid, , Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001018,
+            "text": "And now, behold, Adonijah reigneth; <i>[c]</i>and thou, my lord the king, knowest it not: ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-18",
+            "footnotes": [
+                {
+                    "c": "Another reading is, <i>and now, my lord the king, thou etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001019,
+            "text": "and he hath <i>[d]</i>slain oxen and fatlings and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host; but Solomon thy servant hath he not called. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-19",
+            "footnotes": [
+                {
+                    "d": "Or, <i>sacrificed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001020,
+            "text": "And <i>[e]</i>thou, my lord the king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-20",
+            "footnotes": [
+                {
+                    "e": "Another reading is, <i>now</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001021,
+            "text": "Otherwise it will come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted <i>[f]</i>offenders.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-21",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>sinners</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001022,
+            "text": "\u00b6 And, lo, while she yet talked with the king, Nathan the prophet came in. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001023,
+            "text": "And they told the king, saying, Behold, Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001024,
+            "text": "And Nathan said, My lord, O king, hast thou said, Adonijah shall reign after me, and he shall sit upon my throne? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001025,
+            "text": "For he is gone down this day, and hath <i>[g]</i>slain oxen and fatlings and sheep in abundance, and hath called all the king\u2019s sons, and the captains of the host, and Abiathar the priest; and, behold, they are eating and drinking before him, and say,  live king Adonijah. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-25",
+            "footnotes": [
+                {
+                    "g": "Or, <i>sacrificed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001026,
+            "text": "But me, even me thy servant, and Zadok the priest, and Benaiah the son of Jehoiada, and thy servant Solomon, hath he not called. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001027,
+            "text": "Is this thing done by my lord the king, and thou hast not showed unto thy <i>[h]</i>servants who should sit on the throne of my lord the king after him?",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-27",
+            "footnotes": [
+                {
+                    "h": "Another reading is, <i>servant</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001028,
+            "text": "\u00b6 Then king David answered and said, Call to me Bath-sheba. And she came into the king\u2019s presence, and stood before the king. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001029,
+            "text": "And the king sware, and said, As Jehovah liveth, who hath redeemed my soul out of all adversity, ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001030,
+            "text": "verily as I sware unto thee by Jehovah, the God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; verily so will I do this day. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001031,
+            "text": "Then Bath-sheba bowed with her face to the earth, and did obeisance to the king, and said, Let my lord king David live for ever.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001032,
+            "text": "\u00b6 And king David said, Call to me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001033,
+            "text": "And the king said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon: ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001034,
+            "text": "and let Zadok the priest and Nathan the prophet anoint him there king over Israel; and blow ye the trumpet, and say,  live king Solomon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001035,
+            "text": "Then ye shall come up after him, and he shall come and sit upon my throne; for he shall be king in my stead; and I have appointed him to be <i>[i]</i>prince over Israel and over Judah. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-35",
+            "footnotes": [
+                {
+                    "i": "Or, <i>leader</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001036,
+            "text": "And Benaiah the son of Jehoiada answered the king, and said, Amen: Jehovah, the God of my lord the king, say so . ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001037,
+            "text": "As Jehovah hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001038,
+            "text": "\u00b6 So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites and the Pelethites, went down, and caused Solomon to ride upon king David\u2019s mule, and brought him to Gihon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001039,
+            "text": "And Zadok the priest took the horn of oil out of the Tent, and anointed Solomon. And they blew the trumpet; and all the people said,  live king Solomon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001040,
+            "text": "And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001041,
+            "text": "\u00b6 And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore is this noise of the city being in an uproar? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001042,
+            "text": "While he yet spake, behold, Jonathan the son of Abiathar the priest came: and Adonijah said, Come in; for thou art a worthy man, and bringest good tidings. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001043,
+            "text": "And Jonathan answered and said to Adonijah, Verily our lord king David hath made Solomon king: ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001044,
+            "text": "and the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites and the Pelethites; and they have caused him to ride upon the king\u2019s mule; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001045,
+            "text": "and Zadok the priest and Nathan the prophet have anointed him king in Gihon; and they are come up from thence rejoicing, so that the city rang again. This is the noise that ye have heard. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001046,
+            "text": "And also Solomon sitteth on the throne of the kingdom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001047,
+            "text": "And moreover the king\u2019s servants came to bless our lord king David, saying, <i>[j]</i>Thy God make the name of Solomon better than thy name, and make his throne greater than thy throne: and the king bowed himself upon the bed. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-47",
+            "footnotes": [
+                {
+                    "j": "Another reading omits <i>Thy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001048,
+            "text": "And also thus said the king, Blessed be Jehovah, the God of Israel, who hath given one to sit on my throne this day, mine eyes even seeing it.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001049,
+            "text": "\u00b6 And all the guests of Adonijah were afraid, and rose up, and went every man his way. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001050,
+            "text": "And Adonijah feared because of Solomon; and he arose, and went, and caught hold on the horns of the altar. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001051,
+            "text": "And it was told Solomon, saying, Behold, Adonijah feareth king Solomon; for, lo, he hath laid hold on the horns of the altar, saying, Let king Solomon swear unto me <i>[k]</i>first that he will not slay his servant with the sword. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-51",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>to-day</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001052,
+            "text": "And Solomon said, If he shall show himself a worthy man, there shall not a hair of him fall to the earth; but if wickedness be found in him, he shall die. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11001053,
+            "text": "So king Solomon sent, and they brought him down from the altar. And he came and did obeisance to king Solomon; and Solomon said unto him, Go to thy house.",
+            "version": "ASV",
+            "clsstr": "1Kgs-1-53",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 1
+}

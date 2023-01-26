@@ -1,0 +1,447 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42020001,
+            "text": "\u00b6 And it came to pass, on one of the days, as he was teaching the people in the temple, and preaching the <i>[a]</i>gospel, there came upon him the chief priests and the scribes with the elders; ",
+            "version": "ASV",
+            "clsstr": "Luke-20-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>good tidings</i>: compare [[3:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020002,
+            "text": "and they spake, saying unto him, Tell us: By what authority doest thou these things? or who is he that gave thee this authority? ",
+            "version": "ASV",
+            "clsstr": "Luke-20-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020003,
+            "text": "And he answered and said unto them, I also will ask you a <i>[b]</i>question; and tell me: ",
+            "version": "ASV",
+            "clsstr": "Luke-20-3",
+            "footnotes": [
+                {
+                    "b": "Greek <i>word</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020004,
+            "text": "The baptism of John, was it from heaven, or from men? ",
+            "version": "ASV",
+            "clsstr": "Luke-20-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020005,
+            "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why did ye not believe him? ",
+            "version": "ASV",
+            "clsstr": "Luke-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020006,
+            "text": "But if we shall say, From men; all the people will stone us: for they are persuaded that John was a prophet. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020007,
+            "text": "And they answered, that they knew not whence . ",
+            "version": "ASV",
+            "clsstr": "Luke-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020008,
+            "text": "And Jesus said unto them, Neither tell I you by what authority I do these things.",
+            "version": "ASV",
+            "clsstr": "Luke-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020009,
+            "text": "\u00b6 And he began to speak unto the people this parable: A man planted a vineyard, and let it out to husbandmen, and went into another country for a long time. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020010,
+            "text": "And at the season he sent unto the husbandmen a <i>[c]</i>servant, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-10",
+            "footnotes": [
+                {
+                    "c": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020011,
+            "text": "And he sent yet another <i>[d]</i>servant: and him also they beat, and handled him shamefully, and sent him away empty. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-11",
+            "footnotes": [
+                {
+                    "d": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020012,
+            "text": "And he sent yet a third: and him also they wounded, and cast him forth. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020013,
+            "text": "And the lord of the vineyard said, What shall I do? I will send my beloved son; it may be they will reverence him. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020014,
+            "text": "But when the husbandmen saw him, they reasoned one with another, saying, This is the heir; let us kill him, that the inheritance may be ours. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020015,
+            "text": "And they cast him forth out of the vineyard, and killed him. What therefore will the lord of the vineyard do unto them? ",
+            "version": "ASV",
+            "clsstr": "Luke-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020016,
+            "text": "He will come and destroy these husbandmen, and will give the vineyard unto others. And when they heard it, they said, <i>[e]</i>God forbid. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-16",
+            "footnotes": [
+                {
+                    "e": "Greek <i>Be it not so</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020017,
+            "text": "But he looked upon them, and said, What then is this that is written,\u00b6   <i>[f]</i>The stone which the builders rejected,\n    The same was made the head of the corner?\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-20-17",
+            "footnotes": [
+                {
+                    "f": "[[Ps. 118:22]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020018,
+            "text": "\u00b6 Every one that falleth on that stone shall be broken to pieces; but on whomsoever it shall fall, it will scatter him as dust.",
+            "version": "ASV",
+            "clsstr": "Luke-20-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020019,
+            "text": "\u00b6 And the scribes and the chief priests sought to lay hands on him in that very hour; and they feared the people: for they perceived that he spake this parable against them. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020020,
+            "text": "And they watched him, and sent forth spies, who feigned themselves to be righteous, that they might take hold of his speech, so as to deliver him up to the <i>[g]</i>rule and to the authority of the governor. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-20",
+            "footnotes": [
+                {
+                    "g": "Or, <i>ruling power</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020021,
+            "text": "And they asked him, saying, Teacher, we know that thou sayest and teachest rightly, and acceptest not the person , but of a truth teachest the way of God: ",
+            "version": "ASV",
+            "clsstr": "Luke-20-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020022,
+            "text": "Is it lawful for us to give tribute unto Caesar, or not? ",
+            "version": "ASV",
+            "clsstr": "Luke-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020023,
+            "text": "But he perceived their craftiness, and said unto them, ",
+            "version": "ASV",
+            "clsstr": "Luke-20-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020024,
+            "text": "Show me a <i>[h]</i>denarius. Whose image and superscription hath it? And they said, Caesar\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-24",
+            "footnotes": [
+                {
+                    "h": "See marginal note on [[7:41]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020025,
+            "text": "And he said unto them, Then render unto Caesar the things that are Caesar\u2019s, and unto God the things that are God\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020026,
+            "text": "And they were not able to take hold of the saying before the people: and they marvelled at his answer, and held their peace.",
+            "version": "ASV",
+            "clsstr": "Luke-20-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020027,
+            "text": "\u00b6 And there came to him certain of the Sadducees, they that say that there is no resurrection; ",
+            "version": "ASV",
+            "clsstr": "Luke-20-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020028,
+            "text": "and they asked him, saying, Teacher, <i>[i]</i>Moses wrote unto us, that if a man\u2019s brother die, having a wife, and he be childless, his brother should take the wife, and raise up seed unto his brother. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-28",
+            "footnotes": [
+                {
+                    "i": "[[Dt. 25:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020029,
+            "text": "There were therefore seven brethren: and the first took a wife, and died childless; ",
+            "version": "ASV",
+            "clsstr": "Luke-20-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020030,
+            "text": "and the second: ",
+            "version": "ASV",
+            "clsstr": "Luke-20-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020031,
+            "text": "and the third took her; and likewise the seven also left no children, and died. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020032,
+            "text": "Afterward the woman also died. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020033,
+            "text": "In the resurrection therefore whose wife of them shall she be? for the seven had her to wife. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020034,
+            "text": "And Jesus said unto them, The sons of this <i>[j]</i>world marry, and are given in marriage: ",
+            "version": "ASV",
+            "clsstr": "Luke-20-34",
+            "footnotes": [
+                {
+                    "j": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020035,
+            "text": "but they that are accounted worthy to attain to that <i>[k]</i>world, and the resurrection from the dead, neither marry, nor are given in marriage: ",
+            "version": "ASV",
+            "clsstr": "Luke-20-35",
+            "footnotes": [
+                {
+                    "k": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020036,
+            "text": "for neither can they die any more: for they are equal unto the angels; and are sons of God, being sons of the resurrection. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020037,
+            "text": "But that the dead are raised, even Moses showed, in <i>[l]</i> the Bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-37",
+            "footnotes": [
+                {
+                    "l": "[[Ex. 3:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020038,
+            "text": "Now he is not the God of the dead, but of the living: for all live unto him. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020039,
+            "text": "And certain of the scribes answering said, Teacher, thou hast well said. ",
+            "version": "ASV",
+            "clsstr": "Luke-20-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020040,
+            "text": "For they durst not any more ask him any question.",
+            "version": "ASV",
+            "clsstr": "Luke-20-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020041,
+            "text": "\u00b6 And he said unto them, How say they that the Christ is David\u2019s son? ",
+            "version": "ASV",
+            "clsstr": "Luke-20-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020042,
+            "text": "For David himself saith in the book of Psalms,\u00b6   <i>[m]</i>The Lord said unto my Lord,\n    Sit thou on my right hand,\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-20-42",
+            "footnotes": [
+                {
+                    "m": "[[Ps. 110:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020043,
+            "text": "    Till I make thine enemies the footstool of thy feet.\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-20-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020044,
+            "text": "\u00b6 David therefore calleth him Lord, and how is he his son?",
+            "version": "ASV",
+            "clsstr": "Luke-20-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020045,
+            "text": "\u00b6 And in the hearing of all the people he said unto his disciples, ",
+            "version": "ASV",
+            "clsstr": "Luke-20-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020046,
+            "text": "Beware of the scribes, who desire to walk in long robes, and love salutations in the marketplaces, and chief seats in the synagogues, and chief places at feasts; ",
+            "version": "ASV",
+            "clsstr": "Luke-20-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42020047,
+            "text": "who devour widows\u2019 houses, and for a pretence make long prayers: these shall receive greater condemnation.",
+            "version": "ASV",
+            "clsstr": "Luke-20-47",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 20
+}

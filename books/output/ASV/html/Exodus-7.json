@@ -1,0 +1,247 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2007001,
+            "text": "\u00b6 And Jehovah said unto Moses, See, I have made thee as God to Pharaoh; and Aaron thy brother shall be thy prophet. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007002,
+            "text": "Thou shalt speak all that I command thee; and Aaron thy brother shall speak unto Pharaoh, that he let the children of Israel go out of his land. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007003,
+            "text": "And I will harden Pharaoh\u2019s heart, and multiply my signs and my wonders in the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007004,
+            "text": "But Pharaoh will not hearken unto you, and I will lay my hand upon Egypt, and bring forth my hosts, my people the children of Israel, out of the land of Egypt by great judgments. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007005,
+            "text": "And the Egyptians shall know that I am Jehovah, when I stretch forth my hand upon Egypt, and bring out the children of Israel from among them. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007006,
+            "text": "And Moses and Aaron did so; as Jehovah commanded them, so did they. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007007,
+            "text": "And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh.",
+            "version": "ASV",
+            "clsstr": "Exod-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007008,
+            "text": "\u00b6 And Jehovah spake unto Moses and unto Aaron, saying, ",
+            "version": "ASV",
+            "clsstr": "Exod-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007009,
+            "text": "When Pharaoh shall speak unto you, saying, Show a wonder for you; then thou shalt say unto Aaron, Take thy rod, and cast it down before Pharaoh, that it become a <i>[a]</i>serpent. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-9",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>tannin</i>, any large reptile; and so in verses [[10]], [[12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007010,
+            "text": "And Moses and Aaron went in unto Pharaoh, and they did so, as Jehovah had commanded: and Aaron cast down his rod before Pharaoh and before his servants, and it became a serpent. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007011,
+            "text": "Then Pharaoh also called for the wise men and the sorcerers: and they also, the magicians of Egypt, did in like manner with their <i>[b]</i>enchantments. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-11",
+            "footnotes": [
+                {
+                    "b": "Or, <i>secret arts</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007012,
+            "text": "For they cast down every man his rod, and they became serpents: but Aaron\u2019s rod swallowed up their rods. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007013,
+            "text": "And Pharaoh\u2019s heart <i>[c]</i>was hardened, and he hearkened not unto them; as Jehovah had spoken.",
+            "version": "ASV",
+            "clsstr": "Exod-7-13",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>was strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007014,
+            "text": "\u00b6 And Jehovah said unto Moses, Pharaoh\u2019s heart is <i>[d]</i>stubborn, he refuseth to let the people go. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-14",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>heavy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007015,
+            "text": "Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river\u2019s brink to meet him; and the rod which was turned to a serpent shalt thou take in thy hand. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007016,
+            "text": "And thou shalt say unto him, Jehovah, the God of the Hebrews, hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou hast not hearkened. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007017,
+            "text": "Thus saith Jehovah, In this thou shalt know that I am Jehovah: behold, I will smite with the rod that is in my hand upon the waters which are in the river, and they shall be turned to blood. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007018,
+            "text": "And the fish that are in the river shall die, and the river shall become foul; and the Egyptians shall loathe to drink water from the river. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007019,
+            "text": "And Jehovah said unto Moses, Say unto Aaron, Take thy rod, and stretch out thy hand over the waters of Egypt, over their rivers, over their <i>[e]</i>streams, and over their pools, and over all their ponds of water, that they may become blood; and there shall be blood throughout all the land of Egypt, both in vessels of wood and in vessels of stone.",
+            "version": "ASV",
+            "clsstr": "Exod-7-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>canals</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007020,
+            "text": "\u00b6 And Moses and Aaron did so, as Jehovah commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007021,
+            "text": "And the fish that were in the river died; and the river became foul, and the Egyptians could not drink water from the river; and the blood was throughout all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007022,
+            "text": "And the magicians of Egypt did in like manner with their enchantments: and Pharaoh\u2019s heart <i>[f]</i>was hardened, and he hearkened not unto them; as Jehovah had spoken. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-22",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>was strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007023,
+            "text": "And Pharaoh turned and went into his house, neither did he <i>[g]</i>lay even this to heart. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-23",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>set his heart even to this</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007024,
+            "text": "And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river. ",
+            "version": "ASV",
+            "clsstr": "Exod-7-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2007025,
+            "text": "And seven days were fulfilled, after that Jehovah had smitten the river.",
+            "version": "ASV",
+            "clsstr": "Exod-7-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 7
+}

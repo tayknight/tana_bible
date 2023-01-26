@@ -1,0 +1,346 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41008001,
+            "text": "\u00b6 In those days, when there was again a great multitude, and they had nothing to eat, he called unto him his disciples, and saith unto them, ",
+            "version": "ASV",
+            "clsstr": "Mark-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008002,
+            "text": "I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: ",
+            "version": "ASV",
+            "clsstr": "Mark-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008003,
+            "text": "and if I send them away fasting to their home, they will faint on the way; and some of them are come from far. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008004,
+            "text": "And his disciples answered him, Whence shall one be able to fill these men with <i>[a]</i>bread here in a desert place? ",
+            "version": "ASV",
+            "clsstr": "Mark-8-4",
+            "footnotes": [
+                {
+                    "a": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008005,
+            "text": "And he asked them, How many loaves have ye? And they said, Seven. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008006,
+            "text": "And he commandeth the multitude to sit down on the ground: and he took the seven loaves, and having given thanks, he brake, and gave to his disciples, to set before them; and they set them before the multitude. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008007,
+            "text": "And they had a few small fishes: and having blessed them, he commanded to set these also before them. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008008,
+            "text": "And they ate, and were filled: and they took up, of broken pieces that remained over, seven baskets. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008009,
+            "text": "And they were about four thousand: and he sent them away. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008010,
+            "text": "And straightway he entered into the boat with his disciples, and came into the parts of Dalmanutha.",
+            "version": "ASV",
+            "clsstr": "Mark-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008011,
+            "text": "\u00b6 And the Pharisees came forth, and began to question with him, seeking of him a sign from heaven, trying him. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008012,
+            "text": "And he sighed deeply in his spirit, and saith, Why doth this generation seek a sign? verily I say unto you, There shall no sign be given unto this generation. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008013,
+            "text": "And he left them, and again entering into  departed to the other side.",
+            "version": "ASV",
+            "clsstr": "Mark-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008014,
+            "text": "\u00b6 And they forgot to take bread; and they had not in the boat with them more than one loaf. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008015,
+            "text": "And he charged them, saying, Take heed, beware of the leaven of the Pharisees and the leaven of Herod. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008016,
+            "text": "And they reasoned one with another, <i>[b]</i>saying, <i>[c]</i>We have no bread. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-16",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities read <i>because they had no bread</i>."
+                },
+                {
+                    "c": "Or, It is <i>because we have no bread</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008017,
+            "text": "And Jesus perceiving it saith unto them, Why reason ye, because ye have no bread? do ye not yet perceive, neither understand? have ye your heart hardened? ",
+            "version": "ASV",
+            "clsstr": "Mark-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008018,
+            "text": "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember? ",
+            "version": "ASV",
+            "clsstr": "Mark-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008019,
+            "text": "When I brake the five loaves among the five thousand, how many <i>[d]</i>baskets full of broken pieces took ye up? They say unto him, Twelve. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-19",
+            "footnotes": [
+                {
+                    "d": "<i>Basket</i> in verses [[19]] and [[20]] represent different Greek words."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008020,
+            "text": "And when the seven among the four thousand, how many <i>[e]</i>basketfuls of broken pieces took ye up? And they say unto him, Seven. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-20",
+            "footnotes": [
+                {
+                    "e": "<i>Basket</i> in verses [[19]] and [[20]] represent different Greek words."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008021,
+            "text": "And he said unto them, Do ye not yet understand?",
+            "version": "ASV",
+            "clsstr": "Mark-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008022,
+            "text": "\u00b6 And they come unto Bethsaida. And they bring to him a blind man, and beseech him to touch him. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008023,
+            "text": "And he took hold of the blind man by the hand, and brought him out of the village; and when he had spit on his eyes, and laid his hands upon him, he asked him, Seest thou aught? ",
+            "version": "ASV",
+            "clsstr": "Mark-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008024,
+            "text": "And he looked up, and said, I see men; for I behold  as trees, walking. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008025,
+            "text": "Then again he laid his hands upon his eyes; and he looked stedfastly, and was restored, and saw all things clearly. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008026,
+            "text": "And he sent him away to his home, saying, Do not even enter into the village.",
+            "version": "ASV",
+            "clsstr": "Mark-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008027,
+            "text": "\u00b6 And Jesus went forth, and his disciples, into the villages of Caesarea Philippi: and on the way he asked his disciples, saying unto them, Who do men say that I am? ",
+            "version": "ASV",
+            "clsstr": "Mark-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008028,
+            "text": "And they told him, saying, John the Baptist; and others, Elijah; but others, One of the prophets. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008029,
+            "text": "And he asked them, But who say ye that I am? Peter answereth and saith unto him, Thou art the Christ. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008030,
+            "text": "And he charged them that they should tell no man of him.",
+            "version": "ASV",
+            "clsstr": "Mark-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008031,
+            "text": "\u00b6 And he began to teach them, that the Son of man must suffer many things, and be rejected by the elders, and the chief priests, and the scribes, and be killed, and after three days rise again. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008032,
+            "text": "And he spake the saying openly. And Peter took him, and began to rebuke him. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008033,
+            "text": "But he turning about, and seeing his disciples, rebuked Peter, and saith, Get thee behind me, Satan; for thou mindest not the things of God, but the things of men. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008034,
+            "text": "And he called unto him the multitude with his disciples, and said unto them, If any man would come after me, let him deny himself, and take up his cross, and follow me. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008035,
+            "text": "For whosoever would save his life shall lose it; and whosoever shall lose his life for my sake and the <i>[f]</i>gospel\u2019s shall save it. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-35",
+            "footnotes": [
+                {
+                    "f": "See marginal note on [[1:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008036,
+            "text": "For what doth it profit a man, to gain the whole world, and forfeit his life? ",
+            "version": "ASV",
+            "clsstr": "Mark-8-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008037,
+            "text": "For what should a man give in exchange for his life? ",
+            "version": "ASV",
+            "clsstr": "Mark-8-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41008038,
+            "text": "For whosoever shall be ashamed of me and of my words in this adulterous and sinful generation, the Son of man also shall be ashamed of him, when he cometh in the glory of his Father with the holy angels. ",
+            "version": "ASV",
+            "clsstr": "Mark-8-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 8
+}

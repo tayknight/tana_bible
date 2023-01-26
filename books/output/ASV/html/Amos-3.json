@@ -1,0 +1,158 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 30,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 9,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 30,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 30003001,
+            "text": "\u00b6 Hear this word that Jehovah hath spoken against you, O children of Israel, against the whole family which I brought up out of the land of Egypt, saying, ",
+            "version": "ASV",
+            "clsstr": "Amos-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003002,
+            "text": "You only have I known of all the families of the earth: therefore I will visit upon you all your iniquities. ",
+            "version": "ASV",
+            "clsstr": "Amos-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003003,
+            "text": "Shall two walk together, except they have <i>[a]</i>agreed? ",
+            "version": "ASV",
+            "clsstr": "Amos-3-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>made an appointment</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003004,
+            "text": "Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing? ",
+            "version": "ASV",
+            "clsstr": "Amos-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003005,
+            "text": "Can a bird fall in a snare upon the earth, where no gin is  for him? shall a snare spring up from the ground, and have taken nothing at all? ",
+            "version": "ASV",
+            "clsstr": "Amos-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003006,
+            "text": "Shall the trumpet be blown in a city, and the people not be afraid? shall evil befall a city, and Jehovah hath not done it? ",
+            "version": "ASV",
+            "clsstr": "Amos-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003007,
+            "text": "Surely the Lord Jehovah will do nothing, except he reveal his secret unto his servants the prophets. ",
+            "version": "ASV",
+            "clsstr": "Amos-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003008,
+            "text": "The lion hath roared; who will not fear? The Lord Jehovah hath spoken; who can but prophesy?",
+            "version": "ASV",
+            "clsstr": "Amos-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003009,
+            "text": "\u00b6 Publish ye <i>[b]</i>in the palaces at Ashdod, and <i>[c]</i>in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold what great tumults are therein, and what oppressions in the midst thereof. ",
+            "version": "ASV",
+            "clsstr": "Amos-3-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>upon</i>"
+                },
+                {
+                    "c": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003010,
+            "text": "For they know not to do right, saith Jehovah, who store up violence and robbery in their palaces. ",
+            "version": "ASV",
+            "clsstr": "Amos-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003011,
+            "text": "Therefore thus saith the Lord Jehovah: An adversary , even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be plundered. ",
+            "version": "ASV",
+            "clsstr": "Amos-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003012,
+            "text": "Thus saith Jehovah: As the shepherd rescueth out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued that sit in Samaria in the corner of a couch, and <i>[d]</i>on the silken cushions of a bed.",
+            "version": "ASV",
+            "clsstr": "Amos-3-12",
+            "footnotes": [
+                {
+                    "d": "According to some manuscripts, <i>in Damascus on a bed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003013,
+            "text": "\u00b6 Hear ye, and testify against the house of Jacob, saith the Lord Jehovah, the God of hosts. ",
+            "version": "ASV",
+            "clsstr": "Amos-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003014,
+            "text": "For in the day that I shall visit the transgressions of Israel upon him, I will also visit the altars of Beth-el; and the horns of the altar shall be cut off, and fall to the ground. ",
+            "version": "ASV",
+            "clsstr": "Amos-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30003015,
+            "text": "And I will smite the winter-house with the summer-house; and the houses of ivory shall perish, and <i>[e]</i>the great houses shall have an end, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-3-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>many houses</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Amos",
+    "chapters": 3
+}

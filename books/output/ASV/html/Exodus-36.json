@@ -1,0 +1,353 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2036001,
+            "text": "\u00b6 And Bezalel and Oholiab shall work, and every wise-hearted man, in whom Jehovah hath put wisdom and understanding to know how to work all the work for the service of the sanctuary, according to all that Jehovah hath commanded.",
+            "version": "ASV",
+            "clsstr": "Exod-36-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036002,
+            "text": "\u00b6 And Moses called Bezalel and Oholiab, and every wise-hearted man, in whose heart Jehovah had put wisdom, even every one whose heart stirred him up to come unto the work to do it: ",
+            "version": "ASV",
+            "clsstr": "Exod-36-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036003,
+            "text": "and they received of Moses all the offering which the children of Israel had brought for the work of the service of the sanctuary, wherewith to make it. And they brought yet unto him freewill-offerings every morning. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036004,
+            "text": "And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they wrought; ",
+            "version": "ASV",
+            "clsstr": "Exod-36-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036005,
+            "text": "and they spake unto Moses, saying, The people bring much more than enough for the service of the work which Jehovah commanded to make. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036006,
+            "text": "And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036007,
+            "text": "For the stuff they had was sufficient for all the work to make it, and too much.",
+            "version": "ASV",
+            "clsstr": "Exod-36-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036008,
+            "text": "\u00b6 And all the wise-hearted men among them that wrought the work made the tabernacle with ten curtains; of fine twined linen, and blue, and purple, and scarlet, with cherubim, the work of the skilful workman,  made them. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036009,
+            "text": "The length of each curtain was eight and twenty cubits, and the breadth of each curtain four cubits: all the curtains had one measure. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036010,
+            "text": "And he coupled five curtains one to another: and  five curtains he coupled one to another. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036011,
+            "text": "And he made loops of blue upon the edge of the one curtain <i>[a]</i>from the selvedge in the coupling: likewise he made in the edge of the curtain that was outmost in the second <i>[b]</i>coupling. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-11",
+            "footnotes": [
+                {
+                    "a": "Or, <i>that was outmost in the</i> first <i>set</i>"
+                },
+                {
+                    "b": "Or, <i>set</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036012,
+            "text": "Fifty loops made he in the one curtain, and fifty loops made he in the edge of the curtain that was in the second <i>[c]</i>coupling: the loops were opposite one to another. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>set</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036013,
+            "text": "And he made fifty clasps of gold, and coupled the curtains one to another with the clasps: so the tabernacle was one.",
+            "version": "ASV",
+            "clsstr": "Exod-36-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036014,
+            "text": "\u00b6 And he made curtains of goats\u2019  for a tent over the tabernacle: eleven curtains he made them. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036015,
+            "text": "The length of each curtain was thirty cubits, and four cubits the breadth of each curtain: the eleven curtains had one measure. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036016,
+            "text": "And he coupled five curtains by themselves, and six curtains by themselves. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036017,
+            "text": "And he made fifty loops on the edge of the curtain that was outmost in the <i>[d]</i>coupling, and fifty loops made he upon the edge of the curtain which was the second <i>[e]</i>coupling. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-17",
+            "footnotes": [
+                {
+                    "d": "Or, first <i>set</i>"
+                },
+                {
+                    "e": "Or, <i>set</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036018,
+            "text": "And he made fifty clasps of brass to couple the tent together, that it might be one. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036019,
+            "text": "And he made a covering for the tent of rams\u2019 skins dyed red, and a covering of <i>[f]</i>sealskins above.",
+            "version": "ASV",
+            "clsstr": "Exod-36-19",
+            "footnotes": [
+                {
+                    "f": "Or, <i>porpoise-skins</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036020,
+            "text": "\u00b6 And he made the boards for the tabernacle, of acacia wood, standing up. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036021,
+            "text": "Ten cubits was the length of a board, and a cubit and a half the breadth of each board. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036022,
+            "text": "Each board had two tenons, <i>[g]</i>joined one to another: thus did he make for all the boards of the tabernacle. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-22",
+            "footnotes": [
+                {
+                    "g": "Or, <i>mortised</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036023,
+            "text": "And he made the boards for the tabernacle: twenty boards for the south side southward; ",
+            "version": "ASV",
+            "clsstr": "Exod-36-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036024,
+            "text": "and he made forty sockets of silver under the twenty boards; two sockets under one board for its two tenons, and two sockets under another board for its two tenons. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036025,
+            "text": "And for the second side of the tabernacle, on the north side, he made twenty boards, ",
+            "version": "ASV",
+            "clsstr": "Exod-36-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036026,
+            "text": "and their forty sockets of silver; two sockets under one board, and two sockets under another board. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036027,
+            "text": "And for the hinder part of the tabernacle westward he made six boards. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036028,
+            "text": "And two boards made he for the corners of the tabernacle in the hinder part. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036029,
+            "text": "And they were double beneath; and in like manner they were entire unto the top thereof unto <i>[h]</i>one ring: thus he did to both of them in the two corners. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-29",
+            "footnotes": [
+                {
+                    "h": "Or, <i>the first</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036030,
+            "text": "And there were eight boards, and their sockets of silver, sixteen sockets; under every board two sockets.",
+            "version": "ASV",
+            "clsstr": "Exod-36-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036031,
+            "text": "\u00b6 And he made bars of acacia wood; five for the boards of the one side of the tabernacle, ",
+            "version": "ASV",
+            "clsstr": "Exod-36-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036032,
+            "text": "and five bars for the boards of the other side of the tabernacle, and five bars for the boards of the tabernacle for the hinder part westward. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036033,
+            "text": "And he made the middle bar to pass through in the midst of the boards from the one end to the other. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036034,
+            "text": "And he overlaid the boards with gold, and made their rings of gold for places for the bars, and overlaid the bars with gold.",
+            "version": "ASV",
+            "clsstr": "Exod-36-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036035,
+            "text": "\u00b6 And he made the veil of blue, and purple, and scarlet, and fine twined linen: with cherubim, the work of the skilful workman, made he it. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036036,
+            "text": "And he made thereunto four pillars of acacia, and overlaid them with gold: their hooks were of gold; and he cast for them four sockets of silver. ",
+            "version": "ASV",
+            "clsstr": "Exod-36-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036037,
+            "text": "And he made a screen for the door of the Tent, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer; ",
+            "version": "ASV",
+            "clsstr": "Exod-36-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2036038,
+            "text": "and the five pillars of it with their hooks: and he overlaid their capitals and their fillets with gold; and their five sockets were of brass.",
+            "version": "ASV",
+            "clsstr": "Exod-36-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 36
+}

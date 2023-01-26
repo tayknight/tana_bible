@@ -1,0 +1,158 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28008001,
+            "text": "\u00b6 <i>[a]</i> the trumpet to thy mouth. As an eagle  against the house of Jehovah, because they have transgressed my covenant, and trespassed against my law. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>The trumpet to thy mouth! As an eagle against the house of Jehovah!</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008002,
+            "text": "They shall cry unto me, My God, we Israel know thee. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008003,
+            "text": "Israel hath cast off that which is good: the enemy shall pursue him. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008004,
+            "text": "They have set up kings, but not by me; <i>[b]</i>they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>they have removed</i> them"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008005,
+            "text": "He hath cast off thy calf, O Samaria; mine anger is kindled against them: how long will it be ere they attain to innocency? ",
+            "version": "ASV",
+            "clsstr": "Hos-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008006,
+            "text": "For from Israel is even this; the workman made it, and it is no God; yea, the calf of Samaria shall be broken in pieces. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008007,
+            "text": "For they sow the wind, and they shall reap the whirlwind: <i>[c]</i>he hath no standing grain; the blade shall yield no meal; if so be it yield, strangers shall swallow it up.",
+            "version": "ASV",
+            "clsstr": "Hos-8-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>it hath no stalk</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008008,
+            "text": "\u00b6 Israel is swallowed up: now are they among the nations as a vessel wherein none delighteth. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008009,
+            "text": "For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired <i>[d]</i>lovers. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-9",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>loves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008010,
+            "text": "Yea, though they hire among the nations, now will I gather them; and they <i>[e]</i>begin to be diminished by reason of the burden of the king of princes.",
+            "version": "ASV",
+            "clsstr": "Hos-8-10",
+            "footnotes": [
+                {
+                    "e": "Or, as otherwise read, <i>shall sorrow a little</i> (or <i>for a little while</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008011,
+            "text": "\u00b6 Because Ephraim hath multiplied altars for sinning, altars have been unto him for sinning. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008012,
+            "text": "I wrote for him the ten thousand things of my law; but they are counted as a strange thing. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008013,
+            "text": "As for the sacrifices of mine offerings, they sacrifice flesh and eat it; but Jehovah accepteth them not: now will he remember their iniquity, and visit their sins; they shall return to Egypt. ",
+            "version": "ASV",
+            "clsstr": "Hos-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28008014,
+            "text": "For Israel hath forgotten his Maker, and builded <i>[f]</i>palaces; and Judah hath multiplied fortified cities: but I will send a fire upon his cities, and it shall devour the <i>[g]</i>castles thereof.",
+            "version": "ASV",
+            "clsstr": "Hos-8-14",
+            "footnotes": [
+                {
+                    "f": "Or, <i>temples</i>"
+                },
+                {
+                    "g": "Or, <i>palaces</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 8
+}

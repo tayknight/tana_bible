@@ -1,0 +1,147 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19144001,
+            "text": "<b>Prayer for rescue. A happy people described.</b>\n\u00b6  of David.\u00b6     Blessed be Jehovah my rock,\n    Who teacheth my hands to war,\n     my fingers to fight:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144002,
+            "text": "    My lovingkindness, and my fortress,\n    My high tower, and my deliverer;\n    My shield, and he in whom I take refuge;\n    Who subdueth my people under me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144003,
+            "text": "    Jehovah, what is man, that thou takest knowledge of him?\n    Or the son of man, that thou makest account of him?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144004,
+            "text": "  Man is like to <i>[a]</i>vanity:\n    His days are as a shadow that passeth away.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>a breath</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144005,
+            "text": "    Bow thy heavens, O Jehovah, and come down:\n    Touch the mountains, and they shall smoke.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144006,
+            "text": "    Cast forth lightning, and scatter them;\n    Send out thine arrows, and discomfit them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144007,
+            "text": "    Stretch forth thy hand from above;\n    Rescue me, and deliver me out of great waters,\n    Out of the hand of aliens;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144008,
+            "text": "    Whose mouth speaketh deceit,\n    And whose right hand is a right hand of falsehood.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144009,
+            "text": "    I will sing a new song unto thee, O God:\n    Upon a psaltery of ten strings will I sing praises unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144010,
+            "text": "    Thou art he that giveth salvation unto kings;\n    Who rescueth David his servant from the hurtful sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144011,
+            "text": "    Rescue me, and deliver me out of the hand of aliens,\n    Whose mouth speaketh deceit,\n    And whose right hand is a right hand of falsehood.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144012,
+            "text": "\u00b6     When our sons shall be as plants grown up in their youth,\n    And our daughters as corner-stones hewn after the fashion of a palace;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144013,
+            "text": "     our garners are full, affording all manner of store,\n     our sheep bring forth thousands and ten thousands in our fields;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144014,
+            "text": "   our oxen are well laden;\n   no breaking in, and no <i>[b]</i>going forth,\n    And no outcry in our streets:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-14",
+            "footnotes": [
+                {
+                    "b": "Or, <i>sallying</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19144015,
+            "text": "    Happy is the people that is in such a case;\n    , happy is the people whose God is Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-144-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 144
+}

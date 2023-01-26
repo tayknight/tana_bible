@@ -1,0 +1,166 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58005001,
+            "text": "\u00b6 For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins: ",
+            "version": "ASV",
+            "clsstr": "Heb-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005002,
+            "text": "who can bear gently with the ignorant and erring, for that he himself also is compassed with infirmity; ",
+            "version": "ASV",
+            "clsstr": "Heb-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005003,
+            "text": "and by reason thereof is bound, as for the people, so also for himself, to offer for sins. ",
+            "version": "ASV",
+            "clsstr": "Heb-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005004,
+            "text": "And no man taketh the honor unto himself, but when he is called of God, even as was Aaron. ",
+            "version": "ASV",
+            "clsstr": "Heb-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005005,
+            "text": "So Christ also glorified not himself to be made a high priest, but he that spake unto him,\u00b6   <i>[a]</i>Thou art my Son,\n    This day have I begotten thee:\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-5-5",
+            "footnotes": [
+                {
+                    "a": "[[Ps. 2:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005006,
+            "text": "\u00b6 as he saith also in another ,\u00b6   <i>[b]</i>Thou art a priest for ever\n    After the order of Melchizedek.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-5-6",
+            "footnotes": [
+                {
+                    "b": "[[Ps. 110:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005007,
+            "text": "\u00b6 Who in the days of his flesh, having offered up prayers and supplications with strong crying and tears unto him that was able to save him <i>[c]</i>from death, and having been heard for his godly fear, ",
+            "version": "ASV",
+            "clsstr": "Heb-5-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>out of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005008,
+            "text": "though he was a Son, yet learned obedience by the things which he suffered; ",
+            "version": "ASV",
+            "clsstr": "Heb-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005009,
+            "text": "and having been made perfect, he became unto all them that obey him the <i>[d]</i>author of eternal salvation; ",
+            "version": "ASV",
+            "clsstr": "Heb-5-9",
+            "footnotes": [
+                {
+                    "d": "Greek <i>cause</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005010,
+            "text": "named of God a high priest after the order of Melchizedek.",
+            "version": "ASV",
+            "clsstr": "Heb-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005011,
+            "text": "\u00b6 Of <i>[e]</i>whom we have many things to say, and hard of interpretation, seeing ye are become dull of hearing. ",
+            "version": "ASV",
+            "clsstr": "Heb-5-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>which</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005012,
+            "text": "For when by reason of the time ye ought to be teachers, ye have need again <i>[f]</i>that some one teach you the rudiments of the <i>[g]</i>first principles of the oracles of God; and are become such as have need of milk, and not of solid food. ",
+            "version": "ASV",
+            "clsstr": "Heb-5-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>that</i> one <i>teach you which</i> are <i>the rudiments</i>"
+                },
+                {
+                    "g": "Greek <i>beginning</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005013,
+            "text": "For every one that partaketh of milk is <i>[h]</i>without experience of the word of righteousness; for he is a babe. ",
+            "version": "ASV",
+            "clsstr": "Heb-5-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>inexperienced in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58005014,
+            "text": "But solid food is for <i>[i]</i>fullgrown men,  those who by reason of use have their senses exercised to discern good and evil.",
+            "version": "ASV",
+            "clsstr": "Heb-5-14",
+            "footnotes": [
+                {
+                    "i": "Or, <i>perfect</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 5
+}

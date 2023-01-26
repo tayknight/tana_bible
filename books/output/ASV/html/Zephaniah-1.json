@@ -1,0 +1,197 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 36,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 36,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 36001001,
+            "text": "\u00b6 The word of Jehovah which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.",
+            "version": "ASV",
+            "clsstr": "Zeph-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001002,
+            "text": "\u00b6 I will utterly consume all things from off the face of the ground, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001003,
+            "text": "I will consume man and beast; I will consume the birds of the heavens, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the face of the ground, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001004,
+            "text": "And I will stretch out my hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place,  the name of the Chemarim with the priests; ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001005,
+            "text": "and them that worship the host of heaven upon the housetops; and them that worship, that swear to Jehovah and swear by <i>[a]</i>Malcam; ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>their king</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001006,
+            "text": "and them that are turned back from following Jehovah; and those that have not sought Jehovah, nor inquired after him.",
+            "version": "ASV",
+            "clsstr": "Zeph-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001007,
+            "text": "\u00b6 Hold thy peace at the presence of the Lord Jehovah; for the day of Jehovah is at hand: for Jehovah hath prepared a sacrifice, he hath consecrated his guests. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001008,
+            "text": "And it shall come to pass in the day of Jehovah\u2019s sacrifice, that I will punish the princes, and the king\u2019s sons, and all such as are clothed with foreign apparel. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001009,
+            "text": "And in that day I will <i>[b]</i>punish all those that leap over the threshold, that fill their master\u2019s house with violence and deceit. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-9",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>visit upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001010,
+            "text": "And in that day, saith Jehovah, there shall be the noise of a cry from the fish gate, and a wailing from the <i>[c]</i>second quarter, and a great crashing from the hills. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-10",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Mishneh</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001011,
+            "text": "Wail, ye inhabitants of <i>[d]</i>Maktesh; for all <i>[e]</i>the people of Canaan are undone; all they that were laden with silver are cut off. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>The mortar</i>"
+                },
+                {
+                    "e": "Or, <i>the merchant people</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001012,
+            "text": "And it shall come to pass at that time, that I will search Jerusalem with lamps; and I will <i>[f]</i>punish the men that are <i>[g]</i>settled on their lees, that say in their heart, Jehovah will not do good, neither will he do evil. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-12",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>visit upon</i>."
+                },
+                {
+                    "g": "Or, <i>thickened</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001013,
+            "text": "And their wealth shall become a spoil, and their houses a desolation: yea, they shall build houses, but shall not inhabit them; and they shall plant vineyards, but shall not drink the wine thereof.",
+            "version": "ASV",
+            "clsstr": "Zeph-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001014,
+            "text": "\u00b6 The great day of Jehovah is near, it is near and hasteth greatly,  the voice of the day of Jehovah; the mighty man crieth there bitterly. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001015,
+            "text": "That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness, ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001016,
+            "text": "a day of the trumpet and alarm, against the fortified cities, and against the high <i>[h]</i>battlements. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-16",
+            "footnotes": [
+                {
+                    "h": "Or, <i>corner towers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001017,
+            "text": "And I will bring distress upon men, that they shall walk like blind men, because they have sinned against Jehovah; and their blood shall be poured out as dust, and their flesh as dung. ",
+            "version": "ASV",
+            "clsstr": "Zeph-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36001018,
+            "text": "Neither their silver nor their gold shall be able to deliver them in the day of Jehovah\u2019s wrath; but the whole land shall be devoured by the fire of his jealousy: for he will make an end, yea, a <i>[i]</i>terrible end, of all them that dwell in the land.",
+            "version": "ASV",
+            "clsstr": "Zeph-1-18",
+            "footnotes": [
+                {
+                    "i": "Or, <i>speedy</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Zephaniah",
+    "chapters": 1
+}

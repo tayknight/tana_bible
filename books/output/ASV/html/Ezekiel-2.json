@@ -1,0 +1,103 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26002001,
+            "text": "\u00b6 And he said unto me, Son of man, stand upon thy feet, and I will speak with thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002002,
+            "text": "And the Spirit entered into me when he spake unto me, and set me upon my feet; and I heard him that spake unto me. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002003,
+            "text": "And he said unto me, Son of man, I send thee to the children of Israel, to nations that are rebellious, which have rebelled against me: they and their fathers have transgressed against me even unto this very day. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002004,
+            "text": "And the children are impudent and stiffhearted: <i>[a]</i>I do send thee unto them; and thou shalt say unto them, Thus saith the Lord Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>unto whom I send thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002005,
+            "text": "And they, whether they will hear, or whether they will forbear (for they are a rebellious house), yet shall know that there hath been a prophet among them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002006,
+            "text": "And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns are with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they are a rebellious house. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002007,
+            "text": "And thou shalt speak my words unto them, whether they will hear, or whether they will forbear; for they are most rebellious.",
+            "version": "ASV",
+            "clsstr": "Ezek-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002008,
+            "text": "\u00b6 But thou, son of man, hear what I say unto thee; be not thou rebellious like that rebellious house: open thy mouth, and eat that which I give thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002009,
+            "text": "And when I looked, behold, a hand was put forth unto me; and, lo, a roll of a book was therein; ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26002010,
+            "text": "and he spread it before me: and it was written within and without; and there were written therein lamentations, and mourning, and woe. ",
+            "version": "ASV",
+            "clsstr": "Ezek-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 2
+}

@@ -1,0 +1,199 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19077001,
+            "text": "<b>Comfort in trouble from recalling God\u2019s mighty deeds.</b>\n\u00b6 For the Chief Musician; after the manner of Jeduthun. A Psalm of Asaph.\u00b6     I will cry unto God with my voice,\n    Even unto God with my voice; and he will give ear unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077002,
+            "text": "    In the day of my trouble I sought the Lord:\n    My hand was stretched out in the night, and slacked not;\n    My soul refused to be comforted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077003,
+            "text": "  I remember God, and am disquieted:\n  I complain, and my spirit <i>[a]</i>is overwhelmed. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>fainteth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077004,
+            "text": "\u00b6     Thou holdest mine eyes watching:\n    I am so troubled that I cannot speak.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077005,
+            "text": "    I have considered the days of old,\n    The years of ancient times.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077006,
+            "text": "    I call to remembrance my song in the night:\n    I commune with mine own heart;\n    And my spirit maketh diligent search.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077007,
+            "text": "    Will the Lord cast off for ever?\n    And will he be favorable no more?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077008,
+            "text": "    Is his lovingkindness clean gone for ever?\n    Doth his promise fail for evermore?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077009,
+            "text": "    Hath God forgotten to be gracious?\n    Hath he in anger shut up his tender mercies? \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077010,
+            "text": "  And I said, <i>[b]</i>This is my infirmity;\n     the years of the right hand of the Most High.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-10",
+            "footnotes": [
+                {
+                    "b": "Or, <i>This is my grief, That the right hand of the Most High doth change</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077011,
+            "text": "  I will make mention of the deeds of <i>[c]</i>Jehovah;\n    For I will remember thy wonders of old.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Jah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077012,
+            "text": "    I will meditate also upon all thy work,\n    And muse on thy doings.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077013,
+            "text": "  Thy way, O God, is <i>[d]</i>in the sanctuary:\n    Who is a great god like unto God?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>in holiness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077014,
+            "text": "    Thou art the God that doest wonders:\n    Thou hast made known thy strength among the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077015,
+            "text": "    Thou hast with thine arm redeemed thy people,\n    The sons of Jacob and Joseph. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077016,
+            "text": "  The waters saw thee, O God;\n  The waters saw thee, they <i>[e]</i>were afraid:\n    The depths also trembled.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-16",
+            "footnotes": [
+                {
+                    "e": "Or, <i>were in pain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077017,
+            "text": "    The clouds poured out water;\n    The skies sent out a sound:\n    Thine arrows also went abroad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077018,
+            "text": "    The voice of thy thunder was in the whirlwind;\n    The lightnings lightened the world:\n    The earth trembled and shook.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077019,
+            "text": "    Thy way was in the sea,\n    And thy paths in the great waters,\n    And thy footsteps were not known.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19077020,
+            "text": "    Thou leddest thy people like a flock,\n    By the hand of Moses and Aaron.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-77-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 77
+}

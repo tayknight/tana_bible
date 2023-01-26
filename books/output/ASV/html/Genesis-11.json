@@ -1,0 +1,294 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1011001,
+            "text": "\u00b6 And the whole earth was of one <i>[a]</i>language and of one <i>[b]</i>speech. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>lip</i>."
+                },
+                {
+                    "b": "Hebrew <i>words</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011002,
+            "text": "And it came to pass, as they journeyed <i>[c]</i>east, that they found a plain in the land of Shinar; and they dwelt there. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in the east</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011003,
+            "text": "And they said one to another, Come, let us make brick, and burn them thoroughly. And they had brick for stone, and <i>[d]</i>slime had they for mortar. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-3",
+            "footnotes": [
+                {
+                    "d": "That is, <i>bitumen</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011004,
+            "text": "And they said, Come, let us build us a city, and a tower, whose top  unto heaven, and let us make us a name; lest we be scattered abroad upon the face of the whole earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011005,
+            "text": "And Jehovah came down to see the city and the tower, which the children of men builded. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011006,
+            "text": "And Jehovah said, Behold, they are one people, and they have all one language; and this is what they begin to do: and now nothing will be withholden from them, which they purpose to do. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011007,
+            "text": "Come, let us go down, and there confound their language, that they may not understand one another\u2019s speech. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011008,
+            "text": "So Jehovah scattered them abroad from thence upon the face of all the earth: and they left off building the city. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011009,
+            "text": "Therefore was the name of it called Babel; because Jehovah did there <i>[e]</i>confound the language of all the earth: and from thence did Jehovah scatter them abroad upon the face of all the earth.",
+            "version": "ASV",
+            "clsstr": "Gen-11-9",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>balal</i>, to confound."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011010,
+            "text": "\u00b6 These are the generations of Shem. Shem was a hundred years old, and begat Arpachshad two years after the flood: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011011,
+            "text": "and Shem lived after he begat Arpachshad five hundred years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011012,
+            "text": "\u00b6 And Arpachshad lived five and thirty years, and begat Shelah: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011013,
+            "text": "and Arpachshad lived after he begat Shelah four hundred and three years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011014,
+            "text": "\u00b6 And Shelah lived thirty years, and begat Eber: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011015,
+            "text": "and Shelah lived after he begat Eber four hundred and three years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011016,
+            "text": "\u00b6 And Eber lived four and thirty years, and begat Peleg: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011017,
+            "text": "and Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011018,
+            "text": "\u00b6 And Peleg lived thirty years, and begat Reu: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011019,
+            "text": "and Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011020,
+            "text": "\u00b6 And Reu lived two and thirty years, and begat Serug: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011021,
+            "text": "and Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011022,
+            "text": "\u00b6 And Serug lived thirty years, and begat Nahor: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011023,
+            "text": "and Serug lived after he begat Nahor two hundred years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011024,
+            "text": "\u00b6 And Nahor lived nine and twenty years, and begat Terah: ",
+            "version": "ASV",
+            "clsstr": "Gen-11-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011025,
+            "text": "and Nahor lived after he begat Terah a hundred and nineteen years, and begat sons and daughters.",
+            "version": "ASV",
+            "clsstr": "Gen-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011026,
+            "text": "\u00b6 And Terah lived seventy years, and begat Abram, Nahor, and Haran.",
+            "version": "ASV",
+            "clsstr": "Gen-11-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011027,
+            "text": "\u00b6 Now these are the generations of Terah. Terah begat Abram, Nahor, and Haran; and Haran begat Lot. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011028,
+            "text": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011029,
+            "text": "And Abram and Nahor took them wives: the name of Abram\u2019s wife was Sarai; and the name of Nahor\u2019s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011030,
+            "text": "And Sarai was barren; she had no child. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011031,
+            "text": "And Terah took Abram his son, and Lot the son of Haran, his son\u2019s son, and Sarai his daughter-in-law, his son Abram\u2019s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there. ",
+            "version": "ASV",
+            "clsstr": "Gen-11-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1011032,
+            "text": "And the days of Terah were two hundred and five years: and Terah died in Haran.",
+            "version": "ASV",
+            "clsstr": "Gen-11-32",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 11
+}

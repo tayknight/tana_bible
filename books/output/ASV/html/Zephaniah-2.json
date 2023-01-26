@@ -1,0 +1,174 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 36,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 36,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 36002001,
+            "text": "\u00b6 Gather yourselves together, yea, gather together, O nation that hath no <i>[a]</i>shame; ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>longing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002002,
+            "text": "before the decree bring forth, <i>[b]</i> the day pass as the chaff, before the fierce anger of Jehovah come upon you, before the day of Jehovah\u2019s anger come upon you. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-2",
+            "footnotes": [
+                {
+                    "b": "Or (<i>the day passeth as the chaff</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002003,
+            "text": "Seek ye Jehovah, all ye meek of the earth, that have kept his ordinances; seek righteousness, seek meekness: it may be ye will be hid in the day of Jehovah\u2019s anger.",
+            "version": "ASV",
+            "clsstr": "Zeph-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002004,
+            "text": "\u00b6 For Gaza shall be forsaken, and Ashkelon a desolation; they shall drive out Ashdod at noonday, and Ekron shall be rooted up. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002005,
+            "text": "Woe unto the inhabitants of <i>[c]</i>the sea-coast, the nation of the Cherethites! The word of Jehovah is against you, O Canaan, the land of the Philistines; I will destroy thee, that there shall be no inhabitant. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the region of the sea</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002006,
+            "text": "And the sea-coast shall be pastures, with <i>[d]</i>cottages for shepherds and folds for flocks. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>caves</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002007,
+            "text": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon; in the houses of Ashkelon shall they lie down in the evening; for Jehovah their God will visit them, and <i>[e]</i>bring back their captivity.",
+            "version": "ASV",
+            "clsstr": "Zeph-2-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>return to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002008,
+            "text": "\u00b6 I have heard the reproach of Moab, and the revilings of the children of Ammon, wherewith they have reproached my people, and magnified themselves against their border. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002009,
+            "text": "Therefore as I live, saith Jehovah of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, a possession of <i>[f]</i>nettles, and saltpits, and a perpetual desolation: the residue of my people shall make a prey of them, and the remnant of my nation shall inherit them. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-9",
+            "footnotes": [
+                {
+                    "f": "Or, <i>wild vetches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002010,
+            "text": "This shall they have for their pride, because they have reproached and magnified themselves against the people of Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002011,
+            "text": "Jehovah will be terrible unto them; for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the <i>[g]</i>isles of the nations.",
+            "version": "ASV",
+            "clsstr": "Zeph-2-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>coast-lands</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002012,
+            "text": "\u00b6 Ye Ethiopians also, ye shall be slain by my sword. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002013,
+            "text": "And he will stretch out his hand against the north, and destroy Assyria, and will make Nineveh a desolation, and dry like the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002014,
+            "text": "And herds shall lie down in the midst of her, <i>[h]</i>all the beasts of the nations: both the pelican and the porcupine shall lodge in the capitals thereof; voice shall sing in the windows; <i>[i]</i>desolation shall be in the thresholds: for he hath laid bare the cedar-work. ",
+            "version": "ASV",
+            "clsstr": "Zeph-2-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>all beasts of</i> every <i>kind</i>"
+                },
+                {
+                    "i": "Or, <i>drought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 36002015,
+            "text": "This is the joyous city that dwelt carelessly, that said in her heart, I am, and there is none besides me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.",
+            "version": "ASV",
+            "clsstr": "Zeph-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Zephaniah",
+    "chapters": 2
+}

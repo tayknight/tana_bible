@@ -1,0 +1,406 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46014001,
+            "text": "\u00b6 Follow after love; yet desire earnestly spiritual , but rather that ye may prophesy. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014002,
+            "text": "For he that speaketh in a tongue speaketh not unto men, but unto God; for no man <i>[a]</i>understandeth; but in the spirit he speaketh mysteries. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>heareth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014003,
+            "text": "But he that prophesieth speaketh unto men edification, and <i>[b]</i>exhortation, and consolation. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>comfort</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014004,
+            "text": "He that speaketh in a tongue <i>[c]</i>edifieth himself; but he that prophesieth <i>[d]</i>edifieth the church. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-4",
+            "footnotes": [
+                {
+                    "c": "Greek <i>buildeth up</i>."
+                },
+                {
+                    "d": "Greek <i>buildeth up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014005,
+            "text": "Now I would have you all speak with tongues, but rather that ye should prophesy: and greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014006,
+            "text": "But now, brethren, if I come unto you speaking with tongues, what shall I profit you, unless I speak to you either by way of revelation, or of knowledge, or of prophesying, or of teaching? ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014007,
+            "text": "Even things without life, giving a voice, whether pipe or harp, if they give not a distinction in the sounds, how shall it be known what is piped or harped? ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014008,
+            "text": "For if the trumpet give an uncertain voice, who shall prepare himself for war? ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014009,
+            "text": "So also ye, unless ye utter by the tongue speech easy to be understood, how shall it be known what is spoken? for ye will be speaking into the air. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014010,
+            "text": "There are, it may be, so many kinds of voices in the world, and <i>[e]</i>no  is without signification. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>nothing is without voice</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014011,
+            "text": "If then I know not the meaning of the voice, I shall be to him that speaketh a barbarian, and he that speaketh will be a barbarian <i>[f]</i>unto me. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>in my case</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014012,
+            "text": "So also ye, since ye are zealous of <i>[g]</i>spiritual , seek that ye may abound unto the edifying of the church. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-12",
+            "footnotes": [
+                {
+                    "g": "Greek <i>spirits</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014013,
+            "text": "Wherefore let him that speaketh in a tongue pray that he may interpret. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014014,
+            "text": "For if I pray in a tongue, my spirit prayeth, but my understanding is unfruitful. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014015,
+            "text": "What is it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014016,
+            "text": "Else if thou bless with the spirit, how shall he that filleth the place of <i>[h]</i>the unlearned say the Amen at thy giving of thanks, seeing he knoweth not what thou sayest? ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-16",
+            "footnotes": [
+                {
+                    "h": "Or, <i>him that is without gifts</i>: and so in verses [[23]], [[24]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014017,
+            "text": "For thou verily givest thanks well, but the other is not <i>[i]</i>edified. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-17",
+            "footnotes": [
+                {
+                    "i": "Greek <i>builded up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014018,
+            "text": "I thank God, I speak with tongues more than you all: ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014019,
+            "text": "howbeit in the church I had rather speak five words with my understanding, that I might instruct others also, than ten thousand words in a tongue.",
+            "version": "ASV",
+            "clsstr": "1Cor-14-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014020,
+            "text": "\u00b6 Brethren, be not children in mind: yet in malice be ye babes, but in mind be <i>[j]</i>men. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-20",
+            "footnotes": [
+                {
+                    "j": "Greek <i>of full age</i>. Compare [[2:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014021,
+            "text": "In the law it is written, <i>[k]</i>By men of strange tongues and by the lips of strangers will I speak unto this people; and not even thus will they hear me, saith the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-21",
+            "footnotes": [
+                {
+                    "k": "[[Isa. 28:11f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014022,
+            "text": "Wherefore tongues are for a sign, not to them that believe, but to the unbelieving: but prophesying , not to the unbelieving, but to them that believe. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014023,
+            "text": "If therefore the whole church be assembled together and all speak with tongues, and there come in men unlearned or unbelieving, will they not say that ye are mad? ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014024,
+            "text": "But if all prophesy, and there come in one unbelieving or unlearned, he is <i>[l]</i>reproved by all, he is judged by all; ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-24",
+            "footnotes": [
+                {
+                    "l": "Or, <i>convicted</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014025,
+            "text": "the secrets of his heart are made manifest; and so he will fall down on his face and worship God, declaring that God is <i>[m]</i>among you indeed.",
+            "version": "ASV",
+            "clsstr": "1Cor-14-25",
+            "footnotes": [
+                {
+                    "m": "Or, <i>in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014026,
+            "text": "\u00b6 What is it then, brethren? When ye come together, each one hath a psalm, hath a teaching, hath a revelation, hath a tongue, hath an interpretation. Let all things be done unto edifying. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014027,
+            "text": "If any man speaketh in a tongue,  by two, or at the most three, and  in turn; and let one interpret: ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014028,
+            "text": "but if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014029,
+            "text": "And let the prophets speak two or three, and let the others <i>[n]</i>discern. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-29",
+            "footnotes": [
+                {
+                    "n": "Greek <i>discriminate</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014030,
+            "text": "But if a revelation be made to another sitting by, let the first keep silence. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014031,
+            "text": "For ye all can prophesy one by one, that all may learn, and all may be <i>[o]</i>exhorted; ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-31",
+            "footnotes": [
+                {
+                    "o": "Or, <i>comforted</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014032,
+            "text": "and the spirits of the prophets are subject to the prophets; ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014033,
+            "text": "for God is not  of confusion, but of peace.\u00b6 As in all the churches of the saints, ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014034,
+            "text": "let the women keep silence in the churches: for it is not permitted unto them to speak; but let them be in subjection, as also <i>[p]</i>saith the law. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-34",
+            "footnotes": [
+                {
+                    "p": "[[Gen. 3:16]]?"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014035,
+            "text": "And if they would learn anything, let them ask their own husbands at home: for it is shameful for a woman to speak in the church. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014036,
+            "text": "What? was it from you that the word of God went forth? or came it unto you alone?",
+            "version": "ASV",
+            "clsstr": "1Cor-14-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014037,
+            "text": "\u00b6 If any man thinketh himself to be a prophet, or spiritual, let him take knowledge of the things which I write unto you, that they are the commandment of the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014038,
+            "text": " <i>[q]</i>But if any man is ignorant, let him be ignorant.",
+            "version": "ASV",
+            "clsstr": "1Cor-14-38",
+            "footnotes": [
+                {
+                    "q": "Many ancient authorities read <i>But if any man knoweth not, he is not known.</i> Compare [[8:3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014039,
+            "text": "\u00b6 Wherefore, my brethren, desire earnestly to prophesy, and forbid not to speak with tongues. ",
+            "version": "ASV",
+            "clsstr": "1Cor-14-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46014040,
+            "text": "But let all things be done decently and in order.",
+            "version": "ASV",
+            "clsstr": "1Cor-14-40",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 14
+}

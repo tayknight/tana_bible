@@ -1,0 +1,117 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19122001,
+            "text": "<b>Prayer for the peace of Jerusalem.</b>\n\u00b6 A Song of Ascents; of David.\u00b6     I was glad when they said unto me,\n    Let us go unto the house of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122002,
+            "text": "  Our feet <i>[a]</i>are standing\n    Within thy gates, O Jerusalem,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>have stood</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122003,
+            "text": "    Jerusalem, that art builded\n    As a city that is compact together;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122004,
+            "text": " Whither the tribes go up, even the tribes of <i>[b]</i>Jehovah,\n   <i>[c]</i>an ordinance for Israel,\n    To give thanks unto the name of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Jah</i>."
+                },
+                {
+                    "c": "Hebrew <i>a testimony</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122005,
+            "text": "  For there <i>[d]</i>are set thrones for judgment,\n    The thrones of the house of David.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>were</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122006,
+            "text": "  <i>[e]</i>Pray for the peace of Jerusalem:\n   <i>[f]</i>They shall prosper that love thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Salute ye Jerusalem</i>"
+                },
+                {
+                    "f": "Or, <i>May they</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122007,
+            "text": "    Peace be within thy walls,\n    And prosperity within thy palaces.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122008,
+            "text": "  For my brethren and companions\u2019 sakes,\n  I will now <i>[g]</i>say, Peace be within thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-8",
+            "footnotes": [
+                {
+                    "g": "Or, <i>speak peace concerning thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19122009,
+            "text": "    For the sake of the house of Jehovah our God\n    I will seek thy good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-122-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 122
+}

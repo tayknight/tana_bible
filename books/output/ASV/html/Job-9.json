@@ -1,0 +1,364 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18009001,
+            "text": "\u00b6 Then Job answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009002,
+            "text": "\u00b6  Of a truth I know that it is so:\n  <i>[a]</i>But how can man be just <i>[b]</i>with God?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>For</i>"
+                },
+                {
+                    "b": "Or, <i>before</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009003,
+            "text": "   <i>[c]</i>If he be pleased to contend with him,\n    He cannot answer him one of a thousand.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>If one should desire\u00a0.\u00a0.\u00a0. He could not etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009004,
+            "text": "     wise in heart, and mighty in strength:\n    Who hath hardened himself against him, and prospered?\u2014\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009005,
+            "text": "     that removeth the mountains, and they know it not,\n    When he overturneth them in his anger;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009006,
+            "text": "    That shaketh the earth out of its place,\n    And the pillars thereof tremble;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009007,
+            "text": "    That commandeth the sun, and it riseth not,\n    And sealeth up the stars;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009008,
+            "text": "  That alone stretcheth out the heavens,\n  And treadeth upon the <i>[d]</i>waves of the sea;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>high places</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009009,
+            "text": "    That maketh the Bear, Orion, and the Pleiades,\n    And the chambers of the south;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009010,
+            "text": "    That doeth great things past finding out,\n    Yea, marvellous things without number.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009011,
+            "text": "    Lo, he goeth by me, and I see him not:\n    He passeth on also, but I perceive him not.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009012,
+            "text": "  Behold, he seizeth , who can <i>[e]</i>hinder him?\n    Who will say unto him, What doest thou?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>turn him back</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009013,
+            "text": "\u00b6  God will not withdraw his anger;\n The helpers of <i>[f]</i>Rahab <i>[g]</i>do stoop under him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>arrogancy</i>. See [[Isa. 30:7]]."
+                },
+                {
+                    "g": "Or, <i>did</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009014,
+            "text": "    How much less shall I answer him,\n    And choose out my words  with him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009015,
+            "text": "    Whom, though I were righteous, yet would I not answer;\n    I would make supplication to my judge.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009016,
+            "text": "    If I had called, and he had answered me,\n    Yet would I not believe that he hearkened unto my voice.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009017,
+            "text": "   <i>[h]</i>For he breaketh me with a tempest,\n    And multiplieth my wounds without cause.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-17",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>He who</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009018,
+            "text": "    He will not suffer me to take my breath,\n    But filleth me with bitterness.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009019,
+            "text": "  If of strength, <i>[i]</i>lo,  mighty!\n    And if of justice, Who, , will summon me?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-19",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Lo</i>, here am I, saith he; <i>And if of judgement, Who etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009020,
+            "text": "  Though I be righteous, mine own mouth shall condemn me:\n  Though I be perfect, <i>[j]</i>it shall prove me perverse.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-20",
+            "footnotes": [
+                {
+                    "j": "Or, <i>he</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009021,
+            "text": "   <i>[k]</i>I am perfect; I regard not myself;\n    I despise my life.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-21",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Though I be perfect, I will not regard etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009022,
+            "text": "    It is all one; therefore I say,\n    He destroyeth the perfect and the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009023,
+            "text": "  If the scourge slay suddenly,\n  He will mock at the <i>[l]</i>trial of the innocent.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-23",
+            "footnotes": [
+                {
+                    "l": "Or, <i>calamity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009024,
+            "text": "    The earth is given into the hand of the wicked;\n    He covereth the faces of the judges thereof:\n    If  not , who then is it?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009025,
+            "text": "\u00b6   Now my days are swifter than a <i>[m]</i>post:\n    They flee away, they see no good.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-25",
+            "footnotes": [
+                {
+                    "m": "Or, <i>runner</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009026,
+            "text": "  They are passed away as the <i>[n]</i>swift ships;\n    As the eagle that swoopeth on the prey.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-26",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>ships of reed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009027,
+            "text": "  If I say, I will forget my complaint,\n  I will put off my countenance, and <i>[o]</i>be of good cheer;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-27",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>brighten up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009028,
+            "text": "    I am afraid of all my sorrows,\n    I know that thou wilt not hold me innocent.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009029,
+            "text": "    I shall be condemned;\n    Why then do I labor in vain?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009030,
+            "text": " If I wash myself <i>[p]</i>with snow water,\n  And <i>[q]</i>make my hands never so clean;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-30",
+            "footnotes": [
+                {
+                    "p": "Another reading is, <i>with snow</i>."
+                },
+                {
+                    "q": "Hebrew <i>cleanse my hands with lye</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009031,
+            "text": "    Yet wilt thou plunge me in the ditch,\n    And mine own clothes shall abhor me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009032,
+            "text": "    For he is not a man, as I am, that I should answer him,\n    That we should come together in judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009033,
+            "text": "    There is no umpire betwixt us,\n    That might lay his hand upon us both.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009034,
+            "text": "    Let him take his rod away from me,\n    And let not his terror make me afraid:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18009035,
+            "text": "    Then would I speak, and not fear him;\n    For I am not so in myself.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-9-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 9
+}

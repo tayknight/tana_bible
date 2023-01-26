@@ -1,0 +1,299 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26001001,
+            "text": "\u00b6 Now it came to pass in the thirtieth year, in the fourth , in the fifth of the month, as I was among the <i>[a]</i>captives by the river Chebar, that the heavens were opened, and I saw visions of God. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>captivity</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001002,
+            "text": "In the fifth  of the month, which was the fifth year of king Jehoiachin\u2019s captivity, ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001003,
+            "text": "the word of Jehovah came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of Jehovah was there upon him.",
+            "version": "ASV",
+            "clsstr": "Ezek-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001004,
+            "text": "\u00b6 And I looked, and, behold, a stormy wind came out of the north, a great cloud, with a fire <i>[b]</i>infolding itself, and a brightness round about it, and out of the midst thereof <i>[c]</i>as it were glowing <i>[d]</i>metal, out of the midst of the fire. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>flashing continually</i>"
+                },
+                {
+                    "c": "Or, <i>as amber to look upon</i>"
+                },
+                {
+                    "d": "Or, <i>amber</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001005,
+            "text": "And out of the midst thereof came the likeness of four living creatures. And this was their appearance: they had the likeness of a man; ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001006,
+            "text": "and every one had four faces, and every one of them had four wings. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001007,
+            "text": "And their feet were straight feet; and the sole of their feet was like the sole of a calf\u2019s foot; and they sparkled like burnished brass. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001008,
+            "text": "And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings : ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001009,
+            "text": "their wings were joined one to another; they turned not when they went; they went every one straight forward. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001010,
+            "text": "As for the likeness of their faces, they had the face of a man; and they four had the face of a lion on the right side; and they four had the face of an ox on the left side; they four had also the face of an eagle. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001011,
+            "text": " <i>[e]</i>And their faces and their wings were separate above; two  of every one were joined one to another, and two covered their bodies. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>And</i> thus were <i>their faces; and their wings were etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001012,
+            "text": "And they went every one straight forward: whither the spirit was to go, they went; they turned not when they went. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001013,
+            "text": "As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches:  went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001014,
+            "text": "And the living creatures ran and returned as the appearance of a flash of lightning.",
+            "version": "ASV",
+            "clsstr": "Ezek-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001015,
+            "text": "\u00b6 Now as I beheld the living creatures, behold, one wheel upon the earth beside the living creatures, for each of the four faces thereof. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001016,
+            "text": "The appearance of the wheels and their work was like unto a beryl: and they four had one likeness; and their appearance and their work was as it were a wheel <i>[f]</i>within a wheel. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-16",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>in the midst of</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001017,
+            "text": "When they went, they went <i>[g]</i>in their four directions: they turned not when they went. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-17",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>on their four sides</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001018,
+            "text": "As for their <i>[h]</i>rims, they were high and dreadful; and they four had their rims full of eyes round about. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-18",
+            "footnotes": [
+                {
+                    "h": "Or, <i>felloes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001019,
+            "text": "And when the living creatures went, the wheels went beside them; and when the living creatures were lifted up from the earth, the wheels were lifted up. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001020,
+            "text": "Whithersoever the spirit was to go, they went; thither was the spirit to go: and the wheels were lifted up <i>[i]</i>beside them; for the spirit <i>[j]</i>of the living creature was in the wheels. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-20",
+            "footnotes": [
+                {
+                    "i": "Or, <i>over against</i>"
+                },
+                {
+                    "j": "Or, <i>of life</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001021,
+            "text": "When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up beside them: for the spirit <i>[k]</i>of the living creature was in the wheels.",
+            "version": "ASV",
+            "clsstr": "Ezek-1-21",
+            "footnotes": [
+                {
+                    "k": "Or, <i>of life</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001022,
+            "text": "\u00b6 And over the head of the living creature there was the likeness of a firmament, like the terrible <i>[l]</i>crystal to look upon, stretched forth over their heads above. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-22",
+            "footnotes": [
+                {
+                    "l": "Or, <i>ice</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001023,
+            "text": "And under the firmament were their wings straight, the one toward the other: every one had two which covered <i>[m]</i>on this side, and every one had two which covered <i>[n]</i>on that side, their bodies. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-23",
+            "footnotes": [
+                {
+                    "m": "Or, <i>for them</i>"
+                },
+                {
+                    "n": "Or, <i>for them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001024,
+            "text": "And when they went, I heard the noise of their wings like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of a host: when they stood, they let down their wings. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001025,
+            "text": "And there was a voice above the firmament that was over their heads: when they stood, they let down their wings.",
+            "version": "ASV",
+            "clsstr": "Ezek-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001026,
+            "text": "\u00b6 And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone; and upon the likeness of the throne was a likeness as the appearance of a man upon it above. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001027,
+            "text": "And I saw as it were glowing metal, as the appearance of fire within it round about, from the appearance of his loins and upward; and from the appearance of his loins and downward I saw as it were the appearance of fire, and there was brightness round about <i>[o]</i>him. ",
+            "version": "ASV",
+            "clsstr": "Ezek-1-27",
+            "footnotes": [
+                {
+                    "o": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26001028,
+            "text": "As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of Jehovah. And when I saw it, I fell upon my face, and I heard a voice of one that spake.",
+            "version": "ASV",
+            "clsstr": "Ezek-1-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 1
+}

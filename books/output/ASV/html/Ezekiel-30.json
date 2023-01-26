@@ -1,0 +1,258 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26030001,
+            "text": "\u00b6 The word of Jehovah came again unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030002,
+            "text": "Son of man, prophesy, and say, Thus saith the Lord Jehovah: Wail ye, Alas for the day! ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030003,
+            "text": "For the day is near, even the day of Jehovah is near; it shall be a day of clouds, a time of the nations. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030004,
+            "text": "And a sword shall come upon Egypt, and anguish shall be in Ethiopia, when the slain shall fall in Egypt; and they shall take away her multitude, and her foundations shall be broken down. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030005,
+            "text": " <i>[a]</i>Ethiopia, and Put, and Lud, and all the mingled people, and Cub, and the children of <i>[b]</i>the land that is in league, shall fall with them by the sword.",
+            "version": "ASV",
+            "clsstr": "Ezek-30-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Cush</i>."
+                },
+                {
+                    "b": "Or, <i>the land of the covenant</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030006,
+            "text": "\u00b6 Thus saith Jehovah: They also that uphold Egypt shall fall; and the pride of her power shall come down: <i>[c]</i>from the tower of Seveneh shall they fall in it by the sword, saith the Lord Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>from Migdol to Syene</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030007,
+            "text": "And they shall be desolate in the midst of the countries that are desolate; and her cities shall be in the midst of the cities that are wasted. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030008,
+            "text": "And they shall know that I am Jehovah, when I have set a fire in Egypt, and all her helpers are <i>[d]</i>destroyed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>broken</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030009,
+            "text": "In that day shall messengers go forth from before me in ships to make the careless Ethiopians afraid; and there shall be anguish upon them, as in the day of Egypt; for, lo, it cometh.",
+            "version": "ASV",
+            "clsstr": "Ezek-30-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030010,
+            "text": "\u00b6 Thus saith the Lord Jehovah: I will also make the multitude of Egypt to cease, by the hand of Nebuchadrezzar king of Babylon. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030011,
+            "text": "He and his people with him, the terrible of the nations, shall be brought in to destroy the land; and they shall draw their swords against Egypt, and fill the land with the slain. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030012,
+            "text": "And I will make the rivers dry, and will sell the land into the hand of evil men; and I will make the land desolate, and <i>[e]</i>all that is therein, by the hand of strangers: I, Jehovah, have spoken it.",
+            "version": "ASV",
+            "clsstr": "Ezek-30-12",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>the fulness thereof</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030013,
+            "text": "\u00b6 Thus saith the Lord Jehovah: I will also destroy the idols, and I will cause the <i>[f]</i>images to cease from Memphis; and there shall be no more a prince from the land of Egypt: and I will put a fear in the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>things of nought</i>. See [[Ps. 96:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030014,
+            "text": "And I will make Pathros desolate, and will set a fire in Zoan, and will execute judgments upon No. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030015,
+            "text": "And I will pour my wrath upon Sin, the stronghold of Egypt; and I will cut off the multitude of No. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030016,
+            "text": "And I will set a fire in Egypt: Sin shall be in great anguish, and No shall be broken up; and Memphis adversaries <i>[g]</i>in the day-time. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>all the day</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030017,
+            "text": "The young men of Aven and of Pi-beseth shall fall by the sword; and these  shall go into captivity. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030018,
+            "text": "At Tehaphnehes also the day shall <i>[h]</i>withdraw itself, when I shall break there the yokes of Egypt, and the pride of her power shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-18",
+            "footnotes": [
+                {
+                    "h": "Another reading is, <i>be dark</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030019,
+            "text": "Thus will I execute judgments upon Egypt; and they shall know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-30-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030020,
+            "text": "\u00b6 And it came to pass in the eleventh year, in the first , in the seventh  of the month, that the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030021,
+            "text": "Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it hath not been bound up, to apply  medicines, to put a bandage to bind it, that it be strong to hold the sword. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030022,
+            "text": "Therefore thus saith the Lord Jehovah: Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong , and that which was broken; and I will cause the sword to fall out of his hand. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030023,
+            "text": "And I will scatter the Egyptians among the nations, and will disperse them through the countries. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030024,
+            "text": "And I will strengthen the arms of the king of Babylon, and put my sword in his hand: but I will break the arms of Pharaoh, and he shall groan before him with the groanings of a deadly wounded man. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030025,
+            "text": "And I will hold up the arms of the king of Babylon; and the arms of Pharaoh shall fall down; and they shall know that I am Jehovah, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Ezek-30-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26030026,
+            "text": "And I will scatter the Egyptians among the nations, and disperse them through the countries; and they shall know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-30-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 30
+}

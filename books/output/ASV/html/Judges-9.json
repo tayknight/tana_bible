@@ -1,0 +1,534 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 7,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 7,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 7009001,
+            "text": "\u00b6 And Abimelech the son of Jerubbaal went to Shechem unto his mother\u2019s brethren, and spake with them, and with all the family of the house of his mother\u2019s father, saying, ",
+            "version": "ASV",
+            "clsstr": "Judg-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009002,
+            "text": "Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, that all the sons of Jerubbaal, who are threescore and ten persons, rule over you, or that one rule over you? remember also that I am your bone and your flesh. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009003,
+            "text": "And his mother\u2019s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009004,
+            "text": "And they gave him threescore and ten  of silver out of the house of Baal-berith, wherewith Abimelech hired vain and light fellows, who followed him. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009005,
+            "text": "And he went unto his father\u2019s house at Ophrah, and slew his brethren the sons of Jerubbaal, being threescore and ten persons, upon one stone: but Jotham the youngest son of Jerubbaal was left; for he hid himself. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009006,
+            "text": "And all the men of Shechem assembled themselves together, and all <i>[a]</i>the house of Millo, and went and made Abimelech king, by the <i>[b]</i>oak of the <i>[c]</i>pillar that was in Shechem.",
+            "version": "ASV",
+            "clsstr": "Judg-9-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Beth-millo</i>"
+                },
+                {
+                    "b": "Or, <i>terebinth</i>"
+                },
+                {
+                    "c": "Or, <i>garrison</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009007,
+            "text": "\u00b6 And when they told it to Jotham, he went and stood on the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, ye men of Shechem, that God may hearken unto you. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009008,
+            "text": "The trees went forth on a time to anoint a king over them; and they said unto the olive-tree, Reign thou over us. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009009,
+            "text": "But the olive-tree said unto them, Should I leave my fatness, <i>[d]</i>wherewith by me they honor God and man, and go to wave to and fro over the trees? ",
+            "version": "ASV",
+            "clsstr": "Judg-9-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>which God and man honor in me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009010,
+            "text": "And the trees said to the fig-tree, Come thou, and reign over us. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009011,
+            "text": "But the fig-tree said unto them, Should I leave my sweetness, and my good fruit, and go to wave to and fro over the trees? ",
+            "version": "ASV",
+            "clsstr": "Judg-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009012,
+            "text": "And the trees said unto the vine, Come thou, and reign over us. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009013,
+            "text": "And the vine said unto them, Should I leave my new wine, which cheereth God and man, and go to wave to and fro over the trees? ",
+            "version": "ASV",
+            "clsstr": "Judg-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009014,
+            "text": "Then said all the trees unto the <i>[e]</i>bramble, Come thou, and reign over us. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>thorn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009015,
+            "text": "And the <i>[f]</i>bramble said unto the trees, If in truth ye anoint me king over you, then come and take refuge in my shade; and if not, let fire come out of the <i>[g]</i>bramble, and devour the cedars of Lebanon. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>thorn</i>"
+                },
+                {
+                    "g": "Or, <i>thorn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009016,
+            "text": "Now therefore, if ye have dealt truly and uprightly, in that ye have made Abimelech king, and if ye have dealt well with Jerubbaal and his house, and have done unto him according to the deserving of his hands ",
+            "version": "ASV",
+            "clsstr": "Judg-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009017,
+            "text": "(for my father fought for you, and <i>[h]</i>adventured his life, and delivered you out of the hand of Midian: ",
+            "version": "ASV",
+            "clsstr": "Judg-9-17",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>cast his life before him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009018,
+            "text": "and ye are risen up against my father\u2019s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maid-servant, king over the men of Shechem, because he is your brother); ",
+            "version": "ASV",
+            "clsstr": "Judg-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009019,
+            "text": "if ye then have dealt truly and uprightly with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you: ",
+            "version": "ASV",
+            "clsstr": "Judg-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009020,
+            "text": "but if not, let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009021,
+            "text": "And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.",
+            "version": "ASV",
+            "clsstr": "Judg-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009022,
+            "text": "\u00b6 And Abimelech was prince over Israel three years. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009023,
+            "text": "And God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech: ",
+            "version": "ASV",
+            "clsstr": "Judg-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009024,
+            "text": "that the violence done to the threescore and ten sons of Jerubbaal might come, and that their blood might be laid upon Abimelech their brother, who slew them, and upon the men of Shechem, who strengthened his hands to slay his brethren. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009025,
+            "text": "And the men of Shechem set liers-in-wait for him on the tops of the mountains, and they robbed all that came along that way by them: and it was told Abimelech.",
+            "version": "ASV",
+            "clsstr": "Judg-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009026,
+            "text": "\u00b6 And Gaal the son of Ebed came with his brethren, and went over to Shechem; and the men of Shechem put their trust in him. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009027,
+            "text": "And they went out into the field, and gathered their vineyards, and trod , and <i>[i]</i>held festival, and went into the house of their god, and did eat and drink, and cursed Abimelech. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-27",
+            "footnotes": [
+                {
+                    "i": "Or, <i>offered a praise-offering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009028,
+            "text": "And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve ye the men of Hamor the father of Shechem: but why should we serve him? ",
+            "version": "ASV",
+            "clsstr": "Judg-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009029,
+            "text": "And would that this people were under my hand! then would I remove Abimelech. And he said <i>[j]</i>to Abimelech, Increase thine army, and come out.",
+            "version": "ASV",
+            "clsstr": "Judg-9-29",
+            "footnotes": [
+                {
+                    "j": "Or, <i>of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009030,
+            "text": "\u00b6 And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009031,
+            "text": "And he sent messengers unto Abimelech <i>[k]</i>craftily, saying, Behold, Gaal the son of Ebed and his brethren are come to Shechem; and, behold, they <i>[l]</i>constrain the city  against thee. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-31",
+            "footnotes": [
+                {
+                    "k": "Or, <i>in Tormah</i>"
+                },
+                {
+                    "l": "Or, <i>oppress the city on thy account</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009032,
+            "text": "Now therefore, up by night, thou and the people that are with thee, and lie in wait in the field: ",
+            "version": "ASV",
+            "clsstr": "Judg-9-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009033,
+            "text": "and it shall be, that in the morning, as soon as the sun is up, thou shalt rise early, and rush upon the city; and, behold, when he and the people that are with him come out against thee, then mayest thou do to them <i>[m]</i>as thou shalt find occasion.",
+            "version": "ASV",
+            "clsstr": "Judg-9-33",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>as thy hand shall find</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009034,
+            "text": "\u00b6 And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009035,
+            "text": "And Gaal the son of Ebed went out, and stood in the entrance of the gate of the city: and Abimelech rose up, and the people that were with him, from the ambushment. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009036,
+            "text": "And when Gaal saw the people, he said to Zebul, Behold, there come people down from the tops of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as if they were men. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009037,
+            "text": "And Gaal spake again and said, See, there come people down by the <i>[n]</i>middle of the land, and one company cometh by the way of <i>[o]</i>the oak of Meonenim. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-37",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>navel</i>."
+                },
+                {
+                    "o": "That is, <i>the augurs\u2019 oak</i> (or <i>terebinth</i>)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009038,
+            "text": "Then said Zebul unto him, Where is now thy mouth, that thou saidst, Who is Abimelech, that we should serve him? is not this the people that thou hast despised? go out now, I pray, and fight with them. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009039,
+            "text": "And Gaal went out before the men of Shechem, and fought with Abimelech. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009040,
+            "text": "And Abimelech chased him, and he fled before him, and there fell many wounded, even unto the entrance of the gate.",
+            "version": "ASV",
+            "clsstr": "Judg-9-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009041,
+            "text": "\u00b6 And Abimelech dwelt at Arumah: and Zebul drove out Gaal and his brethren, that they should not dwell in Shechem. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009042,
+            "text": "And it came to pass on the morrow, that the people went out into the field; and they told Abimelech. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009043,
+            "text": "And he took the people, and divided them into three companies, and laid wait in the field; and he looked, and, behold, the people came forth out of the city; and he rose up against them, and smote them. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009044,
+            "text": "And Abimelech, and the companies that were with him, rushed forward, and stood in the entrance of the gate of the city: and the two companies rushed upon all that were in the field, and smote them. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009045,
+            "text": "And Abimelech fought against the city all that day; and he took the city, and slew the people that were therein: and he beat down the city, and sowed it with salt.",
+            "version": "ASV",
+            "clsstr": "Judg-9-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009046,
+            "text": "\u00b6 And when all the men of the tower of Shechem heard thereof, they entered into the stronghold of the house of Elberith. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009047,
+            "text": "And it was told Abimelech that all the men of the tower of Shechem were gathered together. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009048,
+            "text": "And Abimelech gat him up to mount Zalmon, he and all the people that were with him; and Abimelech took <i>[p]</i>an axe in his hand, and cut down a bough from the trees, and took it up, and laid it on his shoulder: and he said unto the people that were with him, What ye have seen me do, make haste, and do as I have done. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-48",
+            "footnotes": [
+                {
+                    "p": "Hebrew <i>the axes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009049,
+            "text": "And all the people likewise cut down every man his bough, and followed Abimelech, and put them to the stronghold, and set the stronghold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women.",
+            "version": "ASV",
+            "clsstr": "Judg-9-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009050,
+            "text": "\u00b6 Then went Abimelech to Thebez, and encamped against Thebez, and took it. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009051,
+            "text": "But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut themselves in, and gat them up to the roof of the tower. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009052,
+            "text": "And Abimelech came unto the tower, and fought against it, and drew near unto the door of the tower to burn it with fire. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009053,
+            "text": "And a certain woman cast an upper millstone upon Abimelech\u2019s head, and brake his skull. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009054,
+            "text": "Then he called hastily unto the young man his armorbearer, and said unto him, Draw thy sword, and kill me, that men say not of me, A woman slew him. And his young man thrust him through, and he died. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009055,
+            "text": "And when the men of Israel saw that Abimelech was dead, they departed every man unto his place. ",
+            "version": "ASV",
+            "clsstr": "Judg-9-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009056,
+            "text": "Thus God requited the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren; ",
+            "version": "ASV",
+            "clsstr": "Judg-9-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7009057,
+            "text": "and all the wickedness of the men of Shechem did God requite upon their heads: and upon them came the curse of Jotham the son of Jerubbaal.",
+            "version": "ASV",
+            "clsstr": "Judg-9-57",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Judges",
+    "chapters": 9
+}

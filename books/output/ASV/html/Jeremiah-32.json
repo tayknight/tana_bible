@@ -1,0 +1,391 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24032001,
+            "text": "\u00b6 The word that came to Jeremiah from Jehovah in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadrezzar. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032002,
+            "text": "Now at that time the king of Babylon\u2019s army was besieging Jerusalem; and Jeremiah the prophet was shut up in the court of the guard, which was in the king of Judah\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032003,
+            "text": "For Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy, and say, Thus saith Jehovah, Behold, I will give this city into the hand of the king of Babylon, and he shall take it; ",
+            "version": "ASV",
+            "clsstr": "Jer-32-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032004,
+            "text": "and Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hand of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes; ",
+            "version": "ASV",
+            "clsstr": "Jer-32-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032005,
+            "text": "and he shall bring Zedekiah to Babylon, and there shall he be until I visit him, saith Jehovah: though ye fight with the Chaldeans, ye shall not prosper?",
+            "version": "ASV",
+            "clsstr": "Jer-32-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032006,
+            "text": "\u00b6 And Jeremiah said, The word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-32-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032007,
+            "text": "Behold, Hanamel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that is in Anathoth; for the right of redemption is thine to buy it. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032008,
+            "text": "So Hanamel mine uncle\u2019s son came to me in the court of the guard according to the word of Jehovah, and said unto me, Buy my field, I pray thee, that is in Anathoth, which is in the land of Benjamin; for the right of inheritance is thine, and the redemption is thine; buy it for thyself. Then I knew that this was the word of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032009,
+            "text": "And I bought the field that was in Anathoth of Hanamel mine uncle\u2019s son, and weighed him the money, even seventeen shekels of silver. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032010,
+            "text": "And I subscribed the deed, and sealed it, and called witnesses, and weighed him the money in the balances. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032011,
+            "text": "So I took the deed of the purchase, both that which was sealed, <i>[a]</i> the law and custom, and that which was open: ",
+            "version": "ASV",
+            "clsstr": "Jer-32-11",
+            "footnotes": [
+                {
+                    "a": "Or, containing <i>the terms and conditions</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032012,
+            "text": "and I delivered the deed of the purchase unto Baruch the son of Neriah, the son of Mahseiah, in the presence of Hanamel mine uncle\u2019s , and in the presence of the witnesses that subscribed the deed of the purchase, before all the Jews that sat in the court of the guard. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032013,
+            "text": "And I charged Baruch before them, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-32-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032014,
+            "text": "Thus saith Jehovah of hosts, the God of Israel: Take these deeds, this deed of the purchase which is sealed, and this deed which is open, and put them in an earthen vessel; that they may continue many days. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032015,
+            "text": "For thus saith Jehovah of hosts, the God of Israel: Houses and fields and vineyards shall yet again be bought in this land.",
+            "version": "ASV",
+            "clsstr": "Jer-32-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032016,
+            "text": "\u00b6 Now after I had delivered the deed of the purchase unto Baruch the son of Neriah, I prayed unto Jehovah, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-32-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032017,
+            "text": "Ah Lord Jehovah! behold, thou hast made the heavens and the earth by thy great power and by thine outstretched arm; there is nothing too <i>[b]</i>hard for thee, ",
+            "version": "ASV",
+            "clsstr": "Jer-32-17",
+            "footnotes": [
+                {
+                    "b": "Or, <i>wonderful</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032018,
+            "text": "who showest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them; the great, the mighty God, Jehovah of hosts is his name; ",
+            "version": "ASV",
+            "clsstr": "Jer-32-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032019,
+            "text": "great in counsel, and mighty in work; whose eyes are open upon all the ways of the sons of men, to give every one according to his ways, and according to the fruit of his doings; ",
+            "version": "ASV",
+            "clsstr": "Jer-32-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032020,
+            "text": "who didst set signs and wonders in the land of Egypt, even unto this day, <i>[c]</i>both in Israel and among  men; and madest thee a name, as at this day; ",
+            "version": "ASV",
+            "clsstr": "Jer-32-20",
+            "footnotes": [
+                {
+                    "c": "Or, <i>and</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032021,
+            "text": "and didst bring forth thy people Israel out of the land of Egypt with signs, and with wonders, and with a strong hand, and with an outstretched arm, and with great terror; ",
+            "version": "ASV",
+            "clsstr": "Jer-32-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032022,
+            "text": "and gavest them this land, which thou didst swear to their fathers to give them, a land flowing with milk and honey; ",
+            "version": "ASV",
+            "clsstr": "Jer-32-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032023,
+            "text": "and they came in, and possessed it; but they obeyed not thy voice, neither walked in thy law; they have done nothing of all that thou commandedst them to do: therefore thou hast caused all this evil to come upon them. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032024,
+            "text": "Behold, the mounds, they are come unto the city to take it; and the city is given into the hand of the Chaldeans that fight against it, because of the sword, and of the famine, and of the pestilence; and what thou hast spoken is come to pass; and, behold, thou seest it. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032025,
+            "text": "And thou hast said unto me, O Lord Jehovah, Buy thee the field for money, and call witnesses; whereas the city is given into the hand of the Chaldeans.",
+            "version": "ASV",
+            "clsstr": "Jer-32-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032026,
+            "text": "\u00b6 Then came the word of Jehovah unto Jeremiah, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-32-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032027,
+            "text": "Behold, I am Jehovah, the God of all flesh: is there anything too hard for me? ",
+            "version": "ASV",
+            "clsstr": "Jer-32-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032028,
+            "text": "Therefore thus saith Jehovah: Behold, I will give this city into the hand of the Chaldeans, and into the hand of Nebuchadrezzar king of Babylon, and he shall take it: ",
+            "version": "ASV",
+            "clsstr": "Jer-32-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032029,
+            "text": "and the Chaldeans, that fight against this city, shall come and set this city on fire, and burn it, with the houses, upon whose roofs they have offered incense unto Baal, and poured out drink-offerings unto other gods, to provoke me to anger. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032030,
+            "text": "For the children of Israel and the children of Judah have done only that which was evil in my sight from their youth; for the children of Israel have only provoked me to anger with the work of their hands, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032031,
+            "text": "For this city hath been to me a provocation of mine anger and of my wrath from the day that they built it even unto this day; that I should remove it from before my face, ",
+            "version": "ASV",
+            "clsstr": "Jer-32-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032032,
+            "text": "because of all the evil of the children of Israel and of the children of Judah, which they have done to provoke me to anger, they, their kings, their princes, their priests, and their prophets, and the men of Judah, and the inhabitants of Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032033,
+            "text": "And they have turned unto me the back, and not the face: and though I taught them, rising up early and teaching them, yet they have not hearkened to receive instruction. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032034,
+            "text": "But they set their abominations in the house which is called by my name, to defile it. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032035,
+            "text": "And they built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through unto Molech; which I commanded them not, neither came it into my <i>[d]</i>mind, that they should do this abomination, to cause Judah to sin.",
+            "version": "ASV",
+            "clsstr": "Jer-32-35",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032036,
+            "text": "\u00b6 And now therefore thus saith Jehovah, the God of Israel, concerning this city, whereof ye say, It is given into the hand of the king of Babylon by the sword, and by the famine, and by the pestilence: ",
+            "version": "ASV",
+            "clsstr": "Jer-32-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032037,
+            "text": "Behold, I will gather them out of all the countries, whither I have driven them in mine anger, and in my wrath, and in great indignation; and I will bring them again unto this place, and I will cause them to dwell safely. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032038,
+            "text": "And they shall be my people, and I will be their God: ",
+            "version": "ASV",
+            "clsstr": "Jer-32-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032039,
+            "text": "and I will give them one heart and one way, that they may fear me for ever, for the good of them, and of their children after them: ",
+            "version": "ASV",
+            "clsstr": "Jer-32-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032040,
+            "text": "and I will make an everlasting covenant with them, that I will not turn away from following them, to do them good; and I will put my fear in their hearts, that they may not depart from me. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032041,
+            "text": "Yea, I will rejoice over them to do them good, and I will plant them in this land <i>[e]</i>assuredly with my whole heart and with my whole soul. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-41",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>in truth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032042,
+            "text": "For thus saith Jehovah: Like as I have brought all this great evil upon this people, so will I bring upon them all the good that I have promised them. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032043,
+            "text": "And fields shall be bought in this land, whereof ye say, It is desolate, without man or beast; it is given into the hand of the Chaldeans. ",
+            "version": "ASV",
+            "clsstr": "Jer-32-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24032044,
+            "text": "Men shall buy fields for money, and subscribe the deeds, and seal them, and call witnesses, in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the hill-country, and in the cities of the lowland, and in the cities of the South: for I will cause their captivity to return, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-32-44",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 32
+}

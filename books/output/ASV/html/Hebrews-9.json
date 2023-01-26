@@ -1,0 +1,318 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58009001,
+            "text": "\u00b6 Now even the first  had ordinances of divine service, and its sanctuary,  of this world. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009002,
+            "text": "For there was a tabernacle prepared, the first, wherein <i>[a]</i> the candlestick, and the table, and <i>[b]</i>the showbread; which is called the Holy place. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-2",
+            "footnotes": [
+                {
+                    "a": "Or, are"
+                },
+                {
+                    "b": "Greek <i>the setting forth of the loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009003,
+            "text": "And after the second veil, the tabernacle which is called the Holy of holies; ",
+            "version": "ASV",
+            "clsstr": "Heb-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009004,
+            "text": "having a golden <i>[c]</i>altar of incense, and the ark of the covenant overlaid round about with gold, wherein <i>[d]</i> a golden pot holding the manna, and Aaron\u2019s rod that budded, and the tables of the covenant; ",
+            "version": "ASV",
+            "clsstr": "Heb-9-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>censer</i>. [[2 Chr. 26:19]]; [[Ezek. 8:11]]."
+                },
+                {
+                    "d": "Or, is"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009005,
+            "text": "and above it cherubim of glory overshadowing <i>[e]</i>the mercy-seat; of which things we cannot now speak severally. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-5",
+            "footnotes": [
+                {
+                    "e": "Greek <i>the propitiatory</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009006,
+            "text": "Now these things having been thus prepared, the priests go in continually into the first tabernacle, accomplishing the services; ",
+            "version": "ASV",
+            "clsstr": "Heb-9-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009007,
+            "text": "but into the second the high priest alone, once in the year, not without blood, which he offereth for himself, and for the <i>[f]</i>errors of the people: ",
+            "version": "ASV",
+            "clsstr": "Heb-9-7",
+            "footnotes": [
+                {
+                    "f": "Greek <i>ignorances</i>. [[Ecclus. 23:2f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009008,
+            "text": "the Holy Spirit this signifying, that the way into the holy place hath not yet been made manifest, while the first tabernacle is yet standing; ",
+            "version": "ASV",
+            "clsstr": "Heb-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009009,
+            "text": "which  a figure for the time present; according to which are offered both gifts and sacrifices that cannot, as touching the conscience, make the worshipper perfect, ",
+            "version": "ASV",
+            "clsstr": "Heb-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009010,
+            "text": " only (with meats and drinks and divers washings) carnal ordinances, imposed until a time of reformation.",
+            "version": "ASV",
+            "clsstr": "Heb-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009011,
+            "text": "\u00b6 But Christ having come a high priest of <i>[g]</i>the good things to come, through the greater and more perfect tabernacle, not made with hands, that is to say, not of this creation, ",
+            "version": "ASV",
+            "clsstr": "Heb-9-11",
+            "footnotes": [
+                {
+                    "g": "Some ancient authorities read <i>the good things that are come</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009012,
+            "text": "nor yet through the blood of goats and calves, but through his own blood, entered in once for all into the holy place, having obtained eternal redemption. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009013,
+            "text": "For if the blood of goats and bulls, and the ashes of a heifer sprinkling them that have been defiled, sanctify unto the cleanness of the flesh: ",
+            "version": "ASV",
+            "clsstr": "Heb-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009014,
+            "text": "how much more shall the blood of Christ, who through <i>[h]</i>the eternal Spirit offered himself without blemish unto God, cleanse <i>[i]</i>your conscience from dead works to serve the living God? ",
+            "version": "ASV",
+            "clsstr": "Heb-9-14",
+            "footnotes": [
+                {
+                    "h": "Or, his <i>eternal spirit</i>"
+                },
+                {
+                    "i": "Many ancient authorities read <i>our</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009015,
+            "text": "And for this cause he is the mediator of a new <i>[j]</i>covenant, that a death having taken place for the redemption of the transgressions that were under the first <i>[k]</i>covenant, they that have been called may receive the promise of the eternal inheritance. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-15",
+            "footnotes": [
+                {
+                    "j": "The Greek word here used signifies both <i>covenant</i> and <i>testament</i>."
+                },
+                {
+                    "k": "The Greek word here used signifies both <i>covenant</i> and <i>testament</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009016,
+            "text": "For where a <i>[l]</i>testament is, there must of necessity <i>[m]</i>be the death of him that made it. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-16",
+            "footnotes": [
+                {
+                    "l": "The Greek word here used signifies both <i>covenant</i> and <i>testament</i>."
+                },
+                {
+                    "m": "Greek <i>be brought</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009017,
+            "text": "For a <i>[n]</i>testament is of force <i>[o]</i>where there hath been death: <i>[p]</i>for it doth never avail while he that made it liveth. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-17",
+            "footnotes": [
+                {
+                    "n": "The Greek word here used signifies both <i>covenant</i> and <i>testament</i>."
+                },
+                {
+                    "o": "Greek <i>over the dead</i>."
+                },
+                {
+                    "p": "Or, <i>for doth it ever\u00a0.\u00a0.\u00a0. liveth?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009018,
+            "text": "Wherefore even the first  hath not been dedicated without blood. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009019,
+            "text": "For when every commandment had been spoken by Moses unto all the people according to the law, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people, ",
+            "version": "ASV",
+            "clsstr": "Heb-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009020,
+            "text": "saying, <i>[q]</i>This is the blood of the <i>[r]</i>covenant which God commanded to you-ward. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-20",
+            "footnotes": [
+                {
+                    "q": "[[Ex. 24:8]]."
+                },
+                {
+                    "r": "The Greek word here used signifies both <i>covenant</i> and <i>testament</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009021,
+            "text": "Moreover the tabernacle and all the vessels of the ministry he sprinkled in like manner with the blood. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009022,
+            "text": "And according to the law, I may almost say, all things are cleansed with blood, and apart from shedding of blood there is no remission.",
+            "version": "ASV",
+            "clsstr": "Heb-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009023,
+            "text": "\u00b6 It was necessary therefore that the copies of the things in the heavens should be cleansed with these; but the heavenly things themselves with better sacrifices than these. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009024,
+            "text": "For Christ entered not into a holy place made with hands, like in pattern to the true; but into heaven itself, now to appear before the face of God for us: ",
+            "version": "ASV",
+            "clsstr": "Heb-9-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009025,
+            "text": "nor yet that he should offer himself often, as the high priest entereth into the holy place year by year with blood not his own; ",
+            "version": "ASV",
+            "clsstr": "Heb-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009026,
+            "text": "else must he often have suffered since the foundation of the world: but now once at the <i>[s]</i>end of the ages hath he been manifested to put away sin <i>[t]</i>by the sacrifice of himself. ",
+            "version": "ASV",
+            "clsstr": "Heb-9-26",
+            "footnotes": [
+                {
+                    "s": "Or, <i>consummation</i>"
+                },
+                {
+                    "t": "Or, <i>by his sacrifice</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009027,
+            "text": "And inasmuch as it is <i>[u]</i>appointed unto men once to die, and after this  judgment; ",
+            "version": "ASV",
+            "clsstr": "Heb-9-27",
+            "footnotes": [
+                {
+                    "u": "Greek <i>laid up for</i>. [[Col. 1:5]]; [[2 Tim. 4:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58009028,
+            "text": "so Christ also, having been once offered to bear the sins of many, shall appear a second time, apart from sin, to them that wait for him, unto salvation.",
+            "version": "ASV",
+            "clsstr": "Heb-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 9
+}

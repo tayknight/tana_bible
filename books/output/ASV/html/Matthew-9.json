@@ -1,0 +1,396 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40009001,
+            "text": "\u00b6 And he entered into a boat, and crossed over, and came into his own city. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009002,
+            "text": "And behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy, <i>[a]</i>Son, be of good cheer; thy sins are forgiven. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>Child</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009003,
+            "text": "And behold, certain of the scribes said within themselves, This man blasphemeth. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009004,
+            "text": "And Jesus <i>[b]</i>knowing their thoughts said, Wherefore think ye evil in your hearts? ",
+            "version": "ASV",
+            "clsstr": "Matt-9-4",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>seeing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009005,
+            "text": "For which is easier, to say, Thy sins are forgiven; or to say, Arise, and walk? ",
+            "version": "ASV",
+            "clsstr": "Matt-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009006,
+            "text": "But that ye may know that the Son of man hath authority on earth to forgive sins (then saith he to the sick of the palsy), Arise, and take up thy bed, and go unto thy house. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009007,
+            "text": "And he arose, and departed to his house. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009008,
+            "text": "But when the multitudes saw it, they were afraid, and glorified God, who had given such authority unto men.",
+            "version": "ASV",
+            "clsstr": "Matt-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009009,
+            "text": "\u00b6 And as Jesus passed by from thence, he saw a man, called Matthew, sitting at the place of toll: and he saith unto him, Follow me. And he arose, and followed him.",
+            "version": "ASV",
+            "clsstr": "Matt-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009010,
+            "text": "\u00b6 And it came to pass, as he <i>[c]</i>sat at meat in the house, behold, many <i>[d]</i>publicans and sinners came and sat down with Jesus and his disciples. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-10",
+            "footnotes": [
+                {
+                    "c": "Greek <i>reclined</i>: and so always."
+                },
+                {
+                    "d": "See marginal note on [[5:46]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009011,
+            "text": "And when the Pharisees saw it, they said unto his disciples, Why eateth your Teacher with the <i>[e]</i>publicans and sinners? ",
+            "version": "ASV",
+            "clsstr": "Matt-9-11",
+            "footnotes": [
+                {
+                    "e": "See marginal note on [[5:46]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009012,
+            "text": "But when he heard it, he said, They that are <i>[f]</i>whole have no need of a physician, but they that are sick. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-12",
+            "footnotes": [
+                {
+                    "f": "Greek <i>strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009013,
+            "text": "But go ye and learn what meaneth, <i>[g]</i>I desire mercy, and not sacrifice: for I came not to call the righteous, but sinners.",
+            "version": "ASV",
+            "clsstr": "Matt-9-13",
+            "footnotes": [
+                {
+                    "g": "[[Hos. 6:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009014,
+            "text": "\u00b6 Then come to him the disciples of John, saying, Why do we and the Pharisees fast <i>[h]</i>oft, but thy disciples fast not? ",
+            "version": "ASV",
+            "clsstr": "Matt-9-14",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities omit <i>oft</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009015,
+            "text": "And Jesus said unto them, Can the <i>[i]</i>sons of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken away from them, and then will they fast. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-15",
+            "footnotes": [
+                {
+                    "i": "That is, <i>companions of the bridegroom</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009016,
+            "text": "And no man putteth a piece of undressed cloth upon an old garment; for that which should fill it up taketh from the garment, and a worse rent is made. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009017,
+            "text": "Neither do put new wine into old <i>[j]</i>wine-skins: else the skins burst, and the wine is spilled, and the skins perish: but they put new wine into fresh wine-skins, and both are preserved.",
+            "version": "ASV",
+            "clsstr": "Matt-9-17",
+            "footnotes": [
+                {
+                    "j": "That is, <i>skins used as bottles</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009018,
+            "text": "\u00b6 While he spake these things unto them, behold, there came <i>[k]</i>a ruler, and <i>[l]</i>worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-18",
+            "footnotes": [
+                {
+                    "k": "Greek <i>one ruler</i>. Compare [[Mk. 5:22]]."
+                },
+                {
+                    "l": "See marginal note on [[2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009019,
+            "text": "And Jesus arose, and followed him, and  his disciples. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009020,
+            "text": "And behold, a woman, who had an issue of blood twelve years, came behind him, and touched the border of his garment: ",
+            "version": "ASV",
+            "clsstr": "Matt-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009021,
+            "text": "for she said within herself, If I do but touch his garment, I shall be <i>[m]</i>made whole. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-21",
+            "footnotes": [
+                {
+                    "m": "Or, <i>saved</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009022,
+            "text": "But Jesus turning and seeing her said, Daughter, be of good cheer; thy faith hath <i>[n]</i>made thee whole. And the woman was <i>[o]</i>made whole from that hour. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-22",
+            "footnotes": [
+                {
+                    "n": "Or, <i>saved thee</i>"
+                },
+                {
+                    "o": "Or, <i>saved</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009023,
+            "text": "And when Jesus came into the ruler\u2019s house, and saw the flute-players, and the crowd making a tumult, ",
+            "version": "ASV",
+            "clsstr": "Matt-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009024,
+            "text": "he said, Give place: for the damsel is not dead, but sleepeth. And they laughed him to scorn. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009025,
+            "text": "But when the crowd was put forth, he entered in, and took her by the hand; and the damsel arose. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009026,
+            "text": "And <i>[p]</i>the fame hereof went forth into all that land.",
+            "version": "ASV",
+            "clsstr": "Matt-9-26",
+            "footnotes": [
+                {
+                    "p": "Greek <i>this fame</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009027,
+            "text": "\u00b6 And as Jesus passed by from thence, two blind men followed him, crying out, and saying, Have mercy on us, thou son of David. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009028,
+            "text": "And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They say unto him, Yea, Lord. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009029,
+            "text": "Then touched he their eyes, saying, According to your faith be it done unto you. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009030,
+            "text": "And their eyes were opened. And Jesus <i>[q]</i>strictly charged them, saying, See that no man know it. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-30",
+            "footnotes": [
+                {
+                    "q": "Or, <i>sternly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009031,
+            "text": "But they went forth, and spread abroad his fame in all that land.",
+            "version": "ASV",
+            "clsstr": "Matt-9-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009032,
+            "text": "\u00b6 And as they went forth, behold, there was brought to him a dumb man possessed with a demon. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009033,
+            "text": "And when the demon was cast out, the dumb man spake: and the multitudes marvelled, saying, It was never so seen in Israel. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009034,
+            "text": "But the Pharisees said, <i>[r]</i>By the prince of the demons casteth he out demons.",
+            "version": "ASV",
+            "clsstr": "Matt-9-34",
+            "footnotes": [
+                {
+                    "r": "Or, <i>In</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009035,
+            "text": "\u00b6 And Jesus went about all the cities and the villages, teaching in their synagogues, and preaching the <i>[s]</i>gospel of the kingdom, and healing all manner of disease and all manner of sickness. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-35",
+            "footnotes": [
+                {
+                    "s": "See marginal note on [[4:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009036,
+            "text": "But when he saw the multitudes, he was moved with compassion for them, because they were distressed and scattered, as sheep not having a shepherd. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009037,
+            "text": "Then saith he unto his disciples, The harvest indeed is plenteous, but the laborers are few. ",
+            "version": "ASV",
+            "clsstr": "Matt-9-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40009038,
+            "text": "Pray ye therefore the Lord of the harvest, that he send forth laborers into his harvest.",
+            "version": "ASV",
+            "clsstr": "Matt-9-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 9
+}

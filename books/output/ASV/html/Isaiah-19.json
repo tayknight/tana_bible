@@ -1,0 +1,282 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23019001,
+            "text": "\u00b6 The <i>[a]</i>burden of Egypt.\u00b6 Behold, Jehovah rideth upon a swift cloud, and cometh unto Egypt: and the idols of Egypt shall tremble at his presence; and the heart of Egypt shall melt in the midst of it. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle concerning</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019002,
+            "text": "And I will <i>[b]</i>stir up the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbor; city against city,  kingdom against kingdom. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>join together</i>. Or, <i>arm</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019003,
+            "text": "And the spirit of Egypt shall <i>[c]</i>fail in the midst of it; and I will <i>[d]</i>destroy the counsel thereof: and they shall seek unto the idols, and to the <i>[e]</i>charmers, and to them that have familiar spirits, and to the wizards. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>be emptied</i>."
+                },
+                {
+                    "d": "Hebrew <i>swallow up</i>."
+                },
+                {
+                    "e": "Or, <i>whisperers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019004,
+            "text": "And I will <i>[f]</i>give over the Egyptians into the hand of a cruel lord; and a fierce king shall rule over them, saith the Lord, Jehovah of hosts.",
+            "version": "ASV",
+            "clsstr": "Isa-19-4",
+            "footnotes": [
+                {
+                    "f": "Or, <i>shut up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019005,
+            "text": "\u00b6 And the waters shall fail from the sea, and the river shall be wasted and become dry. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019006,
+            "text": "And the rivers shall become foul; the <i>[g]</i>streams of <i>[h]</i>Egypt shall be diminished and dried up; the reeds and flags shall wither away. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-6",
+            "footnotes": [
+                {
+                    "g": "Or, <i>canals</i>"
+                },
+                {
+                    "h": "Hebrew <i>Mazor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019007,
+            "text": "The meadows by the Nile, by the brink of the Nile, and all the sown fields of the Nile, shall become dry, be driven away, and be no more. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019008,
+            "text": "And the fishers shall lament, and all they that cast angle into the Nile shall mourn, and they that spread nets upon the waters shall languish. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019009,
+            "text": "Moreover they that work in combed flax, and they that weave <i>[i]</i>white cloth, shall be confounded. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-9",
+            "footnotes": [
+                {
+                    "i": "Or, <i>cotton</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019010,
+            "text": "And <i>[j]</i>the <i>[k]</i>pillars shall be broken in pieces; all they <i>[l]</i>that work for hire  grieved in soul.",
+            "version": "ASV",
+            "clsstr": "Isa-19-10",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>her pillars</i>."
+                },
+                {
+                    "k": "Or, <i>foundations</i>"
+                },
+                {
+                    "l": "Or, <i>that make dams</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019011,
+            "text": "\u00b6 The princes of Zoan are utterly foolish; the counsel of the wisest counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings? ",
+            "version": "ASV",
+            "clsstr": "Isa-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019012,
+            "text": "Where then are thy wise men? and let them tell thee now; and let them know what Jehovah of hosts hath purposed concerning Egypt. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019013,
+            "text": "The princes of Zoan are become fools, the princes of Memphis are deceived; they have caused Egypt to go astray, that are the corner-stone of her tribes. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019014,
+            "text": "Jehovah hath mingled a spirit of perverseness in the midst of her; and they have caused Egypt to go astray in every work thereof, as a drunken man <i>[m]</i>staggereth in his vomit. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-14",
+            "footnotes": [
+                {
+                    "m": "Or, <i>goeth astray</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019015,
+            "text": "Neither shall there be for Egypt any work, which head or tail, palm-branch or rush, may do. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019016,
+            "text": "In that day shall the Egyptians be like unto women; and they shall tremble and fear because of the shaking of the hand of Jehovah of hosts, which he shaketh over them. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019017,
+            "text": "And the land of Judah shall become a terror unto Egypt; <i>[n]</i>every one to whom mention is made thereof shall be afraid, because of the purpose of Jehovah of hosts, which he purposeth against it. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-17",
+            "footnotes": [
+                {
+                    "n": "Or, <i>every one that maketh mention thereof, to him shall they turn in fear</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019018,
+            "text": "In that day there shall be five cities in the land of Egypt that speak the language of Canaan, and swear to Jehovah of hosts; one shall be called The city of <i>[o]</i>destruction.",
+            "version": "ASV",
+            "clsstr": "Isa-19-18",
+            "footnotes": [
+                {
+                    "o": "Or, <i>Heres</i>. Or, according to another reading, <i>the sun</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019019,
+            "text": "\u00b6 In that day shall there be an altar to Jehovah in the midst of the land of Egypt, and a pillar at the border thereof to Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019020,
+            "text": "And it shall be for a sign and for a witness unto Jehovah of hosts in the land of Egypt; for they shall cry unto Jehovah because of oppressors, and he will send them a saviour, and <i>[p]</i>a defender, and he will deliver them. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-20",
+            "footnotes": [
+                {
+                    "p": "Or, <i>a mighty one</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019021,
+            "text": "And Jehovah shall <i>[q]</i>be known to Egypt, and the Egyptians shall know Jehovah in that day; yea, they shall worship with sacrifice and oblation, and shall vow a vow unto Jehovah, and shall perform it. ",
+            "version": "ASV",
+            "clsstr": "Isa-19-21",
+            "footnotes": [
+                {
+                    "q": "Or, <i>make himself known</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019022,
+            "text": "And Jehovah will smite Egypt, smiting and healing; and they shall return unto Jehovah, and he will be entreated of them, and will heal them.",
+            "version": "ASV",
+            "clsstr": "Isa-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019023,
+            "text": "\u00b6 In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria; and the Egyptians shall worship with the Assyrians.",
+            "version": "ASV",
+            "clsstr": "Isa-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019024,
+            "text": "\u00b6 In that day shall Israel be the third with Egypt and with Assyria, a blessing in the midst of the earth; ",
+            "version": "ASV",
+            "clsstr": "Isa-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23019025,
+            "text": "for that Jehovah of hosts hath blessed them, saying, Blessed be Egypt my people, and Assyria the work of my hands, and Israel mine inheritance.",
+            "version": "ASV",
+            "clsstr": "Isa-19-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 19
+}

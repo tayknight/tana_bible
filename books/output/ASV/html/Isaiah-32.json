@@ -1,0 +1,215 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23032001,
+            "text": "\u00b6 Behold, a king shall reign in righteousness, and princes shall rule in justice. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032002,
+            "text": "And a man shall be as a hiding-place from the wind, and a covert from the tempest, as streams of water in a dry place, as the shade of a great rock in a weary land. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032003,
+            "text": "And the eyes of them that see shall not be <i>[a]</i>dim, and the ears of them that hear shall hearken. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>closed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032004,
+            "text": "And the heart of the <i>[b]</i>rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>hasty</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032005,
+            "text": "The fool shall be no more called noble, nor the <i>[c]</i>churl said to be bountiful. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>crafty</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032006,
+            "text": "For the fool will speak folly, and his heart will work iniquity, to practise profaneness, and to utter error against Jehovah, to make empty the soul of the hungry, and to cause the drink of the thirsty to fail. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032007,
+            "text": "And the instruments of the churl are evil: he deviseth wicked devices to destroy the <i>[d]</i>meek with lying words, even when the needy speaketh right. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>poor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032008,
+            "text": "But the noble deviseth noble things; and <i>[e]</i>in noble things shall he continue.",
+            "version": "ASV",
+            "clsstr": "Isa-32-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>by liberal things shall he stand</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032009,
+            "text": "\u00b6 Rise up, ye women that are at ease, hear my voice; ye <i>[f]</i>careless daughters, give ear unto my speech. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-9",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>confident</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032010,
+            "text": " <i>[g]</i>For days beyond a year shall ye be troubled, ye careless women; for the vintage shall fail, the ingathering shall not come. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>After a year and days</i>. Hebrew <i>Days above a year</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032011,
+            "text": "Tremble, ye women that are at ease; be troubled, ye careless ones; strip you, and make you bare, and <i>[h]</i>gird  upon your loins. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-11",
+            "footnotes": [
+                {
+                    "h": "Or, <i>put a girdle upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032012,
+            "text": "They shall smite upon the breasts for the pleasant fields, for the fruitful vine. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032013,
+            "text": "Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032014,
+            "text": "For the palace shall be forsaken; the populous city shall be deserted; <i>[i]</i>the hill and the watch-tower shall be for dens for ever, a joy of wild asses, a pasture of flocks; ",
+            "version": "ASV",
+            "clsstr": "Isa-32-14",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Ophel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032015,
+            "text": "until the Spirit be poured upon us from on high, and the wilderness become a fruitful field, and the fruitful field be esteemed as a forest.",
+            "version": "ASV",
+            "clsstr": "Isa-32-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032016,
+            "text": "\u00b6 Then justice shall dwell in the wilderness; and righteousness shall abide in the fruitful field. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032017,
+            "text": "And the work of righteousness shall be peace; and the effect of righteousness, quietness and confidence for ever. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032018,
+            "text": "And my people shall abide in a peaceable habitation, and in safe dwellings, and in quiet resting-places. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032019,
+            "text": "But it shall hail in the downfall of the forest; and the city shall be utterly laid low. ",
+            "version": "ASV",
+            "clsstr": "Isa-32-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23032020,
+            "text": "Blessed are ye that sow beside all waters, that send forth the feet of the ox and the ass.",
+            "version": "ASV",
+            "clsstr": "Isa-32-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 32
+}

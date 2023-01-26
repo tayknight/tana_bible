@@ -1,0 +1,273 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18013001,
+            "text": "\u00b6     Lo, mine eye hath seen all ,\n    Mine ear hath heard and understood it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013002,
+            "text": "    What ye know,  do I know also:\n    I am not inferior unto you.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013003,
+            "text": "\u00b6     Surely I would speak to the Almighty,\n    And I desire to reason with God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013004,
+            "text": "    But ye are forgers of lies;\n    Ye are all physicians of no value.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013005,
+            "text": "    Oh that ye would altogether hold your peace!\n    And it would be your wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013006,
+            "text": "    Hear now my reasoning,\n    And hearken to the pleadings of my lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013007,
+            "text": "    Will ye speak unrighteously for God,\n    And talk deceitfully for him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013008,
+            "text": "    Will ye show partiality to him?\n    Will ye contend for God?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013009,
+            "text": " Is it good that he should search you out?\n Or as one <i>[a]</i>deceiveth a man, will ye <i>[b]</i>deceive him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-9",
+            "footnotes": [
+                {
+                    "a": "Or, <i>mocketh</i>"
+                },
+                {
+                    "b": "Or, <i>mock</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013010,
+            "text": "    He will surely reprove you,\n    If ye do secretly show partiality.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013011,
+            "text": "    Shall not his majesty make you afraid,\n    And his dread fall upon you?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013012,
+            "text": "    Your memorable sayings are proverbs of ashes,\n    Your defences are defences of clay.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013013,
+            "text": "\u00b6     Hold your peace, let me alone, that I may speak;\n    And let come on me what will.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013014,
+            "text": "   <i>[c]</i>Wherefore should I take my flesh in my teeth,\n    And put my life in my hand?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>At all adventures I will take etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013015,
+            "text": "  <i>[d]</i>Behold, he will slay me; I have no hope:\n  Nevertheless I will <i>[e]</i>maintain my ways before him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Though he slay me, yet will I wait for him</i>"
+                },
+                {
+                    "e": "Hebrew <i>argue</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013016,
+            "text": "    This also shall be my salvation,\n    That a godless man shall not come before him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013017,
+            "text": "    Hear diligently my speech,\n    And let my declaration be in your ears.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013018,
+            "text": "  Behold now, I have set my cause in order;\n  I know that I <i>[f]</i>am righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-18",
+            "footnotes": [
+                {
+                    "f": "Or, <i>shall be justified</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013019,
+            "text": "  Who is he that will contend with me?\n  For then <i>[g]</i>would I hold my peace and give up the ghost.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>if I hold my peace, I shall give up etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013020,
+            "text": "\u00b6     Only do not two things unto me;\n    Then will I not hide myself from thy face:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013021,
+            "text": "    Withdraw thy hand far from me;\n    And let not thy terror make me afraid.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013022,
+            "text": "    Then call thou, and I will answer;\n    Or let me speak, and answer thou me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013023,
+            "text": "    How many are mine iniquities and sins?\n    Make me to know my transgression and my sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013024,
+            "text": "    Wherefore hidest thou thy face,\n    And holdest me for thine enemy?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013025,
+            "text": "    Wilt thou harass a driven leaf?\n    And wilt thou pursue the dry stubble?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013026,
+            "text": "    For thou writest bitter things against me,\n    And makest me to inherit the iniquities of my youth:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013027,
+            "text": "    Thou puttest my feet also in the stocks,\n    And markest all my paths;\n    Thou settest a bound to the soles of my feet:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18013028,
+            "text": "   <i>[h]</i>Though I am like a rotten thing that consumeth,\n    Like a garment that is moth-eaten.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-13-28",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>And he is like</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 13
+}

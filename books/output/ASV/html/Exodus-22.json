@@ -1,0 +1,298 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2022001,
+            "text": "\u00b6 If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall pay five oxen for an ox, and four sheep for a sheep. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022002,
+            "text": "If the thief be found breaking in, and be smitten so that he dieth, there shall be no <i>[a]</i>bloodguiltiness for him. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>blood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022003,
+            "text": "If the sun be risen upon him, there shall be bloodguiltiness for him; he shall make restitution: if he have nothing, then he shall be sold for his theft. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022004,
+            "text": "If the theft be found in his hand alive, whether it be ox, or ass, or sheep; he shall pay double.",
+            "version": "ASV",
+            "clsstr": "Exod-22-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022005,
+            "text": "\u00b6 If a man shall cause a field or vineyard to be eaten, and shall let his beast loose, and it feed in another man\u2019s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution.",
+            "version": "ASV",
+            "clsstr": "Exod-22-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022006,
+            "text": "\u00b6 If fire break out, and catch in thorns, so that the shocks of grain, or the standing grain, or the field are consumed; he that kindled the fire shall surely make restitution.",
+            "version": "ASV",
+            "clsstr": "Exod-22-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022007,
+            "text": "\u00b6 If a man shall deliver unto his neighbor money or stuff to keep, and it be stolen out of the man\u2019s house; if the thief be found, he shall pay double. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022008,
+            "text": "If the thief be not found, then the master of the house shall come near unto God,  whether he have not put his hand unto his neighbor\u2019s goods. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022009,
+            "text": "For every matter of trespass, whether it be for ox, for ass, for sheep, for raiment, for any manner of lost thing, whereof one saith, This is it, the cause of both parties shall come before <i>[b]</i>God; he whom <i>[c]</i>God shall condemn shall pay double unto his neighbor.",
+            "version": "ASV",
+            "clsstr": "Exod-22-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the judges</i>"
+                },
+                {
+                    "c": "Or, <i>the judges</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022010,
+            "text": "\u00b6 If a man deliver unto his neighbor an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it: ",
+            "version": "ASV",
+            "clsstr": "Exod-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022011,
+            "text": "the oath of Jehovah shall be between them both, whether he hath not put his hand unto his neighbor\u2019s goods; and the owner thereof shall accept it, and he shall not make restitution. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022012,
+            "text": "But if it be stolen from him, he shall make restitution unto the owner thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022013,
+            "text": "If it be torn in pieces, let him bring it for witness; he shall not make good that which was torn.",
+            "version": "ASV",
+            "clsstr": "Exod-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022014,
+            "text": "\u00b6 And if a man <i>[d]</i>borrow aught of his neighbor, and it be hurt, or die, the owner thereof not being with it, he shall surely make restitution. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-14",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>ask</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022015,
+            "text": "If the owner thereof be with it, he shall not make it good: if it be a hired thing, <i>[e]</i>it came for its hire.",
+            "version": "ASV",
+            "clsstr": "Exod-22-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>it is reckoned in</i> (Hebrew <i>cometh into</i>) <i>its hire</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022016,
+            "text": "\u00b6 And if a man entice a virgin that is not betrothed, and lie with her, he shall surely pay a dowry for her to be his wife. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022017,
+            "text": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.",
+            "version": "ASV",
+            "clsstr": "Exod-22-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022018,
+            "text": "\u00b6 Thou shalt not suffer a sorceress to live.",
+            "version": "ASV",
+            "clsstr": "Exod-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022019,
+            "text": "\u00b6 Whosoever lieth with a beast shall surely be put to death.",
+            "version": "ASV",
+            "clsstr": "Exod-22-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022020,
+            "text": "\u00b6 He that sacrificeth unto any god, save unto Jehovah only, shall be <i>[f]</i>utterly destroyed. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-20",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>devoted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022021,
+            "text": "And a sojourner shalt thou not wrong, neither shalt thou oppress him: for ye were sojourners in the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022022,
+            "text": "Ye shall not afflict any widow, or fatherless child. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022023,
+            "text": "If thou afflict them at all, and they cry at all unto me, I will surely hear their cry; ",
+            "version": "ASV",
+            "clsstr": "Exod-22-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022024,
+            "text": "and my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.",
+            "version": "ASV",
+            "clsstr": "Exod-22-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022025,
+            "text": "\u00b6 If thou lend money to any of my people with thee that is poor, thou shalt not be to him as a creditor; neither shall ye lay upon him interest. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022026,
+            "text": "If thou at all take thy neighbor\u2019s garment to pledge, thou shalt restore it unto him before the sun goeth down: ",
+            "version": "ASV",
+            "clsstr": "Exod-22-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022027,
+            "text": "for that is his only covering, it is his garment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious.",
+            "version": "ASV",
+            "clsstr": "Exod-22-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022028,
+            "text": "\u00b6 Thou shalt not revile <i>[g]</i>God, nor curse a ruler of thy people. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-28",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the judges</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022029,
+            "text": "Thou shalt not delay to offer of <i>[h]</i>thy harvest, and of the outflow of thy presses. The first-born of thy sons shalt thou give unto me. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-29",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>thy fulness and thy tear</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022030,
+            "text": "Likewise shalt thou do with thine oxen,  with thy sheep: seven days it shall be with its dam; on the eighth day thou shalt give it me. ",
+            "version": "ASV",
+            "clsstr": "Exod-22-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2022031,
+            "text": "And ye shall be holy men unto me: therefore ye shall not eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs.",
+            "version": "ASV",
+            "clsstr": "Exod-22-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 22
+}

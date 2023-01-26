@@ -1,0 +1,86 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19054001,
+            "text": "<b>Prayer for defence against enemies.</b>\n\u00b6 For the Chief Musician; on stringed instruments. Maschil of David; when the Ziphites came and said to Saul, Doth not David hide himself with us?\u00b6     Save me, O God, by thy name,\n    And judge me in thy might.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-54-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19054002,
+            "text": "    Hear my prayer, O God;\n    Give ear to the words of my mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-54-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19054003,
+            "text": "    For strangers are risen up against me,\n    And violent men have sought after my soul:\n    They have not set God before them. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-54-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19054004,
+            "text": "  Behold, God is my helper:\n  The Lord is <i>[a]</i>of them that uphold my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-54-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19054005,
+            "text": "  <i>[b]</i>He will requite the evil unto <i>[c]</i>mine enemies:\n    Destroy thou them in thy truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-54-5",
+            "footnotes": [
+                {
+                    "b": "Another reading is, <i>The evil shall return</i>."
+                },
+                {
+                    "c": "Or, <i>them that lie in wait for me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19054006,
+            "text": "    With a freewill-offering will I sacrifice unto thee:\n    I will give thanks unto thy name, O Jehovah, for it is good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-54-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19054007,
+            "text": "    For he hath delivered me out of all trouble;\n    And mine eye hath seen  upon mine enemies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-54-7",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 54
+}

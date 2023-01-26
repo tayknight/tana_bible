@@ -1,0 +1,190 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 16,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 16,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 16002001,
+            "text": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, that I took up the wine, and gave it unto the king. Now I had not been  sad in his presence. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002002,
+            "text": "And the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002003,
+            "text": "And I said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers\u2019 sepulchres, lieth waste, and the gates thereof are consumed with fire? ",
+            "version": "ASV",
+            "clsstr": "Neh-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002004,
+            "text": "Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002005,
+            "text": "And I said unto the king, If it please the king, and if thy servant have found favor in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers\u2019 sepulchres, that I may build it. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002006,
+            "text": "And the king said unto me (the queen also sitting by him), For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002007,
+            "text": "Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the River, that they may let me pass through till I come unto Judah; ",
+            "version": "ASV",
+            "clsstr": "Neh-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002008,
+            "text": "and a letter unto Asaph the keeper of the king\u2019s <i>[a]</i>forest, that he may give me timber to make beams for the gates of the castle which appertaineth to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me.",
+            "version": "ASV",
+            "clsstr": "Neh-2-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>park</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002009,
+            "text": "\u00b6 Then I came to the governors beyond the River, and gave them the king\u2019s letters. Now the king had sent with me captains of the army and horsemen. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002010,
+            "text": "And when Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly, for that there was come a man to seek the welfare of the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002011,
+            "text": "So I came to Jerusalem, and was there three days. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002012,
+            "text": "And I arose in the night, I and some few men with me; neither told I any man what my God put into my heart to do for Jerusalem; neither was there any beast with me, save the beast that I rode upon. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002013,
+            "text": "And I went out by night by the valley gate, even toward the jackal\u2019s well, and to the dung gate, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002014,
+            "text": "Then I went on to the fountain gate and to the king\u2019s pool: but there was no place for the beast that was under me to pass. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002015,
+            "text": "Then went I up in the night by the brook, and viewed the wall; and I turned back, and entered by the valley gate, and so returned. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002016,
+            "text": "And the <i>[b]</i>rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the <i>[c]</i>rulers, nor to the rest that did the work.",
+            "version": "ASV",
+            "clsstr": "Neh-2-16",
+            "footnotes": [
+                {
+                    "b": "Or, <i>deputies</i>"
+                },
+                {
+                    "c": "Or, <i>deputies</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002017,
+            "text": "\u00b6 Then said I unto them, Ye see the evil case that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach. ",
+            "version": "ASV",
+            "clsstr": "Neh-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002018,
+            "text": "And I told them of the hand of my God which was good upon me, as also of the king\u2019s words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for the good . ",
+            "version": "ASV",
+            "clsstr": "Neh-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002019,
+            "text": "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that ye do? will ye rebel against the king? ",
+            "version": "ASV",
+            "clsstr": "Neh-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16002020,
+            "text": "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.",
+            "version": "ASV",
+            "clsstr": "Neh-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Nehemiah",
+    "chapters": 2
+}

@@ -1,0 +1,147 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 7,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 7,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 7012001,
+            "text": "\u00b6 And the men of Ephraim were gathered together, and passed <i>[a]</i>northward; and they said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thy house upon thee with fire. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>to Zaphon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012002,
+            "text": "And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye saved me not out of their hand. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012003,
+            "text": "And when I saw that ye saved me not, I put my life in my hand, and passed over against the children of Ammon, and Jehovah delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me? ",
+            "version": "ASV",
+            "clsstr": "Judg-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012004,
+            "text": "Then Jephthah gathered together all the men of Gilead, and fought with Ephraim; and the men of Gilead smote Ephraim, because they said, Ye are fugitives of Ephraim, ye Gileadites, in the midst of Ephraim,  in the midst of Manasseh. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012005,
+            "text": "And the Gileadites took the fords of the Jordan <i>[b]</i>against the Ephraimites. And it was so, that, when  the fugitives of Ephraim said, Let me go over, the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay; ",
+            "version": "ASV",
+            "clsstr": "Judg-12-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>toward Ephraim</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012006,
+            "text": "then said they unto him, Say now Shibboleth; and he said Sibboleth; for he could not frame to pronounce it right: then they laid hold on him, and slew him at the fords of the Jordan. And there fell at that time of Ephraim forty and two thousand.",
+            "version": "ASV",
+            "clsstr": "Judg-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012007,
+            "text": "\u00b6 And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in  the cities of Gilead.",
+            "version": "ASV",
+            "clsstr": "Judg-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012008,
+            "text": "\u00b6 And after him Ibzan of Beth-lehem judged Israel. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012009,
+            "text": "And he had thirty sons; and thirty daughters he sent abroad, and thirty daughters he brought in from abroad for his sons. And he judged Israel seven years. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012010,
+            "text": "And Ibzan died, and was buried at Beth-lehem. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012011,
+            "text": "And after him Elon the Zebulunite judged Israel; and he judged Israel ten years. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012012,
+            "text": "And Elon the Zebulunite died, and was buried in Aijalon in the land of Zebulun.",
+            "version": "ASV",
+            "clsstr": "Judg-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012013,
+            "text": "\u00b6 And after him Abdon the son of Hillel the Pirathonite judged Israel. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012014,
+            "text": "And he had forty sons and thirty sons\u2019 sons, that rode on threescore and ten ass colts: and he judged Israel eight years. ",
+            "version": "ASV",
+            "clsstr": "Judg-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7012015,
+            "text": "And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the hill-country of the Amalekites.",
+            "version": "ASV",
+            "clsstr": "Judg-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Judges",
+    "chapters": 12
+}

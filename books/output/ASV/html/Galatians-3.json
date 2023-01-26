@@ -1,0 +1,310 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 48,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 18,
+            "end_book": null
+        }
+    ],
+    "book": 48,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 48003001,
+            "text": "\u00b6 O foolish Galatians, who did bewitch you, before whose eyes Jesus Christ was openly set forth crucified? ",
+            "version": "ASV",
+            "clsstr": "Gal-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003002,
+            "text": "This only would I learn from you, Received ye the Spirit by the works of the law, or by the <i>[a]</i>hearing of faith? ",
+            "version": "ASV",
+            "clsstr": "Gal-3-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>message</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003003,
+            "text": "Are ye so foolish? having begun in the Spirit, <i>[b]</i>are ye now perfected in the flesh? ",
+            "version": "ASV",
+            "clsstr": "Gal-3-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>do ye now make an end in the flesh?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003004,
+            "text": "Did ye suffer so many things in vain? if it be indeed in vain. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003005,
+            "text": "He therefore that supplieth to you the Spirit, and worketh <i>[c]</i>miracles <i>[d]</i>among you, by the works of the law, or by the <i>[e]</i>hearing of faith? ",
+            "version": "ASV",
+            "clsstr": "Gal-3-5",
+            "footnotes": [
+                {
+                    "c": "Greek <i>powers</i>."
+                },
+                {
+                    "d": "Or, <i>in</i>"
+                },
+                {
+                    "e": "Or, <i>message</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003006,
+            "text": "Even as Abraham <i>[f]</i>believed God, and it was reckoned unto him for righteousness. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-6",
+            "footnotes": [
+                {
+                    "f": "[[Gen. 15:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003007,
+            "text": " <i>[g]</i>Know therefore that they that are of faith, the same are sons of Abraham. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-7",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Ye perceive</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003008,
+            "text": "And the scripture, foreseeing that God <i>[h]</i>would justify the <i>[i]</i>Gentiles by faith, preached the gospel beforehand unto Abraham, , <i>[j]</i>In thee shall all the nations be blessed. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-8",
+            "footnotes": [
+                {
+                    "h": "Greek <i>justifieth</i>."
+                },
+                {
+                    "i": "Greek <i>nations</i>."
+                },
+                {
+                    "j": "[[Gen. 12:3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003009,
+            "text": "So then they that are of faith are blessed with the faithful Abraham. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003010,
+            "text": "For as many as are of the works of the law are under a curse: for it is written, <i>[k]</i>Cursed is every one who continueth not in all things that are written in the book of the law, to do them. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-10",
+            "footnotes": [
+                {
+                    "k": "[[Dt. 27:26]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003011,
+            "text": "Now that no man is justified <i>[l]</i>by the law before God, is evident: for, <i>[m]</i>The righteous shall live by faith; ",
+            "version": "ASV",
+            "clsstr": "Gal-3-11",
+            "footnotes": [
+                {
+                    "l": "Greek <i>in</i>."
+                },
+                {
+                    "m": "[[Hab. 2:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003012,
+            "text": "and the law is not of faith; but, <i>[n]</i>He that doeth them shall live in them. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-12",
+            "footnotes": [
+                {
+                    "n": "[[Lev. 18:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003013,
+            "text": "Christ redeemed us from the curse of the law, having become a curse for us; for it is written, <i>[o]</i>Cursed is every one that hangeth on a tree: ",
+            "version": "ASV",
+            "clsstr": "Gal-3-13",
+            "footnotes": [
+                {
+                    "o": "[[Dt. 21:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003014,
+            "text": "that upon the Gentiles might come the blessing of Abraham in Christ Jesus; that we might receive the promise of the Spirit through faith.",
+            "version": "ASV",
+            "clsstr": "Gal-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003015,
+            "text": "\u00b6 Brethren, I speak after the manner of men: Though it be but a man\u2019s covenant, yet when it hath been confirmed, no one maketh it void, or addeth thereto. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003016,
+            "text": "Now to Abraham were the promises spoken, and to his seed. He saith not, And to seeds, as of many; but as of one, <i>[p]</i>And to thy seed, which is Christ. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-16",
+            "footnotes": [
+                {
+                    "p": "[[Gen. 13:15]]; [[17:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003017,
+            "text": "Now this I say: A covenant confirmed beforehand by God, the law, which came four hundred and thirty years after, doth not disannul, so as to make the promise of none effect. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003018,
+            "text": "For if the inheritance is of the law, it is no more of promise: but God hath granted it to Abraham by promise. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003019,
+            "text": "What then is the law? It was added because of transgressions, till the seed should come to whom the promise hath been made;  ordained through angels by the hand of a mediator. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003020,
+            "text": "Now a mediator is not  of one; but God is one. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003021,
+            "text": "Is the law then against the promises of God? God forbid: for if there had been a law given which could make alive, verily righteousness would have been of the law. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003022,
+            "text": "But the scripture shut up all things under sin, that the promise by faith in Jesus Christ might be given to them that believe.",
+            "version": "ASV",
+            "clsstr": "Gal-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003023,
+            "text": "\u00b6 But before faith came, we were kept in ward under the law, shut up unto the faith which should afterwards be revealed. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003024,
+            "text": "So that the law is become our tutor  unto Christ, that we might be justified by faith. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003025,
+            "text": "But now that faith is come, we are no longer under a tutor. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003026,
+            "text": "For ye are all sons of God, through faith, in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003027,
+            "text": "For as many of you as were baptized into Christ did put on Christ. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003028,
+            "text": "There can be neither Jew nor Greek, there can be neither bond nor free, there can be no male and female; for ye all are one  in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "Gal-3-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48003029,
+            "text": "And if ye are Christ\u2019s, then are ye Abraham\u2019s seed, heirs according to promise.",
+            "version": "ASV",
+            "clsstr": "Gal-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Galatians",
+    "chapters": 3
+}

@@ -1,0 +1,334 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 47,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 47,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 47011001,
+            "text": "\u00b6 Would that ye could bear with me in a little foolishness: <i>[a]</i>but indeed ye do bear with me. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>nay indeed bear with me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011002,
+            "text": "For I am jealous over you with <i>[b]</i>a godly jealousy: for I espoused you to one husband, that I might present you  a pure virgin to Christ. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-2",
+            "footnotes": [
+                {
+                    "b": "Greek <i>a jealousy of God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011003,
+            "text": "But I fear, lest by any means, as the serpent beguiled Eve in his craftiness, your <i>[c]</i>minds should be corrupted from the simplicity and the purity that is toward Christ. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-3",
+            "footnotes": [
+                {
+                    "c": "Greek <i>thoughts</i>. See [[3:14]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011004,
+            "text": "For if he that cometh preacheth another Jesus, whom we did not preach, or ye receive a different spirit, which ye did not receive, or a different <i>[d]</i>gospel, which ye did not accept, ye do well to bear with . ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-4",
+            "footnotes": [
+                {
+                    "d": "Greek <i>good tidings</i>. Compare [[2:12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011005,
+            "text": "For I reckon that I am not a whit behind <i>[e]</i>the very chiefest apostles. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-5",
+            "footnotes": [
+                {
+                    "e": "Or, <i>those preeminent apostles</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011006,
+            "text": "But though rude in speech, yet not in knowledge; <i>[f]</i>nay, in every way have we made  manifest unto you in all things. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>nay, in everything we have made</i> it <i>manifest among all men to you-ward</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011007,
+            "text": "Or did I commit a sin in abasing myself that ye might be exalted, because I <i>[g]</i>preached to you the gospel of God for nought? ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-7",
+            "footnotes": [
+                {
+                    "g": "Greek <i>brought good tidings</i>. See [[10:16]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011008,
+            "text": "I robbed other churches, taking wages  that I might minister unto you; ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011009,
+            "text": "and when I was present with you and was in want, I was not a burden on any man; for the brethren, when they came from Macedonia, supplied the measure of my want; and in everything I kept myself from being burdensome unto you, and  will I keep . ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011010,
+            "text": "As the truth of Christ is in me, no man shall stop me of this glorying in the regions of Achaia. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011011,
+            "text": "Wherefore? because I love you not? God knoweth. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011012,
+            "text": "But what I do, that I will do, that I may cut off <i>[h]</i>occasion from them that desire an occasion; that wherein they glory, they may be found even as we. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-12",
+            "footnotes": [
+                {
+                    "h": "Greek <i>the occasion of them</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011013,
+            "text": "For such men are false apostles, deceitful workers, fashioning themselves into apostles of Christ. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011014,
+            "text": "And no marvel; for even Satan fashioneth himself into an angel of light. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011015,
+            "text": "It is no great thing therefore if his ministers also fashion themselves as ministers of righteousness; whose end shall be according to their works.",
+            "version": "ASV",
+            "clsstr": "2Cor-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011016,
+            "text": "\u00b6 I say again, Let no man think me foolish; but if , yet as foolish receive me, that I also may glory a little. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011017,
+            "text": "That which I speak, I speak not after the Lord, but as in foolishness, in this confidence of glorying. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011018,
+            "text": "Seeing that many glory after the flesh, I will glory also. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011019,
+            "text": "For ye bear with the foolish gladly, being wise . ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011020,
+            "text": "For ye bear with a man, if he bringeth you into bondage, if he devoureth you, if he taketh you , if he exalteth himself, if he smiteth you on the face. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011021,
+            "text": "I speak by way of disparagement, as though we had been weak. Yet whereinsoever any is bold (I speak in foolishness), I am bold also. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011022,
+            "text": "Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011023,
+            "text": "Are they ministers of Christ? (I speak as one beside himself) I more; in labors more abundantly, in prisons more abundantly, in stripes above measure, in deaths oft. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011024,
+            "text": "Of the Jews five times received I forty  save one. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011025,
+            "text": "Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day have I been in the deep; ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011026,
+            "text": " journeyings often, perils of rivers, perils of robbers, perils from  <i>[i]</i>countrymen,  perils from the Gentiles,  perils in the city,  perils in the wilderness,  perils in the sea,  perils among false brethren; ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-26",
+            "footnotes": [
+                {
+                    "i": "Greek <i>race</i>. Compare [[Acts 7:19]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011027,
+            "text": " labor and travail, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011028,
+            "text": " <i>[j]</i>Besides those things that are without, there is that which presseth upon me daily, anxiety for all the churches. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-28",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Besides the things which I omit</i>. Or, <i>Besides the things that come out of course</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011029,
+            "text": "Who is weak, and I am not weak? who is caused to stumble, and I burn not? ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011030,
+            "text": "If I must needs glory, I will glory of the things that concern my weakness. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011031,
+            "text": " <i>[k]</i>The God and Father of the Lord Jesus, he who is blessed <i>[l]</i>for evermore knoweth that I lie not. ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-31",
+            "footnotes": [
+                {
+                    "k": "Or, <i>God and the Father</i>. See [[Rom. 15:6]]."
+                },
+                {
+                    "l": "Greek <i>unto the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011032,
+            "text": "In Damascus the <i>[m]</i>governor under Aretas the king guarded the city of the Damascenes in order to take me: ",
+            "version": "ASV",
+            "clsstr": "2Cor-11-32",
+            "footnotes": [
+                {
+                    "m": "Greek <i>ethnarch</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47011033,
+            "text": "and through a window was I let down in a basket by the wall, and escaped his hands.",
+            "version": "ASV",
+            "clsstr": "2Cor-11-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Corinthians",
+    "chapters": 11
+}

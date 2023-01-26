@@ -1,0 +1,404 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9020001,
+            "text": "\u00b6 And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before thy father, that he seeketh my life? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020002,
+            "text": "And he said unto him, Far from it; thou shalt not die: behold, my father doeth nothing either great or small, but that he <i>[a]</i>discloseth it unto me; and why should my father hide this thing from me? it is not so. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>uncovereth mine ear</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020003,
+            "text": "And David sware moreover, and said, Thy father knoweth well that I have found favor in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as Jehovah liveth, and as thy soul liveth, there is but a step between me and death. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020004,
+            "text": "Then said Jonathan unto David, <i>[b]</i>Whatsoever thy soul <i>[c]</i>desireth, I will even do it for thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>What doth thy soul desire, that I should do it for thee?</i>"
+                },
+                {
+                    "c": "Hebrew <i>saith</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020005,
+            "text": "And David said unto Jonathan, Behold, to-morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020006,
+            "text": "If thy father miss me at all, then say, David earnestly asked leave of me that he might run to Beth-lehem his city; for it is the yearly sacrifice there for all the family. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020007,
+            "text": "If he say thus, It is well; thy servant shall have peace: but if he be wroth, then know that evil is determined by him. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020008,
+            "text": "Therefore deal kindly with thy servant; for thou hast brought thy servant into a covenant of Jehovah with thee: but if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020009,
+            "text": "And Jonathan said, Far be it from thee; for if I should at all know that evil were determined by my father to come upon thee, then would not I tell it thee? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020010,
+            "text": "Then said David to Jonathan, Who shall tell me if perchance thy father answer thee roughly? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020011,
+            "text": "And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field.",
+            "version": "ASV",
+            "clsstr": "1Sam-20-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020012,
+            "text": "\u00b6 And Jonathan said unto David, Jehovah, the God of Israel, : when I have sounded my father about this time to-morrow,  the third day, behold, if there be good toward David, shall I not then send unto thee, and disclose it unto thee? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020013,
+            "text": "Jehovah do so to Jonathan, and more also, should it please my father to do thee evil, if I disclose it not unto thee, and send thee away, that thou mayest go in peace: and Jehovah be with thee, as he hath been with my father. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020014,
+            "text": "And thou shalt not only while yet I live show me the lovingkindness of Jehovah, that I die not; ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020015,
+            "text": "but also thou shalt not cut off thy kindness from my house for ever; no, not when Jehovah hath cut off the enemies of David every one from the face of the earth. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020016,
+            "text": "So Jonathan made a covenant with the house of David, , And Jehovah will require it at the hand of David\u2019s enemies.",
+            "version": "ASV",
+            "clsstr": "1Sam-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020017,
+            "text": "\u00b6 And Jonathan caused David to swear again, <i>[d]</i>for the love that he had to him; for he loved him as he loved his own soul. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-17",
+            "footnotes": [
+                {
+                    "d": "Or, <i>by his love toward him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020018,
+            "text": "Then Jonathan said unto him, To-morrow is the new moon: and thou wilt be missed, because thy seat will be <i>[e]</i>empty. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-18",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>missed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020019,
+            "text": "And when thou hast stayed three days, thou shalt go down <i>[f]</i>quickly, and come to the place where thou didst hide thyself <i>[g]</i>when the business was in hand, and shalt remain by the stone Ezel. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-19",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>greatly</i>."
+                },
+                {
+                    "g": "Hebrew <i>in the day of the business</i>. See [[19:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020020,
+            "text": "And I will shoot three arrows on the side thereof, as though I shot at a mark. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020021,
+            "text": "And, behold, I will send the lad, , Go, find the arrows. If I say unto the lad, Behold, the arrows are on this side of thee; take <i>[h]</i>them, and come; for there is peace to thee and <i>[i]</i>no hurt, as Jehovah liveth. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-21",
+            "footnotes": [
+                {
+                    "h": "Or, <i>him</i>"
+                },
+                {
+                    "i": "Hebrew <i>not</i> any <i>thing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020022,
+            "text": "But if I say thus unto the boy, Behold, the arrows are beyond thee; go thy way; for Jehovah hath sent thee away. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020023,
+            "text": "And as touching the matter which thou and I have spoken of, behold, Jehovah is between thee and me for ever.",
+            "version": "ASV",
+            "clsstr": "1Sam-20-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020024,
+            "text": "\u00b6 So David hid himself in the field: and when the new moon was come, the king sat him down to eat food. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020025,
+            "text": "And the king sat upon his seat, as at other times, even upon the seat by the wall; and Jonathan stood up, and Abner sat by Saul\u2019s side: but David\u2019s place was empty. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020026,
+            "text": "Nevertheless Saul spake not anything that day: for he thought, Something hath befallen him, he is not clean; surely he is not clean. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020027,
+            "text": "And it came to pass on the morrow after the new moon,  the second , that David\u2019s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to-day? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020028,
+            "text": "And Jonathan answered Saul, David earnestly asked leave of me to go to Beth-lehem: ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020029,
+            "text": "and he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me : and now, if I have found favor in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he is not come unto the king\u2019s table.",
+            "version": "ASV",
+            "clsstr": "1Sam-20-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020030,
+            "text": "\u00b6 Then Saul\u2019s anger was kindled against Jonathan, and he said unto him, Thou son of a perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own shame, and unto the shame of thy mother\u2019s nakedness? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020031,
+            "text": "For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he <i>[j]</i>shall surely die. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-31",
+            "footnotes": [
+                {
+                    "j": "Or, <i>is worthy to die</i>. Hebrew <i>is a son of death</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020032,
+            "text": "And Jonathan answered Saul his father, and said unto him, Wherefore should he be put to death? what hath he done? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020033,
+            "text": "And Saul cast his spear at him to smite him; whereby Jonathan knew that it was determined of his father to put David to death. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020034,
+            "text": "So Jonathan arose from the table in fierce anger, and did eat no food the second day of the month; for he was grieved for David, because his father had done him shame.",
+            "version": "ASV",
+            "clsstr": "1Sam-20-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020035,
+            "text": "\u00b6 And it came to pass in the morning, that Jonathan went out into the field <i>[k]</i>at the time appointed with David, and a little lad with him. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-35",
+            "footnotes": [
+                {
+                    "k": "Or, <i>to the place</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020036,
+            "text": "And he said unto his lad, Run, find now the arrows which I shoot. And as the lad ran, he shot an arrow <i>[l]</i>beyond him. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-36",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>making it pass over him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020037,
+            "text": "And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, Is not the arrow beyond thee? ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020038,
+            "text": "And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan\u2019s lad gathered up the arrows, and came to his master. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020039,
+            "text": "But the lad knew not anything: only Jonathan and David knew the matter. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020040,
+            "text": "And Jonathan gave his weapons unto his lad, and said unto him, Go, carry them to the city. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020041,
+            "text": "And as soon as the lad was gone, David arose <i>[m]</i>out of  toward the South, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded. ",
+            "version": "ASV",
+            "clsstr": "1Sam-20-41",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>from beside the South</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9020042,
+            "text": "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of Jehovah, saying, Jehovah shall be between me and thee, and between my seed and thy seed, for ever. And he arose and departed: and Jonathan went into the city.",
+            "version": "ASV",
+            "clsstr": "1Sam-20-42",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 20
+}

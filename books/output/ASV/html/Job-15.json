@@ -1,0 +1,357 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18015001,
+            "text": "\u00b6 Then answered Eliphaz the Temanite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015002,
+            "text": "\u00b6   Should a wise man make answer with <i>[a]</i>vain knowledge,\n    And fill himself with the east wind?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>knowledge of wind</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015003,
+            "text": "    Should he reason with unprofitable talk,\n    Or with speeches wherewith he can do no good?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015004,
+            "text": " Yea, thou doest away with fear,\n And <i>[b]</i>hinderest <i>[c]</i>devotion before God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>diminishest</i>."
+                },
+                {
+                    "c": "Or, <i>meditation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015005,
+            "text": "  For <i>[d]</i>thine iniquity teacheth thy mouth,\n    And thou choosest the tongue of the crafty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>thy mouth teacheth thine iniquity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015006,
+            "text": "    Thine own mouth condemneth thee, and not I;\n    Yea, thine own lips testify against thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015007,
+            "text": "\u00b6     Art thou the first man that was born?\n    Or wast thou brought forth before the hills?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015008,
+            "text": "   <i>[e]</i>Hast thou heard the secret counsel of God?\n    And dost thou limit wisdom to thyself?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Dost thou hearken in the council</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015009,
+            "text": "    What knowest thou, that we know not?\n    What understandest thou, which is not in us?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015010,
+            "text": "    With us are both the grayheaded and the very aged men,\n    Much elder than thy father.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015011,
+            "text": "  Are the consolations of God too small for thee,\n   <i>[f]</i>Even the word that is gentle toward thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Or is there any secret thing with thee?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015012,
+            "text": "    Why doth thy heart carry thee away?\n    And why do thine eyes flash,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015013,
+            "text": "    That against God thou turnest thy spirit,\n    And lettest words go out of thy mouth?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015014,
+            "text": "    What is man, that he should be clean?\n    And he that is born of a woman, that he should be righteous?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015015,
+            "text": "    Behold, he putteth no trust in his holy ones;\n    Yea, the heavens are not clean in his sight:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015016,
+            "text": "  How much less <i>[g]</i>one that is abominable and corrupt,\n    A man that drinketh iniquity like water!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>that which is</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015017,
+            "text": "\u00b6     I will show thee, hear thou me;\n    And that which I have seen I will declare\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015018,
+            "text": "    (Which wise men have told\n    From their fathers, and have not hid it;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015019,
+            "text": "    Unto whom alone the land was given,\n    And no stranger passed among them):\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015020,
+            "text": "  The wicked man travaileth with pain all his days,\n   <i>[h]</i>Even the number of years that are laid up for the oppressor.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-20",
+            "footnotes": [
+                {
+                    "h": "Or, <i>And years that are numbered are laid up etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015021,
+            "text": "    A sound of terrors is in his ears;\n    In prosperity the destroyer shall come upon him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015022,
+            "text": "    He believeth not that he shall return out of darkness,\n    And he is waited for of the sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015023,
+            "text": "    He wandereth abroad for bread, , Where is it?\n    He knoweth that the day of darkness is ready at his hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015024,
+            "text": "    Distress and anguish make him afraid;\n    They prevail against him, as a king ready to the battle.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015025,
+            "text": "  Because he hath stretched out his hand against God,\n  And <i>[i]</i>behaveth himself proudly against the Almighty;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-25",
+            "footnotes": [
+                {
+                    "i": "Or, <i>biddeth defiance to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015026,
+            "text": "  He runneth upon him with a neck,\n   <i>[j]</i>With the thick bosses of his bucklers;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-26",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015027,
+            "text": "    Because he hath covered his face with his fatness,\n    And gathered fat upon his loins;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015028,
+            "text": " And he hath dwelt in <i>[k]</i>desolate cities,\n  In houses which no man <i>[l]</i>inhabited,\n    Which were ready to become heaps;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-28",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>cut off</i>."
+                },
+                {
+                    "l": "Or, <i>would inhabit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015029,
+            "text": "  He shall not be rich, neither shall his substance continue,\n  Neither shall <i>[m]</i>their possessions be extended on the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-29",
+            "footnotes": [
+                {
+                    "m": "Or, <i>their produce bend to the earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015030,
+            "text": "  He shall not depart out of darkness;\n  The flame shall dry up his branches,\n  And by the breath of <i>[n]</i> mouth shall he go away.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-30",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>his</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015031,
+            "text": "    Let him not trust in vanity, deceiving himself;\n    For vanity shall be his recompense.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015032,
+            "text": "  It shall be <i>[o]</i>accomplished before his time,\n    And his branch shall not be green.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-32",
+            "footnotes": [
+                {
+                    "o": "Or, <i>paid in full</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015033,
+            "text": "    He shall shake off his unripe grape as the vine,\n    And shall cast off his flower as the olive-tree.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015034,
+            "text": "    For the company of the godless shall be barren,\n    And fire shall consume the tents of bribery.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18015035,
+            "text": "    They conceive mischief, and bring forth iniquity,\n    And their heart prepareth deceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-15-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 15
+}

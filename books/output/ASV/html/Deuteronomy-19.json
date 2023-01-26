@@ -1,0 +1,206 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5019001,
+            "text": "\u00b6 When Jehovah thy God shall cut off the nations, whose land Jehovah thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses; ",
+            "version": "ASV",
+            "clsstr": "Deut-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019002,
+            "text": "thou shalt set apart three cities for thee in the midst of thy land, which Jehovah thy God giveth thee to possess it. ",
+            "version": "ASV",
+            "clsstr": "Deut-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019003,
+            "text": "Thou shalt prepare thee the way, and divide the borders of thy land, which Jehovah thy God causeth thee to inherit, into three parts, that every manslayer may flee thither.",
+            "version": "ASV",
+            "clsstr": "Deut-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019004,
+            "text": "\u00b6 And this is the case of the manslayer, that shall flee thither and live: whoso killeth his neighbor unawares, and hated him not in time past; ",
+            "version": "ASV",
+            "clsstr": "Deut-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019005,
+            "text": "as when a man goeth into the forest with his neighbor to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the <i>[a]</i>head slippeth from <i>[b]</i>the helve, and lighteth upon his neighbor, so that he dieth; he shall flee unto one of these cities and live: ",
+            "version": "ASV",
+            "clsstr": "Deut-19-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>iron</i>."
+                },
+                {
+                    "b": "Or, <i>the tree</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019006,
+            "text": "lest the avenger of blood pursue the manslayer, while his heart is hot, and overtake him, because the way is long, and smite him mortally; whereas he was not worthy of death, inasmuch as he hated him not in time past. ",
+            "version": "ASV",
+            "clsstr": "Deut-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019007,
+            "text": "Wherefore I command thee, saying, Thou shalt set apart three cities for thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019008,
+            "text": "And if Jehovah thy God enlarge thy border, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers; ",
+            "version": "ASV",
+            "clsstr": "Deut-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019009,
+            "text": "if thou shalt keep all this commandment to do it, which I command thee this day, to love Jehovah thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, besides these three: ",
+            "version": "ASV",
+            "clsstr": "Deut-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019010,
+            "text": "that <i>[c]</i>innocent blood be not shed in the midst of thy land, which Jehovah thy God giveth thee for an inheritance, and so blood be upon thee.",
+            "version": "ASV",
+            "clsstr": "Deut-19-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the blood of an innocent man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019011,
+            "text": "\u00b6 But if any man hate his neighbor, and lie in wait for him, and rise up against him, and smite him mortally so that he dieth, and he flee into one of these cities; ",
+            "version": "ASV",
+            "clsstr": "Deut-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019012,
+            "text": "then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die. ",
+            "version": "ASV",
+            "clsstr": "Deut-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019013,
+            "text": "Thine eye shall not pity him, but thou shalt put away <i>[d]</i>the innocent blood from Israel, that it may go well with thee.",
+            "version": "ASV",
+            "clsstr": "Deut-19-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>the blood of the innocent</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019014,
+            "text": "\u00b6 Thou shalt not remove thy neighbor\u2019s landmark, which they of old time have set, in thine inheritance which thou shalt inherit, in the land that Jehovah thy God giveth thee to possess it.",
+            "version": "ASV",
+            "clsstr": "Deut-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019015,
+            "text": "\u00b6 One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. ",
+            "version": "ASV",
+            "clsstr": "Deut-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019016,
+            "text": "If an unrighteous witness rise up against any man to testify against him of <i>[e]</i>wrong-doing, ",
+            "version": "ASV",
+            "clsstr": "Deut-19-16",
+            "footnotes": [
+                {
+                    "e": "Or, <i>rebellion</i>. See [[13:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019017,
+            "text": "then both the men, between whom the controversy is, shall stand before Jehovah, before the priests and the judges that shall be in those days; ",
+            "version": "ASV",
+            "clsstr": "Deut-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019018,
+            "text": "and the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and have testified falsely against his brother; ",
+            "version": "ASV",
+            "clsstr": "Deut-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019019,
+            "text": "then shall ye do unto him, as he had thought to do unto his brother: so shalt thou put away the evil from the midst of thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019020,
+            "text": "And those that remain shall hear, and fear, and shall henceforth commit no more any such evil in the midst of thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5019021,
+            "text": "And thine eyes shall not pity; life  for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+            "version": "ASV",
+            "clsstr": "Deut-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 19
+}

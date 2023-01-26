@@ -1,0 +1,126 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19029001,
+            "text": "<b>The voice of Jehovah in the storm.</b>\n\u00b6 A Psalm of David.\u00b6  Ascribe unto Jehovah, O ye <i>[a]</i>sons of the <i>[b]</i>mighty,\n    Ascribe unto Jehovah glory and strength.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>sons of God</i>"
+                },
+                {
+                    "b": "Or, <i>gods</i>. See [[Ex. 15:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029002,
+            "text": "  Ascribe unto Jehovah the glory due unto his name;\n  Worship Jehovah <i>[c]</i>in holy array.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in the beauty of holiness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029003,
+            "text": "\u00b6   The voice of Jehovah is upon the waters:\n  The God of glory thundereth,\n  Even Jehovah upon <i>[d]</i>many waters.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>great</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029004,
+            "text": "    The voice of Jehovah is powerful;\n    The voice of Jehovah is full of majesty.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029005,
+            "text": "    The voice of Jehovah breaketh the cedars;\n    Yea, Jehovah breaketh in pieces the cedars of Lebanon.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029006,
+            "text": "    He maketh them also to skip like a calf;\n    Lebanon and Sirion like a young wild-ox.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029007,
+            "text": "  The voice of Jehovah <i>[e]</i>cleaveth the flames of fire.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>heweth out flames of fire</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029008,
+            "text": "    The voice of Jehovah shaketh the wilderness;\n    Jehovah shaketh the wilderness of Kadesh.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029009,
+            "text": "    The voice of Jehovah maketh the hinds to calve,\n    And strippeth the forests bare:\n    And in his temple everything saith, Glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029010,
+            "text": "\u00b6     Jehovah sat  at the Flood;\n    Yea, Jehovah sitteth as King for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19029011,
+            "text": "    Jehovah will give strength unto his people;\n    Jehovah will bless his people with peace.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-29-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 29
+}

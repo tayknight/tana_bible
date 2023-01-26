@@ -1,0 +1,207 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9008001,
+            "text": "\u00b6 And it came to pass, when Samuel was old, that he made his sons judges over Israel. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008002,
+            "text": "Now the name of his first-born was Joel; and the name of his second, Abijah: they were judges in Beer-sheba. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008003,
+            "text": "And his sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted justice.",
+            "version": "ASV",
+            "clsstr": "1Sam-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008004,
+            "text": "\u00b6 Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah; ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008005,
+            "text": "and they said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008006,
+            "text": "But the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008007,
+            "text": "And Jehovah said unto Samuel, Hearken unto the voice of the people in all that they say unto thee; for they have not rejected thee, but they have rejected me, that I should not be king over them. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008008,
+            "text": "According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, in that they have forsaken me, and served other gods, so do they also unto thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008009,
+            "text": "Now therefore hearken unto their voice: howbeit thou shalt protest solemnly unto them, and shalt show them the manner of the king that shall reign over them.",
+            "version": "ASV",
+            "clsstr": "1Sam-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008010,
+            "text": "\u00b6 And Samuel told all the words of Jehovah unto the people that asked of him a king. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008011,
+            "text": "And he said, This will be the manner of the king that shall reign over you: he will take your sons, and appoint them unto him, <i>[a]</i>for his chariots, and to be his horsemen; and they shall run before his chariots; ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-11",
+            "footnotes": [
+                {
+                    "a": "Or, <i>over his chariots, and over his horses</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008012,
+            "text": "and he will appoint them unto him for captains of thousands, and captains of fifties; and  to plow his ground, and to reap his harvest, and to make his instruments of war, and the instruments of his chariots. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008013,
+            "text": "And he will take your daughters to be perfumers, and to be cooks, and to be bakers. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008014,
+            "text": "And he will take your fields, and your vineyards, and your oliveyards, even the best of them, and give them to his servants. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008015,
+            "text": "And he will take the tenth of your seed, and of your vineyards, and give to his <i>[b]</i>officers, and to his servants. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-15",
+            "footnotes": [
+                {
+                    "b": "Or, <i>eunuchs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008016,
+            "text": "And he will take your men-servants, and your maid-servants, and your goodliest <i>[c]</i>young men, and your asses, and put them to his work. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-16",
+            "footnotes": [
+                {
+                    "c": "The Septuagint has, <i>herds</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008017,
+            "text": "He will take the tenth of your flocks: and ye shall be his servants. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008018,
+            "text": "And ye shall cry out in that day because of your king whom ye shall have chosen you; and Jehovah will not answer you in that day.",
+            "version": "ASV",
+            "clsstr": "1Sam-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008019,
+            "text": "\u00b6 But the people refused to hearken unto the voice of Samuel; and they said, Nay: but we will have a king over us, ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008020,
+            "text": "that we also may be like all the nations, and that our king may judge us, and go out before us, and fight our battles. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008021,
+            "text": "And Samuel heard all the words of the people, and he rehearsed them in the ears of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9008022,
+            "text": "And Jehovah said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.",
+            "version": "ASV",
+            "clsstr": "1Sam-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 8
+}

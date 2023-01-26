@@ -1,0 +1,134 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19076001,
+            "text": "<b>The victorious power of the God of Jacob.</b>\n\u00b6 For the Chief Musician; on stringed instruments. A Psalm of Asaph, a Song.\u00b6     In Judah is God known:\n    His name is great in Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076002,
+            "text": " In Salem also is his <i>[a]</i>tabernacle,\n  And his <i>[b]</i>dwelling-place in Zion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>covert</i>"
+                },
+                {
+                    "b": "Or, <i>lair</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076003,
+            "text": "  There he brake the <i>[c]</i>arrows of the bow;\n    The shield, and the sword, and the battle. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>fiery shafts</i>. Or, <i>lightnings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076004,
+            "text": "  Glorious art thou excellent,\n   <i>[d]</i>From the mountains of prey.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>More than</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076005,
+            "text": "    The stouthearted are made a spoil,\n    They have slept their sleep;\n    And none of the men of might have found their hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076006,
+            "text": "    At thy rebuke, O God of Jacob,\n    Both chariot and horse are cast into a dead sleep.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076007,
+            "text": "    Thou, even thou, art to be feared;\n    And who may stand in thy sight when once thou art angry?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076008,
+            "text": "    Thou didst cause sentence to be heard from heaven;\n    The earth feared, and was still,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076009,
+            "text": "    When God arose to judgment,\n    To save all the meek of the earth. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076010,
+            "text": "  Surely the wrath of man shall praise thee:\n  The residue of wrath shalt thou <i>[e]</i>gird upon thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>restrain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076011,
+            "text": "    Vow, and pay unto Jehovah your God:\n    Let all that are round about him bring presents unto him that ought to be feared.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19076012,
+            "text": "    He will cut off the spirit of princes:\n    He is terrible to the kings of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-76-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 76
+}

@@ -1,0 +1,383 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46007001,
+            "text": "\u00b6 Now concerning the things whereof ye wrote: It is good for a man not to touch a woman. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007002,
+            "text": "But, because of fornications, let each man have his own wife, and let each woman have her own husband. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007003,
+            "text": "Let the husband render unto the wife her due: and likewise also the wife unto the husband. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007004,
+            "text": "The wife hath not power over her own body, but the husband: and likewise also the husband hath not power over his own body, but the wife. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007005,
+            "text": "Defraud ye not one the other, except it be by consent for a season, that ye may give yourselves unto prayer, and may be together again, that Satan tempt you not because of your incontinency. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007006,
+            "text": "But this I say by way of concession, not of commandment. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007007,
+            "text": " <i>[a]</i>Yet I would that all men were even as I myself. Howbeit each man hath his own gift from God, one after this manner, and another after that.",
+            "version": "ASV",
+            "clsstr": "1Cor-7-7",
+            "footnotes": [
+                {
+                    "a": "Many ancient authorities read <i>For</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007008,
+            "text": "\u00b6 But I say to the unmarried and to widows, It is good for them if they abide even as I. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007009,
+            "text": "But if they have not continency, let them marry: for it is better to marry than to burn. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007010,
+            "text": "But unto the married I give charge,  not I, but the Lord, That the wife depart not from her husband ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007011,
+            "text": "(but should she depart, let her remain unmarried, or else be reconciled to her husband); and that the husband leave not his wife. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007012,
+            "text": "But to the rest say I, not the Lord: If any brother hath an unbelieving wife, and she is content to dwell with him, let him not leave her. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007013,
+            "text": "And the woman that hath an unbelieving husband, and he is content to dwell with her, let her not leave her husband. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007014,
+            "text": "For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the brother: else were your children unclean; but now are they holy. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007015,
+            "text": "Yet if the unbelieving departeth, let him depart: the brother or the sister is not under bondage in such : but God hath called <i>[b]</i>us in peace. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-15",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>you</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007016,
+            "text": "For how knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O husband, whether thou shalt save thy wife? ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007017,
+            "text": "Only, as the Lord hath distributed to each man, as God hath called each, so let him walk. And so ordain I in all the churches. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007018,
+            "text": "Was any man called being circumcised? let him not become uncircumcised. Hath any been called in uncircumcision? let him not be circumcised. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007019,
+            "text": "Circumcision is nothing, and uncircumcision is nothing; but the keeping of the commandments of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007020,
+            "text": "Let each man abide in that calling wherein he was called. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007021,
+            "text": "Wast thou called being a bondservant? care not for it: <i>[c]</i>nay, even if thou canst become free, use  rather. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-21",
+            "footnotes": [
+                {
+                    "c": "Or, <i>but if</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007022,
+            "text": "For he that was called in the Lord being a bondservant, is the Lord\u2019s freedman: likewise he that was called being free, is Christ\u2019s bondservant. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007023,
+            "text": "Ye were bought with a price; become not bondservants of men. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007024,
+            "text": "Brethren, let each man, wherein he was called, therein abide with God.",
+            "version": "ASV",
+            "clsstr": "1Cor-7-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007025,
+            "text": "\u00b6 Now concerning virgins I have no commandment of the Lord: but I give my judgment, as one that hath obtained mercy of the Lord to be trustworthy. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007026,
+            "text": "I think therefore that this is good by reason of the distress that is upon us, , that it is good for a man <i>[d]</i>to be as he is. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-26",
+            "footnotes": [
+                {
+                    "d": "Greek <i>so to be</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007027,
+            "text": "Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007028,
+            "text": "But shouldest thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Yet such shall have tribulation in the flesh: and I would spare you. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007029,
+            "text": "But this I say, brethren, the time <i>[e]</i>is shortened, that henceforth both those that have wives may be as though they had none; ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-29",
+            "footnotes": [
+                {
+                    "e": "Or, <i>is shortened henceforth, that both those etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007030,
+            "text": "and those that weep, as though they wept not; and those that rejoice, as though they rejoiced not; and those that buy, as though they possessed not; ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007031,
+            "text": "and those that use the world, as not using it to the full: for the fashion of this world passeth away. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007032,
+            "text": "But I would have you to be free from cares. He that is unmarried is careful for the things of the Lord, how he may please the Lord: ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007033,
+            "text": "but he that is married is careful for the things of the world, how he may please his <i>[f]</i>wife, ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-33",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities read <i>wife. And there is a difference also between the wife and the virgin. She that is unmarried is careful etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007034,
+            "text": "and is divided.  also the woman that is unmarried and the virgin is careful for the things of the Lord, that she may be holy both in body and in spirit: but she that is married is careful for the things of the world, how she may please her husband. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007035,
+            "text": "And this I say for your own profit; not that I may cast a <i>[g]</i>snare upon you, but for that which is seemly, and that ye may attend upon the Lord without distraction. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-35",
+            "footnotes": [
+                {
+                    "g": "Or, <i>constraint</i>. Greek <i>noose</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007036,
+            "text": "But if any man thinketh that he behaveth himself unseemly toward his <i>[h]</i>virgin , if she be past the flower of her age, and if need so requireth, let him do what he will; he sinneth not; let them marry. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-36",
+            "footnotes": [
+                {
+                    "h": "Or, <i>virgin</i> (omitting daughter)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007037,
+            "text": "But he that standeth stedfast in his heart, having no necessity, but hath power as touching his own will, and hath determined this in his own heart, to keep his own <i>[i]</i>virgin , shall do well. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-37",
+            "footnotes": [
+                {
+                    "i": "Or, <i>virgin</i> (omitting daughter)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007038,
+            "text": "So then both he that giveth his own <i>[j]</i>virgin  in marriage doeth well; and he that giveth her not in marriage shall do better. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-38",
+            "footnotes": [
+                {
+                    "j": "Or, <i>virgin</i> (omitting daughter)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007039,
+            "text": "A wife is bound for so long time as her husband liveth; but if the husband be <i>[k]</i>dead, she is free to be married to whom she will; only in the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Cor-7-39",
+            "footnotes": [
+                {
+                    "k": "Greek <i>fallen asleep</i>. See [[Acts 7:60]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46007040,
+            "text": "But she is happier if she abide as she is, after my judgment: and I think that I also have the Spirit of God.",
+            "version": "ASV",
+            "clsstr": "1Cor-7-40",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 7
+}

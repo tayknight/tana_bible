@@ -1,0 +1,248 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40002001,
+            "text": "\u00b6 Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, <i>[a]</i>Wise-men from the east came to Jerusalem, saying, ",
+            "version": "ASV",
+            "clsstr": "Matt-2-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>Magi</i>. Compare [[Esth. 1:13]]; [[Dan. 2:12]]; [[Acts 13:6]], [[8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002002,
+            "text": " <i>[b]</i>Where is he that is born King of the Jews? for we saw his star in the east, and are come to <i>[c]</i>worship him. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Where is the King of the Jews that is born?</i>"
+                },
+                {
+                    "c": "The Greek word denotes an act of reverence whether paid to a creature (see [[4:9]]; [[18:26]]), or to the Creator (see [[4:10]])"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002003,
+            "text": "And when Herod the king heard it, he was troubled, and all Jerusalem with him. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002004,
+            "text": "And gathering together all the chief priests and scribes of the people, he inquired of them where the Christ should be born. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002005,
+            "text": "And they said unto him, In Bethlehem of Judaea: for thus it is written through the prophet,",
+            "version": "ASV",
+            "clsstr": "Matt-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002006,
+            "text": "\u00b6   <i>[d]</i>And thou Bethlehem, land of Judah,\n    Art in no wise least among the princes of Judah:\n    For out of thee shall come forth a governor,\n    Who shall be shepherd of my people Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-2-6",
+            "footnotes": [
+                {
+                    "d": "[[Mic. 5:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002007,
+            "text": "\u00b6 Then Herod privily called the <i>[e]</i>Wise-men, and learned of them exactly <i>[f]</i>what time the star appeared. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-7",
+            "footnotes": [
+                {
+                    "e": "Greek <i>Magi</i>. Compare [[Esth. 1:13]]; [[Dan. 2:12]]; [[Acts 13:6]], [[8]]."
+                },
+                {
+                    "f": "Or, <i>the time of the star that appeared</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002008,
+            "text": "And he sent them to Bethlehem, and said, Go and search out exactly concerning the young child; and when ye have found , bring me word, that I also may come and <i>[g]</i>worship him. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-8",
+            "footnotes": [
+                {
+                    "g": "The Greek word denotes an act of reverence whether paid to a creature (see [[4:9]]; [[18:26]]), or to the Creator (see [[4:10]])"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002009,
+            "text": "And they, having heard the king, went their way; and lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002010,
+            "text": "And when they saw the star, they rejoiced with exceeding great joy. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002011,
+            "text": "And they came into the house and saw the young child with Mary his mother; and they fell down and worshipped him; and opening their treasures they offered unto him gifts, gold and frankincense and myrrh. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002012,
+            "text": "And being warned  in a dream that they should not return to Herod, they departed into their own country another way.",
+            "version": "ASV",
+            "clsstr": "Matt-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002013,
+            "text": "\u00b6 Now when they were departed, behold, an angel of the Lord appeareth to Joseph in a dream, saying, Arise and take the young child and his mother, and flee into Egypt, and be thou there until I tell thee: for Herod will seek the young child to destroy him. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002014,
+            "text": "And he arose and took the young child and his mother by night, and departed into Egypt; ",
+            "version": "ASV",
+            "clsstr": "Matt-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002015,
+            "text": "and was there until the death of Herod: that it might be fulfilled which was spoken by the Lord through the prophet, saying, <i>[h]</i>Out of Egypt did I call my son.",
+            "version": "ASV",
+            "clsstr": "Matt-2-15",
+            "footnotes": [
+                {
+                    "h": "[[Hos. 11:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002016,
+            "text": "\u00b6 Then Herod, when he saw that he was mocked of the <i>[i]</i>Wise-men, was exceeding wroth, and sent forth, and slew all the male children that were in Bethlehem, and in all the borders thereof, from two years old and under, according to the time which he had exactly learned of the <i>[j]</i>Wise-men. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-16",
+            "footnotes": [
+                {
+                    "i": "Greek <i>Magi</i>. Compare [[Esth. 1:13]]; [[Dan. 2:12]]; [[Acts 13:6]], [[8]]."
+                },
+                {
+                    "j": "Greek <i>Magi</i>. Compare [[Esth. 1:13]]; [[Dan. 2:12]]; [[Acts 13:6]], [[8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002017,
+            "text": "Then was fulfilled that which was spoken through Jeremiah the prophet, saying,",
+            "version": "ASV",
+            "clsstr": "Matt-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002018,
+            "text": "\u00b6   <i>[k]</i>A voice was heard in Ramah,\n    Weeping and great mourning,\n    Rachel weeping for her children;\n    And she would not be comforted, because they are not.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-2-18",
+            "footnotes": [
+                {
+                    "k": "[[Jer. 31:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002019,
+            "text": "\u00b6 But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, saying, ",
+            "version": "ASV",
+            "clsstr": "Matt-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002020,
+            "text": "Arise and take the young child and his mother, and go into the land of Israel: for they are dead that sought the young child\u2019s life. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002021,
+            "text": "And he arose and took the young child and his mother, and came into the land of Israel. ",
+            "version": "ASV",
+            "clsstr": "Matt-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002022,
+            "text": "But when he heard that Archelaus was reigning over Judaea in the room of his father Herod, he was afraid to go thither; and being warned  in a dream, he withdrew into the parts of Galilee, ",
+            "version": "ASV",
+            "clsstr": "Matt-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40002023,
+            "text": "and came and dwelt in a city called Nazareth; that it might be fulfilled which was spoken through the prophets, <i>[l]</i>that he should be called a Nazarene.",
+            "version": "ASV",
+            "clsstr": "Matt-2-23",
+            "footnotes": [
+                {
+                    "l": "[[Isa. 11:1]] in the Hebrew?"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 2
+}

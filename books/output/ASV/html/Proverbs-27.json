@@ -1,0 +1,265 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20027001,
+            "text": "\u00b6     Boast not thyself of tomorrow;\n    For thou knowest not what a day may bring forth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027002,
+            "text": "    Let another man praise thee, and not thine own mouth;\n    A stranger, and not thine own lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027003,
+            "text": "    A stone is heavy, and the sand weighty;\n    But a fool\u2019s vexation is heavier than they both.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027004,
+            "text": "  Wrath is cruel, and anger is <i>[a]</i>overwhelming;\n    But who is able to stand before jealousy?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>a flood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027005,
+            "text": "    Better is open rebuke\n    Than love that is hidden.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027006,
+            "text": "    Faithful are the wounds of a friend;\n    But the kisses of an enemy are profuse.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027007,
+            "text": "  The full soul <i>[b]</i>loatheth a honeycomb;\n    But to the hungry soul every bitter thing is sweet.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-7",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>trampleth upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027008,
+            "text": "    As a bird that wandereth from her nest,\n    So is a man that wandereth from his place.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027009,
+            "text": "    Oil and perfume rejoice the heart;\n    So doth the sweetness of a man\u2019s friend  of hearty counsel.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027010,
+            "text": "    Thine own friend, and thy father\u2019s friend, forsake not;\n    And go not to thy brother\u2019s house in the day of thy calamity:\n    Better is a neighbor that is near than a brother far off.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027011,
+            "text": "    My son, be wise, and make my heart glad,\n    That I may answer him that reproacheth me.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027012,
+            "text": "    A prudent man seeth the evil,  hideth himself;\n     the simple pass on,  suffer for it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027013,
+            "text": "    Take his garment that is surety for a stranger;\n    And hold him in pledge  for a foreign woman.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027014,
+            "text": "    He that blesseth his friend with a loud voice, rising early in the morning,\n    It shall be counted a curse to him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027015,
+            "text": "    A continual dropping in a very rainy day\n    And a contentious woman are alike:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027016,
+            "text": " He that would <i>[c]</i>restrain her <i>[d]</i>restraineth the wind;\n  And <i>[e]</i>his right hand encountereth oil.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-16",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>hide</i>."
+                },
+                {
+                    "d": "Hebrew <i>hideth</i>."
+                },
+                {
+                    "e": "Or, <i>the oil of his right hand betrayeth itself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027017,
+            "text": "    Iron sharpeneth iron;\n    So a man sharpeneth the countenance of his friend.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027018,
+            "text": "    Whoso keepeth the fig-tree shall eat the fruit thereof;\n    And he that regardeth his master shall be honored.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027019,
+            "text": "   <i>[f]</i>As in water face  to face,\n    So the heart of man to man.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-19",
+            "footnotes": [
+                {
+                    "f": "Or, <i>As water</i> showeth <i>face to face, so the heart</i> showeth <i>man to man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027020,
+            "text": "    Sheol and Abaddon are never satisfied;\n    And the eyes of man are never satisfied.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027021,
+            "text": "  The refining pot is for silver, and the furnace for gold;\n  And a man is by <i>[g]</i>his praise.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-21",
+            "footnotes": [
+                {
+                    "g": "Or, <i>that which he praiseth</i>. Or, <i>that whereof he boasteth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027022,
+            "text": "    Though thou shouldest bray a fool in a mortar with a pestle along with bruised grain,\n    Yet will not his foolishness depart from him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027023,
+            "text": "\u00b6     Be thou diligent to know the state of thy flocks,\n     look well to thy herds:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027024,
+            "text": "    For riches are not for ever;\n    And doth the crown endure unto all generations?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027025,
+            "text": "  The <i>[h]</i>hay is carried, and the tender grass showeth itself,\n    And the herbs of the mountains are gathered in.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-25",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>grass</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027026,
+            "text": "    The lambs are for thy clothing,\n    And the goats are the price of the field;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20027027,
+            "text": "    And  goats\u2019 milk enough for thy food, for the food of thy household,\n    And maintenance for thy maidens.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-27-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 27
+}

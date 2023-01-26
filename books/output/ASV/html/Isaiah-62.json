@@ -1,0 +1,142 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23062001,
+            "text": "\u00b6 For Zion\u2019s sake will I not hold my peace, and for Jerusalem\u2019s sake I will not rest, until her righteousness go forth as brightness, and her salvation as a lamp that burneth. ",
+            "version": "ASV",
+            "clsstr": "Isa-62-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062002,
+            "text": "And the nations shall see thy righteousness, and all kings thy glory, and thou shalt be called by a new name, which the mouth of Jehovah shall name. ",
+            "version": "ASV",
+            "clsstr": "Isa-62-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062003,
+            "text": "Thou shalt also be a crown of beauty in the hand of Jehovah, and a royal diadem in the hand of thy God. ",
+            "version": "ASV",
+            "clsstr": "Isa-62-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062004,
+            "text": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called <i>[a]</i>Hephzi-bah, and thy land <i>[b]</i>Beulah; for Jehovah delighteth in thee, and thy land shall be married. ",
+            "version": "ASV",
+            "clsstr": "Isa-62-4",
+            "footnotes": [
+                {
+                    "a": "That is, <i>My delight is in her</i>."
+                },
+                {
+                    "b": "That is, <i>Married</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062005,
+            "text": "For as a young man marrieth a virgin, so shall thy sons marry thee; and <i>[c]</i>as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.",
+            "version": "ASV",
+            "clsstr": "Isa-62-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>with the joy of the bridegroom</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062006,
+            "text": "\u00b6 I have set watchmen upon thy walls, O Jerusalem; they shall never hold their peace day nor night: ye that are Jehovah\u2019s remembrancers, <i>[d]</i>take ye no rest, ",
+            "version": "ASV",
+            "clsstr": "Isa-62-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>keep not silence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062007,
+            "text": "and give him no <i>[e]</i>rest, till he establish, and till he make Jerusalem a praise in the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-62-7",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>silence</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062008,
+            "text": "Jehovah hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy grain to be food for thine enemies; and foreigners shall not drink thy new wine, for which thou hast labored: ",
+            "version": "ASV",
+            "clsstr": "Isa-62-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062009,
+            "text": "but they that have garnered it shall eat it, and praise Jehovah; and they that have gathered it shall drink it in the courts of my sanctuary.",
+            "version": "ASV",
+            "clsstr": "Isa-62-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062010,
+            "text": "\u00b6 Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up an ensign <i>[f]</i>for the peoples. ",
+            "version": "ASV",
+            "clsstr": "Isa-62-10",
+            "footnotes": [
+                {
+                    "f": "Or, <i>over</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062011,
+            "text": "Behold, Jehovah hath proclaimed unto the end of the earth, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his <i>[g]</i>recompense before him. ",
+            "version": "ASV",
+            "clsstr": "Isa-62-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>work</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23062012,
+            "text": "And they shall call them The holy people, The redeemed of Jehovah: and thou shalt be called Sought out, A city not forsaken.",
+            "version": "ASV",
+            "clsstr": "Isa-62-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 62
+}

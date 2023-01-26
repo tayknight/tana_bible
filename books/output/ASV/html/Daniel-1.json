@@ -1,0 +1,203 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 27,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 27,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 27001001,
+            "text": "\u00b6 In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001002,
+            "text": "And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god: and he brought the vessels into the treasure-house of his god. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001003,
+            "text": "And the king spake unto Ashpenaz the master of his eunuchs, that he should bring in  of the children of Israel, even of the seed royal and of the nobles; ",
+            "version": "ASV",
+            "clsstr": "Dan-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001004,
+            "text": "youths in whom was no blemish, but well-favored, and skilful in all wisdom, and endued with knowledge, and understanding science, and such as had ability to stand in the king\u2019s palace; and that he should teach them the learning and the tongue of the Chaldeans. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001005,
+            "text": "And the king appointed for them a daily portion of the king\u2019s dainties, and of the wine which he drank, and that they should be nourished three years; that at the end thereof they should stand before the king. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001006,
+            "text": "Now among these were, of the children of Judah, Daniel, Hananiah, Mishael, and Azariah. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001007,
+            "text": "And the prince of the eunuchs gave names unto them: unto Daniel he gave  Belteshazzar; and to Hananiah,  Shadrach; and to Mishael,  Meshach; and to Azariah,  Abed-nego.",
+            "version": "ASV",
+            "clsstr": "Dan-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001008,
+            "text": "\u00b6 But Daniel purposed in his heart that he would not defile himself with the king\u2019s dainties, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001009,
+            "text": "Now God made Daniel to find kindness and compassion in the sight of the prince of the eunuchs. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001010,
+            "text": "And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your food and your drink: for why should he see your faces worse looking than the youths that are of your own age? so would ye endanger my head with the king. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001011,
+            "text": "Then said Daniel to <i>[a]</i>the steward whom the prince of the eunuchs had appointed over Daniel, Hananiah, Mishael, and Azariah: ",
+            "version": "ASV",
+            "clsstr": "Dan-1-11",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hammelzar</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001012,
+            "text": "Prove thy servants, I beseech thee, ten days; and let them give us <i>[b]</i>pulse to eat, and water to drink. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>herbs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001013,
+            "text": "Then let our countenances be looked upon before thee, and the countenance of the youths that eat of the king\u2019s dainties; and as thou seest, deal with thy servants.",
+            "version": "ASV",
+            "clsstr": "Dan-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001014,
+            "text": "\u00b6 So he hearkened unto them in this matter, and proved them ten days. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001015,
+            "text": "And at the end of ten days their countenances appeared fairer, and they were fatter in flesh, than all the youths that did eat of the king\u2019s dainties. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001016,
+            "text": "So <i>[c]</i>the steward took away their dainties, and the wine that they should drink, and gave them pulse.",
+            "version": "ASV",
+            "clsstr": "Dan-1-16",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Hammelzar</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001017,
+            "text": "\u00b6 Now as for these four youths, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001018,
+            "text": "And at the end of the days which the king had <i>[d]</i>appointed for bringing them in, the prince of the eunuchs brought them in before Nebuchadnezzar. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-18",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>said</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001019,
+            "text": "And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001020,
+            "text": "And in every matter of wisdom and understanding, concerning which the king inquired of them, he found them ten times better than all the magicians and enchanters that were in all his realm. ",
+            "version": "ASV",
+            "clsstr": "Dan-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27001021,
+            "text": "And Daniel continued even unto the first year of king Cyrus.",
+            "version": "ASV",
+            "clsstr": "Dan-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Daniel",
+    "chapters": 1
+}

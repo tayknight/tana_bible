@@ -1,0 +1,294 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46009001,
+            "text": "\u00b6 Am I not free? am I not an apostle? have I not seen Jesus our Lord? are not ye my work in the Lord? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009002,
+            "text": "If to others I am not an apostle, yet at least I am to you; for the seal of mine apostleship are ye in the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009003,
+            "text": "My defence to them that examine me is this. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009004,
+            "text": "Have we no right to eat and to drink? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009005,
+            "text": "Have we no right to lead about a wife that is a <i>[a]</i>believer, even as the rest of the apostles, and the brethren of the Lord, and Cephas? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-5",
+            "footnotes": [
+                {
+                    "a": "Greek <i>sister</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009006,
+            "text": "Or I only and Barnabas, have we not a right to forbear working? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009007,
+            "text": "What soldier ever serveth at his own charges? who planteth a vineyard, and eateth not the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009008,
+            "text": "Do I speak these things after the manner of men? or saith not the law also the same? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009009,
+            "text": "For it is written in the law of Moses, <i>[b]</i>Thou shalt not muzzle the ox when he treadeth out the corn. Is it for the oxen that God careth, ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-9",
+            "footnotes": [
+                {
+                    "b": "[[Dt. 25:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009010,
+            "text": "or saith he it <i>[c]</i>assuredly for our sake? Yea, for our sake it was written: because he that ploweth ought to plow in hope, and he that thresheth,  in hope of partaking. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>altogether</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009011,
+            "text": "If we sowed unto you spiritual things, is it a great matter if we shall reap your carnal things? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009012,
+            "text": "If others partake of right over you, do not we yet more? Nevertheless we did not use this right; but we bear all things, that we may cause no hindrance to the <i>[d]</i>gospel of Christ. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-12",
+            "footnotes": [
+                {
+                    "d": "See marginal note on [[4:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009013,
+            "text": "Know ye not that they that minister about sacred things eat  the things of the temple,  they that wait upon the altar have their portion with the altar? ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009014,
+            "text": "Even so did the Lord ordain that they that proclaim the <i>[e]</i>gospel should live of the <i>[f]</i>gospel. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-14",
+            "footnotes": [
+                {
+                    "e": "See marginal note on [[4:15]]."
+                },
+                {
+                    "f": "See marginal note on [[4:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009015,
+            "text": "But I have used none of these things: and I write not these things that it may be so done in my case; for  good for me rather to die, than that any man should make my glorying void. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009016,
+            "text": "For if I <i>[g]</i>preach the gospel, I have nothing to glory of; for necessity is laid upon me; for woe is unto me, if I <i>[h]</i>preach not the gospel. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-16",
+            "footnotes": [
+                {
+                    "g": "See marginal note on [[1:17]]."
+                },
+                {
+                    "h": "See marginal note on [[1:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009017,
+            "text": "For if I do this of mine own will, I have a reward: but if not of mine own will, I have a stewardship intrusted to me. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009018,
+            "text": "What then is my reward? That, when I <i>[i]</i>preach the gospel, I may make the <i>[j]</i>gospel without charge, so as not to use to the full my right in the <i>[k]</i>gospel. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-18",
+            "footnotes": [
+                {
+                    "i": "See marginal note on [[1:17]]."
+                },
+                {
+                    "j": "See marginal note on [[4:15]]."
+                },
+                {
+                    "k": "See marginal note on [[4:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009019,
+            "text": "For though I was free from all , I brought myself under bondage to all, that I might gain the more. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009020,
+            "text": "And to the Jews I became as a Jew, that I might gain Jews; to them that are under the law, as under the law, not being myself under the law, that I might gain them that are under the law; ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009021,
+            "text": "to them that are without law, as without law, not being without law to God, but under law to Christ, that I might gain them that are without law. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009022,
+            "text": "To the weak I became weak, that I might gain the weak: I am become all things to all men, that I may by all means save some. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009023,
+            "text": "And I do all things for the <i>[l]</i>gospel\u2019s sake, that I may be a joint partaker thereof. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-23",
+            "footnotes": [
+                {
+                    "l": "See marginal note on [[4:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009024,
+            "text": "Know ye not that they that run in a <i>[m]</i>race run all, but one receiveth the prize? Even so run; that ye may attain. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-24",
+            "footnotes": [
+                {
+                    "m": "Greek <i>race-course</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009025,
+            "text": "And every man that striveth in the games exerciseth self-control in all things. Now they  to receive a corruptible crown; but we an incorruptible. ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009026,
+            "text": "I therefore so run, as not uncertainly; so <i>[n]</i>fight I, as not beating the air: ",
+            "version": "ASV",
+            "clsstr": "1Cor-9-26",
+            "footnotes": [
+                {
+                    "n": "Greek <i>box</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46009027,
+            "text": "but I <i>[o]</i>buffet my body, and bring it into bondage: lest by any means, after that I <i>[p]</i>have preached to others, I myself should be rejected.",
+            "version": "ASV",
+            "clsstr": "1Cor-9-27",
+            "footnotes": [
+                {
+                    "o": "Greek <i>bruise</i>. [[Lk. 18:5]]."
+                },
+                {
+                    "p": "Or, <i>have been a herald</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 9
+}

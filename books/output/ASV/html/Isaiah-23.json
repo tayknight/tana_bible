@@ -1,0 +1,208 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23023001,
+            "text": "\u00b6 The <i>[a]</i>burden of Tyre.\u00b6 Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Kittim it is revealed to them. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle concerning</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023002,
+            "text": "Be still, ye inhabitants of the coast, thou whom the merchants of Sidon, that pass over the sea, have replenished. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023003,
+            "text": "And on great waters the seed of the Shihor, the harvest of the Nile, was her revenue; and she was the mart of nations. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023004,
+            "text": "Be thou ashamed, O Sidon; for the sea hath spoken, the stronghold of the sea, saying, I have not travailed, nor brought forth, neither have I nourished young men, nor brought up virgins. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023005,
+            "text": " <i>[b]</i>When the report cometh to Egypt, they shall be sorely pained at the report of Tyre. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>As at the report concerning Egypt, so etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023006,
+            "text": "Pass ye over to Tarshish; wail, ye inhabitants of the coast. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023007,
+            "text": "Is this your joyous , whose antiquity is <i>[c]</i>of ancient days, whose feet carried her afar off to sojourn?",
+            "version": "ASV",
+            "clsstr": "Isa-23-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>of ancient days? her own feet shall carry etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023008,
+            "text": "\u00b6 Who hath purposed this against Tyre, the bestower of crowns, whose merchants are princes, whose traffickers are the honorable of the earth? ",
+            "version": "ASV",
+            "clsstr": "Isa-23-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023009,
+            "text": "Jehovah of hosts hath purposed it, to <i>[d]</i>stain the pride of all glory, to bring into contempt all the honorable of the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-9",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>profane</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023010,
+            "text": " <i>[e]</i>Pass through thy land as the Nile, O daughter of Tarshish; there is no <i>[f]</i>restraint any more. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Overflow</i>"
+                },
+                {
+                    "f": "Hebrew <i>girdle</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023011,
+            "text": "He hath stretched out his hand over the sea, he hath shaken the kingdoms: Jehovah hath given commandment concerning <i>[g]</i>Canaan, to destroy the strongholds thereof. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the merchant</i> people"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023012,
+            "text": "And he said, Thou shalt no more rejoice, O thou oppressed virgin daughter of Sidon: arise, pass over to Kittim; even there shalt thou have no rest.",
+            "version": "ASV",
+            "clsstr": "Isa-23-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023013,
+            "text": "\u00b6 Behold, the land of the Chaldeans: <i>[h]</i>this people was not; the Assyrian founded it for them that dwell in the wilderness; they set up <i>[i]</i>their towers; they <i>[j]</i>overthrew the palaces thereof; they made it a ruin. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>This people is no more; the Assyrian hath appointed it for the beasts of the wilderness</i>"
+                },
+                {
+                    "i": "Or, <i>the towers thereof</i>"
+                },
+                {
+                    "j": "Or, <i>raised up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023014,
+            "text": "Howl, ye ships of Tarshish; for your stronghold is laid waste. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023015,
+            "text": "And it shall come to pass in that day, that Tyre shall be forgotten seventy years, according to the days of one king: after the end of seventy years <i>[k]</i>it shall be unto Tyre as in the song of the harlot. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-15",
+            "footnotes": [
+                {
+                    "k": "Or, <i>shall Tyre sing as a harlot</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023016,
+            "text": "Take a harp, go about the city, thou harlot that hast been forgotten; make sweet melody, sing many songs, that thou mayest be remembered. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023017,
+            "text": "And it shall come to pass after the end of seventy years, that Jehovah will visit Tyre, and she shall return to her hire, and shall play the harlot with all the kingdoms of the world upon the face of the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-23-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23023018,
+            "text": "And her merchandise and her hire shall be holiness to Jehovah: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before Jehovah, to eat sufficiently, and for <i>[l]</i>durable clothing.",
+            "version": "ASV",
+            "clsstr": "Isa-23-18",
+            "footnotes": [
+                {
+                    "l": "Or, <i>stately</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 23
+}

@@ -1,0 +1,194 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58004001,
+            "text": "\u00b6 Let us fear therefore, lest haply, a promise being left of entering into his rest, any one of you should seem to have come short of it. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004002,
+            "text": "For indeed we have had <i>[a]</i>good tidings preached unto us, even as also they: but the word of hearing did not profit them, because <i>[b]</i>it was not united by faith with them that heard. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a gospel</i>"
+                },
+                {
+                    "b": "Many ancient authorities read <i>they were</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004003,
+            "text": " <i>[c]</i>For we who have believed do enter into that rest; even as he hath said,\u00b6 <i>[d]</i> <i>[e]</i>As I sware in my wrath,\n   <i>[f]</i>They shall not enter into my rest:\n    \u00b6 although the works were finished from the foundation of the world. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-3",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities read <i>We therefore</i>."
+                },
+                {
+                    "d": "[[Ps. 95:11]]."
+                },
+                {
+                    "e": "Or, <i>So</i>"
+                },
+                {
+                    "f": "Greek <i>If they shall enter</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004004,
+            "text": "For he hath said somewhere of the seventh on this wise, <i>[g]</i>And God rested on the seventh day from all his works; ",
+            "version": "ASV",
+            "clsstr": "Heb-4-4",
+            "footnotes": [
+                {
+                    "g": "[[Gen. 2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004005,
+            "text": "and in this again,\u00b6  <i>[h]</i> <i>[i]</i>They shall not enter into my rest.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-4-5",
+            "footnotes": [
+                {
+                    "h": "[[Ps. 95:11]]."
+                },
+                {
+                    "i": "Greek <i>If they shall enter</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004006,
+            "text": "\u00b6 Seeing therefore it remaineth that some should enter thereinto, and they to whom <i>[j]</i>the good tidings were before preached failed to enter in because of disobedience, ",
+            "version": "ASV",
+            "clsstr": "Heb-4-6",
+            "footnotes": [
+                {
+                    "j": "Or, <i>the gospel was</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004007,
+            "text": "he again defineth a certain day, To-day, saying in David so long a time afterward (even as hath been said before),\u00b6   <i>[k]</i>To-day if ye shall hear his voice,\n    Harden not your hearts.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-4-7",
+            "footnotes": [
+                {
+                    "k": "[[Ps. 95:7f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004008,
+            "text": "\u00b6 For if <i>[l]</i>Joshua had given them rest, he would not have spoken afterward of another day. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-8",
+            "footnotes": [
+                {
+                    "l": "Greek <i>Jesus</i>. Compare [[Acts 7:45]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004009,
+            "text": "There remaineth therefore a sabbath rest for the people of God. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004010,
+            "text": "For he that is entered into his rest hath himself also rested from his works, as God did from his. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004011,
+            "text": "Let us therefore give diligence to enter into that rest, that no man fall <i>[m]</i>after the same example of disobedience. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-11",
+            "footnotes": [
+                {
+                    "m": "Or, <i>into</i>. Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004012,
+            "text": "For the word of God is living, and active, and sharper than any two-edged sword, and piercing even to the dividing of soul and spirit, of both joints and marrow, and quick to discern the thoughts and intents of the heart. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004013,
+            "text": "And there is no creature that is not manifest in his sight: but all things are naked and laid open before the eyes of him with whom we have to do.",
+            "version": "ASV",
+            "clsstr": "Heb-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004014,
+            "text": "\u00b6 Having then a great high priest, who hath passed through the heavens, Jesus the Son of God, let us hold fast our confession. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004015,
+            "text": "For we have not a high priest that cannot be touched with the feeling of our infirmities; but one that hath been in all points tempted like as  without sin. ",
+            "version": "ASV",
+            "clsstr": "Heb-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58004016,
+            "text": "Let us therefore draw near with boldness unto the throne of grace, that we may receive mercy, and may find grace to help  in time of need.",
+            "version": "ASV",
+            "clsstr": "Heb-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 4
+}

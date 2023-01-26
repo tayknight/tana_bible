@@ -1,0 +1,216 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 22,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 8,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 22,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 22005001,
+            "text": "\u00b6  I am come into my garden, my sister, bride:\n I have gathered my myrrh with my <i>[a]</i>spice;\n  I have eaten my honeycomb with my honey;\n  I have drunk my wine with my milk.\n  Eat, O friends;\n  Drink, yea, drink abundantly, <i>[b]</i>O beloved.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>balsam</i>"
+                },
+                {
+                    "b": "Or, <i>of love</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005002,
+            "text": "\u00b6  I <i>[c]</i>was asleep, but my heart waked:\n  It is the voice of my beloved that knocketh, ,\n  Open to me, my sister, my love, my dove, my <i>[d]</i>undefiled;\n    For my head is filled with dew,\n    My locks with the drops of the night.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>sleep, but my heart waketh</i>"
+                },
+                {
+                    "d": "Hebrew <i>perfect</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005003,
+            "text": "    I have put off my garment; how shall I put it on?\n    I have washed my feet; how shall I defile them?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005004,
+            "text": "  My beloved put in his hand by the hole ,\n  And my <i>[e]</i>heart was moved for him.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-4",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>bowels</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005005,
+            "text": "    I rose up to open to my beloved;\n    And my hands dropped with myrrh,\n    And my fingers with liquid myrrh,\n    Upon the handles of the bolt.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005006,
+            "text": " I opened to my beloved;\n But my beloved had <i>[f]</i>withdrawn himself, was gone.\n  My soul <i>[g]</i>had failed me when he spake:\n    I sought him, but I could not find him;\n    I called him, but he gave me no answer.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>turned away</i>"
+                },
+                {
+                    "g": "Hebrew <i>went forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005007,
+            "text": "  The watchmen that go about the city found me,\n  They smote me, they wounded me;\n  The keepers of the walls took away my <i>[h]</i>mantle from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-7",
+            "footnotes": [
+                {
+                    "h": "Or, <i>veil</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005008,
+            "text": "  I adjure you, O daughters of Jerusalem,\n  If ye find my beloved,\n   <i>[i]</i>That ye tell him, that I am sick from love.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-8",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>What will ye tell him? That etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005009,
+            "text": "\u00b6     What is thy beloved more than  beloved,\n    O thou fairest among women?\n    What is thy beloved more than  beloved,\n    That thou dost so adjure us?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005010,
+            "text": "\u00b6   My beloved is white and ruddy,\n   <i>[j]</i>The chiefest among ten thousand.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-10",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>Marked out by a banner</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005011,
+            "text": "  His head is the most fine gold;\n  His locks are <i>[k]</i>bushy,  black as a raven.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-11",
+            "footnotes": [
+                {
+                    "k": "Or, <i>curling</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005012,
+            "text": "  His eyes are like doves beside the water-brooks,\n  Washed with milk,  <i>[l]</i>fitly set.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-12",
+            "footnotes": [
+                {
+                    "l": "Or, <i>sitting by full streams</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005013,
+            "text": " His cheeks are as a bed of <i>[m]</i>spices,\n   <i>[n]</i>banks of sweet herbs:\n    His lips are  lilies, dropping liquid myrrh.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-13",
+            "footnotes": [
+                {
+                    "m": "Or, <i>balsam</i>"
+                },
+                {
+                    "n": "Or, <i>towers of perfumes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005014,
+            "text": " His hands are <i>[o]</i>rings of gold set with <i>[p]</i>beryl:\n His body is <i>[q]</i>ivory work <i>[r]</i>overlaid  sapphires.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-14",
+            "footnotes": [
+                {
+                    "o": "Or, <i>cylinders</i>"
+                },
+                {
+                    "p": "Or, <i>topaz</i>"
+                },
+                {
+                    "q": "Or, <i>bright ivory</i>"
+                },
+                {
+                    "r": "Or, <i>encrusted</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005015,
+            "text": "    His legs are  pillars of marble, set upon sockets of fine gold:\n    His aspect is like Lebanon, excellent as the cedars.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22005016,
+            "text": "  His <i>[s]</i>mouth is most sweet;\n    Yea, he is altogether lovely.\n    This is my beloved, and this is my friend,\n    O daughters of Jerusalem.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-5-16",
+            "footnotes": [
+                {
+                    "s": "Or, <i>speech</i>. Hebrew <i>palate</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Song of Solomon",
+    "chapters": 5
+}

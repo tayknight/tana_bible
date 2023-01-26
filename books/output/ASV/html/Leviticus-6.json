@@ -1,0 +1,275 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3006001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006002,
+            "text": "If any one sin, and commit a trespass against Jehovah, and deal falsely with his neighbor in a matter of deposit, or of <i>[a]</i>bargain, or of robbery, or have oppressed his neighbor, ",
+            "version": "ASV",
+            "clsstr": "Lev-6-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>pledge</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006003,
+            "text": "or have found that which was lost, and deal falsely therein, and swear to a lie; in any of all these things that a man doeth, sinning therein; ",
+            "version": "ASV",
+            "clsstr": "Lev-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006004,
+            "text": "then it shall be, if he hath sinned, and is guilty, that he shall restore that which he took by robbery, or the thing which he hath gotten by oppression, or the deposit which was committed to him, or the lost thing which he found, ",
+            "version": "ASV",
+            "clsstr": "Lev-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006005,
+            "text": "or any thing about which he hath sworn falsely; he shall even restore it in full, and shall add the fifth part more thereto: unto him to whom it appertaineth shall he give it, in the day of his being found guilty. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006006,
+            "text": "And he shall bring his trespass-offering unto Jehovah, a ram without blemish out of the flock, according to thy estimation, for a trespass-offering, unto the priest: ",
+            "version": "ASV",
+            "clsstr": "Lev-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006007,
+            "text": "and the priest shall make atonement for him before Jehovah; and he shall be forgiven concerning whatsoever he doeth so as to be guilty thereby.",
+            "version": "ASV",
+            "clsstr": "Lev-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006008,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006009,
+            "text": "Command Aaron and his sons, saying, This is the law of the burnt-offering: the burnt-offering shall be <i>[b]</i>on the hearth upon the altar all night unto the morning; and the fire of the altar shall be kept burning thereon. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>on its firewood</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006010,
+            "text": "And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh; and he shall take up the ashes whereto the fire hath consumed the burnt-offering on the altar, and he shall put them beside the altar. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006011,
+            "text": "And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006012,
+            "text": "And the fire upon the altar shall be kept burning thereon, it shall not go out; and the priest shall burn wood on it every morning: and he shall lay the burnt-offering in order upon it, and shall burn thereon the fat of the peace-offerings. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006013,
+            "text": "Fire shall be kept burning upon the altar continually; it shall not go out.",
+            "version": "ASV",
+            "clsstr": "Lev-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006014,
+            "text": "\u00b6 And this is the law of the meal-offering: the sons of Aaron shall offer it before Jehovah, before the altar. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006015,
+            "text": "And he shall take up therefrom his handful, of the fine flour of the meal-offering, and of the oil thereof, and all the frankincense which is upon the meal-offering, and shall burn it upon the altar for a sweet savor, as the memorial thereof, unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006016,
+            "text": "And that which is left thereof shall Aaron and his sons eat: it shall be eaten without leaven in a holy place; in the court of the tent of meeting they shall eat it. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006017,
+            "text": "It shall not be baken with leaven. I have given it as their portion of my offerings made by fire; it is most holy, as the sin-offering, and as the trespass-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006018,
+            "text": "Every male among the children of Aaron shall eat of it, as  portion for ever throughout your generations, from the offerings of Jehovah made by fire: whosoever toucheth them shall be holy.",
+            "version": "ASV",
+            "clsstr": "Lev-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006019,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-6-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006020,
+            "text": "This is the oblation of Aaron and of his sons, which they shall offer unto Jehovah in the day when he is anointed: the tenth part of an ephah of fine flour for a meal-offering perpetually, half of it in the morning, and half thereof in the evening. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006021,
+            "text": "On a baking-pan it shall be made with oil; when it is soaked, thou shalt bring it in: in <i>[c]</i>baken pieces shalt thou offer the meal-offering for a sweet savor unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-21",
+            "footnotes": [
+                {
+                    "c": "The meaning of the Hebrew word is uncertain."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006022,
+            "text": "And the anointed priest that shall be in his stead from among his sons shall offer it: by a statute for ever it shall be wholly burnt unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006023,
+            "text": "And every meal-offering of the priest shall be wholly burnt: it shall not be eaten.",
+            "version": "ASV",
+            "clsstr": "Lev-6-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006024,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-6-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006025,
+            "text": "Speak unto Aaron and to his sons, saying, This is the law of the sin-offering: in the place where the burnt-offering is killed shall the sin-offering be killed before Jehovah: it is most holy. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006026,
+            "text": "The priest that offereth it for sin shall eat it: in a holy place shall it be eaten, in the court of the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006027,
+            "text": " <i>[d]</i>Whatsoever shall touch the flesh thereof shall be holy; and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in a holy place. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-27",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Whosoever</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006028,
+            "text": "But the earthen vessel wherein it is boiled shall be broken; and if it be boiled in a brazen vessel, it shall be scoured, and rinsed in water. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006029,
+            "text": "Every male among the priests shall eat thereof: it is most holy. ",
+            "version": "ASV",
+            "clsstr": "Lev-6-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3006030,
+            "text": "And no sin-offering, whereof any of the blood is brought into the tent of meeting to make atonement in the holy place, shall be eaten: it shall be burnt with fire.",
+            "version": "ASV",
+            "clsstr": "Lev-6-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 6
+}

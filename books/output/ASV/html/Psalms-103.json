@@ -1,0 +1,203 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19103001,
+            "text": "<b>Praise for Jehovah\u2019s mercies.</b>\n\u00b6  of David.\u00b6     Bless Jehovah, O my soul;\n    And all that is within me,  his holy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103002,
+            "text": "    Bless Jehovah, O my soul,\n    And forget not all his benefits:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103003,
+            "text": "    Who forgiveth all thine iniquities;\n    Who healeth all thy diseases;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103004,
+            "text": "  Who redeemeth thy life from <i>[a]</i>destruction;\n    Who crowneth thee with lovingkindness and tender mercies;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the pit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103005,
+            "text": "  Who satisfieth <i>[b]</i>thy desire with good things,\n     thy youth is renewed like the eagle.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>thy years</i>. Or, <i>thy prime</i>. Hebrew <i>thine ornament</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103006,
+            "text": "    Jehovah executeth righteous acts,\n    And judgments for all that are oppressed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103007,
+            "text": "    He made known his ways unto Moses,\n    His doings unto the children of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103008,
+            "text": "    Jehovah is merciful and gracious,\n    Slow to anger, and abundant in lovingkindness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103009,
+            "text": "    He will not always chide;\n    Neither will he keep  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103010,
+            "text": "    He hath not dealt with us after our sins,\n    Nor rewarded us after our iniquities.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103011,
+            "text": "    For as the heavens are high above the earth,\n    So great is his lovingkindness toward them that fear him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103012,
+            "text": "    As far as the east is from the west,\n    So far hath he removed our transgressions from us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103013,
+            "text": "    Like as a father pitieth his children,\n    So Jehovah pitieth them that fear him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103014,
+            "text": "    For he knoweth our frame;\n    He remembereth that we are dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103015,
+            "text": "    As for man, his days are as grass;\n    As a flower of the field, so he flourisheth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103016,
+            "text": "    For the wind passeth over it, and it is gone;\n    And the place thereof shall know it no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103017,
+            "text": "    But the lovingkindness of Jehovah is from everlasting to everlasting upon them that fear him,\n    And his righteousness unto children\u2019s children;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103018,
+            "text": "    To such as keep his covenant,\n    And to those that remember his precepts to do them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103019,
+            "text": "    Jehovah hath established his throne in the heavens;\n    And his kingdom ruleth over all.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103020,
+            "text": "    Bless Jehovah, ye his angels,\n    That are mighty in strength, that fulfil his word,\n    Hearkening unto the voice of his word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103021,
+            "text": "    Bless Jehovah, all ye his hosts,\n    Ye ministers of his, that do his pleasure.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19103022,
+            "text": "    Bless Jehovah, all ye his works,\n    In all places of his dominion:\n    Bless Jehovah, O my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-103-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 103
+}

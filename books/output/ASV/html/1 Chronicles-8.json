@@ -1,0 +1,386 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13008001,
+            "text": "\u00b6 And Benjamin begat Bela his first-born, Ashbel the second, and Aharah the third, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008002,
+            "text": "Nohah the fourth, and Rapha the fifth. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008003,
+            "text": "And Bela had sons: <i>[a]</i>Addar, and Gera, and Abihud, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-3",
+            "footnotes": [
+                {
+                    "a": "In [[Gen. 46:21]], <i>Ard</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008004,
+            "text": "and Abishua, and Naaman, and Ahoah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008005,
+            "text": "and Gera, and <i>[b]</i>Shephuphan, and Huram. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-5",
+            "footnotes": [
+                {
+                    "b": "In [[Num. 26:39]], <i>Shephupham</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008006,
+            "text": "And these are the sons of Ehud: these are the heads of fathers\u2019  of the inhabitants of Geba, and they carried them captive to Manahath: ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008007,
+            "text": "and Naaman, and Ahijah, and Gera, he carried them captive; and he begat Uzza and Ahihud. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008008,
+            "text": "And Shaharaim begat children in the field of Moab, after he had <i>[c]</i>sent them away; Hushim and Baara were his wives. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>sent away Hushim and Baara his wives</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008009,
+            "text": "And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcam, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008010,
+            "text": "and Jeuz, and Shachia, and Mirmah. These were his sons, heads of fathers\u2019 . ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008011,
+            "text": "And of Hushim he begat Abitub and Elpaal. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008012,
+            "text": "And the sons of Elpaal: Eber, and Misham, and Shemed, who built Ono and Lod, with the towns thereof; ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008013,
+            "text": "and Beriah, and Shema, who were heads of fathers\u2019  of the inhabitants of Aijalon, who put to flight the inhabitants of Gath; ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008014,
+            "text": "and Ahio, Shashak, and Jeremoth, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008015,
+            "text": "and Zebadiah, and Arad, and Eder, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008016,
+            "text": "and Michael, and Ishpah, and Joha, the sons of Beriah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008017,
+            "text": "and Zebadiah, and Meshullam, and Hizki, and Heber, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008018,
+            "text": "and Ishmerai, and Izliah, and Jobab, the sons of Elpaal, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008019,
+            "text": "and Jakim, and Zichri, and Zabdi, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008020,
+            "text": "and Elienai, and Zillethai, and Eliel, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008021,
+            "text": "and Adaiah, and Beraiah, and Shimrath, the sons of <i>[d]</i>Shimei, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-21",
+            "footnotes": [
+                {
+                    "d": "In [[verse 13]], <i>Shema</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008022,
+            "text": "and Ishpan, and Eber, and Eliel, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008023,
+            "text": "and Abdon, and Zichri, and Hanan, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008024,
+            "text": "and Hananiah, and Elam, and Anthothijah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008025,
+            "text": "and Iphdeiah, and Penuel, the sons of Shashak, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008026,
+            "text": "and Shamsherai, and Shehariah, and Athaliah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008027,
+            "text": "and Jaareshiah, and Elijah, and Zichri, the sons of Jeroham. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008028,
+            "text": "These were heads of fathers\u2019  throughout their generations, chief men: these dwelt in Jerusalem.",
+            "version": "ASV",
+            "clsstr": "1Chr-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008029,
+            "text": "\u00b6 And in Gibeon there dwelt the father of Gibeon, , whose wife\u2019s name was Maacah; ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008030,
+            "text": "and his first-born son Abdon, and Zur, and Kish, and Baal, and Nadab, ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008031,
+            "text": "and Gedor, and Ahio, and <i>[e]</i>Zecher. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-31",
+            "footnotes": [
+                {
+                    "e": "In [[9:37]], <i>Zechariah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008032,
+            "text": "And Mikloth begat <i>[f]</i>Shimeah. And they also dwelt with their brethren in Jerusalem, over against their brethren. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-32",
+            "footnotes": [
+                {
+                    "f": "In [[9:38]], <i>Shimeam</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008033,
+            "text": "And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchi-shua, and <i>[g]</i>Abinadab, and <i>[h]</i>Eshbaal. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-33",
+            "footnotes": [
+                {
+                    "g": "In [[1 Sam. 14:49]], <i>Ishvi</i>."
+                },
+                {
+                    "h": "In [[2 Sam. 2:8]], <i>Ishbosheth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008034,
+            "text": "And the son of Jonathan was <i>[i]</i>Merib-baal; and Merib-baal begat Micah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-34",
+            "footnotes": [
+                {
+                    "i": "In [[2 Sam. 4:4]]; [[9:6]], [[10]], <i>Mephibosheth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008035,
+            "text": "And the sons of Micah: Pithon, and Melech, and <i>[j]</i>Tarea, and Ahaz. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-35",
+            "footnotes": [
+                {
+                    "j": "In [[9:41]], <i>Tahrea</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008036,
+            "text": "And Ahaz begat <i>[k]</i>Jehoaddah; and Jehoaddah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-36",
+            "footnotes": [
+                {
+                    "k": "In [[9:42]], <i>Jarah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008037,
+            "text": "And Moza begat Binea; <i>[l]</i>Raphah was his son, Eleasah his son, Azel his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-37",
+            "footnotes": [
+                {
+                    "l": "In [[9:43]], <i>Rephaiah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008038,
+            "text": "And Azel had six sons, whose names are these: Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008039,
+            "text": "And the sons of Eshek his brother: Ulam his first-born, Jeush the second, and Eliphelet the third. ",
+            "version": "ASV",
+            "clsstr": "1Chr-8-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13008040,
+            "text": "And the sons of Ulam were mighty men of valor, archers, and had many sons, and sons\u2019 sons, a hundred and fifty. All these were of the sons of Benjamin.",
+            "version": "ASV",
+            "clsstr": "1Chr-8-40",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 8
+}

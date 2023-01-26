@@ -1,0 +1,178 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 66,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 66,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 66007001,
+            "text": "\u00b6 After this I saw four angels standing at the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, or on the sea, or upon any tree. ",
+            "version": "ASV",
+            "clsstr": "Rev-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007002,
+            "text": "And I saw another angel ascend from the sunrising, having the seal of the living God: and he cried with a great voice to the four angels to whom it was given to hurt the earth and the sea, ",
+            "version": "ASV",
+            "clsstr": "Rev-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007003,
+            "text": "saying, Hurt not the earth, neither the sea, nor the trees, till we shall have sealed the <i>[a]</i>servants of our God on their foreheads. ",
+            "version": "ASV",
+            "clsstr": "Rev-7-3",
+            "footnotes": [
+                {
+                    "a": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007004,
+            "text": "And I heard the number of them that were sealed, a hundred and forty and four thousand, sealed out of every tribe of the children of Israel:",
+            "version": "ASV",
+            "clsstr": "Rev-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007005,
+            "text": "\u00b6     Of the tribe of Judah  sealed twelve thousand;\n    Of the tribe of Reuben twelve thousand;\n    Of the tribe of Gad twelve thousand;\n    ",
+            "version": "ASV",
+            "clsstr": "Rev-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007006,
+            "text": "    Of the tribe of Asher twelve thousand;\n    Of the tribe of Naphtali twelve thousand;\n    Of the tribe of Manasseh twelve thousand;\n    ",
+            "version": "ASV",
+            "clsstr": "Rev-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007007,
+            "text": "    Of the tribe of Simeon twelve thousand;\n    Of the tribe of Levi twelve thousand;\n    Of the tribe of Issachar twelve thousand;\n    ",
+            "version": "ASV",
+            "clsstr": "Rev-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007008,
+            "text": "    Of the tribe of Zebulun twelve thousand;\n    Of the tribe of Joseph twelve thousand;\n    Of the tribe of Benjamin  sealed twelve thousand.\n    ",
+            "version": "ASV",
+            "clsstr": "Rev-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007009,
+            "text": "\u00b6 After these things I saw, and behold, a great multitude, which no man could number, out of every nation and of  tribes and peoples and tongues, standing before the throne and before the Lamb, arrayed in white robes, and palms in their hands; ",
+            "version": "ASV",
+            "clsstr": "Rev-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007010,
+            "text": "and they cry with a great voice, saying,\u00b6 Salvation unto our God who sitteth on the throne, and unto the Lamb.",
+            "version": "ASV",
+            "clsstr": "Rev-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007011,
+            "text": "\u00b6 And all the angels were standing round about the throne, and  the elders and the four living creatures; and they fell before the throne on their faces, and worshipped God, ",
+            "version": "ASV",
+            "clsstr": "Rev-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007012,
+            "text": "saying,\u00b6 Amen: <i>[b]</i>Blessing, and glory, and wisdom, and thanksgiving, and honor, and power, and might, unto our God <i>[c]</i>for ever and ever. Amen.",
+            "version": "ASV",
+            "clsstr": "Rev-7-12",
+            "footnotes": [
+                {
+                    "b": "Greek <i>The blessing, and the glory etc.</i>"
+                },
+                {
+                    "c": "Greek <i>unto the ages of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007013,
+            "text": "\u00b6 And one of the elders answered, saying unto me, These that are arrayed in the white robes, who are they, and whence came they? ",
+            "version": "ASV",
+            "clsstr": "Rev-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007014,
+            "text": "And I <i>[d]</i>say unto him, My lord, thou knowest. And he said to me, These are they that come out of the great tribulation, and they washed their robes, and made them white in the blood of the Lamb. ",
+            "version": "ASV",
+            "clsstr": "Rev-7-14",
+            "footnotes": [
+                {
+                    "d": "Greek <i>have said</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007015,
+            "text": "Therefore are they before the throne of God; and they serve him day and night in his <i>[e]</i>temple: and he that sitteth on the throne shall spread his tabernacle over them. ",
+            "version": "ASV",
+            "clsstr": "Rev-7-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007016,
+            "text": "They shall hunger no more, neither thirst any more; neither shall the sun strike upon them, nor any heat: ",
+            "version": "ASV",
+            "clsstr": "Rev-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66007017,
+            "text": "for the Lamb that is in the midst <i>[f]</i>of the throne shall be their shepherd, and shall guide them unto fountains of waters of life: and God shall wipe away every tear from their eyes.",
+            "version": "ASV",
+            "clsstr": "Rev-7-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>before</i>. See [[4:6]]; compare [[5:6]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Revelation",
+    "chapters": 7
+}

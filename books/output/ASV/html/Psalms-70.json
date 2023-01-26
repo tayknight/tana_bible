@@ -1,0 +1,67 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19070001,
+            "text": "<b>Prayer for help against persecutors.</b>\n\u00b6 For the Chief Musician. of David; <i>[a]</i>to bring to remembrance.\u00b6     , O God, to deliver me;\n    Make haste to help me, O Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-70-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>to make memorial</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19070002,
+            "text": "    Let them be put to shame and confounded\n    That seek after my soul:\n    Let them be turned backward and brought to dishonor\n    That delight in my hurt.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-70-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19070003,
+            "text": "  Let them be turned back <i>[b]</i>by reason of their shame\n    That say, Aha, aha.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-70-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>for a reward of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19070004,
+            "text": "    Let all those that seek thee rejoice and be glad in thee;\n    And let such as love thy salvation say continually,\n    Let God be magnified.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-70-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19070005,
+            "text": "    But I am poor and needy;\n    Make haste unto me, O God:\n    Thou art my help and my deliverer;\n    O Jehovah, make no tarrying.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-70-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 70
+}

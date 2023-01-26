@@ -1,0 +1,134 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28006001,
+            "text": "\u00b6 Come, and let us return unto Jehovah; for he hath torn, and he will heal us; he hath smitten, and he will bind us up. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006002,
+            "text": "After two days will he revive us: on the third day he will raise us up, and we shall live before him. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006003,
+            "text": "And let us know, let us follow on to know Jehovah: his going forth is sure as the morning; and he will come unto us as the rain, as the latter rain that watereth the earth.",
+            "version": "ASV",
+            "clsstr": "Hos-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006004,
+            "text": "\u00b6 O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your <i>[a]</i>goodness is as a morning cloud, and as the dew that goeth early away. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>kindness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006005,
+            "text": "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and <i>[b]</i>thy judgments are  the light that goeth forth. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-5",
+            "footnotes": [
+                {
+                    "b": "Or, according to another reading, <i>my</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006006,
+            "text": "For I desire <i>[c]</i>goodness, and not sacrifice; and the knowledge of God more than burnt-offerings. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>kindness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006007,
+            "text": "But they <i>[d]</i>like <i>[e]</i>Adam have transgressed the covenant: there have they dealt treacherously against me. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>are as men that have transgressed a covenant</i>"
+                },
+                {
+                    "e": "Or, <i>men</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006008,
+            "text": "Gilead is a city of them that work iniquity; it is stained with blood. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006009,
+            "text": " <i>[f]</i>And as troops of robbers wait for a man, so the company of priests murder in the way toward Shechem; yea, they have committed lewdness. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-9",
+            "footnotes": [
+                {
+                    "f": "Or, <i>And as robbers lying in wait, so etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006010,
+            "text": "In the house of Israel I have seen a horrible thing: there whoredom is  in Ephraim, Israel is defiled. ",
+            "version": "ASV",
+            "clsstr": "Hos-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28006011,
+            "text": "Also, O Judah, there is a harvest appointed for thee, when I <i>[g]</i>bring back the captivity of my people.",
+            "version": "ASV",
+            "clsstr": "Hos-6-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>return to</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 6
+}

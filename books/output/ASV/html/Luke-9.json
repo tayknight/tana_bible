@@ -1,0 +1,593 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42009001,
+            "text": "\u00b6 And he called the twelve together, and gave them power and authority over all demons, and to cure diseases. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009002,
+            "text": "And he sent them forth to preach the kingdom of God, and to heal <i>[a]</i>the sick. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-2",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities omit <i>the sick</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009003,
+            "text": "And he said unto them, Take nothing for your journey, neither staff, nor wallet, nor bread, nor money; neither have two coats. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009004,
+            "text": "And into whatsoever house ye enter, there abide, and thence depart. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009005,
+            "text": "And as many as receive you not, when ye depart from that city, shake off the dust from your feet for a testimony against them. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009006,
+            "text": "And they departed, and went throughout the villages, preaching the <i>[b]</i>gospel, and healing everywhere.",
+            "version": "ASV",
+            "clsstr": "Luke-9-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>good tidings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009007,
+            "text": "\u00b6 Now Herod the tetrarch heard of all that was done: and he was much perplexed, because that it was said by some, that John was risen from the dead; ",
+            "version": "ASV",
+            "clsstr": "Luke-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009008,
+            "text": "and by some, that Elijah had appeared; and by others, that one of the old prophets was risen again. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009009,
+            "text": "And Herod said, John I beheaded: but who is this, about whom I hear such things? And he sought to see him.",
+            "version": "ASV",
+            "clsstr": "Luke-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009010,
+            "text": "\u00b6 And the apostles, when they were returned, declared unto him what things they had done. And he took them, and withdrew apart to a city called Bethsaida. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009011,
+            "text": "But the multitudes perceiving it followed him: and he welcomed them, and spake to them of the kingdom of God, and them that had need of healing he cured. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009012,
+            "text": "And the day began to wear away; and the twelve came, and said unto him, Send the multitude away, that they may go into the villages and country round about, and lodge, and get provisions: for we are here in a desert place. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009013,
+            "text": "But he said unto them, Give ye them to eat. And they said, We have no more than five loaves and two fishes; except we should go and buy food for all this people. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009014,
+            "text": "For they were about five thousand men. And he said unto his disciples, Make them <i>[c]</i>sit down in companies, about fifty each. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-14",
+            "footnotes": [
+                {
+                    "c": "Greek <i>recline</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009015,
+            "text": "And they did so, and made them all sit down. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009016,
+            "text": "And he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake; and gave to the disciples to set before the multitude. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009017,
+            "text": "And they ate, and were all filled: and there was taken up that which remained over to them of broken pieces, twelve baskets.",
+            "version": "ASV",
+            "clsstr": "Luke-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009018,
+            "text": "\u00b6 And it came to pass, as he was praying apart, the disciples were with him: and he asked them, saying, Who do the multitudes say that I am? ",
+            "version": "ASV",
+            "clsstr": "Luke-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009019,
+            "text": "And they answering said, John the Baptist; but others , Elijah; and others, that one of the old prophets is risen again. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009020,
+            "text": "And he said unto them, But who say ye that I am? And Peter answering said, The Christ of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009021,
+            "text": "But he charged them, and commanded  to tell this to no man; ",
+            "version": "ASV",
+            "clsstr": "Luke-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009022,
+            "text": "saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be killed, and the third day be raised up. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009023,
+            "text": "And he said unto all, If any man would come after me, let him deny himself, and take up his cross daily, and follow me. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009024,
+            "text": "For whosoever would save his life shall lose it; but whosoever shall lose his life for my sake, the same shall save it. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009025,
+            "text": "For what is a man profited, if he gain the whole world, and lose or forfeit his own self? ",
+            "version": "ASV",
+            "clsstr": "Luke-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009026,
+            "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he cometh in his own glory, and  of the Father, and of the holy angels. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009027,
+            "text": "But I tell you of a truth, There are some of them that stand here, who shall in no wise taste of death, till they see the kingdom of God.",
+            "version": "ASV",
+            "clsstr": "Luke-9-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009028,
+            "text": "\u00b6 And it came to pass about eight days after these sayings, that he took with him Peter and John and James, and went up into the mountain to pray. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009029,
+            "text": "And as he was praying, the fashion of his countenance was altered, and his raiment  white  dazzling. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009030,
+            "text": "And behold, there talked with him two men, who were Moses and Elijah; ",
+            "version": "ASV",
+            "clsstr": "Luke-9-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009031,
+            "text": "who appeared in glory, and spake of his <i>[d]</i>decease which he was about to accomplish at Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-31",
+            "footnotes": [
+                {
+                    "d": "Or, <i>departure</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009032,
+            "text": "Now Peter and they that were with him were heavy with sleep: but <i>[e]</i>when they were fully awake, they saw his glory, and the two men that stood with him. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-32",
+            "footnotes": [
+                {
+                    "e": "Or, <i>having remained awake</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009033,
+            "text": "And it came to pass, as they were parting from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three <i>[f]</i>tabernacles; one for thee, and one for Moses, and one for Elijah: not knowing what he said. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-33",
+            "footnotes": [
+                {
+                    "f": "Or, <i>booths</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009034,
+            "text": "And while he said these things, there came a cloud, and overshadowed them: and they feared as they entered into the cloud. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009035,
+            "text": "And a voice came out of the cloud, saying, This is <i>[g]</i>my Son, my chosen: hear ye him. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-35",
+            "footnotes": [
+                {
+                    "g": "Many ancient authorities read <i>my beloved Son</i>. See [[Mt. 17:5]]; [[Mk. 9:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009036,
+            "text": "And when the voice <i>[h]</i>came, Jesus was found alone. And they held their peace, and told no man in those days any of the things which they had seen.",
+            "version": "ASV",
+            "clsstr": "Luke-9-36",
+            "footnotes": [
+                {
+                    "h": "Or, <i>was past</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009037,
+            "text": "\u00b6 And it came to pass, on the next day, when they were come down from the mountain, a great multitude met him. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009038,
+            "text": "And behold, a man from the multitude cried, saying, Teacher, I beseech thee to look upon my son; for he is mine only child: ",
+            "version": "ASV",
+            "clsstr": "Luke-9-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009039,
+            "text": "and behold, a spirit taketh him, and he suddenly crieth out; and it <i>[i]</i>teareth him that he foameth, and it hardly departeth from him, bruising him sorely. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-39",
+            "footnotes": [
+                {
+                    "i": "Or, <i>convulseth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009040,
+            "text": "And I besought thy disciples to cast it out; and they could not. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009041,
+            "text": "And Jesus answered and said, O faithless and perverse generation, how long shall I be with you, and bear with you? bring hither thy son. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009042,
+            "text": "And as he was yet a coming, the demon <i>[j]</i>dashed him down, and <i>[k]</i>tare  grievously. But Jesus rebuked the unclean spirit, and healed the boy, and gave him back to his father. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-42",
+            "footnotes": [
+                {
+                    "j": "Or, <i>rent him</i>"
+                },
+                {
+                    "k": "Or, <i>convulsed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009043,
+            "text": "And they were all astonished at the majesty of God.\u00b6 But while all were marvelling at all the things which he did, he said unto his disciples, ",
+            "version": "ASV",
+            "clsstr": "Luke-9-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009044,
+            "text": "Let these words sink into your ears: for the Son of man shall be <i>[l]</i>delivered up into the hands of men. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-44",
+            "footnotes": [
+                {
+                    "l": "Or, <i>betrayed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009045,
+            "text": "But they understood not this saying, and it was concealed from them, that they should not perceive it; and they were afraid to ask him about this saying.",
+            "version": "ASV",
+            "clsstr": "Luke-9-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009046,
+            "text": "\u00b6 And there arose a <i>[m]</i>reasoning among them, which of them was the <i>[n]</i>greatest. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-46",
+            "footnotes": [
+                {
+                    "m": "Or, <i>questioning</i>"
+                },
+                {
+                    "n": "Greek <i>greater</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009047,
+            "text": "But when Jesus saw the <i>[o]</i>reasoning of their heart, he took a little child, and set him by his side, ",
+            "version": "ASV",
+            "clsstr": "Luke-9-47",
+            "footnotes": [
+                {
+                    "o": "Or, <i>questioning</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009048,
+            "text": "and said unto them, Whosoever shall receive this little child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is <i>[p]</i>least among you all, the same is great.",
+            "version": "ASV",
+            "clsstr": "Luke-9-48",
+            "footnotes": [
+                {
+                    "p": "Greek <i>lesser</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009049,
+            "text": "\u00b6 And John answered and said, Master, we saw one casting out demons in thy name; and we forbade him, because he followeth not with us. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009050,
+            "text": "But Jesus said unto him, Forbid  not: for he that is not against you is for you.",
+            "version": "ASV",
+            "clsstr": "Luke-9-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009051,
+            "text": "\u00b6 And it came to pass, when the days <i>[q]</i>were well-nigh come that he should be received up, he stedfastly set his face to go to Jerusalem, ",
+            "version": "ASV",
+            "clsstr": "Luke-9-51",
+            "footnotes": [
+                {
+                    "q": "Greek <i>were being fulfilled</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009052,
+            "text": "and sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009053,
+            "text": "And they did not receive him, because his face was  going to Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009054,
+            "text": "And when his disciples James and John saw , they said, Lord, wilt thou that we bid fire to come down from heaven, and consume them <i>[r]</i>? ",
+            "version": "ASV",
+            "clsstr": "Luke-9-54",
+            "footnotes": [
+                {
+                    "r": "Many ancient authorities add <i>even as Elijah did</i>. Compare [[2 Kin. 1:10\u201312]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009055,
+            "text": "But he turned, and rebuked them <i>[s]</i>. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-55",
+            "footnotes": [
+                {
+                    "s": "Some ancient authorities add <i>and said, Ye know not what manner of spirit ye are of</i>. Some, but fewer, add also <i>For the Son of man came not to destroy men\u2019s lives but to save</i> them. Compare [[19:10]]; [[Jn. 3:17]]; [[12:47]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009056,
+            "text": "And they went to another village.",
+            "version": "ASV",
+            "clsstr": "Luke-9-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009057,
+            "text": "\u00b6 And as they went on the way, a certain man said unto him, I will follow thee whithersoever thou goest. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009058,
+            "text": "And Jesus said unto him, The foxes have holes, and the birds of the heaven  <i>[t]</i>nests; but the Son of man hath not where to lay his head. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-58",
+            "footnotes": [
+                {
+                    "t": "Greek <i>lodging-places</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009059,
+            "text": "And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009060,
+            "text": "But he said unto him, Leave the dead to bury their own dead; but go thou and publish abroad the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009061,
+            "text": "And another also said, I will follow thee, Lord; but first suffer me to bid farewell to them that are at my house. ",
+            "version": "ASV",
+            "clsstr": "Luke-9-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42009062,
+            "text": "But Jesus said unto him, No man, having put his hand to the plow, and looking back, is fit for the kingdom of God.",
+            "version": "ASV",
+            "clsstr": "Luke-9-62",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 9
+}

@@ -1,0 +1,372 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19068001,
+            "text": "<b>Jehovah the God of Sinai and of the sanctuary.</b>\n\u00b6 For the Chief Musician; A Psalm of David, a Song.\u00b6   <i>[a]</i>Let God arise, let his enemies be scattered;\n    Let them also that hate him flee before him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>God ariseth</i>; and so throughout verses [[1]], [[2]], [[3]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068002,
+            "text": "    As smoke is driven away, so drive them away:\n    As wax melteth before the fire,\n    So let the wicked perish at the presence of God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068003,
+            "text": "    But let the righteous be glad; let them exult before God:\n    Yea, let them rejoice with gladness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068004,
+            "text": "  Sing unto God, sing praises to his name:\n  Cast up a highway for him that rideth through the deserts;\n  His name is <i>[b]</i>Jehovah; and exult ye before him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Jah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068005,
+            "text": "    A father of the fatherless, and a judge of the widows,\n    Is God in his holy habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068006,
+            "text": "  God <i>[c]</i>setteth the solitary in families:\n    He bringeth out the prisoners into prosperity;\n    But the rebellious dwell in a parched land.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>maketh the solitary to dwell in a house</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068007,
+            "text": "\u00b6     O God, when thou wentest forth before thy people,\n    When thou didst march through the wilderness; \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068008,
+            "text": "    The earth trembled,\n    The heavens also dropped  at the presence of God:\n    Yon Sinai  at the presence of God, the God of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068009,
+            "text": "    Thou, O God, didst send a plentiful rain,\n    Thou didst confirm thine inheritance, when it was weary.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068010,
+            "text": "  Thy <i>[d]</i>congregation dwelt therein:\n    Thou, O God, didst prepare of thy goodness for the poor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>troop</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068011,
+            "text": "    The Lord giveth the word:\n    The women that publish the tidings are a great host.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068012,
+            "text": "    Kings of armies flee, they flee;\n    And she that tarrieth at home divideth the spoil.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068013,
+            "text": "   <i>[e]</i>When ye lie among the sheepfolds,\n     the wings of a dove covered with silver,\n    And her pinions with yellow gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-13",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Will ye lie among the sheepfolds</i>, as <i>the wings\u00a0.\u00a0.\u00a0. gold?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068014,
+            "text": "    When the Almighty scattered kings therein,\n     it snoweth in Zalmon.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-14",
+            "footnotes": [
+                {
+                    "f": "Or, <i>snowed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068015,
+            "text": "  A mountain of God is the mountain of Bashan;\n  A <i>[g]</i>high mountain is the mountain of Bashan.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-15",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>mountain of summits</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068016,
+            "text": "    Why look ye askance, ye high mountains,\n    At the mountain which God hath desired for his abode?\n    Yea, Jehovah will dwell  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068017,
+            "text": "  The chariots of God are twenty thousand, even thousands upon thousands:\n  The Lord is among them, <i>[h]</i> Sinai, in the sanctuary.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-17",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Sinai</i> is <i>in the sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068018,
+            "text": " Thou hast ascended on high, thou hast led away captives;\n Thou hast received gifts among men,\n Yea, the rebellious also, that <i>[i]</i>Jehovah God might <i>[j]</i>dwell .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-18",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>Jah</i>."
+                },
+                {
+                    "j": "Or, <i>dwell</i> there"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068019,
+            "text": "\u00b6   Blessed be <i>[k]</i>the Lord, who daily beareth our burden,\n    Even the God who is our salvation. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-19",
+            "footnotes": [
+                {
+                    "k": "Or, <i>the Lord day by day: if one oppresseth us, God is our salvation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068020,
+            "text": "    God is unto us a God of deliverances;\n    And unto Jehovah the Lord belongeth escape from death.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068021,
+            "text": "    But God will smite through the head of his enemies,\n    The hairy scalp of such a one as goeth on still in his guiltiness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068022,
+            "text": "    The Lord said, I will bring again from Bashan,\n    I will bring  again from the depths of the sea;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068023,
+            "text": "    That thou mayest crush ,  thy foot in blood,\n    That the tongue of thy dogs may have its portion from  enemies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068024,
+            "text": "  They have seen thy goings, O God,\n  Even the goings of my God, my King, <i>[l]</i>into the sanctuary.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-24",
+            "footnotes": [
+                {
+                    "l": "Or, <i>in the sanctuary</i>. Or, <i>in holiness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068025,
+            "text": "    The singers went before, the minstrels followed after,\n    In the midst of the damsels playing with timbrels.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068026,
+            "text": "    Bless ye God in the congregations,\n    Even the Lord,  of the fountain of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068027,
+            "text": "  There is little Benjamin their ruler,\n  The princes of Judah their <i>[m]</i>council,\n    The princes of Zebulun, the princes of Naphtali.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-27",
+            "footnotes": [
+                {
+                    "m": "Or, <i>company</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068028,
+            "text": "\u00b6  Thy God hath commanded thy strength:\n  <i>[n]</i>Strengthen, O God, that which thou <i>[o]</i>hast wrought for us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-28",
+            "footnotes": [
+                {
+                    "n": "Or, <i>Be strong, O God, thou that hast etc.</i>"
+                },
+                {
+                    "o": "Or, <i>hast wrought for us out of thy temple. Unto Jerusalem etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068029,
+            "text": "    Because of thy temple at Jerusalem\n    Kings shall bring presents unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068030,
+            "text": " Rebuke the wild beast of the reeds,\n The multitude of the bulls, with the calves of the peoples,\n  <i>[p]</i>Trampling under foot the pieces of silver:\n   <i>[q]</i>He hath scattered the peoples that delight in war.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-30",
+            "footnotes": [
+                {
+                    "p": "Or, Every one <i>submitting himself with pieces of silver</i>"
+                },
+                {
+                    "q": "Or, as otherwise read, <i>Scatter thou</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068031,
+            "text": "  Princes shall come out of Egypt;\n   <i>[r]</i>Ethiopia shall haste to stretch out her hands unto God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-31",
+            "footnotes": [
+                {
+                    "r": "Hebrew <i>Cush</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068032,
+            "text": "    Sing unto God, ye kingdoms of the earth;\n    Oh sing praises unto the Lord; \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068033,
+            "text": "    To him that rideth upon the heaven of heavens, which are of old;\n    Lo, he uttereth his voice, a mighty voice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068034,
+            "text": "    Ascribe ye strength unto God:\n    His excellency is over Israel,\n    And his strength is in the skies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19068035,
+            "text": "   <i>[s]</i>O God,  terrible out of thy holy places:\n    The God of Israel, he giveth strength and power unto  people.\n    Blessed be God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-68-35",
+            "footnotes": [
+                {
+                    "s": "Or, <i>Terrible is God</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 68
+}

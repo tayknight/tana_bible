@@ -1,0 +1,495 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41010001,
+            "text": "\u00b6 And he arose from thence, and cometh into the borders of Judaea and beyond the Jordan: and multitudes come together unto him again; and, as he was wont, he taught them again.",
+            "version": "ASV",
+            "clsstr": "Mark-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010002,
+            "text": "\u00b6 And there came unto him Pharisees, and asked him, Is it lawful for a man to put away  wife? trying him. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010003,
+            "text": "And he answered and said unto them, <i>[a]</i>What did Moses command you? ",
+            "version": "ASV",
+            "clsstr": "Mark-10-3",
+            "footnotes": [
+                {
+                    "a": "[[Dt. 24:1]], [[3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010004,
+            "text": "And they said, Moses suffered to write a bill of divorcement, and to put her away. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010005,
+            "text": "But Jesus said unto them, For your hardness of heart he wrote you this commandment. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010006,
+            "text": "But from the beginning of the creation, Male and female made he them. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010007,
+            "text": "For this cause shall a man leave his father and mother, <i>[b]</i>and shall cleave to his wife; ",
+            "version": "ASV",
+            "clsstr": "Mark-10-7",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities omit <i>and shall cleave to his wife</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010008,
+            "text": "and the two shall become one flesh: so that they are no more two, but one flesh. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010009,
+            "text": "What therefore God hath joined together, let not man put asunder. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010010,
+            "text": "And in the house the disciples asked him again of this matter. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010011,
+            "text": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her: ",
+            "version": "ASV",
+            "clsstr": "Mark-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010012,
+            "text": "and if she herself shall put away her husband, and marry another, she committeth adultery.",
+            "version": "ASV",
+            "clsstr": "Mark-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010013,
+            "text": "\u00b6 And they were bringing unto him little children, that he should touch them: and the disciples rebuked them. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010014,
+            "text": "But when Jesus saw it, he was moved with indignation, and said unto them, Suffer the little children to come unto me; forbid them not: for <i>[c]</i>to such belongeth the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>of such is</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010015,
+            "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall in no wise enter therein. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010016,
+            "text": "And he took them in his arms, and blessed them, laying his hands upon them.",
+            "version": "ASV",
+            "clsstr": "Mark-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010017,
+            "text": "\u00b6 And as he was going forth <i>[d]</i>into the way, there ran one to him, and kneeled to him, and asked him, Good Teacher, what shall I do that I may inherit eternal life? ",
+            "version": "ASV",
+            "clsstr": "Mark-10-17",
+            "footnotes": [
+                {
+                    "d": "Or, <i>on his way</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010018,
+            "text": "And Jesus said unto him, Why callest thou me good? none is good save one,  God. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010019,
+            "text": "Thou knowest the commandments, <i>[e]</i>Do not kill, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor thy father and mother. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-19",
+            "footnotes": [
+                {
+                    "e": "[[Ex. 20:12\u201316]]; [[Dt. 5:16\u201320]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010020,
+            "text": "And he said unto him, Teacher, all these things have I observed from my youth. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010021,
+            "text": "And Jesus looking upon him loved him, and said unto him, One thing thou lackest: go, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010022,
+            "text": "But his countenance fell at the saying, and he went away sorrowful: for he was one that had great possessions.",
+            "version": "ASV",
+            "clsstr": "Mark-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010023,
+            "text": "\u00b6 And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God! ",
+            "version": "ASV",
+            "clsstr": "Mark-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010024,
+            "text": "And the disciples were amazed at his words. But Jesus answereth again, and saith unto them, Children, how hard is it <i>[f]</i>for them that trust in riches to enter into the kingdom of God! ",
+            "version": "ASV",
+            "clsstr": "Mark-10-24",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities omit <i>for them that trust in riches</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010025,
+            "text": "It is easier for a camel to go through a needle\u2019s eye, than for a rich man to enter into the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010026,
+            "text": "And they were astonished exceedingly, saying <i>[g]</i>unto him, Then who can be saved? ",
+            "version": "ASV",
+            "clsstr": "Mark-10-26",
+            "footnotes": [
+                {
+                    "g": "Many ancient authorities read <i>among themselves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010027,
+            "text": "Jesus looking upon them saith, With men it is impossible, but not with God: for all things are possible with God. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010028,
+            "text": "Peter began to say unto him, Lo, we have left all, and have followed thee. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010029,
+            "text": "Jesus said, Verily I say unto you, There is no man that hath left house, or brethren, or sisters, or mother, or father, or children, or lands, for my sake, and for the <i>[h]</i>gospel\u2019s sake, ",
+            "version": "ASV",
+            "clsstr": "Mark-10-29",
+            "footnotes": [
+                {
+                    "h": "See marginal note on [[1:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010030,
+            "text": "but he shall receive a hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the <i>[i]</i>world to come eternal life. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-30",
+            "footnotes": [
+                {
+                    "i": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010031,
+            "text": "But many  first shall be last; and the last first.",
+            "version": "ASV",
+            "clsstr": "Mark-10-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010032,
+            "text": "\u00b6 And they were on the way, going up to Jerusalem; and Jesus was going before them: and they were amazed; and they that followed were afraid. And he took again the twelve, and began to tell them the things that were to happen unto him, ",
+            "version": "ASV",
+            "clsstr": "Mark-10-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010033,
+            "text": ", Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests and the scribes; and they shall condemn him to death, and shall deliver him unto the Gentiles: ",
+            "version": "ASV",
+            "clsstr": "Mark-10-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010034,
+            "text": "and they shall mock him, and shall spit upon him, and shall scourge him, and shall kill him; and after three days he shall rise again.",
+            "version": "ASV",
+            "clsstr": "Mark-10-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010035,
+            "text": "\u00b6 And there come near unto him <i>[j]</i>James and John, the sons of Zebedee, saying unto him, Teacher, we would that thou shouldest do for us whatsoever we shall ask of thee. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-35",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010036,
+            "text": "And he said unto them, What would ye that I should do for you? ",
+            "version": "ASV",
+            "clsstr": "Mark-10-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010037,
+            "text": "And they said unto him, Grant unto us that we may sit, one on thy right hand, and one on  left hand, in thy glory. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010038,
+            "text": "But Jesus said unto them, Ye know not what ye ask. Are ye able to drink the cup that I drink? or to be baptized with the baptism that I am baptized with? ",
+            "version": "ASV",
+            "clsstr": "Mark-10-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010039,
+            "text": "And they said unto him, We are able. And Jesus said unto them, The cup that I drink ye shall drink; and with the baptism that I am baptized withal shall ye be baptized: ",
+            "version": "ASV",
+            "clsstr": "Mark-10-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010040,
+            "text": "but to sit on my right hand or on  left hand is not mine to give; but  for whom it hath been prepared. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010041,
+            "text": "And when the ten heard it, they began to be moved with indignation concerning <i>[k]</i>James and John. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-41",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010042,
+            "text": "And Jesus called them to him, and saith unto them, Ye know that they who are accounted to rule over the Gentiles lord it over them; and their great ones exercise authority over them. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010043,
+            "text": "But it is not so among you: but whosoever would become great among you, shall be your <i>[l]</i>minister; ",
+            "version": "ASV",
+            "clsstr": "Mark-10-43",
+            "footnotes": [
+                {
+                    "l": "Or, <i>servant</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010044,
+            "text": "and whosoever would be first among you, shall be <i>[m]</i>servant of all. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-44",
+            "footnotes": [
+                {
+                    "m": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010045,
+            "text": "For the Son of man also came not to be ministered unto, but to minister, and to give his life a ransom for many.",
+            "version": "ASV",
+            "clsstr": "Mark-10-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010046,
+            "text": "\u00b6 And they come to Jericho: and as he went out from Jericho, with his disciples and a great multitude, the son of Timaeus, Bartimaeus, a blind beggar, was sitting by the way side. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010047,
+            "text": "And when he heard that it was Jesus the Nazarene, he began to cry out, and say, Jesus, thou son of David, have mercy on me. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010048,
+            "text": "And many rebuked him, that he should hold his peace: but he cried out the more a great deal, Thou son of David, have mercy on me. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010049,
+            "text": "And Jesus stood still, and said, Call ye him. And they call the blind man, saying unto him, Be of good cheer: rise, he calleth thee. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010050,
+            "text": "And he, casting away his garment, sprang up, and came to Jesus. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010051,
+            "text": "And Jesus answered him, and said, What wilt thou that I should do unto thee? And the blind man said unto him, <i>[n]</i>Rabboni, that I may receive my sight. ",
+            "version": "ASV",
+            "clsstr": "Mark-10-51",
+            "footnotes": [
+                {
+                    "n": "See [[Jn. 20:16]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41010052,
+            "text": "And Jesus said unto him, Go thy way; thy faith hath <i>[o]</i>made thee whole. And straightway he received his sight, and followed him in the way.",
+            "version": "ASV",
+            "clsstr": "Mark-10-52",
+            "footnotes": [
+                {
+                    "o": "Or, <i>saved thee</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 10
+}

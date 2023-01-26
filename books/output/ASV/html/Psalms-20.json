@@ -1,0 +1,106 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19020001,
+            "text": "<b>Prayer for victory over enemies.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6     Jehovah answer thee in the day of trouble;\n    The name of the God of Jacob set thee up on high;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020002,
+            "text": "  Send thee help from the sanctuary,\n  And <i>[a]</i>strengthen thee out of Zion;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>support</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020003,
+            "text": " Remember all thy <i>[b]</i>offerings,\n  And <i>[c]</i>accept thy burnt-sacrifice; \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>meal-offerings</i>"
+                },
+                {
+                    "c": "Hebrew <i>accept as fat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020004,
+            "text": "    Grant thee thy heart\u2019s desire,\n    And fulfil all thy counsel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020005,
+            "text": "  We will triumph in thy <i>[d]</i>salvation,\n    And in the name of our God we will set up our banners:\n    Jehovah fulfil all thy petitions.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>victory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020006,
+            "text": "    Now know I that Jehovah saveth his anointed;\n    He will answer him from his holy heaven\n    With the saving strength of his right hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020007,
+            "text": "    Some  in chariots, and some in horses;\n    But we will make mention of the name of Jehovah our God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020008,
+            "text": "    They are bowed down and fallen;\n    But we are risen, and stand upright.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19020009,
+            "text": "    Save, Jehovah:\n    Let the King answer us when we call.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 20
+}

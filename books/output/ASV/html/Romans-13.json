@@ -1,0 +1,153 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45013001,
+            "text": "\u00b6 Let every soul be in subjection to the higher powers: for there is no power but of God; and the  that be are ordained of God. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013002,
+            "text": "Therefore he that resisteth the power, withstandeth the ordinance of God: and they that withstand shall receive to themselves judgment. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013003,
+            "text": "For rulers are not a terror to the good work, but to the evil. And wouldest thou have no fear of the power? do that which is good, and thou shalt have praise from the same: ",
+            "version": "ASV",
+            "clsstr": "Rom-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013004,
+            "text": "for <i>[a]</i>he is a minister of God to thee for good. But if thou do that which is evil, be afraid; for <i>[b]</i>he beareth not the sword in vain: for <i>[c]</i>he is a minister of God, an avenger for wrath to him that doeth evil. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>it</i>"
+                },
+                {
+                    "b": "Or, <i>it</i>"
+                },
+                {
+                    "c": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013005,
+            "text": "Wherefore  must needs be in subjection, not only because of the wrath, but also for conscience\u2019 sake. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013006,
+            "text": "For for this cause ye pay tribute also; for they are ministers of God\u2019s service, attending continually upon this very thing. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013007,
+            "text": "Render to all their dues: tribute to whom tribute ; custom to whom custom; fear to whom fear; honor to whom honor.",
+            "version": "ASV",
+            "clsstr": "Rom-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013008,
+            "text": "\u00b6 Owe no man anything, save to love one another: for he that loveth <i>[d]</i>his neighbor hath fulfilled the law. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-8",
+            "footnotes": [
+                {
+                    "d": "Greek <i>the other</i>. Compare [[1 Cor. 6:1]]; [[10:24]]; [[Gal. 6:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013009,
+            "text": "For this, <i>[e]</i>Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not covet, and if there be any other commandment, it is summed up in this word, namely, Thou shalt love thy neighbor as thyself. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-9",
+            "footnotes": [
+                {
+                    "e": "[[Ex. 20:13ff]]; [[Dt. 5:17ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013010,
+            "text": "Love worketh no ill to his neighbor: love therefore is the fulfilment of the law.",
+            "version": "ASV",
+            "clsstr": "Rom-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013011,
+            "text": "\u00b6 And this, knowing the season, that already it is time for you to awake out of sleep: for now is <i>[f]</i>salvation nearer to us than when we  believed. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>our salvation nearer than when etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013012,
+            "text": "The night is far spent, and the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013013,
+            "text": "Let us walk becomingly, as in the day; not in revelling and drunkenness, not in chambering and wantonness, not in strife and jealousy. ",
+            "version": "ASV",
+            "clsstr": "Rom-13-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45013014,
+            "text": "But put ye on the Lord Jesus Christ, and make not provision for the flesh, to  the lusts .",
+            "version": "ASV",
+            "clsstr": "Rom-13-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 13
+}

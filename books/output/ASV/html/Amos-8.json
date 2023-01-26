@@ -1,0 +1,146 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 30,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 9,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 30,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 30008001,
+            "text": "\u00b6 Thus the Lord Jehovah showed me: and, behold, a basket of summer fruit. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008002,
+            "text": "And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said Jehovah unto me, The end is come upon my people Israel; I will not again pass by them any more. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008003,
+            "text": "And the songs of the <i>[a]</i>temple shall be wailings in that day, saith the Lord Jehovah: the dead bodies shall be many; in every place <i>[b]</i>shall they cast them forth with silence.",
+            "version": "ASV",
+            "clsstr": "Amos-8-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>palace</i>"
+                },
+                {
+                    "b": "Or, <i>have they cast them forth: be silent!</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008004,
+            "text": "\u00b6 Hear this, O ye that would swallow up the needy, and cause the poor of the land to fail, ",
+            "version": "ASV",
+            "clsstr": "Amos-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008005,
+            "text": "saying, When will the new moon be gone, that we may sell grain? and the sabbath, that we may <i>[c]</i>set forth wheat, making the ephah small, and the shekel great, and dealing falsely with balances of deceit; ",
+            "version": "ASV",
+            "clsstr": "Amos-8-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>open</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008006,
+            "text": "that we may buy the poor for silver, and the needy for a pair of shoes, and sell the refuse of the wheat? ",
+            "version": "ASV",
+            "clsstr": "Amos-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008007,
+            "text": "Jehovah hath sworn by the excellency of Jacob, Surely I will never forget any of their works. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008008,
+            "text": "Shall not the land tremble for this, and every one mourn that dwelleth therein? yea, it shall rise up wholly like the River; and it shall be troubled and sink again, like the River of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008009,
+            "text": "And it shall come to pass in that day, saith the Lord Jehovah, that I will cause the sun to go down at noon, and I will darken the earth in the clear day. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008010,
+            "text": "And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning for an only son, and the end thereof as a bitter day.",
+            "version": "ASV",
+            "clsstr": "Amos-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008011,
+            "text": "\u00b6 Behold, the days come, saith the Lord Jehovah, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008012,
+            "text": "And they shall wander from sea to sea, and from the north even to the east; they shall run to and fro to seek the word of Jehovah, and shall not find it. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008013,
+            "text": "In that day shall the fair virgins and the young men faint for thirst. ",
+            "version": "ASV",
+            "clsstr": "Amos-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30008014,
+            "text": "They that swear by the sin of Samaria, and say, As thy god, O Dan, liveth; and, As the <i>[d]</i>way of Beer-sheba liveth; they shall fall, and never rise up again.",
+            "version": "ASV",
+            "clsstr": "Amos-8-14",
+            "footnotes": [
+                {
+                    "d": "Or, <i>manner</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Amos",
+    "chapters": 8
+}

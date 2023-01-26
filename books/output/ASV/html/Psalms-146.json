@@ -1,0 +1,115 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19146001,
+            "text": "<b>Praise to Jehovah the abundant Helper.</b>\n\u00b6   <i>[a]</i>Praise ye Jehovah.\n    Praise Jehovah, O my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146002,
+            "text": "    While I live will I praise Jehovah:\n    I will sing praises unto my God while I have any being.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146003,
+            "text": "    Put not your trust in princes,\n    Nor in the son of man, in whom there is no help.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146004,
+            "text": "  His breath goeth forth, he returneth to his earth;\n  In that very day his <i>[b]</i>thoughts perish.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>purposes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146005,
+            "text": "    Happy is he that hath the God of Jacob for his help,\n    Whose hope is in Jehovah his God:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146006,
+            "text": "    Who made heaven and earth,\n    The sea, and all that in them is;\n    Who keepeth truth for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146007,
+            "text": "    Who executeth justice for the oppressed;\n    Who giveth food to the hungry.\n    Jehovah looseth the prisoners;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146008,
+            "text": "    Jehovah openeth  the blind;\n    Jehovah raiseth up them that are bowed down;\n    Jehovah loveth the righteous;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146009,
+            "text": "  Jehovah preserveth the sojourners;\n  He upholdeth the fatherless and widow;\n  But the way of the wicked he <i>[c]</i>turneth upside down.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>maketh crooked</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19146010,
+            "text": "  Jehovah will reign for ever,\n  Thy God, O Zion, unto all generations.\n   <i>[d]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-146-10",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 146
+}

@@ -1,0 +1,319 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11013001,
+            "text": "\u00b6 And, behold, there came a man of God out of Judah by the word of Jehovah unto Beth-el: and Jeroboam was standing by the altar to burn incense. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013002,
+            "text": "And he cried against the altar by the word of Jehovah, and said, O altar, altar, thus saith Jehovah: Behold, a son shall be born unto the house of David, Josiah by name; and upon thee shall he sacrifice the priests of the high places that burn incense upon thee, and men\u2019s bones shall they burn upon thee. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013003,
+            "text": "And he gave a sign the same day, saying, This is the sign which Jehovah hath spoken: Behold, the altar shall be rent, and the ashes that are upon it shall be poured out. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013004,
+            "text": "And it came to pass, when the king heard the saying of the man of God, which he cried against the altar in Beth-el, that Jeroboam put forth his hand from the altar, saying, Lay hold on him. And his hand, which he put forth against him, dried up, so that he could not draw it back again to him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013005,
+            "text": "The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013006,
+            "text": "And the king answered and said unto the man of God, Entreat now the favor of Jehovah thy God, and pray for me, that my hand may be restored me again. And the man of God entreated Jehovah, and the king\u2019s hand was restored him again, and became as it was before. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013007,
+            "text": "And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013008,
+            "text": "And the man of God said unto the king, If thou wilt give me half thy house, I will not go in with thee, neither will I eat bread nor drink water in this place; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013009,
+            "text": "for so was it charged me by the word of Jehovah, saying, Thou shalt eat no bread, nor drink water, neither return by the way that thou camest. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013010,
+            "text": "So he went another way, and returned not by the way that he came to Beth-el.",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013011,
+            "text": "\u00b6 Now there dwelt an old prophet in Beth-el; and <i>[a]</i>one of his sons came and told him all the works that the man of God had done that day in Beth-el: the words which he had spoken unto the king, them also they told unto their father. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-11",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>his son</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013012,
+            "text": "And their father said unto them, What way went he? Now his sons had <i>[b]</i>seen what way the man of God went, that came from Judah. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-12",
+            "footnotes": [
+                {
+                    "b": "Or, as otherwise read, <i>showed him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013013,
+            "text": "And he said unto his sons, Saddle me the ass. So they saddled him the ass; and he rode thereon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013014,
+            "text": "And he went after the man of God, and found him sitting under an <i>[c]</i>oak; and he said unto him, Art thou the man of God that camest from Judah? And he said, I am. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>terebinth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013015,
+            "text": "Then he said unto him, Come home with me, and eat bread. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013016,
+            "text": "And he said, I may not return with thee, nor go in with thee; neither will I eat bread nor drink water with thee in this place: ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013017,
+            "text": "for it was said to me by the word of Jehovah, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013018,
+            "text": "And he said unto him, I also am a prophet as thou art; and an angel spake unto me by the word of Jehovah, saying, Bring him back with thee into thy house, that he may eat bread and drink water.  he lied unto him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013019,
+            "text": "So he went back with him, and did eat bread in his house, and drank water.",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013020,
+            "text": "\u00b6 And it came to pass, as they sat at the table, that the word of Jehovah came unto the prophet that brought him back; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013021,
+            "text": "and he cried unto the man of God that came from Judah, saying, Thus saith Jehovah, Forasmuch as thou hast <i>[d]</i>been disobedient unto the mouth of Jehovah, and hast not kept the commandment which Jehovah thy God commanded thee, ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-21",
+            "footnotes": [
+                {
+                    "d": "Or, <i>rebelled against the word</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013022,
+            "text": "but camest back, and hast eaten bread and drunk water in the place of which he said to thee, Eat no bread, and drink no water; thy body shall not come unto the sepulchre of thy fathers. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013023,
+            "text": "And it came to pass, after he had eaten bread, and after he had drunk, that he saddled for him the ass, , for the prophet whom he had brought back. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013024,
+            "text": "And when he was gone, a lion met him by the way, and slew him: and his body was cast in the way, and the ass stood by it; the lion also stood by the body. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013025,
+            "text": "And, behold, men passed by, and saw the body cast in the way, and the lion standing by the body; and they came and told it in the city where the old prophet dwelt.",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013026,
+            "text": "\u00b6 And when the prophet that brought him back from the way heard thereof, he said, It is the man of God, who <i>[e]</i>was disobedient unto the mouth of Jehovah: therefore Jehovah hath delivered him unto the lion, which hath torn him, and slain him, according to the word of Jehovah, which he spake unto him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-26",
+            "footnotes": [
+                {
+                    "e": "Or, <i>rebelled against the word</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013027,
+            "text": "And he spake to his sons, saying, Saddle me the ass. And they saddled it. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013028,
+            "text": "And he went and found his body cast in the way, and the ass and the lion standing by the body: the lion had not eaten the body, nor torn the ass. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013029,
+            "text": "And the prophet took up the body of the man of God, and laid it upon the ass, and brought it back; and he came to the city of the old prophet, to mourn, and to bury him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013030,
+            "text": "And he laid his body in his own grave; and they mourned over him, , Alas, my brother! ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013031,
+            "text": "And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God is buried; lay my bones beside his bones. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013032,
+            "text": "For the saying which he cried by the word of Jehovah against the altar in Beth-el, and against all the houses of the high places which are in the cities of Samaria, shall surely come to pass.",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013033,
+            "text": "\u00b6 After this thing Jeroboam returned not from his evil way, but made again from among all the people priests of the high places: <i>[f]</i>whosoever would, he consecrated him, that there might be priests of the high places. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-33",
+            "footnotes": [
+                {
+                    "f": "Or, <i>whomsoever he would</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11013034,
+            "text": "And <i>[g]</i>this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth.",
+            "version": "ASV",
+            "clsstr": "1Kgs-13-34",
+            "footnotes": [
+                {
+                    "g": "Or, <i>by this thing he became</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 13
+}

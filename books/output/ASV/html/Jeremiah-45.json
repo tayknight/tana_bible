@@ -1,0 +1,63 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24045001,
+            "text": "\u00b6 The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-45-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24045002,
+            "text": "Thus saith Jehovah, the God of Israel, <i>[a]</i>unto thee, O Baruch: ",
+            "version": "ASV",
+            "clsstr": "Jer-45-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>concerning</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24045003,
+            "text": "Thou didst say, Woe is me now! for Jehovah hath added sorrow to my pain; I am weary with my groaning, and I find no rest. ",
+            "version": "ASV",
+            "clsstr": "Jer-45-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24045004,
+            "text": "Thus shalt thou say unto him, Thus saith Jehovah: Behold, that which I have built will I break down, and that which I have planted I will pluck up; and this in the whole land. ",
+            "version": "ASV",
+            "clsstr": "Jer-45-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24045005,
+            "text": "And seekest thou great things for thyself? seek them not; for, behold, I will bring evil upon all flesh, saith Jehovah; but thy life will I give unto thee for a prey in all places whither thou goest.",
+            "version": "ASV",
+            "clsstr": "Jer-45-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 45
+}

@@ -1,0 +1,273 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28002001,
+            "text": "\u00b6 Say ye unto your brethren, <i>[a]</i>Ammi; and to your sisters, <i>[b]</i>Ruhamah.",
+            "version": "ASV",
+            "clsstr": "Hos-2-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>My people</i>."
+                },
+                {
+                    "b": "That is, <i>That hath obtained mercy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002002,
+            "text": "\u00b6 Contend with your mother, contend; for she is not my wife, neither am I her husband; and let her put away her whoredoms from her face, and her adulteries from between her breasts; ",
+            "version": "ASV",
+            "clsstr": "Hos-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002003,
+            "text": "lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002004,
+            "text": "Yea, upon her children will I have no mercy; for they are children of whoredom; ",
+            "version": "ASV",
+            "clsstr": "Hos-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002005,
+            "text": "for their mother hath played the harlot; she that conceived them hath done shamefully; for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my <i>[c]</i>drink. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>drinks</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002006,
+            "text": "Therefore, behold, I will hedge up thy way with thorns, and I will build a wall against her, that she shall not find her paths. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002007,
+            "text": "And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now.",
+            "version": "ASV",
+            "clsstr": "Hos-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002008,
+            "text": "\u00b6 For she did not know that I gave her the grain, and the new wine, and the oil, and multiplied unto her silver and gold, which they <i>[d]</i>used for Baal. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>made into the</i> image of <i>Baal</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002009,
+            "text": "Therefore will I <i>[e]</i>take back my grain in the time thereof, and my new wine in the season thereof, and will pluck away my wool and my flax which should have covered her nakedness. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>return, and take away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002010,
+            "text": "And now will I uncover her <i>[f]</i>lewdness in the sight of her lovers, and none shall deliver her out of my hand. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-10",
+            "footnotes": [
+                {
+                    "f": "Or, <i>shame</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002011,
+            "text": "I will also cause all her mirth to cease, her feasts, her new moons, and her sabbaths, and all her <i>[g]</i>solemn assemblies. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>appointed feasts</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002012,
+            "text": "And I will lay waste her vines and her fig-trees, whereof she hath said, These are my hire that my lovers have given me; and I will make them a forest, and the beasts of the field shall eat them. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002013,
+            "text": "And I will visit upon her the days of the Baalim, <i>[h]</i>unto which she burned incense, when she decked herself with her <i>[i]</i>ear-rings and her jewels, and went after her lovers, and forgat me, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Hos-2-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>wherein she burned incense to them</i>"
+                },
+                {
+                    "i": "Or, <i>nose-rings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002014,
+            "text": "\u00b6 Therefore, behold, I will allure her, and bring her into the wilderness, and speak <i>[j]</i>comfortably unto her. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-14",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>to her heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002015,
+            "text": "And I will give her her vineyards from thence, and the valley of <i>[k]</i>Achor for a door of hope; and she shall <i>[l]</i>make answer there, as in the days of her youth, and as in the day when she came up out of the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-15",
+            "footnotes": [
+                {
+                    "k": "That is, <i>Troubling</i>."
+                },
+                {
+                    "l": "Or, <i>sing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002016,
+            "text": "And it shall be at that day, saith Jehovah, that thou shalt call me <i>[m]</i>Ishi, and shalt call me no more <i>[n]</i>Baali. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-16",
+            "footnotes": [
+                {
+                    "m": "That is, <i>My husband</i>."
+                },
+                {
+                    "n": "That is, <i>My master</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002017,
+            "text": "For I will take away the names of the Baalim out of her mouth, and they shall no more be <i>[o]</i>mentioned by their name. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-17",
+            "footnotes": [
+                {
+                    "o": "Or, <i>remembered</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002018,
+            "text": "And in that day will I make a covenant for them with the beasts of the field, and with the birds of the heavens, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the land, and will make them to lie down safely. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002019,
+            "text": "And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in justice, and in lovingkindness, and in mercies. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002020,
+            "text": "I will even betroth thee unto me in faithfulness; and thou shalt know Jehovah.",
+            "version": "ASV",
+            "clsstr": "Hos-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002021,
+            "text": "\u00b6 And it shall come to pass in that day, I will answer, saith Jehovah, I will answer the heavens, and they shall answer the earth; ",
+            "version": "ASV",
+            "clsstr": "Hos-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002022,
+            "text": "and the earth shall answer the grain, and the new wine, and the oil; and they shall answer <i>[p]</i>Jezreel. ",
+            "version": "ASV",
+            "clsstr": "Hos-2-22",
+            "footnotes": [
+                {
+                    "p": "That is, <i>Whom God soweth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28002023,
+            "text": "And I will sow her unto me in the <i>[q]</i>earth; and I will have mercy upon <i>[r]</i>her that had not obtained mercy; and I will say to <i>[s]</i>them that were not my people, Thou art my people; and they shall say,  my God.",
+            "version": "ASV",
+            "clsstr": "Hos-2-23",
+            "footnotes": [
+                {
+                    "q": "Or, <i>land</i>"
+                },
+                {
+                    "r": "Hebrew <i>Lo-ruhamah</i>. See [[1:6]]."
+                },
+                {
+                    "s": "Hebrew <i>Lo-ammi</i>. See [[1:9]], [[10]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 2
+}

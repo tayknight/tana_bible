@@ -1,0 +1,541 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43008001,
+            "text": "but Jesus went unto the mount of Olives. ",
+            "version": "ASV",
+            "clsstr": "John-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008002,
+            "text": "And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them. ",
+            "version": "ASV",
+            "clsstr": "John-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008003,
+            "text": "And the scribes and the Pharisees bring a woman taken in adultery; and having set her in the midst, ",
+            "version": "ASV",
+            "clsstr": "John-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008004,
+            "text": "they say unto him, Teacher, this woman hath been taken in adultery, in the very act. ",
+            "version": "ASV",
+            "clsstr": "John-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008005,
+            "text": " <i>[a]</i>Now in the law Moses commanded us to stone such: what then sayest thou of her? ",
+            "version": "ASV",
+            "clsstr": "John-8-5",
+            "footnotes": [
+                {
+                    "a": "[[Lev. 20:10]]; [[Dt. 22:22f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008006,
+            "text": "And this they said, trying him, that they might have  to accuse him. But Jesus stooped down, and with his finger wrote on the ground. ",
+            "version": "ASV",
+            "clsstr": "John-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008007,
+            "text": "But when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her. ",
+            "version": "ASV",
+            "clsstr": "John-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008008,
+            "text": "And again he stooped down, and with his finger wrote on the ground. ",
+            "version": "ASV",
+            "clsstr": "John-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008009,
+            "text": "And they, when they heard it, went out one by one, beginning from the eldest,  unto the last: and Jesus was left alone, and the woman, where she was, in the midst. ",
+            "version": "ASV",
+            "clsstr": "John-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008010,
+            "text": "And Jesus lifted up himself, and said unto her, Woman, where are they? did no man condemn thee? ",
+            "version": "ASV",
+            "clsstr": "John-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008011,
+            "text": "And she said, No man, Lord. And Jesus said, Neither do I condemn thee: go thy way; from henceforth sin no more.]",
+            "version": "ASV",
+            "clsstr": "John-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008012,
+            "text": "\u00b6 Again therefore Jesus spake unto them, saying, I am the light of the world: he that followeth me shall not walk in the darkness, but shall have the light of life. ",
+            "version": "ASV",
+            "clsstr": "John-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008013,
+            "text": "The Pharisees therefore said unto him, Thou bearest witness of thyself; thy witness is not true. ",
+            "version": "ASV",
+            "clsstr": "John-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008014,
+            "text": "Jesus answered and said unto them, Even if I bear witness of myself, my witness is true; for I know whence I came, and whither I go; but ye know not whence I come, or whither I go. ",
+            "version": "ASV",
+            "clsstr": "John-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008015,
+            "text": "Ye judge after the flesh; I judge no man. ",
+            "version": "ASV",
+            "clsstr": "John-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008016,
+            "text": "Yea and if I judge, my judgment is true; for I am not alone, but I and the Father that sent me. ",
+            "version": "ASV",
+            "clsstr": "John-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008017,
+            "text": "Yea and in your law it is written, <i>[b]</i>that the witness of two men is true. ",
+            "version": "ASV",
+            "clsstr": "John-8-17",
+            "footnotes": [
+                {
+                    "b": "Compare [[Dt. 19:15]]; [[17:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008018,
+            "text": "I am he that beareth witness of myself, and the Father that sent me beareth witness of me. ",
+            "version": "ASV",
+            "clsstr": "John-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008019,
+            "text": "They said therefore unto him, Where is thy Father? Jesus answered, Ye know neither me, nor my Father: if ye knew me, ye would know my Father also. ",
+            "version": "ASV",
+            "clsstr": "John-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008020,
+            "text": "These words spake he in the treasury, as he taught in the temple: and no man took him; because his hour was not yet come.",
+            "version": "ASV",
+            "clsstr": "John-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008021,
+            "text": "\u00b6 He said therefore again unto them, I go away, and ye shall seek me, and shall die in your sin: whither I go, ye cannot come. ",
+            "version": "ASV",
+            "clsstr": "John-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008022,
+            "text": "The Jews therefore said, Will he kill himself, that he saith, Whither I go, ye cannot come? ",
+            "version": "ASV",
+            "clsstr": "John-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008023,
+            "text": "And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world. ",
+            "version": "ASV",
+            "clsstr": "John-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008024,
+            "text": "I said therefore unto you, that ye shall die in your sins: for except ye believe that I am , ye shall die in your sins. ",
+            "version": "ASV",
+            "clsstr": "John-8-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008025,
+            "text": "They said therefore unto him, Who art thou? Jesus said unto them, <i>[c]</i>Even that which I have also spoken unto you from the beginning. ",
+            "version": "ASV",
+            "clsstr": "John-8-25",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Altogether that which I also speak unto you</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008026,
+            "text": "I have many things to speak and to judge concerning you: howbeit he that sent me is true; and the things which I heard from him, these speak I unto the world. ",
+            "version": "ASV",
+            "clsstr": "John-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008027,
+            "text": "They perceived not that he spake to them of the Father. ",
+            "version": "ASV",
+            "clsstr": "John-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008028,
+            "text": "Jesus therefore said, When ye have lifted up the Son of man, then shall ye know that <i>[d]</i>I am , and  I do nothing of myself, but as the Father taught me, I speak these things. ",
+            "version": "ASV",
+            "clsstr": "John-8-28",
+            "footnotes": [
+                {
+                    "d": "Or, <i>I am</i> he: <i>and I do</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008029,
+            "text": "And he that sent me is with me; he hath not left me alone; for I do always the things that are pleasing to him. ",
+            "version": "ASV",
+            "clsstr": "John-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008030,
+            "text": "As he spake these things, many believed on him.",
+            "version": "ASV",
+            "clsstr": "John-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008031,
+            "text": "\u00b6 Jesus therefore said to those Jews that had believed him, If ye abide in my word,  are ye truly my disciples; ",
+            "version": "ASV",
+            "clsstr": "John-8-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008032,
+            "text": "and ye shall know the truth, and the truth shall make you free. ",
+            "version": "ASV",
+            "clsstr": "John-8-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008033,
+            "text": "They answered unto him, We are Abraham\u2019s seed, and have never yet been in bondage to any man: how sayest thou, Ye shall be made free? ",
+            "version": "ASV",
+            "clsstr": "John-8-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008034,
+            "text": "Jesus answered them, Verily, verily, I say unto you, Every one that committeth sin is the bondservant of sin. ",
+            "version": "ASV",
+            "clsstr": "John-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008035,
+            "text": "And the bondservant abideth not in the house for ever: the son abideth for ever. ",
+            "version": "ASV",
+            "clsstr": "John-8-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008036,
+            "text": "If therefore the Son shall make you free, ye shall be free indeed. ",
+            "version": "ASV",
+            "clsstr": "John-8-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008037,
+            "text": "I know that ye are Abraham\u2019s seed; yet ye seek to kill me, because my word <i>[e]</i>hath not free course in you. ",
+            "version": "ASV",
+            "clsstr": "John-8-37",
+            "footnotes": [
+                {
+                    "e": "Or, <i>hath no place in you</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008038,
+            "text": "I speak the things which I have seen with <i>[f]</i> Father: and ye also do the things which ye heard from  father. ",
+            "version": "ASV",
+            "clsstr": "John-8-38",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the Father: do ye also therefore the things which ye heard from the Father</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008039,
+            "text": "They answered and said unto him, Our father is Abraham. Jesus saith unto them, If ye <i>[g]</i>were Abraham\u2019s children, <i>[h]</i>ye would do the works of Abraham. ",
+            "version": "ASV",
+            "clsstr": "John-8-39",
+            "footnotes": [
+                {
+                    "g": "Greek <i>are</i>."
+                },
+                {
+                    "h": "Some ancient authorities read <i>ye do the works of Abraham</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008040,
+            "text": "But now ye seek to kill me, a man that hath told you the truth, which I heard from God: this did not Abraham. ",
+            "version": "ASV",
+            "clsstr": "John-8-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008041,
+            "text": "Ye do the works of your father. They said unto him, We were not born of fornication; we have one Father,  God. ",
+            "version": "ASV",
+            "clsstr": "John-8-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008042,
+            "text": "Jesus said unto them, If God were your Father, ye would love me: for I came forth and am come from God; for neither have I come of myself, but he sent me. ",
+            "version": "ASV",
+            "clsstr": "John-8-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008043,
+            "text": "Why do ye not <i>[i]</i>understand my speech?  because ye cannot hear my word. ",
+            "version": "ASV",
+            "clsstr": "John-8-43",
+            "footnotes": [
+                {
+                    "i": "Or, <i>know</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008044,
+            "text": "Ye are of father the devil, and the lusts of your father it is your will to do. He was a murderer from the beginning, and standeth not in the truth, because there is no truth in him. <i>[j]</i>When he speaketh a lie, he speaketh of his own: for he is a liar, and the father thereof. ",
+            "version": "ASV",
+            "clsstr": "John-8-44",
+            "footnotes": [
+                {
+                    "j": "Or, <i>When</i> one <i>speaketh a lie, he speaketh of his own: for his father also is a liar</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008045,
+            "text": "But because I say the truth, ye believe me not. ",
+            "version": "ASV",
+            "clsstr": "John-8-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008046,
+            "text": "Which of you convicteth me of sin? If I say truth, why do ye not believe me? ",
+            "version": "ASV",
+            "clsstr": "John-8-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008047,
+            "text": "He that is of God heareth the words of God: for this cause ye hear  not, because ye are not of God. ",
+            "version": "ASV",
+            "clsstr": "John-8-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008048,
+            "text": "The Jews answered and said unto him, Say we not well that thou art a Samaritan, and hast a demon? ",
+            "version": "ASV",
+            "clsstr": "John-8-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008049,
+            "text": "Jesus answered, I have not a demon; but I honor my Father, and ye dishonor me. ",
+            "version": "ASV",
+            "clsstr": "John-8-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008050,
+            "text": "But I seek not mine own glory: there is one that seeketh and judgeth. ",
+            "version": "ASV",
+            "clsstr": "John-8-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008051,
+            "text": "Verily, verily, I say unto you, If a man keep my word, he shall never see death. ",
+            "version": "ASV",
+            "clsstr": "John-8-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008052,
+            "text": "The Jews said unto him, Now we know that thou hast a demon. Abraham died, and the prophets; and thou sayest, If a man keep my word, he shall never taste of death. ",
+            "version": "ASV",
+            "clsstr": "John-8-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008053,
+            "text": "Art thou greater than our father Abraham, who died? and the prophets died: whom makest thou thyself? ",
+            "version": "ASV",
+            "clsstr": "John-8-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008054,
+            "text": "Jesus answered, If I glorify myself, my glory is nothing: it is my Father that glorifieth me; of whom ye say, that he is your God; ",
+            "version": "ASV",
+            "clsstr": "John-8-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008055,
+            "text": "and ye have not known him: but I know him; and if I should say, I know him not, I shall be like unto you, a liar: but I know him, and keep his word. ",
+            "version": "ASV",
+            "clsstr": "John-8-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008056,
+            "text": "Your father Abraham rejoiced <i>[k]</i>to see my day; and he saw it, and was glad. ",
+            "version": "ASV",
+            "clsstr": "John-8-56",
+            "footnotes": [
+                {
+                    "k": "Or, <i>that he should see</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008057,
+            "text": "The Jews therefore said unto him, Thou art not yet fifty years old, and hast thou seen Abraham? ",
+            "version": "ASV",
+            "clsstr": "John-8-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008058,
+            "text": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was born, I am. ",
+            "version": "ASV",
+            "clsstr": "John-8-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43008059,
+            "text": "They took up stones therefore to cast at him: but Jesus <i>[l]</i>hid himself, and went out of the temple <i>[m]</i>.",
+            "version": "ASV",
+            "clsstr": "John-8-59",
+            "footnotes": [
+                {
+                    "l": "Or, <i>was hidden, and went etc.</i>"
+                },
+                {
+                    "m": "Many ancient authorities add <i>and going through the midst of them went his way and so passed by</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 8
+}

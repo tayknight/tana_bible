@@ -1,0 +1,455 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42019001,
+            "text": "\u00b6 And he entered and was passing through Jericho. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019002,
+            "text": "And behold, a man called by name Zacchaeus; and he was a chief publican, and he was rich. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019003,
+            "text": "And he sought to see Jesus who he was; and could not for the crowd, because he was little of stature. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019004,
+            "text": "And he ran on before, and climbed up into a sycomore tree to see him: for he was to pass that way. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019005,
+            "text": "And when Jesus came to the place, he looked up, and said unto him, Zacchaeus, make haste, and come down; for to-day I must abide at thy house. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019006,
+            "text": "And he made haste, and came down, and received him joyfully. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019007,
+            "text": "And when they saw it, they all murmured, saying, He is gone in to lodge with a man that is a sinner. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019008,
+            "text": "And Zacchaeus stood, and said unto the Lord, Behold, Lord, the half of my goods I give to the poor; and if I have wrongfully exacted aught of any man, I restore fourfold. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019009,
+            "text": "And Jesus said unto him, To-day is salvation come to this house, forasmuch as he also is a son of Abraham. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019010,
+            "text": "For the Son of man came to seek and to save that which was lost.",
+            "version": "ASV",
+            "clsstr": "Luke-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019011,
+            "text": "\u00b6 And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and  they supposed that the kingdom of God was immediately to appear. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019012,
+            "text": "He said therefore, A certain nobleman went into a far country, to receive for himself a kingdom, and to return. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019013,
+            "text": "And he called ten <i>[a]</i>servants of his, and gave them ten <i>[b]</i>pounds, and said unto them, Trade ye  till I come. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-13",
+            "footnotes": [
+                {
+                    "a": "Greek <i>bondservants</i>."
+                },
+                {
+                    "b": "<i>Mina</i>, here translated a pound, is equal to one hundred drachmas. See [[15:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019014,
+            "text": "But his citizens hated him, and sent an ambassage after him, saying, We will not that this man reign over us. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019015,
+            "text": "And it came to pass, when he was come back again, having received the kingdom, that he commanded these <i>[c]</i>servants, unto whom he had given the money, to be called to him, that he might know what they had gained by trading. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-15",
+            "footnotes": [
+                {
+                    "c": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019016,
+            "text": "And the first came before him, saying, Lord, thy pound hath made ten pounds more. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019017,
+            "text": "And he said unto him, Well done, thou good <i>[d]</i>servant: because thou wast found faithful in a very little, have thou authority over ten cities. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-17",
+            "footnotes": [
+                {
+                    "d": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019018,
+            "text": "And the second came, saying, Thy pound, Lord, hath made five pounds. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019019,
+            "text": "And he said unto him also, Be thou also over five cities. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019020,
+            "text": "And <i>[e]</i>another came, saying, Lord, behold,  thy pound, which I kept laid up in a napkin: ",
+            "version": "ASV",
+            "clsstr": "Luke-19-20",
+            "footnotes": [
+                {
+                    "e": "Greek <i>the other</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019021,
+            "text": "for I feared thee, because thou art an austere man: thou takest up that which thou layedst not down, and reapest that which thou didst not sow. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019022,
+            "text": "He saith unto him, Out of thine own mouth will I judge thee, thou wicked <i>[f]</i>servant. Thou knewest that I am an austere man, taking up that which I laid not down, and reaping that which I did not sow; ",
+            "version": "ASV",
+            "clsstr": "Luke-19-22",
+            "footnotes": [
+                {
+                    "f": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019023,
+            "text": "then wherefore gavest thou not my money into the bank, and <i>[g]</i>I at my coming should have required it with interest? ",
+            "version": "ASV",
+            "clsstr": "Luke-19-23",
+            "footnotes": [
+                {
+                    "g": "Or, <i>I should have gone and required</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019024,
+            "text": "And he said unto them that stood by, Take away from him the pound, and give it unto him that hath the ten pounds. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019025,
+            "text": "And they said unto him, Lord, he hath ten pounds. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019026,
+            "text": "I say unto you, that unto every one that hath shall be given; but from him that hath not, even that which he hath shall be taken away from him. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019027,
+            "text": "But these mine enemies, that would not that I should reign over them, bring hither, and slay them before me.",
+            "version": "ASV",
+            "clsstr": "Luke-19-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019028,
+            "text": "\u00b6 And when he had thus spoken, he went on before, going up to Jerusalem.",
+            "version": "ASV",
+            "clsstr": "Luke-19-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019029,
+            "text": "\u00b6 And it came to pass, when he drew nigh unto Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples, ",
+            "version": "ASV",
+            "clsstr": "Luke-19-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019030,
+            "text": "saying, Go your way into the village over against ; in which as ye enter ye shall find a colt tied, whereon no man ever yet sat: loose him, and bring him. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019031,
+            "text": "And if any one ask you, Why do ye loose him? thus shall ye say, The Lord hath need of him. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019032,
+            "text": "And they that were sent went away, and found even as he had said unto them. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019033,
+            "text": "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt? ",
+            "version": "ASV",
+            "clsstr": "Luke-19-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019034,
+            "text": "And they said, The Lord hath need of him. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019035,
+            "text": "And they brought him to Jesus: and they threw their garments upon the colt, and set Jesus thereon. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019036,
+            "text": "And as he went, they spread their garments in the way. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019037,
+            "text": "And as he was now drawing nigh, at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the <i>[h]</i>mighty works which they had seen; ",
+            "version": "ASV",
+            "clsstr": "Luke-19-37",
+            "footnotes": [
+                {
+                    "h": "Greek <i>powers</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019038,
+            "text": "saying, Blessed  the King that cometh in the name of the Lord: peace in heaven, and glory in the highest. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019039,
+            "text": "And some of the Pharisees from the multitude said unto him, Teacher, rebuke thy disciples. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019040,
+            "text": "And he answered and said, I tell you that, if these shall hold their peace, the stones will cry out.",
+            "version": "ASV",
+            "clsstr": "Luke-19-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019041,
+            "text": "\u00b6 And when he drew nigh, he saw the city and wept over it, ",
+            "version": "ASV",
+            "clsstr": "Luke-19-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019042,
+            "text": "saying, <i>[i]</i>If thou hadst known in <i>[j]</i>this day, even thou, the things which belong unto <i>[k]</i>peace! but now they are hid from thine eyes. ",
+            "version": "ASV",
+            "clsstr": "Luke-19-42",
+            "footnotes": [
+                {
+                    "i": "Or, <i>O that thou hadst known</i>"
+                },
+                {
+                    "j": "Some ancient authorities read <i>this thy day</i>."
+                },
+                {
+                    "k": "Some ancient authorities read <i>thy peace</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019043,
+            "text": "For the days shall come upon thee, when thine enemies shall cast up a <i>[l]</i>bank about thee, and compass thee round, and keep thee in on every side, ",
+            "version": "ASV",
+            "clsstr": "Luke-19-43",
+            "footnotes": [
+                {
+                    "l": "Greek <i>palisade</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019044,
+            "text": "and shall dash thee to the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.",
+            "version": "ASV",
+            "clsstr": "Luke-19-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019045,
+            "text": "\u00b6 And he entered into the temple, and began to cast out them that sold, ",
+            "version": "ASV",
+            "clsstr": "Luke-19-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019046,
+            "text": "saying unto them, It is written, <i>[m]</i>And my house shall be a house of prayer: but <i>[n]</i>ye have made it a den of robbers.",
+            "version": "ASV",
+            "clsstr": "Luke-19-46",
+            "footnotes": [
+                {
+                    "m": "[[Isa. 56:7]]."
+                },
+                {
+                    "n": "[[Jer. 7:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019047,
+            "text": "\u00b6 And he was teaching daily in the temple. But the chief priests and the scribes and the principal men of the people sought to destroy him: ",
+            "version": "ASV",
+            "clsstr": "Luke-19-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42019048,
+            "text": "and they could not find what they might do; for the people all hung upon him, listening.",
+            "version": "ASV",
+            "clsstr": "Luke-19-48",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 19
+}

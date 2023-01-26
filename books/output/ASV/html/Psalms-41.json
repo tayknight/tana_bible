@@ -1,0 +1,142 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19041001,
+            "text": "<b>The psalmist in sickness complains of enemies and false friends.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6   Blessed is he that considereth <i>[a]</i>the poor:\n    Jehovah will deliver him in the day of evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the weak</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041002,
+            "text": "  Jehovah will preserve him, and keep him alive,\n  And he shall be blessed <i>[b]</i>upon the earth;\n    And deliver not thou him unto the will of his enemies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in the land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041003,
+            "text": "  Jehovah will support him upon the couch of languishing:\n  Thou <i>[c]</i>makest all his bed in his sickness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>turnest</i>, or, <i>changest</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041004,
+            "text": "    I said, O Jehovah, have mercy upon me:\n    Heal my soul; for I have sinned against thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041005,
+            "text": "    Mine enemies speak evil against me, ,\n    When will he die, and his name perish?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041006,
+            "text": "    And if he come to see , he speaketh falsehood;\n    His heart gathereth iniquity to itself:\n    When he goeth abroad, he telleth it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041007,
+            "text": "    All that hate me whisper together against me;\n    Against me do they devise my hurt.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041008,
+            "text": "  <i>[d]</i>An evil disease, , <i>[e]</i>cleaveth fast unto him;\n    And now that he lieth he shall rise up no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Some wicked thing</i>"
+                },
+                {
+                    "e": "Or, <i>is poured out upon him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041009,
+            "text": "    Yea, mine own familiar friend, in whom I trusted,\n    Who did eat of my bread,\n    Hath lifted up his heel against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041010,
+            "text": "    But thou, O Jehovah, have mercy upon me, and raise me up,\n    That I may requite them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041011,
+            "text": "    By this I know that thou delightest in me,\n    Because mine enemy doth not triumph over me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041012,
+            "text": "    And as for me, thou upholdest me in mine integrity,\n    And settest me before thy face for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19041013,
+            "text": "\u00b6     Blessed be Jehovah, the God of Israel,\n    From everlasting and to everlasting.\n    Amen, and Amen.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-41-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 41
+}

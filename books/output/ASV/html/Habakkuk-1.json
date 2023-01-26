@@ -1,0 +1,201 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 35,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 19,
+            "end_book": null
+        }
+    ],
+    "book": 35,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 35001001,
+            "text": "\u00b6 The <i>[a]</i>burden which Habakkuk the prophet did see.",
+            "version": "ASV",
+            "clsstr": "Hab-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001002,
+            "text": "\u00b6 O Jehovah, how long shall I cry, and thou wilt not hear? I cry out unto thee of violence, and thou wilt not save. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001003,
+            "text": "Why dost thou show me iniquity, and <i>[b]</i>look upon perverseness? for destruction and violence are before me; and there is strife, and contention riseth up. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>cause</i> me <i>to look</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001004,
+            "text": "Therefore the law is slacked, and justice <i>[c]</i>doth never go forth; for the wicked doth compass about the righteous; therefore justice goeth forth perverted.",
+            "version": "ASV",
+            "clsstr": "Hab-1-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>goeth not forth unto victory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001005,
+            "text": "\u00b6 Behold ye among the nations, and look, and wonder marvellously; for <i>[d]</i>I am working a work in your days, which ye will not believe though it be told you. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>one worketh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001006,
+            "text": "For, lo, I raise up the Chaldeans, that bitter and hasty nation, that march through the breadth of the earth, to possess dwelling-places that are not theirs. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001007,
+            "text": " <i>[e]</i>They are terrible and dreadful; their judgment and their dignity proceed from themselves. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-7",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>He</i>: and so in verses [[8]], [[9]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001008,
+            "text": "Their horses also are swifter than leopards, and are more fierce than the evening wolves; and their horsemen <i>[f]</i>press proudly on: yea, their horsemen come from far; they fly as an eagle that hasteth to devour. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-8",
+            "footnotes": [
+                {
+                    "f": "Or, <i>spread themselves</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001009,
+            "text": "They come all of them for violence; <i>[g]</i>the set of their faces is <i>[h]</i>forwards; and they gather captives as the sand. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-9",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>the eagerness</i> (or, <i>assembling</i>) <i>of their faces is etc.</i>"
+                },
+                {
+                    "h": "Or, <i>towards the east</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001010,
+            "text": " <i>[i]</i>Yea, he scoffeth at kings, and princes are a derision unto him; he derideth every stronghold; for he heapeth up dust, and taketh it. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-10",
+            "footnotes": [
+                {
+                    "i": "Or, <i>And they scoff etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001011,
+            "text": " <i>[j]</i>Then shall he sweep by a wind, and shall <i>[k]</i>pass over, and be guilty,  he whose might is his god.",
+            "version": "ASV",
+            "clsstr": "Hab-1-11",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Then shall the wind sweep by, and he shall pass away</i>"
+                },
+                {
+                    "k": "Or, <i>transgress</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001012,
+            "text": "\u00b6 Art not thou from everlasting, O Jehovah my God, my Holy One? we shall not die. O Jehovah, thou hast ordained him for judgment; and thou, O Rock, hast established him for correction. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001013,
+            "text": "Thou that art of purer eyes than to behold evil, and that canst not look on perverseness, wherefore lookest thou upon them that deal treacherously, and holdest thy peace when the wicked swalloweth up the man that is more righteous than he; ",
+            "version": "ASV",
+            "clsstr": "Hab-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001014,
+            "text": "and makest men as the fishes of the sea, as the creeping things, that have no ruler over them? ",
+            "version": "ASV",
+            "clsstr": "Hab-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001015,
+            "text": "He taketh up all of them with the angle, he catcheth them in his net, and gathereth them in his drag: therefore he rejoiceth and is glad. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001016,
+            "text": "Therefore he sacrificeth unto his net, and burneth incense unto his drag; because by them his portion is fat, and his food <i>[l]</i>plenteous. ",
+            "version": "ASV",
+            "clsstr": "Hab-1-16",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>fat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 35001017,
+            "text": "Shall he therefore empty his net, and spare not to slay the nations continually?",
+            "version": "ASV",
+            "clsstr": "Hab-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Habakkuk",
+    "chapters": 1
+}

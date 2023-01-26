@@ -1,0 +1,184 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 56,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 56,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 56001001,
+            "text": "\u00b6 Paul, a <i>[a]</i>servant of God, and an apostle of Jesus Christ, according to the faith of God\u2019s elect, and the knowledge of the truth which is according to godliness, ",
+            "version": "ASV",
+            "clsstr": "Titus-1-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001002,
+            "text": "in hope of eternal life, which God, who cannot lie, promised <i>[b]</i>before times eternal; ",
+            "version": "ASV",
+            "clsstr": "Titus-1-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>long ages ago</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001003,
+            "text": "but in <i>[c]</i>his own seasons manifested his word in the <i>[d]</i>message, wherewith I was intrusted according to the commandment of God our Saviour; ",
+            "version": "ASV",
+            "clsstr": "Titus-1-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>its</i>"
+                },
+                {
+                    "d": "Or, <i>proclamation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001004,
+            "text": "to Titus, my true child after a common faith: Grace and peace from God the Father and Christ Jesus our Saviour.",
+            "version": "ASV",
+            "clsstr": "Titus-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001005,
+            "text": "\u00b6 For this cause left I thee in Crete, that thou shouldest set in order the things that were wanting, and appoint elders in every city, as I gave thee charge; ",
+            "version": "ASV",
+            "clsstr": "Titus-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001006,
+            "text": "if any man is blameless, the husband of one wife, having children that believe, who are not accused of riot or unruly. ",
+            "version": "ASV",
+            "clsstr": "Titus-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001007,
+            "text": "For the <i>[e]</i>bishop must be blameless, as God\u2019s steward; not self-willed, not soon angry, <i>[f]</i>no brawler, no striker, not greedy of filthy lucre; ",
+            "version": "ASV",
+            "clsstr": "Titus-1-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>overseer</i>"
+                },
+                {
+                    "f": "Or, <i>not quarrelsome over wine</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001008,
+            "text": "but given to hospitality, a lover of good, sober-minded, just, holy, self-controlled; ",
+            "version": "ASV",
+            "clsstr": "Titus-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001009,
+            "text": "holding to the faithful word which is according to the teaching, that he may be able both to exhort in the <i>[g]</i>sound <i>[h]</i>doctrine, and to convict the gainsayers.",
+            "version": "ASV",
+            "clsstr": "Titus-1-9",
+            "footnotes": [
+                {
+                    "g": "Greek <i>healthful</i>."
+                },
+                {
+                    "h": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001010,
+            "text": "\u00b6 For there are many unruly men, vain talkers and deceivers, specially they of the circumcision, ",
+            "version": "ASV",
+            "clsstr": "Titus-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001011,
+            "text": "whose mouths must be stopped; men who overthrow whole houses, teaching things which they ought not, for filthy lucre\u2019s sake. ",
+            "version": "ASV",
+            "clsstr": "Titus-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001012,
+            "text": "One of themselves, a prophet of their own, said,\u00b6   Cretans are always liars, evil beasts, idle <i>[i]</i>gluttons.\n    ",
+            "version": "ASV",
+            "clsstr": "Titus-1-12",
+            "footnotes": [
+                {
+                    "i": "Greek <i>bellies</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001013,
+            "text": "\u00b6 This testimony is true. For which cause reprove them sharply, that they may be <i>[j]</i>sound in the faith, ",
+            "version": "ASV",
+            "clsstr": "Titus-1-13",
+            "footnotes": [
+                {
+                    "j": "Greek <i>healthy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001014,
+            "text": "not giving heed to Jewish fables, and commandments of men who turn away from the truth. ",
+            "version": "ASV",
+            "clsstr": "Titus-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001015,
+            "text": "To the pure all things are pure: but to them that are defiled and unbelieving nothing is pure; but both their mind and their conscience are defiled. ",
+            "version": "ASV",
+            "clsstr": "Titus-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56001016,
+            "text": "They profess that they know God; but by their works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
+            "version": "ASV",
+            "clsstr": "Titus-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Titus",
+    "chapters": 1
+}

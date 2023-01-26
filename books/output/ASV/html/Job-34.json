@@ -1,0 +1,369 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18034001,
+            "text": "\u00b6 Moreover Elihu answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-34-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034002,
+            "text": "\u00b6     Hear my words, ye wise men;\n    And give ear unto me, ye that have knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034003,
+            "text": "    For the ear trieth words,\n    As the palate tasteth food.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034004,
+            "text": "    Let us choose for us that which is right:\n    Let us know among ourselves what is good.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034005,
+            "text": "    For Job hath said, I am righteous,\n    And God hath taken away my right:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034006,
+            "text": "  <i>[a]</i>Notwithstanding my right I am a liar;\n   <i>[b]</i>My wound is incurable,  without transgression.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Should I lie against my right?</i>"
+                },
+                {
+                    "b": "Hebrew <i>Mine arrow</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034007,
+            "text": "    What man is like Job,\n    Who drinketh up scoffing like water,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034008,
+            "text": "    Who goeth in company with the workers of iniquity,\n    And walketh with wicked men?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034009,
+            "text": "  For he hath said, It profiteth a man nothing\n  That he should <i>[c]</i>delight himself with God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>consent with</i>. See [[Ps. 50:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034010,
+            "text": "\u00b6     Therefore hearken unto me, ye men of understanding:\n    Far be it from God, that he should do wickedness,\n    And from the Almighty, that he should commit iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034011,
+            "text": "    For the work of a man will he render unto him,\n    And cause every man to find according to his ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034012,
+            "text": "    Yea, of a surety, God will not do wickedly,\n    Neither will the Almighty pervert justice.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034013,
+            "text": "  Who gave him a charge over the earth?\n  Or who hath <i>[d]</i>disposed the whole world?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>laid</i> upon him"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034014,
+            "text": "  <i>[e]</i>If he set his heart upon <i>[f]</i>himself,\n     he gather unto himself his spirit and his breath;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-14",
+            "footnotes": [
+                {
+                    "e": "According to another reading, <i>If he cause his heart to return unto himself</i>."
+                },
+                {
+                    "f": "Or, <i>man</i>. Hebrew <i>him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034015,
+            "text": "    All flesh shall perish together,\n    And man shall turn again unto dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034016,
+            "text": "\u00b6   <i>[g]</i>If now  understanding, hear this:\n    Hearken to the voice of my words.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Only understand</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034017,
+            "text": "    Shall even one that hateth justice govern?\n    And wilt thou condemn him that is righteous  mighty?\u2014\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034018,
+            "text": "   <i>[h]</i> that saith to a king,  vile,\n     to nobles,  wicked;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-18",
+            "footnotes": [
+                {
+                    "h": "The Hebrew as pointed reads <i>Is it</i> fit <i>to say to a king</i>, Thou art <i>vile?</i> Or, <i>to nobles</i>, Ye are <i>wicked?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034019,
+            "text": "    That respecteth not the persons of princes,\n    Nor regardeth the rich more than the poor;\n    For they all are the work of his hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034020,
+            "text": "  In a moment they die, <i>[i]</i>even at midnight;\n    The people are shaken and pass away,\n    And the mighty are taken away without hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-20",
+            "footnotes": [
+                {
+                    "i": "Or, <i>and at midnight the people etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034021,
+            "text": "\u00b6     For his eyes are upon the ways of a man,\n    And he seeth all his goings.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034022,
+            "text": "\u00b6     There is no darkness, nor thick gloom,\n    Where the workers of iniquity may hide themselves.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034023,
+            "text": "    For he needeth not further to consider a man,\n    That he should go before God in judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034024,
+            "text": "  He breaketh in pieces mighty men <i>[j]</i> past finding out,\n    And setteth others in their stead.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-24",
+            "footnotes": [
+                {
+                    "j": "Or, <i>without inquisition</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034025,
+            "text": "  Therefore he taketh knowledge of their works;\n  And he overturneth them in the night, so that they are <i>[k]</i>destroyed.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-25",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>crushed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034026,
+            "text": "  He striketh them as wicked men\n   <i>[l]</i>In the open sight of others;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-26",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>In the place of beholders</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034027,
+            "text": "    Because they turned aside from following him,\n    And would not have regard in any of his ways:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034028,
+            "text": "   <i>[m]</i>So that they caused the cry of the poor to come unto him,\n    And he heard the cry of the afflicted.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-28",
+            "footnotes": [
+                {
+                    "m": "Or, <i>That they might cause\u00a0.\u00a0.\u00a0. And that he might hear</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034029,
+            "text": "    When he giveth quietness, who then can condemn?\n    And when he hideth his face, who then can behold him?\n    Alike whether  unto a nation, or unto a man:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034030,
+            "text": "    That the godless man reign not,\n    That there be none to ensnare the people.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034031,
+            "text": "\u00b6   For hath any said unto God,\n  I have borne , <i>[n]</i>I will not offend :\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-31",
+            "footnotes": [
+                {
+                    "n": "Or, <i>though I offend not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034032,
+            "text": "    That which I see not teach thou me:\n    If I have done iniquity, I will do it no more?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034033,
+            "text": "    Shall his recompense be as thou wilt, that thou refusest it?\n    For thou must choose, and not I:\n    Therefore speak what thou knowest.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034034,
+            "text": "    Men of understanding will say unto me,\n    Yea, every wise man that heareth me:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034035,
+            "text": "    Job speaketh without knowledge,\n    And his words are without wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034036,
+            "text": "    Would that Job were tried unto the end,\n    Because of his answering like wicked men.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18034037,
+            "text": "    For he addeth rebellion unto his sin;\n    He clappeth his hands among us,\n    And multiplieth his words against God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-34-37",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 34
+}

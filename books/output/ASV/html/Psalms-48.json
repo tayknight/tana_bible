@@ -1,0 +1,151 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19048001,
+            "text": "<b>The beauty and glory of Zion.</b>\n\u00b6 A Song; a Psalm of the sons of Korah.\u00b6     Great is Jehovah, and greatly to be praised,\n    In the city of our God, in his holy mountain.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048002,
+            "text": "    Beautiful in elevation, the joy of the whole earth,\n    Is mount Zion,  the sides of the north,\n    The city of the great King.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048003,
+            "text": "  God hath made himself known in her palaces for a <i>[a]</i>refuge.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>high tower</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048004,
+            "text": "  For, lo, the kings assembled themselves,\n  They <i>[b]</i>passed by together.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>passed away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048005,
+            "text": "  They saw it, then were they amazed;\n  They were dismayed, they <i>[c]</i>hasted away.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>were stricken with terror</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048006,
+            "text": "    Trembling took hold of them there,\n    Pain, as of a woman in travail.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048007,
+            "text": "   <i>[d]</i>With the east wind\n    Thou breakest the ships of Tarshish.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-7",
+            "footnotes": [
+                {
+                    "d": "Or, As <i>with the east wind that breaketh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048008,
+            "text": "    As we have heard, so have we seen\n    In the city of Jehovah of hosts, in the city of our God:\n    God will establish it for ever. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048009,
+            "text": "    We have thought on thy lovingkindness, O God,\n    In the midst of thy temple.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048010,
+            "text": "    As is thy name, O God,\n    So is thy praise unto the ends of the earth:\n    Thy right hand is full of righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048011,
+            "text": "    Let mount Zion be glad,\n    Let the daughters of Judah rejoice,\n    Because of thy judgments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048012,
+            "text": "    Walk about Zion, and go round about her;\n    Number the towers thereof;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048013,
+            "text": "  Mark ye well her bulwarks;\n   <i>[e]</i>Consider her palaces:\n    That ye may tell it to the generation following.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-13",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Traverse</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19048014,
+            "text": "    For this God is our God for ever and ever:\n    He will be our guide  unto death.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-48-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 48
+}

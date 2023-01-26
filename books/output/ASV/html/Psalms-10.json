@@ -1,0 +1,221 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19010001,
+            "text": "<b>A prayer for the overthrow of the wicked.</b>\n\u00b6     Why standest thou afar off, O Jehovah?\n    Why hidest thou thyself in times of trouble?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010002,
+            "text": " In the pride of the wicked <i>[a]</i>the poor <i>[b]</i>is hotly pursued;\n   <i>[c]</i>Let them be taken in the devices that they have conceived.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>he doth hotly pursue the poor</i>"
+                },
+                {
+                    "b": "Hebrew <i>is set on fire</i>."
+                },
+                {
+                    "c": "Or, <i>They are taken</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010003,
+            "text": " For the wicked boasteth of his heart\u2019s desire,\n And <i>[d]</i>the covetous renounceth, , <i>[e]</i>contemneth Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>blesseth the covetous</i>, but <i>contemneth etc.</i>"
+                },
+                {
+                    "e": "Or, <i>revileth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010004,
+            "text": "    The wicked, in the pride of his countenance, , He will not require .\n    All his thoughts are, There is no God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010005,
+            "text": "  His ways are <i>[f]</i>firm at all times;\n    Thy judgments are far above out of his sight:\n    As for all his adversaries, he puffeth at them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>grievous</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010006,
+            "text": "    He saith in his heart, I shall not be moved;\n    To all generations I shall not be in adversity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010007,
+            "text": "  His mouth is full of cursing and deceit and <i>[g]</i>oppression:\n    Under his tongue is mischief and iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-7",
+            "footnotes": [
+                {
+                    "g": "Or, <i>fraud</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010008,
+            "text": "  He sitteth in the lurking-places of the villages;\n  In the secret places doth he murder the innocent;\n  His eyes are privily set against the <i>[h]</i>helpless.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-8",
+            "footnotes": [
+                {
+                    "h": "Or, <i>hapless</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010009,
+            "text": "    He lurketh in secret as a lion in his covert;\n    He lieth in wait to catch the poor:\n    He doth catch the poor, when he draweth him in his net.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010010,
+            "text": "  <i>[i]</i>He croucheth, he boweth down,\n  And the <i>[j]</i>helpless fall by his strong ones.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-10",
+            "footnotes": [
+                {
+                    "i": "Another reading is, <i>And being crushed</i>."
+                },
+                {
+                    "j": "Or, <i>hapless</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010011,
+            "text": "    He saith in his heart: God hath forgotten;\n    He hideth his face, he will never see it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010012,
+            "text": "  Arise, O Jehovah; O God, lift up thy hand:\n  Forget not the <i>[k]</i>poor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-12",
+            "footnotes": [
+                {
+                    "k": "Or, <i>meek</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010013,
+            "text": "    Wherefore doth the wicked contemn God,\n    And say in his heart, Thou wilt not require ?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010014,
+            "text": " Thou hast seen ; for thou beholdest <i>[l]</i>mischief and spite, <i>[m]</i>to requite it with thy hand:\n  The <i>[n]</i>helpless committeth  unto thee;\n    Thou hast been the helper of the fatherless.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-14",
+            "footnotes": [
+                {
+                    "l": "Or, <i>travail and grief</i>"
+                },
+                {
+                    "m": "Or, <i>to take it into thy hand</i>"
+                },
+                {
+                    "n": "Or, <i>hapless</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010015,
+            "text": "    Break thou the arm of the wicked;\n    And as for the evil man, seek out his wickedness till thou find none.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010016,
+            "text": "  Jehovah is King for ever and ever:\n  The <i>[o]</i>nations are perished out of his land.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-16",
+            "footnotes": [
+                {
+                    "o": "Or, <i>heathen</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010017,
+            "text": "  Jehovah, thou hast heard the desire of the meek:\n  Thou wilt <i>[p]</i>prepare their heart, thou wilt cause thine ear to hear;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-17",
+            "footnotes": [
+                {
+                    "p": "Or, <i>establish</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19010018,
+            "text": "    To judge the fatherless and the oppressed,\n    That man who is of the earth may be terrible no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 10
+}

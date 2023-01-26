@@ -1,0 +1,326 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14018001,
+            "text": "\u00b6 Now Jehoshaphat had riches and honor in abundance; and he joined affinity with Ahab. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018002,
+            "text": "And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that were with him, and moved him to go up  to Ramoth-gilead. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018003,
+            "text": "And Ahab king of Israel said unto Jehoshaphat king of Judah, Wilt thou go with me to Ramoth-gilead? And he answered him, I am as thou art, and my people as thy people; and  with thee in the war.",
+            "version": "ASV",
+            "clsstr": "2Chr-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018004,
+            "text": "\u00b6 And Jehoshaphat said unto the king of Israel, Inquire <i>[a]</i>first, I pray thee, for the word of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>to-day</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018005,
+            "text": "Then the king of Israel gathered the prophets together, four hundred men, and said unto them, Shall we go to Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for God will deliver it into the hand of the king. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018006,
+            "text": "But Jehoshaphat said, Is there not here a prophet of Jehovah besides, that we may inquire of him? ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018007,
+            "text": "And the king of Israel said unto Jehoshaphat, There is yet one man by whom we may inquire of Jehovah: but I hate him; for he never prophesieth good concerning me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018008,
+            "text": "Then the king of Israel called an <i>[b]</i>officer, and said, Fetch quickly Micaiah the son of Imla. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>eunuch</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018009,
+            "text": "Now the king of Israel and Jehoshaphat the king of Judah sat each on his throne, arrayed in their robes, and they were sitting in <i>[c]</i>an open place at the entrance of the gate of Samaria; and all the prophets were prophesying before them. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-9",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>a threshing-floor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018010,
+            "text": "And Zedekiah the son of Chenaanah made him horns of iron and said, Thus saith Jehovah, With these shalt thou push the Syrians, until they be consumed. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018011,
+            "text": "And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper; for Jehovah will deliver it into the hand of the king.",
+            "version": "ASV",
+            "clsstr": "2Chr-18-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018012,
+            "text": "\u00b6 And the messenger that went to call Micaiah spake to him, saying, Behold, the words of the prophets  good to the king with one mouth: let thy word therefore, I pray thee, be like one of theirs, and speak thou good. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018013,
+            "text": "And Micaiah said, As Jehovah liveth, what my God saith, that will I speak. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018014,
+            "text": "And when he was come to the king, the king said unto him, <i>[d]</i>Micaiah, shall we go to Ramoth-gilead to battle, or shall I forbear? And he said, Go ye up, and prosper; and they shall be delivered into your hand. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-14",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>Micah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018015,
+            "text": "And the king said to him, How many times shall I adjure thee that thou speak unto me nothing but the truth in the name of Jehovah? ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018016,
+            "text": "And he said, I saw all Israel scattered upon the mountains, as sheep that have no shepherd: and Jehovah said, These have no master; let them return every man to his house in peace. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018017,
+            "text": "And the king of Israel said to Jehoshaphat, Did I not tell thee that he would not prophesy good concerning me, but evil? ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018018,
+            "text": "And  said, Therefore hear ye the word of Jehovah: I saw Jehovah sitting upon his throne, and all the host of heaven standing on his right hand and on his left. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018019,
+            "text": "And Jehovah said, Who shall <i>[e]</i>entice Ahab king of Israel, that he may go up and fall at Ramoth-gilead? And one spake saying after this manner, and another saying after that manner. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>deceive</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018020,
+            "text": "And there came forth <i>[f]</i>a spirit, and stood before Jehovah, and said, I will entice him. And Jehovah said unto him, Wherewith? ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-20",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>the spirit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018021,
+            "text": "And he said, I will go forth, and will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt entice him, and shalt prevail also: go forth, and do so. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018022,
+            "text": "Now therefore, behold, Jehovah hath put a lying spirit in the mouth of these thy prophets; and Jehovah hath spoken evil concerning thee.",
+            "version": "ASV",
+            "clsstr": "2Chr-18-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018023,
+            "text": "\u00b6 Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of Jehovah from me to speak unto thee? ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018024,
+            "text": "And Micaiah said, Behold, thou shalt see on that day, when thou shalt go <i>[g]</i>into an inner chamber to hide thyself. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-24",
+            "footnotes": [
+                {
+                    "g": "Or, <i>from chamber to chamber</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018025,
+            "text": "And the king of Israel said, Take ye Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king\u2019s son; ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018026,
+            "text": "and say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018027,
+            "text": "And Micaiah said, If thou return at all in peace, Jehovah hath not spoken by me. And he said, Hear, ye peoples, all of you.",
+            "version": "ASV",
+            "clsstr": "2Chr-18-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018028,
+            "text": "\u00b6 So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018029,
+            "text": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and go into the battle; but put thou on thy robes. So the king of Israel disguised himself; and they went into the battle. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018030,
+            "text": "Now the king of Syria had commanded the captains of his chariots, saying, Fight neither with small nor great, save only with the king of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018031,
+            "text": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they turned about to fight against him: but Jehoshaphat cried out, and Jehovah helped him; and God moved them  from him. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018032,
+            "text": "And it came to pass, when the captains of the chariots saw that it was not the king of Israel, that they turned back from pursuing him. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018033,
+            "text": "And a certain man drew his bow <i>[h]</i>at a venture, and smote the king of Israel between <i>[i]</i>the joints of the armor: wherefore he said to the driver of the chariot, Turn thy hand, and carry me out of the host; for I am sore wounded. ",
+            "version": "ASV",
+            "clsstr": "2Chr-18-33",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>in his simplicity</i>."
+                },
+                {
+                    "i": "Or, <i>the lower armor and the breastplate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14018034,
+            "text": "And the battle increased that day: howbeit the king of Israel stayed himself up in his chariot against the Syrians until the even; and about the time of the going down of the sun he died.",
+            "version": "ASV",
+            "clsstr": "2Chr-18-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 18
+}

@@ -1,0 +1,307 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13023001,
+            "text": "\u00b6 Now David was old and full of days; and he made Solomon his son king over Israel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023002,
+            "text": "And he gathered together all the princes of Israel, with the priests and the Levites. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023003,
+            "text": "And the Levites were numbered from thirty years old and upward: and their number by their polls, man by man, was thirty and eight thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023004,
+            "text": "Of these, twenty and four thousand were to oversee the work of the house of Jehovah; and six thousand were officers and judges; ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023005,
+            "text": "and four thousand were doorkeepers; and four thousand praised Jehovah with the instruments which I made, , to praise therewith. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023006,
+            "text": "And David divided them into <i>[a]</i>courses according to the sons of Levi: Gershon, Kohath, and Merari.",
+            "version": "ASV",
+            "clsstr": "1Chr-23-6",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>divisions</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023007,
+            "text": "\u00b6 Of the Gershonites: <i>[b]</i>Ladan and Shimei. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-7",
+            "footnotes": [
+                {
+                    "b": "In [[6:17]], <i>Libni</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023008,
+            "text": "The sons of Ladan: Jehiel the chief, and Zetham, and Joel, three. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023009,
+            "text": "The sons of Shimei: Shelomoth, and Haziel, and Haran, three. These were the heads of the fathers\u2019  of Ladan. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023010,
+            "text": "And the sons of Shimei: Jahath, <i>[c]</i>Zina, and Jeush, and Beriah. These four were the sons of Shimei. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-10",
+            "footnotes": [
+                {
+                    "c": "In [[verse 11]], <i>Zizah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023011,
+            "text": "And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they became a fathers\u2019 house in one reckoning.",
+            "version": "ASV",
+            "clsstr": "1Chr-23-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023012,
+            "text": "\u00b6 The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, four. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023013,
+            "text": "The sons of Amram: Aaron and Moses; and Aaron was separated, <i>[d]</i>that he should sanctify the most holy things, he and his sons, for ever, to burn incense before Jehovah, to minister unto him, and to bless in his name, for ever. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>to sanctify as most holy him etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023014,
+            "text": "But as for Moses the man of God, his sons were named among the tribe of Levi. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023015,
+            "text": "The sons of Moses: Gershom and Eliezer. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023016,
+            "text": "The sons of Gershom: <i>[e]</i>Shebuel the chief. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-16",
+            "footnotes": [
+                {
+                    "e": "In [[24:20]], <i>Shubael</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023017,
+            "text": "And the sons of Eliezer were: Rehabiah the chief; and Eliezer had no other sons; but the sons of Rehabiah were very many. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023018,
+            "text": "The sons of Izhar: <i>[f]</i>Shelomith the chief. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-18",
+            "footnotes": [
+                {
+                    "f": "In [[24:22]], <i>Shelomoth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023019,
+            "text": "The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023020,
+            "text": "The sons of Uzziel: Micah the chief, and Isshiah the second.",
+            "version": "ASV",
+            "clsstr": "1Chr-23-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023021,
+            "text": "\u00b6 The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023022,
+            "text": "And Eleazar died, and had no sons, but daughters only: and their brethren the sons of Kish took them . ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023023,
+            "text": "The sons of Mushi: Mahli, and Eder, and Jeremoth, three.",
+            "version": "ASV",
+            "clsstr": "1Chr-23-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023024,
+            "text": "\u00b6 These were the sons of Levi after their fathers\u2019 houses, even the heads of the fathers\u2019  of those of them that were counted, in the number of names by their polls, who did the work for the service of the house of Jehovah, from twenty years old and upward. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023025,
+            "text": "For David said, Jehovah, the God of Israel, hath given rest unto his people; and he dwelleth in Jerusalem for ever: ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023026,
+            "text": "and also the Levites shall no more have need to carry the tabernacle and all the vessels of it for the service thereof. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023027,
+            "text": "For <i>[g]</i>by the last words of David the sons of Levi were numbered, from twenty years old and upward. ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-27",
+            "footnotes": [
+                {
+                    "g": "Or, <i>in the last acts</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023028,
+            "text": "For <i>[h]</i>their office was to wait on the sons of Aaron for the service of the house of Jehovah, in the courts, and in the chambers, and in the purifying of all holy things, even the work of the service of the house of God; ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-28",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>their station was at the hand of the sons of Aaron</i>. See [[Neh. 11:24]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023029,
+            "text": "for the showbread also, and for the fine flour for a meal-offering, whether of unleavened wafers, or of that which is baked in the pan, or of that which is soaked, and for all manner of measure and size; ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023030,
+            "text": "and to stand every morning to thank and praise Jehovah, and likewise at even; ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023031,
+            "text": "and to offer all burnt-offerings unto Jehovah, on the sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before Jehovah; ",
+            "version": "ASV",
+            "clsstr": "1Chr-23-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13023032,
+            "text": "and that they should keep the charge of the tent of meeting, and the charge of the holy place, and the charge of the sons of Aaron their brethren, for the service of the house of Jehovah.",
+            "version": "ASV",
+            "clsstr": "1Chr-23-32",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 23
+}

@@ -1,0 +1,490 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26020001,
+            "text": "\u00b6 And it came to pass in the seventh year, in the fifth , the tenth  of the month, that certain of the elders of Israel came to inquire of Jehovah, and sat before me. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020002,
+            "text": "And the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020003,
+            "text": "Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord Jehovah: Is it to inquire of me that ye are come? As I live, saith the Lord Jehovah, I will not be inquired of by you. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020004,
+            "text": "Wilt thou judge them, son of man, wilt thou judge them? Cause them to know the abominations of their fathers; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020005,
+            "text": "and say unto them, Thus saith the Lord Jehovah: In the day when I chose Israel, and <i>[a]</i>sware unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I <i>[b]</i>sware unto them, saying, I am Jehovah your God; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>lifted up my hand</i>."
+                },
+                {
+                    "b": "Hebrew <i>lifted up my hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020006,
+            "text": "in that day I <i>[c]</i>sware unto them, to bring them forth out of the land of Egypt into a land that I had searched out for them, flowing with milk and honey, which is the glory of all lands. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>lifted up my hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020007,
+            "text": "And I said unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt; I am Jehovah your God. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020008,
+            "text": "But they rebelled against me, and would not hearken unto me; they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt. Then I said I would pour out my wrath upon them, to accomplish my anger against them in the midst of the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020009,
+            "text": "But I wrought for my name\u2019s sake, that it should not be profaned in the sight of the nations, among which they were, in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt.",
+            "version": "ASV",
+            "clsstr": "Ezek-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020010,
+            "text": "\u00b6 So I caused them to go forth out of the land of Egypt, and brought them into the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020011,
+            "text": "And I gave them my statutes, and <i>[d]</i>showed them mine ordinances, which if a man do, he shall live <i>[e]</i>in them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-11",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>made them to know</i>."
+                },
+                {
+                    "e": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020012,
+            "text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that <i>[f]</i>I am Jehovah that sanctifieth them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>I, Jehovah, do sanctify them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020013,
+            "text": "But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they rejected mine ordinances, which if a man keep, he shall live <i>[g]</i>in them; and my sabbaths they greatly profaned. Then I said I would pour out my wrath upon them in the wilderness, to consume them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020014,
+            "text": "But I wrought for my name\u2019s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them out. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020015,
+            "text": "Moreover also I <i>[h]</i>sware unto them in the wilderness, that I would not bring them into the land which I had given them, flowing with milk and honey, which is the glory of all lands; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-15",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>lifted up my hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020016,
+            "text": "because they rejected mine ordinances, and walked not in my statutes, and profaned my sabbaths: for their heart went after their idols. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020017,
+            "text": "Nevertheless mine eye spared them, and I destroyed them not, neither did I make a full end of them in the wilderness.",
+            "version": "ASV",
+            "clsstr": "Ezek-20-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020018,
+            "text": "\u00b6 And I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their ordinances, nor defile yourselves with their idols. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020019,
+            "text": "I am Jehovah your God: walk in my statutes, and keep mine ordinances, and do them; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020020,
+            "text": "and hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am Jehovah your God. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020021,
+            "text": "But the children rebelled against me; they walked not in my statutes, neither kept mine ordinances to do them, which if a man do, he shall live <i>[i]</i>in them; they profaned my sabbaths. Then I said I would pour out my wrath upon them, to accomplish my anger against them in the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-21",
+            "footnotes": [
+                {
+                    "i": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020022,
+            "text": "Nevertheless I withdrew my hand, and wrought for my name\u2019s sake, that it should not be profaned in the sight of the nations, in whose sight I brought them forth. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020023,
+            "text": "Moreover I <i>[j]</i>sware unto them in the wilderness, that I would scatter them among the nations, and disperse them through the countries; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-23",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>lifted up my hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020024,
+            "text": "because they had not executed mine ordinances, but had rejected my statutes, and had profaned my sabbaths, and their eyes were after their fathers\u2019 idols. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020025,
+            "text": "Moreover also I gave them statutes that were not good, and ordinances <i>[k]</i>wherein they should not live; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-25",
+            "footnotes": [
+                {
+                    "k": "Or, <i>whereby</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020026,
+            "text": "and I polluted them in their own gifts, in that they <i>[l]</i>caused to pass through  all that openeth the womb, that I might make them desolate, to the end that they might know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-20-26",
+            "footnotes": [
+                {
+                    "l": "Or, <i>set apart all</i>. See [[Ex. 13:12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020027,
+            "text": "\u00b6 Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord Jehovah: In this moreover have your fathers blasphemed me, in that they have committed a trespass against me. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020028,
+            "text": "For when I had brought them into the land, which I <i>[m]</i>sware to give unto them, then they <i>[n]</i>saw every high hill, and every thick tree, and they offered there their sacrifices, and there they presented the provocation of their offering; there also they made their sweet savor, and they poured out there their drink-offerings. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-28",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>lifted up my hand</i>."
+                },
+                {
+                    "n": "Or, <i>looked out for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020029,
+            "text": "Then I said unto them, What meaneth the high place <i>[o]</i>whereunto ye go? So the name thereof is called <i>[p]</i>Bamah unto this day. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-29",
+            "footnotes": [
+                {
+                    "o": "Or, <i>whereunto you go, and the name whereof\u00a0.\u00a0.\u00a0. day?</i>"
+                },
+                {
+                    "p": "That is, <i>High place</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020030,
+            "text": "Wherefore say unto the house of Israel, Thus saith the Lord Jehovah: Do ye pollute yourselves after the manner of your fathers? and play ye the harlot after their abominations? ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020031,
+            "text": "and when ye offer your gifts, when ye make your sons to pass through the fire, do ye pollute yourselves with all your idols unto this day? and shall I be inquired of by you, O house of Israel? As I live, saith the Lord Jehovah, I will not be inquired of by you; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020032,
+            "text": "and that which cometh into your mind shall not be at all, in that ye say, We will be as the nations, as the families of the countries, to serve wood and stone.",
+            "version": "ASV",
+            "clsstr": "Ezek-20-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020033,
+            "text": "\u00b6 As I live, saith the Lord Jehovah, surely with a mighty hand, and with an outstretched arm, and with wrath poured out, will I be king over you. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020034,
+            "text": "And I will bring you out from the peoples, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with an outstretched arm, and with wrath poured out; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020035,
+            "text": "and I will bring you into the wilderness of the peoples, and there will I enter into judgment with you face to face. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020036,
+            "text": "Like as I entered into judgment with your fathers in the wilderness of the land of Egypt, so will I enter into judgment with you, saith the Lord Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020037,
+            "text": "And I will cause you to pass under the rod, and I will bring you into the bond of the covenant; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020038,
+            "text": "and I will purge out from among you the rebels, and them that transgress against me; I will bring them forth out of the land where they sojourn, but they shall not enter into the land of Israel: and ye shall know that I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020039,
+            "text": "As for you, O house of Israel, thus saith the Lord Jehovah: Go ye, serve every one his idols, <i>[q]</i>and hereafter also, if ye will not hearken unto me; but my holy name shall ye no more profane with your gifts, and with your idols.",
+            "version": "ASV",
+            "clsstr": "Ezek-20-39",
+            "footnotes": [
+                {
+                    "q": "Or, <i>but hereafter surely ye shall hearken unto me and etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020040,
+            "text": "\u00b6 For in my holy mountain, in the mountain of the height of Israel, saith the Lord Jehovah, there shall all the house of Israel, all of them, serve me in the land: there will I accept them, and there will I require your offerings, and the <i>[r]</i>first-fruits of your <i>[s]</i>oblations, with all your holy things. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-40",
+            "footnotes": [
+                {
+                    "r": "Or, <i>chief</i>"
+                },
+                {
+                    "s": "Or, <i>tribute</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020041,
+            "text": " <i>[t]</i>As a sweet savor will I accept you, when I bring you out from the peoples, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you in the sight of the nations. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-41",
+            "footnotes": [
+                {
+                    "t": "Or, <i>With</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020042,
+            "text": "And ye shall know that I am Jehovah, when I shall bring you into the land of Israel, into the country which I <i>[u]</i>sware to give unto your fathers. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-42",
+            "footnotes": [
+                {
+                    "u": "Hebrew <i>lifted up my hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020043,
+            "text": "And there shall ye remember your ways, and all your doings, wherein ye have polluted yourselves; and ye shall loathe yourselves in your own sight for all your evils that ye have committed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020044,
+            "text": "And ye shall know that I am Jehovah, when I have dealt with you for my name\u2019s sake, not according to your evil ways, nor according to your corrupt doings, O ye house of Israel, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-20-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020045,
+            "text": "\u00b6 And the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020046,
+            "text": "Son of man, set thy face toward the south, and drop  toward the south, and prophesy against the forest of the field in the South; ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020047,
+            "text": "and say to the forest of the South, Hear the word of Jehovah: Thus saith the Lord Jehovah, Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burnt thereby. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020048,
+            "text": "And all flesh shall see that I, Jehovah, have kindled it; it shall not be quenched. ",
+            "version": "ASV",
+            "clsstr": "Ezek-20-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26020049,
+            "text": "Then said I, Ah Lord Jehovah! they say of me, Is he not a speaker of parables?",
+            "version": "ASV",
+            "clsstr": "Ezek-20-49",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 20
+}

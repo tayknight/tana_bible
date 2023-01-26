@@ -1,0 +1,407 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42010001,
+            "text": "\u00b6 Now after these things the Lord appointed seventy <i>[a]</i>others, and sent them two and two before his face into every city and place, whither he himself was about to come. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-1",
+            "footnotes": [
+                {
+                    "a": "Many ancient authorities add <i>and two</i>: and so in [[verse 17]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010002,
+            "text": "And he said unto them, The harvest indeed is plenteous, but the laborers are few: pray ye therefore the Lord of the harvest, that he send forth laborers into his harvest. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010003,
+            "text": "Go your ways; behold, I send you forth as lambs in the midst of wolves. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010004,
+            "text": "Carry no purse, no wallet, no shoes; and salute no man on the way. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010005,
+            "text": "And into whatsoever house ye shall <i>[b]</i>enter, first say, Peace  to this house. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>enter first, say</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010006,
+            "text": "And if a son of peace be there, your peace shall rest upon <i>[c]</i>him: but if not, it shall turn to you again. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010007,
+            "text": "And in that same house remain, eating and drinking such things as they give: for the laborer is worthy of his hire. Go not from house to house. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010008,
+            "text": "And into whatsoever city ye enter, and they receive you, eat such things as are set before you: ",
+            "version": "ASV",
+            "clsstr": "Luke-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010009,
+            "text": "and heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010010,
+            "text": "But into whatsoever city ye shall enter, and they receive you not, go out into the streets thereof and say, ",
+            "version": "ASV",
+            "clsstr": "Luke-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010011,
+            "text": "Even the dust from your city, that cleaveth to our feet, we wipe off against you: nevertheless know this, that the kingdom of God is come nigh. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010012,
+            "text": "I say unto you, It shall be more tolerable in that day for Sodom, than for that city. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010013,
+            "text": "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the <i>[d]</i>mighty works had been done in Tyre and Sidon, which were done in you, they would have repented long ago, sitting in sackcloth and ashes. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-13",
+            "footnotes": [
+                {
+                    "d": "Greek <i>powers</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010014,
+            "text": "But it shall be more tolerable for Tyre and Sidon in the judgment, than for you. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010015,
+            "text": "And thou, Capernaum, shalt thou be exalted unto heaven? thou shalt be brought down unto Hades. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010016,
+            "text": "He that heareth you heareth me; and he that rejecteth you rejecteth me; and he that rejecteth me rejecteth him that sent me.",
+            "version": "ASV",
+            "clsstr": "Luke-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010017,
+            "text": "\u00b6 And the seventy returned with joy, saying, Lord, even the demons are subject unto us in thy name. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010018,
+            "text": "And he said unto them, I beheld Satan fallen as lightning from heaven. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010019,
+            "text": "Behold, I have given you authority to tread upon serpents and scorpions, and over all the power of the enemy: and nothing shall in any wise hurt you. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010020,
+            "text": "Nevertheless in this rejoice not, that the spirits are subject unto you; but rejoice that your names are written in heaven.",
+            "version": "ASV",
+            "clsstr": "Luke-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010021,
+            "text": "\u00b6 In that same hour he rejoiced <i>[e]</i>in the Holy Spirit, and said, I <i>[f]</i>thank thee, O Father, Lord of heaven and earth, that thou didst hide these things from the wise and understanding, and didst reveal them unto babes: yea, Father; <i>[g]</i>for so it was well-pleasing in thy sight. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-21",
+            "footnotes": [
+                {
+                    "e": "Or, <i>by</i>"
+                },
+                {
+                    "f": "Or, <i>praise</i>"
+                },
+                {
+                    "g": "Or, <i>that</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010022,
+            "text": "All things have been delivered unto me of my Father: and no one knoweth who the Son is, save the Father; and who the Father is, save the Son, and he to whomsoever the Son willeth to reveal . ",
+            "version": "ASV",
+            "clsstr": "Luke-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010023,
+            "text": "And turning to the disciples, he said privately, Blessed  the eyes which see the things that ye see: ",
+            "version": "ASV",
+            "clsstr": "Luke-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010024,
+            "text": "for I say unto you, that many prophets and kings desired to see the things which ye see, and saw them not; and to hear the things which ye hear, and heard them not.",
+            "version": "ASV",
+            "clsstr": "Luke-10-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010025,
+            "text": "\u00b6 And behold, a certain lawyer stood up and made trial of him, saying, Teacher, what shall I do to inherit eternal life? ",
+            "version": "ASV",
+            "clsstr": "Luke-10-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010026,
+            "text": "And he said unto him, What is written in the law? how readest thou? ",
+            "version": "ASV",
+            "clsstr": "Luke-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010027,
+            "text": "And he answering said, <i>[h]</i>Thou shalt love the Lord thy God <i>[i]</i>with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; <i>[j]</i>and thy neighbor as thyself. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-27",
+            "footnotes": [
+                {
+                    "h": "[[Dt. 6:5]]."
+                },
+                {
+                    "i": "Greek <i>from</i>."
+                },
+                {
+                    "j": "[[Lev. 19:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010028,
+            "text": "And he said unto him, Thou hast answered right: this do, and thou shalt live. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010029,
+            "text": "But he, desiring to justify himself, said unto Jesus, And who is my neighbor? ",
+            "version": "ASV",
+            "clsstr": "Luke-10-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010030,
+            "text": "Jesus made answer and said, A certain man was going down from Jerusalem to Jericho; and he fell among robbers, who both stripped him and beat him, and departed, leaving him half dead. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010031,
+            "text": "And by chance a certain priest was going down that way: and when he saw him, he passed by on the other side. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010032,
+            "text": "And in like manner a Levite also, when he came to the place, and saw him, passed by on the other side. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010033,
+            "text": "But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he was moved with compassion, ",
+            "version": "ASV",
+            "clsstr": "Luke-10-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010034,
+            "text": "and came to him, and bound up his wounds, pouring on  oil and wine; and he set him on his own beast, and brought him to an inn, and took care of him. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010035,
+            "text": "And on the morrow he took out two <i>[k]</i>shillings, and gave them to the host, and said, Take care of him; and whatsoever thou spendest more, I, when I come back again, will repay thee. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-35",
+            "footnotes": [
+                {
+                    "k": "See marginal note on [[7:41]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010036,
+            "text": "Which of these three, thinkest thou, proved neighbor unto him that fell among the robbers? ",
+            "version": "ASV",
+            "clsstr": "Luke-10-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010037,
+            "text": "And he said, He that showed mercy on him. And Jesus said unto him, Go, and do thou likewise.",
+            "version": "ASV",
+            "clsstr": "Luke-10-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010038,
+            "text": "\u00b6 Now as they went on their way, he entered into a certain village: and a certain woman named Martha received him into her house. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010039,
+            "text": "And she had a sister called Mary, who also sat at the Lord\u2019s feet, and heard his word. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010040,
+            "text": "But Martha was <i>[l]</i>cumbered about much serving; and she came up to him, and said, Lord, dost thou not care that my sister did leave me to serve alone? bid her therefore that she help me. ",
+            "version": "ASV",
+            "clsstr": "Luke-10-40",
+            "footnotes": [
+                {
+                    "l": "Greek <i>distracted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010041,
+            "text": "But the Lord answered and said unto her, <i>[m]</i>Martha, Martha, thou art anxious and troubled about many things: ",
+            "version": "ASV",
+            "clsstr": "Luke-10-41",
+            "footnotes": [
+                {
+                    "m": "A few ancient authorities read <i>Martha, Martha, thou art troubled; Mary hath chosen etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42010042,
+            "text": " <i>[n]</i>but one thing is needful: for Mary hath chosen the good part, which shall not be taken away from her.",
+            "version": "ASV",
+            "clsstr": "Luke-10-42",
+            "footnotes": [
+                {
+                    "n": "Many ancient authorities read <i>but few things are needful, or one</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 10
+}

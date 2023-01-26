@@ -1,0 +1,183 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19088001,
+            "text": "<b>A petition to be saved from death.</b>\n\u00b6 A Song, a Psalm of the sons of Korah; for the Chief Musician; set to Mahalath <i>[a]</i>Leannoth. Maschil of Heman the Ezrahite.\u00b6     O Jehovah, the God of my salvation,\n    I have cried day and night before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for singing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088002,
+            "text": "    Let my prayer enter into thy presence;\n    Incline thine ear unto my cry.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088003,
+            "text": "    For my soul is full of troubles,\n    And my life draweth nigh unto Sheol.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088004,
+            "text": "    I am reckoned with them that go down into the pit;\n    I am as a man that hath no help,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088005,
+            "text": "  Cast <i>[b]</i>off among the dead,\n    Like the slain that lie in the grave,\n    Whom thou rememberest no more,\n    And they are cut off from thy hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088006,
+            "text": "    Thou hast laid me in the lowest pit,\n    In dark places, in the deeps.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088007,
+            "text": "    Thy wrath lieth hard upon me,\n    And thou hast afflicted me with all thy waves. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088008,
+            "text": "    Thou hast put mine acquaintance far from me;\n    Thou hast made me an abomination unto them:\n    I am shut up, and I cannot come forth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088009,
+            "text": "    Mine eye wasteth away by reason of affliction:\n    I have called daily upon thee, O Jehovah;\n    I have spread forth my hands unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088010,
+            "text": "  Wilt thou show wonders to the dead?\n  Shall <i>[c]</i>they that are deceased arise and praise thee? \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the shades</i>. Hebrew <i>Rephaim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088011,
+            "text": "  Shall thy lovingkindness be declared in the grave?\n  Or thy faithfulness in <i>[d]</i>Destruction?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-11",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>Abaddon</i>. See [[Job 26:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088012,
+            "text": "    Shall thy wonders be known in the dark?\n    And thy righteousness in the land of forgetfulness?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088013,
+            "text": "    But unto thee, O Jehovah, have I cried;\n    And in the morning shall my prayer come before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088014,
+            "text": "    Jehovah, why castest thou off my soul?\n    Why hidest thou thy face from me?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088015,
+            "text": "    I am afflicted and ready to die from my youth up:\n    While I suffer thy terrors I am distracted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088016,
+            "text": "    Thy fierce wrath is gone over me;\n    Thy terrors have cut me off.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088017,
+            "text": "    They came round about me like water all the day long;\n    They compassed me about together.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19088018,
+            "text": "  Lover and friend hast thou put far from me,\n  And mine acquaintance <i>[e]</i>into darkness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-88-18",
+            "footnotes": [
+                {
+                    "e": "Or, <i>are darkness</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 88
+}

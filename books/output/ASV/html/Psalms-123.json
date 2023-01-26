@@ -1,0 +1,51 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19123001,
+            "text": "<b>An expectant prayer for Jehovah\u2019s help.</b>\n\u00b6 A Song of Ascents.\u00b6     Unto thee do I lift up mine eyes,\n    O thou that sittest in the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-123-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19123002,
+            "text": "    Behold, as the eyes of servants  unto the hand of their master,\n    As the eyes of a maid unto the hand of her mistress;\n    So our eyes  unto Jehovah our God,\n    Until he have mercy upon us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-123-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19123003,
+            "text": "    Have mercy upon us, O Jehovah, have mercy upon us;\n    For we are exceedingly filled with contempt.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-123-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19123004,
+            "text": "    Our soul is exceedingly filled\n    With the scoffing of those that are at ease,\n    And with the contempt of the proud.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-123-4",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 123
+}

@@ -1,0 +1,346 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14020001,
+            "text": "\u00b6 And it came to pass after this, that the children of Moab, and the children of Ammon, and with them some of the <i>[a]</i>Ammonites, came against Jehoshaphat to battle. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-1",
+            "footnotes": [
+                {
+                    "a": "Perhaps an error for <i>Meunim</i>. See [[26:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020002,
+            "text": "Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea from Syria; and, behold, they are in Hazazon-tamar (the same is En-gedi). ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020003,
+            "text": "And Jehoshaphat feared, and set himself to seek unto Jehovah; and he proclaimed a fast throughout all Judah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020004,
+            "text": "And Judah gathered themselves together, to seek  of Jehovah: even out of all the cities of Judah they came to seek Jehovah.",
+            "version": "ASV",
+            "clsstr": "2Chr-20-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020005,
+            "text": "\u00b6 And Jehoshaphat stood in the assembly of Judah and Jerusalem, in the house of Jehovah, before the new court; ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020006,
+            "text": "and he said, O Jehovah, the God of our fathers, art not thou God in heaven? and art not thou ruler over all the kingdoms of the nations? and in thy hand is power and might, so that none is able to withstand thee. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020007,
+            "text": "Didst not thou, O our God, drive out the inhabitants of this land before thy people Israel, and give it to the seed of Abraham thy friend for ever? ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020008,
+            "text": "And they dwelt therein, and have built thee a sanctuary therein for thy name, saying, ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020009,
+            "text": "If evil come upon us, <i>[b]</i>the sword, judgment, or pestilence, or famine, we will stand before this house, and before thee (for thy name is in this house), and cry unto thee in our affliction, and thou wilt hear and save. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the sword of judgment</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020010,
+            "text": "And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned aside from them, and destroyed them not; ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020011,
+            "text": "behold, how they reward us, to come to cast us out of thy possession, which thou hast given us to inherit. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020012,
+            "text": "O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes are upon thee. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020013,
+            "text": "And all Judah stood before Jehovah, with their little ones, their wives, and their children.",
+            "version": "ASV",
+            "clsstr": "2Chr-20-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020014,
+            "text": "\u00b6 Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, the Levite, of the sons of Asaph, came the Spirit of Jehovah in the midst of the assembly; ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020015,
+            "text": "and he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat: Thus saith Jehovah unto you, Fear not ye, neither be dismayed by reason of this great multitude; for the battle is not yours, but God\u2019s. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020016,
+            "text": "To-morrow go ye down against them: behold, they come up by the ascent of Ziz; and ye shall find them at the end of the valley, before the wilderness of Jeruel. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020017,
+            "text": "Ye shall not need to fight in this : set yourselves, stand ye still, and see the salvation of Jehovah with you, O Judah and Jerusalem; fear not, nor be dismayed: to-morrow go out against them; for Jehovah is with you. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020018,
+            "text": "And Jehoshaphat bowed his head with his face to the ground; and all Judah and the inhabitants of Jerusalem fell down before Jehovah, worshipping Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020019,
+            "text": "And the Levites, of the children of the Kohathites and of the children of the Korahites, stood up to praise Jehovah, the God of Israel, with an exceeding loud voice.",
+            "version": "ASV",
+            "clsstr": "2Chr-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020020,
+            "text": "\u00b6 And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem: believe in Jehovah your God, so shall ye be established; believe his prophets, so shall ye prosper. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020021,
+            "text": "And when he had taken counsel with the people, he appointed them that should sing unto Jehovah, and give praise <i>[c]</i>in holy array, as they went out before the army, and say, Give thanks unto Jehovah; for his lovingkindness  for ever. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-21",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in the beauty of holiness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020022,
+            "text": "And when they began to sing and to praise, Jehovah set liers-in-wait against the children of Ammon, Moab, and mount Seir, that were come against Judah; and they were smitten. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020023,
+            "text": "For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy them: and when they had made an end of the inhabitants of Seir, every one helped to destroy another.",
+            "version": "ASV",
+            "clsstr": "2Chr-20-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020024,
+            "text": "\u00b6 And when Judah came to the watch-tower of the wilderness, they looked upon the multitude; and, behold, they were dead bodies fallen to the earth, and there were none that escaped. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020025,
+            "text": "And when Jehoshaphat and his people came to take the spoil of them, they found among them in abundance both riches and <i>[d]</i>dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in taking the spoil, it was so much. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-25",
+            "footnotes": [
+                {
+                    "d": "According to Vulgate, <i>garments</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020026,
+            "text": "And on the fourth day they assembled themselves in the valley of <i>[e]</i>Beracah; for there they blessed Jehovah: therefore the name of that place was called The valley of Beracah unto this day. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-26",
+            "footnotes": [
+                {
+                    "e": "That is, <i>Blessing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020027,
+            "text": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for Jehovah had made them to rejoice over their enemies. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020028,
+            "text": "And they came to Jerusalem with psalteries and harps and trumpets unto the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020029,
+            "text": "And the fear of God was on all the kingdoms of the countries, when they heard that Jehovah fought against the enemies of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020030,
+            "text": "So the realm of Jehoshaphat was quiet; for his God gave him rest round about.",
+            "version": "ASV",
+            "clsstr": "2Chr-20-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020031,
+            "text": "\u00b6 And Jehoshaphat reigned over Judah: he was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem: and his mother\u2019s name was Azubah the daughter of Shilhi. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020032,
+            "text": "And he walked in the way of Asa his father, and turned not aside from it, doing that which was right in the eyes of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020033,
+            "text": "Howbeit the high places were not taken away; neither as yet had the people set their hearts unto the God of their fathers. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020034,
+            "text": "Now the rest of the acts of Jehoshaphat, first and last, behold, they are written in the <i>[f]</i>history of Jehu the son of Hanani, <i>[g]</i>which is inserted in the book of the kings of Israel.",
+            "version": "ASV",
+            "clsstr": "2Chr-20-34",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>words</i>."
+                },
+                {
+                    "g": "Or, <i>who is mentioned</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020035,
+            "text": "\u00b6 And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel; the same did very wickedly: ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020036,
+            "text": "and he joined himself with him to make ships to go to Tarshish; and they made the ships in Ezion-geber. ",
+            "version": "ASV",
+            "clsstr": "2Chr-20-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14020037,
+            "text": "Then Eliezer the son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, Jehovah hath <i>[h]</i>destroyed thy works. And the ships were broken, so that they were not able to go to Tarshish.",
+            "version": "ASV",
+            "clsstr": "2Chr-20-37",
+            "footnotes": [
+                {
+                    "h": "Or, <i>made a breach in</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 20
+}

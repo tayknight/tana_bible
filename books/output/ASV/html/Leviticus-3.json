@@ -1,0 +1,167 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3003001,
+            "text": "\u00b6 And if his oblation be a sacrifice of <i>[a]</i>peace-offerings; if he offer of the herd, whether male or female, he shall offer it without blemish before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>thank-offerings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003002,
+            "text": "And he shall lay his hand upon the head of his oblation, and kill it at the door of the tent of meeting: and Aaron\u2019s sons the priests shall sprinkle the blood upon the altar round about. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003003,
+            "text": "And he shall offer of the sacrifice of peace-offerings an offering made by fire unto Jehovah; the fat that covereth the inwards, and all the fat that is upon the inwards, ",
+            "version": "ASV",
+            "clsstr": "Lev-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003004,
+            "text": "and the two kidneys, and the fat that is on them, which is by the loins, and the caul upon the liver, <i>[b]</i>with the kidneys, shall he take away. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>which he shall take away by the kidneys</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003005,
+            "text": "And Aaron\u2019s sons shall burn it on the altar upon the burnt-offering, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savor unto Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003006,
+            "text": "\u00b6 And if his oblation for a sacrifice of peace-offerings unto Jehovah be of the flock; male or female, he shall offer it without blemish. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003007,
+            "text": "If he offer a lamb for his oblation, then shall he offer it before Jehovah; ",
+            "version": "ASV",
+            "clsstr": "Lev-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003008,
+            "text": "and he shall lay his hand upon the head of his oblation, and kill it before the tent of meeting: and Aaron\u2019s sons shall sprinkle the blood thereof upon the altar round about. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003009,
+            "text": "And he shall offer of the sacrifice of peace-offerings an offering made by fire unto Jehovah; the fat thereof, the fat tail entire, he shall take away hard by the backbone; and the fat that covereth the inwards, and all the fat that is upon the inwards, ",
+            "version": "ASV",
+            "clsstr": "Lev-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003010,
+            "text": "and the two kidneys, and the fat that is upon them, which is by the loins, and the caul upon the liver, with the kidneys, shall he take away. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003011,
+            "text": "And the priest shall burn it upon the altar: it is the <i>[c]</i>food of the offering made by fire unto Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-3-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>bread</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003012,
+            "text": "\u00b6 And if his oblation be a goat, then he shall offer it before Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Lev-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003013,
+            "text": "and he shall lay his hand upon the head of it, and kill it before the tent of meeting; and the sons of Aaron shall sprinkle the blood thereof upon the altar round about. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003014,
+            "text": "And he shall offer thereof his oblation,  an offering made by fire unto Jehovah; the fat that covereth the inwards, and all the fat that is upon the inwards, ",
+            "version": "ASV",
+            "clsstr": "Lev-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003015,
+            "text": "and the two kidneys, and the fat that is upon them, which is by the loins, and the caul upon the liver, with the kidneys, shall he take away. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003016,
+            "text": "And the priest shall burn them upon the altar: it is the food of the offering made by fire, for a sweet savor; all the fat is Jehovah\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Lev-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3003017,
+            "text": "It shall be a perpetual statute throughout your generations in all your dwellings, that ye shall eat neither fat nor blood.",
+            "version": "ASV",
+            "clsstr": "Lev-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 3
+}

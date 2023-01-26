@@ -1,0 +1,342 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46010001,
+            "text": "\u00b6 For I would not, brethren, have you ignorant, that our fathers were all under the cloud, and all passed through the sea; ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010002,
+            "text": "and were all baptized <i>[a]</i>unto Moses in the cloud and in the sea; ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>into</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010003,
+            "text": "and did all eat the same spiritual food; ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010004,
+            "text": "and did all drink the same spiritual drink: for they drank of a spiritual rock that followed them: and the rock was <i>[b]</i>Christ. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the Christ</i>. Compare [[Heb. 11:26]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010005,
+            "text": "Howbeit with most of them God was not well pleased: for they were overthrown in the wilderness. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010006,
+            "text": "Now <i>[c]</i>these things were our examples, to the intent we should not lust after evil things, as they also lusted. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in these things they became figures of us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010007,
+            "text": "Neither be ye idolaters, as were some of them; as it is written, <i>[d]</i>The people sat down to eat and drink, and rose up to play. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-7",
+            "footnotes": [
+                {
+                    "d": "[[Ex. 32:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010008,
+            "text": "Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010009,
+            "text": "Neither let us make trial of the <i>[e]</i>Lord, as some of them made trial, and perished by the serpents. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-9",
+            "footnotes": [
+                {
+                    "e": "Some ancient authorities read <i>Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010010,
+            "text": "Neither murmur ye, as some of them murmured, and perished by the destroyer. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010011,
+            "text": "Now these things happened unto them <i>[f]</i>by way of example; and they were written for our admonition, upon whom the ends of the ages are come. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-11",
+            "footnotes": [
+                {
+                    "f": "Greek <i>by way of figure</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010012,
+            "text": "Wherefore let him that thinketh he standeth take heed lest he fall. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010013,
+            "text": "There hath no temptation taken you but such as man can bear: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation make also the way of escape, that ye may be able to endure it.",
+            "version": "ASV",
+            "clsstr": "1Cor-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010014,
+            "text": "\u00b6 Wherefore, my beloved, flee from idolatry. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010015,
+            "text": "I speak as to wise men; judge ye what I say. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010016,
+            "text": "The cup of blessing which we bless, is it not a <i>[g]</i>communion of the blood of Christ? The <i>[h]</i>bread which we break, is it not a <i>[i]</i>communion of the body of Christ? ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>participation in</i>"
+                },
+                {
+                    "h": "Or, <i>loaf</i>"
+                },
+                {
+                    "i": "Or, <i>participation in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010017,
+            "text": " <i>[j]</i>seeing that we, who are many, are one <i>[k]</i>bread, one body: for we all partake <i>[l]</i>of the one <i>[m]</i>bread. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>seeing that there is one bread, we, who are many, are one body</i>"
+                },
+                {
+                    "k": "Or, <i>loaf</i>"
+                },
+                {
+                    "l": "Greek <i>from</i>."
+                },
+                {
+                    "m": "Or, <i>loaf</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010018,
+            "text": "Behold Israel after the flesh: have not they that eat the sacrifices communion with the altar? ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010019,
+            "text": "What say I then? that a thing sacrificed to idols is anything, or that an idol is anything? ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010020,
+            "text": "But , that the things which the Gentiles sacrifice, they sacrifice to demons, and not to God: and I would not that ye should have communion with demons. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010021,
+            "text": "Ye cannot drink the cup of the Lord, and the cup of demons: ye cannot partake of the table of the Lord, and of the table of demons. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010022,
+            "text": "Or do we provoke the Lord to jealousy? are we stronger than he?",
+            "version": "ASV",
+            "clsstr": "1Cor-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010023,
+            "text": "\u00b6 All things are lawful; but not all things are expedient. All things are lawful; but not all things <i>[n]</i>edify. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-23",
+            "footnotes": [
+                {
+                    "n": "Greek <i>build up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010024,
+            "text": "Let no man seek his own, but  <i>[o]</i>his neighbor\u2019s . ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-24",
+            "footnotes": [
+                {
+                    "o": "Greek <i>the other\u2019s</i>. See [[Rom. 13:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010025,
+            "text": "Whatsoever is sold in the shambles, eat, asking no question for conscience\u2019 sake; ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010026,
+            "text": "for the earth is the Lord\u2019s, and the fulness thereof. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010027,
+            "text": "If one of them that believe not biddeth you , and ye are disposed to go; whatsoever is set before you, eat, asking no question for conscience\u2019 sake. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010028,
+            "text": "But if any man say unto you, This hath been offered in sacrifice, eat not, for his sake that showed it, and for conscience\u2019 sake: ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010029,
+            "text": "conscience, I say, not thine own, but the other\u2019s; for why is my liberty judged by another conscience? ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010030,
+            "text": " <i>[p]</i>If I partake with thankfulness, why am I evil spoken of for that for which I give thanks? ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-30",
+            "footnotes": [
+                {
+                    "p": "Or, <i>If I by grace partake</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010031,
+            "text": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010032,
+            "text": "Give no occasion of stumbling, either to Jews, or to Greeks, or to the church of God: ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46010033,
+            "text": "even as I also please all men in all things, not seeking mine own profit, but the  of the many, that they may be saved. ",
+            "version": "ASV",
+            "clsstr": "1Cor-10-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 10
+}

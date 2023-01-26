@@ -1,0 +1,244 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23024001,
+            "text": "\u00b6 Behold, Jehovah maketh the <i>[a]</i>earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>land</i> (and so in verses [[3]], [[4]], etc.)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024002,
+            "text": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the creditor, so with the debtor; as with the taker of interest, so with the giver of interest to him. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024003,
+            "text": "The earth shall be utterly emptied, and utterly laid waste; for Jehovah hath spoken this word. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024004,
+            "text": "The earth mourneth and fadeth away, the world languisheth and fadeth away, <i>[b]</i>the lofty people of the earth do languish. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the high ones of the people</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024005,
+            "text": "The earth also is polluted under the inhabitants thereof; because they have transgressed the laws, violated the statutes, broken the everlasting covenant. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024006,
+            "text": "Therefore hath the curse devoured the earth, and they that dwell therein are found guilty: therefore the inhabitants of the earth are burned, and few men left. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024007,
+            "text": "The new wine mourneth, the vine languisheth, all the merry-hearted do sigh. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024008,
+            "text": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024009,
+            "text": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024010,
+            "text": "The waste city is broken down; every house is shut up, that no man may come in. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024011,
+            "text": "There is a crying in the streets because of the wine; all joy is darkened, the mirth of the land is <i>[c]</i>gone. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>gone into captivity</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024012,
+            "text": "In the city is left desolation, and the gate is smitten with destruction. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024013,
+            "text": "For thus shall it be in the midst of the earth among the peoples, as the <i>[d]</i>shaking of an olive-tree, as the gleanings when the vintage is done.",
+            "version": "ASV",
+            "clsstr": "Isa-24-13",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>beating</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024014,
+            "text": "\u00b6 These shall lift up their voice, they shall shout; for the majesty of Jehovah they cry aloud from the sea. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024015,
+            "text": "Wherefore glorify ye Jehovah in the <i>[e]</i>east, even the name of Jehovah, the God of Israel, in the <i>[f]</i>isles of the sea. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>lights</i>. Or, <i>fires</i>"
+                },
+                {
+                    "f": "Or, <i>coast-lands</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024016,
+            "text": "From the uttermost part of the earth have we heard songs: Glory to the righteous.\u00b6 But I said, <i>[g]</i>I pine away, I pine away, woe is me! the treacherous have dealt treacherously; yea, the treacherous have dealt very treacherously. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-16",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>Leanness to me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024017,
+            "text": "Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024018,
+            "text": "And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows on high are opened, and the foundations of the earth tremble. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024019,
+            "text": "The earth is utterly broken, the earth is rent asunder, the earth is shaken violently. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024020,
+            "text": "The earth shall stagger like a drunken man, and shall sway to and fro like a hammock; and the transgression thereof shall be heavy upon it, and it shall fall, and not rise again.",
+            "version": "ASV",
+            "clsstr": "Isa-24-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024021,
+            "text": "\u00b6 And it shall come to pass in that day, that Jehovah will <i>[h]</i>punish the host of the <i>[i]</i>high ones on high, and the kings of the earth upon the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-21",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>visit upon</i>."
+                },
+                {
+                    "i": "Hebrew <i>height</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024022,
+            "text": "And they shall be gathered together, as prisoners are gathered in the <i>[j]</i>pit, and shall be shut up in the prison; and after many days shall they be <i>[k]</i>visited. ",
+            "version": "ASV",
+            "clsstr": "Isa-24-22",
+            "footnotes": [
+                {
+                    "j": "Or, <i>dungeon</i>"
+                },
+                {
+                    "k": "Or, <i>punished</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23024023,
+            "text": "Then the moon shall be confounded, and the sun ashamed; for Jehovah of hosts will reign in mount Zion, and in Jerusalem; and before his elders shall be glory.",
+            "version": "ASV",
+            "clsstr": "Isa-24-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 24
+}

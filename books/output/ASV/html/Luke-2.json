@@ -1,0 +1,516 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42002001,
+            "text": "\u00b6 Now it came to pass in those days, there went out a decree from Caesar Augustus, that all <i>[a]</i>the world should be enrolled. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>the inhabited earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002002,
+            "text": "This was the first enrolment made when Quirinius was governor of Syria. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002003,
+            "text": "And all went to enrol themselves, every one to his own city. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002004,
+            "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, to the city of David, which is called Bethlehem, because he was of the house and family of David; ",
+            "version": "ASV",
+            "clsstr": "Luke-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002005,
+            "text": "to enrol himself with Mary, who was betrothed to him, being great with child. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002006,
+            "text": "And it came to pass, while they were there, the days were fulfilled that she should be delivered. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002007,
+            "text": "And she brought forth her firstborn son; and she wrapped him in swaddling clothes, and laid him in a manger, because there was no room for them in the inn.",
+            "version": "ASV",
+            "clsstr": "Luke-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002008,
+            "text": "\u00b6 And there were shepherds in the same country abiding in the field, and keeping <i>[b]</i>watch by night over their flock. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>night-watches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002009,
+            "text": "And an angel of the Lord stood by them, and the glory of the Lord shone round about them: and they were sore afraid. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002010,
+            "text": "And the angel said unto them, Be not afraid; for behold, I bring you good tidings of great joy which shall be to all the people: ",
+            "version": "ASV",
+            "clsstr": "Luke-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002011,
+            "text": "for there is born to you this day in the city of David a Saviour, who is <i>[c]</i>Christ the Lord. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-11",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Anointed Lord</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002012,
+            "text": "And this  the sign unto you: Ye shall find a babe wrapped in swaddling clothes, and lying in a manger. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002013,
+            "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,",
+            "version": "ASV",
+            "clsstr": "Luke-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002014,
+            "text": "\u00b6  Glory to God in the highest,\n And on earth <i>[d]</i>peace among <i>[e]</i>men in whom he is well pleased.\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-2-14",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities read <i>peace, good pleasure among men</i>."
+                },
+                {
+                    "e": "Greek <i>men of good pleasure</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002015,
+            "text": "\u00b6 And it came to pass, when the angels went away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this <i>[f]</i>thing that is come to pass, which the Lord hath made known unto us. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>saying</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002016,
+            "text": "And they came with haste, and found both Mary and Joseph, and the babe lying in the manger. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002017,
+            "text": "And when they saw it, they made known concerning the saying which was spoken to them about this child. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002018,
+            "text": "And all that heard it wondered at the things which were spoken unto them by the shepherds. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002019,
+            "text": "But Mary kept all these <i>[g]</i>sayings, pondering them in her heart. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>things</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002020,
+            "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, even as it was spoken unto them.",
+            "version": "ASV",
+            "clsstr": "Luke-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002021,
+            "text": "\u00b6 And when eight days were fulfilled for circumcising him, his name was called <b>LORD</b>, which was so called by the angel before he was conceived in the womb.",
+            "version": "ASV",
+            "clsstr": "Luke-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002022,
+            "text": "\u00b6 And when the days of their purification <i>[h]</i>according to the law of Moses were fulfilled, they brought him up to Jerusalem, to present him to the Lord ",
+            "version": "ASV",
+            "clsstr": "Luke-2-22",
+            "footnotes": [
+                {
+                    "h": "[[Lev. 12:2\u20136]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002023,
+            "text": "(as it is written in the law of the Lord, <i>[i]</i>Every male that openeth the womb shall be called holy to the Lord), ",
+            "version": "ASV",
+            "clsstr": "Luke-2-23",
+            "footnotes": [
+                {
+                    "i": "[[Ex. 13:2]], [[12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002024,
+            "text": "and to offer a sacrifice according to that which is said in the law of the Lord, <i>[j]</i>A pair of turtledoves, or two young pigeons. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-24",
+            "footnotes": [
+                {
+                    "j": "[[Lev. 12:8]]; [[5:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002025,
+            "text": "And behold, there was a man in Jerusalem, whose name was Simeon; and this man was righteous and devout, looking for the consolation of Israel: and the Holy Spirit was upon him. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002026,
+            "text": "And it had been revealed unto him by the Holy Spirit, that he should not see death, before he had seen the Lord\u2019s Christ. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002027,
+            "text": "And he came in the Spirit into the temple: and when the parents brought in the child Jesus, that they might do concerning him after the custom of the law, ",
+            "version": "ASV",
+            "clsstr": "Luke-2-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002028,
+            "text": "then he received him into his arms, and blessed God, and said,",
+            "version": "ASV",
+            "clsstr": "Luke-2-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002029,
+            "text": "\u00b6  Now lettest thou thy <i>[k]</i>servant depart, <i>[l]</i>Lord,\n    According to thy word, in peace;\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-2-29",
+            "footnotes": [
+                {
+                    "k": "Greek <i>bondservant</i>."
+                },
+                {
+                    "l": "Greek <i>Master</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002030,
+            "text": "    For mine eyes have seen thy salvation,\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-2-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002031,
+            "text": "    Which thou hast prepared before the face of all peoples;\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-2-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002032,
+            "text": "  A light for <i>[m]</i>revelation to the Gentiles,\n    And the glory of thy people Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Luke-2-32",
+            "footnotes": [
+                {
+                    "m": "Or, <i>the unveiling of the Gentiles</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002033,
+            "text": "\u00b6 And his father and his mother were marvelling at the things which were spoken concerning him; ",
+            "version": "ASV",
+            "clsstr": "Luke-2-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002034,
+            "text": "and Simeon blessed them, and said unto Mary his mother, Behold, this  is set for the falling and the rising of many in Israel; and for a sign which is spoken against; ",
+            "version": "ASV",
+            "clsstr": "Luke-2-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002035,
+            "text": "yea and a sword shall pierce through thine own soul; that thoughts out of many hearts may be revealed. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002036,
+            "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher (she was <i>[n]</i>of a great age, having lived with a husband seven years from her virginity, ",
+            "version": "ASV",
+            "clsstr": "Luke-2-36",
+            "footnotes": [
+                {
+                    "n": "Greek <i>advanced in many days</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002037,
+            "text": "and she had been a widow even unto fourscore and four years), who departed not from the temple, worshipping with fastings and supplications night and day. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002038,
+            "text": "And coming up at that very hour she gave thanks unto God, and spake of him to all them that were looking for the redemption of Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002039,
+            "text": "And when they had accomplished all things that were according to the law of the Lord, they returned into Galilee, to their own city Nazareth.",
+            "version": "ASV",
+            "clsstr": "Luke-2-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002040,
+            "text": "\u00b6 And the child grew, and waxed strong, <i>[o]</i>filled with wisdom: and the grace of God was upon him.",
+            "version": "ASV",
+            "clsstr": "Luke-2-40",
+            "footnotes": [
+                {
+                    "o": "Greek <i>becoming full of wisdom</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002041,
+            "text": "\u00b6 And his parents went every year to Jerusalem at the feast of the passover. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002042,
+            "text": "And when he was twelve years old, they went up after the custom of the feast; ",
+            "version": "ASV",
+            "clsstr": "Luke-2-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002043,
+            "text": "and when they had fulfilled the days, as they were returning, the boy Jesus tarried behind in Jerusalem; and his parents knew it not; ",
+            "version": "ASV",
+            "clsstr": "Luke-2-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002044,
+            "text": "but supposing him to be in the company, they went a day\u2019s journey; and they sought for him among their kinsfolk and acquaintance: ",
+            "version": "ASV",
+            "clsstr": "Luke-2-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002045,
+            "text": "and when they found him not, they returned to Jerusalem, seeking for him. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002046,
+            "text": "And it came to pass, after three days they found him in the temple, sitting in the midst of the <i>[p]</i>teachers, both hearing them, and asking them questions: ",
+            "version": "ASV",
+            "clsstr": "Luke-2-46",
+            "footnotes": [
+                {
+                    "p": "Or, <i>doctors</i>. See [[5:17]]; [[Acts 5:34]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002047,
+            "text": "and all that heard him were amazed at his understanding and his answers. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002048,
+            "text": "And when they saw him, they were astonished; and his mother said unto him, <i>[q]</i>Son, why hast thou thus dealt with us? behold, thy father and I sought thee sorrowing. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-48",
+            "footnotes": [
+                {
+                    "q": "Greek <i>Child</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002049,
+            "text": "And he said unto them, How is it that ye sought me? knew ye not that I must be <i>[r]</i>in my Father\u2019s house? ",
+            "version": "ASV",
+            "clsstr": "Luke-2-49",
+            "footnotes": [
+                {
+                    "r": "Or, <i>about my Father\u2019s business</i>. Greek <i>in the things of my Father</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002050,
+            "text": "And they understood not the saying which he spake unto them. ",
+            "version": "ASV",
+            "clsstr": "Luke-2-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002051,
+            "text": "And he went down with them, and came to Nazareth; and he was subject unto them: and his mother kept all  <i>[s]</i>sayings in her heart.",
+            "version": "ASV",
+            "clsstr": "Luke-2-51",
+            "footnotes": [
+                {
+                    "s": "Or, <i>things</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42002052,
+            "text": "\u00b6 And Jesus advanced in wisdom and <i>[t]</i>stature, and in <i>[u]</i>favor with God and men.",
+            "version": "ASV",
+            "clsstr": "Luke-2-52",
+            "footnotes": [
+                {
+                    "t": "Or, <i>age</i>"
+                },
+                {
+                    "u": "Or, <i>grace</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 2
+}

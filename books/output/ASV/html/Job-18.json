@@ -1,0 +1,222 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18018001,
+            "text": "\u00b6 Then answered Bildad the Shuhite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-18-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018002,
+            "text": "\u00b6     How long will ye hunt for words?\n    Consider, and afterwards we will speak.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018003,
+            "text": "    Wherefore are we counted as beasts,\n     are become unclean in your sight?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018004,
+            "text": "    Thou that tearest thyself in thine anger,\n    Shall the earth be forsaken for thee?\n    Or shall the rock be removed out of its place?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018005,
+            "text": "\u00b6   Yea, the light of the wicked shall be put out,\n  And the <i>[a]</i>spark of his fire shall not shine.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>flame</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018006,
+            "text": "  The light shall be dark in his tent,\n  And his lamp <i>[b]</i>above him shall be put out.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>beside</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018007,
+            "text": "    The steps of his strength shall be straitened,\n    And his own counsel shall cast him down.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018008,
+            "text": "    For he is cast into a net by his own feet,\n    And he walketh upon the toils.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018009,
+            "text": "    A gin shall take  by the heel,\n     a snare shall lay hold on him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018010,
+            "text": "    A noose is hid for him in the ground,\n    And a trap for him in the way.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018011,
+            "text": "    Terrors shall make him afraid on every side,\n    And shall chase him at his heels.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018012,
+            "text": "  His strength shall be hunger-bitten,\n  And calamity shall be ready <i>[c]</i>at his side.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>for his halting</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018013,
+            "text": "  The <i>[d]</i>members of his body shall be devoured,\n    , the first-born of death shall devour his members.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-13",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>bars of his skin</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018014,
+            "text": "  He shall be rooted out of his tent wherein he trusteth;\n  And <i>[e]</i>he shall be brought to the king of terrors.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-14",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>it shall</i> (or <i>thou shalt</i>) <i>bring him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018015,
+            "text": "   <i>[f]</i>There shall dwell in his tent that which is none of his:\n    Brimstone shall be scattered upon his habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>It shall dwell in his tent, that it be no more his</i> (or, <i>because it is none of his</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018016,
+            "text": "  His roots shall be dried up beneath,\n  And above shall his branch <i>[g]</i>be cut off.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>wither</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018017,
+            "text": "    His remembrance shall perish from the earth,\n    And he shall have no name in the street.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018018,
+            "text": "    He shall be driven from light into darkness,\n    And chased out of the world.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018019,
+            "text": "    He shall have neither son nor son\u2019s son among his people,\n    Nor any remaining where he sojourned.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018020,
+            "text": "  <i>[h]</i>They that come after shall be astonished at his day,\n  As they that went before <i>[i]</i>were affrighted.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-20",
+            "footnotes": [
+                {
+                    "h": "Or, <i>They that dwell in the west are\u00a0.\u00a0.\u00a0. as they that well in the east are etc.</i>"
+                },
+                {
+                    "i": "Hebrew <i>laid hold on horror</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18018021,
+            "text": "    Surely such are the dwellings of the unrighteous,\n    And this is the place of him that knoweth not God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-18-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 18
+}

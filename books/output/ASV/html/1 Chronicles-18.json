@@ -1,0 +1,194 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13018001,
+            "text": "\u00b6 And after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and its towns out of the hand of the Philistines. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018002,
+            "text": "And he smote Moab; and the Moabites became servants to David, and brought tribute.",
+            "version": "ASV",
+            "clsstr": "1Chr-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018003,
+            "text": "\u00b6 And David smote Hadarezer king of Zobah <i>[a]</i>unto Hamath, as he went to establish his dominion by the river Euphrates. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018004,
+            "text": "And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen; and David hocked all the chariot horses, but reserved of them for a hundred chariots.",
+            "version": "ASV",
+            "clsstr": "1Chr-18-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018005,
+            "text": "\u00b6 And when <i>[b]</i>the Syrians of <i>[c]</i>Damascus came to succor Hadarezer king of Zobah, David smote of <i>[d]</i>the Syrians two and twenty thousand men. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Aram</i>."
+                },
+                {
+                    "c": "Hebrew <i>Darmesek</i>."
+                },
+                {
+                    "d": "Hebrew <i>Aram</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018006,
+            "text": "Then David put in <i>[e]</i>Syria of <i>[f]</i>Damascus; and <i>[g]</i>the Syrians became servants to David, and brought tribute. And Jehovah <i>[h]</i>gave victory to David whithersoever he went. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-6",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>Aram</i>."
+                },
+                {
+                    "f": "Hebrew <i>Darmesek</i>."
+                },
+                {
+                    "g": "Hebrew <i>Aram</i>."
+                },
+                {
+                    "h": "Or, <i>saved David</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018007,
+            "text": "And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018008,
+            "text": "And from Tibhath and from Cun, cities of Hadarezer, David took very much brass, wherewith Solomon made the brazen sea, and the pillars, and the vessels of brass.",
+            "version": "ASV",
+            "clsstr": "1Chr-18-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018009,
+            "text": "\u00b6 And when Tou king of Hamath heard that David had smitten all the host of Hadarezer king of Zobah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018010,
+            "text": "he sent Hadoram his son to king David, to salute him, and to bless him, because he had fought against Hadarezer and smitten him (for Hadarezer had wars with Tou); and  all manner of vessels of gold and silver and brass. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018011,
+            "text": "These also did king David dedicate unto Jehovah, with the silver and the gold that he carried away from all the nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.",
+            "version": "ASV",
+            "clsstr": "1Chr-18-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018012,
+            "text": "\u00b6 Moreover <i>[i]</i>Abishai the son of Zeruiah smote of the Edomites in the Valley of Salt eighteen thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-12",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>Abshai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018013,
+            "text": "And he put garrisons in Edom; and all the Edomites became servants to David. And Jehovah gave victory to David whithersoever he went.",
+            "version": "ASV",
+            "clsstr": "1Chr-18-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018014,
+            "text": "\u00b6 And David reigned over all Israel; and he executed justice and righteousness unto all his people. ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018015,
+            "text": "And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was <i>[j]</i>recorder; ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-15",
+            "footnotes": [
+                {
+                    "j": "Or, <i>chronicler</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018016,
+            "text": "and Zadok the son of Ahitub, and Abimelech the son of Abiathar, were priests; and Shavsha was <i>[k]</i>scribe; ",
+            "version": "ASV",
+            "clsstr": "1Chr-18-16",
+            "footnotes": [
+                {
+                    "k": "Or, <i>secretary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13018017,
+            "text": "and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king.",
+            "version": "ASV",
+            "clsstr": "1Chr-18-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 18
+}

@@ -1,0 +1,87 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19014001,
+            "text": "<b>The folly and wickedness of men.</b>\n\u00b6 For the Chief Musician.  of David.\u00b6     The fool hath said in his heart, There is no God.\n    They are corrupt, they have done abominable works;\n    There is none that doeth good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-14-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19014002,
+            "text": "  Jehovah looked down from heaven upon the children of men,\n  To see if there were any that did <i>[a]</i>understand,\n    That did seek after God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-14-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>deal wisely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19014003,
+            "text": "    They are all gone aside; they are together become filthy;\n    There is none that doeth good, no, not one.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-14-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19014004,
+            "text": "    Have all the workers of iniquity no knowledge,\n    Who eat up my people  they eat bread,\n    And call not upon Jehovah?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-14-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19014005,
+            "text": "    There were they in great fear;\n    For God is in the generation of the righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-14-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19014006,
+            "text": "  Ye put to shame the counsel of the poor,\n   <i>[b]</i>Because Jehovah is his refuge.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-14-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>But</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19014007,
+            "text": "  Oh that the salvation of Israel were come out of Zion!\n  When Jehovah <i>[c]</i>bringeth back the captivity of his people,\n    Then shall Jacob rejoice,  Israel shall be glad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-14-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>returneth to</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 14
+}

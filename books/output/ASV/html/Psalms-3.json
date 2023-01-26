@@ -1,0 +1,94 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19003001,
+            "text": "<b>Morning prayer of trust in God.</b>\n\u00b6 A Psalm of David, when he fled from Absalom his son.\u00b6     Jehovah, how are mine adversaries increased!\n    Many are they that rise up against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19003002,
+            "text": " Many there are that say <i>[a]</i>of my soul,\n  There is no <i>[b]</i>help for him in God. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>to</i>"
+                },
+                {
+                    "b": "Or, <i>salvation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19003003,
+            "text": "    But thou, O Jehovah, art a shield about me;\n    My glory, and the lifter up of my head.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19003004,
+            "text": "    I cry unto Jehovah with my voice,\n    And he answereth me out of his holy hill. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19003005,
+            "text": "    I laid me down and slept;\n    I awaked; for Jehovah sustaineth me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19003006,
+            "text": "    I will not be afraid of ten thousands of the people\n    That have set themselves against me round about.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19003007,
+            "text": "    Arise, O Jehovah; save me, O my God:\n    For thou hast smitten all mine enemies upon the cheek bone;\n    Thou hast broken the teeth of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19003008,
+            "text": "   <i>[c]</i>Salvation belongeth unto Jehovah:\n    Thy blessing be upon thy people. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-3-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Victory</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 3
+}

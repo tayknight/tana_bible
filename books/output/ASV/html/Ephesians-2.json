@@ -1,0 +1,225 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 49,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 49,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 49002001,
+            "text": "\u00b6 And you , when ye were dead through your trespasses and sins, ",
+            "version": "ASV",
+            "clsstr": "Eph-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002002,
+            "text": "wherein ye once walked according to the <i>[a]</i>course of this world, according to the prince of the <i>[b]</i>powers of the air, of the spirit that now worketh in the sons of disobedience; ",
+            "version": "ASV",
+            "clsstr": "Eph-2-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>age</i>."
+                },
+                {
+                    "b": "Greek <i>power</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002003,
+            "text": "among whom we also all once lived in the lusts of our flesh, doing the desires of the flesh and of the <i>[c]</i>mind, and were by nature children of wrath, even as the rest:\u2014",
+            "version": "ASV",
+            "clsstr": "Eph-2-3",
+            "footnotes": [
+                {
+                    "c": "Greek <i>thoughts</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002004,
+            "text": "but God, being rich in mercy, for his great love wherewith he loved us, ",
+            "version": "ASV",
+            "clsstr": "Eph-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002005,
+            "text": "even when we were dead through our trespasses, made us alive together <i>[d]</i>with Christ (by grace have ye been saved), ",
+            "version": "ASV",
+            "clsstr": "Eph-2-5",
+            "footnotes": [
+                {
+                    "d": "Some ancient authorities read <i>in Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002006,
+            "text": "and raised us up with him, and made us to sit with him in the heavenly , in Christ Jesus: ",
+            "version": "ASV",
+            "clsstr": "Eph-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002007,
+            "text": "that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus: ",
+            "version": "ASV",
+            "clsstr": "Eph-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002008,
+            "text": "for by grace have ye been saved through faith; and that not of yourselves,  the gift of God; ",
+            "version": "ASV",
+            "clsstr": "Eph-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002009,
+            "text": "not of works, that no man should glory. ",
+            "version": "ASV",
+            "clsstr": "Eph-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002010,
+            "text": "For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.",
+            "version": "ASV",
+            "clsstr": "Eph-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002011,
+            "text": "\u00b6 Wherefore remember, that once ye, the Gentiles in the flesh, who are called Uncircumcision by that which is called Circumcision, in the flesh, made by hands; ",
+            "version": "ASV",
+            "clsstr": "Eph-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002012,
+            "text": "that ye were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world. ",
+            "version": "ASV",
+            "clsstr": "Eph-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002013,
+            "text": "But now in Christ Jesus ye that once were far off are made nigh in the blood of Christ. ",
+            "version": "ASV",
+            "clsstr": "Eph-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002014,
+            "text": "For he is our peace, who made both one, and brake down the middle wall of partition, ",
+            "version": "ASV",
+            "clsstr": "Eph-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002015,
+            "text": "having abolished in his flesh the enmity,  the law of commandments  in ordinances; that he might create in himself of the two one new man,  making peace; ",
+            "version": "ASV",
+            "clsstr": "Eph-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002016,
+            "text": "and might reconcile them both in one body unto God through the cross, having slain the enmity thereby: ",
+            "version": "ASV",
+            "clsstr": "Eph-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002017,
+            "text": "and he came and <i>[e]</i>preached peace to you that were far off, and peace to them that were nigh: ",
+            "version": "ASV",
+            "clsstr": "Eph-2-17",
+            "footnotes": [
+                {
+                    "e": "Greek <i>brought good tidings of peace</i>. Compare [[Mt. 11:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002018,
+            "text": "for through him we both have our access in one Spirit unto the Father. ",
+            "version": "ASV",
+            "clsstr": "Eph-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002019,
+            "text": "So then ye are no more strangers and sojourners, but ye are fellow-citizens with the saints, and of the household of God, ",
+            "version": "ASV",
+            "clsstr": "Eph-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002020,
+            "text": "being built upon the foundation of the apostles and prophets, Christ Jesus himself being the chief corner stone; ",
+            "version": "ASV",
+            "clsstr": "Eph-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002021,
+            "text": "in whom <i>[f]</i>each several building, fitly framed together, groweth into a holy <i>[g]</i>temple in the Lord; ",
+            "version": "ASV",
+            "clsstr": "Eph-2-21",
+            "footnotes": [
+                {
+                    "f": "Greek <i>every building</i>."
+                },
+                {
+                    "g": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49002022,
+            "text": "in whom ye also are builded together <i>[h]</i>for a habitation of God in the Spirit.",
+            "version": "ASV",
+            "clsstr": "Eph-2-22",
+            "footnotes": [
+                {
+                    "h": "Greek <i>into</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ephesians",
+    "chapters": 2
+}

@@ -1,0 +1,286 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18020001,
+            "text": "\u00b6 Then answered Zophar the Naamathite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020002,
+            "text": "\u00b6   Therefore do my thoughts give answer to me,\n   <i>[a]</i>Even by reason of my haste that is in me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>And by reason of</i> this <i>my haste is within me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020003,
+            "text": "  I have heard the reproof which putteth me to shame;\n   <i>[b]</i>And the spirit of my understanding answereth me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>But out of my understanding</i> my <i>spirit answereth me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020004,
+            "text": "    Knowest thou  this of old time,\n    Since man was placed upon earth,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020005,
+            "text": "    That the triumphing of the wicked is short,\n    And the joy of the godless but for a moment?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020006,
+            "text": "    Though his height mount up to the heavens,\n    And his head reach unto the clouds;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020007,
+            "text": "    Yet he shall perish for ever like his own dung:\n    They that have seen him shall say, Where is he?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020008,
+            "text": "    He shall fly away as a dream, and shall not be found:\n    Yea, he shall be chased away as a vision of the night.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020009,
+            "text": "    The eye which saw him shall see him no more;\n    Neither shall his place any more behold him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020010,
+            "text": "   <i>[c]</i>His children shall seek the favor of the poor,\n    And his hands shall give back his wealth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-10",
+            "footnotes": [
+                {
+                    "c": "Or, as otherwise read, <i>The poor shall oppress his children</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020011,
+            "text": "    His bones are full of his youth,\n    But it shall lie down with him in the dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020012,
+            "text": "\u00b6     Though wickedness be sweet in his mouth,\n    Though he hide it under his tongue,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020013,
+            "text": "    Though he spare it, and will not let it go,\n    But keep it still within his mouth;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020014,
+            "text": "    Yet his food in his bowels is turned,\n    It is the gall of asps within him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020015,
+            "text": "    He hath swallowed down riches, and he shall vomit them up again;\n    God will cast them out of his belly.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020016,
+            "text": "    He shall suck the poison of asps:\n    The viper\u2019s tongue shall slay him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020017,
+            "text": "    He shall not look upon the rivers,\n    The flowing streams of honey and butter.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020018,
+            "text": "  That which he labored for shall he restore, and shall not swallow it down;\n  According to the substance <i>[d]</i>that he hath gotten, he shall not rejoice.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-18",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>of his exchange</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020019,
+            "text": "  For he hath oppressed and forsaken the poor;\n  He hath violently taken away a house, <i>[e]</i>and he shall not build it up.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>which he builded not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020020,
+            "text": "\u00b6   Because he knew no quietness <i>[f]</i>within him,\n    He shall not save aught of that wherein he delighteth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-20",
+            "footnotes": [
+                {
+                    "f": "Or, <i>in his greed</i>. Hebrew <i>in his belly</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020021,
+            "text": "    There was nothing left that he devoured not;\n    Therefore his prosperity shall not endure.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020022,
+            "text": "    In the fulness of his sufficiency he shall be in straits:\n    The hand of every one that is in misery shall come upon him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020023,
+            "text": "  <i>[g]</i>When he is about to fill his belly, will cast the fierceness of his wrath upon him,\n  And will rain it upon him <i>[h]</i>while he is eating.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-23",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Let it be for the filling of his belly that God shall cast etc.</i>"
+                },
+                {
+                    "h": "Or, <i>as his food</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020024,
+            "text": "    He shall flee from the iron weapon,\n    And the bow of brass shall strike him through.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020025,
+            "text": "    He draweth it forth, and it cometh out of his body;\n    Yea, the glittering point cometh out of his gall:\n    Terrors are upon him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020026,
+            "text": "  All darkness is laid up for his treasures:\n  A fire not blown shall devour him;\n   <i>[i]</i>It shall consume that which is left in his tent.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-26",
+            "footnotes": [
+                {
+                    "i": "Or, <i>It shall go ill with him that is left</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020027,
+            "text": "    The heavens shall reveal his iniquity,\n    And the earth shall rise up against him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020028,
+            "text": "    The increase of his house shall depart;\n     shall flow away in the day of his wrath.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18020029,
+            "text": "    This is the portion of a wicked man from God,\n    And the heritage appointed unto him by God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-20-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 20
+}

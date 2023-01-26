@@ -1,0 +1,353 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9015001,
+            "text": "\u00b6 And Samuel said unto Saul, Jehovah sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015002,
+            "text": "Thus saith Jehovah of hosts, I <i>[a]</i>have marked that which Amalek did to Israel, how he set himself against him in the way, when he came up out of Egypt. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>will visit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015003,
+            "text": "Now go and smite Amalek, and <i>[b]</i>utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.",
+            "version": "ASV",
+            "clsstr": "1Sam-15-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>devote</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015004,
+            "text": "\u00b6 And Saul summoned the people, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015005,
+            "text": "And Saul came to the city of Amalek, and <i>[c]</i>laid wait in the valley. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>strove</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015006,
+            "text": "And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them; for ye showed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015007,
+            "text": "And Saul smote the Amalekites, from Havilah as thou goest to Shur, that is before Egypt. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015008,
+            "text": "And he took Agag the king of the Amalekites alive, and <i>[d]</i>utterly destroyed all the people with the edge of the sword. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>devoted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015009,
+            "text": "But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not <i>[e]</i>utterly destroy them: but everything that was vile and refuse, that they <i>[f]</i>destroyed utterly.",
+            "version": "ASV",
+            "clsstr": "1Sam-15-9",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>devote</i>."
+                },
+                {
+                    "f": "Hebrew <i>devoted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015010,
+            "text": "\u00b6 Then came the word of Jehovah unto Samuel, saying, ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015011,
+            "text": "It repenteth me that I have set up Saul to be king; for he is turned back from following me, and hath not performed my commandments. And Samuel was wroth; and he cried unto Jehovah all night. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015012,
+            "text": "And Samuel rose early to meet Saul in the morning; and it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a <i>[g]</i>monument, and turned, and passed on, and went down to Gilgal. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-12",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015013,
+            "text": "And Samuel came to Saul; and Saul said unto him, Blessed be thou of Jehovah: I have performed the commandment of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015014,
+            "text": "And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear? ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015015,
+            "text": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto Jehovah thy God; and the rest we have <i>[h]</i>utterly destroyed. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-15",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>devoted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015016,
+            "text": "Then Samuel said unto Saul, Stay, and I will tell thee what Jehovah hath said to me this night. And he said unto him, Say on.",
+            "version": "ASV",
+            "clsstr": "1Sam-15-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015017,
+            "text": "\u00b6 And Samuel said, <i>[i]</i>Though thou wast little in thine own sight, wast thou not made the head of the tribes of Israel? And Jehovah anointed thee king over Israel; ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Though thou be little\u00a0.\u00a0.\u00a0. art thou not head of the tribe of Israel?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015018,
+            "text": "and Jehovah sent thee on a journey, and said, Go, and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015019,
+            "text": "Wherefore then didst thou not obey the voice of Jehovah, but didst fly upon the spoil, and didst that which was evil in the sight of Jehovah? ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015020,
+            "text": "And Saul said unto Samuel, Yea, I have obeyed the voice of Jehovah, and have gone the way which Jehovah sent me, and have brought Agag the king of Amalek, and have <i>[j]</i>utterly destroyed the Amalekites. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-20",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>devoted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015021,
+            "text": "But the people took of the spoil, sheep and oxen, the chief of the devoted things, to sacrifice unto Jehovah thy God in Gilgal. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015022,
+            "text": "And Samuel said, Hath Jehovah as great delight in burnt-offerings and sacrifices, as in obeying the voice of Jehovah? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015023,
+            "text": "For rebellion is as the sin of <i>[k]</i>witchcraft, and stubbornness is as <i>[l]</i>idolatry and teraphim. Because thou hast rejected the word of Jehovah, he hath also rejected thee from being king.",
+            "version": "ASV",
+            "clsstr": "1Sam-15-23",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>divination</i>."
+                },
+                {
+                    "l": "Or, <i>iniquity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015024,
+            "text": "\u00b6 And Saul said unto Samuel, I have sinned; for I have transgressed the commandment of Jehovah, and thy words, because I feared the people, and obeyed their voice. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015025,
+            "text": "Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015026,
+            "text": "And Samuel said unto Saul, I will not return with thee; for thou hast rejected the word of Jehovah, and Jehovah hath rejected thee from being king over Israel. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015027,
+            "text": "And as Samuel turned about to go away,  laid hold upon the skirt of his robe, and it rent. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015028,
+            "text": "And Samuel said unto him, Jehovah hath rent the kingdom of Israel from thee this day, and hath given it to a neighbor of thine, that is better than thou. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015029,
+            "text": "And also the <i>[m]</i>Strength of Israel will not lie nor repent; for he is not a man, that he should repent. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-29",
+            "footnotes": [
+                {
+                    "m": "Or, <i>Victory</i>. Or, <i>Glory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015030,
+            "text": "Then he said, I have sinned: yet honor me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship Jehovah thy God. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015031,
+            "text": "So Samuel turned again after Saul; and Saul worshipped Jehovah.",
+            "version": "ASV",
+            "clsstr": "1Sam-15-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015032,
+            "text": "\u00b6 Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him cheerfully. And Agag said, Surely the bitterness of death is past. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015033,
+            "text": "And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before Jehovah in Gilgal.",
+            "version": "ASV",
+            "clsstr": "1Sam-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015034,
+            "text": "\u00b6 Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul. ",
+            "version": "ASV",
+            "clsstr": "1Sam-15-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9015035,
+            "text": "And Samuel came no more to see Saul until the day of his death; <i>[n]</i>for Samuel mourned for Saul: and Jehovah repented that he had made Saul king over Israel.",
+            "version": "ASV",
+            "clsstr": "1Sam-15-35",
+            "footnotes": [
+                {
+                    "n": "Or, <i>but</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 15
+}

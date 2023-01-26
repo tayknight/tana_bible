@@ -1,0 +1,282 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 10,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 10,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 10017001,
+            "text": "\u00b6 Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night: ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017002,
+            "text": "and I will come upon him while he is weary and weak-handed, and will make him afraid; and all the people that are with him shall flee; and I will smite the king only; ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017003,
+            "text": "and I will bring back all the people unto thee: the man whom thou seekest is as if all returned:  all the people shall be in peace. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017004,
+            "text": "And the saying pleased Absalom well, and all the elders of Israel.",
+            "version": "ASV",
+            "clsstr": "2Sam-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017005,
+            "text": "\u00b6 Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017006,
+            "text": "And when Hushai was come to Absalom, Absalom spake unto him, saying, Ahithophel hath spoken after this manner: shall we do  his saying? if not, speak thou. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017007,
+            "text": "And Hushai said unto Absalom, The counsel that Ahithophel hath given this time is not good. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017008,
+            "text": "Hushai said moreover, Thou knowest thy father and his men, that they are mighty men, and they are <i>[a]</i>chafed in their minds, as a bear robbed of her whelps in the field; and thy father is a man of war, and will not lodge with the people. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-8",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>bitter of soul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017009,
+            "text": "Behold, he is hid now in some pit, or in some place: and it will come to pass, <i>[b]</i>when some of them are fallen at the first, that whosoever heareth it will say, There is a slaughter among the people that follow Absalom. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>when he falleth upon them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017010,
+            "text": "And even he that is valiant, whose heart is as the heart of a lion, will utterly melt; for all Israel knoweth that thy father is a mighty man, and they that are with him are valiant men. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017011,
+            "text": "But I counsel that all Israel be gathered together unto thee, from Dan even to Beer-sheba, as the sand that is by the sea for multitude; and <i>[c]</i>that thou go to battle in thine own person. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-11",
+            "footnotes": [
+                {
+                    "c": "Or, <i>that thy presence</i> (Hebrew <i>face</i>) <i>go to the battle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017012,
+            "text": "So shall we come upon him in some place where he shall be found, and we will light upon him as the dew falleth on the ground; and of him and of all the men that are with him we will not leave so much as one. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017013,
+            "text": "Moreover, if he <i>[d]</i>be gotten into a city, then shall all Israel bring ropes to that city, and we will draw it into the river, until there be not one small stone found there. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>withdraw himself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017014,
+            "text": "And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For Jehovah had ordained to defeat the good counsel of Ahithophel, to the intent that Jehovah might bring evil upon Absalom.",
+            "version": "ASV",
+            "clsstr": "2Sam-17-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017015,
+            "text": "\u00b6 Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I counselled. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017016,
+            "text": "Now therefore send quickly, and tell David, saying, Lodge not this night <i>[e]</i>at the fords of the wilderness, but by all means pass over; lest the king be swallowed up, and all the people that are with him. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-16",
+            "footnotes": [
+                {
+                    "e": "Another reading is, <i>in the plains</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017017,
+            "text": " <i>[f]</i>Now Jonathan and Ahimaaz were staying by En-rogel; and a maid-servant used to go and tell them; and they went and told king David: for they might not be seen to come into the city. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Now Jonathan and Ahimaaz are staying by Enrogel; so let the maid-servant go and tell them, and let them go and tell king David; for they may not be seen to come into the city</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017018,
+            "text": "But a lad saw them, and told Absalom: and they went both of them away quickly, and came to the house of a man in Bahurim, who had a well in his court; and they went down thither. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017019,
+            "text": "And the woman took and spread the covering over the well\u2019s mouth, and strewed bruised grain thereon; and nothing was known. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017020,
+            "text": "And Absalom\u2019s servants came to the woman to the house; and they said, Where are Ahimaaz and Jonathan? And the woman said unto them, They are gone over the brook of water. And when they had sought and could not find them, they returned to Jerusalem.",
+            "version": "ASV",
+            "clsstr": "2Sam-17-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017021,
+            "text": "\u00b6 And it came to pass, after they were departed, that they came up out of the well, and went and told king David; and they said unto David, Arise ye, and pass quickly over the water; for thus hath Ahithophel counselled against you. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017022,
+            "text": "Then David arose, and all the people that were with him, and they passed over the Jordan: by the morning light there lacked not one of them that was not gone over the Jordan. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017023,
+            "text": "And when Ahithophel saw that his counsel was not followed, he saddled his ass, and arose, and gat him home, unto his city, and set his house in order, and hanged himself; and he died, and was buried in the sepulchre of his father.",
+            "version": "ASV",
+            "clsstr": "2Sam-17-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017024,
+            "text": "\u00b6 Then David came to Mahanaim. And Absalom passed over the Jordan, he and all the men of Israel with him. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017025,
+            "text": "And Absalom set Amasa over the host instead of Joab. Now Amasa was the son of a man, whose name was <i>[g]</i>Ithra the Israelite, that went in to <i>[h]</i>Abigal the daughter of Nahash, sister to Zeruiah, Joab\u2019s mother. ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-25",
+            "footnotes": [
+                {
+                    "g": "In [[1 Chr. 2:17]], <i>Jether the Ishmaelite</i>."
+                },
+                {
+                    "h": "In [[1 Chr. 2:16]], [[17]], <i>Abigail</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017026,
+            "text": "And Israel and Absalom encamped in the land of Gilead.",
+            "version": "ASV",
+            "clsstr": "2Sam-17-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017027,
+            "text": "\u00b6 And it came to pass, when David was come to Mahanaim, that Shobi the son of Nahash of Rabbah of the children of Ammon, and Machir the son of Ammiel of Lo-debar, and Barzillai the Gileadite of Rogelim, ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017028,
+            "text": "brought beds, and basins, and earthen vessels, and wheat, and barley, and meal, and parched , and beans, and lentils, and parched , ",
+            "version": "ASV",
+            "clsstr": "2Sam-17-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10017029,
+            "text": "and honey, and butter, and sheep, and cheese of the herd, for David, and for the people that were with him, to eat: for they said, The people are hungry, and weary, and thirsty, in the wilderness.",
+            "version": "ASV",
+            "clsstr": "2Sam-17-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Samuel",
+    "chapters": 17
+}

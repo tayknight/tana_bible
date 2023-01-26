@@ -1,0 +1,159 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26019001,
+            "text": "\u00b6 Moreover, take thou up a lamentation for the princes of Israel, ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019002,
+            "text": "and say, What was thy mother? A lioness: she couched among lions, in the midst of the young lions she nourished her whelps. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019003,
+            "text": "And she brought up one of her whelps: he became a young lion, and he learned to catch the prey; he devoured men. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019004,
+            "text": "The nations also heard of him; he was taken in their pit; and they brought him with hooks unto the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019005,
+            "text": "Now when she saw that she had waited, and her hope was lost, then she took another of her whelps, and made him a young lion. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019006,
+            "text": "And he went up and down among the lions; he became a young lion, and he learned to catch the prey; he devoured men. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019007,
+            "text": "And he knew their <i>[a]</i>palaces, and laid waste their cities; and the land was desolate, and the fulness thereof, because of the noise of his roaring. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-7",
+            "footnotes": [
+                {
+                    "a": "Or, <i>widows</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019008,
+            "text": "Then the nations set against him on every side from the provinces; and they spread their net over him; he was taken in their pit. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019009,
+            "text": "And they put him in a cage with hooks, and brought him to the king of Babylon; they brought him into strongholds, that his voice should no more be heard upon the mountains of Israel.",
+            "version": "ASV",
+            "clsstr": "Ezek-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019010,
+            "text": "\u00b6 Thy mother was like a vine, <i>[b]</i>in thy blood, planted by the waters: it was fruitful and full of branches by reason of many waters. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-10",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in thy likeness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019011,
+            "text": "And it had strong rods for the sceptres of them that bare rule, and <i>[c]</i>their stature was exalted among the <i>[d]</i>thick boughs, and <i>[e]</i>they were seen in <i>[f]</i>their height with the multitude of <i>[g]</i>their branches. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>his</i>."
+                },
+                {
+                    "d": "Or, <i>clouds</i>"
+                },
+                {
+                    "e": "Hebrew <i>he was</i>."
+                },
+                {
+                    "f": "Hebrew <i>his</i>."
+                },
+                {
+                    "g": "Hebrew <i>his</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019012,
+            "text": "But it was plucked up in fury, it was cast down to the ground, and the east wind dried up its fruit: its strong rods were broken off and withered; the fire consumed them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019013,
+            "text": "And now it is planted in the wilderness, in a dry and thirsty land. ",
+            "version": "ASV",
+            "clsstr": "Ezek-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26019014,
+            "text": "And fire is gone out of <i>[h]</i>the rods of its branches, it hath devoured its fruit, so that there is in it no strong rod to be a sceptre to rule. This is a lamentation, and shall be for a lamentation.",
+            "version": "ASV",
+            "clsstr": "Ezek-19-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>a rod</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 19
+}

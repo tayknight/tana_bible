@@ -1,0 +1,283 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13024001,
+            "text": "\u00b6 And the courses of the sons of Aaron . The sons of Aaron: Nadab and Abihu, Eleazar and Ithamar. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024002,
+            "text": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest\u2019s office. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024003,
+            "text": " <i>[a]</i>And David with Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, divided them according to their ordering in their service. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>And David divided them, even Zadok etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024004,
+            "text": "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and  were they divided: of the sons of Eleazar there were sixteen, heads of fathers\u2019 houses; and of the sons of Ithamar, according to their fathers\u2019 houses, eight. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024005,
+            "text": "Thus were they divided by lot, one sort with another; for there were princes of the sanctuary, and princes of God, both of the sons of Eleazar, and of the sons of Ithamar. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024006,
+            "text": "And Shemaiah the son of Nethanel the scribe, who was of the Levites, wrote them in the presence of the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and the heads of the fathers\u2019 of the priests and of the Levites; one fathers\u2019 house being taken for Eleazar, and <i>[b]</i>one taken for Ithamar.",
+            "version": "ASV",
+            "clsstr": "1Chr-24-6",
+            "footnotes": [
+                {
+                    "b": "The Hebrew text has <i>taken, taken</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024007,
+            "text": "\u00b6 Now the first lot came forth to Jehoiarib, the second to Jedaiah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024008,
+            "text": "the third to Harim, the fourth to Seorim, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024009,
+            "text": "the fifth to Malchijah, the sixth to Mijamin, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024010,
+            "text": "the seventh to Hakkoz, the eighth to Abijah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024011,
+            "text": "the ninth to Jeshua, the tenth to Shecaniah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024012,
+            "text": "the eleventh to Eliashib, the twelfth to Jakim, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024013,
+            "text": "the thirteenth to Huppah, the fourteenth to Jeshebeab, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024014,
+            "text": "the fifteenth to Bilgah, the sixteenth to Immer, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024015,
+            "text": "the seventeenth to Hezir, the eighteenth to Happizzez, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024016,
+            "text": "the nineteenth to Pethahiah, the twentieth to Jehezkel, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024017,
+            "text": "the one and twentieth to Jachin, the two and twentieth to Gamul, ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024018,
+            "text": "the three and twentieth to Delaiah, the four and twentieth to Maaziah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024019,
+            "text": "This was the ordering of them in their service, to come into the house of Jehovah according to the ordinance  unto them by Aaron their father, as Jehovah, the God of Israel, had commanded him.",
+            "version": "ASV",
+            "clsstr": "1Chr-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024020,
+            "text": "\u00b6 And of the rest of the sons of Levi: of the sons of Amram, <i>[c]</i>Shubael; of the sons of Shubael, Jehdeiah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-20",
+            "footnotes": [
+                {
+                    "c": "In [[23:16]], <i>Shebuel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024021,
+            "text": "Of Rehabiah: of the sons of Rehabiah, Isshiah the chief. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024022,
+            "text": "Of the Izharites, <i>[d]</i>Shelomoth; of the sons of Shelomoth, Jahath. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-22",
+            "footnotes": [
+                {
+                    "d": "In [[23:18]], <i>Shelomith</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024023,
+            "text": "And the sons : Jeriah , Amariah the second, Jahaziel the third, Jekameam the fourth. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024024,
+            "text": "The sons of Uzziel, Micah; of the sons of Micah, Shamir. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024025,
+            "text": "The brother of Micah, Isshiah; of the sons of Isshiah, Zechariah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024026,
+            "text": "The sons of Merari: Mahli and Mushi; the sons of Jaaziah: Beno. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024027,
+            "text": "The sons of Merari: of Jaaziah, Beno, and Shoham, and Zaccur, and Ibri. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024028,
+            "text": "Of Mahli: Eleazar, who had no sons. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024029,
+            "text": "Of Kish; the sons of Kish: Jerahmeel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024030,
+            "text": "And the sons of Mushi: Mahli, and Eder, and Jerimoth. These were the sons of the Levites after their fathers\u2019 houses. ",
+            "version": "ASV",
+            "clsstr": "1Chr-24-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13024031,
+            "text": "These likewise cast lots even as their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the heads of the fathers\u2019  of the priests and of the Levites; the fathers\u2019  of the chief even as those of his younger brother.",
+            "version": "ASV",
+            "clsstr": "1Chr-24-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 24
+}

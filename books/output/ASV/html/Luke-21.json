@@ -1,0 +1,356 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42021001,
+            "text": "\u00b6 And he looked up, <i>[a]</i>and saw the rich men that were casting their gifts into the treasury. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>and saw them that\u00a0.\u00a0.\u00a0. treasury, and they were rich</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021002,
+            "text": "And he saw a certain poor widow casting in thither two mites. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021003,
+            "text": "And he said, Of a truth I say unto you, This poor widow cast in more than they all: ",
+            "version": "ASV",
+            "clsstr": "Luke-21-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021004,
+            "text": "for all these did of their superfluity cast in unto the gifts; but she of her want did cast in all the living that she had.",
+            "version": "ASV",
+            "clsstr": "Luke-21-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021005,
+            "text": "\u00b6 And as some spake of the temple, how it was adorned with goodly stones and offerings, he said, ",
+            "version": "ASV",
+            "clsstr": "Luke-21-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021006,
+            "text": "As for these things which ye behold, the days will come, in which there shall not be left here one stone upon another, that shall not be thrown down. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021007,
+            "text": "And they asked him, saying, Teacher, when therefore shall these things be? and what  the sign when these things are about to come to pass? ",
+            "version": "ASV",
+            "clsstr": "Luke-21-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021008,
+            "text": "And he said, Take heed that ye be not led astray: for many shall come in my name, saying, I am ; and, The time is at hand: go ye not after them. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021009,
+            "text": "And when ye shall hear of wars and tumults, be not terrified: for these things must needs come to pass first; but the end is not immediately.",
+            "version": "ASV",
+            "clsstr": "Luke-21-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021010,
+            "text": "\u00b6 Then said he unto them, Nation shall rise against nation, and kingdom against kingdom; ",
+            "version": "ASV",
+            "clsstr": "Luke-21-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021011,
+            "text": "and there shall be great earthquakes, and in divers places famines and pestilences; and there shall be terrors and great signs from heaven. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021012,
+            "text": "But before all these things, they shall lay their hands on you, and shall persecute you, delivering you up to the synagogues and prisons, <i>[b]</i>bringing you before kings and governors for my name\u2019s sake. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-12",
+            "footnotes": [
+                {
+                    "b": "Greek <i>you being brought</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021013,
+            "text": "It shall turn out unto you for a testimony. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021014,
+            "text": "Settle it therefore in your hearts, not to meditate beforehand how to answer: ",
+            "version": "ASV",
+            "clsstr": "Luke-21-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021015,
+            "text": "for I will give you a mouth and wisdom, which all your adversaries shall not be able to withstand or to gainsay. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021016,
+            "text": "But ye shall be <i>[c]</i>delivered up even by parents, and brethren, and kinsfolk, and friends; and of you <i>[d]</i>shall they cause to be put to death. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-16",
+            "footnotes": [
+                {
+                    "c": "Or, <i>betrayed</i>"
+                },
+                {
+                    "d": "Or, <i>shall they put to death</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021017,
+            "text": "And ye shall be hated of all men for my name\u2019s sake. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021018,
+            "text": "And not a hair of your head shall perish. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021019,
+            "text": "In your <i>[e]</i>patience ye shall win your <i>[f]</i>souls.",
+            "version": "ASV",
+            "clsstr": "Luke-21-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>stedfastness</i>"
+                },
+                {
+                    "f": "Or, <i>lives</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021020,
+            "text": "\u00b6 But when ye see Jerusalem compassed with armies, then know that her desolation is at hand. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021021,
+            "text": "Then let them that are in Judaea flee unto the mountains; and let them that are in the midst of her depart out; and let not them that are in the country enter therein. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021022,
+            "text": "For these are days of vengeance, that all things which are written may be fulfilled. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021023,
+            "text": "Woe unto them that are with child and to them that give suck in those days! for there shall be great distress upon the <i>[g]</i>land, and wrath unto this people. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-23",
+            "footnotes": [
+                {
+                    "g": "Or, <i>earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021024,
+            "text": "And they shall fall by the edge of the sword, and shall be led captive into all the nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.",
+            "version": "ASV",
+            "clsstr": "Luke-21-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021025,
+            "text": "\u00b6 And there shall be signs in sun and moon and stars; and upon the earth distress of nations, in perplexity for the roaring of the sea and the billows; ",
+            "version": "ASV",
+            "clsstr": "Luke-21-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021026,
+            "text": "men <i>[h]</i>fainting for fear, and for expectation of the things which are coming on <i>[i]</i>the world: for the powers of the heavens shall be shaken. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-26",
+            "footnotes": [
+                {
+                    "h": "Or, <i>expiring</i>"
+                },
+                {
+                    "i": "Greek <i>the inhabited earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021027,
+            "text": "And then shall they see the Son of man coming in a cloud with power and great glory. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021028,
+            "text": "But when these things begin to come to pass, look up, and lift up your heads; because your redemption draweth nigh.",
+            "version": "ASV",
+            "clsstr": "Luke-21-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021029,
+            "text": "\u00b6 And he spake to them a parable: Behold the fig tree, and all the trees: ",
+            "version": "ASV",
+            "clsstr": "Luke-21-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021030,
+            "text": "when they now shoot forth, ye see it and know of your own selves that the summer is now nigh. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021031,
+            "text": "Even so ye also, when ye see these things coming to pass, know ye that the kingdom of God is nigh. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021032,
+            "text": "Verily I say unto you, This generation shall not pass away, till all things be accomplished. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021033,
+            "text": "Heaven and earth shall pass away: but my words shall not pass away.",
+            "version": "ASV",
+            "clsstr": "Luke-21-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021034,
+            "text": "\u00b6 But take heed to yourselves, lest haply your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and that day come on you suddenly as a snare: ",
+            "version": "ASV",
+            "clsstr": "Luke-21-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021035,
+            "text": "for  shall it come upon all them that dwell on the face of all the earth. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021036,
+            "text": "But watch ye at every season, making supplication, that ye may prevail to escape all these things that shall come to pass, and to stand before the Son of man.",
+            "version": "ASV",
+            "clsstr": "Luke-21-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021037,
+            "text": "\u00b6 And every day he was teaching in the temple; and every night he went out, and lodged in the mount that is called Olivet. ",
+            "version": "ASV",
+            "clsstr": "Luke-21-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42021038,
+            "text": "And all the people came early in the morning to him in the temple, to hear him.",
+            "version": "ASV",
+            "clsstr": "Luke-21-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 21
+}

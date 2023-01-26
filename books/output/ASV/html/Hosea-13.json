@@ -1,0 +1,194 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28013001,
+            "text": "\u00b6 When Ephraim <i>[a]</i>spake, there was trembling; he exalted himself in Israel; but when he <i>[b]</i>offended in Baal, he died. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>spake with trembling etc.</i>"
+                },
+                {
+                    "b": "Or, <i>became guilty</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013002,
+            "text": "And now they sin more and more, and have made them molten images of their silver, even idols according to their own understanding, all of them the work of the craftsmen: they say of them, Let <i>[c]</i>the men that sacrifice kiss the calves. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the sacrificers of men</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013003,
+            "text": "Therefore they shall be as the morning cloud, and as the dew that passeth early away, as the chaff that is driven with the whirlwind out of the threshing-floor, and as the smoke out of the chimney.",
+            "version": "ASV",
+            "clsstr": "Hos-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013004,
+            "text": "\u00b6 Yet I am Jehovah thy God from the land of Egypt; and thou <i>[d]</i>shalt know no god but me, and besides me there is no saviour. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>knowest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013005,
+            "text": "I did know thee in the wilderness, in the land of great drought. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013006,
+            "text": "According to their pasture, so were they filled; they were filled, and their heart was exalted: therefore have they forgotten me. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013007,
+            "text": "Therefore am I unto them as a lion; as a leopard will I watch by the way; ",
+            "version": "ASV",
+            "clsstr": "Hos-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013008,
+            "text": "I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart; and there will I devour them like a lioness; the wild beast shall tear them.",
+            "version": "ASV",
+            "clsstr": "Hos-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013009,
+            "text": "\u00b6 <i>[e]</i>It is thy destruction, O Israel, <i>[f]</i>that  against me, against thy help. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Thou art destroyed, O Israel; for</i> thou <i>etc.</i>"
+                },
+                {
+                    "f": "Or, <i>for in me, in thy help</i>\u2014Or, <i>but in me is thy help</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013010,
+            "text": "Where now is thy king, that he may save thee in all thy cities? and thy judges, of whom thou saidst, Give me a king and princes? ",
+            "version": "ASV",
+            "clsstr": "Hos-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013011,
+            "text": "I have given thee a king in mine anger, and have taken him away in my wrath. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013012,
+            "text": "The iniquity of Ephraim is bound up; his sin is laid up in store. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013013,
+            "text": "The sorrows of a travailing woman shall come upon him: he is an unwise son; <i>[g]</i>for it is time he should not tarry in the place of the breaking forth of children. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>when it is time, he standeth not in etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013014,
+            "text": "I will ransom them from the <i>[h]</i>power of Sheol; I will redeem them from death: O death, <i>[i]</i>where are thy plagues? O Sheol, <i>[j]</i>where is thy destruction? repentance shall be hid from mine eyes.",
+            "version": "ASV",
+            "clsstr": "Hos-13-14",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>hand</i>."
+                },
+                {
+                    "i": "Or, <i>I will be</i>"
+                },
+                {
+                    "j": "Or, <i>I will be</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013015,
+            "text": "\u00b6 Though he be fruitful among his brethren, an east wind shall come, the <i>[k]</i>breath of Jehovah coming up from the wilderness; and his spring shall become dry, and his fountain shall be dried up: <i>[l]</i>he shall make spoil of the treasure of all goodly vessels. ",
+            "version": "ASV",
+            "clsstr": "Hos-13-15",
+            "footnotes": [
+                {
+                    "k": "Or, <i>wind</i>"
+                },
+                {
+                    "l": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28013016,
+            "text": "Samaria shall <i>[m]</i>bear her guilt; for she hath rebelled against her God: they shall fall by the sword; their infants shall be dashed in pieces, and their women with child shall be ripped up.",
+            "version": "ASV",
+            "clsstr": "Hos-13-16",
+            "footnotes": [
+                {
+                    "m": "Or, <i>become desolate</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 13
+}

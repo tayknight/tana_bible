@@ -1,0 +1,341 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18021001,
+            "text": "\u00b6 Then Job answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-21-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021002,
+            "text": "\u00b6     Hear diligently my speech;\n    And let this be your consolations.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021003,
+            "text": "  Suffer me, and I also will speak;\n  And after that I have spoken, <i>[a]</i>mock on.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>thou shalt mock</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021004,
+            "text": "  As for me, is my complaint <i>[b]</i>to man?\n    And why should I not be impatient?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021005,
+            "text": "   <i>[c]</i>Mark me, and be astonished,\n    And lay your hand upon your mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Look unto me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021006,
+            "text": "    Even when I remember I am troubled,\n    And horror taketh hold on my flesh.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021007,
+            "text": "    Wherefore do the wicked live,\n    Become old, yea, wax mighty in power?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021008,
+            "text": "    Their seed is established with them in their sight,\n    And their offspring before their eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021009,
+            "text": "  Their houses are <i>[d]</i>safe from fear,\n    Neither is the rod of God upon them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>in peace, without fear</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021010,
+            "text": "    Their bull gendereth, and faileth not;\n    Their cow calveth, and casteth not her calf.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021011,
+            "text": "    They send forth their little ones like a flock,\n    And their children dance.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021012,
+            "text": "  They <i>[e]</i>sing to the timbrel and harp,\n    And rejoice at the sound of the pipe.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-12",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>lift up</i> the voice."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021013,
+            "text": "    They spend their days in prosperity,\n    And in a moment they go down to Sheol.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021014,
+            "text": "    And they say unto God, Depart from us;\n    For we desire not the knowledge of thy ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021015,
+            "text": "    What is the Almighty, that we should serve him?\n    And what profit should we have, if we pray unto him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021016,
+            "text": "   <i>[f]</i>Lo, their prosperity is not in their hand:\n    The counsel of the wicked is far from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-16",
+            "footnotes": [
+                {
+                    "f": "Or, Ye say, <i>Lo etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021017,
+            "text": "\u00b6   <i>[g]</i>How oft is it that the lamp of the wicked is put out?\n    That their calamity cometh upon them?\n    That  distributeth sorrows in his anger?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>How oft is the lamp of the wicked put out, And</i> how oft <i>cometh their calamity upon them!</i> God <i>distributeth sorrows in his anger. They are as stubble\u00a0.\u00a0.\u00a0. away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021018,
+            "text": "    That they are as stubble before the wind,\n    And as chaff that the storm carrieth away?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021019,
+            "text": "   <i>[h]</i>, God layeth up his iniquity for his children.\n    Let him recompense it unto himself, that he may know it:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-19",
+            "footnotes": [
+                {
+                    "h": "Or, <i>God layeth up his iniquity for his children: He rewardeth him, and he shall know it. His eyes shall see his destruction, and he shall drink etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021020,
+            "text": "    Let his own eyes see his destruction,\n    And let him drink of the wrath of the Almighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021021,
+            "text": "    For what careth he for his house after him,\n    When the number of his months is cut off?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021022,
+            "text": "    Shall any teach God knowledge,\n    Seeing he judgeth those that are high?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021023,
+            "text": "    One dieth in his full strength,\n    Being wholly at ease and quiet:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021024,
+            "text": "    His pails are full of milk,\n    And the marrow of his bones is moistened.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021025,
+            "text": "    And another dieth in bitterness of soul,\n    And never tasteth of good.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021026,
+            "text": "    They lie down alike in the dust,\n    And the worm covereth them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021027,
+            "text": "\u00b6     Behold, I know your thoughts,\n    And the devices wherewith ye would wrong me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021028,
+            "text": "    For ye say, Where is the house of the prince?\n    And where is the tent wherein the wicked dwelt?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021029,
+            "text": "    Have ye not asked wayfaring men?\n    And do ye not know their evidences,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021030,
+            "text": " That the evil man is <i>[i]</i>reserved to the day of calamity?\n  That they are <i>[j]</i>led forth to the day of wrath?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-30",
+            "footnotes": [
+                {
+                    "i": "Or, <i>spared in etc.</i>"
+                },
+                {
+                    "j": "Or, <i>led away in etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021031,
+            "text": "    Who shall declare his way to his face?\n    And who shall repay him what he hath done?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021032,
+            "text": "   <i>[k]</i>Yet shall he be borne to the grave,\n    And men shall keep watch over the tomb.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-32",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Moreover he is borne to the grave, And keepeth watch over his tomb. The clods of the valley are sweet unto him; And all men draw etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021033,
+            "text": "    The clods of the valley shall be sweet unto him,\n    And all men shall draw after him,\n    As there were innumerable before him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18021034,
+            "text": " How then comfort ye me <i>[l]</i>in vain,\n  Seeing in your answers there remaineth  <i>[m]</i>falsehood?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-21-34",
+            "footnotes": [
+                {
+                    "l": "Or, <i>with vanity</i>"
+                },
+                {
+                    "m": "Or, <i>faithlessness</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 21
+}

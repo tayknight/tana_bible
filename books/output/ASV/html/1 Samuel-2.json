@@ -1,0 +1,371 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9002001,
+            "text": "\u00b6 And Hannah prayed, and said:\u00b6     My heart exulteth in Jehovah;\n    My horn is exalted in Jehovah;\n    My mouth is enlarged over mine enemies;\n    Because I rejoice in thy salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002002,
+            "text": "    There is none holy as Jehovah;\n    For there is none besides thee,\n    Neither is there any rock like our God.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002003,
+            "text": "  Talk no more so exceeding proudly;\n  Let not arrogancy come out of your mouth;\n  For Jehovah is a God of knowledge,\n   <i>[a]</i>And by him actions are weighed.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-3",
+            "footnotes": [
+                {
+                    "a": "According to another reading, <i>Though actions be not weighed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002004,
+            "text": "    The bows of the mighty men are broken;\n    And they that stumbled are girded with strength.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002005,
+            "text": "  They that were full have hired out themselves for bread;\n  And they that were hungry <i>[b]</i>have ceased :\n    Yea, the barren hath borne seven;\n    And she that hath many children languisheth.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>have rest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002006,
+            "text": "    Jehovah killeth, and maketh alive:\n    He bringeth down to Sheol, and bringeth up.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002007,
+            "text": "    Jehovah maketh poor, and maketh rich:\n    He bringeth low, he also lifteth up.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002008,
+            "text": "    He raiseth up the poor out of the dust,\n    He lifteth up the needy from the dunghill,\n    To make them sit with princes,\n    And inherit the throne of glory:\n    For the pillars of the earth are Jehovah\u2019s,\n    And he hath set the world upon them.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002009,
+            "text": "  He will keep the feet of his <i>[c]</i>holy ones;\n    But the wicked shall be put to silence in darkness;\n    For by strength shall no man prevail.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>godly ones</i> Another reading is, <i>holy one</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002010,
+            "text": "    They that strive with Jehovah shall be broken to pieces;\n    Against them will he thunder in heaven:\n    Jehovah will judge the ends of the earth;\n    And he will give strength unto his king,\n    And exalt the horn of his anointed.\n    ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002011,
+            "text": "\u00b6 And Elkanah went to Ramah to his house. And the child did minister unto Jehovah before Eli the priest.",
+            "version": "ASV",
+            "clsstr": "1Sam-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002012,
+            "text": "\u00b6 Now the sons of Eli were base men; <i>[d]</i>they knew not Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>they know not Jehovah, nor the due of the priests from the people. When any man etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002013,
+            "text": "And the custom of the priests with the people was, that, when any man offered sacrifice, the priest\u2019s servant came, while the flesh was boiling, with a flesh-hook of three teeth in his hand; ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002014,
+            "text": "and he struck it into the pan, or kettle, or caldron, or pot; all that the flesh-hook brought up the priest took therewith. So they did in Shiloh unto all the Israelites that came thither. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002015,
+            "text": "Yea, before they burnt the fat, the priest\u2019s servant came, and said to the man that sacrificed, Give flesh to roast for the priest; for he will not have boiled flesh of thee, but raw. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002016,
+            "text": "And if the man said unto him, They will surely burn the fat <i>[e]</i>first, and then take as much as thy soul desireth; then <i>[f]</i>he would say, Nay, but thou shalt give it me now: and if not, I will take it by force. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-16",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>to-day</i>."
+                },
+                {
+                    "f": "Another reading is, <i>he would say unto him, Thou etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002017,
+            "text": "And the sin of the young men was very great before Jehovah; for the men despised the offering of Jehovah.",
+            "version": "ASV",
+            "clsstr": "1Sam-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002018,
+            "text": "\u00b6 But Samuel ministered before Jehovah, being a child, girded with a linen ephod. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002019,
+            "text": "Moreover his mother made him a little robe, and brought it to him from year to year, when she came up with her husband to offer the yearly sacrifice. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002020,
+            "text": "And Eli blessed Elkanah and his wife, and said, Jehovah give thee seed of this woman for the petition which was asked of Jehovah. And they went unto their own home. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002021,
+            "text": " <i>[g]</i>And Jehovah visited Hannah, and she conceived, and bare three sons and two daughters. And the child Samuel grew before Jehovah.",
+            "version": "ASV",
+            "clsstr": "1Sam-2-21",
+            "footnotes": [
+                {
+                    "g": "The Hebrew has, <i>For</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002022,
+            "text": "\u00b6 Now Eli was very old; and he heard all that his sons did unto all Israel, and how that they lay with the women that did service at the door of the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002023,
+            "text": "And he said unto them, Why do ye such things? for I hear of your evil dealings from all this people. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002024,
+            "text": "Nay, my sons; for it is no good report <i>[h]</i>that I hear: ye make Jehovah\u2019s people to transgress. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-24",
+            "footnotes": [
+                {
+                    "h": "Or, <i>which I hear Jehovah\u2019s people do spread abroad</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002025,
+            "text": "If one man sin against another, <i>[i]</i>God shall judge him; but if a man sin against Jehovah, who shall entreat for him? Notwithstanding, they hearkened not unto the voice of their father, because Jehovah was minded to slay them. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-25",
+            "footnotes": [
+                {
+                    "i": "Or, <i>the judge</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002026,
+            "text": "And the child Samuel grew on, and increased in favor both with Jehovah, and also with men.",
+            "version": "ASV",
+            "clsstr": "1Sam-2-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002027,
+            "text": "\u00b6 And there came a man of God unto Eli, and said unto him, Thus saith Jehovah, Did I reveal myself unto the house of thy father, when they were in Egypt <i>[j]</i> to Pharaoh\u2019s house? ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-27",
+            "footnotes": [
+                {
+                    "j": "Or, <i>in Pharaoh\u2019s house</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002028,
+            "text": " <i>[k]</i>and did I choose him out of all the tribes of Israel to be my priest, to <i>[l]</i>go up unto mine altar, to burn incense, to wear an ephod before me? <i>[m]</i>and did I give unto the house of thy father all the offerings of the children of Israel made by fire? ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-28",
+            "footnotes": [
+                {
+                    "k": "Or, <i>And I chose</i>"
+                },
+                {
+                    "l": "Or, <i>offer upon</i>"
+                },
+                {
+                    "m": "Or, <i>and gave</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002029,
+            "text": "Wherefore <i>[n]</i>kick ye at my sacrifice and at mine offering, which I have commanded in  habitation, and honorest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people? ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-29",
+            "footnotes": [
+                {
+                    "n": "Or, <i>trample ye upon\u00a0.\u00a0.\u00a0. and upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002030,
+            "text": "Therefore Jehovah, the God of Israel, saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now Jehovah saith, Be it far from me; for them that honor me I will honor, and they that despise me shall be lightly esteemed. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002031,
+            "text": "Behold, the days come, that I will cut off thine arm, and the arm of thy father\u2019s house, that there shall not be an old man in thy house. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002032,
+            "text": "And thou shalt behold <i>[o]</i>the affliction of  habitation, in all the wealth which  shall give Israel; and there shall not be an old man in thy house for ever. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-32",
+            "footnotes": [
+                {
+                    "o": "Or, <i>an adversary in</i> my <i>habitation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002033,
+            "text": " <i>[p]</i>And the man of thine, I shall not cut off from mine altar, to consume thine eyes, and to grieve thy heart; and all the increase of thy house shall die <i>[q]</i>in the flower of their age. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-33",
+            "footnotes": [
+                {
+                    "p": "Or, <i>Yet will I not cut off every man of thine from mine altar, to consume etc.</i>"
+                },
+                {
+                    "q": "Hebrew when they are <i>men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002034,
+            "text": "And this shall be the sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas: in one day they shall die both of them. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002035,
+            "text": "And I will raise me up a faithful priest, that shall do according to that which is in my heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever. ",
+            "version": "ASV",
+            "clsstr": "1Sam-2-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9002036,
+            "text": "And it shall come to pass, that every one that is left in thy house shall come and bow down to him for a piece of silver and a loaf of bread, and shall say, Put me, I pray thee, into one of the priests\u2019 offices, that I may eat a morsel of bread.",
+            "version": "ASV",
+            "clsstr": "1Sam-2-36",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 2
+}

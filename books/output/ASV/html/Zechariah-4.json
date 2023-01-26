@@ -1,0 +1,146 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 38,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 38,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 38004001,
+            "text": "\u00b6 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep. ",
+            "version": "ASV",
+            "clsstr": "Zech-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004002,
+            "text": "And he said unto me, What seest thou? And I said, I have seen, and, behold, a candlestick all of gold, with its bowl upon the top of it, and its seven lamps thereon; <i>[a]</i>there are seven pipes to each of the lamps, which are upon the top thereof; ",
+            "version": "ASV",
+            "clsstr": "Zech-4-2",
+            "footnotes": [
+                {
+                    "a": "The Septuagint and Vulgate have <i>and seven pipes to the lamps</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004003,
+            "text": "and two olive-trees by it, one upon the right side of the bowl, and the other upon the left side thereof. ",
+            "version": "ASV",
+            "clsstr": "Zech-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004004,
+            "text": "And I answered and spake to the angel that talked with me, saying, What are these, my lord? ",
+            "version": "ASV",
+            "clsstr": "Zech-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004005,
+            "text": "Then the angel that talked with me answered and said unto me, Knowest thou not what these are? And I said, No, my lord. ",
+            "version": "ASV",
+            "clsstr": "Zech-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004006,
+            "text": "Then he answered and spake unto me, saying, This is the word of Jehovah unto Zerubbabel, saying, Not by <i>[b]</i>might, nor by power, but by my Spirit, saith Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Zech-4-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>an army</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004007,
+            "text": "Who art thou, O great mountain? before Zerubbabel  a plain; and he shall bring forth the top stone with shoutings of Grace, grace, unto it. ",
+            "version": "ASV",
+            "clsstr": "Zech-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004008,
+            "text": "Moreover the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Zech-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004009,
+            "text": "The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that Jehovah of hosts hath sent me unto you. ",
+            "version": "ASV",
+            "clsstr": "Zech-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004010,
+            "text": "For who hath despised the day of small things? for these seven shall rejoice, and shall see the plummet in the hand of Zerubbabel;  the eyes of Jehovah, which run to and fro through the whole earth.",
+            "version": "ASV",
+            "clsstr": "Zech-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004011,
+            "text": "\u00b6 Then answered I, and said unto him, What are these two olive-trees upon the right side of the candlestick and upon the left side thereof? ",
+            "version": "ASV",
+            "clsstr": "Zech-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004012,
+            "text": "And I answered the second time, and said unto him, What are these two olive-branches, <i>[c]</i>which are beside the two golden spouts, that empty <i>[d]</i>the golden  out of themselves? ",
+            "version": "ASV",
+            "clsstr": "Zech-4-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>which by means of the two golden sprouts empty</i>"
+                },
+                {
+                    "d": "Hebrew <i>the gold</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004013,
+            "text": "And he answered me and said, Knowest thou not what these are? And I said, No, my lord. ",
+            "version": "ASV",
+            "clsstr": "Zech-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38004014,
+            "text": "Then said he, These are the two anointed ones, that stand by the Lord of the whole earth.",
+            "version": "ASV",
+            "clsstr": "Zech-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Zechariah",
+    "chapters": 4
+}

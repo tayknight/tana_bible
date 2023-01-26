@@ -1,0 +1,146 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46005001,
+            "text": "\u00b6 It is actually reported that there is fornication among you, and such fornication as is not even among the Gentiles, that one  hath his father\u2019s wife. ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005002,
+            "text": "And <i>[a]</i>ye are puffed up, and <i>[b]</i>did not rather mourn, that he that had done this deed might be taken away from among you. ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>are ye puffed up?</i>"
+                },
+                {
+                    "b": "Or, <i>did ye not rather mourn, \u00a0.\u00a0.\u00a0. you?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005003,
+            "text": "For I verily, being absent in body but present in spirit, have already as though I were present judged him that hath so wrought this thing, ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005004,
+            "text": "in the name of our Lord Jesus, ye being gathered together, and my spirit, with the power of our Lord Jesus, ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005005,
+            "text": "to deliver such a one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord <i>[c]</i>Jesus. ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-5",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities omit <i>Jesus</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005006,
+            "text": "Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump? ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005007,
+            "text": "Purge out the old leaven, that ye may be a new lump, even as ye are unleavened. For our passover also hath been sacrificed,  Christ: ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005008,
+            "text": "wherefore let us <i>[d]</i>keep the feast, not with old leaven, neither with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.",
+            "version": "ASV",
+            "clsstr": "1Cor-5-8",
+            "footnotes": [
+                {
+                    "d": "Greek <i>keep festival</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005009,
+            "text": "\u00b6 I wrote unto you in my epistle to have no company with fornicators; ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005010,
+            "text": " <i>[e]</i>not at all  with the fornicators of this world, or with the covetous and extortioners, or with idolaters; for then must ye needs go out of the world: ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>not altogether with the fornicators etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005011,
+            "text": "but <i>[f]</i>as it is, I wrote unto you not to keep company, if any man that is named a brother be a fornicator, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner; with such a one no, not to eat. ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>now I write</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005012,
+            "text": "For what have I to do with judging them that are without? Do not ye judge them that are within? ",
+            "version": "ASV",
+            "clsstr": "1Cor-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46005013,
+            "text": "But them that are without God judgeth. Put away the wicked man from among yourselves.",
+            "version": "ASV",
+            "clsstr": "1Cor-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 5
+}

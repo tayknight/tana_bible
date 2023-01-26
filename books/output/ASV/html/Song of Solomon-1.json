@@ -1,0 +1,196 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 22,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 8,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 22,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 22001001,
+            "text": "\u00b6 The Song of songs, which is Solomon\u2019s.",
+            "version": "ASV",
+            "clsstr": "Song-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001002,
+            "text": "\u00b6     Let him kiss me with the kisses of his mouth;\n    For thy love is better than wine.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001003,
+            "text": "  Thine oils have a goodly fragrance;\n  Thy name is oil poured forth;\n  Therefore do the <i>[a]</i>virgins love thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>maidens</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001004,
+            "text": "  Draw me; we will run after thee:\n  The king hath brought me into his chambers;\n  We will be glad and rejoice in thee;\n  We will make mention of thy love more than of wine:\n   <i>[b]</i>Rightly do they love thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>In uprightness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001005,
+            "text": "    I am black, but comely,\n    Oh ye daughters of Jerusalem,\n    As the tents of Kedar,\n    As the curtains of Solomon.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001006,
+            "text": "  Look not upon me, because I am swarthy,\n  Because the sun hath <i>[c]</i>scorched me.\n    My mother\u2019s sons were incensed against me;\n    They made me keeper of the vineyards;\n     mine own vineyard have I not kept.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>looked upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001007,
+            "text": "    Tell me, O thou whom my soul loveth,\n    Where thou feedest ,\n    Where thou makest  to rest at noon:\n    For why should I be as one that is veiled\n    Beside the flocks of thy companions?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001008,
+            "text": "\u00b6     If thou know not, O thou fairest among women,\n    Go thy way forth by the footsteps of the flock,\n    And feed thy kids beside the shepherds\u2019 tents.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001009,
+            "text": "\u00b6  I have compared thee, O <i>[d]</i>my love,\n   <i>[e]</i>To a steed in Pharaoh\u2019s chariots.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>my friend</i> (and so throughout)"
+                },
+                {
+                    "e": "Or, <i>To the steeds</i>. Or, <i>To my steed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001010,
+            "text": "    Thy cheeks are comely with plaits ,\n    Thy neck with strings of jewels.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001011,
+            "text": "    We will make thee plaits of gold\n    With studs of silver.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001012,
+            "text": "    While the king sat at his table,\n    My spikenard sent forth its fragrance.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001013,
+            "text": "  My beloved is unto me a <i>[f]</i>bundle of myrrh,\n    That lieth betwixt my breasts.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>bag</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001014,
+            "text": "  My beloved is unto me a cluster of <i>[g]</i>henna-flowers\n    In the vineyards of En-gedi.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-14",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>copher</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001015,
+            "text": "\u00b6   Behold, thou art fair, my love;\n  Behold thou art fair;\n   <i>[h]</i>Thine eyes are  doves.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Thou hast doves\u2019 eyes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001016,
+            "text": "\u00b6     Behold, thou art fair, my beloved, yea, pleasant:\n    Also our couch is green.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22001017,
+            "text": " The beams of our <i>[i]</i>house are <i>[j]</i>cedars,\n   our rafters are <i>[k]</i>firs.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-1-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>houses</i>"
+                },
+                {
+                    "j": "Or, <i>of cedar\u00a0.\u00a0.\u00a0. of fir</i>"
+                },
+                {
+                    "k": "Or, <i>cypresses</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Song of Solomon",
+    "chapters": 1
+}

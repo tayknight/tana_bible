@@ -1,0 +1,223 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1028001,
+            "text": "\u00b6 And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028002,
+            "text": "Arise, go to Paddan-aram, to the house of Bethuel thy mother\u2019s father; and take thee a wife from thence of the daughters of Laban thy mother\u2019s brother. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028003,
+            "text": "And <i>[a]</i>God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a company of peoples; ",
+            "version": "ASV",
+            "clsstr": "Gen-28-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>El Shaddai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028004,
+            "text": "and give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land of thy sojournings, which God gave unto Abraham. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028005,
+            "text": "And Isaac sent away Jacob: and he went to Paddan-aram unto Laban, son of Bethuel the <i>[b]</i>Syrian, the brother of Rebekah, Jacob\u2019s and Esau\u2019s mother.",
+            "version": "ASV",
+            "clsstr": "Gen-28-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Aramean</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028006,
+            "text": "\u00b6 Now Esau saw that Isaac had blessed Jacob and sent him away to Paddan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan; ",
+            "version": "ASV",
+            "clsstr": "Gen-28-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028007,
+            "text": "and that Jacob obeyed his father and his mother, and was gone to Paddan-aram: ",
+            "version": "ASV",
+            "clsstr": "Gen-28-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028008,
+            "text": "and Esau saw that the daughters of Canaan pleased not Isaac his father; ",
+            "version": "ASV",
+            "clsstr": "Gen-28-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028009,
+            "text": "and Esau went unto Ishmael, and took, besides the wives that he had, Mahalath the daughter of Ishmael Abraham\u2019s son, the sister of Nebaioth, to be his wife.",
+            "version": "ASV",
+            "clsstr": "Gen-28-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028010,
+            "text": "\u00b6 And Jacob went out from Beer-sheba, and went toward Haran. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028011,
+            "text": "And he lighted upon <i>[c]</i>a certain place, and tarried there all night, because the sun was set; and he took one of the stones of the place, and put it under his head, and lay down in that place to sleep. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>the place</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028012,
+            "text": "And he dreamed; and, behold, a ladder set up on the earth, and the top of it reached to heaven; and, behold, the angels of God ascending and descending on it. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028013,
+            "text": "And, behold, Jehovah stood <i>[d]</i>above it, and said, I am Jehovah, the God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed; ",
+            "version": "ASV",
+            "clsstr": "Gen-28-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>beside him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028014,
+            "text": "and thy seed shall be as the dust of the earth, and thou shalt <i>[e]</i>spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-14",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>break forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028015,
+            "text": "And, behold, I am with thee, and will keep thee whithersoever thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028016,
+            "text": "And Jacob awaked out of his sleep, and he said, Surely Jehovah is in this place; and I knew it not. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028017,
+            "text": "And he was afraid, and said, How dreadful is this place! this is none other than the house of God, and this is the gate of heaven.",
+            "version": "ASV",
+            "clsstr": "Gen-28-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028018,
+            "text": "\u00b6 And Jacob rose up early in the morning, and took the stone that he had put under his head, and set it up for a pillar, and poured oil upon the top of it. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028019,
+            "text": "And he called the name of that place <i>[f]</i>Beth-el: but the name of the city was Luz at the first. ",
+            "version": "ASV",
+            "clsstr": "Gen-28-19",
+            "footnotes": [
+                {
+                    "f": "That is, <i>The house of God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028020,
+            "text": "And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on, ",
+            "version": "ASV",
+            "clsstr": "Gen-28-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028021,
+            "text": "so that I come again to my father\u2019s house in peace, <i>[g]</i>and Jehovah will be my God, ",
+            "version": "ASV",
+            "clsstr": "Gen-28-21",
+            "footnotes": [
+                {
+                    "g": "Or, <i>then shall Jehovah be my God, and this stone etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1028022,
+            "text": "then this stone, which I have set up for a pillar, shall be God\u2019s house: and of all that thou shalt give me I will surely give the tenth unto thee.",
+            "version": "ASV",
+            "clsstr": "Gen-28-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 28
+}

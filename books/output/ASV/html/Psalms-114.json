@@ -1,0 +1,83 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19114001,
+            "text": "<b>God\u2019s deliverance of Israel from Egypt.</b>\n\u00b6     When Israel went forth out of Egypt,\n    The house of Jacob from a people of strange language;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19114002,
+            "text": "    Judah became his sanctuary,\n    Israel his dominion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19114003,
+            "text": "    The sea saw it, and fled;\n    The Jordan was driven back.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19114004,
+            "text": "    The mountains skipped like rams,\n    The little hills like lambs.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19114005,
+            "text": "    What aileth thee, O thou sea, that thou fleest?\n    Thou Jordan, that thou turnest back?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19114006,
+            "text": "    Ye mountains, that ye skip like rams;\n    Ye little hills, like lambs?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19114007,
+            "text": "    Tremble, thou earth, at the presence of the Lord,\n    At the presence of the God of Jacob,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19114008,
+            "text": "    Who turned the rock into a pool of water,\n    The flint into a fountain of waters.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-114-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 114
+}

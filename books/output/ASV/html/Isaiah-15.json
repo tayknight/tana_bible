@@ -1,0 +1,125 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23015001,
+            "text": "\u00b6 The <i>[a]</i>burden of Moab.\u00b6 For <i>[b]</i>in a night Ar of Moab is laid waste, brought to nought; for <i>[c]</i>in a night Kir of Moab is laid waste,  brought to nought. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle concerning</i>"
+                },
+                {
+                    "b": "Or, <i>in the night</i>"
+                },
+                {
+                    "c": "Or, <i>in the night</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015002,
+            "text": " <i>[d]</i>They are gone up to <i>[e]</i>Bayith, and to Dibon, to the high places, to weep: Moab waileth <i>[f]</i>over Nebo, and <i>[g]</i>over Medeba; on all their heads is baldness, every beard is cut off. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-2",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Bayith and Dibon are gone up to the high places</i>"
+                },
+                {
+                    "e": "Or, <i>the temple</i>"
+                },
+                {
+                    "f": "Or, <i>upon</i>"
+                },
+                {
+                    "g": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015003,
+            "text": "In their streets they gird themselves with sackcloth; on their housetops, and in their broad places, every one waileth, weeping abundantly. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015004,
+            "text": "And Heshbon crieth out, and Elealeh; their voice is heard even unto Jahaz: therefore the armed men of Moab cry aloud; his soul trembleth within him. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015005,
+            "text": "My heart crieth out for Moab; her <i>[h]</i>nobles unto Zoar, <i>[i]</i>to Eglath-shelishi-yah: for by the ascent of Luhith with weeping they go up; for in the way of Horonaim they raise up a cry of destruction. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-5",
+            "footnotes": [
+                {
+                    "h": "Or, as otherwise read, <i>fugitives</i>"
+                },
+                {
+                    "i": "Or, as <i>a heifer three years old</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015006,
+            "text": "For the waters of Nimrim shall be <i>[j]</i>desolate; for the grass is withered away, the tender grass faileth, there is no green thing. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-6",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>desolations</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015007,
+            "text": "Therefore the abundance they have gotten, and that which they have laid up, shall they carry away over the brook of the willows. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015008,
+            "text": "For the cry is gone round about the borders of Moab; the wailing thereof unto Eglaim, and the wailing thereof unto Beer-elim. ",
+            "version": "ASV",
+            "clsstr": "Isa-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23015009,
+            "text": "For the waters of Dimon are full of blood; for I will bring yet more upon Dimon, a lion upon them of Moab that escape, and upon the remnant of the land.",
+            "version": "ASV",
+            "clsstr": "Isa-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 15
+}

@@ -1,0 +1,239 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19050001,
+            "text": "<b>God the judge of the righteous and the wicked.</b>\n\u00b6 A Psalm of Asaph.\u00b6     The Mighty One, God, Jehovah, hath spoken,\n    And called the earth from the rising of the sun unto the going down thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050002,
+            "text": "    Out of Zion, the perfection of beauty,\n    God hath shined forth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050003,
+            "text": "    Our God cometh, and doth not keep silence:\n    A fire devoureth before him,\n    And it is very tempestuous round about him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050004,
+            "text": "    He calleth to the heavens above,\n    And to the earth, that he may judge his people:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050005,
+            "text": "    Gather my saints together unto me,\n    Those that have made a covenant with me by sacrifice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050006,
+            "text": "  And the heavens <i>[a]</i>shall declare his righteousness;\n    For God is judge himself. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>declare</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050007,
+            "text": "  Hear, O my people, and I will speak;\n  O Israel, and I will testify <i>[b]</i>unto thee:\n    I am God,  thy God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050008,
+            "text": "  I will not reprove thee for thy sacrifices;\n   <i>[c]</i>And thy burnt-offerings are continually before me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Nor for thy burnt-offerings, which are etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050009,
+            "text": "    I will take no bullock out of thy house,\n    Nor he-goats out of thy folds.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050010,
+            "text": "  For every beast of the forest is mine,\n  And the cattle <i>[d]</i>upon a thousand hills.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>upon the mountains where thousands are</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050011,
+            "text": "  I know all the birds of the mountains;\n  And the wild beasts of the field are <i>[e]</i>mine.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>in my mind</i>. Hebrew <i>with me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050012,
+            "text": "    If I were hungry, I would not tell thee;\n    For the world is mine, and the fulness thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050013,
+            "text": "    Will I eat the flesh of bulls,\n    Or drink the blood of goats?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050014,
+            "text": "    Offer unto God the sacrifice of thanksgiving;\n    And pay thy vows unto the Most High;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050015,
+            "text": "    And call upon me in the day of trouble:\n    I will deliver thee, and thou shalt glorify me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050016,
+            "text": "\u00b6     But unto the wicked God saith,\n    What hast thou to do to declare my statutes,\n    And that thou hast taken my covenant in thy mouth,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050017,
+            "text": "  Seeing that thou hatest <i>[f]</i>instruction,\n    And castest my words behind thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>correction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050018,
+            "text": "  When thou sawest a thief, thou consentedst with him,\n  And <i>[g]</i>hast been partaker with adulterers.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-18",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>thy portion was with adulterers</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050019,
+            "text": "    Thou givest thy mouth to evil,\n    And thy tongue frameth deceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050020,
+            "text": "  Thou sittest and speakest against thy brother;\n  Thou <i>[h]</i>slanderest thine own mother\u2019s son.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-20",
+            "footnotes": [
+                {
+                    "h": "Or, <i>givest a thrust against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050021,
+            "text": "    These things hast thou done, and I kept silence;\n    Thou thoughtest that I was altogether such a one as thyself:\n     I will reprove thee, and set  in order before thine eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050022,
+            "text": "\u00b6     Now consider this, ye that forget God,\n    Lest I tear you in pieces, and there be none to deliver:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19050023,
+            "text": "  Whoso offereth the sacrifice of thanksgiving glorifieth me;\n  And <i>[i]</i>to him that ordereth his way \n    Will I show the salvation of God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-50-23",
+            "footnotes": [
+                {
+                    "i": "Or, <i>prepareth a way that I may show him</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 50
+}

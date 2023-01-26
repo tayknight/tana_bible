@@ -1,0 +1,236 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 25,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 22,
+            "end_book": null
+        }
+    ],
+    "book": 25,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 25004001,
+            "text": "\u00b6     How is the gold become dim!  is the most pure gold changed!\n    The stones of the sanctuary are poured out at the head of every street.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004002,
+            "text": "  The precious sons of Zion, <i>[a]</i>comparable to fine gold,\n    How are they esteemed as earthen pitchers, the work of the hands of the potter!\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>that may be weighed against</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004003,
+            "text": "    Even the jackals draw out the breast, they give suck to their young ones:\n    The daughter of my people is become cruel, like the ostriches in the wilderness.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004004,
+            "text": "    The tongue of the sucking child cleaveth to the roof of his mouth for thirst:\n    The young children ask bread, and no man breaketh it unto them.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004005,
+            "text": "    They that did feed delicately are desolate in the streets:\n    They that were brought up in scarlet embrace dunghills.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004006,
+            "text": " For <i>[b]</i>the iniquity of the daughter of my people is greater than <i>[c]</i>the sin of Sodom,\n  That was overthrown as in a moment, and no hands <i>[d]</i>were laid upon her.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the punishment of the iniquity</i>"
+                },
+                {
+                    "c": "Or, <i>the punishment of the sin</i>"
+                },
+                {
+                    "d": "Or, <i>fell</i>. See [[2 Sam. 3:29]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004007,
+            "text": " Her <i>[e]</i>nobles were purer than snow, they were whiter than milk;\n  They were more ruddy in body than <i>[f]</i>rubies, their polishing was as of sapphire.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Nazirites</i>"
+                },
+                {
+                    "f": "Or, <i>corals</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004008,
+            "text": "  Their visage is <i>[g]</i>blacker than a coal; they are not known in the streets:\n    Their skin cleaveth to their bones; it is withered, it is become like a stick.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-8",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>darker than blackness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004009,
+            "text": "  They that are slain with the sword are better than they that are slain with hunger;\n  For these <i>[h]</i>pine away, stricken through, for want of the fruits of the field.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-9",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>flow away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004010,
+            "text": "    The hands of the pitiful women have boiled their own children;\n    They were their food in the destruction of the daughter of my people.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004011,
+            "text": "\u00b6     Jehovah hath accomplished his wrath, he hath poured out his fierce anger;\n    And he hath kindled a fire in Zion, which hath devoured the foundations thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004012,
+            "text": "    The kings of the earth believed not, neither all the inhabitants of the world,\n    That the adversary and the enemy would enter into the gates of Jerusalem.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004013,
+            "text": "     because of the sins of her prophets,  the iniquities of her priests,\n    That have shed the blood of the just in the midst of her.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004014,
+            "text": "    They wander as blind men in the streets, they are polluted with blood,\n    So that men cannot touch their garments.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004015,
+            "text": "  Depart ye, they cried unto them, Unclean! depart, depart, touch not!\n   <i>[i]</i>When they fled away and wandered, men said among the nations, They shall no more sojourn .\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-15",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Yea</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004016,
+            "text": "  The <i>[j]</i>anger of Jehovah hath scattered them; he will no more regard them:\n    They respected not the persons of the priests, they favored not the elders.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-16",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>face</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004017,
+            "text": "\u00b6     Our eyes do yet fail  for our vain help:\n    In our watching we have watched for a nation that could not save.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004018,
+            "text": "    They hunt our steps, so that we cannot go in our streets:\n    Our end is near, our days are fulfilled; for our end is come.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004019,
+            "text": "    Our pursuers were swifter than the eagles of the heavens:\n    They chased us upon the mountains, they laid wait for us in the wilderness.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004020,
+            "text": "    The breath of our nostrils, the anointed of Jehovah, was taken in their pits;\n    Of whom we said, Under his shadow we shall live among the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004021,
+            "text": "\u00b6     Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz:\n    The cup shall pass through unto thee also; thou shalt be drunken, and shalt make thyself naked.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25004022,
+            "text": "   <i>[k]</i>The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity:\n    He will visit thine iniquity, O daughter of Edom; he will uncover thy sins.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-4-22",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Thine iniquity hath an end</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Lamentations",
+    "chapters": 4
+}

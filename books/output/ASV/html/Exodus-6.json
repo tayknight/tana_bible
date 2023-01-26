@@ -1,0 +1,277 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2006001,
+            "text": "\u00b6 And Jehovah said unto Moses, Now shalt thou see what I will do to Pharaoh: for by a strong hand shall he let them go, and by a strong hand shall he drive them out of his land.",
+            "version": "ASV",
+            "clsstr": "Exod-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006002,
+            "text": "\u00b6 And God spake unto Moses, and said unto him, I am Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Exod-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006003,
+            "text": "and I appeared unto Abraham, unto Isaac, and unto Jacob, as <i>[a]</i>God Almighty; but <i>[b]</i>by my name Jehovah I was not <i>[c]</i>known to them. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>El Shaddai</i>."
+                },
+                {
+                    "b": "Or, <i>as to</i>"
+                },
+                {
+                    "c": "Or, <i>made known</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006004,
+            "text": "And I have also established my covenant with them, to give them the land of Canaan, the land of their sojournings, wherein they sojourned. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006005,
+            "text": "And moreover I have heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006006,
+            "text": "Wherefore say unto the children of Israel, I am Jehovah, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with an outstretched arm, and with great judgments: ",
+            "version": "ASV",
+            "clsstr": "Exod-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006007,
+            "text": "and I will take you to me for a people, and I will be to you a God; and ye shall know that I am Jehovah your God, who bringeth you out from under the burdens of the Egyptians. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006008,
+            "text": "And I will bring you in unto the land which I <i>[d]</i>sware to give to Abraham, to Isaac, and to Jacob; and I will give it you for a heritage: I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>lifted up my hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006009,
+            "text": "And Moses spake so unto the children of Israel: but they hearkened not unto Moses for <i>[e]</i>anguish of spirit, and for cruel bondage.",
+            "version": "ASV",
+            "clsstr": "Exod-6-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>impatience</i>. Hebrew <i>shortness of spirit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006010,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Exod-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006011,
+            "text": "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006012,
+            "text": "And Moses spake before Jehovah, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips? ",
+            "version": "ASV",
+            "clsstr": "Exod-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006013,
+            "text": "And Jehovah spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.",
+            "version": "ASV",
+            "clsstr": "Exod-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006014,
+            "text": "\u00b6 These are the heads of their fathers\u2019 houses. The sons of Reuben the first-born of Israel: Hanoch, and Pallu, Hezron, and Carmi; these are the families of Reuben. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006015,
+            "text": "And the sons of Simeon: Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman; these are the families of Simeon. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006016,
+            "text": "And these are the names of the sons of Levi according to their generations: Gershon, and Kohath, and Merari; and the years of the life of Levi were a hundred thirty and seven years. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006017,
+            "text": "The sons of Gershon: Libni and Shimei, according to their families. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006018,
+            "text": "And the sons of Kohath: Amram, and Izhar, and Hebron, and Uzziel; and the years of the life of Kohath were a hundred thirty and three years. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006019,
+            "text": "And the sons of Merari: Mahli and Mushi. These are the families of the Levites according to their generations. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006020,
+            "text": "And Amram took him Jochebed his father\u2019s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were a hundred and thirty and seven years. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006021,
+            "text": "And the sons of Izhar: Korah, and Nepheg, and Zichri. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006022,
+            "text": "And the sons of Uzziel: Mishael, and Elzaphan, and Sithri. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006023,
+            "text": "And Aaron took him Elisheba, the daughter of Amminadab, the sister of Nahshon, to wife; and she bare him Nadab and Abihu, Eleazar and Ithamar. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006024,
+            "text": "And the sons of Korah: Assir, and Elkanah, and Abiasaph; these are the families of the Korahites. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006025,
+            "text": "And Eleazar Aaron\u2019s son took him one of the daughters of Putiel to wife; and she bare him Phinehas. These are the heads of the fathers\u2019  of the Levites according to their families. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006026,
+            "text": "These are that Aaron and Moses, to whom Jehovah said, Bring out the children of Israel from the land of Egypt according to their hosts. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006027,
+            "text": "These are they that spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron.",
+            "version": "ASV",
+            "clsstr": "Exod-6-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006028,
+            "text": "\u00b6 And it came to pass on the day when Jehovah spake unto Moses in the land of Egypt, ",
+            "version": "ASV",
+            "clsstr": "Exod-6-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006029,
+            "text": "that Jehovah spake unto Moses, saying, I am Jehovah: speak thou unto Pharaoh king of Egypt all that I speak unto thee. ",
+            "version": "ASV",
+            "clsstr": "Exod-6-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2006030,
+            "text": "And Moses said before Jehovah, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?",
+            "version": "ASV",
+            "clsstr": "Exod-6-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 6
+}

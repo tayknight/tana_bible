@@ -1,0 +1,298 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4023001,
+            "text": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams. ",
+            "version": "ASV",
+            "clsstr": "Num-23-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023002,
+            "text": "And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram. ",
+            "version": "ASV",
+            "clsstr": "Num-23-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023003,
+            "text": "And Balaam said unto Balak, Stand by thy burnt-offering, and I will go: peradventure Jehovah will come to meet me; and whatsoever he showeth me I will tell thee. And he went to a bare height. ",
+            "version": "ASV",
+            "clsstr": "Num-23-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023004,
+            "text": "And God met Balaam: and he said unto him, I have prepared the seven altars, and I have offered up a bullock and a ram on every altar. ",
+            "version": "ASV",
+            "clsstr": "Num-23-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023005,
+            "text": "And Jehovah put a word in Balaam\u2019s mouth, and said, Return unto Balak, and thus thou shalt speak. ",
+            "version": "ASV",
+            "clsstr": "Num-23-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023006,
+            "text": "And he returned unto him, and, lo, he was standing by his burnt-offering, he, and all the princes of Moab. ",
+            "version": "ASV",
+            "clsstr": "Num-23-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023007,
+            "text": "And he took up his parable, and said,\u00b6   From Aram hath Balak brought me,\n  The king of Moab from the mountains of the East:\n  Come, curse me Jacob,\n  And come, <i>[a]</i>defy Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-7",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>be wroth against</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023008,
+            "text": "    How shall I curse, whom God hath not cursed?\n    And how shall I defy, whom Jehovah hath not defied?\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023009,
+            "text": "    For from the top of the rocks I see him,\n    And from the hills I behold him:\n    Lo, it is a people that dwelleth alone,\n    And shall not be reckoned among the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023010,
+            "text": " Who can count the dust of Jacob,\n  <i>[b]</i>Or number the fourth part of Israel?\n  Let <i>[c]</i>me die the death of the righteous,\n    And let my last end be like his!\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-10",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Or, by number, the etc.</i>"
+                },
+                {
+                    "c": "Hebrew <i>my soul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023011,
+            "text": "\u00b6 And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether. ",
+            "version": "ASV",
+            "clsstr": "Num-23-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023012,
+            "text": "And he answered and said, Must I not take heed to speak that which Jehovah putteth in my mouth?",
+            "version": "ASV",
+            "clsstr": "Num-23-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023013,
+            "text": "\u00b6 And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them; thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence. ",
+            "version": "ASV",
+            "clsstr": "Num-23-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023014,
+            "text": "And he took him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered up a bullock and a ram on every altar. ",
+            "version": "ASV",
+            "clsstr": "Num-23-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023015,
+            "text": "And he said unto Balak, Stand here by thy burnt-offering, while I meet  yonder. ",
+            "version": "ASV",
+            "clsstr": "Num-23-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023016,
+            "text": "And Jehovah met Balaam, and put a word in his mouth, and said, Return unto Balak, and thus shalt thou speak. ",
+            "version": "ASV",
+            "clsstr": "Num-23-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023017,
+            "text": "And he came to him, and, lo, he was standing by his burnt-offering, and the princes of Moab with him. And Balak said unto him, What hath Jehovah spoken? ",
+            "version": "ASV",
+            "clsstr": "Num-23-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023018,
+            "text": "And he took up his parable, and said,\u00b6     Rise up, Balak, and hear;\n    Hearken unto me, thou son of Zippor:\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023019,
+            "text": "    God is not a man, that he should lie,\n    Neither the son of man, that he should repent:\n    Hath he said, and will he not do it?\n    Or hath he spoken, and will he not make it good?\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023020,
+            "text": "    Behold, I have received  to bless:\n    And he hath blessed, and I cannot reverse it.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023021,
+            "text": "  He hath not beheld iniquity in Jacob;\n  Neither hath he seen <i>[d]</i>perverseness in Israel:\n    Jehovah his God is with him,\n    And the shout of a king is among them.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-21",
+            "footnotes": [
+                {
+                    "d": "Or, <i>trouble</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023022,
+            "text": " God bringeth them forth out of Egypt;\n He hath as it were the <i>[e]</i>strength of the <i>[f]</i>wild-ox.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-22",
+            "footnotes": [
+                {
+                    "e": "Or, <i>horns</i>"
+                },
+                {
+                    "f": "Or, <i>ox-antelope</i>. Hebrew <i>reem</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023023,
+            "text": " Surely there is no enchantment <i>[g]</i>with Jacob;\n Neither is there any divination <i>[h]</i>with Israel:\n  <i>[i]</i>Now shall it be <i>[j]</i>said of Jacob and of Israel,\n    What hath God wrought!\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-23",
+            "footnotes": [
+                {
+                    "g": "Or, <i>against</i>"
+                },
+                {
+                    "h": "Or, <i>against</i>"
+                },
+                {
+                    "i": "Or, <i>At the due season</i>"
+                },
+                {
+                    "j": "Or, <i>told to\u00a0.\u00a0.\u00a0. what God hath wrought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023024,
+            "text": "    Behold, the people riseth up as a lioness,\n    And as a lion doth he lift himself up:\n    He shall not lie down until he eat of the prey,\n    And drink the blood of the slain.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-23-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023025,
+            "text": "\u00b6 And Balak said unto Balaam, Neither curse them at all, nor bless them at all. ",
+            "version": "ASV",
+            "clsstr": "Num-23-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023026,
+            "text": "But Balaam answered and said unto Balak, Told not I thee, saying, All that Jehovah speaketh, that I must do? ",
+            "version": "ASV",
+            "clsstr": "Num-23-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023027,
+            "text": "And Balak said unto Balaam, Come now, I will take thee unto another place; peradventure it will please God that thou mayest curse me them from thence. ",
+            "version": "ASV",
+            "clsstr": "Num-23-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023028,
+            "text": "And Balak took Balaam unto the top of Peor, that looketh down upon <i>[k]</i>the desert. ",
+            "version": "ASV",
+            "clsstr": "Num-23-28",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Jeshimon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023029,
+            "text": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams. ",
+            "version": "ASV",
+            "clsstr": "Num-23-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4023030,
+            "text": "And Balak did as Balaam had said, and offered up a bullock and a ram on every altar. ",
+            "version": "ASV",
+            "clsstr": "Num-23-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 23
+}

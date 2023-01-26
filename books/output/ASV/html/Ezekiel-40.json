@@ -1,0 +1,462 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26040001,
+            "text": "\u00b6 In the five and twentieth year of our captivity, in the beginning of the year, in the tenth  of the month, in the fourteenth year after that the city was smitten, in the selfsame day, the hand of Jehovah was upon me, and he brought me thither. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040002,
+            "text": "In the visions of God brought he me into the land of Israel, and set me down upon a very high mountain, whereon was as it were the frame of a city on the south. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040003,
+            "text": "And he brought me thither; and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040004,
+            "text": "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thy heart upon all that I shall show thee; for, to the intent that I may show them unto thee, art thou brought hither: declare all that thou seest to the house of Israel.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040005,
+            "text": "\u00b6 And, behold, a wall on the outside of the house round about, and in the man\u2019s hand a measuring reed six cubits long, of a cubit and a handbreadth each: so he measured the thickness of the building, one reed; and the height, one reed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040006,
+            "text": "Then came he unto the gate which looketh toward the east, and went up the steps thereof: and he measured the threshold of the gate, one reed broad; <i>[a]</i>and the other threshold, one reed broad. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>even one threshold</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040007,
+            "text": "And every <i>[b]</i>lodge was one reed long, and one reed broad; and  between the lodges was five cubits; and the threshold of the gate by the porch of the gate toward the house was one reed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>guard chamber</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040008,
+            "text": " <i>[c]</i>He measured also the porch of the gate toward the house, one reed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-8",
+            "footnotes": [
+                {
+                    "c": "This verse is omitted in several Hebrew manuscripts."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040009,
+            "text": "Then measured he the porch of the gate, eight cubits; and the <i>[d]</i>posts thereof, two cubits; and the porch of the gate was toward the house. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>jambs</i>; and so throughout this chapter, and [[41:1]], [[3]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040010,
+            "text": "And the lodges of the gate eastward were three on this side, and three on that side; they three were of one measure: and the posts had one measure on this side and on that side. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040011,
+            "text": "And he measured the breadth of the opening of the gate, ten cubits; and the length of the gate, thirteen cubits; ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040012,
+            "text": "and a border before the lodges, one cubit , and a border, one cubit on that side; and the lodges, six cubits on this side, and six cubits on that side. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040013,
+            "text": "And he measured the gate from the roof of the one lodge to the roof of the other, a breadth of five and twenty cubits; door against door. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040014,
+            "text": "He made also posts, threescore cubits; and the court  unto the posts, round about the gate. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040015,
+            "text": "And the forefront of the gate at the entrance unto the forefront of the <i>[e]</i>inner porch of the gate were fifty cubits. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>porch of the inner gate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040016,
+            "text": "And there were closed windows to the lodges, and to their posts within the gate round about, and likewise to the <i>[f]</i>arches; and windows were round about inward; and upon  post were palm-trees.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-16",
+            "footnotes": [
+                {
+                    "f": "Or, <i>colonnade</i>. The meaning of the Hebrew word is uncertain."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040017,
+            "text": "\u00b6 Then brought he me into the outer court; and, lo, there were chambers and a pavement, made for the court round about: thirty chambers were upon the pavement. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040018,
+            "text": "And the pavement was by the <i>[g]</i>side of the gates, answerable unto the length of the gates, even the lower pavement. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-18",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>shoulder</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040019,
+            "text": "Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, a hundred cubits,  on the east and on the north.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040020,
+            "text": "\u00b6 And the gate of the outer court whose prospect is toward the north, he measured the length thereof and the breadth thereof. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040021,
+            "text": "And the lodges thereof were three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof was fifty cubits, and the breadth five and twenty cubits. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040022,
+            "text": "And the windows thereof, and the arches thereof, and the palm-trees thereof, were after the measure of the gate whose prospect is toward the east; and they went up unto it by seven steps; and the arches thereof were before them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040023,
+            "text": "And there was a gate to the inner court over against the  gate,  on the north and on the east; and he measured from gate to gate a hundred cubits.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040024,
+            "text": "\u00b6 And he led me toward the south; and, behold, a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040025,
+            "text": "And there were windows in it and in the arches thereof round about, like those windows: the length was fifty cubits, and the breadth five and twenty cubits. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040026,
+            "text": "And there were seven steps to go up to it, and the arches thereof were before them; and it had palm-trees, one on this side, and another on that side, upon the posts thereof. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040027,
+            "text": "And there was a gate to the inner court toward the south: and he measured from gate to gate toward the south a hundred cubits.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040028,
+            "text": "\u00b6 Then he brought me to the inner court by the south gate: and he measured the south gate according to these measures; ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040029,
+            "text": "and the lodges thereof, and the posts thereof, and the arches thereof, according to these measures: and there were windows in it and in the arches thereof round about; it was fifty cubits long, and five and twenty cubits broad. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040030,
+            "text": "And there were arches round about, five and twenty cubits long, and five cubits broad. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040031,
+            "text": "And the arches thereof were toward the outer court; and palm-trees were upon the posts thereof: and the ascent to it had eight steps.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040032,
+            "text": "\u00b6 And he brought me into the inner court toward the east: and he measured the gate according to these measures; ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040033,
+            "text": "and the lodges thereof, and the posts thereof, and the arches thereof, according to these measures: and there were windows therein and in the arches thereof round about; it was fifty cubits long, and five and twenty cubits broad. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040034,
+            "text": "And the arches thereof were toward the outer court; and palm-trees were upon the posts thereof, on this side, and on that side: and the ascent to it had eight steps.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040035,
+            "text": "\u00b6 And he brought me to the north gate: and he measured  according to these measures; ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040036,
+            "text": "the lodges thereof, the posts thereof, and the arches thereof: and there were windows therein round about; the length was fifty cubits, and the breadth five and twenty cubits. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040037,
+            "text": "And the posts thereof were toward the outer court; and palm-trees were upon the posts thereof, on this side, and on that side: and the ascent to it had eight steps.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040038,
+            "text": "\u00b6 And a chamber with the door thereof was by the posts at the gates; there they washed the burnt-offering. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040039,
+            "text": "And <i>[h]</i>in the porch of the gate were two tables on this side, and two tables on that side, to slay thereon the burnt-offering and the sin-offering and the trespass-offering. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-39",
+            "footnotes": [
+                {
+                    "h": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040040,
+            "text": "And on the side without, <i>[i]</i>as one goeth up to the entry of the gate toward the north, were two tables; and on the other side, which belonged to the porch of the gate, were two tables. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-40",
+            "footnotes": [
+                {
+                    "i": "Or, <i>at the stairs of the entry</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040041,
+            "text": "Four tables were on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew . ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040042,
+            "text": "And there were four tables for the burnt-offering, of hewn stone, a cubit and a half long, and a cubit and a half broad, and one cubit high; whereupon they laid the instruments wherewith they slew the burnt-offering and the sacrifice. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040043,
+            "text": "And the <i>[j]</i>hooks, a handbreadth long, were fastened <i>[k]</i>within round about: and upon the tables was the flesh of the oblation.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-43",
+            "footnotes": [
+                {
+                    "j": "According to Vulgate and Syriac, <i>ledges</i>."
+                },
+                {
+                    "k": "Or, <i>in the building</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040044,
+            "text": "\u00b6 And without the inner gate were <i>[l]</i>chambers for the singers in the inner court, which was at the side of the north gate; and their prospect was toward the south; one at the side of the east gate having the prospect toward the north. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-44",
+            "footnotes": [
+                {
+                    "l": "The Septuagint has <i>two chambers in the inner court, one behind the gate that looketh toward the north, having its prospect toward the south, and one at the side of the gate toward the south, but looking toward the north</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040045,
+            "text": "And he said unto me, This chamber, whose prospect is toward the south, is for the priests, the keepers of the charge of the house; ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040046,
+            "text": "and the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok, who from among the sons of Levi come near to Jehovah to minister unto him. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040047,
+            "text": "And he measured the court, a hundred cubits long, and a hundred cubits broad, foursquare; and the altar was before the house.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040048,
+            "text": "\u00b6 Then he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side: and the breadth of the gate was three cubits on this side, and three cubits on that side. ",
+            "version": "ASV",
+            "clsstr": "Ezek-40-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26040049,
+            "text": "The length of the porch was twenty cubits, and the breadth eleven cubits; <i>[m]</i>even by the steps whereby they went up to it: and there were pillars by the posts, one on this side, and another on that side.",
+            "version": "ASV",
+            "clsstr": "Ezek-40-49",
+            "footnotes": [
+                {
+                    "m": "The Septuagint has <i>and by ten steps they etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 40
+}

@@ -1,0 +1,339 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19069001,
+            "text": "<b>A cry of distress, and imprecation on adversaries.</b>\n\u00b6 For the Chief Musician; set to <i>[a]</i>Shoshannim.  of David.\u00b6     Save me, O God;\n    For the waters are come in unto my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>Lilies</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069002,
+            "text": "    I sink in deep mire, where there is no standing:\n    I am come into deep waters, where the floods overflow me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069003,
+            "text": "    I am weary with my crying; my throat is dried:\n    Mine eyes fail while I wait for my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069004,
+            "text": "  They that hate me without a cause are more than the hairs of my head:\n  They that would cut me off, being mine enemies <i>[b]</i>wrongfully, are mighty:\n    That which I took not away I have to restore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>falsely</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069005,
+            "text": "  O God, thou knowest my foolishness;\n  And my <i>[c]</i>sins are not hid from thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>guiltinesses</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069006,
+            "text": "    Let not them that wait for thee be put to shame through me, O Lord Jehovah of hosts:\n    Let not those that seek thee be brought to dishonor through me, O God of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069007,
+            "text": "    Because for thy sake I have borne reproach;\n    Shame hath covered my face.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069008,
+            "text": "    I am become a stranger unto my brethren,\n    And an alien unto my mother\u2019s children.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069009,
+            "text": "    For the zeal of thy house hath eaten me up;\n    And the reproaches of them that reproach thee are fallen upon me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069010,
+            "text": "    When I wept,  my soul with fasting,\n    That was to my reproach.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069011,
+            "text": "    When I made sackcloth my clothing,\n    I became a byword unto them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069012,
+            "text": "    They that sit in the gate talk of me;\n    And  the song of the drunkards.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069013,
+            "text": "    But as for me, my prayer is unto thee, O Jehovah, in an acceptable time:\n    O God, in the abundance of thy lovingkindness,\n    Answer me in the truth of thy salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069014,
+            "text": "    Deliver me out of the mire, and let me not sink:\n    Let me be delivered from them that hate me, and out of the deep waters.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069015,
+            "text": "    Let not the waterflood overwhelm me,\n    Neither let the deep swallow me up;\n    And let not the pit shut its mouth upon me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069016,
+            "text": "    Answer me, O Jehovah; for thy lovingkindness is good:\n    According to the multitude of thy tender mercies turn thou unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069017,
+            "text": "    And hide not thy face from thy servant;\n    For I am in distress; answer me speedily.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069018,
+            "text": "    Draw nigh unto my soul, and redeem it:\n    Ransom me because of mine enemies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069019,
+            "text": "    Thou knowest my reproach, and my shame, and my dishonor:\n    Mine adversaries are all before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069020,
+            "text": "  Reproach hath broken my heart; and I am <i>[d]</i>full of heaviness:\n    And I looked for some to take pity, but there was none;\n    And for comforters, but I found none.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-20",
+            "footnotes": [
+                {
+                    "d": "Or, <i>sore sick</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069021,
+            "text": "    They gave me also gall for my food;\n    And in my thirst they gave me vinegar to drink.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069022,
+            "text": "    Let their table before them become a snare;\n    And when they are in peace,  a trap.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069023,
+            "text": "    Let their eyes be darkened, so that they cannot see;\n    And make their loins continually to shake.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069024,
+            "text": "    Pour out thine indignation upon them,\n    And let the fierceness of thine anger overtake them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069025,
+            "text": "  Let their <i>[e]</i>habitation be desolate;\n    Let none dwell in their tents.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-25",
+            "footnotes": [
+                {
+                    "e": "Or, <i>encampment</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069026,
+            "text": "  For they persecute him whom thou hast smitten;\n  And they tell of the <i>[f]</i>sorrow of those whom thou hast wounded.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-26",
+            "footnotes": [
+                {
+                    "f": "Or, <i>pain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069027,
+            "text": "    Add iniquity unto their iniquity;\n    And let them not come into thy righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069028,
+            "text": "  Let them be blotted out of the book of <i>[g]</i>life,\n    And not be written with the righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-28",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the living</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069029,
+            "text": "  But I am poor and <i>[h]</i>sorrowful:\n    Let thy salvation, O God, set me up on high.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-29",
+            "footnotes": [
+                {
+                    "h": "Or, <i>in pain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069030,
+            "text": "    I will praise the name of God with a song,\n    And will magnify him with thanksgiving.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069031,
+            "text": "    And it will please Jehovah better than an ox,\n     a bullock that hath horns and hoofs.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069032,
+            "text": "    The meek have seen it, and are glad:\n    Ye that seek after God, let your heart live.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069033,
+            "text": "    For Jehovah heareth the needy,\n    And despiseth not his prisoners.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069034,
+            "text": "    Let heaven and earth praise him,\n    The seas, and everything that moveth therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069035,
+            "text": "    For God will save Zion, and build the cities of Judah;\n    And they shall abide there, and have it in possession.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19069036,
+            "text": "    The seed also of his servants shall inherit it;\n    And they that love his name shall dwell therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-69-36",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 69
+}

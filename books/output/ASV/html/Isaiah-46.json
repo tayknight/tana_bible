@@ -1,0 +1,139 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23046001,
+            "text": "\u00b6 Bel boweth down, Nebo stoopeth; their idols are upon the beasts, and upon the cattle: the things that ye carried about are made a load, a burden to the weary . ",
+            "version": "ASV",
+            "clsstr": "Isa-46-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046002,
+            "text": "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.",
+            "version": "ASV",
+            "clsstr": "Isa-46-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046003,
+            "text": "\u00b6 Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, that have been borne  from their birth, that have been carried from the womb; ",
+            "version": "ASV",
+            "clsstr": "Isa-46-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046004,
+            "text": "and even to old age I am he, and even to hoar hairs will I carry ; I have made, and I will bear; yea, I will carry, and will deliver. ",
+            "version": "ASV",
+            "clsstr": "Isa-46-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046005,
+            "text": "To whom will ye liken me, and make me equal, and compare me, that we may be like? ",
+            "version": "ASV",
+            "clsstr": "Isa-46-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046006,
+            "text": "Such as lavish gold out of the bag, and weigh silver in the balance, they hire a goldsmith, and he maketh it a god; they fall down, yea, they worship. ",
+            "version": "ASV",
+            "clsstr": "Isa-46-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046007,
+            "text": "They bear it upon the shoulder, they carry it, and set it in its place, and it standeth, from its place shall it not remove: yea, one may cry unto it, yet can it not answer, nor save him out of his trouble.",
+            "version": "ASV",
+            "clsstr": "Isa-46-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046008,
+            "text": "\u00b6 Remember this, and <i>[a]</i>show yourselves men; bring it again to mind, O ye transgressors. ",
+            "version": "ASV",
+            "clsstr": "Isa-46-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stand fast</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046009,
+            "text": "Remember the former things of old: <i>[b]</i>for I am God, and there is none else;  God, and there is none like me; ",
+            "version": "ASV",
+            "clsstr": "Isa-46-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>that</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046010,
+            "text": "declaring the end from the beginning, and from ancient times things that are not  done; saying, My counsel shall stand, and I will do all my pleasure; ",
+            "version": "ASV",
+            "clsstr": "Isa-46-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046011,
+            "text": "calling a ravenous bird from the east, the man of <i>[c]</i>my counsel from a far country; yea, I have spoken, I will also bring it to pass; I have purposed, I will also do it.",
+            "version": "ASV",
+            "clsstr": "Isa-46-11",
+            "footnotes": [
+                {
+                    "c": "Another reading is, <i>his</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046012,
+            "text": "\u00b6 Hearken unto me, ye stout-hearted, that are far from righteousness: ",
+            "version": "ASV",
+            "clsstr": "Isa-46-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23046013,
+            "text": "I bring near my righteousness, it shall not be far off, and my salvation shall not tarry; and I will <i>[d]</i>place salvation in Zion for Israel my glory.",
+            "version": "ASV",
+            "clsstr": "Isa-46-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>give salvation in Zion</i>, and <i>my glory unto Israel</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 46
+}

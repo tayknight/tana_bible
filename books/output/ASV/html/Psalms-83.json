@@ -1,0 +1,179 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19083001,
+            "text": "<b>God implored to confound his enemies.</b>\n\u00b6 A Song, a Psalm of Asaph.\u00b6     O God, keep not thou silence:\n    Hold not thy peace, and be not still, O God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083002,
+            "text": "    For, lo, thine enemies make a tumult;\n    And they that hate thee have lifted up the head.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083003,
+            "text": "    They take crafty counsel against thy people,\n    And consult together against thy hidden ones.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083004,
+            "text": "    They have said, Come, and let us cut them off from being a nation;\n    That the name of Israel may be no more in remembrance.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083005,
+            "text": "    For they have consulted together with one consent;\n    Against thee do they make a covenant:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083006,
+            "text": "  The tents of Edom and the Ishmaelites;\n  Moab, and the <i>[a]</i>Hagarenes;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Hagrites</i>. See [[1 Chr. 5:10]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083007,
+            "text": "    Gebal, and Ammon, and Amalek;\n    Philistia with the inhabitants of Tyre:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083008,
+            "text": "  Assyria also is joined with them;\n  They have <i>[b]</i>helped the children of Lot. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-8",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>been an arm to the children of Lot</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083009,
+            "text": "    Do thou unto them as unto Midian,\n    As to Sisera, as to Jabin, at the river Kishon;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083010,
+            "text": "    Who perished at Endor,\n    Who became as dung for the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083011,
+            "text": "    Make their nobles like Oreb and Zeeb;\n    Yea, all their princes like Zebah and Zalmunna;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083012,
+            "text": "  Who said, Let us take to ourselves in possession\n  The <i>[c]</i>habitations of God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>pastures</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083013,
+            "text": "    O my God, make them like the whirling dust;\n    As stubble before the wind.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083014,
+            "text": "    As the fire that burneth the forest,\n    And as the flame that setteth the mountains on fire,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083015,
+            "text": "    So pursue them with thy tempest,\n    And terrify them with thy storm.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083016,
+            "text": "    Fill their faces with confusion,\n    That they may seek thy name, O Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083017,
+            "text": "    Let them be put to shame and dismayed for ever;\n    Yea, let them be confounded and perish;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19083018,
+            "text": "  That they may know that <i>[d]</i>thou alone, whose name is Jehovah,\n    Art the Most High over all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-83-18",
+            "footnotes": [
+                {
+                    "d": "Or, <i>thou, whose name alone is Jehovah, art etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 83
+}

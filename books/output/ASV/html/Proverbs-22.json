@@ -1,0 +1,307 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20022001,
+            "text": "\u00b6   A name is rather to be chosen than great riches,\n   <i>[a]</i>loving favor rather than silver and gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>favor is better than etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022002,
+            "text": "    The rich and the poor meet together:\n    Jehovah is the maker of them all.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022003,
+            "text": "  A prudent man seeth the evil, and hideth himself;\n  But the simple pass on, and <i>[b]</i>suffer for it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>are mulcted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022004,
+            "text": "    The reward of humility  the fear of Jehovah\n     riches, and honor, and life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022005,
+            "text": "    Thorns  snares are in the way of the perverse:\n    He that keepeth his soul shall be far from them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022006,
+            "text": "  Train up a child <i>[c]</i>in the way he should go,\n    And even when he is old he will not depart from it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>according to his way</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022007,
+            "text": "    The rich ruleth over the poor;\n    And the borrower is servant to the lender.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022008,
+            "text": "  He that soweth iniquity shall reap <i>[d]</i>calamity;\n    And the rod of his wrath shall fail.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>vanity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022009,
+            "text": "  He that hath a <i>[e]</i>bountiful eye shall be blessed;\n    For he giveth of his bread to the poor.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-9",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>good</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022010,
+            "text": "    Cast out the scoffer, and contention will go out;\n    Yea, strife and ignominy will cease.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022011,
+            "text": " He that loveth <i>[f]</i>pureness of heart,\n   <i>[g]</i> the grace of his lips the king will be his friend.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-11",
+            "footnotes": [
+                {
+                    "f": "Another reading is, <i>the pure of heart</i>."
+                },
+                {
+                    "g": "Or, <i>Hath grace in his lips</i>. Or, That <i>hath grace in his lips</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022012,
+            "text": "    The eyes of Jehovah preserve  knowledge;\n    But he overthroweth the words of the treacherous man.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022013,
+            "text": "    The sluggard saith, There is a lion without;\n    I shall be slain in the streets.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022014,
+            "text": "  The mouth of strange women is a deep pit;\n  He <i>[h]</i>that is abhorred of Jehovah shall fall therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>against whom Jehovah hath indignation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022015,
+            "text": "    Foolishness is bound up in the heart of a child;\n     the rod of correction shall drive it far from him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022016,
+            "text": "    He that oppresseth the poor to increase his ,\n     he that giveth to the rich,  only to want.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022017,
+            "text": "\u00b6     Incline thine ear, and hear the words of the wise,\n    And apply thy heart unto my knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022018,
+            "text": "    For it is a pleasant thing if thou keep them within thee,\n    If they be established together upon thy lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022019,
+            "text": "    That thy trust may be in Jehovah,\n    I have made  known to thee this day, even to thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022020,
+            "text": " Have not I written unto thee <i>[i]</i>excellent things\n   <i>[j]</i>Of counsels and knowledge,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-20",
+            "footnotes": [
+                {
+                    "i": "The word is doubtful. Another reading is, <i>heretofore</i>"
+                },
+                {
+                    "j": "Or, <i>In</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022021,
+            "text": "  To make thee know <i>[k]</i>the certainty of the words of truth,\n    That thou mayest carry back words of truth to them that send thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-21",
+            "footnotes": [
+                {
+                    "k": "Or, <i>of a certainty the words etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022022,
+            "text": " Rob not the poor, <i>[l]</i>because he is poor;\n  Neither <i>[m]</i>oppress the afflicted in the gate:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-22",
+            "footnotes": [
+                {
+                    "l": "Or, <i>for</i>"
+                },
+                {
+                    "m": "Or, <i>crush</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022023,
+            "text": "    For Jehovah will plead their cause,\n    And despoil of life those that despoil them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022024,
+            "text": "    Make no friendship with a man that is given to anger;\n    And with a wrathful man thou shalt not go:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022025,
+            "text": "    Lest thou learn his ways,\n    And get a snare to thy soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022026,
+            "text": "    Be thou not one of them that strike hands,\n     of them that are sureties for debts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022027,
+            "text": "    If thou hast not wherewith to pay,\n    Why should he take away thy bed from under thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022028,
+            "text": "    Remove not the ancient landmark,\n    Which thy fathers have set.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20022029,
+            "text": " Seest thou a man <i>[n]</i>diligent in his business? he shall stand before kings;\n  He shall not stand before <i>[o]</i>mean men.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-22-29",
+            "footnotes": [
+                {
+                    "n": "Or, <i>skilful</i>"
+                },
+                {
+                    "o": "Hebrew <i>obscure</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 22
+}

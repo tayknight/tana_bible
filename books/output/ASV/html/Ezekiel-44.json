@@ -1,0 +1,289 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26044001,
+            "text": "\u00b6 Then he brought me back by the way of the outer gate of the sanctuary, which looketh toward the east; and it was shut. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044002,
+            "text": "And Jehovah said unto me, This gate shall be shut; it shall not be opened, neither shall any man enter in by it; for Jehovah, the God of Israel, hath entered in by it; therefore it shall be shut. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044003,
+            "text": "As for the prince, he shall sit therein as prince to eat bread before Jehovah; he shall enter by the way of the porch of the gate, and shall go out by the way of the same.",
+            "version": "ASV",
+            "clsstr": "Ezek-44-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044004,
+            "text": "\u00b6 Then he brought me by the way of the north gate before the house; and I looked, and, behold, the glory of Jehovah filled the house of Jehovah: and I fell upon my face. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044005,
+            "text": "And Jehovah said unto me, Son of man, <i>[a]</i>mark well, and behold with thine eyes, and hear with thine ears all that I say unto thee concerning all the ordinances of the house of Jehovah, and all the laws thereof; and <i>[b]</i>mark well the entrance of the house, with every egress of the sanctuary. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>set thy heart upon</i>."
+                },
+                {
+                    "b": "Hebrew <i>set thy heart upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044006,
+            "text": "And thou shalt say to the rebellious, even to the house of Israel, Thus saith the Lord Jehovah: O ye house of Israel, let it suffice you of all your abominations, ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044007,
+            "text": "in that ye have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when ye offer my bread, the fat and the blood, and they have broken my covenant, <i>[c]</i> unto all your abominations. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in all</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044008,
+            "text": "And ye have not kept the charge of my holy things; but ye have set keepers of my charge in my sanctuary for yourselves.",
+            "version": "ASV",
+            "clsstr": "Ezek-44-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044009,
+            "text": "\u00b6 Thus saith the Lord Jehovah, No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners that are among the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044010,
+            "text": "But the Levites that went far from me, when Israel went astray, that went astray from me after their idols, they shall bear their iniquity. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044011,
+            "text": "Yet they shall be ministers in my sanctuary, having oversight at the gates of the house, and ministering in the house: they shall slay the burnt-offering and the sacrifice for the people, and they shall stand before them to minister unto them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044012,
+            "text": "Because they ministered unto them before their idols, and became a stumblingblock of iniquity unto the house of Israel; therefore have I lifted up my hand against them, saith the Lord Jehovah, and they shall bear their iniquity. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044013,
+            "text": "And they shall not come near unto me, to execute the office of priest unto me, nor to come near to any of my holy things, unto the things that are most holy; but they shall bear their shame, and their abominations which they have committed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044014,
+            "text": "Yet will I make them keepers of the charge of the house, for all the service thereof, and for all that shall be done therein.",
+            "version": "ASV",
+            "clsstr": "Ezek-44-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044015,
+            "text": "\u00b6 But the priests the Levites, the sons of Zadok, that kept the charge of my sanctuary when the children of Israel went astray from me, they shall come near to me to minister unto me; and they shall stand before me to offer unto me the fat and the blood, saith the Lord Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044016,
+            "text": "they shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044017,
+            "text": "And it shall be that, when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, while they minister in the gates of the inner court, and <i>[d]</i>within. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-17",
+            "footnotes": [
+                {
+                    "d": "Or, <i>in the house</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044018,
+            "text": "They shall have linen tires upon their heads, and shall have linen breeches upon their loins; they shall not gird themselves with  sweat. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044019,
+            "text": "And when they go forth into the outer court, even into the outer court to the people, they shall put off their garments wherein they minister, and lay them in the holy chambers; and they shall put on other garments, that they sanctify not the people with their garments. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044020,
+            "text": "Neither shall they shave their heads, nor suffer their locks to grow long; they shall only cut off the hair of their heads. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044021,
+            "text": "Neither shall any of the priests drink wine, when they enter into the inner court. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044022,
+            "text": "Neither shall they take for their wives a widow, nor her that is put away; but they shall take virgins of the seed of the house of Israel, or a widow that is the widow of a priest. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044023,
+            "text": "And they shall teach my people the difference between the holy and the common, and cause them to discern between the unclean and the clean. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044024,
+            "text": "And in a controversy they shall stand to judge; according to mine ordinances shall they judge it: and they shall keep my laws and my statutes in all my appointed feasts; and they shall hallow my sabbaths. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044025,
+            "text": "And they shall go in to no dead person to defile themselves; but for father, or for mother, or for son, or for daughter, for brother, or for sister that hath had no husband, they may defile themselves. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044026,
+            "text": "And after he is cleansed, they shall reckon unto him seven days. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044027,
+            "text": "And in the day that he goeth into the sanctuary, into the inner court, to minister in the sanctuary, he shall offer his sin-offering, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-44-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044028,
+            "text": "\u00b6 And they shall have an inheritance: I am their inheritance; and ye shall give them no possession in Israel; I am their possession. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044029,
+            "text": "They shall eat the meal-offering, and the sin-offering, and the trespass-offering; and every devoted thing in Israel shall be theirs. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044030,
+            "text": "And the first of all the first-fruits of every thing, and every <i>[e]</i>oblation of everything, of all your oblations, shall be for the priest: ye shall also give unto the priests the first of your <i>[f]</i>dough, to cause a blessing to rest on thy house. ",
+            "version": "ASV",
+            "clsstr": "Ezek-44-30",
+            "footnotes": [
+                {
+                    "e": "Or, <i>heave-offering</i>"
+                },
+                {
+                    "f": "Or, <i>coarse meal</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26044031,
+            "text": "The priests shall not eat of anything that dieth of itself, or is torn, whether it be bird or beast.",
+            "version": "ASV",
+            "clsstr": "Ezek-44-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 44
+}

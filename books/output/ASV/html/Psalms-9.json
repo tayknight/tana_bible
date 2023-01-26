@@ -1,0 +1,224 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19009001,
+            "text": "<b>A psalm of thanksgiving for God\u2019s justice.</b>\n\u00b6 For the Chief Musician; set to Muth-labben. A Psalm of David.\u00b6     I will give thanks unto Jehovah with my whole heart;\n    I will show forth all thy marvellous works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009002,
+            "text": "  I will be glad and exult in thee;\n  I will sing praise to thy name, O thou <i>[a]</i>Most High.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Most High; Because mine etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009003,
+            "text": "    When mine enemies turn back,\n    They stumble and perish at thy presence.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009004,
+            "text": "    For thou hast maintained my right and my cause;\n    Thou sittest in the throne judging righteously.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009005,
+            "text": "  Thou hast rebuked the <i>[b]</i>nations, thou hast destroyed the wicked;\n    Thou hast blotted out their name for ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>heathen</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009006,
+            "text": " <i>[c]</i>The enemy are come to an end, they are desolate for ever;\n  <i>[d]</i>And the cities which thou hast <i>[e]</i>overthrown,\n    The very remembrance of them is perished.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>O thou enemy, desolations are come to a perpetual end</i>"
+                },
+                {
+                    "d": "Or, <i>And</i> their <i>cities thou hast overthrown</i>"
+                },
+                {
+                    "e": "Hebrew <i>plucked up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009007,
+            "text": "    But Jehovah sitteth  for ever:\n    He hath prepared his throne for judgment;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009008,
+            "text": "  And he will judge the world in righteousness,\n  He will minister judgment to the <i>[f]</i>peoples in uprightness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-8",
+            "footnotes": [
+                {
+                    "f": "Or, <i>people</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009009,
+            "text": "    Jehovah also will be a high tower for the oppressed,\n    A high tower in times of trouble;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009010,
+            "text": "    And they that know thy name will put their trust in thee;\n    For thou, Jehovah, hast not forsaken them that seek thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009011,
+            "text": "  Sing praises to Jehovah, who dwelleth in Zion:\n  Declare among the <i>[g]</i>people his doings.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>peoples</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009012,
+            "text": "  <i>[h]</i>For he that maketh inquisition for blood remembereth them;\n  He forgetteth not the cry of the <i>[i]</i>poor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-12",
+            "footnotes": [
+                {
+                    "h": "Or, <i>For when he maketh\u00a0.\u00a0.\u00a0. he remembereth</i>"
+                },
+                {
+                    "i": "Or, <i>meek</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009013,
+            "text": "    Have mercy upon me, O Jehovah;\n    Behold my affliction  of them that hate me,\n    Thou that liftest me up from the gates of death;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009014,
+            "text": "  That I may show forth all thy praise.\n  In the gates of the daughter of Zion\n  I will rejoice in thy <i>[j]</i>salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-14",
+            "footnotes": [
+                {
+                    "j": "Or, <i>saving help</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009015,
+            "text": "    The nations are sunk down in the pit that they made:\n    In the net which they hid is their own foot taken.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009016,
+            "text": "  Jehovah hath made himself known, he hath executed judgment:\n   <i>[k]</i>The wicked is snared in the work of his own hands. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-16",
+            "footnotes": [
+                {
+                    "k": "Or, <i>He snareth the wicked</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009017,
+            "text": "    The wicked shall be turned back unto Sheol,\n    Even all the nations that forget God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009018,
+            "text": "  For the needy shall not alway be forgotten,\n  Nor the expectation of the <i>[l]</i>poor perish for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-18",
+            "footnotes": [
+                {
+                    "l": "Or, <i>meek</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009019,
+            "text": "    Arise, O Jehovah; let not man prevail:\n    Let the nations be judged in thy sight.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19009020,
+            "text": "    Put them in fear, O Jehovah:\n    Let the nations know themselves to be but men. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 9
+}

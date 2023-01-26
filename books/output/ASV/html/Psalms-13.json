@@ -1,0 +1,67 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19013001,
+            "text": "<b>Prayer for help in affliction.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6     How long, O Jehovah? wilt thou forget me for ever?\n    How long wilt thou hide thy face from me?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19013002,
+            "text": "    How long shall I take counsel in my soul,\n    Having sorrow in my heart all the day?\n    How long shall mine enemy be exalted over me?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19013003,
+            "text": "    Consider  answer me, O Jehovah my God:\n    Lighten mine eyes, lest I sleep the  death;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19013004,
+            "text": "    Lest mine enemy say, I have prevailed against him;\n     mine adversaries rejoice when I am moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19013005,
+            "text": "    But I have trusted in thy lovingkindness;\n    My heart shall rejoice in thy salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19013006,
+            "text": "    I will sing unto Jehovah,\n    Because he hath dealt bountifully with me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 13
+}

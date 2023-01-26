@@ -1,0 +1,197 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 47,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 47,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 47006001,
+            "text": "And working together  we entreat also that ye receive not the grace of God in vain ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006002,
+            "text": "(for he saith,\u00b6   <i>[a]</i>At an acceptable time I hearkened unto thee,\n    And in a day of salvation did I succor thee:\n    \u00b6 behold, now is the acceptable time; behold, now is the day of salvation): ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-2",
+            "footnotes": [
+                {
+                    "a": "[[Isa. 49:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006003,
+            "text": "giving no occasion of stumbling in anything, that our ministration be not blamed; ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006004,
+            "text": "but in everything commending ourselves, as ministers of God, in much <i>[b]</i>patience, in afflictions, in necessities, in distresses, ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006005,
+            "text": "in stripes, in imprisonments, in tumults, in labors, in watchings, in fastings; ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006006,
+            "text": "in pureness, in knowledge, in longsuffering, in kindness, in the Holy Spirit, in love unfeigned, ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006007,
+            "text": "in the word of truth, in the power of God; <i>[c]</i>by the armor of righteousness on the right hand and on the left, ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-7",
+            "footnotes": [
+                {
+                    "c": "Greek <i>through</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006008,
+            "text": "by glory and dishonor, by evil report and good report; as deceivers, and  true; ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006009,
+            "text": "as unknown, and  well known; as dying, and behold, we live; as chastened, and not killed; ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006010,
+            "text": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and  possessing all things.",
+            "version": "ASV",
+            "clsstr": "2Cor-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006011,
+            "text": "\u00b6 Our mouth is open unto you, O Corinthians, our heart is enlarged. ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006012,
+            "text": "Ye are not straitened in us, but ye are straitened in your own affections. ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006013,
+            "text": "Now for a recompense in like kind (I speak as unto  children), be ye also enlarged. ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006014,
+            "text": "Be not unequally yoked with unbelievers: for what fellowship have righteousness and iniquity? or what communion hath light with darkness? ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006015,
+            "text": "And what concord hath Christ with <i>[d]</i>Belial? or what portion hath a believer with an unbeliever? ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-15",
+            "footnotes": [
+                {
+                    "d": "Greek <i>Beliar</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006016,
+            "text": "And what agreement hath a <i>[e]</i>temple of God with idols? for we are a <i>[f]</i>temple of the living God; even as God said, <i>[g]</i>I will dwell in them, and walk in them; and I will be their God, and they shall be my people. ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-16",
+            "footnotes": [
+                {
+                    "e": "Or, <i>sanctuary</i>"
+                },
+                {
+                    "f": "Or, <i>sanctuary</i>"
+                },
+                {
+                    "g": "[[Lev. 26:12]]; [[Ex. 29:45]]; [[Ezek. 37:27]]; [[Jer. 31:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006017,
+            "text": "Wherefore\u00b6   <i>[h]</i>Come ye out from among them, and be ye separate,\n    \u00b6 saith the Lord,\u00b6 And touch no unclean thing;\n    And I will receive you,\n    ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-17",
+            "footnotes": [
+                {
+                    "h": "[[Isa. 52:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47006018,
+            "text": "   <i>[i]</i>And will be to you a Father,\n    And ye shall be to me sons and daughters,\n    \u00b6 saith the Lord Almighty. ",
+            "version": "ASV",
+            "clsstr": "2Cor-6-18",
+            "footnotes": [
+                {
+                    "i": "[[Hos. 1:10]]; [[Isa. 43:6]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Corinthians",
+    "chapters": 6
+}

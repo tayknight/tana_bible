@@ -1,0 +1,368 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40015001,
+            "text": "\u00b6 Then there come to Jesus from Jerusalem Pharisees and scribes, saying, ",
+            "version": "ASV",
+            "clsstr": "Matt-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015002,
+            "text": "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015003,
+            "text": "And he answered and said unto them, Why do ye also transgress the commandment of God because of your tradition? ",
+            "version": "ASV",
+            "clsstr": "Matt-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015004,
+            "text": "For God said, <i>[a]</i>Honor thy father and thy mother: and, <i>[b]</i>He that speaketh evil of father or mother, let him <i>[c]</i>die the death. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-4",
+            "footnotes": [
+                {
+                    "a": "[[Ex. 20:12]]; [[Dt. 5:16]]."
+                },
+                {
+                    "b": "[[Ex. 21:17]]; [[Lev. 20:9]]."
+                },
+                {
+                    "c": "Or, <i>surely die</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015005,
+            "text": "But ye say, Whosoever shall say to his father or his mother, That wherewith thou mightest have been profited by me is given ; ",
+            "version": "ASV",
+            "clsstr": "Matt-15-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015006,
+            "text": "he shall not honor his father. <i>[d]</i>And ye have made void the <i>[e]</i>word of God because of your tradition. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-6",
+            "footnotes": [
+                {
+                    "d": "Some ancient authorities add <i>or his mother</i>."
+                },
+                {
+                    "e": "Some ancient authorities read <i>law</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015007,
+            "text": "Ye hypocrites, well did Isaiah prophesy of you, saying,",
+            "version": "ASV",
+            "clsstr": "Matt-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015008,
+            "text": "\u00b6   <i>[f]</i>This people honoreth me with their lips;\n    But their heart is far from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-15-8",
+            "footnotes": [
+                {
+                    "f": "[[Isa. 29:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015009,
+            "text": "    But in vain do they worship me,\n    Teaching  doctrines the precepts of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015010,
+            "text": "\u00b6 And he called to him the multitude, and said unto them, Hear, and understand: ",
+            "version": "ASV",
+            "clsstr": "Matt-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015011,
+            "text": "Not that which entereth into the mouth defileth the man; but that which proceedeth out of the mouth, this defileth the man. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015012,
+            "text": "Then came the disciples, and said unto him, Knowest thou that the Pharisees were <i>[g]</i>offended, when they heard this saying? ",
+            "version": "ASV",
+            "clsstr": "Matt-15-12",
+            "footnotes": [
+                {
+                    "g": "Greek <i>caused to stumble</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015013,
+            "text": "But he answered and said, Every <i>[h]</i>plant which my heavenly Father planted not, shall be rooted up. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-13",
+            "footnotes": [
+                {
+                    "h": "Greek <i>planting</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015014,
+            "text": "Let them alone: they are blind guides. And if the blind guide the blind, both shall fall into a pit. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015015,
+            "text": "And Peter answered and said unto him, Declare unto us the parable. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015016,
+            "text": "And he said, Are ye also even yet without understanding? ",
+            "version": "ASV",
+            "clsstr": "Matt-15-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015017,
+            "text": "Perceive ye not, that whatsoever goeth into the mouth passeth into the belly, and is cast out into the draught? ",
+            "version": "ASV",
+            "clsstr": "Matt-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015018,
+            "text": "But the things which proceed out of the mouth come forth out of the heart; and they defile the man. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015019,
+            "text": "For out of the heart come forth evil thoughts, murders, adulteries, fornications, thefts, false witness, railings: ",
+            "version": "ASV",
+            "clsstr": "Matt-15-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015020,
+            "text": "these are the things which defile the man; but to eat with unwashen hands defileth not the man.",
+            "version": "ASV",
+            "clsstr": "Matt-15-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015021,
+            "text": "\u00b6 And Jesus went out thence, and withdrew into the parts of Tyre and Sidon. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015022,
+            "text": "And behold, a Canaanitish woman came out from those borders, and cried, saying, Have mercy on me, O Lord, thou son of David; my daughter is grievously vexed with a demon. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015023,
+            "text": "But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015024,
+            "text": "But he answered and said, I was not sent but unto the lost sheep of the house of Israel. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015025,
+            "text": "But she came and <i>[i]</i>worshipped him, saying, Lord, help me. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-25",
+            "footnotes": [
+                {
+                    "i": "See marginal note on [[2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015026,
+            "text": "And he answered and said, It is not meet to take the children\u2019s <i>[j]</i>bread and cast it to the dogs. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-26",
+            "footnotes": [
+                {
+                    "j": "Or, <i>loaf</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015027,
+            "text": "But she said, Yea, Lord: for even the dogs eat of the crumbs which fall from their masters\u2019 table. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015028,
+            "text": "Then Jesus answered and said unto her, O woman, great is thy faith: be it done unto thee even as thou wilt. And her daughter was healed from that hour.",
+            "version": "ASV",
+            "clsstr": "Matt-15-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015029,
+            "text": "\u00b6 And Jesus departed thence, and came nigh unto the sea of Galilee; and he went up into the mountain, and sat there. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015030,
+            "text": "And there came unto him great multitudes, having with them the lame, blind, dumb, maimed, and many others, and they cast them down at his feet; and he healed them: ",
+            "version": "ASV",
+            "clsstr": "Matt-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015031,
+            "text": "insomuch that the multitude wondered, when they saw the dumb speaking, the maimed whole, and the lame walking, and the blind seeing: and they glorified the God of Israel.",
+            "version": "ASV",
+            "clsstr": "Matt-15-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015032,
+            "text": "\u00b6 And Jesus called unto him his disciples, and said, I have compassion on the multitude, because they continue with me now three days and have nothing to eat: and I would not send them away fasting, lest haply they faint on the way. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015033,
+            "text": "And the disciples say unto him, Whence should we have so many loaves in a desert place as to fill so great a multitude? ",
+            "version": "ASV",
+            "clsstr": "Matt-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015034,
+            "text": "And Jesus said unto them, How many loaves have ye? And they said, Seven, and a few small fishes. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015035,
+            "text": "And he commanded the multitude to sit down on the ground; ",
+            "version": "ASV",
+            "clsstr": "Matt-15-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015036,
+            "text": "and he took the seven loaves and the fishes; and he gave thanks and brake, and gave to the disciples, and the disciples to the multitudes. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015037,
+            "text": "And they all ate, and were filled: and they took up that which remained over of the broken pieces, seven baskets full. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015038,
+            "text": "And they that did eat were four thousand men, besides women and children. ",
+            "version": "ASV",
+            "clsstr": "Matt-15-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40015039,
+            "text": "And he sent away the multitudes, and entered into the boat, and came into the borders of Magadan.",
+            "version": "ASV",
+            "clsstr": "Matt-15-39",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 15
+}

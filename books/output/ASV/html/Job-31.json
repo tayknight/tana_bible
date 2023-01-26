@@ -1,0 +1,397 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18031001,
+            "text": "\u00b6     I made a covenant with mine eyes;\n    How then should I look upon a virgin?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031002,
+            "text": "   <i>[a]</i>For what is the portion from God above,\n    And the heritage from the Almighty on high?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>For what portion</i> should I have <i>of God\u00a0.\u00a0.\u00a0. And what heritage etc.? Is there not calamity etc.?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031003,
+            "text": "    Is it not calamity to the unrighteous,\n    And disaster to the workers of iniquity?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031004,
+            "text": "    Doth not he see my ways,\n    And number all my steps?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031005,
+            "text": "\u00b6     If I have walked with falsehood,\n    And my foot hath hasted to deceit\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031006,
+            "text": "    (Let me be weighed in an even balance,\n    That God may know mine integrity);\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031007,
+            "text": "    If my step hath turned out of the way,\n    And my heart walked after mine eyes,\n    And if any spot hath cleaved to my hands:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031008,
+            "text": "  Then let me sow, and let another eat;\n  Yea, let <i>[b]</i>the produce of my field be rooted out.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>my offspring</i>. Hebrew <i>my produce</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031009,
+            "text": "\u00b6     If my heart hath been enticed unto a woman,\n    And I have laid wait at my neighbor\u2019s door;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031010,
+            "text": "    Then let my wife grind unto another,\n    And let others bow down upon her.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031011,
+            "text": "    For that were a heinous crime;\n    Yea, it were an iniquity to be punished by the judges:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031012,
+            "text": "  For it is a fire that consumeth unto <i>[c]</i>Destruction,\n    And would root out all mine increase.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-12",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Abaddon</i>. See [[26:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031013,
+            "text": "    If I have despised the cause of my man-servant or of my maid-servant,\n    When they contended with me;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031014,
+            "text": "    What then shall I do when God riseth up?\n    And when he visiteth, what shall I answer him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031015,
+            "text": "    Did not he that made me in the womb make him?\n    And did not one fashion us in the womb?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031016,
+            "text": "\u00b6   If I have withheld <i>[d]</i>the poor from  desire,\n    Or have caused the eyes of the widow to fail,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>aught that the poor desired</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031017,
+            "text": "    Or have eaten my morsel alone,\n    And the fatherless hath not eaten thereof\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031018,
+            "text": "    (Nay, from my youth he grew up with me as with a father,\n    And her have I guided from my mother\u2019s womb);\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031019,
+            "text": "    If I have seen any perish for want of clothing,\n    Or that the needy had no covering;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031020,
+            "text": "    If his loins have not blessed me,\n    And if he hath not been warmed with the fleece of my sheep;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031021,
+            "text": "    If I have lifted up my hand against the fatherless,\n    Because I saw my help in the gate:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031022,
+            "text": "    Then let my shoulder fall from the shoulder-blade,\n    And mine arm be broken from the bone.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031023,
+            "text": "    For calamity from God is a terror to me,\n    And by reason of his majesty I can do nothing.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031024,
+            "text": "\u00b6     If I have made gold my hope,\n    And have said to the fine gold,  my confidence;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031025,
+            "text": "    If I have rejoiced because my wealth was great,\n    And because my hand had gotten much;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031026,
+            "text": "  If I have beheld <i>[e]</i>the sun when it shined,\n    Or the moon walking in brightness,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-26",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>the light</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031027,
+            "text": "  And my heart hath been secretly enticed,\n  And <i>[f]</i>my mouth hath kissed my hand:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-27",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>my hand hath kissed my mouth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031028,
+            "text": "    This also were an iniquity to be punished by the judges;\n    For I should have denied the God that is above.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031029,
+            "text": "    If I have rejoiced at the destruction of him that hated me,\n    Or lifted up myself when evil found him\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031030,
+            "text": "  (Yea, I have not suffered my <i>[g]</i>mouth to sin\n    By asking his life with a curse);\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-30",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>palate</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031031,
+            "text": "    If the men of my tent have not said,\n    Who can find one that hath not been filled with his meat?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031032,
+            "text": "  (The sojourner hath not lodged in the street;\n  But I have opened my doors to <i>[h]</i>the traveller);\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-32",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>the way</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031033,
+            "text": "  If <i>[i]</i>like Adam I have covered my transgressions,\n    By hiding mine iniquity in my bosom,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-33",
+            "footnotes": [
+                {
+                    "i": "Or, <i>after the manner of men</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031034,
+            "text": "    Because I feared the great multitude,\n    And the contempt of families terrified me,\n    So that I kept silence, and went not out of the door\u2014\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031035,
+            "text": " Oh that I had one to hear me!\n (Lo, here is my <i>[j]</i>signature, let the Almighty answer me)\n  And the <i>[k]</i>indictment which mine adversary hath written!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-35",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>mark</i>."
+                },
+                {
+                    "k": "Hebrew <i>book</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031036,
+            "text": "    Surely I would carry it upon my shoulder;\n    I would bind it unto me as a crown:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031037,
+            "text": "  I would declare unto him the number of my steps;\n  As a prince would I <i>[l]</i>go near unto him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-37",
+            "footnotes": [
+                {
+                    "l": "Or, <i>present it</i> to him"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031038,
+            "text": "    If my land crieth out against me,\n    And the furrows thereof weep together;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031039,
+            "text": "  If I have eaten the <i>[m]</i>fruits thereof without money,\n    Or have caused the owners thereof to lose their life:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-31-39",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>strength</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18031040,
+            "text": " Let <i>[n]</i>thistles grow instead of wheat,\n  And <i>[o]</i>cockle instead of barley.\n    \u00b6 The words of Job are ended.",
+            "version": "ASV",
+            "clsstr": "Job-31-40",
+            "footnotes": [
+                {
+                    "n": "Or, <i>thorns</i>"
+                },
+                {
+                    "o": "Or, <i>noisome weeds</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 31
+}

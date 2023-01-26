@@ -1,0 +1,179 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5008001,
+            "text": "\u00b6 All the commandment which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which Jehovah sware unto your fathers. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008002,
+            "text": "And thou shalt remember all the way which Jehovah thy God hath led thee these forty years in the wilderness, that he might humble thee, to prove thee, to know what was in thy heart, whether thou wouldest keep his commandments, or not. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008003,
+            "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by everything that proceedeth out of the mouth of Jehovah doth man live. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008004,
+            "text": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008005,
+            "text": "And thou shalt consider in thy heart, that, as a man chasteneth his son, so Jehovah thy God chasteneth thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008006,
+            "text": "And thou shalt keep the commandments of Jehovah thy God, to walk in his ways, and to fear him. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008007,
+            "text": "For Jehovah thy God bringeth thee into a good land, a land of brooks of water, of fountains and springs, flowing forth in valleys and hills; ",
+            "version": "ASV",
+            "clsstr": "Deut-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008008,
+            "text": "a land of wheat and barley, and vines and fig-trees and pomegranates; a land of olive-trees and honey; ",
+            "version": "ASV",
+            "clsstr": "Deut-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008009,
+            "text": "a land wherein thou shalt eat bread without scarceness, thou shalt not lack anything in it; a land whose stones are iron, and out of whose hills thou mayest dig copper. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008010,
+            "text": "And thou shalt eat and be full, and thou shalt bless Jehovah thy God for the good land which he hath given thee.",
+            "version": "ASV",
+            "clsstr": "Deut-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008011,
+            "text": "\u00b6 Beware lest thou forget Jehovah thy God, in not keeping his commandments, and his ordinances, and his statutes, which I command thee this day: ",
+            "version": "ASV",
+            "clsstr": "Deut-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008012,
+            "text": "lest, when thou hast eaten and art full, and hast built goodly houses, and dwelt therein; ",
+            "version": "ASV",
+            "clsstr": "Deut-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008013,
+            "text": "and when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied; ",
+            "version": "ASV",
+            "clsstr": "Deut-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008014,
+            "text": "then thy heart be lifted up, and thou forget Jehovah thy God, who brought thee forth out of the land of Egypt, out of the house of bondage; ",
+            "version": "ASV",
+            "clsstr": "Deut-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008015,
+            "text": "who led thee through the great and terrible wilderness,  fiery serpents and scorpions, and thirsty ground where was no water; who brought thee forth water out of the rock of flint; ",
+            "version": "ASV",
+            "clsstr": "Deut-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008016,
+            "text": "who fed thee in the wilderness with manna, which thy fathers knew not; that he might humble thee, and that he might prove thee, to do thee good at thy latter end: ",
+            "version": "ASV",
+            "clsstr": "Deut-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008017,
+            "text": "and  thou say in thy heart, My power and the might of my hand hath gotten me this wealth. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008018,
+            "text": "But thou shalt remember Jehovah thy God, for it is he that giveth thee power to get wealth; that he may establish his covenant which he sware unto thy fathers, as at this day. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008019,
+            "text": "And it shall be, if thou shalt forget Jehovah thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish. ",
+            "version": "ASV",
+            "clsstr": "Deut-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5008020,
+            "text": "As the nations that Jehovah maketh to perish before you, so shall ye perish; because ye would not hearken unto the voice of Jehovah your God.",
+            "version": "ASV",
+            "clsstr": "Deut-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 8
+}

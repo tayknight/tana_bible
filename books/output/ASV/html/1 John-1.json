@@ -1,0 +1,107 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 62,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 62,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 62001001,
+            "text": "\u00b6 That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we beheld, and our hands handled, concerning the <i>[a]</i>Word of life ",
+            "version": "ASV",
+            "clsstr": "1John-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>word</i>. Compare [[Acts 5:20]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001002,
+            "text": "(and the life was manifested, and we have seen, and bear witness, and declare unto you the life, the eternal , which was with the Father, and was manifested unto us); ",
+            "version": "ASV",
+            "clsstr": "1John-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001003,
+            "text": "that which we have seen and heard declare we unto you also, that ye also may have fellowship with us: yea, and our fellowship is with the Father, and with his Son Jesus Christ: ",
+            "version": "ASV",
+            "clsstr": "1John-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001004,
+            "text": "and these things we write, that <i>[b]</i>our joy may be made full.",
+            "version": "ASV",
+            "clsstr": "1John-1-4",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>your</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001005,
+            "text": "\u00b6 And this is the message which we have heard from him and announce unto you, that God is light, and in him is no darkness at all. ",
+            "version": "ASV",
+            "clsstr": "1John-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001006,
+            "text": "If we say that we have fellowship with him and walk in the darkness, we lie, and do not the truth: ",
+            "version": "ASV",
+            "clsstr": "1John-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001007,
+            "text": "but if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus his Son cleanseth us from all sin. ",
+            "version": "ASV",
+            "clsstr": "1John-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001008,
+            "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us. ",
+            "version": "ASV",
+            "clsstr": "1John-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001009,
+            "text": "If we confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness. ",
+            "version": "ASV",
+            "clsstr": "1John-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62001010,
+            "text": "If we say that we have not sinned, we make him a liar, and his word is not in us.",
+            "version": "ASV",
+            "clsstr": "1John-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 John",
+    "chapters": 1
+}

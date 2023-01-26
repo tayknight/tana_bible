@@ -1,0 +1,274 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19102001,
+            "text": "<b>Prayer of an afflicted one for mercy on himself and on Zion.</b>\n\u00b6 A Prayer of the afflicted, when he <i>[a]</i>is overwhelmed, and poureth out his complaint before Jehovah.\u00b6     Hear my prayer, O Jehovah,\n    And let my cry come unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>fainteth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102002,
+            "text": "    Hide not thy face from me in the day of my distress:\n    Incline thine ear unto me;\n    In the day when I call answer me speedily.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102003,
+            "text": " For my days consume away <i>[b]</i>like smoke,\n  And my bones are burned <i>[c]</i>as a firebrand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in smoke</i>"
+                },
+                {
+                    "c": "Or, <i>as a hearth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102004,
+            "text": "    My heart is smitten like grass, and withered;\n    For I forget to eat my bread.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102005,
+            "text": "    By reason of the voice of my groaning\n    My bones cleave to my flesh.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102006,
+            "text": "    I am like a pelican of the wilderness;\n    I am become as an owl of the waste places.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102007,
+            "text": "    I watch, and am become like a sparrow\n    That is alone upon the house-top.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102008,
+            "text": "    Mine enemies reproach me all the day;\n    They that are mad against me do curse by me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102009,
+            "text": "    For I have eaten ashes like bread,\n    And mingled my drink with weeping,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102010,
+            "text": "    Because of thine indignation and thy wrath:\n    For thou hast taken me up, and cast me away.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102011,
+            "text": "  My days are like a shadow that <i>[d]</i>declineth;\n    And I am withered like grass.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>is stretched out</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102012,
+            "text": "\u00b6   But thou, O Jehovah, <i>[e]</i>wilt abide for ever;\n    And thy memorial  unto all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>sittest</i> as King"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102013,
+            "text": "    Thou wilt arise, and have mercy upon Zion;\n    For it is time to have pity upon her,\n    Yea, the set time is come.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102014,
+            "text": "    For thy servants take pleasure in her stones,\n    And have pity upon her dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102015,
+            "text": "    So the nations shall fear the name of Jehovah,\n    And all the kings of the earth thy glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102016,
+            "text": "    For Jehovah hath built up Zion;\n    He hath appeared in his glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102017,
+            "text": "    He hath regarded the prayer of the destitute,\n    And hath not despised their prayer.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102018,
+            "text": "  This shall be written for the generation to come;\n  And a people which shall be created shall praise <i>[f]</i>Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-18",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>Jah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102019,
+            "text": "    For he hath looked down from the height of his sanctuary;\n    From heaven did Jehovah behold the earth;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102020,
+            "text": "  To hear the sighing of the prisoner;\n  To loose <i>[g]</i>those that are appointed to death;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-20",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>the children of death</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102021,
+            "text": "    That men may declare the name of Jehovah in Zion,\n    And his praise in Jerusalem;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102022,
+            "text": "    When the peoples are gathered together,\n    And the kingdoms, to serve Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102023,
+            "text": "\u00b6   He <i>[h]</i>weakened my strength in the way;\n    He shortened my days.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-23",
+            "footnotes": [
+                {
+                    "h": "Another reading is, <i>afflicted</i> me with <i>his strength</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102024,
+            "text": "    I said, O my God, take me not away in the midst of my days:\n    Thy years are throughout all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102025,
+            "text": "    Of old didst thou lay the foundation of the earth;\n    And the heavens are the work of thy hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102026,
+            "text": "    They shall perish, but thou shalt endure;\n    Yea, all of them shall wax old like a garment;\n    As a vesture shalt thou change them, and they shall be changed:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102027,
+            "text": "    But thou art the same,\n    And thy years shall have no end.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19102028,
+            "text": "    The children of thy servants shall continue,\n    And their seed shall be established before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-102-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 102
+}

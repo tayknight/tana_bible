@@ -1,0 +1,189 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18023001,
+            "text": "\u00b6 Then Job answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-23-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023002,
+            "text": "\u00b6   Even to-day is my complaint <i>[a]</i>rebellious:\n    My stroke is heavier than my groaning.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>bitter</i>. Or, accounted <i>rebellion</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023003,
+            "text": "    Oh that I knew where I might find him!\n    That I might come even to his seat!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023004,
+            "text": "    I would set my cause in order before him,\n    And fill my mouth with arguments.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023005,
+            "text": "    I would know the words which he would answer me,\n    And understand what he would say unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023006,
+            "text": "  Would he contend with me in the greatness of his power?\n  Nay; <i>[b]</i>but he would give heed unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>he would only give heed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023007,
+            "text": "    There the upright might reason with him;\n    So should I be delivered for ever from my judge.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023008,
+            "text": "    Behold, I go forward, but he is not ;\n    And backward, but I cannot perceive him;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023009,
+            "text": "  On the left hand, when he doth work, but I cannot behold him;\n  He <i>[c]</i>hideth himself on the right hand, that I cannot see him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>turneth himself to\u00a0.\u00a0.\u00a0. him, but</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023010,
+            "text": "\u00b6  <i>[d]</i>But he knoweth <i>[e]</i>the way that I take;\n    When he hath tried me, I shall come forth as gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>For</i>"
+                },
+                {
+                    "e": "Hebrew <i>the way</i> that is <i>with me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023011,
+            "text": "    My foot hath held fast to his steps;\n    His way have I kept, and turned not aside.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023012,
+            "text": " I have not gone back from the commandment of his lips;\n I have treasured up the words of his mouth <i>[f]</i>more than my <i>[g]</i>necessary food.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>more than my own law</i>"
+                },
+                {
+                    "g": "Or, <i>portion</i>. See [[Prov. 30:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023013,
+            "text": "  But <i>[h]</i>he is in one , and who can turn him?\n    And what his soul desireth, even that he doeth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>he is one</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023014,
+            "text": "    For he performeth that which is appointed for me:\n    And many such things are with him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023015,
+            "text": "    Therefore am I terrified at his presence;\n    When I consider, I am afraid of him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023016,
+            "text": "    For God hath made my heart faint,\n    And the Almighty hath terrified me;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18023017,
+            "text": "   <i>[i]</i>Because I was not cut off before the darkness,\n    Neither did he cover the thick darkness from my face.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-23-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>For I am not dismayed because of the darkness, Nor because thick darkness covereth my face</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 23
+}

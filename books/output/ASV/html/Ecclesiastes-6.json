@@ -1,0 +1,141 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 21,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 21,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 21006001,
+            "text": "\u00b6 There is an evil which I have seen under the sun, and it is heavy upon men: ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006002,
+            "text": "a man to whom God giveth riches, wealth, and honor, so that he lacketh nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but an alien eateth it; this is vanity, and it is an evil disease. ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006003,
+            "text": "If a man beget a hundred children, and live many years, so that the days of his years are many, but his soul be not filled with good, and moreover he have no burial; I say, that an untimely birth is better than he: ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006004,
+            "text": "for it cometh in vanity, and departeth in darkness, and the name thereof is covered with darkness; ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006005,
+            "text": "moreover it hath not seen the sun <i>[a]</i>nor known it; <i>[b]</i>this hath rest rather than the other: ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>neither had any knowledge</i>"
+                },
+                {
+                    "b": "Or, <i>it is better with this than with the other</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006006,
+            "text": "yea, though he live a thousand years twice told, and yet enjoy no good, do not all go to one place? ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006007,
+            "text": "All the labor of man is for his mouth, and yet the appetite is not filled. ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006008,
+            "text": "For what advantage hath the wise more than the fool? <i>[c]</i> what hath the poor man, that knoweth how to walk before the living? ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-8",
+            "footnotes": [
+                {
+                    "c": "Or, or <i>the poor man that hath understanding, in walking before the living</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006009,
+            "text": "Better is the sight of the eyes than the wandering of the desire: this also is vanity and a striving after wind. ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006010,
+            "text": " <i>[d]</i>Whatsoever hath been, the name thereof was given long ago; and it is known what <i>[e]</i>man is; neither can he contend with him that is mightier than he. ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Whatsoever he be, his name was given him long ago, and it is known that he is man</i>"
+                },
+                {
+                    "e": "Hebrew <i>Adam</i>. See [[Gen. 2:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006011,
+            "text": "Seeing there are many <i>[f]</i>things that increase vanity, what is man the better? ",
+            "version": "ASV",
+            "clsstr": "Eccl-6-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>words</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21006012,
+            "text": "For who knoweth what is good for man in life, <i>[g]</i>all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
+            "version": "ASV",
+            "clsstr": "Eccl-6-12",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>the number of the days</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ecclesiastes",
+    "chapters": 6
+}

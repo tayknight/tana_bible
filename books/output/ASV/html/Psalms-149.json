@@ -1,0 +1,110 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19149001,
+            "text": "<b>Israel invoked to praise Jehovah.</b>\n\u00b6   <i>[a]</i>Praise ye Jehovah.\n    Sing unto Jehovah a new song,\n    And his praise in the assembly of the saints.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149002,
+            "text": "    Let Israel rejoice in him that made him:\n    Let the children of Zion be joyful in their King.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149003,
+            "text": "    Let them praise his name in the dance:\n    Let them sing praises unto him with timbrel and harp.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149004,
+            "text": "  For Jehovah taketh pleasure in his people:\n  He will beautify the meek with <i>[b]</i>salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>victory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149005,
+            "text": "    Let the saints exult in glory:\n    Let them sing for joy upon their beds.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149006,
+            "text": "   the high praises of God in their <i>[c]</i>mouth,\n    And a two-edged sword in their hand;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>throat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149007,
+            "text": "    To execute vengeance upon the nations,\n    And punishments upon the peoples;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149008,
+            "text": "    To bind their kings with chains,\n    And their nobles with fetters of iron;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19149009,
+            "text": " To execute upon them the judgment written:\n  <i>[d]</i>This honor have all his saints.\n   <i>[e]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-149-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>He is the honor of all his saints</i>"
+                },
+                {
+                    "e": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 149
+}

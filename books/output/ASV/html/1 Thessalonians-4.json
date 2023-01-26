@@ -1,0 +1,190 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 52,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 28,
+            "end_book": null
+        }
+    ],
+    "book": 52,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 52004001,
+            "text": "\u00b6 Finally then, brethren, we beseech and exhort you in the Lord Jesus, that, as ye received of us how ye ought to walk and to please God, even as ye do walk,\u2014that ye abound more and more. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004002,
+            "text": "For ye know what <i>[a]</i>charge we gave you through the Lord Jesus. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>charges</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004003,
+            "text": "For this is the will of God,  your sanctification, that ye abstain from fornication; ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004004,
+            "text": "that each one of you know how to possess himself of his own vessel in sanctification and honor, ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004005,
+            "text": "not in the passion of lust, even as the Gentiles who know not God; ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004006,
+            "text": "that no man <i>[b]</i>transgress, and wrong his brother in the matter: because the Lord is an avenger in all these things, as also we <i>[c]</i>forewarned you and testified. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>overreach</i>"
+                },
+                {
+                    "c": "Or, <i>told you plainly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004007,
+            "text": "For God called us not for uncleanness, but in sanctification. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004008,
+            "text": "Therefore he that rejecteth, rejecteth not man, but God, who giveth his Holy Spirit unto you.",
+            "version": "ASV",
+            "clsstr": "1Thess-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004009,
+            "text": "\u00b6 But concerning love of the brethren ye have no need that one write unto you: for ye yourselves are taught of God to love one another; ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004010,
+            "text": "for indeed ye do it toward all the brethren that are in all Macedonia. But we exhort you, brethren, that ye abound more and more; ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004011,
+            "text": "and that ye <i>[d]</i>study to be quiet, and to do your own business, and to work with your hands, even as we charged you; ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-11",
+            "footnotes": [
+                {
+                    "d": "Greek <i>be ambitious</i>. See [[Rom. 15:20]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004012,
+            "text": "that ye may walk becomingly toward them that are without, and may have need of nothing.",
+            "version": "ASV",
+            "clsstr": "1Thess-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004013,
+            "text": "\u00b6 But we would not have you ignorant, brethren, concerning them that fall asleep; that ye sorrow not, even as the rest, who have no hope. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004014,
+            "text": "For if we believe that Jesus died and rose again, even so them also that are fallen asleep <i>[e]</i>in Jesus will God bring with him. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-14",
+            "footnotes": [
+                {
+                    "e": "Greek <i>through</i>. Or, <i>will God through Jesus</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004015,
+            "text": "For this we say unto you by the word of the Lord, that we that are alive, that are left unto the <i>[f]</i>coming of the Lord, shall in no wise precede them that are fallen asleep. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-15",
+            "footnotes": [
+                {
+                    "f": "Greek <i>presence</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004016,
+            "text": "For the Lord himself shall descend from heaven, with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first; ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004017,
+            "text": "then we that are alive, that are left, shall together with them be caught up in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Thess-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 52004018,
+            "text": "Wherefore <i>[g]</i>comfort one another with these words.",
+            "version": "ASV",
+            "clsstr": "1Thess-4-18",
+            "footnotes": [
+                {
+                    "g": "Or, <i>exhort</i>. [[5:11]]"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Thessalonians",
+    "chapters": 4
+}

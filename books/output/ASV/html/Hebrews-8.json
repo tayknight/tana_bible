@@ -1,0 +1,155 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58008001,
+            "text": "\u00b6 <i>[a]</i>Now <i>[b]</i>in the things which we are saying the chief point : We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens, ",
+            "version": "ASV",
+            "clsstr": "Heb-8-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Now to sum up what we are saying: We have etc.</i>"
+                },
+                {
+                    "b": "Greek <i>upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008002,
+            "text": "a minister of <i>[c]</i>the sanctuary, and of the true tabernacle, which the Lord pitched, not man. ",
+            "version": "ASV",
+            "clsstr": "Heb-8-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>holy things</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008003,
+            "text": "For every high priest is appointed to offer both gifts and sacrifices: wherefore it is necessary that this  also have somewhat to offer. ",
+            "version": "ASV",
+            "clsstr": "Heb-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008004,
+            "text": "Now if he were on earth, he would not be a priest at all, seeing there are those who offer the gifts according to the law; ",
+            "version": "ASV",
+            "clsstr": "Heb-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008005,
+            "text": "who serve a copy and shadow of the heavenly things, even as Moses is warned when he is about to <i>[d]</i>make the tabernacle: for, <i>[e]</i>See, saith he, that thou make all things according to the pattern that was showed thee in the mount. ",
+            "version": "ASV",
+            "clsstr": "Heb-8-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>complete</i>"
+                },
+                {
+                    "e": "[[Ex. 25:40]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008006,
+            "text": "But now hath he obtained a ministry the more excellent, by so much as he is also the mediator of a better covenant, which hath been enacted upon better promises. ",
+            "version": "ASV",
+            "clsstr": "Heb-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008007,
+            "text": "For if that first  had been faultless, then would no place have been sought for a second. ",
+            "version": "ASV",
+            "clsstr": "Heb-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008008,
+            "text": "For <i>[f]</i>finding fault with them, he saith,\u00b6  <i>[g]</i>Behold, the days come, saith the Lord,\n  That I will <i>[h]</i>make a new covenant with the house of Israel and with the house of Judah;\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-8-8",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities read <i>finding fault</i> with it, <i>he saith unto them etc.</i>"
+                },
+                {
+                    "g": "[[Jer. 31:31ff]]."
+                },
+                {
+                    "h": "Greek <i>accomplish</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008009,
+            "text": "    Not according to the covenant that I made with their fathers\n    In the day that I took them by the hand to lead them forth out of the land of Egypt;\n    For they continued not in my covenant,\n    And I regarded them not, saith the Lord.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008010,
+            "text": "  For this is the covenant that <i>[i]</i>I will make with the house of Israel\n    After those days, saith the Lord;\n    I will put my laws into their mind,\n    And on their heart also will I write them:\n    And I will be to them a God,\n    And they shall be to me a people:\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-8-10",
+            "footnotes": [
+                {
+                    "i": "Greek <i>I will covenant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008011,
+            "text": "    And they shall not teach every man his fellow-citizen,\n    And every man his brother, saying, Know the Lord:\n    For all shall know me,\n    From the least to the greatest of them.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008012,
+            "text": "    For I will be merciful to their iniquities,\n    And their sins will I remember no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58008013,
+            "text": "\u00b6 In that he saith, A new , he hath made the first old. But that which is becoming old and waxeth aged is nigh unto vanishing away.",
+            "version": "ASV",
+            "clsstr": "Heb-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 8
+}

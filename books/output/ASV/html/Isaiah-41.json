@@ -1,0 +1,288 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23041001,
+            "text": "\u00b6 Keep silence before me, O islands; and let the peoples renew their strength: let them come near; then let them speak; let us come near together to judgment. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041002,
+            "text": "Who hath raised up one from the east, <i>[a]</i>whom he calleth in righteousness to his foot? he giveth nations before him, and maketh him rule over kings; <i>[b]</i>he giveth them as the dust to his sword, as the driven stubble to his bow. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>whom righteousness calleth to its foot</i>. Or, <i>whom righteousness meeteth withersoever he goeth</i>"
+                },
+                {
+                    "b": "Or, <i>he maketh as the dust their sword, as the driven stubble their bow</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041003,
+            "text": "He pursueth them, and passeth on safely, even by a way that he had not gone with his feet. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041004,
+            "text": "Who hath wrought and done it, calling the generations from the beginning? I, Jehovah, the first, and with the last, I am he. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041005,
+            "text": "The isles have seen, and fear; the ends of the earth tremble; they draw near, and come. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041006,
+            "text": "They help every one his neighbor; and  saith to his brother, Be of good courage. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041007,
+            "text": "So the carpenter encourageth the goldsmith,  he that smootheth with the hammer him that smiteth the anvil, saying of the soldering, It is good; and he fasteneth it with nails, that it should not be moved.",
+            "version": "ASV",
+            "clsstr": "Isa-41-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041008,
+            "text": "\u00b6 But thou, Israel, my servant, Jacob whom I have chosen, the seed of Abraham my friend, ",
+            "version": "ASV",
+            "clsstr": "Isa-41-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041009,
+            "text": "thou whom I have taken hold of from the ends of the earth, and called from the corners thereof, and said unto thee, Thou art my servant, I have chosen thee and not cast thee away; ",
+            "version": "ASV",
+            "clsstr": "Isa-41-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041010,
+            "text": "fear thou not, for I am with thee; <i>[c]</i>be not dismayed, for I am thy God; I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>look not around thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041011,
+            "text": "Behold, all they that are incensed against thee shall be put to shame and confounded: they that strive with thee shall be as nothing, and shall perish. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041012,
+            "text": "Thou shalt seek them, and shalt not find them, even them that contend with thee: they that war against thee shall be as nothing, and as a thing of nought. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041013,
+            "text": "For I, Jehovah thy God, will hold thy right hand, saying unto thee, Fear not; I will help thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041014,
+            "text": "Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith Jehovah, and <i>[d]</i>thy Redeemer is the Holy One of Israel. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-14",
+            "footnotes": [
+                {
+                    "d": "Or, <i>thy Redeemer, the Holy One etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041015,
+            "text": "Behold, I have made thee  a new sharp threshing instrument having teeth; thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041016,
+            "text": "Thou shalt winnow them, and the wind shall carry them away, and the whirlwind shall scatter them; and thou shalt rejoice in Jehovah, thou shalt glory in the Holy One of Israel.",
+            "version": "ASV",
+            "clsstr": "Isa-41-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041017,
+            "text": "\u00b6 The poor and needy seek water, and there is none, and their tongue faileth for thirst; I, Jehovah, will answer them, I, the God of Israel, will not forsake them. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041018,
+            "text": "I will open rivers on the bare heights, and fountains in the midst of the valleys; I will make the wilderness a pool of water, and the dry land springs of water. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041019,
+            "text": "I will put in the wilderness the cedar, the acacia, and the myrtle, and the <i>[e]</i>oil-tree; I will set in the desert the <i>[f]</i>fir-tree, the <i>[g]</i>pine, and the box-tree together: ",
+            "version": "ASV",
+            "clsstr": "Isa-41-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>oleaster</i>"
+                },
+                {
+                    "f": "Or, <i>cypress</i>"
+                },
+                {
+                    "g": "Or, <i>plane</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041020,
+            "text": "that they may see, and know, and consider, and understand together, that the hand of Jehovah hath done this, and the Holy One of Israel hath created it.",
+            "version": "ASV",
+            "clsstr": "Isa-41-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041021,
+            "text": "\u00b6 Produce your cause, saith Jehovah; bring forth your strong reasons, saith the King of Jacob. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041022,
+            "text": "Let them bring forth, and declare unto us what shall happen: declare ye the former things, what they are, that we may consider them, and know the latter end of them; or show us things to come. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041023,
+            "text": "Declare the things that are to come hereafter, that we may know that ye are gods: yea, do good, or do evil, that we may <i>[h]</i>be dismayed, and behold it together. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-23",
+            "footnotes": [
+                {
+                    "h": "Or, <i>look one upon another</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041024,
+            "text": "Behold, ye are of nothing, and your work is of nought; an abomination is he that chooseth you.",
+            "version": "ASV",
+            "clsstr": "Isa-41-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041025,
+            "text": "\u00b6 I have raised up one from the north, and he is come; from the rising of the sun one that calleth upon my name: and he shall come upon <i>[i]</i>rulers as upon mortar, and as the potter treadeth clay. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-25",
+            "footnotes": [
+                {
+                    "i": "Or, <i>deputies</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041026,
+            "text": "Who hath declared it from the beginning, that we may know? and beforetime, that we may say,  right? yea, there is none that declareth, yea, there is none that showeth, yea, there is none that heareth your words. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041027,
+            "text": " first  unto Zion, Behold, behold them; and I will give to Jerusalem one that bringeth good tidings. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041028,
+            "text": "And when I look, there is no man: even among them there is no counsellor, that, when I ask of them, can answer a word. ",
+            "version": "ASV",
+            "clsstr": "Isa-41-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23041029,
+            "text": " <i>[j]</i>Behold, all of them, their works are vanity  nought; their molten images are wind and confusion.",
+            "version": "ASV",
+            "clsstr": "Isa-41-29",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Behold, they are all vanity; their works are nought</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 41
+}

@@ -1,0 +1,298 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 59,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 59,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 59001001,
+            "text": "\u00b6 <i>[a]</i>James, a <i>[b]</i>servant of God and of the Lord Jesus Christ, to the twelve tribes which are of the Dispersion, <i>[c]</i>greeting.",
+            "version": "ASV",
+            "clsstr": "Jas-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Jacob</i>"
+                },
+                {
+                    "b": "Greek <i>bondservant</i>."
+                },
+                {
+                    "c": "Greek <i>wisheth joy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001002,
+            "text": "\u00b6 Count it all joy, my brethren, when ye fall into manifold <i>[d]</i>temptations; ",
+            "version": "ASV",
+            "clsstr": "Jas-1-2",
+            "footnotes": [
+                {
+                    "d": "Or, <i>trials</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001003,
+            "text": "knowing that the proving of your faith worketh <i>[e]</i>patience. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-3",
+            "footnotes": [
+                {
+                    "e": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001004,
+            "text": "And let <i>[f]</i>patience have  perfect work, that ye may be perfect and entire, lacking in nothing.",
+            "version": "ASV",
+            "clsstr": "Jas-1-4",
+            "footnotes": [
+                {
+                    "f": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001005,
+            "text": "\u00b6 But if any of you lacketh wisdom, let him ask of God, who giveth to all liberally and upbraideth not; and it shall be given him. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001006,
+            "text": "But let him ask in faith, nothing doubting: for he that doubteth is like the surge of the sea driven by the wind and tossed. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001007,
+            "text": "For let not that man think <i>[g]</i>that he shall receive anything of the Lord; ",
+            "version": "ASV",
+            "clsstr": "Jas-1-7",
+            "footnotes": [
+                {
+                    "g": "Or, <i>that a doubleminded man, unstable in all his ways, shall receive anything of the Lord</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001008,
+            "text": "a doubleminded man, unstable in all his ways.",
+            "version": "ASV",
+            "clsstr": "Jas-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001009,
+            "text": "\u00b6 But let the brother of low degree glory in his high estate: ",
+            "version": "ASV",
+            "clsstr": "Jas-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001010,
+            "text": "and the rich, in that he is made low: because as the flower of the grass he shall pass away. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001011,
+            "text": "For the sun ariseth with the scorching wind, and withereth the grass; and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his goings.",
+            "version": "ASV",
+            "clsstr": "Jas-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001012,
+            "text": "\u00b6 Blessed is the man that endureth temptation; for when he hath been approved, he shall receive the crown of life, which  promised to them that love him. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001013,
+            "text": "Let no man say when he is tempted, I am tempted <i>[h]</i>of God; for God <i>[i]</i>cannot be tempted with <i>[j]</i>evil, and he himself tempteth no man: ",
+            "version": "ASV",
+            "clsstr": "Jas-1-13",
+            "footnotes": [
+                {
+                    "h": "Greek <i>from</i>."
+                },
+                {
+                    "i": "Or, <i>is untried in evil</i>"
+                },
+                {
+                    "j": "Greek <i>evil things</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001014,
+            "text": "but each man is <i>[k]</i>tempted, when he is drawn away by his own lust, and enticed. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-14",
+            "footnotes": [
+                {
+                    "k": "Or, <i>tempted by his own lust, being drawn away</i> by it, <i>and enticed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001015,
+            "text": "Then the lust, when it hath conceived, beareth sin: and the sin, when it is fullgrown, bringeth forth death. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001016,
+            "text": "Be not deceived, my beloved brethren. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001017,
+            "text": "Every good <i>[l]</i>gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, neither shadow that is cast by turning. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-17",
+            "footnotes": [
+                {
+                    "l": "Or, <i>giving</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001018,
+            "text": "Of his own will he brought us forth by the word of truth, that we should be a kind of first-fruits of his creatures.",
+            "version": "ASV",
+            "clsstr": "Jas-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001019,
+            "text": "\u00b6 <i>[m]</i>Ye know , my beloved brethren. But let every man be swift to hear, slow to speak, slow to wrath: ",
+            "version": "ASV",
+            "clsstr": "Jas-1-19",
+            "footnotes": [
+                {
+                    "m": "Or, <i>Know ye</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001020,
+            "text": "for the wrath of man worketh not the righteousness of God. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001021,
+            "text": "Wherefore putting away all filthiness and overflowing of <i>[n]</i>wickedness, receive with meekness the <i>[o]</i>implanted word, which is able to save your souls. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-21",
+            "footnotes": [
+                {
+                    "n": "Or, <i>malice</i>"
+                },
+                {
+                    "o": "Or, <i>inborn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001022,
+            "text": "But be ye doers of the word, and not hearers only, deluding your own selves. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001023,
+            "text": "For if any one is a hearer of the word and not a doer, he is like unto a man beholding <i>[p]</i>his natural face in a mirror: ",
+            "version": "ASV",
+            "clsstr": "Jas-1-23",
+            "footnotes": [
+                {
+                    "p": "Greek <i>the face of his birth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001024,
+            "text": "for he beholdeth himself, and goeth away, and straightway forgetteth what manner of man he was. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001025,
+            "text": "But he that looketh into the perfect law, the  of liberty, and  continueth, being not a hearer that forgetteth but a doer that worketh, this man shall be blessed in his doing. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001026,
+            "text": "If any man <i>[q]</i>thinketh himself to be religious, while he bridleth not his tongue but deceiveth his heart, this man\u2019s religion is vain. ",
+            "version": "ASV",
+            "clsstr": "Jas-1-26",
+            "footnotes": [
+                {
+                    "q": "Or, <i>seemeth to be</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 59001027,
+            "text": "Pure religion and undefiled before our God and Father is this, to visit the fatherless and widows in their affliction,  to keep oneself unspotted from the world.",
+            "version": "ASV",
+            "clsstr": "Jas-1-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "James",
+    "chapters": 1
+}

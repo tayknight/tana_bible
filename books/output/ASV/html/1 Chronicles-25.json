@@ -1,0 +1,296 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13025001,
+            "text": "\u00b6 Moreover David and the captains of the host set apart for the service certain of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of them that did the work according to their service was: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025002,
+            "text": "of the sons of Asaph: Zaccur, and Joseph, and Nethaniah, and <i>[a]</i>Asharelah, the sons of Asaph, under the hand of Asaph, who prophesied <i>[b]</i>after the order of the king. ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-2",
+            "footnotes": [
+                {
+                    "a": "In [[verse 14]], <i>Jesharelah</i>."
+                },
+                {
+                    "b": "Hebrew <i>by the hands of the king</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025003,
+            "text": "Of Jeduthun; the sons of Jeduthun: Gedaliah, and <i>[c]</i>Zeri, and Jeshaiah, Hashabiah, and Mattithiah, <i>[d]</i>six, under the hands of their father Jeduthun with the harp, who prophesied in giving thanks and praising Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-3",
+            "footnotes": [
+                {
+                    "c": "In [[verse 11]], <i>Izri</i>."
+                },
+                {
+                    "d": "With Shimei, mentioned in [[verse 17]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025004,
+            "text": "Of Heman; the sons of Heman: Bukkiah, Mattaniah, <i>[e]</i>Uzziel, <i>[f]</i>Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, Mahazioth. ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-4",
+            "footnotes": [
+                {
+                    "e": "In [[verse 18]], <i>Azarel</i>."
+                },
+                {
+                    "f": "In [[verse 20]], <i>Shubael</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025005,
+            "text": "All these were the sons of Heman the king\u2019s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters. ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025006,
+            "text": "All these were under the hands of their father for song in the house of Jehovah, with cymbals, psalteries, and harps, for the service of the house of God; <i>[g]</i>Asaph, Jeduthun, and Heman being under the order of the king. ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-6",
+            "footnotes": [
+                {
+                    "g": "Or, <i>after the order of the king</i>, even <i>Asaph etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025007,
+            "text": "And the number of them, with their brethren that were instructed in singing unto Jehovah, even all that were skilful, was two hundred fourscore and eight. ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025008,
+            "text": "And they cast lots <i>[h]</i>for their offices, all alike, as well the small as the great, the teacher as the scholar.",
+            "version": "ASV",
+            "clsstr": "1Chr-25-8",
+            "footnotes": [
+                {
+                    "h": "Or, <i>ward against</i> ward, <i>as well etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025009,
+            "text": "\u00b6 Now the first lot came forth for Asaph to Joseph: the second to Gedaliah; he and his brethren and sons were twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025010,
+            "text": "the third to Zaccur, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025011,
+            "text": "the fourth to Izri, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025012,
+            "text": "the fifth to Nethaniah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025013,
+            "text": "the sixth to Bukkiah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025014,
+            "text": "the seventh to Jesharelah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025015,
+            "text": "the eighth to Jeshaiah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025016,
+            "text": "the ninth to Mattaniah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025017,
+            "text": "the tenth to Shimei, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025018,
+            "text": "the eleventh to Azarel, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025019,
+            "text": "the twelfth to Hashabiah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025020,
+            "text": "for the thirteenth, Shubael, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025021,
+            "text": "for the fourteenth, Mattithiah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025022,
+            "text": "for the fifteenth to Jeremoth, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025023,
+            "text": "for the sixteenth to Hananiah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025024,
+            "text": "for the seventeenth to Joshbekashah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025025,
+            "text": "for the eighteenth to Hanani, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025026,
+            "text": "for the nineteenth to Mallothi, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025027,
+            "text": "for the twentieth to Eliathah, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025028,
+            "text": "for the one and twentieth to Hothir, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025029,
+            "text": "for the two and twentieth to Giddalti, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025030,
+            "text": "for the three and twentieth to Mahazioth, his sons and his brethren, twelve: ",
+            "version": "ASV",
+            "clsstr": "1Chr-25-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13025031,
+            "text": "for the four and twentieth to Romamtiezer, his sons and his brethren, twelve.",
+            "version": "ASV",
+            "clsstr": "1Chr-25-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 25
+}

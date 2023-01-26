@@ -1,0 +1,170 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1016001,
+            "text": "\u00b6 Now Sarai, Abram\u2019s wife, bare him no children: and she had a handmaid, an Egyptian, whose name was Hagar. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016002,
+            "text": "And Sarai said unto Abram, Behold now, Jehovah hath restrained me from bearing; go in, I pray thee, unto my handmaid; it may be that I shall <i>[a]</i>obtain children by her. And Abram hearkened to the voice of Sarai. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>be builded by her</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016003,
+            "text": "And Sarai, Abram\u2019s wife, took Hagar the Egyptian, her handmaid, after Abram had dwelt ten years in the land of Canaan, and gave her to Abram her husband to be his wife. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016004,
+            "text": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016005,
+            "text": "And Sarai said unto Abram, My wrong be upon thee: I gave my handmaid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: Jehovah judge between me and thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016006,
+            "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her that which is good in thine eyes. And Sarai dealt hardly with her, and she fled from her face.",
+            "version": "ASV",
+            "clsstr": "Gen-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016007,
+            "text": "\u00b6 And the angel of Jehovah found her by a fountain of water in the wilderness, by the fountain in the way to Shur. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016008,
+            "text": "And he said, Hagar, Sarai\u2019s handmaid, whence camest thou? and whither goest thou? And she said, I am fleeing from the face of my mistress Sarai. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016009,
+            "text": "And the angel of Jehovah said unto her, Return to thy mistress, and submit thyself under her hands. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016010,
+            "text": "And the angel of Jehovah said unto her, I will greatly multiply thy seed, that it shall not be numbered for multitude. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016011,
+            "text": "And the angel of Jehovah said unto her, Behold, thou art with child, and shalt bear a son; and thou shalt call his name <i>[b]</i>Ishmael, because Jehovah hath heard thy affliction. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-11",
+            "footnotes": [
+                {
+                    "b": "That is, <i>God heareth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016012,
+            "text": "And he shall be a wild ass among men; his hand against every man, and every man\u2019s hand against him; and he shall dwell <i>[c]</i>over against all his brethren. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>to the east of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016013,
+            "text": "And she called the name of Jehovah that spake unto her, <i>[d]</i>Thou art <i>[e]</i>a God that seeth: for she said, Have I even here looked after him that seeth me? ",
+            "version": "ASV",
+            "clsstr": "Gen-16-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Thou God seest me</i>"
+                },
+                {
+                    "e": "Hebrew <i>El roi</i>, that is, <i>God of seeing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016014,
+            "text": "Wherefore the well was called <i>[f]</i>Beer-lahai-roi; behold, it is between Kadesh and Bered.",
+            "version": "ASV",
+            "clsstr": "Gen-16-14",
+            "footnotes": [
+                {
+                    "f": "That is, <i>The well of the living one who seeth me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016015,
+            "text": "\u00b6 And Hagar bare Abram a son: and Abram called the name of his son, whom Hagar bare, Ishmael. ",
+            "version": "ASV",
+            "clsstr": "Gen-16-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1016016,
+            "text": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.",
+            "version": "ASV",
+            "clsstr": "Gen-16-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 16
+}

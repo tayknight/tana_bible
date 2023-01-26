@@ -1,0 +1,237 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45012001,
+            "text": "\u00b6 I beseech you therefore, brethren, by the mercies of God, to present your bodies a living sacrifice, holy, <i>[a]</i>acceptable to God, your <i>[b]</i>spiritual <i>[c]</i>service. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>well-pleasing</i>."
+                },
+                {
+                    "b": "Greek <i>belonging to the reason</i>."
+                },
+                {
+                    "c": "Or, <i>worship</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012002,
+            "text": "And be not fashioned according to this <i>[d]</i>world: but be ye transformed by the renewing of your mind, that ye may prove what is <i>[e]</i>the good and <i>[f]</i>acceptable and perfect will of God.",
+            "version": "ASV",
+            "clsstr": "Rom-12-2",
+            "footnotes": [
+                {
+                    "d": "Or, <i>age</i>"
+                },
+                {
+                    "e": "Or, <i>the will of God</i>, even <i>the thing which is good and acceptable and perfect</i>"
+                },
+                {
+                    "f": "Greek <i>well-pleasing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012003,
+            "text": "\u00b6 For I say, through the grace that was given me, to every man that is among you, not to think of himself more highly than he ought to think; but so to think as to think soberly, according as God hath dealt to each man a measure of faith. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012004,
+            "text": "For even as we have many members in one body, and all the members have not the same office: ",
+            "version": "ASV",
+            "clsstr": "Rom-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012005,
+            "text": "so we, who are many, are one body in Christ, and severally members one of another. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012006,
+            "text": "And having gifts differing according to the grace that was given to us, whether prophecy,  according to the proportion of our faith; ",
+            "version": "ASV",
+            "clsstr": "Rom-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012007,
+            "text": "or ministry,  to our ministry; or he that teacheth, to his teaching; ",
+            "version": "ASV",
+            "clsstr": "Rom-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012008,
+            "text": "or he that exhorteth, to his exhorting: he that giveth, with <i>[g]</i>liberality; he that ruleth, with diligence; he that showeth mercy, with cheerfulness.",
+            "version": "ASV",
+            "clsstr": "Rom-12-8",
+            "footnotes": [
+                {
+                    "g": "Greek <i>singleness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012009,
+            "text": "\u00b6 Let love be without hypocrisy. Abhor that which is evil; cleave to that which is good. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012010,
+            "text": "In love of the brethren be tenderly affectioned one to another; in honor preferring one another; ",
+            "version": "ASV",
+            "clsstr": "Rom-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012011,
+            "text": "in diligence not slothful; fervent in spirit; serving <i>[h]</i>the Lord; ",
+            "version": "ASV",
+            "clsstr": "Rom-12-11",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities read <i>the opportunity</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012012,
+            "text": "rejoicing in hope; patient in tribulation; continuing stedfastly in prayer; ",
+            "version": "ASV",
+            "clsstr": "Rom-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012013,
+            "text": "communicating to the necessities of the saints; <i>[i]</i>given to hospitality. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-13",
+            "footnotes": [
+                {
+                    "i": "Greek <i>pursuing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012014,
+            "text": "Bless them that persecute you; bless, and curse not. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012015,
+            "text": "Rejoice with them that rejoice; weep with them that weep. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012016,
+            "text": "Be of the same mind one toward another. Set not your mind on high things, but <i>[j]</i>condescend to <i>[k]</i>things that are lowly. Be not wise in your own conceits. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-16",
+            "footnotes": [
+                {
+                    "j": "Greek <i>be carried away with</i>."
+                },
+                {
+                    "k": "Or, <i>them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012017,
+            "text": "Render to no man evil for evil. Take thought for things honorable in the sight of all men. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012018,
+            "text": "If it be possible, as much as in you lieth, be at peace with all men. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012019,
+            "text": "Avenge not yourselves, beloved, but give place unto <i>[l]</i>the wrath : for it is written, <i>[m]</i>Vengeance belongeth unto me; I will recompense, saith the Lord. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-19",
+            "footnotes": [
+                {
+                    "l": "Or, <i>wrath</i>"
+                },
+                {
+                    "m": "[[Dt. 32:35]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012020,
+            "text": "But <i>[n]</i>if thine enemy hunger, feed him; if he thirst, give him to drink: for in so doing thou shalt heap coals of fire upon his head. ",
+            "version": "ASV",
+            "clsstr": "Rom-12-20",
+            "footnotes": [
+                {
+                    "n": "([[Prov. 25:21f]])"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45012021,
+            "text": "Be not overcome of evil, but overcome evil with good.",
+            "version": "ASV",
+            "clsstr": "Rom-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 12
+}

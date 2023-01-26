@@ -1,0 +1,379 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43013001,
+            "text": "\u00b6 Now before the feast of the passover, Jesus knowing that his hour was come that he should depart out of this world unto the Father, having loved his own that were in the world, he loved them <i>[a]</i>unto the end. ",
+            "version": "ASV",
+            "clsstr": "John-13-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>to the uttermost</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013002,
+            "text": "And during supper, the devil having already put into the heart of Judas Iscariot, Simon\u2019s , to <i>[b]</i>betray him, ",
+            "version": "ASV",
+            "clsstr": "John-13-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>deliver him up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013003,
+            "text": ", knowing that the Father had given all things into his hands, and that he came forth from God, and goeth unto God, ",
+            "version": "ASV",
+            "clsstr": "John-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013004,
+            "text": "riseth from supper, and layeth aside his garments; and he took a towel, and girded himself. ",
+            "version": "ASV",
+            "clsstr": "John-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013005,
+            "text": "Then he poureth water into the basin, and began to wash the disciples\u2019 feet, and to wipe them with the towel wherewith he was girded. ",
+            "version": "ASV",
+            "clsstr": "John-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013006,
+            "text": "So he cometh to Simon Peter. He saith unto him, Lord, dost thou wash my feet? ",
+            "version": "ASV",
+            "clsstr": "John-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013007,
+            "text": "Jesus answered and said unto him, What I do thou knowest not now; but thou shalt understand hereafter. ",
+            "version": "ASV",
+            "clsstr": "John-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013008,
+            "text": "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me. ",
+            "version": "ASV",
+            "clsstr": "John-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013009,
+            "text": "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head. ",
+            "version": "ASV",
+            "clsstr": "John-13-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013010,
+            "text": "Jesus saith to him, He that is bathed needeth not <i>[c]</i>save to wash his feet, but is clean every whit: and ye are clean, but not all. ",
+            "version": "ASV",
+            "clsstr": "John-13-10",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities omit <i>save</i>, and <i>his feet</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013011,
+            "text": "For he knew him that should <i>[d]</i>betray him; therefore said he, Ye are not all clean.",
+            "version": "ASV",
+            "clsstr": "John-13-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>deliver him up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013012,
+            "text": "\u00b6 So when he had washed their feet, and taken his garments, and <i>[e]</i>sat down again, he said unto them, Know ye what I have done to you? ",
+            "version": "ASV",
+            "clsstr": "John-13-12",
+            "footnotes": [
+                {
+                    "e": "Greek <i>reclined</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013013,
+            "text": "Ye call me, Teacher, and, Lord: and ye say well; for so I am. ",
+            "version": "ASV",
+            "clsstr": "John-13-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013014,
+            "text": "If I then, the Lord and the Teacher, have washed your feet, ye also ought to wash one another\u2019s feet. ",
+            "version": "ASV",
+            "clsstr": "John-13-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013015,
+            "text": "For I have given you an example, that ye also should do as I have done to you. ",
+            "version": "ASV",
+            "clsstr": "John-13-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013016,
+            "text": "Verily, verily, I say unto you, A <i>[f]</i>servant is not greater than his lord; neither <i>[g]</i>one that is sent greater than he that sent him. ",
+            "version": "ASV",
+            "clsstr": "John-13-16",
+            "footnotes": [
+                {
+                    "f": "Greek <i>bondservant</i>."
+                },
+                {
+                    "g": "Greek <i>an apostle</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013017,
+            "text": "If ye know these things, blessed are ye if ye do them. ",
+            "version": "ASV",
+            "clsstr": "John-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013018,
+            "text": "I speak not of you all: I know whom I <i>[h]</i>have chosen: but that the scripture may be fulfilled, <i>[i]</i>He that eateth <i>[j]</i>my bread lifted up his heel against me. ",
+            "version": "ASV",
+            "clsstr": "John-13-18",
+            "footnotes": [
+                {
+                    "h": "Or, <i>chose</i>"
+                },
+                {
+                    "i": "[[Ps. 41:9]]."
+                },
+                {
+                    "j": "Many ancient authorities read <i>his bread with me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013019,
+            "text": "From henceforth I tell you before it come to pass, that, when it is come to pass, ye may believe that I am . ",
+            "version": "ASV",
+            "clsstr": "John-13-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013020,
+            "text": "Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.",
+            "version": "ASV",
+            "clsstr": "John-13-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013021,
+            "text": "\u00b6 When Jesus had thus said, he was troubled in the spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall <i>[k]</i>betray me. ",
+            "version": "ASV",
+            "clsstr": "John-13-21",
+            "footnotes": [
+                {
+                    "k": "Or, <i>deliver me up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013022,
+            "text": "The disciples looked one on another, doubting of whom he spake. ",
+            "version": "ASV",
+            "clsstr": "John-13-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013023,
+            "text": "There was at the table reclining in Jesus\u2019 bosom one of his disciples, whom Jesus loved. ",
+            "version": "ASV",
+            "clsstr": "John-13-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013024,
+            "text": "Simon Peter therefore beckoneth to him, and saith unto him, Tell  who it is of whom he speaketh. ",
+            "version": "ASV",
+            "clsstr": "John-13-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013025,
+            "text": "He leaning back, as he was, on Jesus\u2019 breast saith unto him, Lord, who is it? ",
+            "version": "ASV",
+            "clsstr": "John-13-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013026,
+            "text": "Jesus therefore answereth, He it is, for whom I shall dip the sop, and give it him. So when he had dipped the sop, he taketh and giveth it to Judas,  of Simon Iscariot. ",
+            "version": "ASV",
+            "clsstr": "John-13-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013027,
+            "text": "And after the sop, then entered Satan into him. Jesus therefore saith unto him, What thou doest, do quickly. ",
+            "version": "ASV",
+            "clsstr": "John-13-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013028,
+            "text": "Now no man at the table knew for what intent he spake this unto him. ",
+            "version": "ASV",
+            "clsstr": "John-13-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013029,
+            "text": "For some thought, because Judas had the <i>[l]</i>bag, that Jesus said unto him, Buy what things we have need of for the feast; or, that he should give something to the poor. ",
+            "version": "ASV",
+            "clsstr": "John-13-29",
+            "footnotes": [
+                {
+                    "l": "Or, <i>box</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013030,
+            "text": "He then having received the sop went out straightway: and it was night.",
+            "version": "ASV",
+            "clsstr": "John-13-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013031,
+            "text": "\u00b6 When therefore he was gone out, Jesus saith, Now <i>[m]</i>is the Son of man glorified, and God <i>[n]</i>is glorified in him; ",
+            "version": "ASV",
+            "clsstr": "John-13-31",
+            "footnotes": [
+                {
+                    "m": "Or, <i>was</i>"
+                },
+                {
+                    "n": "Or, <i>was</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013032,
+            "text": "and God shall glorify him in himself, and straightway shall he glorify him. ",
+            "version": "ASV",
+            "clsstr": "John-13-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013033,
+            "text": "Little children, yet a little while I am with you. Ye shall seek me: and as I said unto the Jews, Whither I go, ye cannot come; so now I say unto you. ",
+            "version": "ASV",
+            "clsstr": "John-13-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013034,
+            "text": "A new commandment I give unto you, that ye love one another; <i>[o]</i>even as I have loved you, that ye also love one another. ",
+            "version": "ASV",
+            "clsstr": "John-13-34",
+            "footnotes": [
+                {
+                    "o": "Or, <i>even as I loved you, that ye also may love one another</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013035,
+            "text": "By this shall all men know that ye are my disciples, if ye have love one to another.",
+            "version": "ASV",
+            "clsstr": "John-13-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013036,
+            "text": "\u00b6 Simon Peter saith unto him, Lord, whither goest thou? Jesus answered, Whither I go, thou canst not follow me now; but thou shalt follow afterwards. ",
+            "version": "ASV",
+            "clsstr": "John-13-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013037,
+            "text": "Peter saith unto him, Lord, why cannot I follow thee even now? I will lay down my life for thee. ",
+            "version": "ASV",
+            "clsstr": "John-13-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43013038,
+            "text": "Jesus answereth, Wilt thou lay down thy life for me? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.",
+            "version": "ASV",
+            "clsstr": "John-13-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 13
+}

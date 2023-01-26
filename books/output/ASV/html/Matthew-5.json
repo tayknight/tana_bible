@@ -1,0 +1,482 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40005001,
+            "text": "\u00b6 And seeing the multitudes, he went up into the mountain: and when he had sat down, his disciples came unto him: ",
+            "version": "ASV",
+            "clsstr": "Matt-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005002,
+            "text": "and he opened his mouth and taught them, saying,",
+            "version": "ASV",
+            "clsstr": "Matt-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005003,
+            "text": "\u00b6 Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+            "version": "ASV",
+            "clsstr": "Matt-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005004,
+            "text": "\u00b6 <i>[a]</i>Blessed are they that mourn: for they shall be comforted.",
+            "version": "ASV",
+            "clsstr": "Matt-5-4",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities transpose verses [[4]] and [[5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005005,
+            "text": "\u00b6 Blessed are the meek: for they shall inherit the earth.",
+            "version": "ASV",
+            "clsstr": "Matt-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005006,
+            "text": "\u00b6 Blessed are they that hunger and thirst after righteousness: for they shall be filled.",
+            "version": "ASV",
+            "clsstr": "Matt-5-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005007,
+            "text": "\u00b6 Blessed are the merciful: for they shall obtain mercy.",
+            "version": "ASV",
+            "clsstr": "Matt-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005008,
+            "text": "\u00b6 Blessed are the pure in heart: for they shall see God.",
+            "version": "ASV",
+            "clsstr": "Matt-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005009,
+            "text": "\u00b6 Blessed are the peacemakers: for they shall be called sons of God.",
+            "version": "ASV",
+            "clsstr": "Matt-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005010,
+            "text": "\u00b6 Blessed are they that have been persecuted for righteousness\u2019 sake: for theirs is the kingdom of heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005011,
+            "text": "Blessed are ye when  shall reproach you, and persecute you, and say all manner of evil against you falsely, for my sake. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005012,
+            "text": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets that were before you.",
+            "version": "ASV",
+            "clsstr": "Matt-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005013,
+            "text": "\u00b6 Ye are the salt of the earth: but if the salt have lost its savor, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out and trodden under foot of men. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005014,
+            "text": "Ye are the light of the world. A city set on a hill cannot be hid. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005015,
+            "text": "Neither do  light a lamp, and put it under the bushel, but on the stand; and it shineth unto all that are in the house. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005016,
+            "text": "Even so let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
+            "version": "ASV",
+            "clsstr": "Matt-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005017,
+            "text": "\u00b6 Think not that I came to destroy the law or the prophets: I came not to destroy, but to fulfil. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005018,
+            "text": "For verily I say unto you, Till heaven and earth pass away, one jot or one tittle shall in no wise pass away from the law, till all things be accomplished. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005019,
+            "text": "Whosoever therefore shall break one of these least commandments, and shall teach men so, shall be called least in the kingdom of heaven: but whosoever shall do and teach them, he shall be called great in the kingdom of heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005020,
+            "text": "For I say unto you, that except your righteousness shall exceed  of the scribes and Pharisees, ye shall in no wise enter into the kingdom of heaven.",
+            "version": "ASV",
+            "clsstr": "Matt-5-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005021,
+            "text": "\u00b6 Ye have heard that it was said to them of old time, <i>[b]</i>Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment: ",
+            "version": "ASV",
+            "clsstr": "Matt-5-21",
+            "footnotes": [
+                {
+                    "b": "[[Ex. 20:13]]; [[Dt. 5:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005022,
+            "text": "but I say unto you, that every one who is angry with his brother <i>[c]</i>shall be in danger of the judgment; and whosoever shall say to his brother, <i>[d]</i>Raca, shall be in danger of the council; and whosoever shall say, <i>[e]</i>Thou fool, shall be in danger <i>[f]</i>of the <i>[g]</i>hell of fire. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-22",
+            "footnotes": [
+                {
+                    "c": "Many ancient authorities insert <i>without cause</i>."
+                },
+                {
+                    "d": "An expression of contempt."
+                },
+                {
+                    "e": "Or, <i>Moreh</i>, a Hebrew expression of condemnation."
+                },
+                {
+                    "f": "Greek <i>unto</i> or <i>into</i>."
+                },
+                {
+                    "g": "Greek <i>Gehenna of fire</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005023,
+            "text": "If therefore thou art offering thy gift at the altar, and there rememberest that thy brother hath aught against thee, ",
+            "version": "ASV",
+            "clsstr": "Matt-5-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005024,
+            "text": "leave there thy gift before the altar, and go thy way, first be reconciled to thy brother, and then come and offer thy gift. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005025,
+            "text": "Agree with thine adversary quickly, while thou art with him in the way; lest haply the adversary <i>[h]</i>deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-25",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities omit <i>deliver thee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005026,
+            "text": "Verily I say unto thee, Thou shalt by no means come out thence, till thou have paid the last farthing.",
+            "version": "ASV",
+            "clsstr": "Matt-5-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005027,
+            "text": "\u00b6 Ye have heard that it was said, <i>[i]</i>Thou shalt not commit adultery: ",
+            "version": "ASV",
+            "clsstr": "Matt-5-27",
+            "footnotes": [
+                {
+                    "i": "[[Ex. 20:14]]; [[Dt. 5:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005028,
+            "text": "but I say unto you, that every one that looketh on a woman to lust after her hath committed adultery with her already in his heart. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005029,
+            "text": "And if thy right eye causeth thee to stumble, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not thy whole body be cast into <i>[j]</i>hell. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-29",
+            "footnotes": [
+                {
+                    "j": "Greek <i>Gehenna</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005030,
+            "text": "And if thy right hand causeth thee to stumble, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not thy whole body go into <i>[k]</i>hell. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-30",
+            "footnotes": [
+                {
+                    "k": "Greek <i>Gehenna</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005031,
+            "text": "It was said also, <i>[l]</i>Whosoever shall put away his wife, let him give her a writing of divorcement: ",
+            "version": "ASV",
+            "clsstr": "Matt-5-31",
+            "footnotes": [
+                {
+                    "l": "[[Dt. 24:1]], [[3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005032,
+            "text": "but I say unto you, that every one that putteth away his wife, saving for the cause of fornication, maketh her an adulteress: and whosoever shall marry her when she is put away committeth adultery.",
+            "version": "ASV",
+            "clsstr": "Matt-5-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005033,
+            "text": "\u00b6 Again, ye have heard that it was said to them of old time, <i>[m]</i>Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths: ",
+            "version": "ASV",
+            "clsstr": "Matt-5-33",
+            "footnotes": [
+                {
+                    "m": "[[Lev. 19:12]]; [[Num. 30:2]]; [[Dt. 23:21]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005034,
+            "text": "but I say unto you, Swear not at all; neither by the heaven, for it is the throne of God; ",
+            "version": "ASV",
+            "clsstr": "Matt-5-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005035,
+            "text": "nor by the earth, for it is the footstool of his feet; nor <i>[n]</i>by Jerusalem, for it is the city of the great King. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-35",
+            "footnotes": [
+                {
+                    "n": "Or, <i>toward</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005036,
+            "text": "Neither shalt thou swear by thy head, for thou canst not make one hair white or black. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005037,
+            "text": " <i>[o]</i>But let your speech be, Yea, yea; Nay, nay: and whatsoever is more than these is of <i>[p]</i>the evil .",
+            "version": "ASV",
+            "clsstr": "Matt-5-37",
+            "footnotes": [
+                {
+                    "o": "Some ancient authorities read <i>But your speech shall be</i>."
+                },
+                {
+                    "p": "Or, <i>evil</i>: as in [[verse 39]]; [[6:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005038,
+            "text": "\u00b6 Ye have heard that it was said, An <i>[q]</i>eye for an eye, and a tooth for a tooth: ",
+            "version": "ASV",
+            "clsstr": "Matt-5-38",
+            "footnotes": [
+                {
+                    "q": "[[Ex. 21:24]]; [[Lev. 24:20]]; [[Dt. 19:21]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005039,
+            "text": "but I say unto you, Resist not <i>[r]</i>him that is evil: but whosoever smiteth thee on thy right cheek, turn to him the other also. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-39",
+            "footnotes": [
+                {
+                    "r": "Or, <i>evil</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005040,
+            "text": "And if any man would go to law with thee, and take away thy coat, let him have thy cloak also. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005041,
+            "text": "And whosoever shall <i>[s]</i>compel thee to go one mile, go with him two. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-41",
+            "footnotes": [
+                {
+                    "s": "Greek <i>impress</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005042,
+            "text": "Give to him that asketh thee, and from him that would borrow of thee turn not thou away.",
+            "version": "ASV",
+            "clsstr": "Matt-5-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005043,
+            "text": "\u00b6 Ye have heard that it was said, <i>[t]</i>Thou shalt love thy neighbor, and hate thine enemy: ",
+            "version": "ASV",
+            "clsstr": "Matt-5-43",
+            "footnotes": [
+                {
+                    "t": "[[Lev. 19:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005044,
+            "text": "but I say unto you, Love your enemies, and pray for them that persecute you; ",
+            "version": "ASV",
+            "clsstr": "Matt-5-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005045,
+            "text": "that ye may be sons of your Father who is in heaven: for he maketh his sun to rise on the evil and the good, and sendeth rain on the just and the unjust. ",
+            "version": "ASV",
+            "clsstr": "Matt-5-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005046,
+            "text": "For if ye love them that love you, what reward have ye? do not even the <i>[u]</i>publicans the same? ",
+            "version": "ASV",
+            "clsstr": "Matt-5-46",
+            "footnotes": [
+                {
+                    "u": "That is, <i>collectors or renters of Roman taxes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005047,
+            "text": "And if ye salute your brethren only, what do ye more ? do not even the Gentiles the same? ",
+            "version": "ASV",
+            "clsstr": "Matt-5-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40005048,
+            "text": "Ye therefore shall be perfect, as your heavenly Father is perfect.",
+            "version": "ASV",
+            "clsstr": "Matt-5-48",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 5
+}

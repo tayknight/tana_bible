@@ -1,0 +1,135 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28011001,
+            "text": "\u00b6 When Israel was a child, then I loved him, and called my son out of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011002,
+            "text": "The more  called them, the more they went from them: they sacrificed unto the Baalim, and burned incense to graven images. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011003,
+            "text": "Yet I taught Ephraim to walk; <i>[a]</i>I took them on my arms; but they knew not that I healed them. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>he took them on his arms</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011004,
+            "text": "I drew them with cords of a man, with bands of love; and I was to them as they that lift up the yoke on their jaws; and I laid food before them.",
+            "version": "ASV",
+            "clsstr": "Hos-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011005,
+            "text": "\u00b6 They shall not return into the land of Egypt; but the Assyrian shall be their king, because they refused to return . ",
+            "version": "ASV",
+            "clsstr": "Hos-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011006,
+            "text": "And the sword shall <i>[b]</i>fall upon their cities, and shall consume their bars, and devour , because of their own counsels. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>rage against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011007,
+            "text": "And my people are bent on backsliding from me: though they call them to on high, none at all will <i>[c]</i>exalt .",
+            "version": "ASV",
+            "clsstr": "Hos-11-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>lift</i> himself <i>up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011008,
+            "text": "\u00b6 How shall I give thee up, Ephraim?  shall I cast thee off, Israel? how shall I make thee as Admah?  shall I set thee as Zeboiim? my heart is turned within me, my compassions are kindled together. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011009,
+            "text": "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee; and I will not <i>[d]</i>come in wrath. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>enter into the city</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011010,
+            "text": "They shall walk after Jehovah, who will roar like a lion; for he will roar, and the children shall come trembling from the west. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011011,
+            "text": "They shall come trembling as a bird out of Egypt, and as a dove out of the land of Assyria; and I will make them to dwell in their houses, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Hos-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28011012,
+            "text": "\u00b6 Ephraim compasseth me about with falsehood, and the house of Israel with deceit; <i>[e]</i>but Judah yet ruleth with God, and is faithful with the Holy One. ",
+            "version": "ASV",
+            "clsstr": "Hos-11-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>and Judah is yet unstedfast with God, and with the Holy One who is faithful</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 11
+}

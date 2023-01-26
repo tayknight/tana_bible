@@ -1,0 +1,246 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20018001,
+            "text": "\u00b6   He that separateth himself seeketh desire,\n  And <i>[a]</i>rageth against all sound wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>quarrelleth with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018002,
+            "text": "    A fool hath no delight in understanding,\n    But only that his heart may reveal itself.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018003,
+            "text": "    When the wicked cometh, there cometh also contempt,\n    And with ignominy  reproach.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018004,
+            "text": "  The words of a man\u2019s mouth are deep waters;\n   <i>[b]</i>The wellspring of wisdom is  a flowing brook.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>A flowing brook, a wellspring of wisdom</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018005,
+            "text": "  To respect the person of the wicked is not good,\n   <i>[c]</i> to turn aside the righteous in judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>So as to turn aside</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018006,
+            "text": "  A fool\u2019s lips <i>[d]</i>enter into contention,\n    And his mouth calleth for stripes.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>bring contention</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018007,
+            "text": "    A fool\u2019s mouth is his destruction,\n    And his lips are the snare of his soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018008,
+            "text": "    The words of a whisperer are as dainty morsels,\n    And they go down into the innermost parts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018009,
+            "text": "    He also that is slack in his work\n    Is brother to him that is a destroyer.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018010,
+            "text": "  The name of Jehovah is a strong tower;\n  The righteous runneth into it, and <i>[e]</i>is safe.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-10",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>is set on high</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018011,
+            "text": "    The rich man\u2019s wealth is his strong city,\n    And as a high wall in his own imagination.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018012,
+            "text": "    Before destruction the heart of man is haughty;\n    And before honor  humility.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018013,
+            "text": "    He that giveth answer before he heareth,\n    It is folly and shame unto him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018014,
+            "text": "  The spirit of a man will sustain his infirmity;\n  But a broken spirit who can <i>[f]</i>bear?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-14",
+            "footnotes": [
+                {
+                    "f": "Or, <i>raise up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018015,
+            "text": "    The heart of the prudent getteth knowledge;\n    And the ear of the wise seeketh knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018016,
+            "text": "    A man\u2019s gift maketh room for him,\n    And bringeth him before great men.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018017,
+            "text": "    He that pleadeth his cause first  just;\n    But his neighbor cometh and searcheth him out.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018018,
+            "text": "    The lot causeth contentions to cease,\n    And parteth between the mighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018019,
+            "text": "  A brother <i>[g]</i>offended  than a strong city;\n    And  contentions are like the bars of a castle.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>injured</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018020,
+            "text": "    A man\u2019s belly shall be filled with the fruit of his mouth;\n    With the increase of his lips shall he be satisfied.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018021,
+            "text": "    Death and life are in the power of the tongue;\n    And they that love it shall eat the fruit thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018022,
+            "text": "    Whoso findeth a wife findeth a good thing,\n    And obtaineth favor of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018023,
+            "text": "    The poor useth entreaties;\n    But the rich answereth roughly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20018024,
+            "text": "  <i>[h]</i>He that maketh many friends to his own destruction;\n  But there is a <i>[i]</i>friend that sticketh closer than a brother.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-18-24",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>A man of friends</i>."
+                },
+                {
+                    "i": "Hebrew <i>lover</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 18
+}

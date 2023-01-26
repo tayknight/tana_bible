@@ -1,0 +1,158 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 17,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 10,
+            "end_verse": 3,
+            "end_book": null
+        }
+    ],
+    "book": 17,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 17003001,
+            "text": "\u00b6 After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003002,
+            "text": "And all the king\u2019s servants, that were in the king\u2019s gate, bowed down, and did reverence to Haman; for the king had so commanded concerning him. But Mordecai bowed not down, nor did him reverence. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003003,
+            "text": "Then the king\u2019s servants, that were in the king\u2019s gate, said unto Mordecai, Why transgressest thou the king\u2019s commandment? ",
+            "version": "ASV",
+            "clsstr": "Esth-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003004,
+            "text": "Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai\u2019s <i>[a]</i>matters would stand: for he had told them that he was a Jew. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>words</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003005,
+            "text": "And when Haman saw that Mordecai bowed not down, nor did him reverence, then was Haman full of wrath. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003006,
+            "text": "But he thought scorn to lay hands on Mordecai alone; for they had made known to him the people of Mordecai: wherefore Haman sought to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, even the people of Mordecai.",
+            "version": "ASV",
+            "clsstr": "Esth-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003007,
+            "text": "\u00b6 In the first month, which is the month Nisan, in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, before Haman from day to day, and from month to month,  the twelfth , which is the month Adar. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003008,
+            "text": "And Haman said unto king Ahasuerus, There is a certain people scattered abroad and <i>[b]</i>dispersed among the peoples in all the provinces of thy kingdom; and their laws are diverse from every people; neither keep they the king\u2019s laws: therefore it is not <i>[c]</i>for the king\u2019s profit to suffer them. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>separated</i>"
+                },
+                {
+                    "c": "Or, <i>meet for the king</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003009,
+            "text": "If it please the king, let it be written that they be destroyed: and I will pay ten thousand talents of silver into the hands of those that have the charge of the  business, to bring it into the king\u2019s treasuries. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003010,
+            "text": "And the king took his ring from his hand, and gave it unto Haman the son of Hammedatha the Agagite, the Jews\u2019 enemy. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003011,
+            "text": "And the king said unto Haman, The silver is given to thee, the people also, to do with them as it seemeth good to thee.",
+            "version": "ASV",
+            "clsstr": "Esth-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003012,
+            "text": "\u00b6 Then were the king\u2019s <i>[d]</i>scribes called in the first month, on the thirteenth day thereof; and there was written according to all that Haman commanded unto the king\u2019s satraps, and to the governors that were over every province, and to the princes of every people, to every province according to the writing thereof, and to every people after their language; in the name of king Ahasuerus was it written, and it was sealed with the king\u2019s ring. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>secretaries</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003013,
+            "text": "And letters were sent by posts into all the king\u2019s provinces, to destroy, to slay, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth  of the twelfth month, which is the month Adar, and to take the spoil of them for a prey. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003014,
+            "text": "A copy of the writing, <i>[e]</i>that the decree should be given out in every province, was published unto all the peoples, that they should be ready against that day. ",
+            "version": "ASV",
+            "clsstr": "Esth-3-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>to be given out for a decree</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17003015,
+            "text": "The posts went forth in haste by the king\u2019s commandment, and the decree was given out in Shushan the palace. And the king and Haman sat down to drink; but the city of Shushan was perplexed.",
+            "version": "ASV",
+            "clsstr": "Esth-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Esther",
+    "chapters": 3
+}

@@ -1,0 +1,90 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23039001,
+            "text": "\u00b6 At that time Merodach-baladan the son of Baladan, king of Babylon, sent letters and a present to Hezekiah; for he heard that he had been sick, and was recovered. ",
+            "version": "ASV",
+            "clsstr": "Isa-39-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23039002,
+            "text": "And Hezekiah was glad of them, and showed them the house of his <i>[a]</i>precious things, the silver, and the gold, and the spices, and the precious oil, and all the house of his <i>[b]</i>armor, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not. ",
+            "version": "ASV",
+            "clsstr": "Isa-39-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>spicery</i>"
+                },
+                {
+                    "b": "Or, <i>jewels</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23039003,
+            "text": "Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country unto me, even from Babylon. ",
+            "version": "ASV",
+            "clsstr": "Isa-39-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23039004,
+            "text": "Then said he, What have they seen in thy house? And Hezekiah answered, All that is in my house have they seen: there is nothing among my treasures that I have not showed them. ",
+            "version": "ASV",
+            "clsstr": "Isa-39-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23039005,
+            "text": "Then said Isaiah to Hezekiah, Hear the word of Jehovah of hosts: ",
+            "version": "ASV",
+            "clsstr": "Isa-39-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23039006,
+            "text": "Behold, the days are coming, when all that is in thy house, and that which thy fathers have laid up in store until this day, shall be carried to Babylon: nothing shall be left, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Isa-39-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23039007,
+            "text": "And of thy sons that shall issue from thee, whom thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon. ",
+            "version": "ASV",
+            "clsstr": "Isa-39-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23039008,
+            "text": "Then said Hezekiah unto Isaiah, Good is the word of Jehovah which thou hast spoken. He said moreover, For there shall be peace and truth in my days.",
+            "version": "ASV",
+            "clsstr": "Isa-39-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 39
+}

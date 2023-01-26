@@ -1,0 +1,176 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 30,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 9,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 30,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 30007001,
+            "text": "\u00b6 Thus the Lord Jehovah showed me: and, behold, he formed locusts in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king\u2019s mowings. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007002,
+            "text": "And it came to pass that, when they made an end of eating the grass of the land, then I said, O Lord Jehovah, forgive, I beseech thee: how shall Jacob stand? for he is small. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007003,
+            "text": "Jehovah repented concerning this: It shall not be, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007004,
+            "text": "\u00b6 Thus the Lord Jehovah showed me: and, behold, the Lord Jehovah called to contend by fire; and it devoured the great deep, and would have eaten up the <i>[a]</i>land. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>portion</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007005,
+            "text": "Then said I, O Lord Jehovah, cease, I beseech thee: how shall Jacob stand? for he is small. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007006,
+            "text": "Jehovah repented concerning this: This also shall not be, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007007,
+            "text": "\u00b6 Thus he showed me: and, behold, the Lord stood <i>[b]</i>beside a wall made by a plumb-line, with a plumb-line in his hand. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007008,
+            "text": "And Jehovah said unto me, Amos, what seest thou? And I said, A plumb-line. Then said the Lord, Behold, I will set a plumb-line in the midst of my people Israel; I will not again pass by them any more; ",
+            "version": "ASV",
+            "clsstr": "Amos-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007009,
+            "text": "and the high places of Isaac shall be desolate, and the sanctuaries of Israel shall be laid waste; and I will rise against the house of Jeroboam with the sword.",
+            "version": "ASV",
+            "clsstr": "Amos-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007010,
+            "text": "\u00b6 Then Amaziah the priest of Beth-el sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007011,
+            "text": "For thus Amos saith, Jeroboam shall die by the sword, and Israel shall surely be led away captive out of his land. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007012,
+            "text": "Also Amaziah said unto Amos, O thou seer, go, flee thou away into the land of Judah, and there eat bread, and prophesy there: ",
+            "version": "ASV",
+            "clsstr": "Amos-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007013,
+            "text": "but prophesy not again any more at Beth-el; for it is the king\u2019s sanctuary, and it is a royal house.",
+            "version": "ASV",
+            "clsstr": "Amos-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007014,
+            "text": "\u00b6 Then answered Amos, and said to Amaziah, I <i>[c]</i>was no prophet, neither <i>[d]</i>was I <i>[e]</i>a prophet\u2019s son; but I <i>[f]</i>was a herdsman, and a dresser of sycomore-trees: ",
+            "version": "ASV",
+            "clsstr": "Amos-7-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>am</i>"
+                },
+                {
+                    "d": "Or, <i>am</i>"
+                },
+                {
+                    "e": "Or, <i>one of the sons of the prophets</i>. See [[1 Kin. 20:35]]."
+                },
+                {
+                    "f": "Or, <i>am</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007015,
+            "text": "and Jehovah took me from following the flock, and Jehovah said unto me, Go, prophesy unto my people Israel. ",
+            "version": "ASV",
+            "clsstr": "Amos-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007016,
+            "text": "Now therefore hear thou the word of Jehovah: Thou sayest, Prophesy not against Israel, and drop not  against the house of Isaac; ",
+            "version": "ASV",
+            "clsstr": "Amos-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30007017,
+            "text": "therefore thus saith Jehovah: Thy wife shall be a harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou thyself shalt die in a land that is unclean, and Israel shall surely be led away captive out of his land.",
+            "version": "ASV",
+            "clsstr": "Amos-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Amos",
+    "chapters": 7
+}

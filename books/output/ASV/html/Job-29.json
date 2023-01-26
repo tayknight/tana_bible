@@ -1,0 +1,268 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18029001,
+            "text": "\u00b6 And Job again took up his parable, and said,",
+            "version": "ASV",
+            "clsstr": "Job-29-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029002,
+            "text": "\u00b6     Oh that I were as in the months of old,\n    As in the days when God watched over me;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029003,
+            "text": "  When his lamp shined <i>[a]</i>upon my head,\n    And by his light I walked through darkness;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>above</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029004,
+            "text": " As I was in <i>[b]</i>the ripeness of my days,\n  When the <i>[c]</i>friendship of God was upon my tent;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>my days of autumn</i>."
+                },
+                {
+                    "c": "Or, <i>counsel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029005,
+            "text": "    When the Almighty was yet with me,\n    And my children were about me;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029006,
+            "text": "    When my steps were washed with butter,\n    And the rock poured me out streams of oil!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029007,
+            "text": "  When I went forth to the gate unto the city,\n  When I prepared my seat in the <i>[d]</i>street,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>broad place</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029008,
+            "text": "    The young men saw me and hid themselves,\n    And the aged rose up and stood;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029009,
+            "text": "    The princes refrained from talking,\n    And laid their hand on their mouth;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029010,
+            "text": "  The voice of the nobles was <i>[e]</i>hushed,\n    And their tongue cleaved to the roof of their mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-10",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>hid</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029011,
+            "text": "    For when the ear heard , then it blessed me;\n    And when the eye saw , it gave witness unto me:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029012,
+            "text": "  Because I delivered the poor that cried,\n  The fatherless also, <i>[f]</i>that had none to help him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>and</i> him <i>that had etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029013,
+            "text": "    The blessing of him that was ready to perish came upon me;\n    And I caused the widow\u2019s heart to sing for joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029014,
+            "text": " I put on righteousness, and it <i>[g]</i>clothed me:\n  My justice was as a robe and a <i>[h]</i>diadem.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>clothed itself with me</i>"
+                },
+                {
+                    "h": "Or, <i>turban</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029015,
+            "text": "    I was eyes to the blind,\n    And feet was I to the lame.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029016,
+            "text": "  I was a father to the needy:\n  And <i>[i]</i>the cause of him that I knew not I searched out.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-16",
+            "footnotes": [
+                {
+                    "i": "Or, <i>the cause which I knew not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029017,
+            "text": "  And I brake the <i>[j]</i>jaws of the unrighteous,\n    And plucked the prey out of his teeth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-17",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>great teeth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029018,
+            "text": "  Then I said, I shall die <i>[k]</i>in my nest,\n    And I shall multiply my days as the sand:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-18",
+            "footnotes": [
+                {
+                    "k": "Or, <i>beside</i>. Hebrew <i>with</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029019,
+            "text": " My root is <i>[l]</i>spread out <i>[m]</i>to the waters,\n    And the dew lieth all night upon my branch:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-19",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>opened</i>."
+                },
+                {
+                    "m": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029020,
+            "text": "    My glory is fresh in me,\n    And my bow is renewed in my hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029021,
+            "text": "    Unto me men gave ear, and waited,\n    And kept silence for my counsel.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029022,
+            "text": "    After my words they spake not again;\n    And my speech distilled upon them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029023,
+            "text": "    And they waited for me as for the rain;\n    And they opened their mouth wide  for the latter rain.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029024,
+            "text": "    I smiled on them, when they had no confidence;\n    And the light of my countenance they cast not down.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18029025,
+            "text": "    I chose out their way, and sat  chief,\n    And dwelt as a king in the army,\n    As one that comforteth the mourners.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-29-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 29
+}

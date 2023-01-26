@@ -1,0 +1,337 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 15,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 10,
+            "end_verse": 44,
+            "end_book": null
+        }
+    ],
+    "book": 15,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 15008001,
+            "text": "\u00b6 Now these are the heads of their fathers\u2019 , and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king: ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008002,
+            "text": "Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008003,
+            "text": "Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were reckoned by genealogy of the males a hundred and fifty. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008004,
+            "text": "Of the sons of Pahath-moab, Eliehoenai the son of Zerahiah; and with him two hundred males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008005,
+            "text": "Of the sons of Shecaniah, the son of Jahaziel; and with him three hundred males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008006,
+            "text": "And of the sons of Adin, Ebed the son of Jonathan; and with him fifty males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008007,
+            "text": "And of the sons of Elam, Jeshaiah the son of Athaliah; and with him seventy males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008008,
+            "text": "And of the sons of Shephatiah, Zebadiah the son of Michael; and with him fourscore males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008009,
+            "text": "Of the sons of Joab, Obadiah the son of Jehiel; and with him two hundred and eighteen males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008010,
+            "text": "And of the sons of Shelomith, the son of Josiphiah; and with him a hundred and threescore males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008011,
+            "text": "And of the sons of Bebai, Zechariah the son of Bebai; and with him twenty and eight males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008012,
+            "text": "And of the sons of Azgad, Johanan the son of Hakkatan; and with him a hundred and ten males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008013,
+            "text": "And of the sons of Adonikam,  the last; and these are their names: Eliphelet, Jeuel, and Shemaiah; and with them threescore males. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008014,
+            "text": "And of the sons of Bigvai, Uthai and <i>[a]</i>Zabbud; and with them seventy males.",
+            "version": "ASV",
+            "clsstr": "Ezra-8-14",
+            "footnotes": [
+                {
+                    "a": "Another reading is, <i>Zaccur</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008015,
+            "text": "\u00b6 And I gathered them together to the river that runneth to Ahava; and there we encamped three days: and I viewed the people, and the priests, and found there none of the sons of Levi. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008016,
+            "text": "Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, <i>[b]</i>who were teachers. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-16",
+            "footnotes": [
+                {
+                    "b": "Or, <i>who had understanding</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008017,
+            "text": "And <i>[c]</i>I sent them forth unto Iddo the chief at the place Casiphia; and I told them what they should say unto <i>[d]</i>Iddo,  his brethren the Nethinim, at the place Casiphia, that they should bring unto us ministers for the house of our God. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-17",
+            "footnotes": [
+                {
+                    "c": "Another reading is, <i>I gave them commandment</i>."
+                },
+                {
+                    "d": "The text as pointed has, <i>Iddo, his brother</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008018,
+            "text": "And according to the good hand of our God upon us they brought us <i>[e]</i>a man of discretion, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen; ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-18",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Ish-sechel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008019,
+            "text": "and Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty; ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008020,
+            "text": "and of the Nethinim, whom David and the princes had given for the service of the Levites, two hundred and twenty Nethinim: all of them were mentioned by name.",
+            "version": "ASV",
+            "clsstr": "Ezra-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008021,
+            "text": "\u00b6 Then I proclaimed a fast there, at the river Ahava, that we might humble ourselves before our God, to seek of him a straight way for us, and for our little ones, and for all our substance. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008022,
+            "text": "For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy in the way, because we had spoken unto the king, saying, The hand of our God is upon all them that seek him, for good; but his power and his wrath is against all them that forsake him. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008023,
+            "text": "So we fasted and besought our God for this: and he was entreated of us.",
+            "version": "ASV",
+            "clsstr": "Ezra-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008024,
+            "text": "\u00b6 Then I set apart twelve of the chiefs of the <i>[f]</i>priests, <i>[g]</i>even Sherebiah, Hashabiah, and ten of their brethren with them, ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-24",
+            "footnotes": [
+                {
+                    "f": "In [[Neh. 12:24]], <i>Levites</i>."
+                },
+                {
+                    "g": "Or, <i>besides</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008025,
+            "text": "and weighed unto them the silver, and the gold, and the vessels, even the offering for the house of our God, which the king, and his counsellors, and his princes, and all Israel there present, had offered: ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008026,
+            "text": "I weighed into their hand six hundred and fifty talents of silver, and silver vessels a hundred talents; of gold a hundred talents; ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008027,
+            "text": "and twenty bowls of gold, of a thousand darics; and two vessels of fine bright brass, precious as gold. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008028,
+            "text": "And I said unto them, Ye are holy unto Jehovah, and the vessels are holy; and the silver and the gold are a freewill-offering unto Jehovah, the God of your fathers. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008029,
+            "text": "Watch ye, and keep them, until ye weigh them before the chiefs of the priests and the Levites, and the princes of the fathers\u2019  of Israel, at Jerusalem, in the chambers of the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008030,
+            "text": "So the priests and the Levites received the weight of the silver and the gold, and the vessels, to bring them to Jerusalem unto the house of our God.",
+            "version": "ASV",
+            "clsstr": "Ezra-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008031,
+            "text": "\u00b6 Then we departed from the river Ahava on the twelfth  of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy and the lier-in-wait by the way. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008032,
+            "text": "And we came to Jerusalem, and abode there three days. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008033,
+            "text": "And on the fourth day the silver and the gold and the vessels were weighed in the house of our God <i>[h]</i>into the hand of Meremoth the son of Uriah the priest (and with him was Eleazar the son of Phinehas: and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, the Levites)\u2014",
+            "version": "ASV",
+            "clsstr": "Ezra-8-33",
+            "footnotes": [
+                {
+                    "h": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008034,
+            "text": "the whole by number and by weight: and all the weight was written at that time.",
+            "version": "ASV",
+            "clsstr": "Ezra-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008035,
+            "text": "\u00b6 The children of the captivity, that were come out of exile, offered burnt-offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he-goats for a sin-offering: all this was a burnt-offering unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezra-8-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 15008036,
+            "text": "And they delivered the king\u2019s commissions unto the king\u2019s satraps, and to the governors beyond the River: and they furthered the people and the house of God.",
+            "version": "ASV",
+            "clsstr": "Ezra-8-36",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezra",
+    "chapters": 8
+}

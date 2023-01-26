@@ -1,0 +1,159 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23047001,
+            "text": "\u00b6 Come down, and sit in the dust, O virgin daughter of Babylon; sit on the ground without a throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047002,
+            "text": "Take the millstones, and grind meal; remove thy veil, strip off the train, uncover the leg, pass through the rivers. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047003,
+            "text": "Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and will spare no man. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047004,
+            "text": "Our Redeemer, Jehovah of hosts is his name, the Holy One of Israel. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047005,
+            "text": "Sit thou silent, and get thee into darkness, O daughter of the Chaldeans; for thou shalt no more be called The mistress of kingdoms. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047006,
+            "text": "I was wroth with my people, I profaned mine inheritance, and gave them into thy hand: thou didst show them no mercy; upon the aged hast thou very heavily laid thy yoke. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047007,
+            "text": "And thou saidst, I shall be mistress for ever; so that thou didst not lay these things to thy heart, neither didst remember the latter end thereof.",
+            "version": "ASV",
+            "clsstr": "Isa-47-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047008,
+            "text": "\u00b6 Now therefore hear this, thou that art given to pleasures, that <i>[a]</i>sittest securely, that sayest in thy heart, I am, and there is none else besides me; I shall not sit as a widow, neither shall I know the loss of children: ",
+            "version": "ASV",
+            "clsstr": "Isa-47-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>dwellest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047009,
+            "text": "but these two things shall come to thee in a moment in one day, the loss of children, and widowhood; in their full measure shall they come upon thee, in the multitude of thy sorceries, and the great abundance of thine enchantments. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047010,
+            "text": "For thou hast trusted in thy wickedness; thou hast said, None seeth me; thy wisdom and thy knowledge, it hath perverted thee, and thou hast said in thy heart, I am, and there is none else besides me. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047011,
+            "text": "Therefore shall evil come upon thee; thou shalt not know <i>[b]</i>the dawning thereof: and mischief shall fall upon thee; thou shalt not be able to put it away: and desolation shall come upon thee suddenly, which thou knowest not.",
+            "version": "ASV",
+            "clsstr": "Isa-47-11",
+            "footnotes": [
+                {
+                    "b": "Or, <i>how to charm it away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047012,
+            "text": "\u00b6 Stand now with thine enchantments, and with the multitude of thy sorceries, wherein thou hast labored from thy youth; if so be thou shalt be able to profit, if so be thou mayest <i>[c]</i>prevail. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>strike terror</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047013,
+            "text": "Thou art wearied in the multitude of thy counsels: let now the <i>[d]</i>astrologers, the star-gazers, the monthly prognosticators, stand up, and save thee from the things that shall come upon thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-13",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>dividers of the heavens</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047014,
+            "text": "Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: it shall not be a coal to warm at, nor a fire to sit before. ",
+            "version": "ASV",
+            "clsstr": "Isa-47-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23047015,
+            "text": "Thus shall the things be unto thee wherein thou hast labored: they that have trafficked with thee from thy youth shall wander every one to <i>[e]</i>his quarter; there shall be none to save thee.",
+            "version": "ASV",
+            "clsstr": "Isa-47-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>his own way</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 47
+}

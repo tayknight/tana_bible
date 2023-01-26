@@ -1,0 +1,307 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13027001,
+            "text": "\u00b6 Now the children of Israel after their number, , the heads of fathers\u2019  and the captains of thousands and of hundreds, and their officers that served the king, in any matter of the courses which came in and went out month by month throughout all the months of the year\u2014of every course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027002,
+            "text": "Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027003,
+            "text": " of the children of Perez, the chief of all the captains of the host for the first month. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027004,
+            "text": "And over the course of the second month was Dodai the Ahohite, and his course; and Mikloth the ruler: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027005,
+            "text": "The third captain of the host for the third month was Benaiah, the son of Jehoiada the <i>[a]</i>priest, chief: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>chief minister</i>. See [[2 Sam. 8:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027006,
+            "text": "This is that Benaiah, who was the mighty man of the thirty, and over the thirty: and  his course was Ammizabad his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027007,
+            "text": "The fourth  for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027008,
+            "text": "The fifth captain for the fifth month was Shamhuth the Izrahite: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027009,
+            "text": "The sixth  for the sixth month was Ira the son of Ikkesh the Tekoite: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027010,
+            "text": "The seventh  for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027011,
+            "text": "The eighth  for the eighth month was Sibbecai the Hushathite, of the Zerahites: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027012,
+            "text": "The ninth  for the ninth month was Abiezer the Anathothite, of the Benjamites: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027013,
+            "text": "The tenth  for the tenth month was Maharai the Netophathite, of the Zerahites: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027014,
+            "text": "The eleventh  for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027015,
+            "text": "The twelfth for the twelfth month was <i>[b]</i>Heldai the Netophathite, of Othniel: and in his course were twenty and four thousand.",
+            "version": "ASV",
+            "clsstr": "1Chr-27-15",
+            "footnotes": [
+                {
+                    "b": "In [[11:30]], <i>Heled</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027016,
+            "text": "\u00b6 Furthermore over the tribes of Israel: of the Reubenites was Eliezer the son of Zichri the ruler: of the Simeonites, Shephatiah the son of Maacah: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027017,
+            "text": "of Levi, Hashabiah the son of Kemuel: of Aaron, Zadok: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027018,
+            "text": "of Judah, <i>[c]</i>Elihu, one of the brethren of David: of Issachar, Omri the son of Michael: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-18",
+            "footnotes": [
+                {
+                    "c": "In [[1 Sam. 16:6]], <i>Eliab</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027019,
+            "text": "of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jeremoth the son of Azriel: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027020,
+            "text": "of the children of Ephraim, Hoshea the son of Azaziah: of the half-tribe of Manasseh, Joel the son of Pedaiah: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027021,
+            "text": "of the half- of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027022,
+            "text": "of Dan, Azarel the son of Jeroham. These were the captains of the tribes of Israel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027023,
+            "text": "But David took not the number of them from twenty years old and under, because Jehovah had said he would increase Israel like to the stars of heaven. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027024,
+            "text": "Joab the son of Zeruiah began to number, but finished not; and there came wrath for this upon Israel; neither was the number put into the account in the chronicles of king David.",
+            "version": "ASV",
+            "clsstr": "1Chr-27-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027025,
+            "text": "\u00b6 And over the king\u2019s treasures was Azmaveth the son of Adiel: and over the treasures in the fields, in the cities, and in the villages, and in the castles, was Jonathan the son of Uzziah: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027026,
+            "text": "and over them that did the work of the field for tillage of the ground was Ezri the son of Chelub: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027027,
+            "text": "and over the vineyards was Shimei the Ramathite: and over the increase of the vineyards for the wine-cellars was Zabdi the Shiphmite: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027028,
+            "text": "and over the olive-trees and the sycomore-trees that were in the lowland was Baal-hanan the Gederite: and over the cellars of oil was Joash: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027029,
+            "text": "and over the herds that fed in Sharon was Shitrai the Sharonite: and over the herds that were in the valleys was Shaphat the son of Adlai: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027030,
+            "text": "and over the camels was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite: and over the flocks was Jaziz the Hagrite. ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027031,
+            "text": "All these were the rulers of the substance which was king David\u2019s.",
+            "version": "ASV",
+            "clsstr": "1Chr-27-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027032,
+            "text": "\u00b6 Also Jonathan, David\u2019s <i>[d]</i>uncle, was a counsellor, a man of understanding, and a scribe: and Jehiel the son of Hachmoni was with the king\u2019s sons: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-32",
+            "footnotes": [
+                {
+                    "d": "Or, <i>brother\u2019s son</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027033,
+            "text": "and Ahithophel was the king\u2019s counsellor: and Hushai the Archite was the king\u2019s friend: ",
+            "version": "ASV",
+            "clsstr": "1Chr-27-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13027034,
+            "text": "and after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the captain of the king\u2019s host was Joab.",
+            "version": "ASV",
+            "clsstr": "1Chr-27-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 27
+}

@@ -1,0 +1,126 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 66,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 66,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 66015001,
+            "text": "\u00b6 And I saw another sign in heaven, great and marvellous, seven angels having seven plagues,  the last, for in them is finished the wrath of God.",
+            "version": "ASV",
+            "clsstr": "Rev-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66015002,
+            "text": "\u00b6 And I saw as it were a <i>[a]</i>sea of glass mingled with fire; and them that come off victorious from the beast, and from his image, and from the number of his name, standing <i>[b]</i>by the <i>[c]</i>sea of glass, having harps of God. ",
+            "version": "ASV",
+            "clsstr": "Rev-15-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>glassy sea</i>"
+                },
+                {
+                    "b": "Or, <i>upon</i>"
+                },
+                {
+                    "c": "Or, <i>glassy sea</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66015003,
+            "text": "And they sing the song of Moses the <i>[d]</i>servant of God, and the song of the Lamb, saying,\u00b6 Great and marvellous are thy works, O Lord God, the Almighty; righteous and true are thy ways, thou King of the <i>[e]</i>ages. ",
+            "version": "ASV",
+            "clsstr": "Rev-15-3",
+            "footnotes": [
+                {
+                    "d": "Greek <i>bondservant</i>."
+                },
+                {
+                    "e": "Many ancient authorities read <i>nations</i>. [[Jer. 10:7]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66015004,
+            "text": "Who shall not fear, O Lord, and glorify thy name? for thou only art holy; for all the nations shall come and <i>[f]</i>worship before thee; for thy righteous acts have been made manifest.",
+            "version": "ASV",
+            "clsstr": "Rev-15-4",
+            "footnotes": [
+                {
+                    "f": "See marginal note on [[3:9]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66015005,
+            "text": "\u00b6 And after these things I saw, and the <i>[g]</i>temple of the tabernacle of the testimony in heaven was opened: ",
+            "version": "ASV",
+            "clsstr": "Rev-15-5",
+            "footnotes": [
+                {
+                    "g": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66015006,
+            "text": "and there came out from the <i>[h]</i>temple the seven angels that had the seven plagues, arrayed <i>[i]</i>with  stone, pure  bright, and girt about their breasts with golden girdles. ",
+            "version": "ASV",
+            "clsstr": "Rev-15-6",
+            "footnotes": [
+                {
+                    "h": "Or, <i>sanctuary</i>"
+                },
+                {
+                    "i": "Many ancient authorities read <i>in linen</i>. [[19:8]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66015007,
+            "text": "And one of the four living creatures gave unto the seven angels seven golden bowls full of the wrath of God, who liveth <i>[j]</i>for ever and ever. ",
+            "version": "ASV",
+            "clsstr": "Rev-15-7",
+            "footnotes": [
+                {
+                    "j": "Greek <i>unto the ages of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66015008,
+            "text": "And the <i>[k]</i>temple was filled with smoke from the glory of God, and from his power; and none was able to enter into the <i>[l]</i>temple, till the seven plagues of the seven angels should be finished.",
+            "version": "ASV",
+            "clsstr": "Rev-15-8",
+            "footnotes": [
+                {
+                    "k": "Or, <i>sanctuary</i>"
+                },
+                {
+                    "l": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Revelation",
+    "chapters": 15
+}

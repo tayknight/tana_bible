@@ -1,0 +1,249 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 49,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 49,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 49001001,
+            "text": "\u00b6 Paul, an apostle of Christ Jesus through the will of God, to the saints that are <i>[a]</i>at Ephesus, and the faithful in Christ Jesus: ",
+            "version": "ASV",
+            "clsstr": "Eph-1-1",
+            "footnotes": [
+                {
+                    "a": "Some very ancient authorities omit <i>at Ephesus</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001002,
+            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ.",
+            "version": "ASV",
+            "clsstr": "Eph-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001003,
+            "text": "\u00b6 Blessed  <i>[b]</i>the God and Father of our Lord Jesus Christ, who hath blessed us with every spiritual blessing in the heavenly  in Christ: ",
+            "version": "ASV",
+            "clsstr": "Eph-1-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>God and the Father</i>. See [[Rom. 15:6]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001004,
+            "text": "even as he chose us in him before the foundation of the world, that we should be holy and without blemish before <i>[c]</i>him in love: ",
+            "version": "ASV",
+            "clsstr": "Eph-1-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>him: having in love foreordained us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001005,
+            "text": "having foreordained us unto adoption as sons through Jesus Christ unto himself, according to the good pleasure of his will, ",
+            "version": "ASV",
+            "clsstr": "Eph-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001006,
+            "text": "to the praise of the glory of his grace, <i>[d]</i>which he freely bestowed on us in the Beloved: ",
+            "version": "ASV",
+            "clsstr": "Eph-1-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>wherewith he endued us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001007,
+            "text": "in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, ",
+            "version": "ASV",
+            "clsstr": "Eph-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001008,
+            "text": " <i>[e]</i>which he made to abound toward us in all wisdom and prudence, ",
+            "version": "ASV",
+            "clsstr": "Eph-1-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>wherewith he abounded</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001009,
+            "text": "making known unto us the mystery of his will, according to his good pleasure which he purposed in him ",
+            "version": "ASV",
+            "clsstr": "Eph-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001010,
+            "text": "unto a dispensation of the fulness of the <i>[f]</i>times, to sum up all things in Christ, the things <i>[g]</i>in the heavens, and the things upon the earth; in him, , ",
+            "version": "ASV",
+            "clsstr": "Eph-1-10",
+            "footnotes": [
+                {
+                    "f": "Greek <i>seasons</i>."
+                },
+                {
+                    "g": "Greek <i>upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001011,
+            "text": "in whom also we were made a heritage, having been foreordained according to the purpose of him who worketh all things after the counsel of his will; ",
+            "version": "ASV",
+            "clsstr": "Eph-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001012,
+            "text": "to the end that we should be unto the praise of his glory, we who <i>[h]</i>had before hoped in Christ: ",
+            "version": "ASV",
+            "clsstr": "Eph-1-12",
+            "footnotes": [
+                {
+                    "h": "Or, <i>have</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001013,
+            "text": "in whom ye also, having heard the word of the truth, the <i>[i]</i>gospel of your salvation,\u2014in whom, having also believed, ye were sealed with the Holy Spirit of promise, ",
+            "version": "ASV",
+            "clsstr": "Eph-1-13",
+            "footnotes": [
+                {
+                    "i": "Greek <i>good tidings</i>. See marginal note on [[Mt. 4:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001014,
+            "text": "which is an earnest of our inheritance, unto the redemption of  own possession, unto the praise of his glory.",
+            "version": "ASV",
+            "clsstr": "Eph-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001015,
+            "text": "\u00b6 For this cause I also, having heard of the faith in the Lord Jesus which is <i>[j]</i>among you, and <i>[k]</i>the love which  toward all the saints, ",
+            "version": "ASV",
+            "clsstr": "Eph-1-15",
+            "footnotes": [
+                {
+                    "j": "Or, <i>in</i>"
+                },
+                {
+                    "k": "Many ancient authorities omit <i>the love</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001016,
+            "text": "cease not to give thanks for you, making mention  in my prayers; ",
+            "version": "ASV",
+            "clsstr": "Eph-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001017,
+            "text": "that the God of our Lord Jesus Christ, the Father of glory, may give unto you a spirit of wisdom and revelation in the knowledge of him; ",
+            "version": "ASV",
+            "clsstr": "Eph-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001018,
+            "text": "having the eyes of your heart enlightened, that ye may know what is the hope of his calling, what the riches of the glory of his inheritance in the saints, ",
+            "version": "ASV",
+            "clsstr": "Eph-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001019,
+            "text": "and what the exceeding greatness of his power to us-ward who believe, according to that working of the strength of his might ",
+            "version": "ASV",
+            "clsstr": "Eph-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001020,
+            "text": "which he wrought in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly , ",
+            "version": "ASV",
+            "clsstr": "Eph-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001021,
+            "text": "far above all rule, and authority, and power, and dominion, and every name that is named, not only in this <i>[l]</i>world, but also in that which is to come: ",
+            "version": "ASV",
+            "clsstr": "Eph-1-21",
+            "footnotes": [
+                {
+                    "l": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001022,
+            "text": "and he put all things in subjection under his feet, and gave him to be head over all things to the church, ",
+            "version": "ASV",
+            "clsstr": "Eph-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49001023,
+            "text": "which is his body, the fulness of him that filleth all in all.",
+            "version": "ASV",
+            "clsstr": "Eph-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ephesians",
+    "chapters": 1
+}

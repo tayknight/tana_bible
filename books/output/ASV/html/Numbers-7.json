@@ -1,0 +1,746 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4007001,
+            "text": "\u00b6 And it came to pass on the day that Moses had made an end of setting up the tabernacle, and had anointed it and sanctified it, and all the furniture thereof, and the altar and all the vessels thereof, and had anointed them and sanctified them; ",
+            "version": "ASV",
+            "clsstr": "Num-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007002,
+            "text": "that the princes of Israel, the heads of their fathers\u2019 houses, offered. These were the princes of the tribes, these are they that were over them that were numbered: ",
+            "version": "ASV",
+            "clsstr": "Num-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007003,
+            "text": "and they brought their oblation before Jehovah, six covered wagons, and twelve oxen; a wagon for every two of the princes, and for each one an ox: and they presented them before the tabernacle. ",
+            "version": "ASV",
+            "clsstr": "Num-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007004,
+            "text": "And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007005,
+            "text": "Take it of them, that they may be  in doing the service of the tent of meeting; and thou shalt give them unto the Levites, to every man according to his service. ",
+            "version": "ASV",
+            "clsstr": "Num-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007006,
+            "text": "And Moses took the wagons and the oxen, and gave them unto the Levites. ",
+            "version": "ASV",
+            "clsstr": "Num-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007007,
+            "text": "Two wagons and four oxen he gave unto the sons of Gershon, according to their service: ",
+            "version": "ASV",
+            "clsstr": "Num-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007008,
+            "text": "and four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest. ",
+            "version": "ASV",
+            "clsstr": "Num-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007009,
+            "text": "But unto the sons of Kohath he gave none, because the service of the sanctuary belonged unto them; they bare it upon their shoulders. ",
+            "version": "ASV",
+            "clsstr": "Num-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007010,
+            "text": "And the princes offered <i>[a]</i>for the dedication of the altar in the day that it was anointed, even the princes offered their oblation before the altar. ",
+            "version": "ASV",
+            "clsstr": "Num-7-10",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the dedication-gift</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007011,
+            "text": "And Jehovah said unto Moses, They shall offer their oblation, each prince on his day, for the dedication of the altar.",
+            "version": "ASV",
+            "clsstr": "Num-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007012,
+            "text": "\u00b6 And he that offered his oblation the first day was Nahshon the son of Amminadab, of the tribe of Judah: ",
+            "version": "ASV",
+            "clsstr": "Num-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007013,
+            "text": "and his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007014,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007015,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007016,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007017,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Nahshon the son of Amminadab.",
+            "version": "ASV",
+            "clsstr": "Num-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007018,
+            "text": "\u00b6 On the second day Nethanel the son of Zuar, prince of Issachar, did offer: ",
+            "version": "ASV",
+            "clsstr": "Num-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007019,
+            "text": "he offered for his oblation one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007020,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007021,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007022,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007023,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Nethanel the son of Zuar.",
+            "version": "ASV",
+            "clsstr": "Num-7-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007024,
+            "text": "\u00b6 On the third day Eliab the son of Helon, prince of the children of Zebulun: ",
+            "version": "ASV",
+            "clsstr": "Num-7-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007025,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007026,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007027,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007028,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007029,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Eliab the son of Helon.",
+            "version": "ASV",
+            "clsstr": "Num-7-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007030,
+            "text": "\u00b6 On the fourth day Elizur the son of Shedeur, prince of the children of Reuben: ",
+            "version": "ASV",
+            "clsstr": "Num-7-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007031,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007032,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007033,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007034,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007035,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Elizur the son of Shedeur.",
+            "version": "ASV",
+            "clsstr": "Num-7-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007036,
+            "text": "\u00b6 On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon: ",
+            "version": "ASV",
+            "clsstr": "Num-7-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007037,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007038,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007039,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007040,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007041,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Shelumiel the son of Zurishaddai.",
+            "version": "ASV",
+            "clsstr": "Num-7-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007042,
+            "text": "\u00b6 On the sixth day Eliasaph the son of Deuel, prince of the children of Gad: ",
+            "version": "ASV",
+            "clsstr": "Num-7-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007043,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007044,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007045,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007046,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007047,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Eliasaph the son of Deuel.",
+            "version": "ASV",
+            "clsstr": "Num-7-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007048,
+            "text": "\u00b6 On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim: ",
+            "version": "ASV",
+            "clsstr": "Num-7-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007049,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007050,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007051,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007052,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007053,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Elishama the son of Ammihud.",
+            "version": "ASV",
+            "clsstr": "Num-7-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007054,
+            "text": "\u00b6 On the eighth day Gamaliel the son of Pedahzur, prince of the children of Manasseh: ",
+            "version": "ASV",
+            "clsstr": "Num-7-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007055,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007056,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007057,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007058,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007059,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Gamaliel the son of Pedahzur.",
+            "version": "ASV",
+            "clsstr": "Num-7-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007060,
+            "text": "\u00b6 On the ninth day Abidan the son of Gideoni, prince of the children of Benjamin: ",
+            "version": "ASV",
+            "clsstr": "Num-7-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007061,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007062,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007063,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007064,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007065,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Abidan the son of Gideoni.",
+            "version": "ASV",
+            "clsstr": "Num-7-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007066,
+            "text": "\u00b6 On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan: ",
+            "version": "ASV",
+            "clsstr": "Num-7-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007067,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-67",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007068,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-68",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007069,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-69",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007070,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-70",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007071,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Ahiezer the son of Ammishaddai.",
+            "version": "ASV",
+            "clsstr": "Num-7-71",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007072,
+            "text": "\u00b6 On the eleventh day Pagiel the son of Ochran, prince of the children of Asher: ",
+            "version": "ASV",
+            "clsstr": "Num-7-72",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007073,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-73",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007074,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-74",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007075,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-75",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007076,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-76",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007077,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Pagiel the son of Ochran.",
+            "version": "ASV",
+            "clsstr": "Num-7-77",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007078,
+            "text": "\u00b6 On the twelfth day Ahira the son of Enan, prince of the children of Naphtali: ",
+            "version": "ASV",
+            "clsstr": "Num-7-78",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007079,
+            "text": "his oblation was one silver platter, the weight whereof was a hundred and thirty , one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meal-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-79",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007080,
+            "text": "one golden spoon of ten , full of incense; ",
+            "version": "ASV",
+            "clsstr": "Num-7-80",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007081,
+            "text": "one young bullock, one ram, one he-lamb a year old, for a burnt-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-81",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007082,
+            "text": "one male of the goats for a sin-offering; ",
+            "version": "ASV",
+            "clsstr": "Num-7-82",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007083,
+            "text": "and for the sacrifice of peace-offerings, two oxen, five rams, five he-goats, five he-lambs a year old: this was the oblation of Ahira the son of Enan.",
+            "version": "ASV",
+            "clsstr": "Num-7-83",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007084,
+            "text": "\u00b6 This was the <i>[b]</i>dedication of the altar, in the day when it was anointed, <i>[c]</i>by the princes of Israel: twelve silver platters, twelve silver bowls, twelve golden spoons; ",
+            "version": "ASV",
+            "clsstr": "Num-7-84",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the dedication-gift</i>"
+                },
+                {
+                    "c": "Or, <i>at the hands of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007085,
+            "text": "each silver platter  a hundred and thirty , and each bowl seventy; all the silver of the vessels two thousand and four hundred , after the shekel of the sanctuary; ",
+            "version": "ASV",
+            "clsstr": "Num-7-85",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007086,
+            "text": "the twelve golden spoons, full of incense,  ten  apiece, after the shekel of the sanctuary; all the gold of the spoons a hundred and twenty ; ",
+            "version": "ASV",
+            "clsstr": "Num-7-86",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007087,
+            "text": "all the oxen for the burnt-offering twelve bullocks, the rams twelve, the he-lambs a year old twelve, and their meal-offering; and the males of the goats for a sin-offering twelve; ",
+            "version": "ASV",
+            "clsstr": "Num-7-87",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007088,
+            "text": "and all the oxen for the sacrifice of peace-offerings twenty and four bullocks, the rams sixty, the he-goats sixty, the he-lambs a year old sixty. This was the <i>[d]</i>dedication of the altar, after that it was anointed.",
+            "version": "ASV",
+            "clsstr": "Num-7-88",
+            "footnotes": [
+                {
+                    "d": "Or, <i>the dedication-gift</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4007089,
+            "text": "\u00b6 And when Moses went into the tent of meeting to speak with him, then he heard the Voice speaking unto him from above the mercy-seat that was upon the ark of the testimony, from between the two cherubim: and he spake unto him.",
+            "version": "ASV",
+            "clsstr": "Num-7-89",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 7
+}

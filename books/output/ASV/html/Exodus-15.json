@@ -1,0 +1,259 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2015001,
+            "text": "\u00b6 Then sang Moses and the children of Israel this song unto Jehovah, and spake, saying,\u00b6   I will sing unto Jehovah, for he <i>[a]</i>hath triumphed gloriously:\n    The horse and his rider hath he thrown into the sea.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>is highly exalted</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015002,
+            "text": "   <i>[b]</i>Jehovah is my strength and song,\n    And he is become my salvation:\n    This is my God, and I will praise him;\n    My father\u2019s God, and I will exalt him.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-2",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Jah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015003,
+            "text": "    Jehovah is a man of war:\n    Jehovah is his name.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015004,
+            "text": "    Pharaoh\u2019s chariots and his host hath he cast into the sea;\n    And his chosen captains are sunk in the Red Sea.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015005,
+            "text": "    The deeps cover them:\n    They went down into the depths like a stone.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015006,
+            "text": "    Thy right hand, O Jehovah, is glorious in power,\n    Thy right hand, O Jehovah, dasheth in pieces the enemy.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015007,
+            "text": "    And in the greatness of thine excellency thou overthrowest them that rise up against thee: Thou sendest forth thy wrath, it consumeth them as stubble.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015008,
+            "text": "    And with the blast of thy nostrils the waters were piled up,\n    The floods stood upright as a heap;\n    The deeps were congealed in the heart of the sea.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015009,
+            "text": "    The enemy said, I will pursue, I will overtake, I will divide the spoil;\n    My desire shall be satisfied upon them;\n    I will draw my sword, my hand shall destroy them.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015010,
+            "text": "    Thou didst blow with thy wind, the sea covered them:\n    They sank as lead in the mighty waters.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015011,
+            "text": "    Who is like unto thee, O Jehovah, among the gods?\n    Who is like thee, glorious in holiness,\n    Fearful in praises, doing wonders?\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015012,
+            "text": "    Thou stretchedst out thy right hand,\n    The earth swallowed them.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015013,
+            "text": "    Thou in thy lovingkindness hast led the people that thou hast redeemed:\n    Thou hast guided them in thy strength to thy holy habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015014,
+            "text": "    The peoples have heard, they tremble:\n    Pangs have taken hold on the inhabitants of Philistia.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015015,
+            "text": "  Then were the chiefs of Edom dismayed;\n  The <i>[c]</i>mighty men of Moab, trembling taketh hold upon them:\n    All the inhabitants of Canaan are melted away.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-15",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>rams</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015016,
+            "text": "  Terror and dread falleth upon them;\n  By the greatness of thine arm they are as still as a stone;\n  Till thy people pass over, O Jehovah,\n  Till the people pass over that thou hast <i>[d]</i>purchased.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-16",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>gotten</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015017,
+            "text": "    Thou wilt bring them in, and plant them in the mountain of thine inheritance,\n    The place, O Jehovah, which thou hast made for thee to dwell in,\n    The sanctuary, O Lord, which thy hands have established.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015018,
+            "text": "    Jehovah shall reign for ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015019,
+            "text": "\u00b6 For the horses of Pharaoh went in with his chariots and with his horsemen into the sea, and Jehovah brought back the waters of the sea upon them; but the children of Israel walked on dry land in the midst of the sea. ",
+            "version": "ASV",
+            "clsstr": "Exod-15-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015020,
+            "text": "And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances. ",
+            "version": "ASV",
+            "clsstr": "Exod-15-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015021,
+            "text": "And Miriam answered them,\u00b6   Sing ye to Jehovah, for he <i>[e]</i>hath triumphed gloriously;\n    The horse and his rider hath he thrown into the sea.\n    ",
+            "version": "ASV",
+            "clsstr": "Exod-15-21",
+            "footnotes": [
+                {
+                    "e": "Or, <i>is highly exalted</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015022,
+            "text": "\u00b6 And Moses led Israel onward from the Red Sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water. ",
+            "version": "ASV",
+            "clsstr": "Exod-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015023,
+            "text": "And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called <i>[f]</i>Marah. ",
+            "version": "ASV",
+            "clsstr": "Exod-15-23",
+            "footnotes": [
+                {
+                    "f": "That is, <i>Bitterness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015024,
+            "text": "And the people murmured against Moses, saying, What shall we drink? ",
+            "version": "ASV",
+            "clsstr": "Exod-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015025,
+            "text": "An he cried unto Jehovah; and Jehovah showed him a tree, and he cast it into the waters, and the waters were made sweet. There he made for them a statute and an ordinance, and there he proved them; ",
+            "version": "ASV",
+            "clsstr": "Exod-15-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015026,
+            "text": "and he said, If thou wilt diligently hearken to the voice of Jehovah thy God, and wilt do that which is right in his eyes, and wilt give ear to his commandments, and keep all his statutes, I will put none of the diseases upon thee, which I have put upon the Egyptians: for I am Jehovah that healeth thee. ",
+            "version": "ASV",
+            "clsstr": "Exod-15-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2015027,
+            "text": "And they came to Elim, where were twelve springs of water, and threescore and ten palm-trees: and they encamped there by the waters.",
+            "version": "ASV",
+            "clsstr": "Exod-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 15
+}

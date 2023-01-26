@@ -1,0 +1,294 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24010001,
+            "text": "\u00b6 Hear ye the word which Jehovah speaketh unto you, O house of Israel: ",
+            "version": "ASV",
+            "clsstr": "Jer-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010002,
+            "text": "thus saith Jehovah, Learn not the way of the nations, and be not dismayed at the signs of heaven; for the nations are dismayed at them. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010003,
+            "text": "For the <i>[a]</i>customs of the peoples are vanity; for <i>[b]</i>one cutteth a tree out of the forest, the work of the hands of the workman with the axe. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>statutes</i>."
+                },
+                {
+                    "b": "Or, it is but <i>a tree which one cutteth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010004,
+            "text": "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010005,
+            "text": "They are like a <i>[c]</i>palm-tree, of turned work, and speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither is it in them to do good.",
+            "version": "ASV",
+            "clsstr": "Jer-10-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>pillar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010006,
+            "text": "\u00b6 There is none like unto thee, O Jehovah; thou art great, and thy name is great in might. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010007,
+            "text": "Who should not fear thee, O King of the nations? for <i>[d]</i>to thee doth it appertain; forasmuch as among all the wise men of the nations, and in all their royal estate, there is none like unto thee. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>it beseemeth thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010008,
+            "text": "But they are <i>[e]</i>together brutish and foolish: <i>[f]</i>the instruction of idols! it is but a stock. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>through one thing</i>"
+                },
+                {
+                    "f": "Or, <i>the stock</i> is <i>a doctrine of vanities</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010009,
+            "text": "There is silver beaten into plates, which is brought from Tarshish, and gold from Uphaz, the work of the artificer and of the hands of the goldsmith; blue and purple for their clothing; they are all the work of skilful men. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010010,
+            "text": "But Jehovah is <i>[g]</i>the true God; he is the living God, and an everlasting King: at his wrath the earth trembleth, and the nations are not able to abide his indignation.",
+            "version": "ASV",
+            "clsstr": "Jer-10-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>God in truth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010011,
+            "text": "\u00b6 <i>[h]</i>Thus shall ye say unto them, The gods that have not made the heavens and the earth, <i>[i]</i>these shall perish from the earth, and from under the heavens.",
+            "version": "ASV",
+            "clsstr": "Jer-10-11",
+            "footnotes": [
+                {
+                    "h": "This verse is in Aramaic."
+                },
+                {
+                    "i": "Or, <i>they shall\u00a0.\u00a0.\u00a0. under these heavens</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010012,
+            "text": "\u00b6 He hath made the earth by his power, he hath established the world by his wisdom, and by his understanding hath he stretched out the heavens. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010013,
+            "text": " <i>[j]</i>When he uttereth his voice, there is a tumult of waters in the heavens, and he causeth the vapors to ascend from the ends of the earth; he maketh lightnings for the rain, and bringeth forth the wind out of his treasuries. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-13",
+            "footnotes": [
+                {
+                    "j": "Or, <i>at the sound of his giving an abundance of waters\u00a0.\u00a0.\u00a0. when he causeth etc.</i> (or <i>he causeth etc.</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010014,
+            "text": "Every man <i>[k]</i>is become brutish  without knowledge; every goldsmith is put to shame by his graven image; for his molten image is falsehood, and there is no breath in them. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-14",
+            "footnotes": [
+                {
+                    "k": "Or, <i>is too brutish to know</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010015,
+            "text": "They are vanity, a work of <i>[l]</i>delusion: in the time of their visitation they shall perish. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-15",
+            "footnotes": [
+                {
+                    "l": "Or, <i>mockery</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010016,
+            "text": "The portion of Jacob is not like these; for he is the former of all things; and Israel is the tribe of his inheritance: Jehovah of hosts is his name.",
+            "version": "ASV",
+            "clsstr": "Jer-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010017,
+            "text": "\u00b6 Gather up <i>[m]</i>thy wares out of the land, <i>[n]</i>O thou that abidest in the siege. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-17",
+            "footnotes": [
+                {
+                    "m": "Or, <i>thy bundle from the ground</i>"
+                },
+                {
+                    "n": "Or, <i>O inhabitant</i> (Hebrew <i>inhabitress</i>) <i>of the fortress</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010018,
+            "text": "For thus saith Jehovah, Behold, I will sling out the inhabitants of the land at this time, and will distress them, that they may <i>[o]</i>feel .",
+            "version": "ASV",
+            "clsstr": "Jer-10-18",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>find</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010019,
+            "text": "\u00b6 Woe is me because of my hurt! my wound is grievous: but I said, Truly this is  <i>[p]</i>grief, and I must bear it. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-19",
+            "footnotes": [
+                {
+                    "p": "Or, <i>sickness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010020,
+            "text": "My tent is destroyed, and all my cords are broken: my children are gone forth from me, and they are not: there is none to spread my tent any more, and to set up my curtains. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010021,
+            "text": "For the shepherds are become brutish, and have not inquired of Jehovah: therefore they have not <i>[q]</i>prospered, and all their flocks are scattered. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-21",
+            "footnotes": [
+                {
+                    "q": "Or, <i>dealt wisely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010022,
+            "text": "The voice of tidings, behold, it cometh, and a great commotion out of the north country, to make the cities of Judah a desolation, a dwelling-place of jackals.",
+            "version": "ASV",
+            "clsstr": "Jer-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010023,
+            "text": "\u00b6 O Jehovah, I know that the way of man is not in himself; it is not in man that walketh to direct his steps. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010024,
+            "text": "O Jehovah, correct me, but in <i>[r]</i>measure; not in thine anger, lest thou <i>[s]</i>bring me to nothing. ",
+            "version": "ASV",
+            "clsstr": "Jer-10-24",
+            "footnotes": [
+                {
+                    "r": "Hebrew <i>judgment</i>."
+                },
+                {
+                    "s": "Hebrew <i>diminish me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24010025,
+            "text": "Pour out thy wrath upon the nations that know thee not, and upon the families that call not on thy name; for they have devoured Jacob, yea, they have devoured him and consumed him, and have laid waste his <i>[t]</i>habitation.",
+            "version": "ASV",
+            "clsstr": "Jer-10-25",
+            "footnotes": [
+                {
+                    "t": "Or, <i>pasture</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 10
+}

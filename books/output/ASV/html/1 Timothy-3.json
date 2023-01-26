@@ -1,0 +1,177 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 54,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 54,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 54003001,
+            "text": "\u00b6 <i>[a]</i>Faithful is the saying, If a man seeketh the office of a bishop, he desireth a good work. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-1",
+            "footnotes": [
+                {
+                    "a": "Some connect the words <i>Faithful is the saying</i> with the preceding paragraph."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003002,
+            "text": "The <i>[b]</i>bishop therefore must be without reproach, the husband of one wife, temperate, sober-minded, orderly, given to hospitality, apt to teach; ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>overseer</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003003,
+            "text": " <i>[c]</i>no brawler, no striker; but gentle, not contentious, no lover of money; ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>not quarrelsome over wine</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003004,
+            "text": "one that ruleth well his own house, having  children in subjection with all gravity; ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003005,
+            "text": "(but if a man knoweth not how to rule his own house, how shall he take care of the church of God?) ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003006,
+            "text": "not a novice, lest being puffed up he fall into the <i>[d]</i>condemnation of the devil. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-6",
+            "footnotes": [
+                {
+                    "d": "Greek <i>judgment</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003007,
+            "text": "Moreover he must have good testimony from them that are without; lest he fall into reproach and the snare of the devil. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003008,
+            "text": "Deacons in like manner  grave, not double-tongued, not given to much wine, not greedy of filthy lucre; ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003009,
+            "text": "holding the mystery of the faith in a pure conscience. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003010,
+            "text": "And let these also first be proved; then let them serve as deacons, if they be blameless. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003011,
+            "text": "Women in like manner  grave, not slanderers, temperate, faithful in all things. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003012,
+            "text": "Let deacons be husbands of one wife, ruling  children and their own houses well. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003013,
+            "text": "For they that have served well as deacons gain to themselves a good standing, and great boldness in the faith which is in Christ Jesus.",
+            "version": "ASV",
+            "clsstr": "1Tim-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003014,
+            "text": "\u00b6 These things write I unto thee, hoping to come unto thee shortly; ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003015,
+            "text": "but if I tarry long, that thou mayest know <i>[e]</i>how men ought to behave themselves in the house of God, which is the church of the living God, the pillar and <i>[f]</i>ground of the truth. ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>how thou oughtest to behave thyself</i>"
+                },
+                {
+                    "f": "Or, <i>stay</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54003016,
+            "text": "And without controversy great is the mystery of godliness;\u00b6  <i>[g]</i>He who was manifested in the flesh,\n  Justified in the spirit,\n  Seen of angels,\n  Preached among the <i>[h]</i>nations,\n    Believed on in the world,\n    Received up in glory.\n    ",
+            "version": "ASV",
+            "clsstr": "1Tim-3-16",
+            "footnotes": [
+                {
+                    "g": "The word <i>God</i>, in place of <i>He who</i>, rests on no sufficient ancient evidence. Some ancient authorities read <i>which</i>."
+                },
+                {
+                    "h": "Or, <i>Gentiles</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Timothy",
+    "chapters": 3
+}

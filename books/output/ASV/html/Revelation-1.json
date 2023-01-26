@@ -1,0 +1,243 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 66,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 66,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 66001001,
+            "text": "\u00b6 The Revelation of Jesus Christ, which God <i>[a]</i>gave him to show unto his <i>[b]</i>servants, the things which must shortly come to pass: and he sent and signified <i>[c]</i> by his angel unto his servant John; ",
+            "version": "ASV",
+            "clsstr": "Rev-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>gave unto him, to show unto his servants the things etc.</i>"
+                },
+                {
+                    "b": "Greek <i>bondservants</i>."
+                },
+                {
+                    "c": "Or, them"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001002,
+            "text": "who bare witness of the word of God, and of the testimony of Jesus Christ,  of all things that he saw. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001003,
+            "text": "Blessed is he that readeth, and they that hear the words of the prophecy, and keep the things that are written therein: for the time is at hand.",
+            "version": "ASV",
+            "clsstr": "Rev-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001004,
+            "text": "\u00b6 John to the seven churches that are in Asia: Grace to you and peace, from him <i>[d]</i>who is and who was and who is to come; and from the seven Spirits that are before his throne; ",
+            "version": "ASV",
+            "clsstr": "Rev-1-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>who cometh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001005,
+            "text": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. Unto him that loveth us, and <i>[e]</i>loosed us from our sins <i>[f]</i>by his blood; ",
+            "version": "ASV",
+            "clsstr": "Rev-1-5",
+            "footnotes": [
+                {
+                    "e": "Many authorities, some ancient, read <i>washed</i>. [[Heb. 9:14]]; compare [[7:14]]."
+                },
+                {
+                    "f": "Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001006,
+            "text": "and he made us a kingdom, priests unto <i>[g]</i>his God and Father; to him the glory and the dominion <i>[h]</i>for ever and ever. Amen. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-6",
+            "footnotes": [
+                {
+                    "g": "Or, <i>God and his Father</i>"
+                },
+                {
+                    "h": "Greek <i>unto the ages of the ages</i>. Many ancient authorities omit <i>of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001007,
+            "text": "Behold, he cometh with the clouds; and every eye shall see him, and they that pierced him; and all the tribes of the earth shall mourn over him. Even so, Amen.",
+            "version": "ASV",
+            "clsstr": "Rev-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001008,
+            "text": "\u00b6 I am the Alpha and the Omega, saith the Lord God, <i>[i]</i>who is and who was and <i>[j]</i>who is to come, the Almighty.",
+            "version": "ASV",
+            "clsstr": "Rev-1-8",
+            "footnotes": [
+                {
+                    "i": "Or, <i>he who</i>"
+                },
+                {
+                    "j": "Or, <i>who cometh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001009,
+            "text": "\u00b6 I John, your brother and partaker with you in the tribulation and kingdom and <i>[k]</i>patience  in Jesus, was in the isle that is called Patmos, for the word of God and the testimony of Jesus. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-9",
+            "footnotes": [
+                {
+                    "k": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001010,
+            "text": "I was in the Spirit on the Lord\u2019s day, and I heard behind me a great voice, as of a trumpet ",
+            "version": "ASV",
+            "clsstr": "Rev-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001011,
+            "text": "saying, What thou seest, write in a book and send  to the seven churches: unto Ephesus, and unto Smyrna, and unto Pergamum, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001012,
+            "text": "And I turned to see the voice that spake with me. And having turned I saw seven golden <i>[l]</i>candlesticks; ",
+            "version": "ASV",
+            "clsstr": "Rev-1-12",
+            "footnotes": [
+                {
+                    "l": "Greek <i>lampstands</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001013,
+            "text": "and in the midst of the <i>[m]</i>candlesticks one like unto a son of man, clothed with a garment down to the foot, and girt about at the breasts with a golden girdle. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-13",
+            "footnotes": [
+                {
+                    "m": "Greek <i>lampstands</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001014,
+            "text": "And his head and his hair were white as white wool,  as snow; and his eyes were as a flame of fire; ",
+            "version": "ASV",
+            "clsstr": "Rev-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001015,
+            "text": "and his feet like unto burnished brass, as if it had been refined in a furnace; and his voice as the voice of many waters. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001016,
+            "text": "And he had in his right hand seven stars: and out of his mouth proceeded a sharp two-edged sword: and his countenance was as the sun shineth in his strength. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001017,
+            "text": "And when I saw him, I fell at his feet as one dead. And he laid his right hand upon me, saying, Fear not; I am the first and the last, ",
+            "version": "ASV",
+            "clsstr": "Rev-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001018,
+            "text": "and the Living one; and I <i>[n]</i>was dead, and behold, I am alive <i>[o]</i>for evermore, and I have the keys of death and of Hades. ",
+            "version": "ASV",
+            "clsstr": "Rev-1-18",
+            "footnotes": [
+                {
+                    "n": "Greek <i>became</i>."
+                },
+                {
+                    "o": "Greek <i>unto the ages of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001019,
+            "text": "Write therefore the things which thou sawest, and the things which are, and the things which shall come to pass hereafter; ",
+            "version": "ASV",
+            "clsstr": "Rev-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66001020,
+            "text": "the mystery of the seven stars which thou sawest <i>[p]</i>in my right hand, and the seven golden <i>[q]</i>candlesticks. The seven stars are the angels of the seven churches: and the seven <i>[r]</i>candlesticks are seven churches.",
+            "version": "ASV",
+            "clsstr": "Rev-1-20",
+            "footnotes": [
+                {
+                    "p": "Greek <i>upon</i>."
+                },
+                {
+                    "q": "Greek <i>lampstands</i>."
+                },
+                {
+                    "r": "Greek <i>lampstands</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Revelation",
+    "chapters": 1
+}

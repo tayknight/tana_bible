@@ -1,0 +1,391 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13016001,
+            "text": "\u00b6 And they brought in the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt-offerings and peace-offerings before God. ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016002,
+            "text": "And when David had made an end of offering the burnt-offering and the peace-offerings, he blessed the people in the name of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016003,
+            "text": "And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a portion <i>[a]</i>, and a cake of raisins.",
+            "version": "ASV",
+            "clsstr": "1Chr-16-3",
+            "footnotes": [
+                {
+                    "a": "Or, of wine"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016004,
+            "text": "\u00b6 And he appointed certain of the Levites to minister before the ark of Jehovah, and to celebrate and to thank and praise Jehovah, the God of Israel: ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016005,
+            "text": "Asaph the chief, and second to him Zechariah, <i>[b]</i>Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom, and Jeiel, with psalteries and with harps; and Asaph with cymbals, sounding aloud; ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-5",
+            "footnotes": [
+                {
+                    "b": "In [[15:18]], <i>Jaaziel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016006,
+            "text": "and Benaiah and Jahaziel the priests with trumpets continually, before the ark of the covenant of God.",
+            "version": "ASV",
+            "clsstr": "1Chr-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016007,
+            "text": "\u00b6 Then on that day did David <i>[c]</i>first ordain to give thanks unto Jehovah, by the hand of Asaph and his brethren.",
+            "version": "ASV",
+            "clsstr": "1Chr-16-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>make it the chief work</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016008,
+            "text": "\u00b6     O give thanks unto Jehovah, call upon his name;\n    Make known his doings among the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016009,
+            "text": "  Sing unto him, sing praises unto him;\n   <i>[d]</i>Talk ye of all his marvellous works.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Meditate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016010,
+            "text": "    Glory ye in his holy name;\n    Let the heart of them rejoice that seek Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016011,
+            "text": "    Seek ye Jehovah and his strength;\n    Seek his face evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016012,
+            "text": "    Remember his marvellous works that he hath done,\n    His wonders, and the judgments of his mouth,\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016013,
+            "text": "    O ye seed of Israel his servant,\n    Ye children of Jacob, his chosen ones.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016014,
+            "text": "    He is Jehovah our God;\n    His judgments are in all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016015,
+            "text": "    Remember his covenant for ever,\n    The word which he commanded to a thousand generations,\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016016,
+            "text": "     which he made with Abraham,\n    And his oath unto Isaac,\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016017,
+            "text": "    And confirmed the same unto Jacob for a statute,\n    To Israel for an everlasting covenant,\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016018,
+            "text": "  Saying, Unto thee will I give the land of Canaan,\n  The <i>[e]</i>lot of your inheritance;\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-18",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>cord</i>, or, <i>line</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016019,
+            "text": "    When ye were but a few men in number,\n    Yea, very few, and sojourners in it;\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016020,
+            "text": "    And they went about from nation to nation,\n    And from one kingdom to another people.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016021,
+            "text": "    He suffered no man to do them wrong;\n    Yea, he reproved kings for their sakes,\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016022,
+            "text": "    , Touch not mine anointed ones,\n    And do my prophets no harm.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016023,
+            "text": "    Sing unto Jehovah, all the earth;\n    Show forth his salvation from day to day.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016024,
+            "text": "    Declare his glory among the nations,\n    His marvellous works among all the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016025,
+            "text": "    For great is Jehovah, and greatly to be praised:\n    He also is to be feared above all gods.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016026,
+            "text": "  For all the gods of the peoples are <i>[f]</i>idols:\n    But Jehovah made the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-26",
+            "footnotes": [
+                {
+                    "f": "Or, <i>things of nought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016027,
+            "text": "    Honor and majesty are before him:\n    Strength and gladness are in his place.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016028,
+            "text": "    Ascribe unto Jehovah, ye kindreds of the peoples,\n    Ascribe unto Jehovah glory and strength;\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016029,
+            "text": "  Ascribe unto Jehovah the glory due unto his name:\n  Bring an offering, and come before him:\n  Worship Jehovah <i>[g]</i>in holy array.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-29",
+            "footnotes": [
+                {
+                    "g": "Or, <i>in the beauty of holiness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016030,
+            "text": "    Tremble before him, all the earth:\n    The world also is established that it cannot be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016031,
+            "text": "    Let the heavens be glad, and let the earth rejoice;\n    And let them say among the nations, Jehovah reigneth.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016032,
+            "text": "    Let the sea roar, and the fulness thereof;\n    Let the field exult, and all that is therein;\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016033,
+            "text": "    Then shall the trees of the wood sing for joy before Jehovah;\n    For he cometh to judge the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016034,
+            "text": "    O give thanks unto Jehovah; for he is good;\n    For his lovingkindness  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016035,
+            "text": "    And say ye, Save us, O God of our salvation,\n    And gather us together and deliver us from the nations,\n    To give thanks unto thy holy name,\n    And to triumph in thy praise.\n    ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016036,
+            "text": "    Blessed be Jehovah, the God of Israel,\n    From everlasting even to everlasting.\n    \u00b6 And all the people said, Amen, and praised Jehovah.",
+            "version": "ASV",
+            "clsstr": "1Chr-16-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016037,
+            "text": "\u00b6 So he left there, before the ark of the covenant of Jehovah, Asaph and his brethren, to minister before the ark continually, as every day\u2019s work required; ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016038,
+            "text": "and Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah to be doorkeepers; ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016039,
+            "text": "and Zadok the priest, and his brethren the priests, before the tabernacle of Jehovah in the high place that was at Gibeon, ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016040,
+            "text": "to offer burnt-offerings unto Jehovah upon the altar of burnt-offering continually morning and evening, even according to all that is written in the law of Jehovah, which he commanded unto Israel; ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016041,
+            "text": "and with them Heman and Jeduthun, and the rest that were chosen, who were mentioned by name, to give thanks to Jehovah, because his lovingkindness  for ever; ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016042,
+            "text": "and with them Heman and Jeduthun  trumpets and cymbals for those that should sound aloud, and  instruments for the songs of God; and the sons of Jeduthun to be at the gate. ",
+            "version": "ASV",
+            "clsstr": "1Chr-16-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13016043,
+            "text": "And all the people departed every man to his house: and David returned to bless his house.",
+            "version": "ASV",
+            "clsstr": "1Chr-16-43",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 16
+}

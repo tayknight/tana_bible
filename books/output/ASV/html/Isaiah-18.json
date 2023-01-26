@@ -1,0 +1,103 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23018001,
+            "text": "\u00b6 Ah, the land <i>[a]</i>of the rustling of wings, which is beyond the rivers of <i>[b]</i>Ethiopia; ",
+            "version": "ASV",
+            "clsstr": "Isa-18-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>shadowing with wings</i>"
+                },
+                {
+                    "b": "Hebrew <i>Cush</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23018002,
+            "text": "that sendeth ambassadors by the sea, <i>[c]</i>even in vessels of papyrus upon the waters, , Go, ye swift messengers, to a nation <i>[d]</i>tall and smooth, to a people terrible from their beginning onward, a nation <i>[e]</i>that meteth out and treadeth down, whose land the rivers <i>[f]</i>divide! ",
+            "version": "ASV",
+            "clsstr": "Isa-18-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>and</i>"
+                },
+                {
+                    "d": "Or, <i>dragged away and peeled</i>"
+                },
+                {
+                    "e": "Or, <i>meted out and trodden down</i> Hebrew <i>of line, line, and of treading down</i>."
+                },
+                {
+                    "f": "Or, <i>have despoiled</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23018003,
+            "text": "All ye inhabitants of the world, and ye dwellers on the earth, when an ensign is lifted up on the mountains, see ye; and when the trumpet is blown, hear ye.",
+            "version": "ASV",
+            "clsstr": "Isa-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23018004,
+            "text": "\u00b6 For thus hath Jehovah said unto me, I will be still, and I will behold in my dwelling-place, <i>[g]</i>like clear heat in sunshine, like a cloud of dew in the heat of harvest. ",
+            "version": "ASV",
+            "clsstr": "Isa-18-4",
+            "footnotes": [
+                {
+                    "g": "Or, <i>when there is</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23018005,
+            "text": "For before the harvest, when the blossom is over, and the flower becometh a ripening grape, he will cut off the sprigs with pruning-hooks, and the spreading branches will he take away  cut down. ",
+            "version": "ASV",
+            "clsstr": "Isa-18-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23018006,
+            "text": "They shall be left together unto the ravenous birds of the mountains, and to the beasts of the earth; and the ravenous birds shall summer upon them, and all the beasts of the earth shall winter upon them. ",
+            "version": "ASV",
+            "clsstr": "Isa-18-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23018007,
+            "text": "In that time shall a present be brought unto Jehovah of hosts a people <i>[h]</i>tall and smooth, even from a people terrible from their beginning onward, a nation that meteth out and treadeth down, whose land the rivers divide, to the place of the name of Jehovah of hosts, the mount Zion.",
+            "version": "ASV",
+            "clsstr": "Isa-18-7",
+            "footnotes": [
+                {
+                    "h": "Or, <i>dragged away and peeled</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 18
+}

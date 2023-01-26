@@ -1,0 +1,247 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18012001,
+            "text": "\u00b6 Then Job answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012002,
+            "text": "\u00b6     No doubt but ye are the people,\n    And wisdom shall die with you.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012003,
+            "text": "    But I have understanding as well as you;\n    I am not inferior to you:\n    Yea, who knoweth not such things as these?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012004,
+            "text": "    I am as one that is a laughing-stock to his neighbor,\n    I who called upon God, and he answered:\n    The just, the perfect man is a laughing-stock.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012005,
+            "text": "    In the thought of him that is at ease there is contempt for misfortune;\n    It is ready for them whose foot slippeth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012006,
+            "text": "  The tents of robbers prosper,\n  And they that provoke God are secure;\n   <i>[a]</i>Into whose hand God bringeth .\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>That bring</i> their <i>god in their hand</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012007,
+            "text": "\u00b6     But ask now the beasts, and they shall teach thee;\n    And the birds of the heavens, and they shall tell thee:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012008,
+            "text": "    Or speak to the earth, and it shall teach thee;\n    And the fishes of the sea shall declare unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012009,
+            "text": "  Who knoweth not <i>[b]</i>in all these,\n    That the hand of Jehovah hath wrought this,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012010,
+            "text": "  In whose hand is the soul of every living thing,\n  And the <i>[c]</i>breath of all mankind?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>spirit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012011,
+            "text": "    Doth not the ear try words,\n    Even as the palate tasteth its food?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012012,
+            "text": "   <i>[d]</i>With aged men is wisdom,\n    And in length of days understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>With aged men</i>, ye say, <i>is wisdom</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012013,
+            "text": "\u00b6   With <i>[e]</i> is wisdom and might;\n    He hath counsel and understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-13",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012014,
+            "text": "    Behold, he breaketh down, and it cannot be built again;\n    He shutteth up a man, and there can be no opening.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012015,
+            "text": "    Behold, he withholdeth the waters, and they dry up;\n    Again, he sendeth them out, and they overturn the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012016,
+            "text": "    With him is strength and wisdom;\n    The deceived and the deceiver are his.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012017,
+            "text": "    He leadeth counsellors away stripped,\n    And judges maketh he fools.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012018,
+            "text": "    He looseth the bond of kings,\n    And he bindeth their loins with a girdle.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012019,
+            "text": "    He leadeth priests away stripped,\n    And overthroweth the mighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012020,
+            "text": "    He removeth the speech of the trusty,\n    And taketh away the understanding of the elders.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012021,
+            "text": "    He poureth contempt upon princes,\n    And looseth the belt of the strong.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012022,
+            "text": "    He uncovereth deep things out of darkness,\n    And bringeth out to light the shadow of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012023,
+            "text": "    He increaseth the nations, and he destroyeth them:\n    He enlargeth the nations, and he leadeth them captive.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012024,
+            "text": "  He taketh away understanding from the chiefs of the people of the <i>[f]</i>earth,\n    And causeth them to wander in a wilderness where there is no way.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-24",
+            "footnotes": [
+                {
+                    "f": "Or, <i>land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18012025,
+            "text": "  They grope in the dark without light;\n  And he maketh them to <i>[g]</i>stagger like a drunken man.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-12-25",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>wander</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 12
+}

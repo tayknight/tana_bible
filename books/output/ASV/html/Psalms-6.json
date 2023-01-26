@@ -1,0 +1,103 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19006001,
+            "text": "<b>Prayer for mercy in time of trouble.</b>\n\u00b6 For the Chief Musician; on stringed instruments, set to <i>[a]</i>the Sheminith. A Psalm of David.\u00b6     O Jehovah, rebuke me not in thine anger,\n    Neither chasten me in thy hot displeasure.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the eighth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006002,
+            "text": "    Have mercy upon me, O Jehovah; for I am withered away:\n    O Jehovah, heal me; for my bones are troubled.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006003,
+            "text": "    My soul also is sore troubled:\n    And thou, O Jehovah, how long?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006004,
+            "text": "    Return, O Jehovah, deliver my soul:\n    Save me for thy lovingkindness\u2019 sake.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006005,
+            "text": "    For in death there is no remembrance of thee:\n    In Sheol who shall give thee thanks?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006006,
+            "text": "    I am weary with my groaning;\n    Every night make I my bed to swim;\n    I water my couch with my tears.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006007,
+            "text": "    Mine eye wasteth away because of grief;\n    It waxeth old because of all mine adversaries.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006008,
+            "text": "    Depart from me, all ye workers of iniquity;\n    For Jehovah hath heard the voice of my weeping.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006009,
+            "text": "    Jehovah hath heard my supplication;\n    Jehovah will receive my prayer.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19006010,
+            "text": "    All mine enemies shall be put to shame and sore troubled:\n    They shall turn back, they shall be put to shame suddenly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 6
+}

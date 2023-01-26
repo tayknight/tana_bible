@@ -1,0 +1,190 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11005001,
+            "text": "\u00b6 And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005002,
+            "text": "And Solomon sent to Hiram, saying, ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005003,
+            "text": "Thou knowest how that David my father could not build a house for the name of Jehovah his God for the wars which were about him on every side, until Jehovah put them under the soles of his feet. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005004,
+            "text": "But now Jehovah my God hath given me rest on every side; there is neither adversary, nor evil occurrence. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005005,
+            "text": "And, behold, I purpose to build a house for the name of Jehovah my God, as Jehovah spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build the house for my name. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005006,
+            "text": "Now therefore command thou that they cut me cedar-trees out of Lebanon; and my servants shall be with thy servants; and I will give thee hire for thy servants according to all that thou shalt say: for thou knowest that there is not among us any that knoweth how to cut timber like unto the Sidonians.",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005007,
+            "text": "\u00b6 And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be Jehovah this day, who hath given unto David a wise son over this great people. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005008,
+            "text": "And Hiram sent to Solomon, saying, I have heard which thou hast sent unto me: I will do all thy desire concerning timber of cedar, and concerning timber of <i>[a]</i>fir. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>cypress</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005009,
+            "text": "My servants shall bring them down from Lebanon unto the sea; and I will make them into rafts to go by sea unto the place that thou shalt appoint me, and will cause them to be broken up there, and thou shalt <i>[b]</i>receive them; and thou shalt accomplish my desire, in giving food for my household. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>carry them away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005010,
+            "text": "So <i>[c]</i>Hiram gave Solomon timber of cedar and timber of fir according to all his desire. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-10",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Hirom</i> (and in [[verse 18]])."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005011,
+            "text": "And Solomon gave Hiram twenty thousand <i>[d]</i>measures of wheat for food to his household, and twenty measures of <i>[e]</i>pure oil: thus gave Solomon to Hiram year by year. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-11",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>cor</i>."
+                },
+                {
+                    "e": "Or, <i>beaten</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005012,
+            "text": "And Jehovah gave Solomon wisdom, as he promised him; and there was peace between Hiram and Solomon; and they two made a league together.",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005013,
+            "text": "\u00b6 And king Solomon raised a <i>[f]</i>levy out of all Israel; and the levy was thirty thousand men. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-13",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>men subject to taskwork</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005014,
+            "text": "And he sent them to Lebanon, ten thousand a month by courses; a month they were in Lebanon, and two months at home: and Adoniram was over the men subject to taskwork. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005015,
+            "text": "And Solomon had threescore and ten thousand that bare burdens, and fourscore thousand that were hewers in the mountains; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005016,
+            "text": "besides Solomon\u2019s chief officers that were over the work, three thousand and three hundred, who bare rule over the people that wrought in the work. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005017,
+            "text": "And the king commanded, and they <i>[g]</i>hewed out great stones, costly stones, to lay the foundation of the house with wrought stone. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-17",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>brought away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11005018,
+            "text": "And Solomon\u2019s builders and Hiram\u2019s builders and the Gebalites did fashion them, and prepared the timber and the stones to build the house.",
+            "version": "ASV",
+            "clsstr": "1Kgs-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 5
+}

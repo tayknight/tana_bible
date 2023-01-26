@@ -1,0 +1,114 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19064001,
+            "text": "<b>Prayer for deliverance from secret enemies.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6     Hear my voice, O God, in my complaint:\n    Preserve my life from fear of the enemy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064002,
+            "text": "  Hide me from the secret counsel of evil-doers,\n  From the <i>[a]</i>tumult of the workers of iniquity;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>throng</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064003,
+            "text": "    Who have whet their tongue like a sword,\n    And have aimed their arrows, even bitter words,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064004,
+            "text": "    That they may shoot in secret places at the perfect:\n    Suddenly do they shoot at him, and fear not.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064005,
+            "text": "    They encourage themselves in an evil purpose;\n    They commune of laying snares privily;\n    They say, Who will see them?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064006,
+            "text": "  They search out iniquities;\n   <i>[b]</i>We have accomplished, , a diligent search:\n    And the inward thought and the heart of every one is deep.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-6",
+            "footnotes": [
+                {
+                    "b": "Or, as otherwise read, <i>They have accomplished</i> (or <i>have hidden</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064007,
+            "text": "    But God will shoot at them;\n    With an arrow suddenly shall they be wounded.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064008,
+            "text": " So <i>[c]</i>they shall be made to stumble, their own tongue being against them:\n  All that see them shall <i>[d]</i>wag the head.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>shall they against whom their tongue was make them to stumble</i>"
+                },
+                {
+                    "d": "Or, <i>flee away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064009,
+            "text": "    And all men shall fear;\n    And they shall declare the work of God,\n    And shall wisely consider of his doing.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19064010,
+            "text": "    The righteous shall be glad in Jehovah, and shall take refuge in him;\n    And all the upright in heart shall glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-64-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 64
+}

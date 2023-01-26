@@ -1,0 +1,206 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 21,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 21,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 21008001,
+            "text": "\u00b6 Who is as the wise man? and who knoweth the interpretation of a thing? A man\u2019s wisdom maketh his face to shine, and the <i>[a]</i>hardness of his face is changed. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>strength</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008002,
+            "text": "I , Keep the king\u2019s command, and that in regard of the oath of God. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008003,
+            "text": "Be not hasty to go out of his presence; persist not in an evil thing: for he doeth whatsoever pleaseth him. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008004,
+            "text": "For the king\u2019s word  power; and who may say unto him, What doest thou? ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008005,
+            "text": "Whoso keepeth the commandment shall know no evil thing; and a wise man\u2019s heart discerneth time and judgment: ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008006,
+            "text": "for to every <i>[b]</i>purpose there is a time and judgment; because the <i>[c]</i>misery of man is great upon him: ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>matter</i>"
+                },
+                {
+                    "c": "Or, <i>evil</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008007,
+            "text": "for he knoweth not that which shall be; <i>[d]</i>for who can tell him how it shall be? ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>for</i> even <i>when it cometh to pass, who shall declare it unto him?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008008,
+            "text": "There is no man that hath power over the <i>[e]</i>spirit to retain the <i>[f]</i>spirit; neither hath he power over the day of death; and there is no discharge <i>[g]</i>in war: neither shall wickedness deliver him that is given to it. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>wind</i>"
+                },
+                {
+                    "f": "Or, <i>wind</i>"
+                },
+                {
+                    "g": "Or, <i>in battle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008009,
+            "text": "All this have I seen, and applied my heart unto every work that is done under the sun: <i>[h]</i> a time wherein one man hath power over another <i>[i]</i>to his hurt. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-9",
+            "footnotes": [
+                {
+                    "h": "Or, <i>what time one man had etc.</i>"
+                },
+                {
+                    "i": "Or, <i>to his own hurt</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008010,
+            "text": "So I saw the wicked buried, <i>[j]</i>and they came ; and they that had done right went away from the holy place, and were forgotten in the city: this also is vanity. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-10",
+            "footnotes": [
+                {
+                    "j": "Or, <i>who had come and gone away from the holy place; and they were forgotten in the city where they had so done</i>. Or, <i>and men came and went etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008011,
+            "text": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is <i>[k]</i>fully set in them to do evil. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-11",
+            "footnotes": [
+                {
+                    "k": "Or, <i>emboldened</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008012,
+            "text": "Though a sinner do evil a hundred times, and prolong his , yet surely I know that it shall be well with them that fear God, that fear before him: ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008013,
+            "text": "but it shall not be well with the wicked, neither shall he prolong  days,  as a shadow; because he feareth not before God. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008014,
+            "text": "There is a vanity which is done upon the earth, that there are righteous men unto whom it happeneth according to the work of the wicked; again, there are wicked men to whom it happeneth according to the work of the righteous: I said that this also is vanity. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008015,
+            "text": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be joyful: <i>[l]</i>for that shall abide with him in his labor  the days of his life which God hath given him under the sun. ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-15",
+            "footnotes": [
+                {
+                    "l": "Or, <i>and that this should accompany him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008016,
+            "text": "When I applied my heart to know wisdom, and to see the <i>[m]</i>business that is done upon the earth <i>[n]</i>(for also there is that neither day nor night seeth sleep with his eyes), ",
+            "version": "ASV",
+            "clsstr": "Eccl-8-16",
+            "footnotes": [
+                {
+                    "m": "Or, <i>travail</i>"
+                },
+                {
+                    "n": "Or, <i>how that neither by day nor by night do men see sleep with their eyes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21008017,
+            "text": "then I beheld all the work of God, that man cannot find out the work that is done under the sun: because however much a man labor to seek it out, yet he shall not find it; yea moreover, though a wise man think to know it, yet shall he not be able to find it.",
+            "version": "ASV",
+            "clsstr": "Eccl-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ecclesiastes",
+    "chapters": 8
+}

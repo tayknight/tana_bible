@@ -1,0 +1,435 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40025001,
+            "text": "\u00b6 Then shall the kingdom of heaven be likened unto ten virgins, who took their <i>[a]</i>lamps, and went forth to meet the bridegroom. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>torches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025002,
+            "text": "And five of them were foolish, and five were wise. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025003,
+            "text": "For the foolish, when they took their <i>[b]</i>lamps, took no oil with them: ",
+            "version": "ASV",
+            "clsstr": "Matt-25-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>torches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025004,
+            "text": "but the wise took oil in their vessels with their <i>[c]</i>lamps. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>torches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025005,
+            "text": "Now while the bridegroom tarried, they all slumbered and slept. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025006,
+            "text": "But at midnight there is a cry, Behold, the bridegroom! Come ye forth to meet him. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025007,
+            "text": "Then all those virgins arose, and trimmed their <i>[d]</i>lamps. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>torches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025008,
+            "text": "And the foolish said unto the wise, Give us of your oil; for our <i>[e]</i>lamps are going out. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>torches</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025009,
+            "text": "But the wise answered, saying, Peradventure there will not be enough for us and you: go ye rather to them that sell, and buy for yourselves. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025010,
+            "text": "And while they went away to buy, the bridegroom came; and they that were ready went in with him to the marriage feast: and the door was shut. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025011,
+            "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025012,
+            "text": "But he answered and said, Verily I say unto you, I know you not. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025013,
+            "text": "Watch therefore, for ye know not the day nor the hour.",
+            "version": "ASV",
+            "clsstr": "Matt-25-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025014,
+            "text": "\u00b6 For as a man, going into another country, called his own <i>[f]</i>servants, and delivered unto them his goods. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-14",
+            "footnotes": [
+                {
+                    "f": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025015,
+            "text": "And unto one he gave five talents, to another two, to another one; to each according to his several ability; and he went on his journey. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025016,
+            "text": "Straightway he that received the five talents went and traded with them, and made other five talents. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025017,
+            "text": "In like manner he also that  the two gained other two. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025018,
+            "text": "But he that received the one went away and digged in the earth, and hid his lord\u2019s money. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025019,
+            "text": "Now after a long time the lord of those <i>[g]</i>servants cometh, and maketh a reckoning with them. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-19",
+            "footnotes": [
+                {
+                    "g": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025020,
+            "text": "And he that received the five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: lo, I have gained other five talents. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025021,
+            "text": "His lord said unto him, Well done, good and faithful <i>[h]</i>servant: thou hast been faithful over a few things, I will set thee over many things; enter thou into the joy of thy lord. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-21",
+            "footnotes": [
+                {
+                    "h": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025022,
+            "text": "And he also that  the two talents came and said, Lord, thou deliveredst unto me two talents: lo, I have gained other two talents. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025023,
+            "text": "His lord said unto him, Well done, good and faithful <i>[i]</i>servant: thou hast been faithful over a few things, I will set thee over many things; enter thou into the joy of thy lord. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-23",
+            "footnotes": [
+                {
+                    "i": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025024,
+            "text": "And he also that had received the one talent came and said, Lord, I knew thee that thou art a hard man, reaping where thou didst not sow, and gathering where thou didst not scatter; ",
+            "version": "ASV",
+            "clsstr": "Matt-25-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025025,
+            "text": "and I was afraid, and went away and hid thy talent in the earth: lo, thou hast thine own. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025026,
+            "text": "But his lord answered and said unto him, Thou wicked and slothful <i>[j]</i>servant, thou knewest that I reap where I sowed not, and gather where I did not scatter; ",
+            "version": "ASV",
+            "clsstr": "Matt-25-26",
+            "footnotes": [
+                {
+                    "j": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025027,
+            "text": "thou oughtest therefore to have put my money to the bankers, and at my coming I should have received back mine own with interest. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025028,
+            "text": "Take ye away therefore the talent from him, and give it unto him that hath the ten talents. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025029,
+            "text": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not, even that which he hath shall be taken away. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025030,
+            "text": "And cast ye out the unprofitable <i>[k]</i>servant into the outer darkness: there shall be the weeping and the gnashing of teeth.",
+            "version": "ASV",
+            "clsstr": "Matt-25-30",
+            "footnotes": [
+                {
+                    "k": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025031,
+            "text": "\u00b6 But when the Son of man shall come in his glory, and all the angels with him, then shall he sit on the throne of his glory: ",
+            "version": "ASV",
+            "clsstr": "Matt-25-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025032,
+            "text": "and before him shall be gathered all the nations: and he shall separate them one from another, as the shepherd separateth the sheep from the goats; ",
+            "version": "ASV",
+            "clsstr": "Matt-25-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025033,
+            "text": "and he shall set the sheep on his right hand, but the goats on the left. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025034,
+            "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world: ",
+            "version": "ASV",
+            "clsstr": "Matt-25-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025035,
+            "text": "for I was hungry, and ye gave me to eat; I was thirsty, and ye gave me drink; I was a stranger, and ye took me in; ",
+            "version": "ASV",
+            "clsstr": "Matt-25-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025036,
+            "text": "naked, and ye clothed me; I was sick, and ye visited me; I was in prison, and ye came unto me. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025037,
+            "text": "Then shall the righteous answer him, saying, Lord, when saw we thee hungry, and fed thee? or athirst, and gave thee drink? ",
+            "version": "ASV",
+            "clsstr": "Matt-25-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025038,
+            "text": "And when saw we thee a stranger, and took thee in? or naked, and clothed thee? ",
+            "version": "ASV",
+            "clsstr": "Matt-25-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025039,
+            "text": "And when saw we thee sick, or in prison, and came unto thee? ",
+            "version": "ASV",
+            "clsstr": "Matt-25-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025040,
+            "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye did it unto one of these my brethren,  these least, ye did it unto me. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025041,
+            "text": "Then shall he say also unto them on the left hand, <i>[l]</i>Depart from me, ye cursed, into the eternal fire which is prepared for the devil and his angels: ",
+            "version": "ASV",
+            "clsstr": "Matt-25-41",
+            "footnotes": [
+                {
+                    "l": "Or, <i>Depart from me under a curse</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025042,
+            "text": "for I was hungry, and ye did not give me to eat; I was thirsty, and ye gave me no drink; ",
+            "version": "ASV",
+            "clsstr": "Matt-25-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025043,
+            "text": "I was a stranger, and ye took me not in; naked, and ye clothed me not; sick, and in prison, and ye visited me not. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025044,
+            "text": "Then shall they also answer, saying, Lord, when saw we thee hungry, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee? ",
+            "version": "ASV",
+            "clsstr": "Matt-25-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025045,
+            "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not unto one of these least, ye did it not unto me. ",
+            "version": "ASV",
+            "clsstr": "Matt-25-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40025046,
+            "text": "And these shall go away into eternal punishment: but the righteous into eternal life.",
+            "version": "ASV",
+            "clsstr": "Matt-25-46",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 25
+}

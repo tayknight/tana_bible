@@ -1,0 +1,218 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 38,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 38,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 38008001,
+            "text": "\u00b6 And the word of Jehovah of hosts came , saying, ",
+            "version": "ASV",
+            "clsstr": "Zech-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008002,
+            "text": "Thus saith Jehovah of hosts: I am jealous for Zion with great jealousy, and I am jealous for her with great wrath. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008003,
+            "text": "Thus saith Jehovah: I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called The city of truth; and the mountain of Jehovah of hosts, The holy mountain. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008004,
+            "text": "Thus saith Jehovah of hosts: There shall yet old men and old women <i>[a]</i>dwell in the streets of Jerusalem, every man with his staff in his hand <i>[b]</i>for very age. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>sit</i>"
+                },
+                {
+                    "b": "Hebrew <i>for multitude of days</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008005,
+            "text": "And the streets of the city shall be full of boys and girls playing in the streets thereof. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008006,
+            "text": "Thus saith Jehovah of hosts: If it be marvellous in the eyes of the remnant of this people in those days, should it also be marvellous in mine eyes? saith Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008007,
+            "text": "Thus saith Jehovah of hosts: Behold, I will save my people from the east country, and from the west country; ",
+            "version": "ASV",
+            "clsstr": "Zech-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008008,
+            "text": "and I will bring them, and they shall dwell in the midst of Jerusalem; and they shall be my people, and I will be their God, in truth and in righteousness.",
+            "version": "ASV",
+            "clsstr": "Zech-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008009,
+            "text": "\u00b6 Thus saith Jehovah of hosts: Let your hands be strong, ye that hear in these days these words from the mouth of the prophets that were in the day that the foundation of the house of Jehovah of hosts was laid, even the temple, that it might be built. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008010,
+            "text": "For before those days there was no hire for man, nor any hire for beast; neither was there any peace to him that went out or came in, because of the adversary: for I set all men every one against his neighbor. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008011,
+            "text": "But now I will not be unto the remnant of this people as in the former days, saith Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008012,
+            "text": "For  the seed of peace; the vine shall give its fruit, and the ground shall give its increase, and the heavens shall give their dew; and I will cause the remnant of this people to inherit all these things. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008013,
+            "text": "And it shall come to pass that, as ye were a curse among the nations, O house of Judah and house of Israel, so will I save you, and ye shall be a blessing. Fear not,  let your hands be strong.",
+            "version": "ASV",
+            "clsstr": "Zech-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008014,
+            "text": "\u00b6 For thus saith Jehovah of hosts: As I thought to do evil unto you, when your fathers provoked me to wrath, saith Jehovah of hosts, and I repented not; ",
+            "version": "ASV",
+            "clsstr": "Zech-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008015,
+            "text": "so again have I thought in these days to do good unto Jerusalem and to the house of Judah: fear ye not. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008016,
+            "text": "These are the things that ye shall do: Speak ye every man the truth with his neighbor; <i>[c]</i>execute the judgment of truth and peace in your gates; ",
+            "version": "ASV",
+            "clsstr": "Zech-8-16",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>judge truth and the judgment of peace</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008017,
+            "text": "and let none of you devise evil in your hearts against his neighbor; and love no false oath: for all these are things that I hate, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Zech-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008018,
+            "text": "\u00b6 And the word of Jehovah of hosts came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Zech-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008019,
+            "text": "Thus saith Jehovah of hosts: The fast of the fourth , and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love truth and peace. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008020,
+            "text": "Thus saith Jehovah of hosts: yet , that there shall come peoples, and the inhabitants of <i>[d]</i>many cities; ",
+            "version": "ASV",
+            "clsstr": "Zech-8-20",
+            "footnotes": [
+                {
+                    "d": "Or, <i>great</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008021,
+            "text": "and the inhabitants of one  shall go to another, saying, Let us go speedily to entreat the favor of Jehovah, and to seek Jehovah of hosts: I will go also. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008022,
+            "text": "Yea, many peoples and strong nations shall come to seek Jehovah of hosts in Jerusalem, and to entreat the favor of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Zech-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38008023,
+            "text": "Thus saith Jehovah of hosts: In those days , that ten men shall take hold, out of all the languages of the nations, they shall take hold of the skirt of him that is a Jew, saying, We will go with you, for we have heard that God is with you.",
+            "version": "ASV",
+            "clsstr": "Zech-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Zechariah",
+    "chapters": 8
+}

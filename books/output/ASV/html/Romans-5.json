@@ -1,0 +1,239 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45005001,
+            "text": "\u00b6 Being therefore justified <i>[a]</i>by faith, <i>[b]</i>we have peace with God through our Lord Jesus Christ; ",
+            "version": "ASV",
+            "clsstr": "Rom-5-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>out of</i>."
+                },
+                {
+                    "b": "Many ancient authorities read <i>let us have</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005002,
+            "text": "through whom also we have had our access <i>[c]</i>by faith into this grace wherein we stand; and <i>[d]</i>we <i>[e]</i>rejoice in hope of the glory of God. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-2",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities omit <i>by faith</i>."
+                },
+                {
+                    "d": "Or, <i>let us rejoice</i>"
+                },
+                {
+                    "e": "Greek <i>glory</i>. [[Verse 11]]; [[Heb. 3:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005003,
+            "text": "And not only so, but <i>[f]</i>we also <i>[g]</i>rejoice in our tribulations: knowing that tribulation worketh stedfastness; ",
+            "version": "ASV",
+            "clsstr": "Rom-5-3",
+            "footnotes": [
+                {
+                    "f": "Or, <i>let us also rejoice</i>"
+                },
+                {
+                    "g": "Greek <i>glory</i>. [[Verse 11]]; [[Heb. 3:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005004,
+            "text": "and stedfastness, approvedness; and approvedness, hope: ",
+            "version": "ASV",
+            "clsstr": "Rom-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005005,
+            "text": "and hope putteth not to shame; because the love of God hath been <i>[h]</i>shed abroad in our hearts through the Holy Spirit which was given unto us. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-5",
+            "footnotes": [
+                {
+                    "h": "Greek <i>poured out</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005006,
+            "text": "For while we were yet weak, in due season Christ died for the ungodly. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005007,
+            "text": "For scarcely for a righteous man will one die: for peradventure for the good man some one would even dare to die. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005008,
+            "text": "But God commendeth his own love toward us, in that, while we were yet sinners, Christ died for us. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005009,
+            "text": "Much more then, being now justified <i>[i]</i>by his blood, shall we be saved from the wrath  through him. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-9",
+            "footnotes": [
+                {
+                    "i": "Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005010,
+            "text": "For if, while we were enemies, we were reconciled to God through the death of his Son, much more, being reconciled, shall we be saved <i>[j]</i>by his life; ",
+            "version": "ASV",
+            "clsstr": "Rom-5-10",
+            "footnotes": [
+                {
+                    "j": "Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005011,
+            "text": "and not only so, <i>[k]</i>but we also rejoice in God through our Lord Jesus Christ, through whom we have now received the reconciliation.",
+            "version": "ASV",
+            "clsstr": "Rom-5-11",
+            "footnotes": [
+                {
+                    "k": "Greek <i>but also glorying</i>. Compare [[verse 2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005012,
+            "text": "\u00b6 Therefore, as through one man sin entered into the world, and death through sin; and so death passed unto all men, for that all sinned:\u2014",
+            "version": "ASV",
+            "clsstr": "Rom-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005013,
+            "text": "for until the law sin was in the world; but sin is not imputed when there is no law. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005014,
+            "text": "Nevertheless death reigned from Adam until Moses, even over them that had not sinned after the likeness of Adam\u2019s transgression, who is a figure of him that was to come. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005015,
+            "text": "But not as the trespass, so also  the free gift. For if by the trespass of the one the many died, much more did the grace of God, and the gift by the grace of the one man, Jesus Christ, abound unto the many. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005016,
+            "text": "And not as through one that sinned, is the gift: for the judgment of one unto condemnation, but the free gift of many trespasses unto <i>[l]</i>justification. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-16",
+            "footnotes": [
+                {
+                    "l": "Greek <i>an act of righteousness</i>. [[Rev. 15:4]]; [[19:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005017,
+            "text": "For if, by the trespass of the one, death reigned through the one; much more shall they that receive the abundance of grace and <i>[m]</i>of the gift of righteousness reign in life through the one,  Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-17",
+            "footnotes": [
+                {
+                    "m": "Some ancient authorities omit <i>of the gift</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005018,
+            "text": "So then as through one trespass  unto all men to condemnation; even so through one act of righteousness  unto all men to justification of life. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005019,
+            "text": "For as through the one man\u2019s disobedience the many were made sinners, even so through the obedience of the one shall the many be made righteous. ",
+            "version": "ASV",
+            "clsstr": "Rom-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005020,
+            "text": "And <i>[n]</i>the law came in besides, that the trespass might abound; but where sin abounded, grace did abound more exceedingly: ",
+            "version": "ASV",
+            "clsstr": "Rom-5-20",
+            "footnotes": [
+                {
+                    "n": "Or, <i>law</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45005021,
+            "text": "that, as sin reigned in death, even so might grace reign through righteousness unto eternal life through Jesus Christ our Lord.",
+            "version": "ASV",
+            "clsstr": "Rom-5-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 5
+}

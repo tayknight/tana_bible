@@ -1,0 +1,364 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45001001,
+            "text": "\u00b6 Paul, a <i>[a]</i>servant of Jesus Christ, called an apostle, separated unto the <i>[b]</i>gospel of God, ",
+            "version": "ASV",
+            "clsstr": "Rom-1-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>bondservant</i>."
+                },
+                {
+                    "b": "Greek <i>good tidings</i>: and so elsewhere. See marginal note on [[Mt. 4:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001002,
+            "text": "which he promised afore through his prophets in the holy scriptures, ",
+            "version": "ASV",
+            "clsstr": "Rom-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001003,
+            "text": "concerning his Son, who was born of the seed of David according to the flesh, ",
+            "version": "ASV",
+            "clsstr": "Rom-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001004,
+            "text": "who was <i>[c]</i>declared the Son of God <i>[d]</i>with power, according to the spirit of holiness, by the resurrection <i>[e]</i>from the dead;  Jesus Christ our Lord, ",
+            "version": "ASV",
+            "clsstr": "Rom-1-4",
+            "footnotes": [
+                {
+                    "c": "Greek <i>determined</i>."
+                },
+                {
+                    "d": "Or, <i>in</i>"
+                },
+                {
+                    "e": "Or, <i>of the dead</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001005,
+            "text": "through whom we received grace and apostleship, unto obedience <i>[f]</i>of faith among all the <i>[g]</i>nations, for his name\u2019s sake; ",
+            "version": "ASV",
+            "clsstr": "Rom-1-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>to the faith</i>"
+                },
+                {
+                    "g": "Or, <i>Gentiles</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001006,
+            "text": "among whom are ye also, called  Jesus Christ\u2019s: ",
+            "version": "ASV",
+            "clsstr": "Rom-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001007,
+            "text": "to all that are in Rome, beloved of God, called  saints: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+            "version": "ASV",
+            "clsstr": "Rom-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001008,
+            "text": "\u00b6 First, I thank my God through Jesus Christ for you all, <i>[h]</i>that your faith is proclaimed throughout the whole world. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-8",
+            "footnotes": [
+                {
+                    "h": "Or, <i>because</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001009,
+            "text": "For God is my witness, whom I serve in my spirit in the <i>[i]</i>gospel of his Son, how unceasingly I make mention of you, always in my prayers ",
+            "version": "ASV",
+            "clsstr": "Rom-1-9",
+            "footnotes": [
+                {
+                    "i": "Greek <i>good tidings</i>. See [[verse 1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001010,
+            "text": "making request, if by any means now at length I may be prospered <i>[j]</i>by the will of God to come unto you. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-10",
+            "footnotes": [
+                {
+                    "j": "Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001011,
+            "text": "For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established; ",
+            "version": "ASV",
+            "clsstr": "Rom-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001012,
+            "text": "that is, that I with you may be comforted <i>[k]</i>in you, each of us by the other\u2019s faith, both yours and mine. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-12",
+            "footnotes": [
+                {
+                    "k": "Or, <i>among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001013,
+            "text": "And I would not have you ignorant, brethren, that oftentimes I purposed to come unto you (and was hindered hitherto), that I might have some fruit <i>[l]</i>in you also, even as <i>[m]</i>in the rest of the Gentiles. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-13",
+            "footnotes": [
+                {
+                    "l": "Or, <i>among</i>"
+                },
+                {
+                    "m": "Or, <i>among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001014,
+            "text": "I am debtor both to Greeks and to Barbarians, both to the wise and to the foolish. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001015,
+            "text": "So, as much as in me is, I am ready to <i>[n]</i>preach the gospel to you also that are in Rome.",
+            "version": "ASV",
+            "clsstr": "Rom-1-15",
+            "footnotes": [
+                {
+                    "n": "Greek <i>bring good tidings</i>. Compare [[10:15f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001016,
+            "text": "\u00b6 For I am not ashamed of the <i>[o]</i>gospel: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-16",
+            "footnotes": [
+                {
+                    "o": "Greek <i>good tidings</i>. See [[verse 1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001017,
+            "text": "For therein is revealed a righteousness of God from faith unto faith: as it is written, <i>[p]</i>But the righteous shall live <i>[q]</i>by faith.",
+            "version": "ASV",
+            "clsstr": "Rom-1-17",
+            "footnotes": [
+                {
+                    "p": "[[Hab. 2:4]]."
+                },
+                {
+                    "q": "Greek <i>from</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001018,
+            "text": "\u00b6 For <i>[r]</i>the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who <i>[s]</i>hinder the truth in unrighteousness; ",
+            "version": "ASV",
+            "clsstr": "Rom-1-18",
+            "footnotes": [
+                {
+                    "r": "Or, <i>a wrath</i>"
+                },
+                {
+                    "s": "Or, <i>hold the truth</i>. Compare [[1 Cor. 7:30]] (Greek)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001019,
+            "text": "because that which is known of God is manifest in them; for God manifested it unto them. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001020,
+            "text": "For the invisible things of him since the creation of the world are clearly seen, being perceived through the things that are made, his everlasting power and divinity; <i>[t]</i>that they may be without excuse: ",
+            "version": "ASV",
+            "clsstr": "Rom-1-20",
+            "footnotes": [
+                {
+                    "t": "Or, <i>so that they are</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001021,
+            "text": "because that, knowing God, they glorified him not as God, neither gave thanks; but became vain in their reasonings, and their senseless heart was darkened. ",
+            "version": "ASV",
+            "clsstr": "Rom-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001022,
+            "text": "Professing themselves to be wise, they became fools, ",
+            "version": "ASV",
+            "clsstr": "Rom-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001023,
+            "text": "and changed the glory of the incorruptible God for the likeness of an image of corruptible man, and of birds, and four-footed beasts, and creeping things.",
+            "version": "ASV",
+            "clsstr": "Rom-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001024,
+            "text": "\u00b6 Wherefore God gave them up in the lusts of their hearts unto uncleanness, that their bodies should be dishonored among themselves: ",
+            "version": "ASV",
+            "clsstr": "Rom-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001025,
+            "text": "for that they exchanged the truth of God for a lie, and worshipped and served the creature rather than the Creator, who is blessed <i>[u]</i>for ever. Amen.",
+            "version": "ASV",
+            "clsstr": "Rom-1-25",
+            "footnotes": [
+                {
+                    "u": "Greek <i>unto the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001026,
+            "text": "\u00b6 For this cause God gave them up unto <i>[v]</i>vile passions: for their women changed the natural use into that which is against nature: ",
+            "version": "ASV",
+            "clsstr": "Rom-1-26",
+            "footnotes": [
+                {
+                    "v": "Greek <i>passions of dishonor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001027,
+            "text": "and likewise also the men, leaving the natural use of the woman, burned in their lust one toward another, men with men working unseemliness, and receiving in themselves that recompense of their error which was due.",
+            "version": "ASV",
+            "clsstr": "Rom-1-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001028,
+            "text": "\u00b6 And even as they <i>[w]</i>refused to have God in  knowledge, God gave them up unto a reprobate mind, to do those things which are not fitting; ",
+            "version": "ASV",
+            "clsstr": "Rom-1-28",
+            "footnotes": [
+                {
+                    "w": "Greek <i>did not approve</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001029,
+            "text": "being filled with all unrighteousness, wickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, malignity; whisperers, ",
+            "version": "ASV",
+            "clsstr": "Rom-1-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001030,
+            "text": "backbiters, <i>[x]</i>hateful to God, insolent, haughty, boastful, inventors of evil things, disobedient to parents, ",
+            "version": "ASV",
+            "clsstr": "Rom-1-30",
+            "footnotes": [
+                {
+                    "x": "Or, <i>haters of God</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001031,
+            "text": "without understanding, covenant-breakers, without natural affection, unmerciful: ",
+            "version": "ASV",
+            "clsstr": "Rom-1-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45001032,
+            "text": "who, knowing the ordinance of God, that they that practise such things are worthy of death, not only do the same, but also consent with them that practise them.",
+            "version": "ASV",
+            "clsstr": "Rom-1-32",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 1
+}

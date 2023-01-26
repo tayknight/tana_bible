@@ -1,0 +1,312 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40019001,
+            "text": "\u00b6 And it came to pass when Jesus had finished these words, he departed from Galilee, and came into the borders of Judaea beyond the Jordan; ",
+            "version": "ASV",
+            "clsstr": "Matt-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019002,
+            "text": "and great multitudes followed him; and he healed them there.",
+            "version": "ASV",
+            "clsstr": "Matt-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019003,
+            "text": "\u00b6 And there came unto him <i>[a]</i>Pharisees, trying him, and saying, Is it lawful  to put away his wife for every cause? ",
+            "version": "ASV",
+            "clsstr": "Matt-19-3",
+            "footnotes": [
+                {
+                    "a": "Many authorities, some ancient, insert <i>the</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019004,
+            "text": "And he answered and said, Have ye not read, <i>[b]</i>that he who <i>[c]</i>made  from the beginning made them male and female, ",
+            "version": "ASV",
+            "clsstr": "Matt-19-4",
+            "footnotes": [
+                {
+                    "b": "[[Gen. 1:27]]; [[5:2]]."
+                },
+                {
+                    "c": "Some ancient authorities read <i>created</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019005,
+            "text": "and said, <i>[d]</i>For this cause shall a man leave his father and mother, and shall cleave to his wife; and the two shall become one flesh? ",
+            "version": "ASV",
+            "clsstr": "Matt-19-5",
+            "footnotes": [
+                {
+                    "d": "[[Gen. 2:24]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019006,
+            "text": "So that they are no more two, but one flesh. What therefore God hath joined together, let not man put asunder. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019007,
+            "text": "They say unto him, <i>[e]</i>Why then did Moses command to give a bill of divorcement, and to put  away? ",
+            "version": "ASV",
+            "clsstr": "Matt-19-7",
+            "footnotes": [
+                {
+                    "e": "[[Dt. 24:1\u20134]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019008,
+            "text": "He saith unto them, Moses for your hardness of heart suffered you to put away your wives: but from the beginning it hath not been so. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019009,
+            "text": "And I say unto you, Whosoever shall put away his wife, <i>[f]</i>except for fornication, and shall marry another, committeth adultery: <i>[g]</i>and he that marrieth her when she is put away committeth adultery. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-9",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities read <i>saving for the cause of fornication, maketh her an adulteress</i>: as in [[5:32]]."
+                },
+                {
+                    "g": "The following words, to the end of the verse, are omitted by some ancient authorities."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019010,
+            "text": "The disciples say unto him, If the case of the man is so with his wife, it is not expedient to marry. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019011,
+            "text": "But he said unto them, Not all men can receive this saying, but they to whom it is given. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019012,
+            "text": "For there are eunuchs, that were so born from their mother\u2019s womb: and there are eunuchs, that were made eunuchs by men: and there are eunuchs, that made themselves eunuchs for the kingdom of heaven\u2019s sake. He that is able to receive it, let him receive it.",
+            "version": "ASV",
+            "clsstr": "Matt-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019013,
+            "text": "\u00b6 Then were there brought unto him little children, that he should lay his hands on them, and pray: and the disciples rebuked them. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019014,
+            "text": "But Jesus said, Suffer the little children, and forbid them not, to come unto me: for <i>[h]</i>to such belongeth the kingdom of heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>of such is</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019015,
+            "text": "And he laid his hands on them, and departed thence.",
+            "version": "ASV",
+            "clsstr": "Matt-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019016,
+            "text": "\u00b6 And behold, one came to him and said, <i>[i]</i>Teacher, what good thing shall I do, that I may have eternal life? ",
+            "version": "ASV",
+            "clsstr": "Matt-19-16",
+            "footnotes": [
+                {
+                    "i": "Some ancient authorities read <i>Good Teacher</i>. See [[Mk. 10:17]]; [[Lk. 18:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019017,
+            "text": "And he said unto him, <i>[j]</i>Why askest thou me concerning that which is good? One there is who is good: but if thou wouldest enter into life, keep the commandments. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-17",
+            "footnotes": [
+                {
+                    "j": "Some ancient authorities read <i>Why callest thou me good? None is good save one</i>, even <i>God.</i> See [[Mk. 10:18]]; [[Lk. 18:19]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019018,
+            "text": "He saith unto him, Which? And Jesus said, <i>[k]</i>Thou shalt not kill, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, ",
+            "version": "ASV",
+            "clsstr": "Matt-19-18",
+            "footnotes": [
+                {
+                    "k": "[[Ex. 20:12\u201316]]; [[Dt. 5:16\u201320]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019019,
+            "text": "Honor thy father and thy mother; and, <i>[l]</i>Thou shalt love thy neighbor as thyself. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-19",
+            "footnotes": [
+                {
+                    "l": "[[Lev. 19:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019020,
+            "text": "The young man saith unto him, All these things have I observed: what lack I yet? ",
+            "version": "ASV",
+            "clsstr": "Matt-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019021,
+            "text": "Jesus said unto him, If thou wouldest be perfect, go, sell that which thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, follow me. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019022,
+            "text": "But when the young man heard the saying, he went away sorrowful; for he was one that had great possessions.",
+            "version": "ASV",
+            "clsstr": "Matt-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019023,
+            "text": "\u00b6 And Jesus said unto his disciples, Verily I say unto you, It is hard for a rich man to enter into the kingdom of heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019024,
+            "text": "And again I say unto you, It is easier for a camel to go through a needle\u2019s eye, than for a rich man to enter into the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019025,
+            "text": "And when the disciples heard it, they were astonished exceedingly, saying, Who then can be saved? ",
+            "version": "ASV",
+            "clsstr": "Matt-19-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019026,
+            "text": "And Jesus looking upon  said to them, With men this is impossible; but with God all things are possible. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019027,
+            "text": "Then answered Peter and said unto him, Lo, we have left all, and followed thee; what then shall we have? ",
+            "version": "ASV",
+            "clsstr": "Matt-19-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019028,
+            "text": "And Jesus said unto them, Verily I say unto you, that ye who have followed me, in the regeneration when the Son of man shall sit on the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019029,
+            "text": "And every one that hath left houses, or brethren, or sisters, or father, or mother, <i>[m]</i>or children, or lands, for my name\u2019s sake, shall receive <i>[n]</i>a hundredfold, and shall inherit eternal life. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-29",
+            "footnotes": [
+                {
+                    "m": "Many ancient authorities add <i>or wife</i>: as in [[Lk. 18:29]]."
+                },
+                {
+                    "n": "Some ancient authorities read <i>manifold</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40019030,
+            "text": "But many shall be last  first; and first  last. ",
+            "version": "ASV",
+            "clsstr": "Matt-19-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 19
+}

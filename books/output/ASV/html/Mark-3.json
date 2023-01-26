@@ -1,0 +1,350 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41003001,
+            "text": "\u00b6 And he entered again into the synagogue; and there was a man there who had his hand withered. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003002,
+            "text": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003003,
+            "text": "And he saith unto the man that had his hand withered, <i>[a]</i>Stand forth. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-3",
+            "footnotes": [
+                {
+                    "a": "Greek <i>Arise into the midst</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003004,
+            "text": "And he saith unto them, Is it lawful on the sabbath day to do good, or to do harm? to save a life, or to kill? But they held their peace. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003005,
+            "text": "And when he had looked round about on them with anger, being grieved at the hardening of their heart, he saith unto the man, Stretch forth thy hand. And he stretched it forth; and his hand was restored. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003006,
+            "text": "And the Pharisees went out, and straightway with the Herodians took counsel against him, how they might destroy him.",
+            "version": "ASV",
+            "clsstr": "Mark-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003007,
+            "text": "\u00b6 And Jesus with his disciples withdrew to the sea: and a great multitude from Galilee followed; and from Judaea, ",
+            "version": "ASV",
+            "clsstr": "Mark-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003008,
+            "text": "and from Jerusalem, and from Idumaea, and beyond the Jordan, and about Tyre and Sidon, a great multitude, hearing <i>[b]</i>what great things he did, came unto him. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>all the things that he did</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003009,
+            "text": "And he spake to his disciples, that a little boat should wait on him because of the crowd, lest they should throng him: ",
+            "version": "ASV",
+            "clsstr": "Mark-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003010,
+            "text": "for he had healed many; insomuch that as many as had <i>[c]</i>plagues <i>[d]</i>pressed upon him that they might touch him. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-10",
+            "footnotes": [
+                {
+                    "c": "Greek <i>scourges</i>."
+                },
+                {
+                    "d": "Greek <i>fell</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003011,
+            "text": "And the unclean spirits, whensoever they beheld him, fell down before him, and cried, saying, Thou art the Son of God. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003012,
+            "text": "And he charged them much that they should not make him known.",
+            "version": "ASV",
+            "clsstr": "Mark-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003013,
+            "text": "\u00b6 And he goeth up into the mountain, and calleth unto him whom he himself would; and they went unto him. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003014,
+            "text": "And he appointed twelve, <i>[e]</i>that they might be with him, and that he might send them forth to preach, ",
+            "version": "ASV",
+            "clsstr": "Mark-3-14",
+            "footnotes": [
+                {
+                    "e": "Some ancient authorities add <i>whom also he named apostles</i>. See [[Lk. 6:13]]; compare [[6:30]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003015,
+            "text": "and to have authority to cast out demons: ",
+            "version": "ASV",
+            "clsstr": "Mark-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003016,
+            "text": " <i>[f]</i>and Simon he surnamed Peter; ",
+            "version": "ASV",
+            "clsstr": "Mark-3-16",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities insert <i>and he appointed twelve</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003017,
+            "text": "and <i>[g]</i>James the of Zebedee, and John the brother of <i>[h]</i>James; and them he surnamed Boanerges, which is, Sons of thunder: ",
+            "version": "ASV",
+            "clsstr": "Mark-3-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Jacob</i>"
+                },
+                {
+                    "h": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003018,
+            "text": "and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and <i>[i]</i>James the of Alphaeus, and Thaddaeus, and Simon the <i>[j]</i>Cananaean, ",
+            "version": "ASV",
+            "clsstr": "Mark-3-18",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Jacob</i>"
+                },
+                {
+                    "j": "Or, <i>Zealot</i>. See [[Lk. 6:15]]; [[Acts 1:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003019,
+            "text": "and Judas Iscariot, who also <i>[k]</i>betrayed him.\u00b6 And he cometh <i>[l]</i>into a house. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-19",
+            "footnotes": [
+                {
+                    "k": "Or, <i>delivered him up</i>"
+                },
+                {
+                    "l": "Or, <i>home</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003020,
+            "text": "And the multitude cometh together again, so that they could not so much as eat bread. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003021,
+            "text": "And when his friends heard it, they went out to lay hold on him: for they said, He is beside himself. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003022,
+            "text": "And the scribes that came down from Jerusalem said, He hath <i>[m]</i>Beelzebub, and, <i>[n]</i>By the prince of the demons casteth he out the demons. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-22",
+            "footnotes": [
+                {
+                    "m": "Greek <i>Beelzebul</i>."
+                },
+                {
+                    "n": "Or, <i>In</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003023,
+            "text": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan? ",
+            "version": "ASV",
+            "clsstr": "Mark-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003024,
+            "text": "And if a kingdom be divided against itself, that kingdom cannot stand. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003025,
+            "text": "And if a house be divided against itself, that house will not be able to stand. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003026,
+            "text": "And if Satan hath risen up against himself, and is divided, he cannot stand, but hath an end. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003027,
+            "text": "But no one can enter into the house of the strong , and spoil his goods, except he first bind the strong ; and then he will spoil his house. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003028,
+            "text": "Verily I say unto you, All their sins shall be forgiven unto the sons of men, and their blasphemies wherewith soever they shall blaspheme: ",
+            "version": "ASV",
+            "clsstr": "Mark-3-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003029,
+            "text": "but whosoever shall blaspheme against the Holy Spirit hath never forgiveness, but is guilty of an eternal sin: ",
+            "version": "ASV",
+            "clsstr": "Mark-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003030,
+            "text": "because they said, He hath an unclean spirit.",
+            "version": "ASV",
+            "clsstr": "Mark-3-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003031,
+            "text": "\u00b6 And there come his mother and his brethren; and, standing without, they sent unto him, calling him. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003032,
+            "text": "And a multitude was sitting about him; and they say unto him, Behold, thy mother and thy brethren without seek for thee. ",
+            "version": "ASV",
+            "clsstr": "Mark-3-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003033,
+            "text": "And he answereth them, and saith, Who is my mother and my brethren? ",
+            "version": "ASV",
+            "clsstr": "Mark-3-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003034,
+            "text": "And looking round on them that sat round about him, he saith, Behold, my mother and my brethren! ",
+            "version": "ASV",
+            "clsstr": "Mark-3-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41003035,
+            "text": "For whosoever shall do the will of God, the same is my brother, and sister, and mother.",
+            "version": "ASV",
+            "clsstr": "Mark-3-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 3
+}

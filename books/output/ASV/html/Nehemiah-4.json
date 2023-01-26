@@ -1,0 +1,235 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 16,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 16,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 16004001,
+            "text": "\u00b6 But it came to pass that, when Sanballat heard that we were building the wall, he was wroth, and took great indignation, and mocked the Jews. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004002,
+            "text": "And he spake before his brethren and the army of Samaria, and said, What are these feeble Jews doing? <i>[a]</i>will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of rubbish, seeing they are burned? ",
+            "version": "ASV",
+            "clsstr": "Neh-4-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>will they leave to themselves</i> aught? Or, <i>will men let them alone?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004003,
+            "text": "Now Tobiah the Ammonite was by him, and he said, Even that which they are building, if a <i>[b]</i>fox go up, he shall break down their stone wall. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>jackal</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004004,
+            "text": "Hear, O our God; for we are despised: and turn back their reproach upon their own head, and give them up for a spoil in a land of captivity; ",
+            "version": "ASV",
+            "clsstr": "Neh-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004005,
+            "text": "and cover not their iniquity, and let not their sin be blotted out from before thee; for they have provoked  to anger before the builders. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004006,
+            "text": "So we built the wall; and all the wall was joined together unto half  thereof: for the people had a mind to work.",
+            "version": "ASV",
+            "clsstr": "Neh-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004007,
+            "text": "\u00b6 But it came to pass that, when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that <i>[c]</i>the repairing of the walls of Jerusalem went forward,  that the breaches began to be stopped, then they were very wroth; ",
+            "version": "ASV",
+            "clsstr": "Neh-4-7",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>healing went up upon the walls</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004008,
+            "text": "and they conspired all of them together to come and fight against Jerusalem, and to cause confusion therein. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004009,
+            "text": "But we made our prayer unto our God, and set a watch against them day and night, because of them. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004010,
+            "text": "And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004011,
+            "text": "And our adversaries said, They shall not know, neither see, till we come into the midst of them, and slay them, and cause the work to cease. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004012,
+            "text": "And it came to pass that, when the Jews that dwelt by them came, they said unto us ten times <i>[d]</i>from all places, Ye must return unto us. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>From all places whence ye shall return</i> they will be <i>upon us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004013,
+            "text": "Therefore set I in the lowest parts of the space behind the wall, in the open places, I set  the people after their families with their swords, their spears, and their bows. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004014,
+            "text": "And I looked, and rose up, and said unto the nobles, and to the <i>[e]</i>rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, who is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.",
+            "version": "ASV",
+            "clsstr": "Neh-4-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>deputies</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004015,
+            "text": "\u00b6 And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004016,
+            "text": "And it came to pass from that time forth, that half of my servants wrought in the work, and half of them held the spears, the shields, and the bows, and the coats of mail; and the rulers were behind <i>[f]</i>all the house of Judah. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-16",
+            "footnotes": [
+                {
+                    "f": "Or, <i>all the house of Judah that builded the wall. And they that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004017,
+            "text": "They that builded the wall and they that bare burdens laded themselves; every one with one of his hands wrought in the work, and with the other held his weapon; ",
+            "version": "ASV",
+            "clsstr": "Neh-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004018,
+            "text": "and the builders, every one had his sword girded by his side, and so builded. And he that sounded the trumpet was by me. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004019,
+            "text": "And I said unto the nobles, and to the <i>[g]</i>rulers and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another: ",
+            "version": "ASV",
+            "clsstr": "Neh-4-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>deputies</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004020,
+            "text": "in what place soever ye hear the sound of the trumpet, resort ye thither unto us; our God will fight for us.",
+            "version": "ASV",
+            "clsstr": "Neh-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004021,
+            "text": "\u00b6 So we wrought in the work: and half of them held the spears from the rising of the morning till the stars appeared. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004022,
+            "text": "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and may labor in the day. ",
+            "version": "ASV",
+            "clsstr": "Neh-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16004023,
+            "text": "So neither I, nor my brethren, nor my servants, nor the men of the guard that followed me, none of us put off our clothes, <i>[h]</i>every one  his weapon  the water.",
+            "version": "ASV",
+            "clsstr": "Neh-4-23",
+            "footnotes": [
+                {
+                    "h": "The text is obscure."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Nehemiah",
+    "chapters": 4
+}

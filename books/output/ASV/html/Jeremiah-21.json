@@ -1,0 +1,142 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24021001,
+            "text": "\u00b6 The word which came unto Jeremiah from Jehovah, when king Zedekiah sent unto him Pashhur the son of Malchijah, and Zephaniah the son of Maaseiah, the priest, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-21-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021002,
+            "text": "Inquire, I pray thee, of Jehovah for us; for Nebuchadrezzar king of Babylon maketh war against us: peradventure Jehovah will deal with us according to all his wondrous works, that he may go up from us.",
+            "version": "ASV",
+            "clsstr": "Jer-21-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021003,
+            "text": "\u00b6 Then said Jeremiah unto them, Thus shall ye say to Zedekiah: ",
+            "version": "ASV",
+            "clsstr": "Jer-21-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021004,
+            "text": "Thus saith Jehovah, the God of Israel, Behold, I will turn back the weapons of war that are in your hands, wherewith ye fight against the king of Babylon, and against the Chaldeans that besiege you, without the walls; and I will gather them into the midst of this city. ",
+            "version": "ASV",
+            "clsstr": "Jer-21-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021005,
+            "text": "And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in wrath, and in great indignation. ",
+            "version": "ASV",
+            "clsstr": "Jer-21-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021006,
+            "text": "And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence. ",
+            "version": "ASV",
+            "clsstr": "Jer-21-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021007,
+            "text": "And afterward, saith Jehovah, I will deliver Zedekiah king of Judah, and his servants, and the people, even such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.",
+            "version": "ASV",
+            "clsstr": "Jer-21-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021008,
+            "text": "\u00b6 And unto this people thou shalt say, Thus saith Jehovah: Behold, I set before you the way of life and the way of death. ",
+            "version": "ASV",
+            "clsstr": "Jer-21-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021009,
+            "text": "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence; but he that goeth out, and passeth over to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey. ",
+            "version": "ASV",
+            "clsstr": "Jer-21-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021010,
+            "text": "For I have set my face upon this city for evil, and not for good, saith Jehovah: it shall be given into the hand of the king of Babylon, and he shall burn it with fire.",
+            "version": "ASV",
+            "clsstr": "Jer-21-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021011,
+            "text": "\u00b6 And touching the house of the king of Judah, hear ye the word of Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Jer-21-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021012,
+            "text": "O house of David, thus saith Jehovah, Execute justice in the morning, and deliver him that is robbed out of the hand of the oppressor, lest my wrath go forth like fire, and burn so that none can quench it, because of the evil of <i>[a]</i>your doings. ",
+            "version": "ASV",
+            "clsstr": "Jer-21-12",
+            "footnotes": [
+                {
+                    "a": "Another reading is, <i>their</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021013,
+            "text": "Behold, I am against thee, O <i>[b]</i>inhabitant of the valley, <i>[c]</i> of the rock of the plain, saith Jehovah; you that say, Who shall come down against us? or who shall enter into our habitations? ",
+            "version": "ASV",
+            "clsstr": "Jer-21-13",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>inhabitress</i>."
+                },
+                {
+                    "c": "Or, and <i>rock</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24021014,
+            "text": "And I will punish you according to the fruit of your doings, saith Jehovah; and I will kindle a fire in her forest, and it shall devour all that is round about her.",
+            "version": "ASV",
+            "clsstr": "Jer-21-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 21
+}

@@ -1,0 +1,59 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19125001,
+            "text": "<b>Jehovah round about his people.</b>\n\u00b6 A Song of Ascents.\u00b6     They that trust in Jehovah\n    Are as mount Zion, which cannot be moved, but abideth for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-125-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19125002,
+            "text": "    As the mountains are round about Jerusalem,\n    So Jehovah is round about his people\n    From this time forth and for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-125-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19125003,
+            "text": "    For the sceptre of wickedness shall not rest upon the lot of the righteous;\n    That the righteous put not forth their hands unto iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-125-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19125004,
+            "text": "    Do good, O Jehovah, unto those that are good,\n    And to them that are upright in their hearts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-125-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19125005,
+            "text": "    But as for such as turn aside unto their crooked ways,\n    Jehovah will lead them forth with the workers of iniquity.\n    Peace be upon Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-125-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 125
+}

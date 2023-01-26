@@ -1,0 +1,307 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19109001,
+            "text": "<b>Vengeance invoked upon adversaries.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6     Hold not thy peace, O God of my praise;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109002,
+            "text": "  For the mouth of the wicked and the mouth of deceit have they opened against me:\n  They have spoken <i>[a]</i>unto me with a lying tongue.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109003,
+            "text": "    They have compassed me about also with words of hatred,\n    And fought against me without a cause.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109004,
+            "text": "    For my love they are my adversaries:\n    But I  prayer.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109005,
+            "text": "  And they have <i>[b]</i>rewarded me evil for good,\n    And hatred for my love.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>laid upon me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109006,
+            "text": "  Set thou a wicked man over him;\n  And let <i>[c]</i>an adversary stand at his right hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Satan</i>. Or, <i>an accuser</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109007,
+            "text": "  When he is judged, let him come forth guilty;\n  And let his prayer <i>[d]</i>be turned into sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>become</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109008,
+            "text": "    Let his days be few;\n     let another take his office.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109009,
+            "text": "    Let his children be fatherless,\n    And his wife a widow.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109010,
+            "text": "  Let his children be vagabonds, and beg;\n  And let them seek  <i>[e]</i>out of their desolate places.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>far from</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109011,
+            "text": "  Let the extortioner <i>[f]</i>catch all that he hath;\n    And let strangers make spoil of his labor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-11",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>snare</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109012,
+            "text": "  Let there be none to <i>[g]</i>extend kindness unto him;\n    Neither let there be any to have pity on his fatherless children.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-12",
+            "footnotes": [
+                {
+                    "g": "Or, <i>continue</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109013,
+            "text": "    Let his posterity be cut off;\n    In the generation following let their name be blotted out.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109014,
+            "text": "    Let the iniquity of his fathers be remembered with Jehovah;\n    And let not the sin of his mother be blotted out.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109015,
+            "text": "    Let them be before Jehovah continually,\n    That he may cut off the memory of them from the earth;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109016,
+            "text": "    Because he remembered not to show kindness,\n    But persecuted the poor and needy man,\n    And the broken in heart, to slay .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109017,
+            "text": "    Yea, he loved cursing, and it came unto him;\n    And he delighted not in blessing, and it was far from him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109018,
+            "text": "    He clothed himself also with cursing as with his garment,\n    And it came into his inward parts like water,\n    And like oil into his bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109019,
+            "text": "    Let it be unto him as the raiment wherewith he covereth himself,\n    And for the girdle wherewith he is girded continually.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109020,
+            "text": "    This is the reward of mine adversaries from Jehovah,\n    And of them that speak evil against my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109021,
+            "text": "    But deal thou with me, O Jehovah the Lord, for thy name\u2019s sake:\n    Because thy lovingkindness is good, deliver thou me;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109022,
+            "text": "    For I am poor and needy,\n    And my heart is wounded within me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109023,
+            "text": "  I am gone like the shadow when it <i>[h]</i>declineth:\n    I am tossed up and down as the locust.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-23",
+            "footnotes": [
+                {
+                    "h": "Or, <i>is stretched out</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109024,
+            "text": "  My knees <i>[i]</i>are weak through fasting;\n    And my flesh faileth of fatness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-24",
+            "footnotes": [
+                {
+                    "i": "Or, <i>totter</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109025,
+            "text": "    I am become also a reproach unto them:\n    When they see me, they shake their head.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109026,
+            "text": "    Help me, O Jehovah my God;\n    Oh save me according to thy lovingkindness:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109027,
+            "text": "    That they may know that this is thy hand;\n     thou, Jehovah, hast done it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109028,
+            "text": "    Let them curse, but bless thou:\n    When they arise, they shall be put to shame,\n    But thy servant shall rejoice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109029,
+            "text": "   <i>[j]</i>Let mine adversaries be clothed with dishonor,\n    And let them cover themselves with their own shame as with a robe.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-29",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Mine adversaries shall be clothed\u00a0.\u00a0.\u00a0. And they shall cover etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109030,
+            "text": "    I will give great thanks unto Jehovah with my mouth;\n    Yea, I will praise him among the multitude.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19109031,
+            "text": "    For he will stand at the right hand of the needy,\n    To save him from them that judge his soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-109-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 109
+}

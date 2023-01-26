@@ -1,0 +1,386 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44004001,
+            "text": "\u00b6 And as they spake unto the people, <i>[a]</i>the priests and the captain of the temple and the Sadducees came upon them, ",
+            "version": "ASV",
+            "clsstr": "Acts-4-1",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities read <i>the chief priests</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004002,
+            "text": "being sore troubled because they taught the people, and proclaimed in Jesus the resurrection from the dead. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004003,
+            "text": "And they laid hands on them, and put them in ward unto the morrow: for it was now eventide. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004004,
+            "text": "But many of them that heard the word believed; and the number of the men came to be about five thousand.",
+            "version": "ASV",
+            "clsstr": "Acts-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004005,
+            "text": "\u00b6 And it came to pass on the morrow, that their rulers and elders and scribes were gathered together in Jerusalem; ",
+            "version": "ASV",
+            "clsstr": "Acts-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004006,
+            "text": "and Annas the high priest , and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004007,
+            "text": "And when they had set them in the midst, they inquired, By what power, or in what name, have ye done this? ",
+            "version": "ASV",
+            "clsstr": "Acts-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004008,
+            "text": "Then Peter, filled with the Holy Spirit, said unto them, Ye rulers of the people, and elders, ",
+            "version": "ASV",
+            "clsstr": "Acts-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004009,
+            "text": "if we this day are examined concerning a good deed done to an impotent man, <i>[b]</i>by what means this man is made whole; ",
+            "version": "ASV",
+            "clsstr": "Acts-4-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in whom</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004010,
+            "text": "be it known unto you all, and to all the people of Israel, that in the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, in <i>[c]</i>him doth this man stand here before you whole. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>this</i> name"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004011,
+            "text": "He is <i>[d]</i>the stone which was set at nought of you the builders, which was made the head of the corner. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-11",
+            "footnotes": [
+                {
+                    "d": "[[Ps. 118:22]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004012,
+            "text": "And in none other is there salvation: for neither is there any other name under heaven, that is given among men, wherein we must be saved.",
+            "version": "ASV",
+            "clsstr": "Acts-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004013,
+            "text": "\u00b6 Now when they beheld the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004014,
+            "text": "And seeing the man that was healed standing with them, they could say nothing against it. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004015,
+            "text": "But when they had commanded them to go aside out of the council, they conferred among themselves, ",
+            "version": "ASV",
+            "clsstr": "Acts-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004016,
+            "text": "saying, What shall we do to these men? for that indeed a notable <i>[e]</i>miracle hath been wrought through them, is manifest to all that dwell in Jerusalem; and we cannot deny it. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-16",
+            "footnotes": [
+                {
+                    "e": "Greek <i>sign</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004017,
+            "text": "But that it spread no further among the people, let us threaten them, that they speak henceforth to no man in this name. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004018,
+            "text": "And they called them, and charged them not to speak at all nor teach in the name of Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004019,
+            "text": "But Peter and John answered and said unto them, Whether it is right in the sight of God to hearken unto you rather than unto God, judge ye: ",
+            "version": "ASV",
+            "clsstr": "Acts-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004020,
+            "text": "for we cannot but speak the things which we saw and heard. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004021,
+            "text": "And they, when they had further threatened them, let them go, finding nothing how they might punish them, because of the people; for all men glorified God for that which was done. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004022,
+            "text": "For the man was more than forty years old, on whom this <i>[f]</i>miracle of healing was wrought.",
+            "version": "ASV",
+            "clsstr": "Acts-4-22",
+            "footnotes": [
+                {
+                    "f": "Greek <i>sign</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004023,
+            "text": "\u00b6 And being let go, they came to their own company, and reported all that the chief priests and the elders had said unto them. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004024,
+            "text": "And they, when they heard it, lifted up their voice to God with one accord, and said, O <i>[g]</i>Lord, <i>[h]</i>thou that didst make the heaven and the earth and the sea, and all that in them is: ",
+            "version": "ASV",
+            "clsstr": "Acts-4-24",
+            "footnotes": [
+                {
+                    "g": "Greek <i>Master</i>."
+                },
+                {
+                    "h": "Or, <i>thou</i> art <i>he that did make</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004025,
+            "text": " <i>[i]</i>who by the Holy Spirit, the mouth of our father David thy servant, didst say,\u00b6 <i>[j]</i>Why did the <i>[k]</i>Gentiles rage,\n  And the peoples <i>[l]</i>imagine vain things?\n    ",
+            "version": "ASV",
+            "clsstr": "Acts-4-25",
+            "footnotes": [
+                {
+                    "i": "The Greek text in this clause is somewhat uncertain."
+                },
+                {
+                    "j": "[[Ps. 2:1]], [[2]]."
+                },
+                {
+                    "k": "Greek <i>nations</i>."
+                },
+                {
+                    "l": "Or, <i>meditate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004026,
+            "text": "  The kings of the earth set themselves in array,\n  And the rulers were gathered together,\n  Against the Lord, and against his <i>[m]</i>Anointed:\n    ",
+            "version": "ASV",
+            "clsstr": "Acts-4-26",
+            "footnotes": [
+                {
+                    "m": "Greek <i>Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004027,
+            "text": "\u00b6 for of a truth in this city against thy holy <i>[n]</i>Servant Jesus, whom thou didst anoint, both Herod and Pontius Pilate, with the <i>[o]</i>Gentiles and the peoples of Israel, were gathered together, ",
+            "version": "ASV",
+            "clsstr": "Acts-4-27",
+            "footnotes": [
+                {
+                    "n": "Or, <i>Child</i>. See marginal note on [[3:13]]."
+                },
+                {
+                    "o": "Greek <i>nations</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004028,
+            "text": "to do whatsoever thy hand and thy council foreordained to come to pass. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004029,
+            "text": "And now, Lord, look upon their threatenings: and grant unto thy <i>[p]</i>servants to speak thy word with all boldness, ",
+            "version": "ASV",
+            "clsstr": "Acts-4-29",
+            "footnotes": [
+                {
+                    "p": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004030,
+            "text": "while thou stretchest forth thy hand to heal; and that signs and wonders may be done through the name of thy holy <i>[q]</i>Servant Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-30",
+            "footnotes": [
+                {
+                    "q": "Or, <i>Child</i>. See marginal note on [[3:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004031,
+            "text": "And when they had prayed, the place was shaken wherein they were gathered together; and they were all filled with the Holy Spirit, and they spake the word of God with boldness.",
+            "version": "ASV",
+            "clsstr": "Acts-4-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004032,
+            "text": "\u00b6 And the multitude of them that believed were of one heart and soul: and not one  said that aught of the things which he possessed was his own; but they had all things common. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004033,
+            "text": "And with great power gave the apostles their witness of the resurrection of the Lord Jesus: <i>[r]</i>and great grace was upon them all. ",
+            "version": "ASV",
+            "clsstr": "Acts-4-33",
+            "footnotes": [
+                {
+                    "r": "Some ancient authorities add <i>Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004034,
+            "text": "For neither was there among them any that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold, ",
+            "version": "ASV",
+            "clsstr": "Acts-4-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004035,
+            "text": "and laid them at the apostles\u2019 feet: and distribution was made unto each, according as any one had need.",
+            "version": "ASV",
+            "clsstr": "Acts-4-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004036,
+            "text": "\u00b6 And Joseph, who by the apostles was surnamed Barnabas (which is, being interpreted, Son of <i>[s]</i>exhortation), a Levite, a man of Cyprus by race, ",
+            "version": "ASV",
+            "clsstr": "Acts-4-36",
+            "footnotes": [
+                {
+                    "s": "Or, <i>consolation</i>. See [[Lk. 2:25]]; [[9:31]]; [[15:31]]; [[2 Cor. 1:3\u20137]] in the Greek."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44004037,
+            "text": "having a field, sold it, and brought the money and laid it at the apostles\u2019 feet.",
+            "version": "ASV",
+            "clsstr": "Acts-4-37",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 4
+}

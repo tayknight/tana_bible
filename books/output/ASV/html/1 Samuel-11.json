@@ -1,0 +1,147 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9011001,
+            "text": "\u00b6 Then Nahash the Ammonite came up, and encamped against Jabesh-gilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011002,
+            "text": "And Nahash the Ammonite said unto them, On this condition will I make it with you, that all your right eyes be put out; and I will lay it for a reproach upon all Israel. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011003,
+            "text": "And the elders of Jabesh said unto him, Give us seven days\u2019 respite, that we may send messengers unto all the borders of Israel; and then, if there be none to save us, we will come out to thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011004,
+            "text": "Then came the messengers to Gibeah of Saul, and spake these words in the ears of the people: and all the people lifted up their voice, and wept. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011005,
+            "text": "And, behold, Saul came following the oxen out of the field; and Saul said, What aileth the people that they weep? And they told him the words of the men of Jabesh.",
+            "version": "ASV",
+            "clsstr": "1Sam-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011006,
+            "text": "\u00b6 And the Spirit of God came mightily upon Saul when he heard those words, and his anger was kindled greatly. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011007,
+            "text": "And he took a yoke of oxen, and cut them in pieces, and sent them throughout all the borders of Israel by the hand of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And <i>[a]</i>the dread of Jehovah fell on the people, and they came out as one man. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-7",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a terror from Jehovah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011008,
+            "text": "And he numbered them in Bezek; and the children of Israel were three hundred thousand, and the men of Judah thirty thousand. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011009,
+            "text": "And they said unto the messengers that came, Thus shall ye say unto the men of Jabesh-gilead, To-morrow, by the time the sun is hot, ye shall have deliverance. And the messengers came and told the men of Jabesh; and they were glad. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011010,
+            "text": "Therefore the men of Jabesh said, To-morrow we will come out unto you, and ye shall do with us all that seemeth good unto you. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011011,
+            "text": "And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the camp in the morning watch, and smote the Ammonites until the heat of the day: and it came to pass, that they that remained were scattered, so that not two of them were left together.",
+            "version": "ASV",
+            "clsstr": "1Sam-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011012,
+            "text": "\u00b6 And the people said unto Samuel, Who is he that said, Shall Saul reign over us? bring the men, that we may put them to death. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011013,
+            "text": "And Saul said, There shall not a man be put to death this day; for to-day Jehovah hath wrought <i>[b]</i>deliverance in Israel.",
+            "version": "ASV",
+            "clsstr": "1Sam-11-13",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011014,
+            "text": "\u00b6 Then said Samuel to the people, Come, and let us go to Gilgal, and renew the kingdom there. ",
+            "version": "ASV",
+            "clsstr": "1Sam-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9011015,
+            "text": "And all the people went to Gilgal; and there they made Saul king before Jehovah in Gilgal; and there they offered sacrifices of peace-offerings before Jehovah; and there Saul and all the men of Israel rejoiced greatly.",
+            "version": "ASV",
+            "clsstr": "1Sam-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 11
+}

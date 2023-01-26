@@ -1,0 +1,272 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40004001,
+            "text": "\u00b6 Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004002,
+            "text": "And when he had fasted forty days and forty nights, he afterward hungered. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004003,
+            "text": "And the tempter came and said unto him, If thou art the Son of God, command that these stones become <i>[a]</i>bread. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-3",
+            "footnotes": [
+                {
+                    "a": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004004,
+            "text": "But he answered and said, It is written, <i>[b]</i>Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-4",
+            "footnotes": [
+                {
+                    "b": "[[Dt. 8:3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004005,
+            "text": "Then the devil taketh him into the holy city; and he set him on the <i>[c]</i>pinnacle of the temple, ",
+            "version": "ASV",
+            "clsstr": "Matt-4-5",
+            "footnotes": [
+                {
+                    "c": "Greek <i>wing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004006,
+            "text": "and saith unto him, If thou art the Son of God, cast thyself down: for it is written,\u00b6   <i>[d]</i>He shall give his angels charge concerning thee:\n    \u00b6 and,\u00b6 On their hands they shall bear thee up,\n    Lest haply thou dash thy foot against a stone.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-4-6",
+            "footnotes": [
+                {
+                    "d": "[[Ps. 91:11]], [[12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004007,
+            "text": "\u00b6 Jesus said unto him, Again it is written, <i>[e]</i>Thou shalt not make trial of the Lord thy God. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-7",
+            "footnotes": [
+                {
+                    "e": "[[Dt. 6:16]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004008,
+            "text": "Again, the devil taketh him unto an exceeding high mountain, and showeth him all the kingdoms of the world, and the glory of them; ",
+            "version": "ASV",
+            "clsstr": "Matt-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004009,
+            "text": "and he said unto him, All these things will I give thee, if thou wilt fall down and <i>[f]</i>worship me. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-9",
+            "footnotes": [
+                {
+                    "f": "See marginal note on [[2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004010,
+            "text": "Then saith Jesus unto him, Get thee hence, Satan: for it is written, <i>[g]</i>Thou shalt worship the Lord thy God, and him only shalt thou serve. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-10",
+            "footnotes": [
+                {
+                    "g": "[[Dt. 6:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004011,
+            "text": "Then the devil leaveth him; and behold, angels came and ministered unto him.",
+            "version": "ASV",
+            "clsstr": "Matt-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004012,
+            "text": "\u00b6 Now when he heard that John was delivered up, he withdrew into Galilee; ",
+            "version": "ASV",
+            "clsstr": "Matt-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004013,
+            "text": "and leaving Nazareth, he came and dwelt in Capernaum, which is by the sea, in the borders of Zebulun and Naphtali: ",
+            "version": "ASV",
+            "clsstr": "Matt-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004014,
+            "text": "that it might be fulfilled which was spoken through Isaiah the prophet, saying,",
+            "version": "ASV",
+            "clsstr": "Matt-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004015,
+            "text": "\u00b6 <i>[h]</i>The land of Zebulun and the land of Naphtali,\n  <i>[i]</i>Toward the sea, beyond the Jordan,\n  Galilee of the <i>[j]</i>Gentiles,\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-4-15",
+            "footnotes": [
+                {
+                    "h": "[[Isa. 9:1]], [[2]]."
+                },
+                {
+                    "i": "Greek <i>The way of the sea</i>."
+                },
+                {
+                    "j": "Greek <i>nations</i>: and so elsewhere."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004016,
+            "text": "    The people that sat in darkness\n    Saw a great light,\n    And to them that sat in the region and shadow of death,\n    To them did light spring up.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004017,
+            "text": "\u00b6 From that time began Jesus to preach, and to say, Repent ye; for the kingdom of heaven is at hand.",
+            "version": "ASV",
+            "clsstr": "Matt-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004018,
+            "text": "\u00b6 And walking by the sea of Galilee, he saw two brethren, Simon who is called Peter, and Andrew his brother, casting a net into the sea; for they were fishers. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004019,
+            "text": "And he saith unto them, Come ye after me, and I will make you fishers of men. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004020,
+            "text": "And they straightway left the nets, and followed him. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004021,
+            "text": "And going on from thence he saw two other brethren, <i>[k]</i>James the  of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets; and he called them. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-21",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004022,
+            "text": "And they straightway left the boat and their father, and followed him.",
+            "version": "ASV",
+            "clsstr": "Matt-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004023,
+            "text": "\u00b6 And <i>[l]</i>Jesus went about in all Galilee, teaching in their synagogues, and preaching the <i>[m]</i>gospel of the kingdom, and healing all manner of disease and all manner of sickness among the people. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-23",
+            "footnotes": [
+                {
+                    "l": "Some ancient authorities read <i>he</i>."
+                },
+                {
+                    "m": "Or, <i>good tidings</i>: and so elsewhere."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004024,
+            "text": "And the report of him went forth into all Syria: and they brought unto him all that were sick, holden with divers diseases and torments, <i>[n]</i>possessed with demons, and epileptic, and palsied; and he healed them. ",
+            "version": "ASV",
+            "clsstr": "Matt-4-24",
+            "footnotes": [
+                {
+                    "n": "Or, <i>demoniacs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40004025,
+            "text": "And there followed him great multitudes from Galilee and Decapolis and Jerusalem and Judaea and  beyond the Jordan.",
+            "version": "ASV",
+            "clsstr": "Matt-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 4
+}

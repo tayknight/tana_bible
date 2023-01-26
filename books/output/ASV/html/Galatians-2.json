@@ -1,0 +1,231 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 48,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 18,
+            "end_book": null
+        }
+    ],
+    "book": 48,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 48002001,
+            "text": "\u00b6 Then after the space of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002002,
+            "text": "And I went up by revelation; and I laid before them the <i>[a]</i>gospel which I preach among the Gentiles but privately before them who <i>[b]</i>were of repute, lest by any means I should be running, or had run, in vain. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-2",
+            "footnotes": [
+                {
+                    "a": "See marginal note on [[1:6]]."
+                },
+                {
+                    "b": "Or, <i>are</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002003,
+            "text": "But not even Titus who was with me, being a Greek, was compelled to be circumcised: ",
+            "version": "ASV",
+            "clsstr": "Gal-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002004,
+            "text": " <i>[c]</i>and that because of the false brethren privily brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage: ",
+            "version": "ASV",
+            "clsstr": "Gal-2-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>but</i> it was <i>because of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002005,
+            "text": "to whom we gave place in the way of subjection, no, not for an hour; that the truth of the <i>[d]</i>gospel might continue with you. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-5",
+            "footnotes": [
+                {
+                    "d": "See marginal note on [[1:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002006,
+            "text": "But from those who <i>[e]</i>were reputed to be somewhat <i>[f]</i>(whatsoever they were, it maketh no matter to me: God accepteth not man\u2019s person)\u2014they, I say, who were of repute imparted nothing to me: ",
+            "version": "ASV",
+            "clsstr": "Gal-2-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>are</i>"
+                },
+                {
+                    "f": "Or, <i>what they once were</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002007,
+            "text": "but contrariwise, when they saw that I had been intrusted with the <i>[g]</i>gospel of the uncircumcision, even as Peter with  of the circumcision ",
+            "version": "ASV",
+            "clsstr": "Gal-2-7",
+            "footnotes": [
+                {
+                    "g": "See marginal note on [[1:6]]."
+                },
+                {
+                    "h": "See marginal note on [[1:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002008,
+            "text": "(for he that wrought for Peter unto the apostleship of the circumcision wrought for me also unto the Gentiles); ",
+            "version": "ASV",
+            "clsstr": "Gal-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002009,
+            "text": "and when they perceived the grace that was given unto me, <i>[i]</i>James and Cephas and John, they who <i>[j]</i>were reputed to be pillars, gave to me and Barnabas the right hands of fellowship, that we should go unto the Gentiles, and they unto the circumcision; ",
+            "version": "ASV",
+            "clsstr": "Gal-2-9",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Jacob</i>"
+                },
+                {
+                    "j": "Or, <i>are</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002010,
+            "text": "only  that we should remember the poor; which very thing I was also zealous to do.",
+            "version": "ASV",
+            "clsstr": "Gal-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002011,
+            "text": "\u00b6 But when Cephas came to Antioch, I resisted him to the face, because he stood condemned. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002012,
+            "text": "For before that certain came from James, he ate with the Gentiles; but when they came, he drew back and separated himself, fearing them that were of the circumcision. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002013,
+            "text": "And the rest of the Jews dissembled likewise with him; insomuch that even Barnabas was carried away with their dissimulation. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002014,
+            "text": "But when I saw that they walked not uprightly according to the truth of the <i>[k]</i>gospel, I said unto Cephas before  all, If thou, being a Jew, livest as do the Gentiles, and not as do the Jews, how compellest thou the Gentiles to live as do the Jews? ",
+            "version": "ASV",
+            "clsstr": "Gal-2-14",
+            "footnotes": [
+                {
+                    "k": "See marginal note on [[1:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002015,
+            "text": "We being Jews by nature, and not sinners of the Gentiles, ",
+            "version": "ASV",
+            "clsstr": "Gal-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002016,
+            "text": "yet knowing that a man is not <i>[l]</i>justified by the works of the law but through faith in Jesus Christ, even we believed on Christ Jesus, that we might be justified by faith in Christ, and not by the works of the law: because by the works of the law shall no flesh be justified. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-16",
+            "footnotes": [
+                {
+                    "l": "Or, <i>accounted righteous</i>: and so elsewhere. Compare [[Rom. 2:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002017,
+            "text": "But if, while we sought to be justified in Christ, we ourselves also were found sinners, is Christ a minister of sin? God forbid. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002018,
+            "text": "For if I build up again those things which I destroyed, I prove myself a transgressor. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002019,
+            "text": "For I through the law died unto the law, that I might live unto God. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002020,
+            "text": "I have been crucified with Christ; and it is no longer I that live, but Christ liveth in me: and that  which I now live in the flesh I live in faith,  which is in the Son of God, who loved me, and gave himself up for me. ",
+            "version": "ASV",
+            "clsstr": "Gal-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48002021,
+            "text": "I do not make void the grace of God: for if righteousness is through the law, then Christ died for nought.",
+            "version": "ASV",
+            "clsstr": "Gal-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Galatians",
+    "chapters": 2
+}

@@ -1,0 +1,291 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2004001,
+            "text": "\u00b6 And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice; for they will say, Jehovah hath not appeared unto thee. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004002,
+            "text": "And Jehovah said unto him, What is that in thy hand? And he said, A rod. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004003,
+            "text": "And he said, Cast it on the ground. And he cast it on the ground, and it became a <i>[a]</i>serpent; and Moses fled from before it. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>nahash</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004004,
+            "text": "And Jehovah said unto Moses, Put forth thy hand, and take it by the tail (and he put forth his hand, and laid hold of it, and it became a rod in his hand); ",
+            "version": "ASV",
+            "clsstr": "Exod-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004005,
+            "text": "that they may believe that Jehovah, the God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004006,
+            "text": "And Jehovah said furthermore unto him, Put now thy hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous, as  snow. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004007,
+            "text": "And he said, Put thy hand into thy bosom again. (And he put his hand into his bosom again; and when he took it out of his bosom, behold, it was turned again as his  flesh.) ",
+            "version": "ASV",
+            "clsstr": "Exod-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004008,
+            "text": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004009,
+            "text": "And it shall come to pass, if they will not believe even these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land.",
+            "version": "ASV",
+            "clsstr": "Exod-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004010,
+            "text": "\u00b6 And Moses said unto Jehovah, Oh, Lord, I am not <i>[b]</i>eloquent, neither heretofore, nor since thou hast spoken unto thy servant; for I am slow of speech, and of a slow tongue. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-10",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>a man of words</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004011,
+            "text": "And Jehovah said unto him, Who hath made man\u2019s mouth? Or who maketh  dumb, or deaf, or seeing, or blind? is it not I, Jehovah? ",
+            "version": "ASV",
+            "clsstr": "Exod-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004012,
+            "text": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt speak. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004013,
+            "text": "And he said, Oh, Lord, send, I pray thee, by the hand of him whom thou wilt send. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004014,
+            "text": "And the anger of Jehovah was kindled against Moses, and he said, Is there not Aaron thy brother the Levite? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004015,
+            "text": "And thou shalt speak unto him, and put the words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004016,
+            "text": "And he shall be thy spokesman unto the people; and it shall come to pass, that he shall be to thee a mouth, and thou shalt be to him as God. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004017,
+            "text": "And thou shalt take in thy hand this rod, wherewith thou shalt do the signs. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004018,
+            "text": "And Moses went and returned to <i>[c]</i>Jethro his father-in-law, and said unto him, Let me go, I pray thee, and return unto my brethren that are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-18",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Jether</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004019,
+            "text": "And Jehovah said unto Moses in Midian, Go, return into Egypt; for all the men are dead that sought thy life. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004020,
+            "text": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004021,
+            "text": "And Jehovah said unto Moses, When thou goest back into Egypt, see that thou do before Pharaoh all the wonders which I have put in thy hand: but I will <i>[d]</i>harden his heart, and he will not let the people go. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-21",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>make strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004022,
+            "text": "And thou shalt say unto Pharaoh, Thus saith Jehovah, Israel is my son, my first-born: ",
+            "version": "ASV",
+            "clsstr": "Exod-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004023,
+            "text": "and I have said unto thee, Let my son go, that he may serve me; and thou hast refused to let him go: behold, I will slay thy son, thy first-born. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004024,
+            "text": "And it came to pass on the way at the lodging-place, that Jehovah met him, and sought to kill him. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004025,
+            "text": "Then Zipporah took a flint, and cut off the foreskin of her son, and <i>[e]</i>cast it at his feet; and she said, Surely a bridegroom of blood art thou to me. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-25",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>made it touch</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004026,
+            "text": "So he let him alone. Then she said, <i>[f]</i>A bridegroom of blood , because of the circumcision.",
+            "version": "ASV",
+            "clsstr": "Exod-4-26",
+            "footnotes": [
+                {
+                    "f": "Or, <i>A bridegroom of blood in regard of the circumcision</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004027,
+            "text": "\u00b6 And Jehovah said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mountain of God, and kissed him. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004028,
+            "text": "And Moses told Aaron all the words of Jehovah wherewith he had sent him, and all the signs wherewith he had charged him. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004029,
+            "text": "And Moses and Aaron went and gathered together all the elders of the children of Israel: ",
+            "version": "ASV",
+            "clsstr": "Exod-4-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004030,
+            "text": "and Aaron spake all the words which Jehovah had spoken unto Moses, and did the signs in the sight of the people. ",
+            "version": "ASV",
+            "clsstr": "Exod-4-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2004031,
+            "text": "And the people believed: and when they heard that Jehovah had visited the children of Israel, and that he had seen their affliction, then they bowed their heads and worshipped.",
+            "version": "ASV",
+            "clsstr": "Exod-4-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 4
+}

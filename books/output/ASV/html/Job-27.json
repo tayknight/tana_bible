@@ -1,0 +1,226 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18027001,
+            "text": "\u00b6 And Job again took up his parable, and said,",
+            "version": "ASV",
+            "clsstr": "Job-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027002,
+            "text": "\u00b6   As God liveth, who hath taken away my right,\n  And the Almighty, who hath <i>[a]</i>vexed my soul\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>made my soul bitter</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027003,
+            "text": "   <i>[b]</i>(For my life is yet whole in me,\n    And the spirit of God is in my nostrils);\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>All the while my breath is in me\u00a0.\u00a0.\u00a0. nostrils; surely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027004,
+            "text": " Surely my lips <i>[c]</i>shall not speak unrighteousness,\n  Neither <i>[d]</i>shall my tongue utter deceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>do</i>"
+                },
+                {
+                    "d": "Or, <i>doth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027005,
+            "text": "    Far be it from me that I should justify you:\n    Till I die I will not put away mine integrity from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027006,
+            "text": "  My righteousness I hold fast, and will not let it go:\n  My heart <i>[e]</i>shall not reproach  so long as I live.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>doth not reproach</i> me for <i>any of my days</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027007,
+            "text": "    Let mine enemy be as the wicked,\n    And let him that riseth up against me be as the unrighteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027008,
+            "text": "\u00b6   For what is the hope of the godless, <i>[f]</i>though he get him gain,\n    When God taketh away his soul?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-8",
+            "footnotes": [
+                {
+                    "f": "Or, <i>when God cutteth him off, When he taketh etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027009,
+            "text": "    Will God hear his cry,\n    When trouble cometh upon him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027010,
+            "text": "    Will he delight himself in the Almighty,\n    And call upon God at all times?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027011,
+            "text": "    I will teach you concerning the hand of God;\n    That which is with the Almighty will I not conceal.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027012,
+            "text": "    Behold, all ye yourselves have seen it;\n    Why then are ye become altogether vain?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027013,
+            "text": "\u00b6     This is the portion of a wicked man with God,\n    And the heritage of oppressors, which they receive from the Almighty:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027014,
+            "text": "    If his children be multiplied, it is for the sword;\n    And his offspring shall not be satisfied with bread.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027015,
+            "text": "    Those that remain of him shall be buried in death,\n    And his widows shall make no lamentation.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027016,
+            "text": "    Though he heap up silver as the dust,\n    And prepare raiment as the clay;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027017,
+            "text": "    He may prepare it, but the just shall put it on,\n    And the innocent shall divide the silver.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027018,
+            "text": "    He buildeth his house as the moth,\n    And as a booth which the keeper maketh.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027019,
+            "text": "    He lieth down rich, but he shall not be gathered ;\n    He openeth his eyes, and he is not.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027020,
+            "text": "    Terrors overtake him like waters;\n    A tempest stealeth him away in the night.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027021,
+            "text": "    The east wind carrieth him away, and he departeth;\n    And it sweepeth him out of his place.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027022,
+            "text": "    For  shall hurl at him, and not spare:\n    He would fain flee out of his hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18027023,
+            "text": "    Men shall clap their hands at him,\n    And shall hiss him out of his place.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 27
+}

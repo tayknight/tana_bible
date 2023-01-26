@@ -1,0 +1,155 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23058001,
+            "text": "\u00b6 Cry <i>[a]</i>aloud, spare not, lift up thy voice like a trumpet, and declare unto my people their transgression, and to the house of Jacob their sins. ",
+            "version": "ASV",
+            "clsstr": "Isa-58-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>with the throat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058002,
+            "text": "Yet they seek me daily, and delight to know my ways: as a nation that did righteousness, and forsook not the ordinance of their God, they ask of me righteous judgments; they delight to draw near unto God. ",
+            "version": "ASV",
+            "clsstr": "Isa-58-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058003,
+            "text": "Wherefore have we fasted, , and thou seest not? have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find pleasure, and <i>[b]</i>exact all your labors. ",
+            "version": "ASV",
+            "clsstr": "Isa-58-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>oppress all your laborers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058004,
+            "text": "Behold, ye fast for strife and contention, and to smite with the fist of wickedness: <i>[c]</i>ye fast not this day so as to make your voice to be heard on high. ",
+            "version": "ASV",
+            "clsstr": "Isa-58-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>ye shall not fast as</i> ye do <i>this day, to make etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058005,
+            "text": "Is such the fast that I have chosen? the day for a man to afflict his soul? Is it to bow down his head as a rush, and to spread sackcloth and ashes under him? wilt thou call this a fast, and an acceptable day to Jehovah? ",
+            "version": "ASV",
+            "clsstr": "Isa-58-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058006,
+            "text": "Is not this the fast that I have chosen: to loose the bonds of wickedness, to undo the bands of the yoke, and to let the oppressed go free, and that ye break every yoke? ",
+            "version": "ASV",
+            "clsstr": "Isa-58-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058007,
+            "text": "Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh? ",
+            "version": "ASV",
+            "clsstr": "Isa-58-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058008,
+            "text": "Then shall thy light break forth as the morning, and thy healing shall spring forth speedily; and thy righteousness shall go before thee; the glory of Jehovah shall be thy rearward. ",
+            "version": "ASV",
+            "clsstr": "Isa-58-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058009,
+            "text": "Then shalt thou call, and Jehovah will answer; thou shalt cry, and he will say, Here I am.\u00b6 If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking wickedly; ",
+            "version": "ASV",
+            "clsstr": "Isa-58-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058010,
+            "text": "and if thou <i>[d]</i>draw out thy soul to the hungry, and satisfy the afflicted soul: then shall thy light rise in darkness, and thine obscurity be as the noonday; ",
+            "version": "ASV",
+            "clsstr": "Isa-58-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>bestow on the hungry that which thy soul desireth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058011,
+            "text": "and Jehovah will guide thee continually, and satisfy thy soul in <i>[e]</i>dry places, and make strong thy bones; and thou shalt be like a watered garden, and like a spring of water, whose waters fail not. ",
+            "version": "ASV",
+            "clsstr": "Isa-58-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>drought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058012,
+            "text": "And they that shall be of thee shall build the old waste places; thou shalt raise up the foundations of many generations; and thou shalt be called The repairer of the breach, The restorer of paths to dwell in.",
+            "version": "ASV",
+            "clsstr": "Isa-58-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058013,
+            "text": "\u00b6 If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of Jehovah honorable; and shalt honor <i>[f]</i>it, not doing thine own ways, nor finding thine own pleasure, nor speaking  words: ",
+            "version": "ASV",
+            "clsstr": "Isa-58-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23058014,
+            "text": "then shalt thou delight thyself in Jehovah; and I will make thee to ride upon the high places of the earth; and I will feed thee with the heritage of Jacob thy father: for the mouth of Jehovah hath spoken it.",
+            "version": "ASV",
+            "clsstr": "Isa-58-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 58
+}

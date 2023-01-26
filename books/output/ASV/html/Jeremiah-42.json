@@ -1,0 +1,219 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24042001,
+            "text": "\u00b6 Then all the captains of the forces, and Johanan the son of Kareah, and <i>[a]</i>Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near, ",
+            "version": "ASV",
+            "clsstr": "Jer-42-1",
+            "footnotes": [
+                {
+                    "a": "In [[43:2]], <i>Azariah</i>. See [[2 Kin. 25:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042002,
+            "text": "and said unto Jeremiah the prophet, Let, we pray thee, our supplication <i>[b]</i>be presented before thee, and pray for us unto Jehovah thy God, even for all this remnant (for we are left but a few of many, as thine eyes do behold us), ",
+            "version": "ASV",
+            "clsstr": "Jer-42-2",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>fall</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042003,
+            "text": "that Jehovah thy God may show us the way wherein we should walk, and the thing that we should do. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042004,
+            "text": "Then Jeremiah the prophet said unto them, I have heard you; behold, I will pray unto Jehovah your God according to your words; and it shall come to pass that whatsoever thing Jehovah shall answer you, I will declare it unto you; I will keep nothing back from you. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042005,
+            "text": "Then they said to Jeremiah, Jehovah be a true and faithful witness <i>[c]</i>amongst us, if we do not according to all the word wherewith Jehovah thy God shall send thee to us. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042006,
+            "text": "Whether it be good, or whether it be evil, we will obey the voice of Jehovah our God, to whom we send thee; that it may be well with us, when we obey the voice of Jehovah our God.",
+            "version": "ASV",
+            "clsstr": "Jer-42-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042007,
+            "text": "\u00b6 And it came to pass after ten days, that the word of Jehovah came unto Jeremiah. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042008,
+            "text": "Then called he Johanan the son of Kareah, and all the captains of the forces that were with him, and all the people from the least even to the greatest, ",
+            "version": "ASV",
+            "clsstr": "Jer-42-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042009,
+            "text": "and said unto them, Thus saith Jehovah, the God of Israel, unto whom ye sent me to <i>[d]</i>present your supplication before him: ",
+            "version": "ASV",
+            "clsstr": "Jer-42-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>lay</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042010,
+            "text": "If ye will still abide in this land, then will I build you, and not pull you down, and I will plant you, and not pluck you up; for I repent me of the evil that I have done unto you. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042011,
+            "text": "Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith Jehovah: for I am with you to save you, and to deliver you from his hand. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042012,
+            "text": "And I will grant you mercy, that he may have mercy upon you, and cause you to return to your own land. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042013,
+            "text": "But if ye say, We will not dwell in this land; so that ye obey not the voice of Jehovah your God, ",
+            "version": "ASV",
+            "clsstr": "Jer-42-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042014,
+            "text": "saying, No; but we will go into the land of Egypt, where we shall see no war, nor hear the sound of the trumpet, nor have hunger of bread; and there will we dwell: ",
+            "version": "ASV",
+            "clsstr": "Jer-42-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042015,
+            "text": "now therefore hear ye the word of Jehovah, O remnant of Judah: Thus saith Jehovah of hosts, the God of Israel, If ye indeed set your faces to enter into Egypt, and go to sojourn there; ",
+            "version": "ASV",
+            "clsstr": "Jer-42-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042016,
+            "text": "then it shall come to pass, that the sword, which ye fear, shall overtake you there in the land of Egypt; and the famine, whereof ye are afraid, <i>[e]</i>shall follow hard after you there in Egypt; and there ye shall die. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-16",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>shall cleave after you</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042017,
+            "text": "So shall it be with all the men that set their faces to go into Egypt to sojourn there: they shall die by the sword, by the famine, and by the pestilence; and none of them shall remain or escape from the evil that I will bring upon them.",
+            "version": "ASV",
+            "clsstr": "Jer-42-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042018,
+            "text": "\u00b6 For thus saith Jehovah of hosts, the God of Israel: As mine anger and my wrath hath been poured forth upon the inhabitants of Jerusalem, so shall my wrath be poured forth upon you, when ye shall enter into Egypt; and ye shall be an execration, and an astonishment, and a curse, and a reproach; and ye shall see this place no more. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042019,
+            "text": "Jehovah hath spoken concerning you, O remnant of Judah, Go ye not into Egypt: know certainly that I have testified unto you this day. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042020,
+            "text": "For ye have dealt deceitfully <i>[f]</i>against your own souls; for ye sent me unto Jehovah your God, saying, Pray for us unto Jehovah our God; and according unto all that Jehovah our God shall say, so declare unto us, and we will do it. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-20",
+            "footnotes": [
+                {
+                    "f": "Or, <i>in your souls</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042021,
+            "text": "And I have this day declared it to you; but ye have not obeyed the voice of Jehovah your God in anything for which he hath sent me unto you. ",
+            "version": "ASV",
+            "clsstr": "Jer-42-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24042022,
+            "text": "Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go to sojourn there.",
+            "version": "ASV",
+            "clsstr": "Jer-42-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 42
+}

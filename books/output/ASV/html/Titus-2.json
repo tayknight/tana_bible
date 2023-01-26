@@ -1,0 +1,173 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 56,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 56,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 56002001,
+            "text": "\u00b6 But speak thou the things which befit the <i>[a]</i>sound <i>[b]</i>doctrine: ",
+            "version": "ASV",
+            "clsstr": "Titus-2-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>healthful</i>."
+                },
+                {
+                    "b": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002002,
+            "text": "that aged men be temperate, grave, sober-minded, <i>[c]</i>sound in faith, in love, in <i>[d]</i>patience: ",
+            "version": "ASV",
+            "clsstr": "Titus-2-2",
+            "footnotes": [
+                {
+                    "c": "Greek <i>healthy</i>."
+                },
+                {
+                    "d": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002003,
+            "text": "that aged women likewise be reverent in demeanor, not slanderers nor enslaved to much wine, teachers of that which is good; ",
+            "version": "ASV",
+            "clsstr": "Titus-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002004,
+            "text": "that they may train the young women to love their husbands, to love their children, ",
+            "version": "ASV",
+            "clsstr": "Titus-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002005,
+            "text": " sober-minded, chaste, workers at home, kind, being in subjection to their own husbands, that the word of God be not blasphemed: ",
+            "version": "ASV",
+            "clsstr": "Titus-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002006,
+            "text": "the younger men likewise exhort to be sober-minded: ",
+            "version": "ASV",
+            "clsstr": "Titus-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002007,
+            "text": "in all things showing thyself an ensample of good works; in thy doctrine  uncorruptness, gravity, ",
+            "version": "ASV",
+            "clsstr": "Titus-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002008,
+            "text": "sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of us. ",
+            "version": "ASV",
+            "clsstr": "Titus-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002009,
+            "text": " <i>[e]</i>servants to be in subjection to their own masters,  to be well-pleasing  in all things; not gainsaying; ",
+            "version": "ASV",
+            "clsstr": "Titus-2-9",
+            "footnotes": [
+                {
+                    "e": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002010,
+            "text": "not purloining, but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things. ",
+            "version": "ASV",
+            "clsstr": "Titus-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002011,
+            "text": "For the grace of God <i>[f]</i>hath appeared, bringing salvation to all men, ",
+            "version": "ASV",
+            "clsstr": "Titus-2-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>hath appeared to all men, bringing salvation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002012,
+            "text": "instructing us, to the intent that, denying ungodliness and worldly lusts, we should live soberly and righteously and godly in this present <i>[g]</i>world; ",
+            "version": "ASV",
+            "clsstr": "Titus-2-12",
+            "footnotes": [
+                {
+                    "g": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002013,
+            "text": "looking for the blessed hope and appearing of the glory <i>[h]</i>of the great God and our Saviour Jesus Christ; ",
+            "version": "ASV",
+            "clsstr": "Titus-2-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>of our great God and Saviour</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002014,
+            "text": "who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a people for his own possession, zealous of good works.",
+            "version": "ASV",
+            "clsstr": "Titus-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 56002015,
+            "text": "\u00b6 These things speak and exhort and reprove with all <i>[i]</i>authority. Let no man despise thee.",
+            "version": "ASV",
+            "clsstr": "Titus-2-15",
+            "footnotes": [
+                {
+                    "i": "Greek <i>commandment</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Titus",
+    "chapters": 2
+}

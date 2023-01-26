@@ -1,0 +1,177 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2017001,
+            "text": "\u00b6 And all the congregation of the children of Israel journeyed from the wilderness of Sin, by their <i>[a]</i>journeys, according to the commandment of Jehovah, and encamped in Rephidim: and there was no water for the people to drink. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stages</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017002,
+            "text": "Wherefore the people strove with Moses, and said, Give us water that we may drink. And Moses said unto them, Why strive ye with me? Wherefore do ye tempt Jehovah? ",
+            "version": "ASV",
+            "clsstr": "Exod-17-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017003,
+            "text": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore hast thou brought us up out of Egypt, to kill us and our children and our cattle with thirst? ",
+            "version": "ASV",
+            "clsstr": "Exod-17-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017004,
+            "text": "And Moses cried unto Jehovah, saying, What shall I do unto this people? they are almost ready to stone me. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017005,
+            "text": "And Jehovah said unto Moses, Pass on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thy hand, and go. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017006,
+            "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017007,
+            "text": "And he called the name of the place <i>[b]</i>Massah, and <i>[c]</i>Meribah, because of the striving of the children of Israel, and because they tempted Jehovah, saying, Is Jehovah among us, or not?",
+            "version": "ASV",
+            "clsstr": "Exod-17-7",
+            "footnotes": [
+                {
+                    "b": "That is, <i>Tempting</i>, or, <i>Proving</i>."
+                },
+                {
+                    "c": "That is, <i>Chiding</i>, or, <i>Strife</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017008,
+            "text": "\u00b6 Then came Amalek, and fought with Israel in Rephidim. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017009,
+            "text": "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to-morrow I will stand on the top of the hill with the rod of God in my hand. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017010,
+            "text": "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017011,
+            "text": "And it came to pass, when Moses held up his hand, that Israel prevailed; and when he let down his hand, Amalek prevailed. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017012,
+            "text": "But Moses\u2019 hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017013,
+            "text": "And Joshua <i>[d]</i>discomfited Amalek and his people with the edge of the sword. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-13",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>prostrated</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017014,
+            "text": "And Jehovah said unto Moses, Write this for a memorial in <i>[e]</i>a book, and rehearse it in the ears of Joshua: <i>[f]</i>that I will utterly blot out the remembrance of Amalek from under heaven. ",
+            "version": "ASV",
+            "clsstr": "Exod-17-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>the book</i>"
+                },
+                {
+                    "f": "Or, <i>for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017015,
+            "text": "And Moses built an altar, and called the name of it <i>[g]</i>Jehovah-nissi; ",
+            "version": "ASV",
+            "clsstr": "Exod-17-15",
+            "footnotes": [
+                {
+                    "g": "That is, <i>Jehovah is my banner</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2017016,
+            "text": "and he said, <i>[h]</i>Jehovah hath sworn: Jehovah will have war with Amalek from generation to generation.",
+            "version": "ASV",
+            "clsstr": "Exod-17-16",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Because there is a hand against the throne of Jehovah</i>. Hebrew <i>A hand</i> is lifted up <i>upon the throne of Jah</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 17
+}

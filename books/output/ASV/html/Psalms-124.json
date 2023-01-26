@@ -1,0 +1,83 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19124001,
+            "text": "<b>Praise for rescue from enemies.</b>\n\u00b6 A Song of Ascents; of David.\u00b6     If it had not been Jehovah who was on our side,\n    Let Israel now say,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19124002,
+            "text": "    If it had not been Jehovah who was on our side,\n    When men rose up against us;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19124003,
+            "text": "    Then they had swallowed us up alive,\n    When their wrath was kindled against us:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19124004,
+            "text": "    Then the waters had overwhelmed us,\n    The stream had gone over our soul;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19124005,
+            "text": "    Then the proud waters had gone over our soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19124006,
+            "text": "    Blessed be Jehovah,\n    Who hath not given us as a prey to their teeth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19124007,
+            "text": "    Our soul is escaped as a bird out of the snare of the fowlers:\n    The snare is broken, and we are escaped.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19124008,
+            "text": "    Our help is in the name of Jehovah,\n    Who made heaven and earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-124-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 124
+}

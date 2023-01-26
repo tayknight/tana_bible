@@ -1,0 +1,134 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19042001,
+            "text": "\u00b6 Book II\n<b>Thirsting for God in trouble and exile.</b>\n\u00b6 For the Chief Musician. Maschil of the sons of Korah.\u00b6     As the hart panteth after the water brooks,\n    So panteth my soul after thee, O God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042002,
+            "text": "    My soul thirsteth for God, for the living God:\n    When shall I come and appear before God?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042003,
+            "text": "  My tears have been my food day and night,\n  While they <i>[a]</i>continually say unto me, Where is thy God?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>all the day</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042004,
+            "text": " These things I remember, and pour out my soul <i>[b]</i>within me,\n  How I went with the throng, and <i>[c]</i>led them to the house of God,\n    With the voice of joy and praise, a multitude keeping holyday.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>upon</i>."
+                },
+                {
+                    "c": "Or, <i>went in procession with them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042005,
+            "text": "  Why art thou <i>[d]</i>cast down, O my soul?\n    And  art thou disquieted within me?\n    Hope thou in God; for I shall yet praise him\n     the help of his countenance.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-5",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>bowed down</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042006,
+            "text": "\u00b6   O my God, my soul is cast down within me:\n  Therefore do I remember thee from the land of the Jordan,\n  And the Hermons, from <i>[e]</i>the hill Mizar.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>the little mountain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042007,
+            "text": "    Deep calleth unto deep at the noise of thy waterfalls:\n    All thy waves and thy billows are gone over me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042008,
+            "text": "     Jehovah will command his lovingkindness in the day-time;\n    And in the night his song shall be with me,\n     a prayer unto the God of my life.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042009,
+            "text": "  I will say unto God my rock, Why hast thou forgotten me?\n  Why go I mourning <i>[f]</i>because of the oppression of the enemy?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-9",
+            "footnotes": [
+                {
+                    "f": "Or, <i>while the enemy oppresseth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042010,
+            "text": "  As with <i>[g]</i>a sword in my bones, mine adversaries reproach me,\n    While they continually say unto me, Where is thy God?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>crushing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19042011,
+            "text": "    Why art thou cast down, O my soul?\n    And why art thou disquieted within me?\n    Hope thou in God; for I shall yet praise him,\n     the help of my countenance, and my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-42-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 42
+}

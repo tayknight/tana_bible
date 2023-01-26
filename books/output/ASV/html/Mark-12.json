@@ -1,0 +1,442 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41012001,
+            "text": "\u00b6 And he began to speak unto them in parables. A man planted a vineyard, and set a hedge about it, and digged a pit for the winepress, and built a tower, and let it out to husbandmen, and went into another country. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012002,
+            "text": "And at the season he sent to the husbandmen a <i>[a]</i>servant, that he might receive from the husbandmen of the fruits of the vineyard. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012003,
+            "text": "And they took him, and beat him, and sent him away empty. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012004,
+            "text": "And again he sent unto them another <i>[b]</i>servant; and him they wounded in the head, and handled shamefully. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-4",
+            "footnotes": [
+                {
+                    "b": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012005,
+            "text": "And he sent another; and him they killed: and many others; beating some, and killing some. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012006,
+            "text": "He had yet one, a beloved son: he sent him last unto them, saying, They will reverence my son. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012007,
+            "text": "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be ours. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012008,
+            "text": "And they took him, and killed him, and cast him forth out of the vineyard. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012009,
+            "text": "What therefore will the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012010,
+            "text": "Have ye not read even this scripture:\u00b6   <i>[c]</i>The stone which the builders rejected,\n    The same was made the head of the corner;\n    ",
+            "version": "ASV",
+            "clsstr": "Mark-12-10",
+            "footnotes": [
+                {
+                    "c": "[[Ps. 118:22f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012011,
+            "text": "    This was from the Lord,\n    And it is marvellous in our eyes?\n    ",
+            "version": "ASV",
+            "clsstr": "Mark-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012012,
+            "text": "\u00b6 And they sought to lay hold on him; and they feared the multitude; for they perceived that he spake the parable against them: and they left him, and went away.",
+            "version": "ASV",
+            "clsstr": "Mark-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012013,
+            "text": "\u00b6 And they send unto him certain of the Pharisees and of the Herodians, that they might catch him in talk. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012014,
+            "text": "And when they were come, they say unto him, Teacher, we know that thou art true, and carest not for any one; for thou regardest not the person of men, but of a truth teachest the way of God: Is it lawful to give tribute unto Caesar, or not? ",
+            "version": "ASV",
+            "clsstr": "Mark-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012015,
+            "text": "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why make ye trial of me? bring me a <i>[d]</i>denarius, that I may see it. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-15",
+            "footnotes": [
+                {
+                    "d": "See marginal note on [[6:37]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012016,
+            "text": "And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Caesar\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012017,
+            "text": "And Jesus said unto them, Render unto Caesar the things that are Caesar\u2019s, and unto God the things that are God\u2019s. And they marvelled greatly at him.",
+            "version": "ASV",
+            "clsstr": "Mark-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012018,
+            "text": "\u00b6 And there come unto him Sadducees, who say that there is no resurrection; and they asked him, saying, ",
+            "version": "ASV",
+            "clsstr": "Mark-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012019,
+            "text": "Teacher, Moses wrote unto us, <i>[e]</i>If a man\u2019s brother die, and leave a wife behind him, and leave no child, that his brother should take his wife, and raise up seed unto his brother. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-19",
+            "footnotes": [
+                {
+                    "e": "[[Dt. 25:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012020,
+            "text": "There were seven brethren: and the first took a wife, and dying left no seed; ",
+            "version": "ASV",
+            "clsstr": "Mark-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012021,
+            "text": "and the second took her, and died, leaving no seed behind him; and the third likewise: ",
+            "version": "ASV",
+            "clsstr": "Mark-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012022,
+            "text": "and the seven left no seed. Last of all the woman also died. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012023,
+            "text": "In the resurrection whose wife shall she be of them? for the seven had her to wife. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012024,
+            "text": "Jesus said unto them, Is it not for this cause that ye err, that ye know not the scriptures, nor the power of God? ",
+            "version": "ASV",
+            "clsstr": "Mark-12-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012025,
+            "text": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as angels in heaven. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012026,
+            "text": "But as touching the dead, that they are raised; have ye not read in the book of Moses, in the Bush, how God spake unto him, saying, <i>[f]</i>I  the God of Abraham, and the God of Isaac, and the God of Jacob? ",
+            "version": "ASV",
+            "clsstr": "Mark-12-26",
+            "footnotes": [
+                {
+                    "f": "[[Ex. 3:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012027,
+            "text": "He is not the God of the dead, but of the living: ye do greatly err.",
+            "version": "ASV",
+            "clsstr": "Mark-12-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012028,
+            "text": "\u00b6 And one of the scribes came, and heard them questioning together, and knowing that he had answered them well, asked him, What commandment is the first of all? ",
+            "version": "ASV",
+            "clsstr": "Mark-12-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012029,
+            "text": "Jesus answered, The first is, <i>[g]</i>Hear, O Israel; <i>[h]</i>The Lord our God, the Lord is one: ",
+            "version": "ASV",
+            "clsstr": "Mark-12-29",
+            "footnotes": [
+                {
+                    "g": "[[Dt. 6:4ff]]."
+                },
+                {
+                    "h": "Or, <i>The Lord is our God; the Lord is one</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012030,
+            "text": "and thou shalt love the Lord thy God <i>[i]</i>with all thy heart, and <i>[j]</i>with all thy soul, and <i>[k]</i>with all thy mind, and <i>[l]</i>with all thy strength. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-30",
+            "footnotes": [
+                {
+                    "i": "Greek <i>from</i>."
+                },
+                {
+                    "j": "Greek <i>from</i>."
+                },
+                {
+                    "k": "Greek <i>from</i>."
+                },
+                {
+                    "l": "Greek <i>from</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012031,
+            "text": "The second is this, <i>[m]</i>Thou shalt love thy neighbor as thyself. There is none other commandment greater than these. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-31",
+            "footnotes": [
+                {
+                    "m": "[[Lev. 19:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012032,
+            "text": "And the scribe said unto him, Of a truth, Teacher, thou hast well said that he is one; and there is none other but he: ",
+            "version": "ASV",
+            "clsstr": "Mark-12-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012033,
+            "text": "and to love him with all the heart, and with all the understanding, and with all the strength, and to love his neighbor as himself, is much more than all whole burnt-offerings and sacrifices. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012034,
+            "text": "And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question.",
+            "version": "ASV",
+            "clsstr": "Mark-12-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012035,
+            "text": "\u00b6 And Jesus answered and said, as he taught in the temple, How say the scribes that the Christ is the son of David? ",
+            "version": "ASV",
+            "clsstr": "Mark-12-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012036,
+            "text": "David himself said in the Holy Spirit,\u00b6  <i>[n]</i>The Lord said unto my Lord,\n  Sit thou on my right hand,\n  Till I make thine enemies <i>[o]</i>the footstool of thy feet.\n    ",
+            "version": "ASV",
+            "clsstr": "Mark-12-36",
+            "footnotes": [
+                {
+                    "n": "[[Ps. 110:1]]."
+                },
+                {
+                    "o": "Some ancient authorities read <i>underneath thy feet</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012037,
+            "text": "\u00b6 David himself calleth him Lord; and whence is he his son? And <i>[p]</i>the common people heard him gladly.",
+            "version": "ASV",
+            "clsstr": "Mark-12-37",
+            "footnotes": [
+                {
+                    "p": "Or, <i>the great multitude</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012038,
+            "text": "\u00b6 And in his teaching he said, Beware of the scribes, who desire to walk in long robes, and  salutations in the marketplaces, ",
+            "version": "ASV",
+            "clsstr": "Mark-12-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012039,
+            "text": "and chief seats in the synagogues, and chief places at feasts: ",
+            "version": "ASV",
+            "clsstr": "Mark-12-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012040,
+            "text": "they that devour widows\u2019 houses, <i>[q]</i>and for a pretence make long prayers; these shall receive greater condemnation.",
+            "version": "ASV",
+            "clsstr": "Mark-12-40",
+            "footnotes": [
+                {
+                    "q": "Or, <i>even while for a pretence they make</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012041,
+            "text": "\u00b6 And he sat down over against the treasury, and beheld how the multitude cast <i>[r]</i>money into the treasury: and many that were rich cast in much. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-41",
+            "footnotes": [
+                {
+                    "r": "Greek <i>brass</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012042,
+            "text": "And there came <i>[s]</i>a poor widow, and she cast in two mites, which make a farthing. ",
+            "version": "ASV",
+            "clsstr": "Mark-12-42",
+            "footnotes": [
+                {
+                    "s": "Greek <i>one</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012043,
+            "text": "And he called unto him his disciples, and said unto them, Verily I say unto you, This poor widow cast in more than all they that are casting into the treasury: ",
+            "version": "ASV",
+            "clsstr": "Mark-12-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41012044,
+            "text": "for they all did cast in of their superfluity; but she of her want did cast in all that she had,  all her living.",
+            "version": "ASV",
+            "clsstr": "Mark-12-44",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 12
+}

@@ -1,0 +1,383 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44008001,
+            "text": "And Saul was consenting unto his death.\u00b6 And there arose on that day a great persecution against the church which was in Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008002,
+            "text": "And devout men buried Stephen, and made great lamentation over him. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008003,
+            "text": "But Saul laid waste the church, entering into every house, and dragging men and women committed them to prison.",
+            "version": "ASV",
+            "clsstr": "Acts-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008004,
+            "text": "\u00b6 They therefore that were scattered abroad went about <i>[a]</i>preaching the word. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-4",
+            "footnotes": [
+                {
+                    "a": "Compare marginal note on [[5:42]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008005,
+            "text": "And Philip went down to the city of Samaria, and proclaimed unto them the Christ. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008006,
+            "text": "And the multitudes gave heed with one accord unto the things that were spoken by Philip, when they heard, and saw the signs which he did. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008007,
+            "text": " <i>[b]</i>For  many of those that had unclean spirits, they came out, crying with a loud voice: and many that were palsied, and that were lame, were healed. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>For many of those that had unclean spirits that cried with a loud voice came forth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008008,
+            "text": "And there was much joy in that city.",
+            "version": "ASV",
+            "clsstr": "Acts-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008009,
+            "text": "\u00b6 But there was a certain man, Simon by name, who beforetime in the city used sorcery, and amazed the <i>[c]</i>people of Samaria, giving out that himself was some great one: ",
+            "version": "ASV",
+            "clsstr": "Acts-8-9",
+            "footnotes": [
+                {
+                    "c": "Greek <i>nation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008010,
+            "text": "to whom they all gave heed, from the least to the greatest, saying, This man is that power of God which is called Great. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008011,
+            "text": "And they gave heed to him, because that of long time he had amazed them with his sorceries. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008012,
+            "text": "But when they believed Philip preaching good tidings concerning the kingdom of God and the name of Jesus Christ, they were baptized, both men and women. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008013,
+            "text": "And Simon also himself believed: and being baptized, he continued with Philip; and beholding signs and great <i>[d]</i>miracles wrought, he was amazed.",
+            "version": "ASV",
+            "clsstr": "Acts-8-13",
+            "footnotes": [
+                {
+                    "d": "Greek <i>powers</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008014,
+            "text": "\u00b6 Now when the apostles that were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John: ",
+            "version": "ASV",
+            "clsstr": "Acts-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008015,
+            "text": "who, when they were come down, prayed for them, that they might receive the Holy Spirit: ",
+            "version": "ASV",
+            "clsstr": "Acts-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008016,
+            "text": "for as yet it was fallen upon none of them: only they had been baptized into the name of the Lord Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008017,
+            "text": "Then laid they their hands on them, and they received the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008018,
+            "text": "Now when Simon saw that through the laying on of the apostles\u2019 hands the <i>[e]</i>Holy Spirit was given, he offered them money, ",
+            "version": "ASV",
+            "clsstr": "Acts-8-18",
+            "footnotes": [
+                {
+                    "e": "Some ancient authorities omit <i>Holy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008019,
+            "text": "saying, Give me also this power, that on whomsoever I lay my hands, he may receive the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008020,
+            "text": "But Peter said unto him, Thy silver perish with thee, because thou hast thought to obtain the gift of God with money. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008021,
+            "text": "Thou hast neither part nor lot in this <i>[f]</i>matter: for thy heart is not right before God. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-21",
+            "footnotes": [
+                {
+                    "f": "Greek <i>word</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008022,
+            "text": "Repent therefore of this thy wickedness, and pray the Lord, if perhaps the thought of thy heart shall be forgiven thee. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008023,
+            "text": "For I see that thou <i>[g]</i>art in the gall of bitterness and in the bond of iniquity. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-23",
+            "footnotes": [
+                {
+                    "g": "Or, <i>wilt become gall</i> (or <i>a gall root</i>) <i>of bitterness and a bond of iniquity</i>. Compare [[Dt. 29:18]]; [[Heb. 12:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008024,
+            "text": "And Simon answered and said, Pray ye for me to the Lord, that none of the things which ye have spoken come upon me.",
+            "version": "ASV",
+            "clsstr": "Acts-8-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008025,
+            "text": "\u00b6 They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and <i>[h]</i>preached the gospel to many villages of the Samaritans.",
+            "version": "ASV",
+            "clsstr": "Acts-8-25",
+            "footnotes": [
+                {
+                    "h": "Greek <i>brought good tidings</i>. Compare [[5:42]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008026,
+            "text": "\u00b6 But an angel of the Lord spake unto Philip, saying, Arise, and go <i>[i]</i>toward the south unto the way that goeth down from Jerusalem unto Gaza: the same is desert. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-26",
+            "footnotes": [
+                {
+                    "i": "Or, <i>at noon</i>. Compare [[22:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008027,
+            "text": "And he arose and went: and behold, a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship; ",
+            "version": "ASV",
+            "clsstr": "Acts-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008028,
+            "text": "and he was returning and sitting in his chariot, and was reading the prophet Isaiah. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008029,
+            "text": "And the Spirit said unto Philip, Go near, and join thyself to this chariot. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008030,
+            "text": "And Philip ran to him, and heard him reading Isaiah the prophet, and said, Understandest thou what thou readest? ",
+            "version": "ASV",
+            "clsstr": "Acts-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008031,
+            "text": "And he said, How can I, except some one shall guide me? And he besought Philip to come up and sit with him. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008032,
+            "text": "Now the passage of the scripture which he was reading was this,\u00b6   <i>[j]</i>He was led as a sheep to the slaughter;\n    And as a lamb before his shearer is dumb,\n    So he openeth not his mouth:\n    ",
+            "version": "ASV",
+            "clsstr": "Acts-8-32",
+            "footnotes": [
+                {
+                    "j": "[[Isa. 53:7f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008033,
+            "text": "    In his humiliation his judgment was taken away:\n    His generation who shall declare?\n    For his life is taken from the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Acts-8-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008034,
+            "text": "\u00b6 And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other? ",
+            "version": "ASV",
+            "clsstr": "Acts-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008035,
+            "text": "And Philip opened his mouth, and beginning from this scripture, <i>[k]</i>preached unto him Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-35",
+            "footnotes": [
+                {
+                    "k": "See marginal note on [[5:42]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008036,
+            "text": "And as they went on the way, they came unto a certain water; and the eunuch saith, Behold, water; what doth hinder me to be baptized? <i>[l]</i> ",
+            "version": "ASV",
+            "clsstr": "Acts-8-36",
+            "footnotes": [
+                {
+                    "l": "Some ancient authorities insert, wholly or in part, [[verse 37]] <i>And Philip said, If thou believest with all thy heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008038,
+            "text": "And he commanded the chariot to stand still: and they both went down into the water, both Philip and the eunuch; and he baptized him. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008039,
+            "text": "And when they came up out of the water, the Spirit of the Lord caught away Philip; and the eunuch saw him no more, for he went on his way rejoicing. ",
+            "version": "ASV",
+            "clsstr": "Acts-8-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44008040,
+            "text": "But Philip was found at Azotus: and passing through he <i>[m]</i>preached the gospel to all the cities, till he came to Caesarea.",
+            "version": "ASV",
+            "clsstr": "Acts-8-40",
+            "footnotes": [
+                {
+                    "m": "See marginal note on [[5:42]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 8
+}

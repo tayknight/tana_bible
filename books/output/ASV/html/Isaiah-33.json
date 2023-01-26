@@ -1,0 +1,254 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23033001,
+            "text": "\u00b6 Woe to thee that destroyest, and thou wast not destroyed; and dealest treacherously, and they dealt not treacherously with thee! When thou hast ceased to destroy, thou shalt be destroyed; and when thou hast made an end of dealing treacherously, they shall deal treacherously with thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033002,
+            "text": "O Jehovah, be gracious unto us; we have waited for thee: be thou <i>[a]</i>our arm every morning, our salvation also in the time of trouble. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>their</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033003,
+            "text": "At the noise of the tumult the peoples are fled; at the lifting up of thyself the nations are scattered. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033004,
+            "text": "And your spoil shall be gathered as the caterpillar gathereth: as locusts leap shall men leap upon it. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033005,
+            "text": "Jehovah is exalted; for he dwelleth on high: he hath filled Zion with justice and righteousness. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033006,
+            "text": " <i>[b]</i>And there shall be stability in thy times, abundance of salvation, wisdom, and knowledge: the fear of Jehovah is <i>[c]</i>thy treasure.",
+            "version": "ASV",
+            "clsstr": "Isa-33-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>And abundance of salvation, wisdom, and knowledge shall be the stability of thy times</i>"
+                },
+                {
+                    "c": "Hebrew <i>his</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033007,
+            "text": "\u00b6 Behold, their valiant ones cry without; the ambassadors of peace weep bitterly. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033008,
+            "text": "The highways lie waste, the wayfaring man ceaseth: <i>[d]</i> hath broken the covenant, he hath despised the cities, he regardeth not man. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>he</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033009,
+            "text": "The land mourneth and languisheth; Lebanon is confounded and withereth away; Sharon is like <i>[e]</i>a desert; and Bashan and Carmel shake off . ",
+            "version": "ASV",
+            "clsstr": "Isa-33-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>the Arabah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033010,
+            "text": "Now will I arise, saith Jehovah; now will I lift up myself; now will I be exalted. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033011,
+            "text": "Ye shall conceive chaff, ye shall bring forth stubble: your breath is a fire that shall devour you. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033012,
+            "text": "And the peoples shall be as the burnings of lime, as thorns cut down, that are burned in the fire.",
+            "version": "ASV",
+            "clsstr": "Isa-33-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033013,
+            "text": "\u00b6 Hear, ye that are far off, what I have done; and, ye that are near, acknowledge my might. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033014,
+            "text": "The sinners in Zion are afraid; trembling hath seized the godless ones: Who among us can dwell with the devouring fire? who among us can dwell with everlasting burnings? ",
+            "version": "ASV",
+            "clsstr": "Isa-33-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033015,
+            "text": "He that walketh righteously, and speaketh uprightly; he that despiseth the gain of <i>[f]</i>oppressions, that shaketh his hands from taking a bribe, that stoppeth his ears from hearing of blood, and shutteth his eyes from looking upon evil: ",
+            "version": "ASV",
+            "clsstr": "Isa-33-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>fraud</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033016,
+            "text": "He shall dwell on high; his place of defence shall be the munitions of rocks; his bread shall be given ; his waters shall be sure.",
+            "version": "ASV",
+            "clsstr": "Isa-33-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033017,
+            "text": "\u00b6 Thine eyes shall see the king in his beauty: they shall behold <i>[g]</i>a land that reacheth afar. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>a land that is very far off</i>. Hebrew <i>a land of far distances</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033018,
+            "text": "Thy heart shall muse on the terror: Where is <i>[h]</i>he that counted, where is he that weighed ? where is he that counted the towers? ",
+            "version": "ASV",
+            "clsstr": "Isa-33-18",
+            "footnotes": [
+                {
+                    "h": "Or, <i>the scribe</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033019,
+            "text": "Thou shalt not see the fierce people, a people of a deep speech that thou canst not comprehend, of a <i>[i]</i>strange tongue that thou canst not understand. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-19",
+            "footnotes": [
+                {
+                    "i": "Or, <i>stammering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033020,
+            "text": "Look upon Zion, the city of our <i>[j]</i>solemnities: thine eyes shall see Jerusalem a quiet habitation, a tent that shall not be removed, the stakes whereof shall never be plucked up, neither shall any of the cords thereof be broken. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-20",
+            "footnotes": [
+                {
+                    "j": "Or, <i>set feasts</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033021,
+            "text": "But there Jehovah will be with us in majesty, <i>[k]</i>a place of broad rivers and streams, wherein shall go no galley with oars, neither shall gallant ship pass thereby. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-21",
+            "footnotes": [
+                {
+                    "k": "Or, <i>but in the place\u00a0.\u00a0.\u00a0. streams there shall go etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033022,
+            "text": "For Jehovah is our judge, Jehovah is our lawgiver, Jehovah is our king; he will save us. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033023,
+            "text": "Thy tacklings are loosed; they could not strengthen the foot of their mast, they could not spread the sail: then was the prey of a great spoil divided; the lame took the prey. ",
+            "version": "ASV",
+            "clsstr": "Isa-33-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23033024,
+            "text": "And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity.",
+            "version": "ASV",
+            "clsstr": "Isa-33-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 33
+}

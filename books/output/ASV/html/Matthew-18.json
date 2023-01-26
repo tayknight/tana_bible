@@ -1,0 +1,373 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40018001,
+            "text": "\u00b6 In that hour came the disciples unto Jesus, saying, Who then is <i>[a]</i>greatest in the kingdom of heaven? ",
+            "version": "ASV",
+            "clsstr": "Matt-18-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>greater</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018002,
+            "text": "And he called to him a little child, and set him in the midst of them, ",
+            "version": "ASV",
+            "clsstr": "Matt-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018003,
+            "text": "and said, Verily I say unto you, Except ye turn, and become as little children, ye shall in no wise enter into the kingdom of heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018004,
+            "text": "Whosoever therefore shall humble himself as this little child, the same is the <i>[b]</i>greatest in the kingdom of heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-4",
+            "footnotes": [
+                {
+                    "b": "Greek <i>greater</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018005,
+            "text": "And whoso shall receive one such little child in my name receiveth me: ",
+            "version": "ASV",
+            "clsstr": "Matt-18-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018006,
+            "text": "but whoso shall cause one of these little ones that believe on me to stumble, it is profitable for him that <i>[c]</i>a great millstone should be hanged about his neck, and  he should be sunk in the depth of the sea.",
+            "version": "ASV",
+            "clsstr": "Matt-18-6",
+            "footnotes": [
+                {
+                    "c": "Greek <i>a millstone turned by an ass</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018007,
+            "text": "\u00b6 Woe unto the world because of occasions of stumbling! for it must needs be that the occasions come; but woe to that man through whom the occasion cometh! ",
+            "version": "ASV",
+            "clsstr": "Matt-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018008,
+            "text": "And if thy hand or thy foot causeth thee to stumble, cut it off, and cast it from thee: it is good for thee to enter into life maimed or halt, rather than having two hands or two feet to be cast into the eternal fire. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018009,
+            "text": "And if thine eye causeth thee to stumble, pluck it out, and cast it from thee: it is good for thee to enter into life with one eye, rather than having two eyes to be cast into the <i>[d]</i>hell of fire. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-9",
+            "footnotes": [
+                {
+                    "d": "Greek <i>Gehenna of fire</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018010,
+            "text": "See that ye despise not one of these little ones: for I say unto you, that in heaven their angels do always behold the face of my Father who is in heaven. <i>[e]</i> ",
+            "version": "ASV",
+            "clsstr": "Matt-18-10",
+            "footnotes": [
+                {
+                    "e": "Many authorities, some ancient, insert [[verse 11]] <i>For the Son of man came to save that which was lost</i>. See [[Lk. 19:10]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018012,
+            "text": "How think ye? if any man have a hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and go unto the mountains, and seek that which goeth astray? ",
+            "version": "ASV",
+            "clsstr": "Matt-18-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018013,
+            "text": "And if so be that he find it, verily I say unto you, he rejoiceth over it more than over the ninety and nine which have not gone astray. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018014,
+            "text": "Even so it is not <i>[f]</i>the will of <i>[g]</i>your Father who is in heaven, that one of these little ones should perish.",
+            "version": "ASV",
+            "clsstr": "Matt-18-14",
+            "footnotes": [
+                {
+                    "f": "Greek <i>a thing willed before your Father</i>."
+                },
+                {
+                    "g": "Some ancient authorities read <i>my</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018015,
+            "text": "\u00b6 And if thy brother sin <i>[h]</i>against thee, go, show him his fault between thee and him alone: if he hear thee, thou hast gained thy brother. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-15",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities omit <i>against thee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018016,
+            "text": "But if he hear  not, take with thee one or two more, that at the mouth of two witnesses or three every word may be established. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018017,
+            "text": "And if he refuse to hear them, tell it unto the <i>[i]</i>church: and if he refuse to hear the <i>[j]</i>church also, let him be unto thee as the Gentile and the <i>[k]</i>publican. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>congregation</i>"
+                },
+                {
+                    "j": "Or, <i>congregation</i>"
+                },
+                {
+                    "k": "See marginal note on [[5:46]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018018,
+            "text": "Verily I say unto you, What things soever ye shall bind on earth shall be bound in heaven; and what things soever ye shall loose on earth shall be loosed in heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018019,
+            "text": "Again I say unto you, that if two of you shall agree on earth as touching anything that they shall ask, it <i>[l]</i>shall be done for them of my Father who is in heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-19",
+            "footnotes": [
+                {
+                    "l": "Greek <i>shall become</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018020,
+            "text": "For where two or three are gathered together in my name, there am I in the midst of them.",
+            "version": "ASV",
+            "clsstr": "Matt-18-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018021,
+            "text": "\u00b6 Then came Peter and said to him, Lord, how oft shall my brother sin against me, and I forgive him? until seven times? ",
+            "version": "ASV",
+            "clsstr": "Matt-18-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018022,
+            "text": "Jesus saith unto him, I say not unto thee, Until seven times; but, Until <i>[m]</i>seventy times seven. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-22",
+            "footnotes": [
+                {
+                    "m": "Or, <i>seventy times and seven</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018023,
+            "text": "Therefore is the kingdom of heaven likened unto a certain king, who would make a reckoning with his <i>[n]</i>servants. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-23",
+            "footnotes": [
+                {
+                    "n": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018024,
+            "text": "And when he had begun to reckon, one was brought unto him, that owed him ten thousand talents. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-24",
+            "footnotes": [
+                {
+                    "o": "This talent was probably worth about \u00a3200, or $1000."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018025,
+            "text": "But forasmuch as he had not  to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018026,
+            "text": "The <i>[p]</i>servant therefore fell down and <i>[q]</i>worshipped him, saying, Lord, have patience with me, and I will pay thee all. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-26",
+            "footnotes": [
+                {
+                    "p": "Greek <i>bondservant</i>."
+                },
+                {
+                    "q": "See marginal note on [[2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018027,
+            "text": "And the lord of that <i>[r]</i>servant, being moved with compassion, released him, and forgave him the <i>[s]</i>debt. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-27",
+            "footnotes": [
+                {
+                    "r": "Greek <i>bondservant</i>."
+                },
+                {
+                    "s": "Greek <i>loan</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018028,
+            "text": "But that <i>[t]</i>servant went out, and found one of his fellow-servants, who owed him a hundred <i>[u]</i>shillings: and he laid hold on him, and took  by the throat, saying, Pay what thou owest. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-28",
+            "footnotes": [
+                {
+                    "t": "Greek <i>bondservant</i>."
+                },
+                {
+                    "u": "The word in the Greek denotes a coin worth about eight pence half-penny, or nearly seventeen cents."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018029,
+            "text": "So his fellow-servant fell down and besought him, saying, Have patience with me, and I will pay thee. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018030,
+            "text": "And he would not: but went and cast him into prison, till he should pay that which was due. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018031,
+            "text": "So when his fellow-servants saw what was done, they were exceeding sorry, and came and told unto their lord all that was done. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018032,
+            "text": "Then his lord called him unto him, and saith to him, Thou wicked <i>[v]</i>servant, I forgave thee all that debt, because thou besoughtest me: ",
+            "version": "ASV",
+            "clsstr": "Matt-18-32",
+            "footnotes": [
+                {
+                    "v": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018033,
+            "text": "shouldest not thou also have had mercy on thy fellow-servant, even as I had mercy on thee? ",
+            "version": "ASV",
+            "clsstr": "Matt-18-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018034,
+            "text": "And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due. ",
+            "version": "ASV",
+            "clsstr": "Matt-18-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40018035,
+            "text": "So shall also my heavenly Father do unto you, if ye forgive not every one his brother from your hearts.",
+            "version": "ASV",
+            "clsstr": "Matt-18-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 18
+}

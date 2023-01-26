@@ -1,0 +1,283 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23029001,
+            "text": "\u00b6 <i>[a]</i>Ho <i>[b]</i>Ariel, Ariel, the city where David encamped! add ye year to year; let the feasts come round: ",
+            "version": "ASV",
+            "clsstr": "Isa-29-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Woe to</i>"
+                },
+                {
+                    "b": "That is, <i>The lion of God</i>. Or, <i>The hearth of God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029002,
+            "text": "then will I distress Ariel, and there shall be mourning and lamentation; <i>[c]</i>and she shall be unto me as Ariel. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>yet</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029003,
+            "text": "And I will encamp against thee round about, and will lay siege against thee with posted troops, and I will raise siege works against thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029004,
+            "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust; and thy voice shall be as of one that hath a familiar spirit, out of the ground, and thy speech shall <i>[d]</i>whisper out of the dust.",
+            "version": "ASV",
+            "clsstr": "Isa-29-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>chirp</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029005,
+            "text": "\u00b6 But the multitude of thy <i>[e]</i>foes shall be like small dust, and the multitude of the terrible ones as chaff that passeth away: yea, it shall be in an instant suddenly. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-5",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>strangers</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029006,
+            "text": " <i>[f]</i>She shall be visited of Jehovah of hosts with thunder, and with earthquake, and great noise, with whirlwind and tempest, and the flame of a devouring fire. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>There shall be a visitation from Jehovah etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029007,
+            "text": "And the multitude of all the nations that fight against Ariel, even all that fight against her and her stronghold, and that distress her, shall be as a dream, a vision of the night. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029008,
+            "text": "And it shall be as when a hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.",
+            "version": "ASV",
+            "clsstr": "Isa-29-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029009,
+            "text": "\u00b6 <i>[g]</i>Tarry ye and wonder; <i>[h]</i>take your pleasure and be blind: they are drunken, but not with wine; they stagger, but not with strong drink. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-9",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Be ye amazed</i>"
+                },
+                {
+                    "h": "Or, <i>blind yourselves and be blind</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029010,
+            "text": "For Jehovah hath poured out upon you the spirit of deep sleep, and hath closed <i>[i]</i>your eyes, the prophets; and your heads, the seers, hath he covered. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-10",
+            "footnotes": [
+                {
+                    "i": "Or, <i>your eyes; the prophets, and etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029011,
+            "text": "And all vision is become unto you as the words of a <i>[j]</i>book that is sealed, which men deliver to one that <i>[k]</i>is learned, saying, Read this, I pray thee; and he saith, I cannot, for it is sealed: ",
+            "version": "ASV",
+            "clsstr": "Isa-29-11",
+            "footnotes": [
+                {
+                    "j": "Or, <i>writing</i>"
+                },
+                {
+                    "k": "Hebrew <i>knoweth writing</i> (or, <i>letters</i>)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029012,
+            "text": "and the book is delivered to him that is not learned, saying, Read this, I pray thee; and he saith, I am not learned.",
+            "version": "ASV",
+            "clsstr": "Isa-29-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029013,
+            "text": "\u00b6 And the Lord said, Forasmuch as this people draw nigh , and with their mouth and with their lips do honor me, but have removed their heart far from me, and their fear of me is a commandment of men which hath been <i>[l]</i>taught ; ",
+            "version": "ASV",
+            "clsstr": "Isa-29-13",
+            "footnotes": [
+                {
+                    "l": "Or, <i>learned</i> by rote"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029014,
+            "text": "therefore, behold, I will <i>[m]</i>proceed to do a marvellous work among this people, even a marvellous work and a wonder; and the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
+            "version": "ASV",
+            "clsstr": "Isa-29-14",
+            "footnotes": [
+                {
+                    "m": "Or, <i>again do</i>. Hebrew <i>add to do</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029015,
+            "text": "\u00b6 Woe unto them that hide deep their counsel from Jehovah, and whose works are in the dark, and that say, Who seeth us? and who knoweth us? ",
+            "version": "ASV",
+            "clsstr": "Isa-29-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029016,
+            "text": " <i>[n]</i>Ye turn things upside down! Shall the potter be esteemed as clay; that the thing made should say of him that made it, He made me not; or the thing formed say of him that formed it, He hath no understanding?",
+            "version": "ASV",
+            "clsstr": "Isa-29-16",
+            "footnotes": [
+                {
+                    "n": "Or, <i>Oh your perversity!</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029017,
+            "text": "\u00b6 Is it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest? ",
+            "version": "ASV",
+            "clsstr": "Isa-29-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029018,
+            "text": "And in that day shall the deaf hear the words of <i>[o]</i>the book, and the eyes of the blind shall see out of obscurity and out of darkness. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-18",
+            "footnotes": [
+                {
+                    "o": "Or, <i>a book</i> (or, <i>writing</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029019,
+            "text": "The meek also shall increase their joy in Jehovah, and the poor among men shall rejoice in the Holy One of Israel. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029020,
+            "text": "For the terrible one is brought to nought, and the scoffer ceaseth, and all they that watch for iniquity are cut off; ",
+            "version": "ASV",
+            "clsstr": "Isa-29-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029021,
+            "text": "that <i>[p]</i>make a man an offender <i>[q]</i>in  cause, and lay a snare for him that reproveth in the gate, and turn aside the just with a thing of nought.",
+            "version": "ASV",
+            "clsstr": "Isa-29-21",
+            "footnotes": [
+                {
+                    "p": "Or, <i>make men to offend by</i> their <i>words</i>"
+                },
+                {
+                    "q": "Or, <i>for a word</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029022,
+            "text": "\u00b6 Therefore thus saith Jehovah, who redeemed Abraham, concerning the house of Jacob: Jacob shall not now be ashamed, neither shall his face now wax pale. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029023,
+            "text": " <i>[r]</i>But when he seeth his children, the work of my hands, in the midst of him, they shall sanctify my name; yea, they shall sanctify the Holy One of Jacob, and shall stand in awe of the God of Israel. ",
+            "version": "ASV",
+            "clsstr": "Isa-29-23",
+            "footnotes": [
+                {
+                    "r": "Or, <i>But when his children see etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23029024,
+            "text": "They also that err in spirit <i>[s]</i>shall come to understanding, and they that murmur shall receive instruction.",
+            "version": "ASV",
+            "clsstr": "Isa-29-24",
+            "footnotes": [
+                {
+                    "s": "Hebrew <i>shall know understanding</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 29
+}

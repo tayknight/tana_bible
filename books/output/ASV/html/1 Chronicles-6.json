@@ -1,0 +1,763 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13006001,
+            "text": "\u00b6 The sons of Levi: <i>[a]</i>Gershon, Kohath, and Merari. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-1",
+            "footnotes": [
+                {
+                    "a": "In [[verse 16]], <i>Gershom</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006002,
+            "text": "And the sons of Kohath: Amram, Izhar, and Hebron, and Uzziel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006003,
+            "text": "And the children of Amram: Aaron, and Moses, and Miriam. And the sons of Aaron: Nadab, and Abihu, Eleazar, and Ithamar. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006004,
+            "text": "Eleazar begat Phinehas, Phinehas begat Abishua, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006005,
+            "text": "and Abishua begat Bukki, and Bukki begat Uzzi, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006006,
+            "text": "and Uzzi begat Zerahiah, and Zerahiah begat Meraioth, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006007,
+            "text": "Meraioth begat Amariah, and Amariah begat Ahitub, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006008,
+            "text": "and Ahitub begat Zadok, and Zadok begat Ahimaaz, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006009,
+            "text": "and Ahimaaz begat Azariah, and Azariah begat Johanan, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006010,
+            "text": "and Johanan begat Azariah (he it is that executed the priest\u2019s office in the house that Solomon built in Jerusalem), ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006011,
+            "text": "and Azariah begat Amariah, and Amariah begat Ahitub, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006012,
+            "text": "and Ahitub begat Zadok, and Zadok begat <i>[b]</i>Shallum, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-12",
+            "footnotes": [
+                {
+                    "b": "In [[9:11]], <i>Meshullam</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006013,
+            "text": "and Shallum begat Hilkiah, and Hilkiah begat Azariah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006014,
+            "text": "and Azariah begat Seraiah, and Seraiah begat Jehozadak; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006015,
+            "text": "And Jehozadak went , when Jehovah carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006016,
+            "text": "\u00b6 The sons of Levi: <i>[c]</i>Gershom, Kohath, and Merari. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-16",
+            "footnotes": [
+                {
+                    "c": "In [[verse 1]], <i>Gershon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006017,
+            "text": "And these are the names of the sons of Gershom: Libni and Shimei. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006018,
+            "text": "And the sons of Kohath were Amram, and Izhar, and Hebron, and Uzziel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006019,
+            "text": "The sons of Merari: Mahli and Mushi. And these are the families of the Levites according to their fathers\u2019 . ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006020,
+            "text": "Of Gershom: Libni his son, Jahath his son, Zimmah his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006021,
+            "text": " <i>[d]</i>Joah his son, <i>[e]</i>Iddo his son, Zerah his son, <i>[f]</i>Jeatherai his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-21",
+            "footnotes": [
+                {
+                    "d": "In [[verse 42]], <i>Ethan</i>."
+                },
+                {
+                    "e": "In [[verse 41]], <i>Adaiah</i>."
+                },
+                {
+                    "f": "In [[verse 41]], <i>Ethni</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006022,
+            "text": "The sons of Kohath: <i>[g]</i>Amminadab his son, Korah his son, Assir his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-22",
+            "footnotes": [
+                {
+                    "g": "In verses [[2]], [[18]], [[38]] <i>Izhar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006023,
+            "text": "Elkanah his son, and Ebiasaph his son, and Assir his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006024,
+            "text": "Tahath his son, <i>[h]</i>Uriel his son, Uzziah his son, and Shaul his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-24",
+            "footnotes": [
+                {
+                    "h": "In [[verse 36]], <i>Zephaniah, Azariah, Joel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006025,
+            "text": "And the sons of Elkanah: Amasai, and Ahimoth. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006026,
+            "text": "As for Elkanah, the sons of Elkanah: <i>[i]</i>Zophai his son, and <i>[j]</i>Nahath his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-26",
+            "footnotes": [
+                {
+                    "i": "In [[verse 35]], <i>Zuph</i>."
+                },
+                {
+                    "j": "In [[verse 34]], <i>Toah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006027,
+            "text": " <i>[k]</i>Eliab his son, Jeroham his son, Elkanah his son. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-27",
+            "footnotes": [
+                {
+                    "k": "In [[verse 34]], <i>Eliel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006028,
+            "text": "And the sons of Samuel: the first-born, <i>[l]</i>, and the second Abijah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-28",
+            "footnotes": [
+                {
+                    "l": "See [[verse 33]] and [[1 Sam. 8:2]]. The Hebrew text has <i>Vashni, and Abiah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006029,
+            "text": "The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006030,
+            "text": "Shimea his son, Haggiah his son, Asaiah his son.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006031,
+            "text": "\u00b6 And these are they whom David set over the service of song in the house of Jehovah, after that the ark had rest. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006032,
+            "text": "And they ministered with song before the tabernacle of the tent of meeting, until Solomon had built the house of Jehovah in Jerusalem: and they <i>[m]</i>waited on their office according to their order. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-32",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>stood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006033,
+            "text": "And these are they that <i>[n]</i>waited, and their sons. Of the sons of the Kohathites: Heman the singer, the son of Joel, the son of Samuel, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-33",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>stood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006034,
+            "text": "the son of Elkanah, the son of Jeroham, the son of Eliel, the son of <i>[o]</i>Toah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-34",
+            "footnotes": [
+                {
+                    "o": "In [[verse 26]], <i>Nahath</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006035,
+            "text": "the son of <i>[p]</i>Zuph, the son of Elkanah, the son of Mahath, the son of Amasai, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-35",
+            "footnotes": [
+                {
+                    "p": "In [[verse 26]], <i>Zophai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006036,
+            "text": "the son of Elkanah, the son of <i>[q]</i>Joel, the son of Azariah, the son of Zephaniah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-36",
+            "footnotes": [
+                {
+                    "q": "In [[verse 24]], <i>Shaul, Uzziah, Uriel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006037,
+            "text": "the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006038,
+            "text": "the son of Izhar, the son of Kohath, the son of Levi, the son of Israel. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006039,
+            "text": "And his brother Asaph, who stood on his right hand, even Asaph the son of Berechiah, the son of Shimea, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006040,
+            "text": "the son of Michael, the son of Baaseiah, the son of Malchijah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006041,
+            "text": "the son of Ethni, the son of Zerah, the son of Adaiah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006042,
+            "text": "the son of Ethan, the son of Zimmah, the son of Shimei, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006043,
+            "text": "the son of Jahath, the son of Gershom, the son of Levi. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006044,
+            "text": "And on the left hand their brethren the sons of Merari: <i>[r]</i>Ethan the son of <i>[s]</i>Kishi, the son of Abdi, the son of Malluch, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-44",
+            "footnotes": [
+                {
+                    "r": "In [[9:16]], <i>Jeduthun</i>."
+                },
+                {
+                    "s": "In [[15:17]], <i>Kushaiah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006045,
+            "text": "the son of Hashabiah, the son of Amaziah, the son of Hilkiah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006046,
+            "text": "the son of Amzi, the son of Bani, the son of Shemer, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006047,
+            "text": "the son of Mahli, the son of Mushi, the son of Merari, the son of Levi. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006048,
+            "text": "And their brethren the Levites were <i>[t]</i>appointed for all the service of the tabernacle of the house of God.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-48",
+            "footnotes": [
+                {
+                    "t": "Hebrew <i>given</i>. See [[Num. 3:9]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006049,
+            "text": "\u00b6 But Aaron and his sons <i>[u]</i>offered upon the altar of burnt-offering, and upon the altar of incense, for all the work of the most holy place, and to make atonement for Israel, according to all that Moses the servant of God had commanded. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-49",
+            "footnotes": [
+                {
+                    "u": "Or, <i>burnt incense</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006050,
+            "text": "And these are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006051,
+            "text": "Bukki his son, Uzzi his son, Zerahiah his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006052,
+            "text": "Meraioth his son, Amariah his son, Ahitub his son, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006053,
+            "text": "Zadok his son, Ahimaaz his son.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006054,
+            "text": "\u00b6 Now these are their dwelling-places according to their encampments in their borders: to the sons of Aaron, of the families of the Kohathites (for theirs was the  lot), ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006055,
+            "text": "to them they gave Hebron in the land of Judah, and the suburbs thereof round about it; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006056,
+            "text": "but the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006057,
+            "text": "And to the sons of Aaron they gave the cities of refuge, Hebron; Libnah also with its suburbs, and Jattir, and Eshtemoa with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006058,
+            "text": "and <i>[v]</i>Hilen with its suburbs, Debir with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-58",
+            "footnotes": [
+                {
+                    "v": "In [[Josh. 21:15]], <i>Holon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006059,
+            "text": "and <i>[w]</i>Ashan with its suburbs, and Beth-shemesh with its suburbs; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-59",
+            "footnotes": [
+                {
+                    "w": "In [[Josh. 21:16]], <i>Ain</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006060,
+            "text": "and out of the tribe of Benjamin, Geba with its suburbs, and <i>[x]</i>Allemeth with its suburbs, and Anathoth with its suburbs. All their cities throughout their families were thirteen cities.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-60",
+            "footnotes": [
+                {
+                    "x": "In [[Josh. 21:18]], <i>Almon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006061,
+            "text": "\u00b6 And unto the rest of the sons of Kohath  by lot, out of the family of the tribe, out of the half-tribe, the half of Manasseh, ten cities. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006062,
+            "text": "And to the sons of Gershom, according to their families, out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006063,
+            "text": "Unto the sons of Merari  by lot, according to their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006064,
+            "text": "And the children of Israel gave to the Levites the cities with their suburbs. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006065,
+            "text": "And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities which are mentioned by name.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006066,
+            "text": "\u00b6 And some of the families of the sons of Kohath had cities of their borders out of the tribe of Ephraim. ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006067,
+            "text": "And they gave unto them the cities of refuge, Shechem in the hill-country of Ephraim with its suburbs; Gezer also with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-67",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006068,
+            "text": " <i>[y]</i>and Jokmeam with its suburbs, and Beth-horon with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-68",
+            "footnotes": [
+                {
+                    "y": "See [[Josh. 21:22\u201329]] where some of the names are different."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006069,
+            "text": "and Aijalon with its suburbs, and Gath-rimmon with its suburbs; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-69",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006070,
+            "text": "and out of the half-tribe of Manasseh, Aner with its suburbs, and Bileam with its suburbs, for the rest of the family of the sons of Kohath.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-70",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006071,
+            "text": "\u00b6 Unto the sons of Gershom , out of the family of the half-tribe of Manasseh, Golan in Bashan with its suburbs, and Ashtaroth with its suburbs; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-71",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006072,
+            "text": "and out of the tribe of Issachar, Kedesh with its suburbs, Daberath with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-72",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006073,
+            "text": "and Ramoth with its suburbs, and Anem with its suburbs; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-73",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006074,
+            "text": "and out of the tribe of Asher, Mashal with its suburbs, and Abdon with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-74",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006075,
+            "text": "and Hukok with its suburbs, and Rehob with its suburbs; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-75",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006076,
+            "text": "and out of the tribe of Naphtali, Kedesh in Galilee with its suburbs, and Hammon with its suburbs, and Kiriathaim with its suburbs.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-76",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006077,
+            "text": "\u00b6 Unto the rest of , the sons of Merari, , out of the tribe of Zebulun, Rimmono with its suburbs, Tabor with its suburbs; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-77",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006078,
+            "text": "and beyond the Jordan at Jericho, on the east side of the Jordan, , out of the tribe of Reuben, Bezer in the wilderness with its suburbs, and Jahzah with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-78",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006079,
+            "text": "and Kedemoth with its suburbs, and Mephaath with its suburbs; ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-79",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006080,
+            "text": "and out of the tribe of Gad, Ramoth in Gilead with its suburbs, and Mahanaim with its suburbs, ",
+            "version": "ASV",
+            "clsstr": "1Chr-6-80",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13006081,
+            "text": "and Heshbon with its suburbs, and Jazer with its suburbs.",
+            "version": "ASV",
+            "clsstr": "1Chr-6-81",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 6
+}

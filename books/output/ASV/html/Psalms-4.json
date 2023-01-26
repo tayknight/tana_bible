@@ -1,0 +1,99 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19004001,
+            "text": "<b>Evening prayer of trust in God.</b>\n\u00b6 For the Chief Musician; on stringed instruments. A Psalm of David.\u00b6   Answer me when I call, O God of my righteousness;\n  Thou hast set me at large in distress:\n   <i>[a]</i>Have mercy upon me, and hear my prayer.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Be gracious unto me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19004002,
+            "text": "    O ye sons of men, how long shall my glory be turned into dishonor?\n     will ye love vanity, and seek after falsehood? \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19004003,
+            "text": "  But know that Jehovah hath set apart for himself <i>[b]</i>him that is godly:\n    Jehovah will hear when I call unto him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>one that he favoreth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19004004,
+            "text": "   <i>[c]</i>Stand in awe, and sin not:\n    Commune with your own heart upon your bed, and be still. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>be ye angry</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19004005,
+            "text": "    Offer the sacrifices of righteousness,\n    And put your trust in Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19004006,
+            "text": "    Many there are that say, Who will show us  good?\n    Jehovah, lift thou up the light of thy countenance upon us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19004007,
+            "text": "    Thou hast put gladness in my heart,\n    More than  when their grain and their new wine are increased.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19004008,
+            "text": "  In peace will I both lay me down and sleep;\n  For thou, Jehovah, <i>[d]</i>alone makest me dwell in safety.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-4-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>in solitude</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 4
+}

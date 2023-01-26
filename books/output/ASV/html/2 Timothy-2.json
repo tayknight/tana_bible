@@ -1,0 +1,283 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 55,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 22,
+            "end_book": null
+        }
+    ],
+    "book": 55,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 55002001,
+            "text": "\u00b6 Thou therefore, my child, be strengthened in the grace that is in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002002,
+            "text": "And the things which thou hast heard from me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002003,
+            "text": " <i>[a]</i>Suffer hardship with , as a good soldier of Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Take thy part in suffering hardship, as etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002004,
+            "text": "No soldier on service entangleth himself in the affairs of  life; that he may please him who enrolled him as a soldier. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002005,
+            "text": "And if also a man contend in the games, he is not crowned, except he have contended lawfully. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002006,
+            "text": "The husbandman that laboreth must be the first to partake of the fruits. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002007,
+            "text": "Consider what I say; for the Lord shall give thee understanding in all things. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002008,
+            "text": "Remember Jesus Christ, risen from the dead, of the seed of David, according to my <i>[b]</i>gospel: ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-8",
+            "footnotes": [
+                {
+                    "b": "See marginal note on [[1:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002009,
+            "text": "wherein I suffer hardship unto bonds, as a malefactor; but the word of God is not bound. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002010,
+            "text": "Therefore I endure all things for the elect\u2019s sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002011,
+            "text": "Faithful is the <i>[c]</i>saying: For if we died with him, we shall also live with him: ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-11",
+            "footnotes": [
+                {
+                    "c": "Or, <i>saying; for if etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002012,
+            "text": "if we endure, we shall also reign with him: if we shall deny him, he also will deny us: ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002013,
+            "text": "if we are faithless, he abideth faithful; for he cannot deny himself.",
+            "version": "ASV",
+            "clsstr": "2Tim-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002014,
+            "text": "\u00b6 Of these things put them in remembrance, charging in the sight of <i>[d]</i>the Lord, that they strive not about words, to no profit, to the subverting of them that hear. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-14",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities read <i>God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002015,
+            "text": "Give diligence to present thyself approved unto God, a workman that needeth not to be ashamed, <i>[e]</i>handling aright the word of truth. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>holding a straight course in the word of truth</i>. Or, <i>rightly dividing the word of truth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002016,
+            "text": "But shun profane babblings: for they will proceed further in ungodliness, ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002017,
+            "text": "and their word will <i>[f]</i>eat as doth a gangrene: of whom is Hymenaeus and Philetus; ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>spread</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002018,
+            "text": "men who concerning the truth have <i>[g]</i>erred, saying that <i>[h]</i>the resurrection is past already, and overthrow the faith of some. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-18",
+            "footnotes": [
+                {
+                    "g": "Greek <i>missed the mark</i>. [[1 Tim. 1:6]]."
+                },
+                {
+                    "h": "Some ancient authorities read <i>a resurrection</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002019,
+            "text": "Howbeit the firm foundation of God standeth, having this seal, <i>[i]</i>The Lord knoweth them that are his: and, <i>[j]</i>Let every one that nameth the name of the Lord depart from unrighteousness. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-19",
+            "footnotes": [
+                {
+                    "i": "[[Num. 16:5]]?"
+                },
+                {
+                    "j": "[[Isa. 26:13]]?"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002020,
+            "text": "Now in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some unto honor, and some unto dishonor. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002021,
+            "text": "If a man therefore purge himself from these, he shall be a vessel unto honor, sanctified, meet for the master\u2019s use, prepared unto every good work. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002022,
+            "text": "But flee youthful lusts, and follow after righteousness, faith, love, peace, with them that call on the Lord out of a pure heart. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002023,
+            "text": "But foolish and ignorant questionings refuse, knowing that they gender strifes. ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002024,
+            "text": "And the Lord\u2019s <i>[k]</i>servant must not strive, but be gentle towards all, apt to teach, forbearing, ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-24",
+            "footnotes": [
+                {
+                    "k": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002025,
+            "text": "in meekness <i>[l]</i>correcting them that oppose themselves; if peradventure God may give them repentance unto the knowledge of the truth, ",
+            "version": "ASV",
+            "clsstr": "2Tim-2-25",
+            "footnotes": [
+                {
+                    "l": "Or, <i>instructing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55002026,
+            "text": "and they may <i>[m]</i>recover themselves out of the snare of the devil, having been <i>[n]</i>taken captive <i>[o]</i>by him unto his will.",
+            "version": "ASV",
+            "clsstr": "2Tim-2-26",
+            "footnotes": [
+                {
+                    "m": "Greek <i>return to soberness</i>."
+                },
+                {
+                    "n": "Greek <i>taken alive</i>."
+                },
+                {
+                    "o": "Or, <i>by him, unto the will of God</i>. Compare [[2 Cor. 10:5]]. Greek <i>by him, unto the will of him</i>. In the Greek the two pronouns are different."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Timothy",
+    "chapters": 2
+}

@@ -1,0 +1,253 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 51,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 18,
+            "end_book": null
+        }
+    ],
+    "book": 51,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 51002001,
+            "text": "\u00b6 For I would have you know how greatly I strive for you, and for them at Laodicea, and for as many as have not seen my face in the flesh; ",
+            "version": "ASV",
+            "clsstr": "Col-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002002,
+            "text": "that their hearts may be comforted, they being knit together in love, and unto all riches of the <i>[a]</i>full assurance of understanding, that they may know the mystery of God, <i>[b]</i> Christ, ",
+            "version": "ASV",
+            "clsstr": "Col-2-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>fulness</i>"
+                },
+                {
+                    "b": "The ancient authorities vary much in the text of this passage."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002003,
+            "text": "in whom are all the treasures of wisdom and knowledge hidden. ",
+            "version": "ASV",
+            "clsstr": "Col-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002004,
+            "text": "This I say, that no one may delude you with persuasiveness of speech. ",
+            "version": "ASV",
+            "clsstr": "Col-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002005,
+            "text": "For though I am absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.",
+            "version": "ASV",
+            "clsstr": "Col-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002006,
+            "text": "\u00b6 As therefore ye received Christ Jesus the Lord,  walk in him, ",
+            "version": "ASV",
+            "clsstr": "Col-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002007,
+            "text": "rooted and builded up in him, and established <i>[c]</i>in your faith, even as ye were taught, abounding <i>[d]</i>in thanksgiving.",
+            "version": "ASV",
+            "clsstr": "Col-2-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>by</i>"
+                },
+                {
+                    "d": "Some ancient authorities insert <i>in it</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002008,
+            "text": "\u00b6 <i>[e]</i>Take heed lest there shall be any one that maketh spoil of you through his philosophy and vain deceit, after the tradition of men, after the <i>[f]</i>rudiments of the world, and not after Christ: ",
+            "version": "ASV",
+            "clsstr": "Col-2-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>See whether</i>"
+                },
+                {
+                    "f": "Or, <i>elements</i>. See [[Gal. 4:3]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002009,
+            "text": "for in him dwelleth all the fulness of the Godhead bodily, ",
+            "version": "ASV",
+            "clsstr": "Col-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002010,
+            "text": "and in him ye are made full, who is the head of all principality and power: ",
+            "version": "ASV",
+            "clsstr": "Col-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002011,
+            "text": "in whom ye were also circumcised with a circumcision not made with hands, in the putting off of the body of the flesh, in the circumcision of Christ; ",
+            "version": "ASV",
+            "clsstr": "Col-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002012,
+            "text": "having been buried with him in baptism, wherein ye were also raised with him through faith in the working of God, who raised him from the dead. ",
+            "version": "ASV",
+            "clsstr": "Col-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002013,
+            "text": "And you, being dead through your trespasses and the uncircumcision of your flesh, you, , did he make alive together with him, having forgiven us all our trespasses; ",
+            "version": "ASV",
+            "clsstr": "Col-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002014,
+            "text": "having blotted out <i>[g]</i>the bond written in ordinances that was against us, which was contrary to us: and he hath taken it out of the way, nailing it to the cross; ",
+            "version": "ASV",
+            "clsstr": "Col-2-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the bond that was against us by its ordinances</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002015,
+            "text": " <i>[h]</i>having despoiled the principalities and the powers, he made a show of them openly, triumphing over them in it.",
+            "version": "ASV",
+            "clsstr": "Col-2-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>having put off from himself the principalities etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002016,
+            "text": "\u00b6 Let no man therefore judge you in meat, or in drink, or in respect of a feast day or a new moon or a sabbath day: ",
+            "version": "ASV",
+            "clsstr": "Col-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002017,
+            "text": "which are a shadow of the things to come; but the body is Christ\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Col-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002018,
+            "text": "Let no man rob you of your prize <i>[i]</i>by a voluntary humility and <i>[j]</i>worshipping of the angels, <i>[k]</i>dwelling in the things which he hath <i>[l]</i>seen, vainly puffed up by his fleshly mind, ",
+            "version": "ASV",
+            "clsstr": "Col-2-18",
+            "footnotes": [
+                {
+                    "i": "Or, <i>of his own mere will, by humility etc.</i>"
+                },
+                {
+                    "j": "The Greek word denotes and act of reverence, whether paid to a creature, or to the Creator."
+                },
+                {
+                    "k": "Or, <i>taking his stand upon</i>"
+                },
+                {
+                    "l": "Many authorities, some ancient, insert <i>not</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002019,
+            "text": "and not holding fast the Head, from whom all the body, being supplied and knit together through the joints and bands, increaseth with the increase of God.",
+            "version": "ASV",
+            "clsstr": "Col-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002020,
+            "text": "\u00b6 If ye died with Christ from the <i>[m]</i>rudiments of the world, why, as though living in the world, do ye subject yourselves to ordinances, ",
+            "version": "ASV",
+            "clsstr": "Col-2-20",
+            "footnotes": [
+                {
+                    "m": "Or, <i>elements</i>. See [[Gal. 4:3]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002021,
+            "text": "Handle not, nor taste, nor touch ",
+            "version": "ASV",
+            "clsstr": "Col-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002022,
+            "text": "(all which things are to perish with the using), after the precepts and doctrines of men? ",
+            "version": "ASV",
+            "clsstr": "Col-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51002023,
+            "text": "Which things have indeed a show of wisdom in will-worship, and humility, and severity to the body; not of any <i>[n]</i>value against the indulgence of the flesh.",
+            "version": "ASV",
+            "clsstr": "Col-2-23",
+            "footnotes": [
+                {
+                    "n": "Or, <i>honor</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Colossians",
+    "chapters": 2
+}

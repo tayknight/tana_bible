@@ -1,0 +1,206 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 55,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 22,
+            "end_book": null
+        }
+    ],
+    "book": 55,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 55001001,
+            "text": "\u00b6 Paul, an apostle of Christ Jesus through the will of God, according to the promise of the life which is in Christ Jesus, ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001002,
+            "text": "to Timothy, my beloved child: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.",
+            "version": "ASV",
+            "clsstr": "2Tim-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001003,
+            "text": "\u00b6 I thank God, whom I serve from my forefathers in a pure conscience, how unceasing is my remembrance of thee in my supplications, night and day ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001004,
+            "text": "longing to see thee, remembering thy tears, that I may be filled with <i>[a]</i>joy; ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>joy in being reminded</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001005,
+            "text": "having been reminded of the unfeigned faith that is in thee; which dwelt first in thy grandmother Lois, and thy mother Eunice; and, I am persuaded, in thee also. ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001006,
+            "text": "For which cause I put thee in remembrance that thou <i>[b]</i>stir up the gift of God, which is in thee through the laying on of my hands. ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-6",
+            "footnotes": [
+                {
+                    "b": "Greek <i>stir into flame</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001007,
+            "text": "For God gave us not a spirit of fearfulness; but of power and love and <i>[c]</i>discipline. ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-7",
+            "footnotes": [
+                {
+                    "c": "Greek <i>sobering</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001008,
+            "text": "Be not ashamed therefore of the testimony of our Lord, nor of me his prisoner: but suffer hardship with the <i>[d]</i>gospel according to the power of God; ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-8",
+            "footnotes": [
+                {
+                    "d": "Greek <i>good tidings</i>: and so elsewhere. See marginal note on [[Mt. 4:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001009,
+            "text": "who saved us, and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus <i>[e]</i>before times eternal, ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>long ages ago</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001010,
+            "text": "but hath now been manifested by the appearing of our Saviour Christ Jesus, who abolished death, and brought life and <i>[f]</i>immortality to light through the <i>[g]</i>gospel, ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-10",
+            "footnotes": [
+                {
+                    "f": "Greek <i>incorruption</i>. See [[Rom. 2:7]]."
+                },
+                {
+                    "g": "Greek <i>good tidings</i>. See [[verse 8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001011,
+            "text": "whereunto I was appointed a <i>[h]</i>preacher, and an apostle, and a teacher. ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-11",
+            "footnotes": [
+                {
+                    "h": "Greek <i>herald</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001012,
+            "text": "For which cause I suffer also these things: yet I am not ashamed; for I know him whom I have believed, and I am persuaded that he is able to guard <i>[i]</i>that which I have committed unto him against that day. ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-12",
+            "footnotes": [
+                {
+                    "i": "Or, <i>that which he hath committed unto me</i>. Greek <i>my deposit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001013,
+            "text": "Hold the pattern of <i>[j]</i>sound words which thou hast heard from me, in faith and love which is in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-13",
+            "footnotes": [
+                {
+                    "j": "Greek <i>healthful</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001014,
+            "text": " <i>[k]</i>That good thing which was committed unto  guard through the Holy Spirit which dwelleth in us.",
+            "version": "ASV",
+            "clsstr": "2Tim-1-14",
+            "footnotes": [
+                {
+                    "k": "Greek <i>The good deposit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001015,
+            "text": "\u00b6 This thou knowest, that all that are in Asia turned away from me; of whom are Phygelus and Hermogenes. ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001016,
+            "text": "The Lord grant mercy unto the house of Onesiphorus: for he oft refreshed me, and was not ashamed of my chain; ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001017,
+            "text": "but, when he was in Rome, he sought me diligently, and found me ",
+            "version": "ASV",
+            "clsstr": "2Tim-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 55001018,
+            "text": "(the Lord grant unto him to find mercy of the Lord in that day); and in how many things he ministered at Ephesus, thou knowest very well.",
+            "version": "ASV",
+            "clsstr": "2Tim-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Timothy",
+    "chapters": 1
+}

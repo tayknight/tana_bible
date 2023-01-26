@@ -1,0 +1,242 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23038001,
+            "text": "\u00b6 In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came to him, and said unto him, Thus saith Jehovah, Set thy house in order; for thou shalt die, and not live. ",
+            "version": "ASV",
+            "clsstr": "Isa-38-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038002,
+            "text": "Then Hezekiah turned his face to the wall, and prayed unto Jehovah, ",
+            "version": "ASV",
+            "clsstr": "Isa-38-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038003,
+            "text": "and said, Remember now, O Jehovah, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore. ",
+            "version": "ASV",
+            "clsstr": "Isa-38-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038004,
+            "text": "Then came the word of Jehovah to Isaiah, saying, ",
+            "version": "ASV",
+            "clsstr": "Isa-38-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038005,
+            "text": "Go, and say to Hezekiah, Thus saith Jehovah, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years. ",
+            "version": "ASV",
+            "clsstr": "Isa-38-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038006,
+            "text": "And I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city. ",
+            "version": "ASV",
+            "clsstr": "Isa-38-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038007,
+            "text": "And this shall be the sign unto thee from Jehovah, that Jehovah will do this thing that he hath spoken: ",
+            "version": "ASV",
+            "clsstr": "Isa-38-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038008,
+            "text": "behold, I will cause the shadow on the steps, which is gone down on the <i>[a]</i>dial of Ahaz <i>[b]</i>with the sun, to return backward ten steps. So the sun returned ten steps <i>[c]</i>on the dial whereon it was gone down.",
+            "version": "ASV",
+            "clsstr": "Isa-38-8",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>steps</i>."
+                },
+                {
+                    "b": "Or, <i>by</i>"
+                },
+                {
+                    "c": "Or, <i>by which steps it etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038009,
+            "text": "\u00b6 The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness.",
+            "version": "ASV",
+            "clsstr": "Isa-38-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038010,
+            "text": "\u00b6   I said, In the <i>[d]</i>noontide of my days I shall go into the gates of Sheol:\n    I am deprived of the residue of my years.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>tranquility</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038011,
+            "text": " I said, I shall not see <i>[e]</i>Jehovah, <i>[f]</i>Jehovah in the land of the living:\n  I shall behold man no more <i>[g]</i>with the inhabitants of the world.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-11",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>Jah</i>."
+                },
+                {
+                    "f": "Hebrew <i>Jah</i>."
+                },
+                {
+                    "g": "Or, when I am <i>among them that have ceased to be</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038012,
+            "text": "  My dwelling is removed, and is carried away from me as a shepherd\u2019s tent:\n  I have rolled up, like a weaver, my life; he will cut me off from the <i>[h]</i>loom:\n    From day even to night wilt thou make an end of me.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-12",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>thrum</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038013,
+            "text": "   <i>[i]</i>I quieted  until morning; as a lion, so he breaketh all my bones:\n    From day even to night wilt thou make an end of me.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-13",
+            "footnotes": [
+                {
+                    "i": "Or, <i>I thought until morning, As a lion, so will he break etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038014,
+            "text": "    Like a swallow  a crane, so did I chatter;\n    I did moan as a dove; mine eyes fail  upward:\n    O Lord, I am oppressed, be thou my surety.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038015,
+            "text": "  What shall I say? he hath both spoken unto me, and himself hath done it:\n  I shall go <i>[j]</i>softly all my years because of the bitterness of my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-15",
+            "footnotes": [
+                {
+                    "j": "Or, <i>as in solemn procession</i>. See [[Ps. 42:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038016,
+            "text": "  O Lord, by these things men live;\n  And wholly therein is the life of my spirit:\n   <i>[k]</i>Wherefore recover thou me, and make me to live.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-16",
+            "footnotes": [
+                {
+                    "k": "Or, <i>So wilt thou recover me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038017,
+            "text": " Behold, for peace I had great bitterness:\n But <i>[l]</i>thou hast in love to my soul delivered it from the pit of <i>[m]</i>corruption;\n    For thou hast cast all my sins behind thy back.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-17",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>thou hast loved my soul from the pit</i>."
+                },
+                {
+                    "m": "Or, <i>nothingness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038018,
+            "text": "    For Sheol cannot praise thee, death cannot celebrate thee:\n    They that go down into the pit cannot hope for thy truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038019,
+            "text": "    The living, the living, he shall praise thee, as I do this day:\n    The father to the children shall make known thy truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038020,
+            "text": "    Jehovah is  to save me:\n    Therefore we will sing my songs with stringed instruments\n    All the days of our life in the house of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Isa-38-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038021,
+            "text": "\u00b6 Now Isaiah had said, Let them take a cake of figs, and lay it for a plaster upon the boil, and he shall recover. ",
+            "version": "ASV",
+            "clsstr": "Isa-38-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23038022,
+            "text": "Hezekiah also had said, What is the sign that I shall go up to the house of Jehovah?",
+            "version": "ASV",
+            "clsstr": "Isa-38-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 38
+}

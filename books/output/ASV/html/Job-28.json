@@ -1,0 +1,302 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18028001,
+            "text": "\u00b6   <i>[a]</i>Surely there is a mine for silver,\n    And a place for gold which they refine.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>For</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028002,
+            "text": "  Iron is taken out of the <i>[b]</i>earth,\n    And copper is molten out of the stone.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>dust</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028003,
+            "text": "     setteth an end to darkness,\n    And searcheth out, to the furthest bound,\n    The stones of obscurity and of thick darkness.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028004,
+            "text": "  <i>[c]</i>He breaketh open a shaft away from where men sojourn;\n  They are forgotten of the foot;\n  They hang afar from men, they <i>[d]</i>swing to and fro.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>The flood breaketh out from where men sojourn;</i> Even the waters <i>forgotten of the foot: They are diminished, they are gone away from man</i>"
+                },
+                {
+                    "d": "Or, <i>flit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028005,
+            "text": "    As for the earth, out of it cometh bread;\n    And underneath it is turned up as it were by fire.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028006,
+            "text": "  The stones thereof are the place of sapphires,\n   <i>[e]</i>And it hath dust of gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>And he winneth lumps of gold</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028007,
+            "text": "    That path no bird of prey knoweth,\n    Neither hath the falcon\u2019s eye seen it:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028008,
+            "text": "  The <i>[f]</i>proud beasts have not trodden it,\n    Nor hath the fierce lion passed thereby.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-8",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>sons of pride</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028009,
+            "text": "    He putteth forth his hand upon the flinty rock;\n    He overturneth the mountains by the roots.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028010,
+            "text": "  He cutteth out <i>[g]</i>channels among the rocks;\n    And his eye seeth every precious thing.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>passages</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028011,
+            "text": "  He bindeth the streams <i>[h]</i>that they trickle not;\n    And the thing that is hid bringeth he forth to light.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-11",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>from weeping</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028012,
+            "text": "\u00b6     But where shall wisdom be found?\n    And where is the place of understanding?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028013,
+            "text": "    Man knoweth not the price thereof;\n    Neither is it found in the land of the living.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028014,
+            "text": "    The deep saith, It is not in me;\n    And the sea saith, It is not with me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028015,
+            "text": "  It cannot be gotten for <i>[i]</i>gold,\n    Neither shall silver be weighed for the price thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-15",
+            "footnotes": [
+                {
+                    "i": "Or, <i>treasure</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028016,
+            "text": "  It cannot be valued with the gold of Ophir,\n  With the precious <i>[j]</i>onyx, or the sapphire.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-16",
+            "footnotes": [
+                {
+                    "j": "Or, <i>beryl</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028017,
+            "text": "  Gold and glass cannot equal it,\n  Neither shall it be exchanged for <i>[k]</i>jewels of fine gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-17",
+            "footnotes": [
+                {
+                    "k": "Or, <i>vessels</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028018,
+            "text": "  No mention shall be made of coral or of crystal:\n  Yea, the price of wisdom is above <i>[l]</i>rubies.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-18",
+            "footnotes": [
+                {
+                    "l": "Or, <i>red coral</i>. Or, <i>pearls</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028019,
+            "text": "    The topaz of Ethiopia shall not equal it,\n    Neither shall it be valued with pure gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028020,
+            "text": "    Whence then cometh wisdom?\n    And where is the place of understanding?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028021,
+            "text": "    Seeing it is hid from the eyes of all living,\n    And kept close from the birds of the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028022,
+            "text": "   <i>[m]</i>Destruction and Death say,\n    We have heard a rumor thereof with our ears.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-22",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>Abaddon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028023,
+            "text": "\u00b6     God understandeth the way thereof,\n    And he knoweth the place thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028024,
+            "text": "    For he looketh to the ends of the earth,\n    And seeth under the whole heaven;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028025,
+            "text": "   <i>[n]</i>To make a weight for the wind:\n    Yea, he meteth out the waters by measure.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-25",
+            "footnotes": [
+                {
+                    "n": "Or, <i>When he maketh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028026,
+            "text": "    When he made a decree for the rain,\n    And a way for the lightning of the thunder;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028027,
+            "text": "  Then did he see it, and <i>[o]</i>declare it;\n    He established it, yea, and searched it out.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-27",
+            "footnotes": [
+                {
+                    "o": "Or, <i>recount</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18028028,
+            "text": "    And unto man he said,\n    Behold, the fear of the Lord, that is wisdom;\n    And to depart from evil is understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-28-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 28
+}

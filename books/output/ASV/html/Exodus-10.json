@@ -1,0 +1,275 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2010001,
+            "text": "\u00b6 And Jehovah said unto Moses, Go in unto Pharaoh: for I have <i>[a]</i>hardened his heart, and the heart of his servants, that I may show these my signs in the midst of them, ",
+            "version": "ASV",
+            "clsstr": "Exod-10-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>made heavy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010002,
+            "text": "and that thou mayest tell in the ears of thy son, and of thy son\u2019s son, <i>[b]</i>what things I have wrought upon Egypt, and my signs which I have done among them; that ye may know that I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>how I have mocked the Egyptians</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010003,
+            "text": "And Moses and Aaron went in unto Pharaoh, and said unto him, Thus saith Jehovah, the God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010004,
+            "text": "Else, if thou refuse to let my people go, behold, to-morrow will I bring locusts into thy border: ",
+            "version": "ASV",
+            "clsstr": "Exod-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010005,
+            "text": "and they shall cover the face of the earth, so that one shall not be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field: ",
+            "version": "ASV",
+            "clsstr": "Exod-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010006,
+            "text": "and thy houses shall be filled, and the houses of all thy servants, and the houses of all the Egyptians; as neither thy fathers nor thy fathers\u2019 fathers have seen, since the day that they were upon the earth unto this day. And he turned, and went out from Pharaoh. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010007,
+            "text": "And Pharaoh\u2019s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve Jehovah their God: knowest thou not yet that Egypt is destroyed? ",
+            "version": "ASV",
+            "clsstr": "Exod-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010008,
+            "text": "And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve Jehovah your God; but who are they that shall go? ",
+            "version": "ASV",
+            "clsstr": "Exod-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010009,
+            "text": "And Moses said, We will go with our young and with our old; with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010010,
+            "text": "And he said unto them, So be Jehovah with you, as I will let you go, and your little ones: look to it; for evil is <i>[c]</i>before you. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>what ye purpose</i>. Hebrew <i>before your face</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010011,
+            "text": "Not so: go now ye that are men, and serve Jehovah; for that is what ye desire. And they were driven out from Pharaoh\u2019s presence.",
+            "version": "ASV",
+            "clsstr": "Exod-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010012,
+            "text": "\u00b6 And Jehovah said unto Moses, Stretch out thy hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, even all that the hail hath left. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010013,
+            "text": "And Moses stretched forth his rod over the land of Egypt, and Jehovah brought an east wind upon the land all that day, and all the night; and when it was morning, the east wind brought the locusts. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010014,
+            "text": "And the locusts went up over all the land of Egypt, and rested in all the borders of Egypt; very grievous were they; before them there were no such locusts as they, neither after them shall be such. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010015,
+            "text": "For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing, either tree or herb of the field, through all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010016,
+            "text": "Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against Jehovah your God, and against you. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010017,
+            "text": "Now therefore forgive, I pray thee, my sin only this once, and entreat Jehovah your God, that he may take away from me this death only. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010018,
+            "text": "And he went out from Pharaoh, and entreated Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010019,
+            "text": "And Jehovah turned an exceeding strong west wind, which took up the locusts, and drove them into the Red Sea; there remained not one locust in all the border of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010020,
+            "text": "But Jehovah <i>[d]</i>hardened Pharaoh\u2019s heart, and he did not let the children of Israel go.",
+            "version": "ASV",
+            "clsstr": "Exod-10-20",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>made strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010021,
+            "text": "\u00b6 And Jehovah said unto Moses, Stretch out thy hand toward heaven, that there may be darkness over the land of Egypt, <i>[e]</i>even darkness which may be felt. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-21",
+            "footnotes": [
+                {
+                    "e": "Or, <i>so that men shall grope in darkness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010022,
+            "text": "And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days; ",
+            "version": "ASV",
+            "clsstr": "Exod-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010023,
+            "text": "they saw not one another, neither rose any one from his place for three days: but all the children of Israel had light in their dwellings. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010024,
+            "text": "And Pharaoh called unto Moses, and said, Go ye, serve Jehovah; only let your flocks and your herds be stayed: let your little ones also go with you. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010025,
+            "text": "And Moses said, Thou must also give into our hand sacrifices and burnt-offerings, that we may sacrifice unto Jehovah our God. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010026,
+            "text": "Our cattle also shall go with us; there shall not a hoof be left behind; for thereof must we take to serve Jehovah our God; and we know not with what we must serve Jehovah, until we come thither. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010027,
+            "text": "But Jehovah <i>[f]</i>hardened Pharaoh\u2019s heart, and he would not let them go. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-27",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>made strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010028,
+            "text": "And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in the day thou seest my face thou shalt die. ",
+            "version": "ASV",
+            "clsstr": "Exod-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2010029,
+            "text": "And Moses said, Thou hast spoken well; I will see thy face again no more.",
+            "version": "ASV",
+            "clsstr": "Exod-10-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 10
+}

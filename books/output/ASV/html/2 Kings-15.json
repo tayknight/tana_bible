@@ -1,0 +1,335 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 12,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 25,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 12,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 12015001,
+            "text": "\u00b6 In the twenty and seventh year of Jeroboam king of Israel began <i>[a]</i>Azariah son of Amaziah king of Judah to reign. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-1",
+            "footnotes": [
+                {
+                    "a": "In verses [[13]], [[30]], etc., <i>Uzziah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015002,
+            "text": "Sixteen years old was he when he began to reign; and he reigned two and fifty years in Jerusalem: and his mother\u2019s name was Jecoliah of Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015003,
+            "text": "And he did that which was right in the eyes of Jehovah, according to all that his father Amaziah had done. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015004,
+            "text": "Howbeit the high places were not taken away: the people still sacrificed and burnt incense in the high places. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015005,
+            "text": "And Jehovah smote the king, so that he was a leper unto the day of his death, and dwelt in a <i>[b]</i>separate house. And Jotham the king\u2019s son was over the household, judging the people of the land. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>infirmary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015006,
+            "text": "Now the rest of the acts of Azariah, and all that he did, are they not written in the book of the chronicles of the kings of Judah? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015007,
+            "text": "And Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015008,
+            "text": "\u00b6 In the thirty and eighth year of Azariah king of Judah did Zechariah the son of Jeroboam reign over Israel in Samaria six months. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015009,
+            "text": "And he did that which was evil in the sight of Jehovah, as his fathers had done: he departed not from the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015010,
+            "text": "And Shallum the son of Jabesh conspired against him, and smote him before the people, and slew him, and reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015011,
+            "text": "Now the rest of the acts of Zechariah, behold, they are written in the book of the chronicles of the kings of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015012,
+            "text": "This was the word of Jehovah which he spake unto Jehu, saying, Thy sons to the fourth generation shall sit upon the throne of Israel. And so it came to pass.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015013,
+            "text": "\u00b6 Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned the space of a month in Samaria. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015014,
+            "text": "And Menahem the son of Gadi went up from Tirzah, and came to Samaria, and smote Shallum the son of Jabesh in Samaria, and slew him, and reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015015,
+            "text": "Now the rest of the acts of Shallum, and his conspiracy which he made, behold, they are written in the book of the chronicles of the kings of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015016,
+            "text": "Then Menahem smote Tiphsah, and all that were therein, and the borders thereof, from Tirzah: because they opened not to him, therefore he smote it; and all the women therein that were with child he ripped up.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015017,
+            "text": "\u00b6 In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel,  ten years in Samaria. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015018,
+            "text": "And he did that which was evil in the sight of Jehovah: he departed not all his days from the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015019,
+            "text": "There came against the land Pul the king of Assyria; and Menahem gave Pul a thousand talents of silver, that his hand might be with him to confirm the kingdom in his hand. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015020,
+            "text": "And Menahem exacted the money of Israel, even of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015021,
+            "text": "Now the rest of the acts of Menahem, and all that he did, are they not written in the book of the chronicles of the kings of Israel? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015022,
+            "text": "And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015023,
+            "text": "\u00b6 In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria,  two years. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015024,
+            "text": "And he did that which was evil in the sight of Jehovah: he departed not from the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015025,
+            "text": "And Pekah the son of Remaliah, his captain, conspired against him, and smote him in Samaria, in the <i>[c]</i>castle of the king\u2019s house, with Argob and Arieh; and with him were fifty men of the Gileadites: and he slew him, and reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-25",
+            "footnotes": [
+                {
+                    "c": "Or, <i>palace</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015026,
+            "text": "Now the rest of the acts of Pekahiah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015027,
+            "text": "\u00b6 In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria,  twenty years. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015028,
+            "text": "And he did that which was evil in the sight of Jehovah: he departed not from the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015029,
+            "text": "\u00b6 In the days of Pekah king of Israel came Tiglath-pileser king of Assyria, and took Ijon, and Abel-beth-maacah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali; and he carried them captive to Assyria. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015030,
+            "text": "And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and smote him, and slew him, and reigned in his stead, in the twentieth year of Jotham the son of Uzziah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015031,
+            "text": "Now the rest of the acts of Pekah, and all that he did, behold, they are written in the book of the chronicles of the kings of Israel.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015032,
+            "text": "\u00b6 In the second year of Pekah the son of Remaliah king of Israel began Jotham the son of Uzziah king of Judah to reign. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015033,
+            "text": "Five and twenty years old was he when he began to reign; and he reigned sixteen years in Jerusalem: and his mother\u2019s name was Jerusha the daughter of Zadok. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015034,
+            "text": "And he did that which was right in the eyes of Jehovah; he did according to all that his father Uzziah had done. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015035,
+            "text": "Howbeit the high places were not taken away: the people still sacrificed and burned incense in the high places. He built the upper gate of the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015036,
+            "text": "Now the rest of the acts of Jotham, and all that he did, are they not written in the book of the chronicles of the kings of Judah? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015037,
+            "text": "In those days Jehovah began to send against Judah Rezin the king of Syria, and Pekah the son of Remaliah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12015038,
+            "text": "And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "2Kgs-15-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Kings",
+    "chapters": 15
+}

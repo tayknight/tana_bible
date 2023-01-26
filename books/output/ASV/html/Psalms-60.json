@@ -1,0 +1,143 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19060001,
+            "text": "<b>Lament over defeat in battle, and prayer for help.</b>\n\u00b6 For the Chief Musician; set to <i>[a]</i>Shushan Eduth. Michtam of David, to teach; when he strove with Aram-naharaim and with Aram-zobah, and Joab returned, and smote of Edom in the Valley of Salt twelve thousand.\u00b6     O God thou hast cast us off, thou hast broken us down;\n    Thou hast been angry; oh restore us again.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>The lily of testimony</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060002,
+            "text": "    Thou hast made the land to tremble; thou hast rent it:\n    Heal the breaches thereof; for it shaketh.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060003,
+            "text": "    Thou hast showed thy people hard things:\n    Thou hast made us to drink the wine of staggering.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060004,
+            "text": "    Thou hast given a banner to them that fear thee,\n    That it may be displayed because of the truth. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060005,
+            "text": "\u00b6   That thy beloved may be delivered,\n  Save with thy right hand, and answer <i>[b]</i>us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-5",
+            "footnotes": [
+                {
+                    "b": "Another reading is, <i>me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060006,
+            "text": "    God hath spoken in his holiness: I will exult;\n    I will divide Shechem, and mete out the valley of Succoth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060007,
+            "text": "  Gilead is mine, and Manasseh is mine;\n  Ephraim also is the defence of my head;\n  Judah is my <i>[c]</i>sceptre.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>lawgiver</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060008,
+            "text": "  Moab is my washpot;\n   <i>[d]</i>Upon Edom will I cast my shoe:\n    Philistia, shout thou because of me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Unto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060009,
+            "text": "  Who will bring me into the strong city?\n   <i>[e]</i>Who hath led me unto Edom?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Who will lead me etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060010,
+            "text": "   <i>[f]</i>Hast not thou, O God, cast us off?\n    And thou goest not forth, O God, with our hosts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-10",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Wilt not thou, O God, who hast cast us off, And goest\u00a0.\u00a0.\u00a0. hosts?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060011,
+            "text": "  Give us help against the adversary;\n  For vain is the <i>[g]</i>help of man.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-11",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19060012,
+            "text": "    Through God we shall do valiantly;\n    For he it is that will tread down our adversaries.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-60-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 60
+}

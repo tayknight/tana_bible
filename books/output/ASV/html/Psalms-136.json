@@ -1,0 +1,231 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19136001,
+            "text": "<b>Thanks for Jehovah\u2019s goodness to Israel.</b>\n\u00b6     Oh give thanks unto Jehovah; for he is good;\n    For his lovingkindness  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136002,
+            "text": "    Oh give thanks unto the God of gods;\n    For his lovingkindness  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136003,
+            "text": "    Oh give thanks unto the Lord of lords;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136004,
+            "text": "    To him who alone doeth great wonders;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136005,
+            "text": "    To him that by understanding made the heavens;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136006,
+            "text": "    To him that spread forth the earth above the waters;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136007,
+            "text": "    To him that made great lights;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136008,
+            "text": "    The sun to rule by day;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136009,
+            "text": "    The moon and stars to rule by night;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136010,
+            "text": "    To him that smote Egypt in their first-born;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136011,
+            "text": "    And brought out Israel from among them;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136012,
+            "text": "    With a strong hand, and with an outstretched arm;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136013,
+            "text": "    To him that divided the Red Sea in sunder;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136014,
+            "text": "    And made Israel to pass through the midst of it;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136015,
+            "text": "  But <i>[a]</i>overthrew Pharaoh and his host in the Red Sea;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-15",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>shook off</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136016,
+            "text": "    To him that led his people through the wilderness;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136017,
+            "text": "    To him that smote great kings;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136018,
+            "text": "    And slew famous kings;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136019,
+            "text": "    Sihon king of the Amorites;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136020,
+            "text": "    And Og king of Bashan;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136021,
+            "text": "    And gave their land for a heritage;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136022,
+            "text": "    Even a heritage unto Israel his servant;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136023,
+            "text": "    Who remembered us in our low estate;\n    For his lovingkindness  for ever;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136024,
+            "text": "    And hath delivered us from our adversaries;\n    For his lovingkindness  for ever:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136025,
+            "text": "    Who giveth food to all flesh;\n    For his lovingkindness  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19136026,
+            "text": "    Oh give thanks unto the God of heaven;\n    For his lovingkindness  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-136-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 136
+}

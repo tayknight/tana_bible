@@ -1,0 +1,418 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 12,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 25,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 12,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 12004001,
+            "text": "\u00b6 Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear Jehovah: and the creditor is come to take unto him my two children to be bondmen. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004002,
+            "text": "And Elisha said unto her, What shall I do for thee? tell me; what hast thou in the house? And she said, Thy handmaid hath not anything in the house, save a pot of oil. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004003,
+            "text": "Then he said, Go, borrow thee vessels abroad of all thy neighbors, even empty vessels; borrow not a few. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004004,
+            "text": "And thou shalt go in, and shut the door upon thee and upon thy sons, and pour out into all those vessels; and thou shalt set aside that which is full. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004005,
+            "text": "So she went from him, and shut the door upon her and upon her sons; they brought  to her, and she poured out. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004006,
+            "text": "And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, There is not a vessel more. And the oil stayed. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004007,
+            "text": "Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy sons of the rest.",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004008,
+            "text": "\u00b6 And it fell on a day, that Elisha passed to Shunem, where was a great woman; and she constrained him to eat bread. And so it was, that as oft as he passed by, he turned in thither to eat bread. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004009,
+            "text": "And she said unto her husband, Behold now, I perceive that this is a holy man of God, that passeth by us continually. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004010,
+            "text": "Let us make, I pray thee, a little chamber <i>[a]</i>on the wall; and let us set for him there a bed, and a table, and a seat, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-10",
+            "footnotes": [
+                {
+                    "a": "Or, <i>with walls</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004011,
+            "text": "And it fell on a day, that he came thither, and he turned into the chamber and lay there. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004012,
+            "text": "And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004013,
+            "text": "And he said unto him, Say now unto her, Behold, thou hast <i>[b]</i>been careful for us with all this care; what is to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-13",
+            "footnotes": [
+                {
+                    "b": "Or, <i>showed us all this reverence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004014,
+            "text": "And he said, What then is to be done for her? And Gehazi answered, Verily she hath no son, and her husband is old. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004015,
+            "text": "And he said, Call her. And when he had called her, she stood in the door. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004016,
+            "text": "And he said, At this season, when the time <i>[c]</i>cometh round, thou shalt embrace a son. And she said, Nay, my lord, thou man of God, do not lie unto thy handmaid.",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-16",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>liveth</i> (or, <i>reviveth</i>)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004017,
+            "text": "\u00b6 And the woman conceived, and bare a son at that season, when the time came round, as Elisha had said unto her. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004018,
+            "text": "And when the child was grown, it fell on a day, that he went out to his father to the reapers. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004019,
+            "text": "And he said unto his father, My head, my head. And he said to his servant, Carry him to his mother. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004020,
+            "text": "And when he had taken him, and brought him to his mother, he sat on her knees till noon, and then died. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004021,
+            "text": "And she went up and laid him on the bed of the man of God, and shut  upon him, and went out. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004022,
+            "text": "And she called unto her husband, and said, Send me, I pray thee, one of the servants, and one of the asses, that I may run to the man of God, and come again. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004023,
+            "text": "And he said, Wherefore wilt thou go to him to-day? it is neither new moon nor sabbath. And she said, <i>[d]</i>It shall be well. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-23",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>Peace</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004024,
+            "text": "Then she saddled an ass, and said to her servant, Drive, and go forward; slacken me not the riding, except I bid thee. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004025,
+            "text": "So she went, and came unto the man of God to mount Carmel.\u00b6 And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is the Shunammite: ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004026,
+            "text": "run, I pray thee, now to meet her, and say unto her, Is it well with thee? is it well with thy husband? is it well with the child? And she answered, It is well. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004027,
+            "text": "And when she came to the man of God to the hill, she caught hold of his feet. And Gehazi came near to thrust her away; but the man of God said, Let her alone: for her soul is <i>[e]</i>vexed within her; and Jehovah hath hid it from me, and hath not told me. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-27",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>bitter</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004028,
+            "text": "Then she said, Did I desire a son of my lord? did I not say, Do not deceive me? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004029,
+            "text": "Then he said to Gehazi, Gird up thy loins, and take my staff in thy hand, and go thy way: if thou meet any man, salute him not; and if any salute thee, answer him not again: and lay my staff upon the face of the child. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004030,
+            "text": "And the mother of the child said, As Jehovah liveth, and as thy soul liveth, I will not leave thee. And he arose, and followed her. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004031,
+            "text": "And Gehazi passed on before them, and laid the staff upon the face of the child; but there was neither voice, nor <i>[f]</i>hearing. Wherefore he returned to meet him, and told him, saying, The child is not awaked.",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-31",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>attention</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004032,
+            "text": "\u00b6 And when Elisha was come into the house, behold, the child was dead, and laid upon his bed. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004033,
+            "text": "He went in therefore, and shut the door upon them twain, and prayed unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004034,
+            "text": "And he went up, and lay upon the child, and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands: and he <i>[g]</i>stretched himself upon him; and the flesh of the child waxed warm. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-34",
+            "footnotes": [
+                {
+                    "g": "Or, <i>bowed himself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004035,
+            "text": "Then he returned, and walked in the house once to and fro; and went up, and <i>[h]</i>stretched himself upon him: <i>[i]</i>and the child sneezed seven times, and the child opened his eyes. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-35",
+            "footnotes": [
+                {
+                    "h": "Or, <i>bowed himself</i>"
+                },
+                {
+                    "i": "Or, <i>and embraced the child</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004036,
+            "text": "And he called Gehazi, and said, Call this Shunammite. So he called her. And when she was come in unto him, he said, Take up thy son. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004037,
+            "text": "Then she went in, and fell at his feet, and bowed herself to the ground; and she took up her son, and went out.",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004038,
+            "text": "\u00b6 And Elisha came again to Gilgal. And there was a dearth in the land; and the sons of the prophets were sitting before him; and he said unto his servant, Set on the great pot, and boil pottage for the sons of the prophets. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004039,
+            "text": "And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred them into the pot of pottage; for they knew them not. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004040,
+            "text": "So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O man of God, there is death in the pot. And they could not eat thereof. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004041,
+            "text": "But he said, Then bring meal. And he cast it into the pot; and he said, Pour out for the people, that they may eat. And there was no <i>[j]</i>harm in the pot.",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-41",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>evil thing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004042,
+            "text": "\u00b6 And there came a man from Baal-shalishah, and brought the man of God bread of the first-fruits, twenty loaves of barley, and fresh ears of grain in <i>[k]</i>his sack. And he said, Give unto the people, that they may eat. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-42",
+            "footnotes": [
+                {
+                    "k": "Or, <i>the husk thereof</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004043,
+            "text": "And his <i>[l]</i>servant said, What, should I set this before a hundred men? But he said, Give the people, that they may eat; for thus saith Jehovah, They shall eat, and shall leave thereof. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-43",
+            "footnotes": [
+                {
+                    "l": "Or, <i>minister</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12004044,
+            "text": "So he set it before them, and they did eat, and left thereof, according to the word of Jehovah.",
+            "version": "ASV",
+            "clsstr": "2Kgs-4-44",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Kings",
+    "chapters": 4
+}

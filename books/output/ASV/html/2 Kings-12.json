@@ -1,0 +1,209 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 12,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 25,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 12,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 12012001,
+            "text": "In the seventh year of Jehu began Jehoash to reign; and he reigned forty years in Jerusalem: and his mother\u2019s name was Zibiah of Beer-sheba. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012002,
+            "text": "And Jehoash did that which was right in the eyes of Jehovah all his days wherein Jehoiada the priest instructed him. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012003,
+            "text": "Howbeit the high places were not taken away; the people still sacrificed and burnt incense in the high places.",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012004,
+            "text": "\u00b6 And Jehoash said to the priests, All the money of the hallowed things that is brought into the house of Jehovah, <i>[a]</i>in current money, <i>[b]</i>the money of the persons for whom each man is rated, and all the money that it cometh into any man\u2019s heart to bring into the house of Jehovah, ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-4",
+            "footnotes": [
+                {
+                    "a": "Or, even <i>the money</i> of every one <i>that passeth</i> the numbering. See [[Ex. 30:13]]."
+                },
+                {
+                    "b": "Hebrew <i>each man the money of the souls of his estimation</i>. See [[Lev. 27:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012005,
+            "text": "let the priests take it to them, every man from his acquaintance; and they shall repair the breaches of the house, wheresoever any breach shall be found. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012006,
+            "text": "But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012007,
+            "text": "Then king Jehoash called for Jehoiada the priest, and for the  priests, and said unto them, Why repair ye not the breaches of the house? now therefore take no  money from your acquaintance, but deliver it for the breaches of the house. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012008,
+            "text": "And the priests consented that they should take no  money from the people, neither repair the breaches of the house.",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012009,
+            "text": "\u00b6 But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of Jehovah: and the priests that kept the threshold put therein all the money that was brought into the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012010,
+            "text": "And it was so, when they saw that there was much money in the chest, that the king\u2019s <i>[c]</i>scribe and the high priest came up, and they <i>[d]</i>put up in bags and counted the money that was found in the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>secretary</i>"
+                },
+                {
+                    "d": "Hebrew <i>bound up and etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012011,
+            "text": "And they gave the money that was weighed out into the hands of them that did the work, that had the oversight of the house of Jehovah: and they <i>[e]</i>paid it out to the carpenters and the builders, that wrought upon the house of Jehovah, ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-11",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>brought it forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012012,
+            "text": "and to the masons and the hewers of stone, and for buying timber and hewn stone to repair the breaches of the house of Jehovah, and for all that <i>[f]</i>was laid out for the house to repair it. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-12",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>went forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012013,
+            "text": "But there were not made for the house of Jehovah cups of silver, snuffers, basins, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of Jehovah; ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012014,
+            "text": "for they gave that to them that did the work, and repaired therewith the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012015,
+            "text": "Moreover they reckoned not with the men, into whose hand they delivered the money to give to them that did the work; for they dealt faithfully. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012016,
+            "text": "The money for the trespass-offerings, and the money for the sin-offerings, was not brought into the house of Jehovah: it was the priests\u2019.",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012017,
+            "text": "\u00b6 Then Hazael king of Syria went up, and fought against Gath, and took it; and Hazael set his face to go up to Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012018,
+            "text": "And Jehoash king of Judah took all the hallowed things that Jehoshaphat and Jehoram and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold that was found in the treasures of the house of Jehovah, and of the king\u2019s house, and sent it to Hazael king of Syria: and he went away from Jerusalem.",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012019,
+            "text": "\u00b6 Now the rest of the acts of Joash, and all that he did, are they not written in the book of the chronicles of the kings of Judah? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012020,
+            "text": "And his servants arose, and made a conspiracy, and smote Joash at the house of Millo,  that goeth down to Silla. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12012021,
+            "text": "For Jozacar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "2Kgs-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Kings",
+    "chapters": 12
+}

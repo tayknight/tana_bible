@@ -1,0 +1,224 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58003001,
+            "text": "\u00b6 Wherefore, holy brethren, partakers of a heavenly calling, consider the Apostle and High Priest of our confession,  Jesus; ",
+            "version": "ASV",
+            "clsstr": "Heb-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003002,
+            "text": "who was faithful to him that <i>[a]</i>appointed him, as also was Moses in all <i>[b]</i>his house. ",
+            "version": "ASV",
+            "clsstr": "Heb-3-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>made</i>."
+                },
+                {
+                    "b": "That is, <i>God\u2019s house</i>. See [[Num. 12:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003003,
+            "text": "For he hath been counted worthy of more glory than Moses, by so much as he that <i>[c]</i>built the house hath more honor than the house. ",
+            "version": "ASV",
+            "clsstr": "Heb-3-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>established</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003004,
+            "text": "For every house is <i>[d]</i>builded by some one; but he that <i>[e]</i>built all things is God. ",
+            "version": "ASV",
+            "clsstr": "Heb-3-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>established</i>"
+                },
+                {
+                    "e": "Or, <i>established</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003005,
+            "text": "And Moses indeed was faithful in all <i>[f]</i>his house as a servant, for a testimony of those things which were afterward to be spoken; ",
+            "version": "ASV",
+            "clsstr": "Heb-3-5",
+            "footnotes": [
+                {
+                    "f": "That is, <i>God\u2019s house</i>. See [[Num. 12:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003006,
+            "text": "but Christ as a son, over <i>[g]</i>his house; whose house are we, if we hold fast our boldness and the glorying of our hope firm unto the end. ",
+            "version": "ASV",
+            "clsstr": "Heb-3-6",
+            "footnotes": [
+                {
+                    "g": "That is, <i>God\u2019s house</i>. See [[Num. 12:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003007,
+            "text": "Wherefore, even as the Holy Spirit saith,\u00b6   <i>[h]</i>To-day if ye shall hear his voice,\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-3-7",
+            "footnotes": [
+                {
+                    "h": "[[Ps. 95:7ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003008,
+            "text": "    Harden not your hearts, as in the provocation,\n    Like as in the day of the trial in the wilderness,\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003009,
+            "text": "   <i>[i]</i>Where your fathers tried  by proving ,\n    And saw my works forty years.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-3-9",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Wherewith</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003010,
+            "text": "    Wherefore I was displeased with this generation,\n    And said, They do always err in their heart:\n    But they did not know my ways;\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003011,
+            "text": "  <i>[j]</i>As I sware in my wrath,\n   <i>[k]</i>They shall not enter into my rest.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-3-11",
+            "footnotes": [
+                {
+                    "j": "Or, <i>So</i>"
+                },
+                {
+                    "k": "Greek <i>If they shall enter</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003012,
+            "text": "\u00b6 Take heed, brethren, lest haply there shall be in any one of you an evil heart of unbelief, in falling away from the living God: ",
+            "version": "ASV",
+            "clsstr": "Heb-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003013,
+            "text": "but exhort one another day by day, so long as it is called To-day; lest any one of you be hardened by the deceitfulness of sin: ",
+            "version": "ASV",
+            "clsstr": "Heb-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003014,
+            "text": "for we are become partakers <i>[l]</i>of Christ, if we hold fast the beginning of our confidence firm unto the end: ",
+            "version": "ASV",
+            "clsstr": "Heb-3-14",
+            "footnotes": [
+                {
+                    "l": "Or, <i>with</i>. Compare [[1:9]]; [[3:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003015,
+            "text": "while it is said,\u00b6   <i>[m]</i>To-day if ye shall hear his voice,\n    Harden not your hearts, as in the provocation.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-3-15",
+            "footnotes": [
+                {
+                    "m": "[[Ps. 95:7f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003016,
+            "text": "\u00b6 For who, when they heard, did provoke? nay, did not all they that came out of Egypt by Moses? ",
+            "version": "ASV",
+            "clsstr": "Heb-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003017,
+            "text": "And with whom was he displeased forty years? was it not with them that sinned, whose <i>[n]</i>bodies fell in the wilderness? ",
+            "version": "ASV",
+            "clsstr": "Heb-3-17",
+            "footnotes": [
+                {
+                    "n": "Greek <i>limbs</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003018,
+            "text": "And to whom sware he that they should not enter into his rest, but to them that were disobedient? ",
+            "version": "ASV",
+            "clsstr": "Heb-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58003019,
+            "text": "And we see that they were not able to enter in because of unbelief.",
+            "version": "ASV",
+            "clsstr": "Heb-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 3
+}

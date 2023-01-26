@@ -1,0 +1,303 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5005001,
+            "text": "\u00b6 And Moses called unto all Israel, and said unto them, Hear, O Israel, the statutes and the ordinances which I speak in your ears this day, that ye may learn them, and observe to do them. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005002,
+            "text": "Jehovah our God made a covenant with us in Horeb. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005003,
+            "text": "Jehovah made not this covenant with our fathers, but with us, even us, who are all of us here alive this day. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005004,
+            "text": "Jehovah spake with you face to face in the mount out of the midst of the fire ",
+            "version": "ASV",
+            "clsstr": "Deut-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005005,
+            "text": "(I stood between Jehovah and you at that time, to show you the word of Jehovah: for ye were afraid because of the fire, and went not up into the mount), saying,",
+            "version": "ASV",
+            "clsstr": "Deut-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005006,
+            "text": "\u00b6 I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of <i>[a]</i>bondage.",
+            "version": "ASV",
+            "clsstr": "Deut-5-6",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>bondmen</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005007,
+            "text": "\u00b6 Thou shalt have no other gods <i>[b]</i>before me.",
+            "version": "ASV",
+            "clsstr": "Deut-5-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>besides me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005008,
+            "text": "\u00b6 Thou shalt not make unto thee a graven image,  any likeness  that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: ",
+            "version": "ASV",
+            "clsstr": "Deut-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005009,
+            "text": "thou shalt not bow down thyself unto them, nor serve them; for I, Jehovah, thy God, am a jealous God, visiting the iniquity of the fathers upon the children, and upon the third and upon the fourth generation of them that hate me; ",
+            "version": "ASV",
+            "clsstr": "Deut-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005010,
+            "text": "and showing lovingkindness unto <i>[c]</i>thousands of them that love me and keep my commandments.",
+            "version": "ASV",
+            "clsstr": "Deut-5-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>a thousand generations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005011,
+            "text": "\u00b6 Thou shalt not take the name of Jehovah thy God <i>[d]</i>in vain: for Jehovah will not hold him guiltless that taketh his name in vain.",
+            "version": "ASV",
+            "clsstr": "Deut-5-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>for vanity</i> (or, <i>falsehood</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005012,
+            "text": "\u00b6 Observe the sabbath day, to keep it holy, as Jehovah thy God commanded thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005013,
+            "text": "Six days shalt thou labor, and do all thy work; ",
+            "version": "ASV",
+            "clsstr": "Deut-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005014,
+            "text": "but the seventh day is a sabbath unto Jehovah thy God:  thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy man-servant and thy maid-servant may rest as well as thou. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005015,
+            "text": "And thou shalt remember that thou wast a servant in the land of Egypt, and Jehovah thy God brought thee out thence by a mighty hand and by an outstretched arm: therefore Jehovah thy God commanded thee to keep the sabbath day.",
+            "version": "ASV",
+            "clsstr": "Deut-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005016,
+            "text": "\u00b6 Honor thy father and thy mother, as Jehovah thy God commanded thee; that thy days may be long, and that it may go well with thee, in the land which Jehovah thy God giveth thee.",
+            "version": "ASV",
+            "clsstr": "Deut-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005017,
+            "text": "\u00b6 Thou shalt not kill.",
+            "version": "ASV",
+            "clsstr": "Deut-5-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005018,
+            "text": "\u00b6 Neither shalt thou commit adultery.",
+            "version": "ASV",
+            "clsstr": "Deut-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005019,
+            "text": "\u00b6 Neither shalt thou steal.",
+            "version": "ASV",
+            "clsstr": "Deut-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005020,
+            "text": "\u00b6 Neither shalt thou bear false witness against thy neighbor.",
+            "version": "ASV",
+            "clsstr": "Deut-5-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005021,
+            "text": "\u00b6 Neither shalt thou covet thy neighbor\u2019s wife; neither shalt thou desire thy neighbor\u2019s house, his field, or his man-servant, or his maid-servant, his ox, or his ass, or anything that is thy neighbor\u2019s.",
+            "version": "ASV",
+            "clsstr": "Deut-5-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005022,
+            "text": "\u00b6 These words Jehovah spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them upon two tables of stone, and gave them unto me. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005023,
+            "text": "And it came to pass, when ye heard the voice out of the midst of the darkness, while the mountain was burning with fire, that ye came near unto me, even all the heads of your tribes, and your elders; ",
+            "version": "ASV",
+            "clsstr": "Deut-5-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005024,
+            "text": "and ye said, Behold, Jehovah our God hath showed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth speak with man, and he liveth. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005025,
+            "text": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of Jehovah our God any more, then we shall die. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005026,
+            "text": "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived? ",
+            "version": "ASV",
+            "clsstr": "Deut-5-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005027,
+            "text": "Go thou near, and hear all that Jehovah our God shall say: and speak thou unto us all that Jehovah our God shall speak unto thee; and we will hear it, and do it.",
+            "version": "ASV",
+            "clsstr": "Deut-5-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005028,
+            "text": "\u00b6 And Jehovah heard the voice of your words, when ye spake unto me; and Jehovah said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005029,
+            "text": " <i>[e]</i>Oh that there were such a heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever! ",
+            "version": "ASV",
+            "clsstr": "Deut-5-29",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Oh that they had such a heart as this alway, to fear me, and keep all my commandments, that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005030,
+            "text": "Go say to them, Return ye to your tents. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005031,
+            "text": "But as for thee, stand thou here by me, and I will speak unto thee all the commandment, and the statutes, and the ordinances, which thou shalt teach them, that they may do them in the land which I give them to possess it. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005032,
+            "text": "Ye shall observe to do therefore as Jehovah your God hath commanded you: ye shall not turn aside to the right hand or to the left. ",
+            "version": "ASV",
+            "clsstr": "Deut-5-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5005033,
+            "text": "Ye shall walk in all the way which Jehovah your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.",
+            "version": "ASV",
+            "clsstr": "Deut-5-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 5
+}

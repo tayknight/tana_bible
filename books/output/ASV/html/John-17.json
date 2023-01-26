@@ -1,0 +1,271 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43017001,
+            "text": "\u00b6 These things spake Jesus; and lifting up his eyes to heaven, he said, Father, the hour is come; glorify thy Son, that the Son may glorify thee: ",
+            "version": "ASV",
+            "clsstr": "John-17-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017002,
+            "text": "even as thou gavest him authority over all flesh, that <i>[a]</i>to all whom thou hast given him, he should give eternal life. ",
+            "version": "ASV",
+            "clsstr": "John-17-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>whatsoever thou hast given him, to them he etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017003,
+            "text": "And this is life eternal, that they should know thee the only true God, and him whom thou didst send,  Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "John-17-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017004,
+            "text": "I glorified thee on the earth, having accomplished the work which thou hast given me to do. ",
+            "version": "ASV",
+            "clsstr": "John-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017005,
+            "text": "And now, Father, glorify thou me with thine own self with the glory which I had with thee before the world was. ",
+            "version": "ASV",
+            "clsstr": "John-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017006,
+            "text": "I manifested thy name unto the men whom thou gavest me out of the world: thine they were, and thou gavest them to me; and they have kept thy word. ",
+            "version": "ASV",
+            "clsstr": "John-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017007,
+            "text": "Now they know that all things whatsoever thou hast given me are from thee: ",
+            "version": "ASV",
+            "clsstr": "John-17-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017008,
+            "text": "for the words which thou gavest me I have given unto them; and they received , and knew of a truth that I came forth from thee, and they believed that thou didst send me. ",
+            "version": "ASV",
+            "clsstr": "John-17-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017009,
+            "text": "I <i>[b]</i>pray for them: I <i>[c]</i>pray not for the world, but for those whom thou hast given me; for they are thine: ",
+            "version": "ASV",
+            "clsstr": "John-17-9",
+            "footnotes": [
+                {
+                    "b": "Greek <i>make request</i>."
+                },
+                {
+                    "c": "Greek <i>make request</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017010,
+            "text": "and all things that are mine are thine, and thine are mine: and I am glorified in them. ",
+            "version": "ASV",
+            "clsstr": "John-17-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017011,
+            "text": "And I am no more in the world, and these are in the world, and I come to thee. Holy Father, keep them in thy name which thou hast given me, that they may be one, even as we . ",
+            "version": "ASV",
+            "clsstr": "John-17-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017012,
+            "text": "While I was with them, I kept them in thy name which thou hast given me: and I guarded them, and not one of them perished, but the son of perdition; <i>[d]</i>that the scripture might be fulfilled. ",
+            "version": "ASV",
+            "clsstr": "John-17-12",
+            "footnotes": [
+                {
+                    "d": "[[Ps. 41:9]]?"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017013,
+            "text": "But now I come to thee; and these things I speak in the world, that they may have my joy made full in themselves. ",
+            "version": "ASV",
+            "clsstr": "John-17-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017014,
+            "text": "I have given them thy word; and the world hated them, because they are not of the world, even as I am not of the world. ",
+            "version": "ASV",
+            "clsstr": "John-17-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017015,
+            "text": "I <i>[e]</i>pray not that thou shouldest take them <i>[f]</i>from the world, but that thou shouldest keep them <i>[g]</i>from <i>[h]</i>the evil . ",
+            "version": "ASV",
+            "clsstr": "John-17-15",
+            "footnotes": [
+                {
+                    "e": "Greek <i>make request</i>."
+                },
+                {
+                    "f": "Greek <i>out of</i>."
+                },
+                {
+                    "g": "Greek <i>out of</i>."
+                },
+                {
+                    "h": "Or, <i>evil</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017016,
+            "text": "They are not of the world, even as I am not of the world. ",
+            "version": "ASV",
+            "clsstr": "John-17-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017017,
+            "text": " <i>[i]</i>Sanctify them in the truth: thy word is truth. ",
+            "version": "ASV",
+            "clsstr": "John-17-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Consecrate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017018,
+            "text": "As thou didst send me into the world, even so sent I them into the world. ",
+            "version": "ASV",
+            "clsstr": "John-17-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017019,
+            "text": "And for their sakes I <i>[j]</i>sanctify myself, that they themselves also may be sanctified in truth. ",
+            "version": "ASV",
+            "clsstr": "John-17-19",
+            "footnotes": [
+                {
+                    "j": "Or, <i>consecrate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017020,
+            "text": "Neither for these only do I <i>[k]</i>pray, but for them also that believe on me through their word; ",
+            "version": "ASV",
+            "clsstr": "John-17-20",
+            "footnotes": [
+                {
+                    "k": "Greek <i>make request</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017021,
+            "text": "that they may all be one; even as thou, Father,  in me, and I in thee, that they also may be in us: that the world may believe that thou didst send me. ",
+            "version": "ASV",
+            "clsstr": "John-17-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017022,
+            "text": "And the glory which thou hast given me I have given unto them; that they may be one, even as we  one; ",
+            "version": "ASV",
+            "clsstr": "John-17-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017023,
+            "text": "I in them, and thou in me, that they may be perfected into one; that the world may know that thou didst send me, and lovedst them, even as thou lovedst me. ",
+            "version": "ASV",
+            "clsstr": "John-17-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017024,
+            "text": "Father, <i>[l]</i>I desire that they also whom thou hast given me be with me where I am, that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world. ",
+            "version": "ASV",
+            "clsstr": "John-17-24",
+            "footnotes": [
+                {
+                    "l": "Greek <i>that which thou hast given me, I desire that where I am, they also may be with me, that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017025,
+            "text": "O righteous Father, the world knew thee not, but I knew thee; and these knew that thou didst send me; ",
+            "version": "ASV",
+            "clsstr": "John-17-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43017026,
+            "text": "and I made known unto them thy name, and will make it known; that the love wherewith thou lovedst me may be in them, and I in them.",
+            "version": "ASV",
+            "clsstr": "John-17-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 17
+}

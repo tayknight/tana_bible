@@ -1,0 +1,247 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43002001,
+            "text": "\u00b6 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there: ",
+            "version": "ASV",
+            "clsstr": "John-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002002,
+            "text": "and Jesus also was bidden, and his disciples, to the marriage. ",
+            "version": "ASV",
+            "clsstr": "John-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002003,
+            "text": "And when the wine failed, the mother of Jesus saith unto him, They have no wine. ",
+            "version": "ASV",
+            "clsstr": "John-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002004,
+            "text": "And Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come. ",
+            "version": "ASV",
+            "clsstr": "John-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002005,
+            "text": "His mother saith unto the servants, Whatsoever he saith unto you, do it. ",
+            "version": "ASV",
+            "clsstr": "John-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002006,
+            "text": "Now there were six waterpots of stone set there after the Jews\u2019 manner of purifying, containing two or three firkins apiece. ",
+            "version": "ASV",
+            "clsstr": "John-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002007,
+            "text": "Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim. ",
+            "version": "ASV",
+            "clsstr": "John-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002008,
+            "text": "And he saith unto them, Draw out now, and bear unto the <i>[a]</i>ruler of the feast. And they bare it. ",
+            "version": "ASV",
+            "clsstr": "John-2-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>steward</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002009,
+            "text": "And when the ruler of the feast tasted the water <i>[b]</i>now become wine, and knew not whence it was (but the servants that had drawn the water knew), the ruler of the feast calleth the bridegroom, ",
+            "version": "ASV",
+            "clsstr": "John-2-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>that it had become</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002010,
+            "text": "and saith unto him, Every man setteth on first the good wine; and when  have drunk freely,  that which is worse: thou hast kept the good wine until now. ",
+            "version": "ASV",
+            "clsstr": "John-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002011,
+            "text": "This beginning of his signs did Jesus in Cana of Galilee, and manifested his glory; and his disciples believed on him.",
+            "version": "ASV",
+            "clsstr": "John-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002012,
+            "text": "\u00b6 After this he went down to Capernaum, he, and his mother, and  brethren, and his disciples; and there they abode not many days.",
+            "version": "ASV",
+            "clsstr": "John-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002013,
+            "text": "\u00b6 And the passover of the Jews was at hand, and Jesus went up to Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "John-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002014,
+            "text": "And he found in the temple those that sold oxen and sheep and doves, and the changers of money sitting: ",
+            "version": "ASV",
+            "clsstr": "John-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002015,
+            "text": "and he made a scourge of cords, and cast all out of the temple, both the sheep and the oxen; and he poured out the changers\u2019 money, and overthrew their tables; ",
+            "version": "ASV",
+            "clsstr": "John-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002016,
+            "text": "and to them that sold the doves he said, Take these things hence; make not my Father\u2019s house a house of merchandise. ",
+            "version": "ASV",
+            "clsstr": "John-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002017,
+            "text": "His disciples remembered that it was written, <i>[c]</i>Zeal for thy house shall eat me up. ",
+            "version": "ASV",
+            "clsstr": "John-2-17",
+            "footnotes": [
+                {
+                    "c": "[[Ps. 69:9]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002018,
+            "text": "The Jews therefore answered and said unto him, What sign showest thou unto us, seeing that thou doest these things? ",
+            "version": "ASV",
+            "clsstr": "John-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002019,
+            "text": "Jesus answered and said unto them, Destroy this <i>[d]</i>temple, and in three days I will raise it up. ",
+            "version": "ASV",
+            "clsstr": "John-2-19",
+            "footnotes": [
+                {
+                    "d": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002020,
+            "text": "The Jews therefore said, Forty and six years was this <i>[e]</i>temple in building, and wilt thou raise it up in three days? ",
+            "version": "ASV",
+            "clsstr": "John-2-20",
+            "footnotes": [
+                {
+                    "e": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002021,
+            "text": "But he spake of the <i>[f]</i>temple of his body. ",
+            "version": "ASV",
+            "clsstr": "John-2-21",
+            "footnotes": [
+                {
+                    "f": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002022,
+            "text": "When therefore he was raised from the dead, his disciples remembered that he spake this; and they believed the scripture, and the word which Jesus had said.",
+            "version": "ASV",
+            "clsstr": "John-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002023,
+            "text": "\u00b6 Now when he was in Jerusalem at the passover, during the feast, many believed on his name, beholding his signs which he did. ",
+            "version": "ASV",
+            "clsstr": "John-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002024,
+            "text": "But Jesus did not trust himself unto them, for that he knew all men, ",
+            "version": "ASV",
+            "clsstr": "John-2-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43002025,
+            "text": "and because he needed not that any one should bear witness concerning <i>[g]</i>man; for he himself knew what was in man.",
+            "version": "ASV",
+            "clsstr": "John-2-25",
+            "footnotes": [
+                {
+                    "g": "Or, <i>a man; for\u00a0.\u00a0.\u00a0. the man</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 2
+}

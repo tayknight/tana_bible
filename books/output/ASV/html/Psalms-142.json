@@ -1,0 +1,83 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19142001,
+            "text": "<b>Prayer for help in trouble.</b>\n\u00b6 Maschil of David, when he was in the cave; a Prayer.\u00b6     I cry with my voice unto Jehovah;\n    With my voice unto Jehovah do I make supplication.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-142-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19142002,
+            "text": "    I pour out my complaint before him;\n    I show before him my trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-142-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19142003,
+            "text": "  When my spirit <i>[a]</i>was overwhelmed within me,\n    Thou knewest my path.\n    In the way wherein I walk\n    Have they hidden a snare for me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-142-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>fainted</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19142004,
+            "text": "    Look on  right hand, and see;\n    For there is no man that knoweth me:\n    Refuge hath failed me;\n    No man careth for my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-142-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19142005,
+            "text": "    I cried unto thee, O Jehovah;\n    I said, Thou art my refuge,\n    My portion in the land of the living.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-142-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19142006,
+            "text": "    Attend unto my cry;\n    For I am brought very low:\n    Deliver me from my persecutors;\n    For they are stronger than I.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-142-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19142007,
+            "text": "  Bring my soul out of prison,\n  That I may give thanks unto thy name:\n  The righteous shall <i>[b]</i>compass me about;\n    For thou wilt deal bountifully with me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-142-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>crown themselves because of me</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 142
+}

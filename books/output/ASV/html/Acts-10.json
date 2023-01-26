@@ -1,0 +1,426 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44010001,
+            "text": "\u00b6 Now a certain man in Caesarea, Cornelius by name, a centurion of the <i>[a]</i>band called the Italian , ",
+            "version": "ASV",
+            "clsstr": "Acts-10-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>cohort</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010002,
+            "text": "a devout man, and one that feared God with all his house, who gave much alms to the people, and prayed to God always. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010003,
+            "text": "He saw in a vision openly, as it were about the ninth hour of the day, an angel of God coming in unto him, and saying to him, Cornelius. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010004,
+            "text": "And he, fastening his eyes upon him, and being affrighted, said, What is it, Lord? And he said unto him, Thy prayers and thine alms are gone up for a memorial before God. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010005,
+            "text": "And now send men to Joppa, and fetch one Simon, who is surnamed Peter: ",
+            "version": "ASV",
+            "clsstr": "Acts-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010006,
+            "text": "he lodgeth with one Simon a tanner, whose house is by the sea side. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010007,
+            "text": "And when the angel that spake unto him was departed, he called two of his household-servants, and a devout soldier of them that waited on him continually; ",
+            "version": "ASV",
+            "clsstr": "Acts-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010008,
+            "text": "and having rehearsed all things unto them, he sent them to Joppa.",
+            "version": "ASV",
+            "clsstr": "Acts-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010009,
+            "text": "\u00b6 Now on the morrow, as they were on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray, about the sixth hour: ",
+            "version": "ASV",
+            "clsstr": "Acts-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010010,
+            "text": "and he became hungry, and desired to eat: but while they made ready, he fell into a trance; ",
+            "version": "ASV",
+            "clsstr": "Acts-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010011,
+            "text": "and he beholdeth the heaven opened, and a certain vessel descending, as it were a great sheet, let down by four corners upon the earth: ",
+            "version": "ASV",
+            "clsstr": "Acts-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010012,
+            "text": "wherein were all manner of fourfooted beasts and creeping things of the earth and birds of the heaven. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010013,
+            "text": "And there came a voice to him, Rise, Peter; kill and eat. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010014,
+            "text": "But Peter said, Not so, Lord; for I have never eaten anything that is common and unclean. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010015,
+            "text": "And a voice  unto him again the second time, What God hath cleansed, make not thou common. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010016,
+            "text": "And this was done thrice: and straightway the vessel was received up into heaven.",
+            "version": "ASV",
+            "clsstr": "Acts-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010017,
+            "text": "\u00b6 Now while Peter was much perplexed in himself what the vision which he had seen might mean, behold, the men that were sent by Cornelius, having made inquiry for Simon\u2019s house, stood before the gate, ",
+            "version": "ASV",
+            "clsstr": "Acts-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010018,
+            "text": "and called and asked whether Simon, who was surnamed Peter, were lodging there. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010019,
+            "text": "And while Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010020,
+            "text": "But arise, and get thee down, and go with them, nothing doubting: for I have sent them. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010021,
+            "text": "And Peter went down to the men, and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come? ",
+            "version": "ASV",
+            "clsstr": "Acts-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010022,
+            "text": "And they said, Cornelius a centurion, a righteous man and one that feareth God, and well reported of by all the nation of the Jews, was warned  by a holy angel to send for thee into his house, and to hear words from thee. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010023,
+            "text": "So he called them in and lodged them.\u00b6 And on the morrow he arose and went forth with them, and certain of the brethren from Joppa accompanied him. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010024,
+            "text": "And on the morrow <i>[b]</i>they entered into Caesarea. And Cornelius was waiting for them, having called together his kinsmen and his near friends. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-24",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities read <i>he</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010025,
+            "text": "And when it came to pass that Peter entered, Cornelius met him, and fell down at his feet, and <i>[c]</i>worshipped him. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-25",
+            "footnotes": [
+                {
+                    "c": "The Greek word denotes an act of reverence, whether paid to a creature or to the Creator."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010026,
+            "text": "But Peter raised him up, saying, Stand up; I myself also am a man. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010027,
+            "text": "And as he talked with him, he went in, and findeth many come together: ",
+            "version": "ASV",
+            "clsstr": "Acts-10-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010028,
+            "text": "and he said unto them, Ye yourselves know <i>[d]</i>how it is an unlawful thing for a man that is a Jew to join himself or come unto one of another nation; and  unto me hath God showed that I should not call any man common or unclean: ",
+            "version": "ASV",
+            "clsstr": "Acts-10-28",
+            "footnotes": [
+                {
+                    "d": "Or, <i>how unlawful it is for a man etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010029,
+            "text": "wherefore also I came without gainsaying, when I was sent for. I ask therefore with what intent ye sent for me. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010030,
+            "text": "And Cornelius said, Four days ago, until this hour, I was keeping the ninth hour of prayer in my house; and behold, a man stood before me in bright apparel, ",
+            "version": "ASV",
+            "clsstr": "Acts-10-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010031,
+            "text": "and saith, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010032,
+            "text": "Send therefore to Joppa, and call unto thee Simon, who is surnamed Peter; he lodgeth in the house of Simon a tanner, by the sea side. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010033,
+            "text": "Forthwith therefore I sent to thee; and thou hast well done that thou art come. Now therefore we are all here present in the sight of God, to hear all things that have been commanded thee of the Lord. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010034,
+            "text": "And Peter opened his mouth, and said,\u00b6 Of a truth I perceive that God is no respecter of persons: ",
+            "version": "ASV",
+            "clsstr": "Acts-10-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010035,
+            "text": "but in every nation he that feareth him, and worketh righteousness, is acceptable to him. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010036,
+            "text": " <i>[e]</i>The word which he sent unto the children of Israel, preaching <i>[f]</i>good tidings of peace by Jesus Christ (he is Lord of all)\u2014",
+            "version": "ASV",
+            "clsstr": "Acts-10-36",
+            "footnotes": [
+                {
+                    "e": "Many ancient authorities read <i>He sent the word unto</i>."
+                },
+                {
+                    "f": "Or, <i>the gospel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010037,
+            "text": "that saying ye yourselves know, which was published throughout all Judaea, beginning from Galilee, after the baptism which John preached; ",
+            "version": "ASV",
+            "clsstr": "Acts-10-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010038,
+            "text": " Jesus of Nazareth, how God anointed him with the Holy Spirit and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010039,
+            "text": "And we are witnesses of all things which he did both in the country of the Jews, and in Jerusalem; whom also they slew, hanging him on a tree. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010040,
+            "text": "Him God raised up the third day, and gave him to be made manifest, ",
+            "version": "ASV",
+            "clsstr": "Acts-10-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010041,
+            "text": "not to all the people, but unto witnesses that were chosen before of God,  to us, who ate and drank with him after he rose from the dead. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010042,
+            "text": "And he charged us to preach unto the people, and to testify that this is he who is ordained of God  the Judge of the living and the dead. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010043,
+            "text": "To him bear all the prophets witness, that through his name every one that believeth on him shall receive remission of sins.",
+            "version": "ASV",
+            "clsstr": "Acts-10-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010044,
+            "text": "\u00b6 While Peter yet spake these words, the Holy Spirit fell on all them that heard the word. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010045,
+            "text": "And they of the circumcision that believed were amazed, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Acts-10-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010046,
+            "text": "For they heard them speak with tongues, and magnify God. Then answered Peter, ",
+            "version": "ASV",
+            "clsstr": "Acts-10-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010047,
+            "text": "Can any man forbid the water, that these should not be baptized, who have received the Holy Spirit as well as we? ",
+            "version": "ASV",
+            "clsstr": "Acts-10-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44010048,
+            "text": "And he commanded them to be baptized in the name of Jesus Christ. Then prayed they him to tarry certain days.",
+            "version": "ASV",
+            "clsstr": "Acts-10-48",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 10
+}

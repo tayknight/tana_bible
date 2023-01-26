@@ -1,0 +1,484 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5032001,
+            "text": "\u00b6     Give ear, ye heavens, and I will speak;\n    And let the earth hear the words of my mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032002,
+            "text": "    My doctrine shall drop as the rain;\n    My speech shall distil as the dew,\n    As the small rain upon the tender grass,\n    And as the showers upon the herb.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032003,
+            "text": "    For I will proclaim the name of Jehovah:\n    Ascribe ye greatness unto our God.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032004,
+            "text": "    The Rock, his work is perfect;\n    For all his ways are justice:\n    A God of faithfulness and without iniquity,\n    Just and right is he.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032005,
+            "text": " They have <i>[a]</i>dealt corruptly with him, not his children, <i>[b]</i> their blemish;\n     a perverse and crooked generation.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>corrupted themselves</i>, they <i>etc.</i>"
+                },
+                {
+                    "b": "Or, but <i>a blot upon them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032006,
+            "text": "  Do ye thus requite Jehovah,\n  O foolish people and unwise?\n  Is not he thy father that hath <i>[c]</i>bought thee?\n    He hath made thee, and established thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>possessed</i>. Or, <i>gotten</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032007,
+            "text": "    Remember the days of old,\n    Consider the years of many generations:\n    Ask thy father, and he will show thee;\n    Thine elders, and they will tell thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032008,
+            "text": "    When the Most High gave to the nations their inheritance,\n    When he separated the children of men,\n    He set the bounds of the peoples\n    According to the number of the children of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032009,
+            "text": "    For Jehovah\u2019s portion is his people;\n    Jacob is the lot of his inheritance.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032010,
+            "text": "    He found him in a desert land,\n    And in the waste howling wilderness;\n    He compassed him about, he cared for him,\n    He kept him as the apple of his eye.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032011,
+            "text": "  As an eagle that stirreth up her nest,\n  That fluttereth over her young,\n   <i>[d]</i>He spread abroad his wings, he took them,\n    He bare them on his pinions.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Spreadeth abroad her wings, taketh them, beareth them on her pinions</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032012,
+            "text": "    Jehovah alone did lead him,\n    And there was no foreign god with him.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032013,
+            "text": "    He made him ride on the high places of the earth,\n    And he did eat the increase of the field;\n    And he made him to suck honey out of the rock,\n    And oil out of the flinty rock;\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032014,
+            "text": "  Butter of the herd, and milk of the flock,\n  With fat of lambs,\n  And rams of the breed of Bashan, and goats,\n  With the <i>[e]</i>finest of the wheat;\n    And of the blood of the grape thou drankest wine.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-14",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>fat of kidneys of wheat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032015,
+            "text": "    But Jeshurun waxed fat, and kicked:\n    Thou art waxed fat, thou art grown thick, thou art become sleek;\n    Then he forsook God who made him,\n    And lightly esteemed the Rock of his salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032016,
+            "text": "    They moved him to jealousy with strange ;\n    With abominations provoked they him to anger.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032017,
+            "text": "    They sacrificed unto demons,  no God,\n    To gods that they knew not,\n    To new  that came up of late,\n    Which your fathers dreaded not.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032018,
+            "text": "  Of the Rock that <i>[f]</i>begat thee thou art unmindful,\n    And hast forgotten God that gave thee birth.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-18",
+            "footnotes": [
+                {
+                    "f": "Or, <i>bare</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032019,
+            "text": "    And Jehovah saw , and abhorred ,\n    Because of the provocation of his sons and his daughters.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032020,
+            "text": "    And he said, I will hide my face from them,\n    I will see what their end shall be:\n    For they are a very perverse generation,\n    Children in whom is no faithfulness.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032021,
+            "text": "    They have moved me to jealousy with that which is not God;\n    They have provoked me to anger with their vanities:\n    And I will move them to jealousy with those that are not a people;\n    I will provoke them to anger with a foolish nation.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032022,
+            "text": "    For a fire is kindled in mine anger,\n    And burneth unto the lowest Sheol,\n    And devoureth the earth with its increase,\n    And setteth on fire the foundations of the mountains.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032023,
+            "text": "    I will heap evils upon them;\n    I will spend mine arrows upon them:\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032024,
+            "text": "   wasted with hunger, and devoured with <i>[g]</i>burning heat\n    And bitter destruction;\n    And the teeth of beasts will I send upon them,\n    With the poison of crawling things of the dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-24",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>burning coals</i>. See [[Hab. 3:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032025,
+            "text": "    Without shall the sword bereave,\n    And in the chambers terror;\n     both young man and virgin,\n    The suckling with the man of gray hairs.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032026,
+            "text": "    I said, I would scatter them afar,\n    I would make the remembrance of them to cease from among men;\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032027,
+            "text": "    Were it not that I feared the provocation of the enemy,\n    Lest their adversaries should judge amiss,\n    Lest they should say, Our hand is exalted,\n    And Jehovah hath not done all this.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032028,
+            "text": "    For they are a nation void of counsel,\n    And there is no understanding in them.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032029,
+            "text": "    Oh that they were wise, that they understood this,\n    That they would consider their latter end!\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032030,
+            "text": "    How should one chase a thousand,\n    And two put ten thousand to flight,\n    Except their Rock had sold them,\n    And Jehovah had delivered them up?\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032031,
+            "text": "    For their rock is not as our Rock,\n    Even our enemies themselves being judges.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032032,
+            "text": "    For their vine is of the vine of Sodom,\n    And of the fields of Gomorrah:\n    Their grapes are grapes of gall,\n    Their clusters are bitter:\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032033,
+            "text": "    Their wine is the poison of serpents,\n    And the cruel venom of asps.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032034,
+            "text": "  Is not this laid up in store with me,\n  Sealed up <i>[h]</i>among my treasures?\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-34",
+            "footnotes": [
+                {
+                    "h": "Or, <i>in my treasuries</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032035,
+            "text": "    Vengeance is mine, and recompense,\n    At the time when their foot shall slide:\n    For the day of their calamity is at hand,\n    And the things that are to come upon them shall make haste.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032036,
+            "text": "    For Jehovah will judge his people,\n    And repent himself for his servants;\n    When he seeth that  power is gone,\n    And there is none , shut up or left at large.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032037,
+            "text": "    And he will say, Where are their gods,\n    The rock in which they took refuge;\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032038,
+            "text": "    Which did eat the fat of their sacrifices,\n     drank the wine of their drink-offering?\n    Let them rise up and help you,\n    Let them be your protection.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032039,
+            "text": "    See now that I, even I, am he,\n    And there is no god with me:\n    I kill, and I make alive;\n    I wound, and I heal;\n    And there is none that can deliver out of my hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032040,
+            "text": "    For I lift up my hand to heaven,\n    And say, As I live for ever,\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032041,
+            "text": "  If I whet <i>[i]</i>my glittering sword,\n    And my hand take hold on judgment;\n    I will render vengeance to mine adversaries,\n    And will recompense them that hate me.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-41",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>the lightning of my sword</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032042,
+            "text": " I will make mine arrows drunk with blood,\n And my sword shall devour flesh;\n With the blood of the slain and the captives,\n  <i>[j]</i>From <i>[k]</i>the head of the leaders of the enemy.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-42",
+            "footnotes": [
+                {
+                    "j": "Or, <i>From the beginning of revenges upon the enemy</i>"
+                },
+                {
+                    "k": "Or, <i>the hairy head of the enemy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032043,
+            "text": "  <i>[l]</i>Rejoice, O <i>[m]</i>ye nations,  his people:\n    For he will avenge the blood of his servants,\n    And will render vengeance to his adversaries,\n    And will make expiation for his land, for his people.\n    ",
+            "version": "ASV",
+            "clsstr": "Deut-32-43",
+            "footnotes": [
+                {
+                    "l": "Or, <i>Praise his people, ye nations</i>"
+                },
+                {
+                    "m": "Or, <i>ye nations, his people</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032044,
+            "text": "\u00b6 And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun. ",
+            "version": "ASV",
+            "clsstr": "Deut-32-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032045,
+            "text": "And Moses made an end of speaking all these words to all Israel; ",
+            "version": "ASV",
+            "clsstr": "Deut-32-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032046,
+            "text": "and he said unto them, Set your heart unto all the words which I testify unto you this day, which ye shall command your children to observe to do,  all the words of this law. ",
+            "version": "ASV",
+            "clsstr": "Deut-32-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032047,
+            "text": "For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days in the land, whither ye go over the Jordan to possess it.",
+            "version": "ASV",
+            "clsstr": "Deut-32-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032048,
+            "text": "\u00b6 And Jehovah spake unto Moses that selfsame day, saying, ",
+            "version": "ASV",
+            "clsstr": "Deut-32-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032049,
+            "text": "Get thee up into this mountain of Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession; ",
+            "version": "ASV",
+            "clsstr": "Deut-32-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032050,
+            "text": "and die in the mount whither thou goest up, and be gathered unto thy people, as Aaron thy brother died in mount Hor, and was gathered unto his people: ",
+            "version": "ASV",
+            "clsstr": "Deut-32-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032051,
+            "text": "because ye trespassed against me in the midst of the children of Israel at the waters of Meribah of Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Deut-32-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5032052,
+            "text": "For thou shalt see the land before thee; but thou shalt not go thither into the land which I give the children of Israel.",
+            "version": "ASV",
+            "clsstr": "Deut-32-52",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 32
+}

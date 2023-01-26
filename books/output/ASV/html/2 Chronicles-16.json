@@ -1,0 +1,147 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14016001,
+            "text": "\u00b6 In the six and thirtieth year of the reign of Asa, Baasha king of Israel went up against Judah, and built Ramah, that he might not suffer any one to go out or come in to Asa king of Judah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016002,
+            "text": "Then Asa brought out silver and gold out of the treasures of the house of Jehovah and of the king\u2019s house, and sent to Ben-hadad king of Syria, that dwelt at <i>[a]</i>Damascus, saying, ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Darmesek</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016003,
+            "text": " <i>[b]</i> a league between me and thee, as  between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-3",
+            "footnotes": [
+                {
+                    "b": "Or, Let there be"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016004,
+            "text": "And Ben-hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel-maim, and all the <i>[c]</i>store-cities of Naphtali. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-4",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>storehouses of the cities</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016005,
+            "text": "And it came to pass, when Baasha heard thereof, that he left off building Ramah, and let his work cease. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016006,
+            "text": "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and he built therewith Geba and Mizpah.",
+            "version": "ASV",
+            "clsstr": "2Chr-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016007,
+            "text": "\u00b6 And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and hast not relied on Jehovah thy God, therefore is the host of the king of Syria escaped out of thy hand. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016008,
+            "text": "Were not the Ethiopians and the Lubim a huge host, with chariots and horsemen exceeding many? yet, because thou didst rely on Jehovah, he delivered them into thy hand. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016009,
+            "text": "For the eyes of Jehovah run to and fro throughout the whole earth, to show himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly; for from henceforth thou shalt have wars. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016010,
+            "text": "Then Asa was wroth with the seer, and put him in the <i>[d]</i>prison-house; for he was in a rage with him because of this thing. And Asa oppressed some of the people at the same time.",
+            "version": "ASV",
+            "clsstr": "2Chr-16-10",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>house of the stocks</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016011,
+            "text": "\u00b6 And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016012,
+            "text": "And in the thirty and ninth year of his reign Asa was diseased in his feet; his disease was exceeding great: yet in his disease he sought not to Jehovah, but to the physicians. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016013,
+            "text": "And Asa slept with his fathers, and died in the one and fortieth year of his reign. ",
+            "version": "ASV",
+            "clsstr": "2Chr-16-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14016014,
+            "text": "And they buried him in his own sepulchres, which he had hewn out for himself in the city of David, and laid him in the bed which was filled with sweet odors and divers kinds  prepared by the perfumers\u2019 art: and they made a very great burning for him.",
+            "version": "ASV",
+            "clsstr": "2Chr-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 16
+}

@@ -1,0 +1,307 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24022001,
+            "text": "\u00b6 Thus said Jehovah: Go down to the house of the king of Judah, and speak there this word, ",
+            "version": "ASV",
+            "clsstr": "Jer-22-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022002,
+            "text": "and say, Hear the word of Jehovah, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022003,
+            "text": "Thus saith Jehovah: Execute ye justice and righteousness, and deliver him that is robbed out of the hand of the oppressor: and do no wrong, do no violence, to the sojourner, the fatherless, nor the widow; neither shed innocent blood in this place. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022004,
+            "text": "For if ye do this thing indeed, then shall there enter in by the gates of this house kings sitting <i>[a]</i>upon the throne of David, riding in chariots and on horses, he, and his servants, and his people. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>for David upon his throne</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022005,
+            "text": "But if ye will not hear these words, I swear by myself, saith Jehovah, that this house shall become a desolation. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022006,
+            "text": "For thus saith Jehovah <i>[b]</i>concerning the house of the king of Judah: Thou art Gilead unto me,  the head of Lebanon;  surely I will make thee a wilderness,  cities which are not inhabited. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>unto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022007,
+            "text": "And I will <i>[c]</i>prepare destroyers against thee, every one with his weapons; and they shall cut down thy choice cedars, and cast them into the fire. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-7",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>sanctify</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022008,
+            "text": "And many nations shall pass by this city, and they shall say every man to his neighbor, Wherefore hath Jehovah done thus unto this great city? ",
+            "version": "ASV",
+            "clsstr": "Jer-22-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022009,
+            "text": "Then they shall answer, Because they forsook the covenant of Jehovah their God, and worshipped other gods, and served them.",
+            "version": "ASV",
+            "clsstr": "Jer-22-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022010,
+            "text": "\u00b6 Weep ye not for the dead, neither bemoan him; but weep sore for him that goeth away; for he shall return no more, nor see his native country. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022011,
+            "text": "For thus saith Jehovah touching <i>[d]</i>Shallum the son of Josiah, king of Judah, who reigned instead of Josiah his father,  who went forth out of this place: He shall not return thither any more; ",
+            "version": "ASV",
+            "clsstr": "Jer-22-11",
+            "footnotes": [
+                {
+                    "d": "In [[2 Kin. 23:30]], <i>Jehoahaz</i>. Compare [[1 Chr. 3:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022012,
+            "text": "but in the place whither they have led him captive, there shall he die, and he shall see this land no more.",
+            "version": "ASV",
+            "clsstr": "Jer-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022013,
+            "text": "\u00b6 Woe unto him that buildeth his house by unrighteousness, and his chambers by injustice; that useth his neighbor\u2019s service without wages, and giveth him not his hire; ",
+            "version": "ASV",
+            "clsstr": "Jer-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022014,
+            "text": "that saith, I will build me a wide house and spacious chambers, and cutteth him out windows; and it is ceiled with cedar, and painted with vermilion. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022015,
+            "text": "Shalt thou reign, because thou <i>[e]</i>strivest to excel in cedar? Did not thy father eat and drink, and do justice and righteousness? then it was well with him. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>viest with the cedar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022016,
+            "text": "He judged the cause of the poor and needy; then it was well. Was not this to know me? saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022017,
+            "text": "But thine eyes and thy heart are not but for thy <i>[f]</i>covetousness, and for shedding innocent blood, and for oppression, and for violence, to do it. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>dishonest gain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022018,
+            "text": "Therefore thus saith Jehovah concerning Jehoiakim the son of Josiah, king of Judah: they shall not lament for him, , Ah my brother! or, Ah sister! They shall not lament for him,  Ah lord! or, Ah his glory! ",
+            "version": "ASV",
+            "clsstr": "Jer-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022019,
+            "text": "He shall be buried with the burial of an ass, drawn and cast forth beyond the gates of Jerusalem.",
+            "version": "ASV",
+            "clsstr": "Jer-22-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022020,
+            "text": "\u00b6 Go up to Lebanon, and cry; and lift up thy voice in Bashan, and cry from Abarim; for all thy lovers are destroyed. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022021,
+            "text": "I spake unto thee in thy prosperity; but thou saidst, I will not hear. This hath been thy manner from thy youth, that thou obeyedst not my voice. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022022,
+            "text": "The wind shall <i>[g]</i>feed all thy shepherds, and thy lovers shall go into captivity: surely then shalt thou be ashamed and confounded for all thy wickedness. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-22",
+            "footnotes": [
+                {
+                    "g": "Or, <i>feed upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022023,
+            "text": "O <i>[h]</i>inhabitant of Lebanon, that makest thy nest in the cedars, how greatly to be pitied shalt thou be when pangs come upon thee, the pain as of a woman in travail!",
+            "version": "ASV",
+            "clsstr": "Jer-22-23",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>inhabitress</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022024,
+            "text": "\u00b6 As I live, saith Jehovah, though <i>[i]</i>Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck thee thence; ",
+            "version": "ASV",
+            "clsstr": "Jer-22-24",
+            "footnotes": [
+                {
+                    "i": "In [[24:1]] and [[1 Chr. 3:16]], <i>Jeconiah</i>. In [[2 Kin. 24:6]], [[8]], <i>Jehoiachin</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022025,
+            "text": "and I will give thee into the hand of them that seek thy life, and into the hand of them of whom thou art afraid, even into the hand of Nebuchadrezzar king of Babylon, and into the hand of the Chaldeans. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022026,
+            "text": "And I will cast thee out, and thy mother that bare thee, into another country, where ye were not born; and there shall ye die. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022027,
+            "text": "But to the land whereunto <i>[j]</i>their soul longeth to return, thither shall they not return. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-27",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>they lift up their soul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022028,
+            "text": "Is this man Coniah a despised broken <i>[k]</i>vessel? is he a vessel wherein none delighteth? wherefore are they cast out, he and his seed, and are cast into the land which they know not? ",
+            "version": "ASV",
+            "clsstr": "Jer-22-28",
+            "footnotes": [
+                {
+                    "k": "Or, <i>pot</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022029,
+            "text": "O <i>[l]</i>earth, earth, earth, hear the word of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-22-29",
+            "footnotes": [
+                {
+                    "l": "Or, <i>land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24022030,
+            "text": "Thus saith Jehovah, Write ye this man childless, a man that shall not prosper in his days; for no more shall a man of his seed prosper, sitting upon the throne of David, and ruling in Judah.",
+            "version": "ASV",
+            "clsstr": "Jer-22-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 22
+}

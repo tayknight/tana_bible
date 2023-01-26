@@ -1,0 +1,269 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26012001,
+            "text": "\u00b6 The word of Jehovah also came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012002,
+            "text": "Son of man, thou dwellest in the midst of the rebellious house, that have eyes to see, and see not, that have ears to hear, and hear not; for they are a rebellious house. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012003,
+            "text": "Therefore, thou son of man, prepare thee stuff for <i>[a]</i>removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will <i>[b]</i>consider, though they are a rebellious house. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>exile</i>"
+                },
+                {
+                    "b": "Or, <i>perceive that they are</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012004,
+            "text": "And thou shalt bring forth thy stuff by day in their sight, as stuff for <i>[c]</i>removing; and thou shalt go forth thyself at even in their sight, as when men go forth into exile. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>exile</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012005,
+            "text": "Dig thou through the wall in their sight, and carry out thereby. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012006,
+            "text": "In their sight shalt thou bear it upon thy shoulder, and carry it forth in the dark; thou shalt cover thy face, that thou see not the land: for I have set thee for a sign unto the house of Israel.",
+            "version": "ASV",
+            "clsstr": "Ezek-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012007,
+            "text": "\u00b6 And I did so as I was commanded: I brought forth my stuff by day, as stuff for removing, and in the even I digged through the wall with my hand; I brought it forth in the dark, and bare it upon my shoulder in their sight.",
+            "version": "ASV",
+            "clsstr": "Ezek-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012008,
+            "text": "\u00b6 And in the morning came the word of Jehovah unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012009,
+            "text": "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou? ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012010,
+            "text": "Say thou unto them, Thus saith the Lord Jehovah: This <i>[d]</i>burden the prince in Jerusalem, and all the house of Israel <i>[e]</i>among whom they are. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>oracle</i>"
+                },
+                {
+                    "e": "Or, <i>that are among them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012011,
+            "text": "Say, I am your sign: like as I have done, so shall it be done unto them; they shall go into exile, into captivity. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012012,
+            "text": "And the prince that is among them shall bear upon his shoulder in the dark, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, because he shall not see the land with his eyes. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012013,
+            "text": "My net also will I spread upon him, and he shall be taken in my snare; and I will bring him to Babylon to the land of the Chaldeans; yet shall he not see it, though he shall die there. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012014,
+            "text": "And I will scatter toward every wind all that are round about him to help him, and all his bands; and I will draw out the sword after them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012015,
+            "text": "And they shall know that I am Jehovah, when I shall disperse them among the nations, and scatter them through the countries. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012016,
+            "text": "But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the nations whither they come; and they shall know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012017,
+            "text": "\u00b6 Moreover the word of Jehovah came to me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012018,
+            "text": "Son of man, eat thy bread with quaking, and drink thy water with trembling and with fearfulness; ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012019,
+            "text": "and say unto the people of the land, Thus saith the Lord Jehovah concerning the inhabitants of Jerusalem, and the land of Israel: They shall eat their bread with fearfulness, and drink their water in dismay, that her land may be desolate, of <i>[f]</i>all that is therein, because of the violence of all them that dwell therein. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-19",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>the fulness thereof</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012020,
+            "text": "And the cities that are inhabited shall be laid waste, and the land shall be a desolation; and ye shall know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012021,
+            "text": "\u00b6 And the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012022,
+            "text": "Son of man, what is this proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth? ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012023,
+            "text": "Tell them therefore, Thus saith the Lord Jehovah: I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the <i>[g]</i>fulfilment of every vision. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-23",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>word</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012024,
+            "text": "For there shall be no more any false vision nor flattering divination within the house of Israel. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012025,
+            "text": "For I am Jehovah; I will speak, and the word that I shall speak shall be performed; it shall be no more deferred: for in your days, O rebellious house, will I speak the word, and will perform it, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-12-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012026,
+            "text": "\u00b6 Again the word of Jehovah came to me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012027,
+            "text": "Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of times that are far off. ",
+            "version": "ASV",
+            "clsstr": "Ezek-12-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26012028,
+            "text": "Therefore say unto them, Thus saith the Lord Jehovah: There shall none of my words be deferred any more, but the word which I shall speak shall be performed, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-12-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 12
+}

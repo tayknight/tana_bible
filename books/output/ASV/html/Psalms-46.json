@@ -1,0 +1,131 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19046001,
+            "text": "<b>God the refuge of his people.</b>\n\u00b6 For the Chief Musician.  of the sons of Korah; set to Alamoth. A Song.\u00b6     God is our refuge and strength,\n    A very present help in trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046002,
+            "text": "    Therefore will we not fear, though the earth do change,\n    And though the mountains be shaken into the heart of the seas;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046003,
+            "text": "  Though the waters thereof roar and be troubled,\n  Though the mountains tremble with the <i>[a]</i>swelling thereof. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>pride</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046004,
+            "text": "\u00b6     There is a river, the streams whereof make glad the city of God,\n    The holy place of the tabernacles of the Most High.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046005,
+            "text": "  God is in the midst of her; she shall not be moved:\n  God will help her, <i>[b]</i>and that right early.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>at the dawn of morning</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046006,
+            "text": "    The nations raged, the kingdoms were moved:\n    He uttered his voice, the earth melted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046007,
+            "text": "  Jehovah of hosts is with us;\n  The God of Jacob is our <i>[c]</i>refuge. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>high tower</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046008,
+            "text": "\u00b6   Come, behold the works of Jehovah,\n   <i>[d]</i>What desolations he hath made in the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Who hath made desolation etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046009,
+            "text": "    He maketh wars to cease unto the end of the earth;\n    He breaketh the bow, and cutteth the spear in sunder;\n    He burneth the chariots in the fire.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046010,
+            "text": "   <i>[e]</i>Be still, and know that I am God:\n    I will be exalted among the nations, I will be exalted in the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Let be</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19046011,
+            "text": "  Jehovah of hosts is with us;\n  The God of Jacob is our <i>[f]</i>refuge. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-46-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>high tower</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 46
+}

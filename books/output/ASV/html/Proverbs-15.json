@@ -1,0 +1,321 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20015001,
+            "text": "\u00b6     A soft answer turneth away wrath;\n    But a grievous word stirreth up anger.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015002,
+            "text": "    The tongue of the wise uttereth knowledge aright;\n    But the mouth of fools poureth out folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015003,
+            "text": "    The eyes of Jehovah are in every place,\n    Keeping watch upon the evil and the good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015004,
+            "text": "   <i>[a]</i>A gentle tongue is a tree of life;\n    But perverseness therein is a breaking of the spirit.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>The healing of the tongue</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015005,
+            "text": " A fool despiseth his father\u2019s <i>[b]</i>correction;\n  But he that regardeth reproof <i>[c]</i>getteth prudence.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>instruction</i>"
+                },
+                {
+                    "c": "Or, <i>dealeth prudently</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015006,
+            "text": "    In the house of the righteous is much treasure;\n    But in the revenues of the wicked is trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015007,
+            "text": "  The lips of the wise disperse knowledge;\n  But the heart of the foolish <i>[d]</i> not so.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-7",
+            "footnotes": [
+                {
+                    "d": "Or, is <i>not stedfast</i> (or, <i>right</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015008,
+            "text": "    The sacrifice of the wicked is an abomination to Jehovah;\n    But the prayer of the upright is his delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015009,
+            "text": "    The way of the wicked is an abomination to Jehovah;\n    But he loveth him that followeth after righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015010,
+            "text": "    There is grievous correction for him that forsaketh the way;\n     he that hateth reproof shall die.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015011,
+            "text": "  Sheol and <i>[e]</i>Abaddon are before Jehovah;\n    How much more then the hearts of the children of men!\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Destruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015012,
+            "text": "    A scoffer loveth not to be reproved;\n    He will not go unto the wise.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015013,
+            "text": "    A glad heart maketh a cheerful countenance;\n    But by sorrow of heart the spirit is broken.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015014,
+            "text": "    The heart of him that hath understanding seeketh knowledge;\n    But the mouth of fools feedeth on folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015015,
+            "text": "    All the days of the afflicted are evil;\n    But he that is of a cheerful heart  a continual feast.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015016,
+            "text": "    Better is little, with the fear of Jehovah,\n    Than great treasure and trouble therewith.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015017,
+            "text": "  Better is a <i>[f]</i>dinner of herbs, where love is,\n    Than a stalled ox and hatred therewith.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-17",
+            "footnotes": [
+                {
+                    "f": "Or, <i>portion</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015018,
+            "text": "    A wrathful man stirreth up contention;\n    But he that is slow to anger appeaseth strife.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015019,
+            "text": "    The way of the sluggard is as a hedge of thorns;\n    But the path of the upright is made a highway.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015020,
+            "text": "    A wise son maketh a glad father;\n    But a foolish man despiseth his mother.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015021,
+            "text": "  Folly is joy to him that is void of <i>[g]</i>wisdom;\n    But a man of understanding maketh straight his going.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-21",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015022,
+            "text": "    Where there is no counsel, purposes are disappointed;\n    But in the multitude of counsellors they are established.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015023,
+            "text": "    A man hath joy in the answer of his mouth;\n    And a word in due season, how good is it!\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015024,
+            "text": "    To the wise the way of life  upward,\n    That he may depart from Sheol beneath.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015025,
+            "text": "    Jehovah will root up the house of the proud;\n    But he will establish the border of the widow.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015026,
+            "text": "  Evil devices are an abomination to Jehovah;\n  But <i>[h]</i>pleasant words  pure.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-26",
+            "footnotes": [
+                {
+                    "h": "Or, <i>the pure</i> speak <i>pleasant words</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015027,
+            "text": "    He that is greedy of gain troubleth his own house;\n    But he that hateth bribes shall live.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015028,
+            "text": "    The heart of the righteous studieth to answer;\n    But the mouth of the wicked poureth out evil things.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015029,
+            "text": "    Jehovah is far from the wicked;\n    But he heareth the prayer of the righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015030,
+            "text": "    The light of the eyes rejoiceth the heart;\n     good tidings make the bones fat.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015031,
+            "text": "    The ear that hearkeneth to the reproof of life\n    Shall abide among the wise.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015032,
+            "text": " He that refuseth <i>[i]</i>correction despiseth his own soul;\n  But he that hearkeneth to reproof getteth <i>[j]</i>understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-32",
+            "footnotes": [
+                {
+                    "i": "Or, <i>instruction</i>"
+                },
+                {
+                    "j": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20015033,
+            "text": "    The fear of Jehovah is the instruction of wisdom;\n    And before honor  humility.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 15
+}

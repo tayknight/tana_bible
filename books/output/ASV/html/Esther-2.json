@@ -1,0 +1,222 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 17,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 10,
+            "end_verse": 3,
+            "end_book": null
+        }
+    ],
+    "book": 17,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 17002001,
+            "text": "\u00b6 After these things, when the wrath of king Ahasuerus was pacified, he remembered Vashti, and what she had done, and what was decreed against her. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002002,
+            "text": "Then said the king\u2019s servants that ministered unto him, Let there be fair young virgins sought for the king: ",
+            "version": "ASV",
+            "clsstr": "Esth-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002003,
+            "text": "and let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of <i>[a]</i>Hegai the king\u2019s chamberlain, keeper of the women; and let their things for purification be given them; ",
+            "version": "ASV",
+            "clsstr": "Esth-2-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hegee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002004,
+            "text": "and let the maiden that pleaseth the king be queen instead of Vashti. And the thing pleased the king; and he did so.",
+            "version": "ASV",
+            "clsstr": "Esth-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002005,
+            "text": "\u00b6 There was a certain Jew in Shushan the palace, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite, ",
+            "version": "ASV",
+            "clsstr": "Esth-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002006,
+            "text": "who had been carried away from Jerusalem with the captives that had been carried away with <i>[b]</i>Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-6",
+            "footnotes": [
+                {
+                    "b": "In [[2 Kin. 24:6]], <i>Jehoiachin</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002007,
+            "text": "And he <i>[c]</i>brought up Hadassah, that is, Esther, his uncle\u2019s daughter: for she had neither father nor mother, and the maiden was fair and beautiful; and when her father and mother were dead, Mordecai took her for his own daughter.",
+            "version": "ASV",
+            "clsstr": "Esth-2-7",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>nourished</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002008,
+            "text": "\u00b6 So it came to pass, when the king\u2019s commandment and his decree was heard, and when many maidens were gathered together unto Shushan the palace, to the custody of Hegai, that Esther was taken into the king\u2019s house, to the custody of Hegai, keeper of the women. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002009,
+            "text": "And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with her portions, and the seven maidens who were meet to be given her out of the king\u2019s house: and he removed her and her maidens to the best place of the house of the women. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002010,
+            "text": "Esther had not made known her people nor her kindred; for Mordecai had charged her that she should not make it known. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002011,
+            "text": "And Mordecai walked every day before the court of the women\u2019s house, to know how Esther did, and what would become of her.",
+            "version": "ASV",
+            "clsstr": "Esth-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002012,
+            "text": "\u00b6 Now when the turn of every maiden was come to go in to king Ahasuerus, after that it had been done to her according to the law for the women twelve months (for so were the days of their purifications accomplished, , six months with oil of myrrh, and six months with sweet odors and with the things for the purifying of the women), ",
+            "version": "ASV",
+            "clsstr": "Esth-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002013,
+            "text": "then in this wise came the maiden unto the king: Whatsoever she desired was given her to go with her out of the house of the women unto the king\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002014,
+            "text": "In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king\u2019s chamberlain, who kept the concubines: she came in unto the king no more, except the king delighted in her, and she were called by name. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002015,
+            "text": "Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Hegai the king\u2019s chamberlain, the keeper of the women, appointed. And Esther obtained favor in the sight of all them that looked upon her.",
+            "version": "ASV",
+            "clsstr": "Esth-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002016,
+            "text": "\u00b6 So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which is the month Tebeth, in the seventh year of his reign. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002017,
+            "text": "And the king loved Esther above all the women, and she obtained favor and kindness in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002018,
+            "text": "Then the king made a great feast unto all his princes and his servants, even Esther\u2019s feast; and he made a <i>[d]</i>release to the provinces, and gave gifts, according to the <i>[e]</i>bounty of the king.",
+            "version": "ASV",
+            "clsstr": "Esth-2-18",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>rest</i>."
+                },
+                {
+                    "e": "Hebrew <i>hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002019,
+            "text": "\u00b6 And when the virgins were gathered together the second time, then Mordecai was sitting in the king\u2019s gate. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002020,
+            "text": "Esther had not yet made known her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002021,
+            "text": "In those days, while Mordecai was sitting in the king\u2019s gate, two of the king\u2019s chamberlains, Bigthan and Teresh, of those that kept the threshold, were wroth, and sought to lay hands on the king Ahasuerus. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002022,
+            "text": "And the thing became known to Mordecai, who showed it unto Esther the queen; and Esther told the king  in Mordecai\u2019s name. ",
+            "version": "ASV",
+            "clsstr": "Esth-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17002023,
+            "text": "And when inquisition was made of the matter, and it was found to be so, they were both hanged on a tree: and it was written in the book of the chronicles before the king.",
+            "version": "ASV",
+            "clsstr": "Esth-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Esther",
+    "chapters": 2
+}

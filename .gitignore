@@ -1,3 +1,9 @@
+# specific to tana_bible
+books/input/NRSVUE*
+books/output/NRSVUE*
+
+.vscode/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

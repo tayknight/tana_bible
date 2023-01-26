@@ -1,0 +1,216 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26029001,
+            "text": "\u00b6 In the tenth year, in the tenth , in the twelfth  of the month, the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029002,
+            "text": "Son of man, set thy face against Pharaoh king of Egypt, and prophesy against him, and against all Egypt; ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029003,
+            "text": "speak, and say, Thus saith the Lord Jehovah: Behold, I am against thee, Pharaoh king of Egypt, the great monster that lieth in the midst of his rivers, that hath said, My river is mine own, and I have made it for myself. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029004,
+            "text": "And I will put hooks in thy jaws, and I will cause the fish of thy rivers to stick unto thy scales; and I will bring thee up out of the midst of thy rivers, with all the fish of thy rivers which stick unto thy scales. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029005,
+            "text": "And I will cast thee forth into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the <i>[a]</i>open field; thou shalt not be brought together, nor gathered; I have given thee for food to the beasts of the earth and to the birds of the heavens. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>face of the field</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029006,
+            "text": "And all the inhabitants of Egypt shall know that I am Jehovah, because they have been a staff of reed to the house of Israel. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029007,
+            "text": "When they took hold of thee <i>[b]</i>by thy hand, thou didst break, and didst rend all their shoulders; and when they leaned upon thee, thou brakest, and madest all their loins to <i>[c]</i>be at a stand.",
+            "version": "ASV",
+            "clsstr": "Ezek-29-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>by the handle</i> Another reading is, <i>with the hand</i>."
+                },
+                {
+                    "c": "Or as some read <i>shake</i>. See [[Ps. 69:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029008,
+            "text": "\u00b6 Therefore thus saith the Lord Jehovah: Behold, I will bring a sword upon thee, and will cut off from thee man and beast. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029009,
+            "text": "And the land of Egypt shall be a desolation and a waste; and they shall know that I am Jehovah. Because he hath said, The river is mine, and I have made it; ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029010,
+            "text": "therefore, behold, I am against thee, and against thy rivers, and I will make the land of Egypt an utter waste and desolation, <i>[d]</i>from the tower of Seveneh even unto the border of Ethiopia. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>from Migdol to Syene, and even etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029011,
+            "text": "No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029012,
+            "text": "And I will make the land of Egypt a desolation in the midst of the countries that are desolate; and her cities among the cities that are laid waste shall be a desolation forty years; and I will scatter the Egyptians among the nations, and will disperse them through the countries.",
+            "version": "ASV",
+            "clsstr": "Ezek-29-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029013,
+            "text": "\u00b6 For thus saith the Lord Jehovah: At the end of forty years will I gather the Egyptians from the peoples whither they were scattered; ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029014,
+            "text": "and I will <i>[e]</i>bring back the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their <i>[f]</i>birth; and they shall be there a <i>[g]</i>base kingdom. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>return to</i>"
+                },
+                {
+                    "f": "Or, <i>origin</i>"
+                },
+                {
+                    "g": "Hebrew <i>low</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029015,
+            "text": "It shall be the basest of the kingdoms; neither shall it any more lift itself up above the nations: and I will diminish them, that they shall no more rule over the nations. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029016,
+            "text": "And it shall be no more the confidence of the house of Israel, bringing iniquity to remembrance, when they turn to look after them: and they shall know that I am the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-29-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029017,
+            "text": "\u00b6 And it came to pass in the seven and twentieth year, in the first , in the first  of the month, the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029018,
+            "text": "Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyre: every head was made bald, and every shoulder was worn; yet had he no wages, nor his army, from Tyre, for the service that he had served against it. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029019,
+            "text": "Therefore thus saith the Lord Jehovah: Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall carry off her multitude, and take her spoil, and take her prey; and it shall be the wages for his army. ",
+            "version": "ASV",
+            "clsstr": "Ezek-29-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029020,
+            "text": "I have given him the land of Egypt <i>[h]</i>as his recompense for which he served, because they wrought for me, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-29-20",
+            "footnotes": [
+                {
+                    "h": "Or, for <i>his labor wherewith he served</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26029021,
+            "text": "\u00b6 In that day will I cause a horn to bud forth unto the house of Israel, and I will give thee the opening of the mouth in the midst of them; and they shall know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-29-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 29
+}

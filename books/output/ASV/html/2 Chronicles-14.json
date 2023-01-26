@@ -1,0 +1,161 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14014001,
+            "text": "\u00b6 So Abijah slept with his fathers, and they buried him in the city of David; and Asa his son reigned in his stead. In his days the land was quiet ten years. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014002,
+            "text": "And Asa did that which was good and right in the eyes of Jehovah his God: ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014003,
+            "text": "for he took away the foreign altars, and the high places, and brake down the <i>[a]</i>pillars, and hewed down the Asherim, ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>obelisks</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014004,
+            "text": "and commanded Judah to seek Jehovah, the God of their fathers, and to do the law and the commandment. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014005,
+            "text": "Also he took away out of all the cities of Judah the high places and the sun-images: and the kingdom was quiet before him. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014006,
+            "text": "And he built fortified cities in Judah; for the land was quiet, and he had no war in those years, because Jehovah had given him rest. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014007,
+            "text": "For he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars; the land is yet before us, because we have sought Jehovah our God; we have sought him, and he hath given us rest on every side. So they built and prospered. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014008,
+            "text": "And Asa had an army that bare bucklers and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these were mighty men of valor.",
+            "version": "ASV",
+            "clsstr": "2Chr-14-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014009,
+            "text": "\u00b6 And there came out against them Zerah the Ethiopian with an army of a thousand thousand, and three hundred chariots; and he came unto Mareshah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014010,
+            "text": "Then Asa went out to meet him, and they set the battle in array in the valley of Zephathah at Mareshah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014011,
+            "text": "And Asa cried unto Jehovah his God, and said, Jehovah, <i>[b]</i>there is none <i>[c]</i>besides thee to help, between the mighty and him that hath no strength: help us, O Jehovah our God; for we rely on thee, and in thy name are we come against this multitude. O Jehovah, thou art our God; let not man prevail against thee. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-11",
+            "footnotes": [
+                {
+                    "b": "Or, <i>there is no difference with thee to help, whether the mighty or him etc.</i>"
+                },
+                {
+                    "c": "Or, <i>like</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014012,
+            "text": "So Jehovah smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014013,
+            "text": "And Asa and the people that were with him pursued them unto Gerar: and there fell of the Ethiopians <i>[d]</i>so many that they could not recover themselves; for they were <i>[e]</i>destroyed before Jehovah, and before his host; and they carried away very much booty. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>so that none remained alive</i>"
+                },
+                {
+                    "e": "Hebrew <i>broken</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014014,
+            "text": "And they smote all the cities round about Gerar; for <i>[f]</i>the fear of Jehovah came upon them: and they despoiled all the cities; for there was much spoil in them. ",
+            "version": "ASV",
+            "clsstr": "2Chr-14-14",
+            "footnotes": [
+                {
+                    "f": "Or, <i>a terror from Jehovah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14014015,
+            "text": "They smote also the tents of cattle, and carried away sheep in abundance, and camels, and returned to Jerusalem.",
+            "version": "ASV",
+            "clsstr": "2Chr-14-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 14
+}

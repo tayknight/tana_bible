@@ -1,0 +1,115 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 32,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 11,
+            "end_book": null
+        }
+    ],
+    "book": 32,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 32003001,
+            "text": "\u00b6 And the word of Jehovah came unto Jonah the second time, saying, ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003002,
+            "text": "Arise, go unto Nineveh, that great city, and <i>[a]</i>preach unto it the preaching that I bid thee. ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>cry</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003003,
+            "text": "So Jonah arose, and went unto Nineveh, according to the word of Jehovah. Now Nineveh was <i>[b]</i>an exceeding great city, of three days\u2019 journey. ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>a city great unto God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003004,
+            "text": "And Jonah began to enter into the city a day\u2019s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown. ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003005,
+            "text": "And the people of Nineveh believed God; and they proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them. ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003006,
+            "text": " <i>[c]</i>And the tidings reached the king of Nineveh, and he arose from his throne, and laid his robe from him, and covered him with sackcloth, and sat in ashes. ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>For word came unto the king etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003007,
+            "text": "And he made proclamation and <i>[d]</i>published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste anything; let them not feed, nor drink water; ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-7",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>said</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003008,
+            "text": "but let them be covered with sackcloth, both man and beast, and let them cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in his hands. ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003009,
+            "text": "Who knoweth whether God will not turn and repent, and turn away from his fierce anger, that we perish not? ",
+            "version": "ASV",
+            "clsstr": "Jonah-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32003010,
+            "text": "And God saw their works, that they turned from their evil way; and God repented of the evil which he said he would do unto them; and he did it not.",
+            "version": "ASV",
+            "clsstr": "Jonah-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jonah",
+    "chapters": 3
+}

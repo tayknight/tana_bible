@@ -1,0 +1,150 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23016001,
+            "text": "\u00b6 Send ye the lambs for the ruler of the land from <i>[a]</i>Selah to the wilderness, unto the mount of the daughter of Zion. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Petra</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016002,
+            "text": "For it shall be that, as wandering birds, as a scattered nest, so shall the daughters of Moab be at the fords of the Arnon. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016003,
+            "text": "Give counsel, execute justice; make thy shade as the night in the midst of the noonday; hide the outcasts; betray not the fugitive. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016004,
+            "text": "Let mine outcasts dwell with thee; as for Moab, be thou a covert to him from the face of the destroyer. For <i>[b]</i>the extortioner is brought to nought, destruction ceaseth, <i>[c]</i>the oppressors are consumed out of the land. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>extortion</i>"
+                },
+                {
+                    "c": "Hebrew <i>the treaders down</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016005,
+            "text": "And a throne shall be established in lovingkindness; and one shall sit thereon in truth, in the tent of David, judging, and seeking justice, and swift to do righteousness.",
+            "version": "ASV",
+            "clsstr": "Isa-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016006,
+            "text": "\u00b6 We have heard of the pride of Moab,  he is very proud; even of his arrogancy, and his pride, and his wrath; his boastings are nought. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016007,
+            "text": "Therefore shall Moab wail for Moab, every one shall wail: for the <i>[d]</i>raisin-cakes of Kir-hareseth shall ye mourn, utterly stricken. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>foundations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016008,
+            "text": "For the fields of Heshbon languish, the vine of Sibmah; <i>[e]</i>the lords of the nations have broken down the choice branches thereof, which reached even unto Jazer, which wandered into the wilderness; its shoots were spread abroad, they passed over the sea. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>its choice plants did break down the lords of nations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016009,
+            "text": "Therefore I will weep with the weeping of Jazer for the vine of Sibmah; I will water thee with my tears, O Heshbon, and Elealeh: for upon thy summer fruits and upon thy harvest the  shout is fallen. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016010,
+            "text": "And gladness is taken away, and joy out of the fruitful field; and in the vineyards there shall be no singing, neither joyful noise: no treader shall tread out wine in the presses; I have made the  shout to cease. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016011,
+            "text": "Wherefore my heart soundeth like a harp for Moab, and mine inward parts for Kir-heres. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016012,
+            "text": "And it shall come to pass, when Moab presenteth himself, when he wearieth himself upon the high place, and shall come to his sanctuary to pray, that he shall not prevail.",
+            "version": "ASV",
+            "clsstr": "Isa-16-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016013,
+            "text": "\u00b6 This is the word that Jehovah spake concerning Moab in time past. ",
+            "version": "ASV",
+            "clsstr": "Isa-16-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23016014,
+            "text": "But now Jehovah hath spoken, saying, Within three years, as the years of a hireling, the glory of Moab shall be brought into contempt, with all his great multitude; and the remnant shall be very small and of no account.",
+            "version": "ASV",
+            "clsstr": "Isa-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 16
+}

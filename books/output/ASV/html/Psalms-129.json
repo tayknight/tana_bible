@@ -1,0 +1,95 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19129001,
+            "text": "<b>Prayer for the overthrow of Zion\u2019s enemies.</b>\n\u00b6 A Song of Ascents.\u00b6   <i>[a]</i>Many a time have they afflicted me from my youth up,\n    Let Israel now say,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Much</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19129002,
+            "text": "   <i>[b]</i>Many a time have they afflicted me from my youth up:\n    Yet they have not prevailed against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Much</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19129003,
+            "text": "    The plowers plowed upon my back;\n    They made long their furrows.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19129004,
+            "text": "    Jehovah is righteous:\n    He hath cut asunder the cords of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19129005,
+            "text": "    Let them be put to shame and turned backward,\n    All they that hate Zion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19129006,
+            "text": "  Let them be as the grass upon the housetops,\n  Which withereth before it <i>[c]</i>groweth up;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>is plucked up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19129007,
+            "text": "    Wherewith the reaper filleth not his hand,\n    Nor he that bindeth sheaves, his bosom:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19129008,
+            "text": "    Neither do they that go by say,\n    The blessing of Jehovah be upon you;\n    We bless you in the name of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-129-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 129
+}

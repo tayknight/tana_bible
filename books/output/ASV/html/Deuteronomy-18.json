@@ -1,0 +1,199 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5018001,
+            "text": "\u00b6 The priests the Levites, <i>[a]</i> all the tribe of Levi, shall have no portion nor inheritance with Israel: they shall eat the offerings of Jehovah made by fire, and his inheritance. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-1",
+            "footnotes": [
+                {
+                    "a": "Or, and"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018002,
+            "text": "And they shall have no inheritance among their brethren: Jehovah is their inheritance, as he hath spoken unto them. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018003,
+            "text": "And this shall be the priests\u2019 due from the people, from them that offer a sacrifice, whether it be ox or sheep, that they shall give unto the priest the shoulder, and the two cheeks, and the maw. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018004,
+            "text": "The first-fruits of thy grain, of thy new wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018005,
+            "text": "For Jehovah thy God hath chosen him out of all thy tribes, to stand to minister in the name of Jehovah, him and his sons for ever.",
+            "version": "ASV",
+            "clsstr": "Deut-18-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018006,
+            "text": "\u00b6 And if a Levite come from any of thy gates out of all Israel, where he sojourneth, and come with all the desire of his soul unto the place which Jehovah shall choose; ",
+            "version": "ASV",
+            "clsstr": "Deut-18-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018007,
+            "text": "then he shall minister in the name of Jehovah his God, as all his brethren the Levites do, who stand there before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018008,
+            "text": "They shall have like portions to eat, besides that which cometh of the sale of his patrimony.",
+            "version": "ASV",
+            "clsstr": "Deut-18-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018009,
+            "text": "\u00b6 When thou art come into the land which Jehovah thy God giveth thee, thou shalt not learn to do after the abominations of those nations. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018010,
+            "text": "There shall not be found with thee any one that maketh his son or his daughter to pass through the fire, one that useth divination, one that practiseth augury, or an enchanter, or a sorcerer, ",
+            "version": "ASV",
+            "clsstr": "Deut-18-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018011,
+            "text": "or a charmer, or a consulter with a familiar spirit, or a wizard, or a necromancer. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018012,
+            "text": "For whosoever doeth these things is an abomination unto Jehovah: and because of these abominations Jehovah thy God doth drive them out from before thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018013,
+            "text": "Thou shalt be perfect with Jehovah thy God. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018014,
+            "text": "For these nations, that thou shalt dispossess, hearken unto them that practise augury, and unto diviners; but as for thee, Jehovah thy God hath not suffered thee so to do.",
+            "version": "ASV",
+            "clsstr": "Deut-18-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018015,
+            "text": "\u00b6 Jehovah thy God will raise up unto thee a prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken; ",
+            "version": "ASV",
+            "clsstr": "Deut-18-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018016,
+            "text": "according to all that thou desiredst of Jehovah thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of Jehovah my God, neither let me see this great fire any more, that I die not. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018017,
+            "text": "And Jehovah said unto me, They have well said that which they have spoken. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018018,
+            "text": "I will raise them up a prophet from among their brethren, like unto thee; and I will put my words in his mouth, and he shall speak unto them all that I shall command him. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018019,
+            "text": "And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.",
+            "version": "ASV",
+            "clsstr": "Deut-18-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018020,
+            "text": "\u00b6 But the prophet, that shall speak a word presumptuously in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, that same prophet shall die. ",
+            "version": "ASV",
+            "clsstr": "Deut-18-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018021,
+            "text": "And if thou say in thy heart, How shall we know the word which Jehovah hath not spoken? ",
+            "version": "ASV",
+            "clsstr": "Deut-18-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5018022,
+            "text": "when a prophet speaketh in the name of Jehovah, if the thing follow not, nor come to pass, that is the thing which Jehovah hath not spoken: the prophet hath spoken it presumptuously, thou shalt not be afraid of him.",
+            "version": "ASV",
+            "clsstr": "Deut-18-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 18
+}

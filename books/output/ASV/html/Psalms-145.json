@@ -1,0 +1,191 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19145001,
+            "text": "<b>Jehovah extolled for his goodness and power.</b>\n\u00b6  praise; of David.\u00b6     I will extol thee, my God, O King;\n    And I will bless thy name for ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145002,
+            "text": "    Every day will I bless thee;\n    And I will praise thy name for ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145003,
+            "text": "    Great is Jehovah, and greatly to be praised;\n    And his greatness is unsearchable.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145004,
+            "text": "    One generation shall laud thy works to another,\n    And shall declare thy mighty acts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145005,
+            "text": "    Of the glorious majesty of thine honor,\n    And of thy wondrous works, will I meditate.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145006,
+            "text": "    And men shall speak of the might of thy terrible acts;\n    And I will declare thy greatness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145007,
+            "text": "    They shall utter the memory of thy great goodness,\n    And shall sing of thy righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145008,
+            "text": "    Jehovah is gracious, and merciful;\n    Slow to anger, and of great lovingkindness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145009,
+            "text": "    Jehovah is good to all;\n    And his tender mercies are over all his works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145010,
+            "text": "    All thy works shall give thanks unto thee, O Jehovah;\n    And thy saints shall bless thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145011,
+            "text": "    They shall speak of the glory of thy kingdom,\n    And talk of thy power;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145012,
+            "text": "    To make known to the sons of men his mighty acts,\n    And the glory of the majesty of his kingdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145013,
+            "text": "    Thy kingdom is an everlasting kingdom,\n    And thy dominion  throughout all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145014,
+            "text": "    Jehovah upholdeth all that fall,\n    And raiseth up all those that are bowed down.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145015,
+            "text": "    The eyes of all wait for thee;\n    And thou givest them their food in due season.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145016,
+            "text": "  Thou openest thy hand,\n  And <i>[a]</i>satisfiest the desire of every living thing.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-16",
+            "footnotes": [
+                {
+                    "a": "Or, <i>satisfiest every living thing with favor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145017,
+            "text": "    Jehovah is righteous in all his ways,\n    And gracious in all his works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145018,
+            "text": "    Jehovah is nigh unto all them that call upon him,\n    To all that call upon him in truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145019,
+            "text": "    He will fulfil the desire of them that fear him;\n    He also will hear their cry and will save them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145020,
+            "text": "    Jehovah preserveth all them that love him;\n    But all the wicked will he destroy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19145021,
+            "text": "    My mouth shall speak the praise of Jehovah;\n    And let all flesh bless his holy name for ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-145-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 145
+}

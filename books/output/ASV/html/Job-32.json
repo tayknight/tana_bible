@@ -1,0 +1,215 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18032001,
+            "text": "\u00b6 So these three men ceased to answer Job, because he was righteous in his own eyes. ",
+            "version": "ASV",
+            "clsstr": "Job-32-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032002,
+            "text": "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the family of Ram: against Job was his wrath kindled, because he justified himself rather than God. ",
+            "version": "ASV",
+            "clsstr": "Job-32-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032003,
+            "text": "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job. ",
+            "version": "ASV",
+            "clsstr": "Job-32-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032004,
+            "text": "Now Elihu had <i>[a]</i>waited to speak unto Job, because they were elder than he. ",
+            "version": "ASV",
+            "clsstr": "Job-32-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>waited for Job with words</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032005,
+            "text": "And when Elihu saw that there was no answer in the mouth of these three men, his wrath was kindled.",
+            "version": "ASV",
+            "clsstr": "Job-32-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032006,
+            "text": "\u00b6 And Elihu the son of Barachel the Buzite answered and said,\u00b6     I am young, and ye are very old;\n    Wherefore I held back, and durst not show you mine opinion.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032007,
+            "text": "    I said, Days should speak,\n    And multitude of years should teach wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032008,
+            "text": "    But there is a spirit in man,\n    And the breath of the Almighty giveth them understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032009,
+            "text": "    It is not the great that are wise,\n    Nor the aged that understand justice.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032010,
+            "text": "  Therefore I <i>[b]</i>said, Hearken to me;\n    I also will show mine opinion.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-10",
+            "footnotes": [
+                {
+                    "b": "Or, <i>say</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032011,
+            "text": "\u00b6     Behold, I waited for your words,\n    I listened for your reasonings,\n    Whilst ye searched out what to say.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032012,
+            "text": "    Yea, I attended unto you,\n    And, behold, there was none that convinced Job,\n    Or that answered his words, among you.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032013,
+            "text": "   <i>[c]</i>Beware lest ye say, We have found wisdom;\n    God may vanquish him, not man:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Lest ye should say, We have found out wisdom; God thrusteth him down, not man: Now he etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032014,
+            "text": "    For he hath not directed his words against me;\n    Neither will I answer him with your speeches.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032015,
+            "text": "\u00b6     They are amazed, they answer no more:\n    They have not a word to say.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032016,
+            "text": "    And shall I wait, because they speak not,\n    Because they stand still, and answer no more?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032017,
+            "text": "    I also will answer my part,\n    I also will show mine opinion.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032018,
+            "text": "    For I am full of words;\n    The spirit within me constraineth me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032019,
+            "text": "  Behold, my breast is as wine which hath no vent;\n  Like new wine-skins <i>[d]</i>it is ready to burst.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-19",
+            "footnotes": [
+                {
+                    "d": "Or, <i>which are ready</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032020,
+            "text": "  I will speak, that I may <i>[e]</i>be refreshed;\n    I will open my lips and answer.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-20",
+            "footnotes": [
+                {
+                    "e": "Or, <i>find relief</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032021,
+            "text": "    Let me not, I pray you, respect any man\u2019s person;\n    Neither will I give flattering titles unto any man.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18032022,
+            "text": "    For I know not to give flattering titles;\n     would my Maker soon take me away.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-32-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 32
+}

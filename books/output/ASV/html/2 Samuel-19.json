@@ -1,0 +1,398 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 10,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 10,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 10019001,
+            "text": "\u00b6 And it was told Joab, Behold, the king weepeth and mourneth for Absalom. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019002,
+            "text": "And the <i>[a]</i>victory that day was turned into mourning unto all the people; for the people heard say that day, The king grieveth for his son. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019003,
+            "text": "And the people gat them by stealth that day into the city, as people that are ashamed steal away when they flee in battle. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019004,
+            "text": "And the king covered his face, and the king cried with a loud voice, O my son Absalom, O Absalom, my son, my son! ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019005,
+            "text": "And Joab came into the house to the king, and said, Thou hast shamed this day the faces of all thy servants, who this day have saved thy life, and the lives of thy sons and of thy daughters, and the lives of thy wives, and the lives of thy concubines; ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019006,
+            "text": "in that thou lovest them that hate thee, and hatest them that love thee. For thou hast declared this day, that princes and servants are nought unto thee: for this day I perceive, that if Absalom had lived, and all we had died this day, then it had pleased thee well. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019007,
+            "text": "Now therefore arise, go forth, and speak comfortably unto thy servants; for I swear by Jehovah, if thou go not forth, there will not tarry a man with thee this night: and that will be worse unto thee than all the evil that hath befallen thee from thy youth until now. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019008,
+            "text": "Then the king arose, and sat in the gate. And they told unto all the people, saying, Behold, the king is sitting in the gate: and all the people came before the king.\u00b6 Now Israel had fled every man to his tent. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019009,
+            "text": "And all the people were at strife throughout all the tribes of Israel, saying, The king delivered us out of the hand of our enemies, and he saved us out of the hand of the Philistines; and now he is fled out of the land from Absalom. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019010,
+            "text": "And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak ye not a word of bringing the king back?",
+            "version": "ASV",
+            "clsstr": "2Sam-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019011,
+            "text": "\u00b6 And king David sent to Zadok and to Abiathar the priests, saying, Speak unto the elders of Judah, saying, Why are ye the last to bring the king back to his house? seeing the speech of all Israel is come to the king,  to his house. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019012,
+            "text": "Ye are my brethren, ye are my bone and my flesh: wherefore then are ye the last to bring back the king? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019013,
+            "text": "And say ye to Amasa, Art thou not my bone and my flesh? God do so to me, and more also, if thou be not captain of the host before me continually in the room of Joab. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019014,
+            "text": "And he bowed the heart of all the men of Judah, even as  one man; so that they sent unto the king, , Return thou, and all thy servants. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019015,
+            "text": "So the king returned, and came to the Jordan. And Judah came to Gilgal, to go to meet the king, to bring the king over the Jordan.",
+            "version": "ASV",
+            "clsstr": "2Sam-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019016,
+            "text": "\u00b6 And Shimei the son of Gera, the Benjamite, who was of Bahurim, hasted and came down with the men of Judah to meet king David. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019017,
+            "text": "And there were a thousand men of Benjamin with him, and Ziba the servant of the house of Saul, and his fifteen sons and his twenty servants with him; and they went through the Jordan in the presence of the king. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019018,
+            "text": "And there went over <i>[b]</i>a ferry-boat to bring over the king\u2019s household, and to do what he thought good. And Shimei the son of Gera fell down before the king, when he <i>[c]</i>was come over the Jordan. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-18",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the convoy</i>"
+                },
+                {
+                    "c": "Or, <i>would go over</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019019,
+            "text": "And he said unto the king, Let not my lord impute iniquity unto me, neither do thou remember that which thy servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019020,
+            "text": "For thy servant doth know that I have sinned: therefore, behold, I am come this day the first of all the house of Joseph to go down to meet my lord the king.",
+            "version": "ASV",
+            "clsstr": "2Sam-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019021,
+            "text": "\u00b6 But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed Jehovah\u2019s anointed? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019022,
+            "text": "And David said, What have I to do with you, ye sons of Zeruiah, that ye should this day be adversaries unto me? shall there any man be put to death this day in Israel? for do not I know that I am this day king over Israel? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019023,
+            "text": "And the king said unto Shimei, Thou shalt not die. And the king sware unto him.",
+            "version": "ASV",
+            "clsstr": "2Sam-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019024,
+            "text": "\u00b6 And Mephibosheth the son of Saul came down to meet the king; and he had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came home in peace. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019025,
+            "text": "And it came to pass, <i>[d]</i>when he was come to Jerusalem to meet the king, that the king said unto him, Wherefore wentest not thou with me, Mephibosheth? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-25",
+            "footnotes": [
+                {
+                    "d": "Or, <i>when Jerusalem was come</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019026,
+            "text": "And he answered, My lord, O king, my servant deceived me: for thy servant said, I will saddle me an ass, that I may ride thereon, and go <i>[e]</i>with the king; because thy servant is lame. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-26",
+            "footnotes": [
+                {
+                    "e": "Another reading is, <i>to</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019027,
+            "text": "And he hath slandered thy servant unto my lord the king; but my lord the king is as <i>[f]</i>an angel of God: do therefore what is good in thine eyes. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-27",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019028,
+            "text": "For all my father\u2019s house were but <i>[g]</i>dead men before my lord the king; yet didst thou set thy servant among them that did eat at thine own table. What right therefore have I yet that I should cry any more unto the king? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-28",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>men of death</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019029,
+            "text": "And the king said unto him, Why speakest thou any more of thy matters? I say, Thou and Ziba divide the land. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019030,
+            "text": "And Mephibosheth said unto the king, yea, let him take all, forasmuch as my lord the king is come in peace unto his own house.",
+            "version": "ASV",
+            "clsstr": "2Sam-19-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019031,
+            "text": "\u00b6 And Barzillai the Gileadite came down from Rogelim; and he went over the Jordan with the king, to conduct him over the Jordan. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019032,
+            "text": "Now Barzillai was a very aged man, even fourscore years old: and he had provided the king with sustenance while he lay at Mahanaim; for he was a very great man. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019033,
+            "text": "And the king said unto Barzillai, Come thou over with me, and I will sustain thee with me in Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019034,
+            "text": "And Barzillai said unto the king, How many are the days of the years of my life, that I should go up with the king unto Jerusalem? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019035,
+            "text": "I am this day fourscore years old: can I discern between good and bad? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019036,
+            "text": "Thy servant would but just go over the Jordan with the king: and why should the king recompense it me with such a reward? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019037,
+            "text": "Let thy servant, I pray thee, turn back again, that I may die in mine own city, by the grave of my father and my mother. But behold, thy servant Chimham; let him go over with my lord the king; and do to him what shall seem good unto thee. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019038,
+            "text": "And the king answered, Chimham shall go over with me, and I will do to him that which shall seem good unto thee: and whatsoever thou shalt <i>[h]</i>require of me, that will I do for thee. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-38",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>choose</i> to lay <i>upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019039,
+            "text": "And all the people went over the Jordan, and the king went over: and the king kissed Barzillai, and blessed him; and he returned unto his own place.",
+            "version": "ASV",
+            "clsstr": "2Sam-19-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019040,
+            "text": "\u00b6 So the king went over to Gilgal, and Chimham went over with him: and all the people of Judah brought the king over, and also half the people of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019041,
+            "text": "And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and brought the king, and his household, over the Jordan, and all David\u2019s men with him? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019042,
+            "text": "And all the men of Judah answered the men of Israel, Because the king is near of kin to us: wherefore then are ye angry for this matter? have we eaten at all at the king\u2019s cost? or hath he given us any gift? ",
+            "version": "ASV",
+            "clsstr": "2Sam-19-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10019043,
+            "text": "And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more in David than ye: why then did ye despise us, <i>[i]</i>that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.",
+            "version": "ASV",
+            "clsstr": "2Sam-19-43",
+            "footnotes": [
+                {
+                    "i": "Or, <i>and were we not the first to speak of bringing back our king?</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Samuel",
+    "chapters": 19
+}

@@ -1,0 +1,309 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20017001,
+            "text": "\u00b6   Better is a dry morsel, and quietness therewith,\n  Than a house full of <i>[a]</i>feasting with strife.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>the sacrifices of strife</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017002,
+            "text": "  A servant that dealeth wisely shall have rule over a son that <i>[b]</i>causeth shame,\n    And shall have part in the inheritance among the brethren.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>doeth shamefully</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017003,
+            "text": "    The refining pot is for silver, and the furnace for gold;\n    But Jehovah trieth the hearts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017004,
+            "text": "  An evil-doer giveth heed to wicked lips;\n   <i>[c]</i>a liar giveth ear to a mischievous tongue.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-4",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>falsehood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017005,
+            "text": "    Whoso mocketh the poor reproacheth his Maker;\n     he that is glad at calamity shall not be unpunished.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017006,
+            "text": "    Children\u2019s children are the crown of old men;\n    And the glory of children are their fathers.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017007,
+            "text": "   <i>[d]</i>Excellent speech becometh not a fool;\n    Much less do lying lips a prince.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Arrogant</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017008,
+            "text": " A bribe is a precious stone in the eyes of him that hath it;\n Whithersoever <i>[e]</i>it turneth, <i>[f]</i>it <i>[g]</i>prospereth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>he</i>"
+                },
+                {
+                    "f": "Or, <i>he</i>"
+                },
+                {
+                    "g": "Or, <i>dealeth wisely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017009,
+            "text": "    He that covereth a transgression seeketh love;\n    But he that harpeth on a matter separateth chief friends.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017010,
+            "text": "    A rebuke entereth deeper into one that hath understanding\n    Than a hundred stripes into a fool.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017011,
+            "text": "   <i>[h]</i>An evil man seeketh only rebellion;\n    Therefore a cruel messenger shall be sent against him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-11",
+            "footnotes": [
+                {
+                    "h": "Or, <i>A rebellious man</i> (Hebrew <i>Rebellion</i>) <i>seeketh only evil</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017012,
+            "text": "    Let a bear robbed of her whelps meet a man,\n    Rather than a fool in his folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017013,
+            "text": "    Whoso rewardeth evil for good,\n    Evil shall not depart from his house.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017014,
+            "text": "    The beginning of strife is  when one letteth out water:\n    Therefore leave off contention, before there is quarrelling.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017015,
+            "text": "    He that justifieth the wicked, and he that condemneth the righteous,\n    Both of them alike are an abomination to Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017016,
+            "text": "  Wherefore is there a price in the hand of a fool to buy wisdom,\n  Seeing he hath no <i>[i]</i>understanding?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-16",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017017,
+            "text": "  A friend loveth at all times;\n  And <i>[j]</i>a brother is born for adversity.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>is born as a brother</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017018,
+            "text": "  A man void of <i>[k]</i>understanding striketh hands,\n    And becometh surety in the presence of his neighbor.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-18",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017019,
+            "text": "   <i>[l]</i>He loveth transgression that loveth strife:\n    He that raiseth high his gate seeketh destruction.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-19",
+            "footnotes": [
+                {
+                    "l": "Or, <i>He that loveth transgression loveth strife</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017020,
+            "text": "  He that hath a wayward heart findeth no good;\n  And he that hath a perverse tongue falleth into <i>[m]</i>mischief.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-20",
+            "footnotes": [
+                {
+                    "m": "Or, <i>calamity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017021,
+            "text": "    He that begetteth a fool  to his sorrow;\n    And the father of a fool hath no joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017022,
+            "text": "  A cheerful heart <i>[n]</i>is a good medicine;\n    But a broken spirit drieth up the bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-22",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>causeth good healing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017023,
+            "text": "    A wicked man receiveth a bribe out of the bosom,\n    To pervert the ways of justice.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017024,
+            "text": "    Wisdom is before the face of him that hath understanding;\n    But the eyes of a fool are in the ends of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017025,
+            "text": "    A foolish son is a grief to his father,\n    And bitterness to her that bare him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017026,
+            "text": "  Also to <i>[o]</i>punish the righteous is not good,\n     to smite the noble for  uprightness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-26",
+            "footnotes": [
+                {
+                    "o": "Or, <i>fine</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017027,
+            "text": "  He <i>[p]</i>that spareth his words hath knowledge;\n    And he that is of a cool spirit is a man of understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-27",
+            "footnotes": [
+                {
+                    "p": "Or, <i>that hath knowledge spareth his words; And a man of understanding is of a cool spirit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20017028,
+            "text": "  Even a fool, when he holdeth his peace, is counted wise;\n   <i>[q]</i>When he shutteth his lips, he is  prudent.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-17-28",
+            "footnotes": [
+                {
+                    "q": "Or, <i>He that shutteth his lips is etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 17
+}

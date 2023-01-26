@@ -1,0 +1,133 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19075001,
+            "text": "<b>God abases the proud, but exalts the righteous.</b>\n\u00b6 For the Chief Musician; Al-tashheth. A Psalm of Asaph, a Song.\u00b6   We give thanks unto thee, O God;\n  We give thanks, <i>[a]</i>for thy name is near:\n    Men tell of thy wondrous works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for</i> that <i>thy name is near Thy wondrous works declare</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075002,
+            "text": "  When I shall <i>[b]</i>find the set time, I will judge uprightly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-2",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>take</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075003,
+            "text": "  <i>[c]</i>The earth and all the inhabitants thereof are dissolved:\n  I have <i>[d]</i>set up the pillars of it. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>When the earth\u00a0.\u00a0.\u00a0. I set up</i>"
+                },
+                {
+                    "d": "Hebrew <i>proportioned</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075004,
+            "text": "  I said unto the <i>[e]</i>arrogant, Deal not arrogantly;\n    And to the wicked, Lift not up the horn:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-4",
+            "footnotes": [
+                {
+                    "e": "Or, <i>fools</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075005,
+            "text": "  Lift not up your horn on high;\n  Speak not <i>[f]</i>with a stiff neck.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>insolently with a</i> haughty <i>neck</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075006,
+            "text": " For neither from the east, nor from the west,\n Nor yet <i>[g]</i>from the <i>[h]</i>south,  lifting up.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-6",
+            "footnotes": [
+                {
+                    "g": "Or, <i>from the wilderness of mountains</i> cometh judgment"
+                },
+                {
+                    "h": "Hebrew <i>wilderness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075007,
+            "text": "    But God is the judge:\n    He putteth down one, and lifteth up another.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075008,
+            "text": "  For in the hand of Jehovah there is a cup, and the wine <i>[i]</i>foameth;\n    It is full of mixture, and he poureth out of the same:\n    Surely the dregs thereof, all the wicked of the earth shall drain them, and drink them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-8",
+            "footnotes": [
+                {
+                    "i": "Or, <i>is red</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075009,
+            "text": "    But I will declare for ever,\n    I will sing praises to the God of Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19075010,
+            "text": "    All the horns of the wicked also will I cut off;\n    But the horns of the righteous shall be lifted up.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-75-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 75
+}

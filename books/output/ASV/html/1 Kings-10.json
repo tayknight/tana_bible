@@ -1,0 +1,294 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11010001,
+            "text": "\u00b6 And when the queen of Sheba heard of the fame of Solomon concerning the name of Jehovah, she came to prove him with hard questions. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010002,
+            "text": "And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones; and when she was come to Solomon, she communed with him of all that was in her heart. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010003,
+            "text": "And Solomon told her all her questions: there was not anything hid from the king which he told her not. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010004,
+            "text": "And when the queen of Sheba had seen all the wisdom of Solomon, and the house that he had built, ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010005,
+            "text": "and the food of his table, and the sitting of his servants, and the <i>[a]</i>attendance of his ministers, and their apparel, and his cupbearers, and <i>[b]</i>his ascent by which he went up unto the house of Jehovah; there was no more spirit in her. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>standing</i>."
+                },
+                {
+                    "b": "Or, <i>his burnt-offering which he offered in etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010006,
+            "text": "And she said to the king, It was a true report that I heard in mine own land of thine <i>[c]</i>acts, and of thy wisdom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>sayings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010007,
+            "text": "Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me; <i>[d]</i>thy wisdom and prosperity exceed the fame which I heard. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-7",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>thou hast added wisdom and goodness to the fame</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010008,
+            "text": "Happy are thy men, happy are these thy servants, that stand continually before thee,  that hear thy wisdom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010009,
+            "text": "Blessed be Jehovah thy God, who delighted in thee, to set thee on the throne of Israel: because Jehovah loved Israel for ever, therefore made he thee king, to do justice and righteousness. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010010,
+            "text": "And she gave the king a hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon.",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010011,
+            "text": "\u00b6 And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of <i>[e]</i>almug-trees and precious stones. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-11",
+            "footnotes": [
+                {
+                    "e": "In [[2 Chr. 2:8]], [[9]], [[10]], <i>algum-trees</i>. Perhaps <i>sandal-wood</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010012,
+            "text": "And the king made of the almug-trees <i>[f]</i>pillars for the house of Jehovah, and for the king\u2019s house, harps also and psalteries for the singers: there came no such almug-trees, nor were seen, unto this day.",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>a railing</i> Hebrew <i>a prop</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010013,
+            "text": "\u00b6 And king Solomon gave to the queen of Sheba all her desire, whatsoever she asked, besides that <i>[g]</i>which Solomon gave her of his royal bounty. So she turned, and went to her own land, she and her servants.",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-13",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>which he gave her according to the hand of king Solomon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010014,
+            "text": "\u00b6 Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold, ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010015,
+            "text": "besides the traders , and the traffic of the merchants, and of all the kings of <i>[h]</i>the mingled people, and of the governors of the country. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-15",
+            "footnotes": [
+                {
+                    "h": "In [[2 Chr. 9:14]], <i>Arabia</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010016,
+            "text": "And king Solomon made two hundred bucklers of beaten gold; six hundred  of gold went to one buckler. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010017,
+            "text": "And three hundred shields of beaten gold; three <i>[i]</i>pounds of gold went to one shield: and the king put them in the house of the forest of Lebanon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-17",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>maneh</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010018,
+            "text": "Moreover the king made a great throne of ivory, and overlaid it with the finest gold. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010019,
+            "text": "There were six steps to the throne, and the top of the throne was round behind; and there were <i>[j]</i>stays on either side by the place of the seat, and two lions standing beside the stays. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-19",
+            "footnotes": [
+                {
+                    "j": "Or, <i>arms</i>. Hebrew <i>hands</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010020,
+            "text": "And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010021,
+            "text": "And all king Solomon\u2019s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold: none were of silver; it was nothing accounted of in the days of Solomon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010022,
+            "text": "For the king had at sea a navy of Tarshish with the navy of Hiram: once every three years came the navy of Tarshish, bringing gold, and silver, ivory, and apes, and peacocks.",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010023,
+            "text": "\u00b6 So king Solomon exceeded all the kings of the earth in riches and in wisdom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010024,
+            "text": "And all the earth sought the presence of Solomon, to hear his wisdom, which God had put in his heart. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010025,
+            "text": "And they brought every man his tribute, vessels of silver, and vessels of gold, and raiment, and armor, and spices, horses, and mules, a rate year by year.",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010026,
+            "text": "\u00b6 And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, that he bestowed in the chariot cities, and with the king at Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010027,
+            "text": "And the king made silver to be in Jerusalem as stones, and cedars made he to be as the sycomore-trees that are in the lowland, for abundance. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010028,
+            "text": "And the horses which Solomon had were brought out of Egypt; and the king\u2019s merchants received them in droves, each drove at a price. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11010029,
+            "text": "And a chariot came up and went out of Egypt for six hundred of silver, and a horse for a hundred and fifty; and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out <i>[k]</i>by their means.",
+            "version": "ASV",
+            "clsstr": "1Kgs-10-29",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>in their hand</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 10
+}

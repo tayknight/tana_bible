@@ -1,0 +1,310 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43014001,
+            "text": "\u00b6 Let not your heart be troubled: <i>[a]</i>believe in God, believe also in me. ",
+            "version": "ASV",
+            "clsstr": "John-14-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>ye believe in God</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014002,
+            "text": "In my Father\u2019s house are many <i>[b]</i>mansions; if it were not so, I would have told you; for I go to prepare a place for you. ",
+            "version": "ASV",
+            "clsstr": "John-14-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>abiding-places</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014003,
+            "text": "And if I go and prepare a place for you, I come again, and will receive you unto myself; that where I am,  ye may be also. ",
+            "version": "ASV",
+            "clsstr": "John-14-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014004,
+            "text": " <i>[c]</i>And whither I go, ye know the way. ",
+            "version": "ASV",
+            "clsstr": "John-14-4",
+            "footnotes": [
+                {
+                    "c": "Many ancient authorities read <i>And whither I go ye know, and the way ye know</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014005,
+            "text": "Thomas saith unto him, Lord, we know not whither thou goest; how know we the way? ",
+            "version": "ASV",
+            "clsstr": "John-14-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014006,
+            "text": "Jesus saith unto him, I am the way, and the truth, and the life: no one cometh unto the Father, but <i>[d]</i>by me. ",
+            "version": "ASV",
+            "clsstr": "John-14-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>through</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014007,
+            "text": "If ye had known me, ye would have known my Father also: from henceforth ye know him, and have seen him. ",
+            "version": "ASV",
+            "clsstr": "John-14-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014008,
+            "text": "Philip saith unto him, Lord, show us the Father, and it sufficeth us. ",
+            "version": "ASV",
+            "clsstr": "John-14-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014009,
+            "text": "Jesus saith unto him, Have I been so long time with you, and dost thou not know me, Philip? he that hath seen me hath seen the Father; how sayest thou, Show us the Father? ",
+            "version": "ASV",
+            "clsstr": "John-14-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014010,
+            "text": "Believest thou not that I am in the Father, and the Father in me? the words that I say unto you I speak not from myself: but the Father abiding in me doeth his works. ",
+            "version": "ASV",
+            "clsstr": "John-14-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014011,
+            "text": "Believe me that I am in the Father, and the Father in me: or else believe me for the very works\u2019 sake. ",
+            "version": "ASV",
+            "clsstr": "John-14-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014012,
+            "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater  than these shall he do; because I go unto the Father. ",
+            "version": "ASV",
+            "clsstr": "John-14-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014013,
+            "text": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son. ",
+            "version": "ASV",
+            "clsstr": "John-14-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014014,
+            "text": "If ye shall ask <i>[e]</i>anything in my name, that will I do. ",
+            "version": "ASV",
+            "clsstr": "John-14-14",
+            "footnotes": [
+                {
+                    "e": "Many ancient authorities add <i>me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014015,
+            "text": "If ye love me, ye will keep my commandments. ",
+            "version": "ASV",
+            "clsstr": "John-14-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014016,
+            "text": "And I will <i>[f]</i>pray the Father, and he shall give you another <i>[g]</i>Comforter, that he may be with you for ever, ",
+            "version": "ASV",
+            "clsstr": "John-14-16",
+            "footnotes": [
+                {
+                    "f": "Greek <i>make request of</i>."
+                },
+                {
+                    "g": "Or, <i>Advocate</i>. Or, <i>Helper</i>. Greek <i>Paraclete</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014017,
+            "text": " the Spirit of truth: whom the world cannot receive; for it beholdeth him not, neither knoweth him: ye know him; for he abideth with you, and shall be in you. ",
+            "version": "ASV",
+            "clsstr": "John-14-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014018,
+            "text": "I will not leave you <i>[h]</i>desolate: I come unto you. ",
+            "version": "ASV",
+            "clsstr": "John-14-18",
+            "footnotes": [
+                {
+                    "h": "Or, <i>orphans</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014019,
+            "text": "Yet a little while, and the world beholdeth me no more; but ye behold me: because I live, <i>[i]</i>ye shall live also. ",
+            "version": "ASV",
+            "clsstr": "John-14-19",
+            "footnotes": [
+                {
+                    "i": "Or, <i>and ye shall live</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014020,
+            "text": "In that day ye shall know that I am in my Father, and ye in me, and I in you. ",
+            "version": "ASV",
+            "clsstr": "John-14-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014021,
+            "text": "He that hath my commandments, and keepeth them, he it is that loveth me: and he that loveth me shall be loved of my Father, and I will love him, and will manifest myself unto him. ",
+            "version": "ASV",
+            "clsstr": "John-14-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014022,
+            "text": "Judas (not Iscariot) saith unto him, Lord, what is come to pass that thou wilt manifest thyself unto us, and not unto the world? ",
+            "version": "ASV",
+            "clsstr": "John-14-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014023,
+            "text": "Jesus answered and said unto him, If a man love me, he will keep my word: and my Father will love him, and we will come unto him, and make our abode with him. ",
+            "version": "ASV",
+            "clsstr": "John-14-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014024,
+            "text": "He that loveth me not keepeth not my words: and the word which ye hear is not mine, but the Father\u2019s who sent me.",
+            "version": "ASV",
+            "clsstr": "John-14-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014025,
+            "text": "\u00b6 These things have I spoken unto you, while  abiding with you. ",
+            "version": "ASV",
+            "clsstr": "John-14-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014026,
+            "text": "But the <i>[j]</i>Comforter,  the Holy Spirit, whom the Father will send in my name, he shall teach you all things, and bring to your remembrance all that I said unto you. ",
+            "version": "ASV",
+            "clsstr": "John-14-26",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Advocate</i>. Or, <i>Helper</i>. Greek <i>Paraclete</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014027,
+            "text": "Peace I leave with you; my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be fearful. ",
+            "version": "ASV",
+            "clsstr": "John-14-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014028,
+            "text": "Ye heard how I said to you, I go away, and I come unto you. If ye loved me, ye would have rejoiced, because I go unto the Father: for the Father is greater than I. ",
+            "version": "ASV",
+            "clsstr": "John-14-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014029,
+            "text": "And now I have told you before it come to pass, that, when it is come to pass, ye may believe. ",
+            "version": "ASV",
+            "clsstr": "John-14-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014030,
+            "text": "I will no more speak much with you, for the prince of the world cometh: and he hath nothing <i>[k]</i>in me; ",
+            "version": "ASV",
+            "clsstr": "John-14-30",
+            "footnotes": [
+                {
+                    "k": "Or, <i>in me. But that etc.\u00a0.\u00a0.\u00a0. I do, arise etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43014031,
+            "text": "but that the world may know that I love the Father, and as the Father gave me commandment, even so I do. Arise, let us go hence.",
+            "version": "ASV",
+            "clsstr": "John-14-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 14
+}

@@ -1,0 +1,122 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19095001,
+            "text": "<b>Praise to Jehovah, and warning against unbelief.</b>\n\u00b6     Oh come, let us sing unto Jehovah;\n    Let us make a joyful noise to the rock of our salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095002,
+            "text": "    Let us come before his presence with thanksgiving;\n    Let us make a joyful noise unto him with psalms.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095003,
+            "text": "    For Jehovah is a great God,\n    And a great King above all gods.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095004,
+            "text": "  In his hand are the deep places of the earth;\n  The <i>[a]</i>heights of the mountains are his also.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>strength</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095005,
+            "text": "    The sea is his, and he made it;\n    And his hands formed the dry land.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095006,
+            "text": "    Oh come, let us worship and bow down;\n    Let us kneel before Jehovah our Maker:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095007,
+            "text": "  For he is our God,\n  And we are the people of his pasture, and the sheep of his hand.\n  To-day, <i>[b]</i>oh that ye would hear his voice!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>if ye will hear his voice, Harden etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095008,
+            "text": " Harden not your heart, as at <i>[c]</i>Meribah,\n  As in the day of <i>[d]</i>Massah in the wilderness;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-8",
+            "footnotes": [
+                {
+                    "c": "That is, <i>strife</i>."
+                },
+                {
+                    "d": "That is, <i>temptation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095009,
+            "text": "    When your fathers tempted me,\n    Proved me, and saw my work.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095010,
+            "text": "    Forty years long was I grieved with  generation,\n    And said, It is a people that do err in their heart,\n    And they have not known my ways:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19095011,
+            "text": "    Wherefore I sware in my wrath,\n    That they should not enter into my rest.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-95-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 95
+}

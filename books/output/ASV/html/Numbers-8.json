@@ -1,0 +1,264 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4008001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008002,
+            "text": "Speak unto Aaron, and say unto him, When thou <i>[a]</i>lightest the lamps, the seven lamps shall give light in front of the candlestick. ",
+            "version": "ASV",
+            "clsstr": "Num-8-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>settest up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008003,
+            "text": "And Aaron did so; he <i>[b]</i>lighted the lamps thereof  in front of the candlestick, as Jehovah commanded Moses. ",
+            "version": "ASV",
+            "clsstr": "Num-8-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>set up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008004,
+            "text": "And this was the work of the candlestick, <i>[c]</i>beaten work of gold; unto the base thereof, unto the flowers thereof, it was <i>[d]</i>beaten work: according unto the pattern which Jehovah had showed Moses, so he made the candlestick.",
+            "version": "ASV",
+            "clsstr": "Num-8-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>turned</i>"
+                },
+                {
+                    "d": "Or, <i>turned</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008005,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008006,
+            "text": "Take the Levites from among the children of Israel, and cleanse them. ",
+            "version": "ASV",
+            "clsstr": "Num-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008007,
+            "text": "And thus shalt thou do unto them, to cleanse them: sprinkle the water of expiation upon them, and let them cause a razor to pass over all their flesh, and let them wash their clothes, and cleanse themselves. ",
+            "version": "ASV",
+            "clsstr": "Num-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008008,
+            "text": "Then let them take a young bullock, and its meal-offering, fine flour mingled with oil; and another young bullock shalt thou take for a sin-offering. ",
+            "version": "ASV",
+            "clsstr": "Num-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008009,
+            "text": "And thou shalt present the Levites before the tent of meeting: and thou shalt assemble the whole congregation of the children of Israel: ",
+            "version": "ASV",
+            "clsstr": "Num-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008010,
+            "text": "and thou shalt present the Levites before Jehovah. And the children of Israel shall lay their hands upon the Levites: ",
+            "version": "ASV",
+            "clsstr": "Num-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008011,
+            "text": "and Aaron shall <i>[e]</i>offer the Levites before Jehovah for a wave-offering, <i>[f]</i>on the behalf of the children of Israel, that it may be theirs to do the service of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Num-8-11",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>wave</i>, and in verses [[13]], [[15]], [[21]]."
+                },
+                {
+                    "f": "Or, <i>from</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008012,
+            "text": "And the Levites shall lay their hands upon the heads of the bullocks: and offer thou the one for a sin-offering, and the other for a burnt-offering, unto Jehovah, to make atonement for the Levites. ",
+            "version": "ASV",
+            "clsstr": "Num-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008013,
+            "text": "And thou shalt set the Levites before Aaron, and before his sons, and offer them for a wave-offering unto Jehovah.",
+            "version": "ASV",
+            "clsstr": "Num-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008014,
+            "text": "\u00b6 Thus shalt thou separate the Levites from among the children of Israel; and the Levites shall be mine. ",
+            "version": "ASV",
+            "clsstr": "Num-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008015,
+            "text": "And after that shall the Levites go in to do the service of the tent of meeting: and thou shalt cleanse them, and offer them for a wave-offering. ",
+            "version": "ASV",
+            "clsstr": "Num-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008016,
+            "text": "For they are wholly given unto me from among the children of Israel; instead of all that openeth the womb, even the first-born of all the children of Israel, have I taken them unto me. ",
+            "version": "ASV",
+            "clsstr": "Num-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008017,
+            "text": "For all the first-born among the children of Israel are mine, both man and beast: on the day that I smote all the first-born in the land of Egypt I sanctified them for myself. ",
+            "version": "ASV",
+            "clsstr": "Num-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008018,
+            "text": "And I have taken the Levites instead of all the first-born among the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Num-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008019,
+            "text": "And I have given the Levites as <i>[g]</i>a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tent of meeting, and to make atonement for the children of Israel; that there be no plague among the children of Israel, <i>[h]</i>when the children of Israel come nigh unto the sanctuary.",
+            "version": "ASV",
+            "clsstr": "Num-8-19",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>Nethunim</i>, given."
+                },
+                {
+                    "h": "Or, <i>through the children of Israel coming nigh</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008020,
+            "text": "\u00b6 Thus did Moses, and Aaron, and all the congregation of the children of Israel, unto the Levites: according unto all that Jehovah commanded Moses touching the Levites, so did the children of Israel unto them. ",
+            "version": "ASV",
+            "clsstr": "Num-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008021,
+            "text": "And the Levites purified themselves from sin, and they washed their clothes: and Aaron offered them for a wave-offering before Jehovah; and Aaron made atonement for them to cleanse them. ",
+            "version": "ASV",
+            "clsstr": "Num-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008022,
+            "text": "And after that went the Levites in to do their service in the tent of meeting before Aaron, and before his sons: as Jehovah had commanded Moses concerning the Levites, so did they unto them.",
+            "version": "ASV",
+            "clsstr": "Num-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008023,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008024,
+            "text": "This is that which belongeth unto the Levites: from twenty and five years old and upward they shall go in <i>[i]</i>to wait upon the service in the work of the tent of meeting: ",
+            "version": "ASV",
+            "clsstr": "Num-8-24",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>to war the warfare in the work</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008025,
+            "text": "and from the age of fifty years they shall <i>[j]</i>cease waiting upon the work, and shall serve no more, ",
+            "version": "ASV",
+            "clsstr": "Num-8-25",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>return from the warfare of the work</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4008026,
+            "text": "but shall minister with their brethren in the tent of meeting, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charges.",
+            "version": "ASV",
+            "clsstr": "Num-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 8
+}

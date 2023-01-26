@@ -1,0 +1,279 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20029001,
+            "text": "\u00b6     He that being often reproved hardeneth his neck\n    Shall suddenly be destroyed, and that without remedy.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029002,
+            "text": "  When the righteous <i>[a]</i>are increased, the people rejoice;\n    But when a wicked man beareth rule, the people sigh.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>are in authority</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029003,
+            "text": "    Whoso loveth wisdom rejoiceth his father;\n    But he that keepeth company with harlots wasteth  substance.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029004,
+            "text": "  The king by justice establisheth the land;\n  But <i>[b]</i>he that exacteth gifts overthroweth it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>he that imposeth tribute</i>. Hebrew <i>a man of offerings</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029005,
+            "text": "    A man that flattereth his neighbor\n    Spreadeth a net for his steps.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029006,
+            "text": "    In the transgression of an evil man there is a snare;\n    But the righteous doth sing and rejoice.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029007,
+            "text": "  The righteous taketh knowledge of the cause of the poor;\n  The wicked <i>[c]</i>hath not understanding to know .\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>understandeth not knowledge</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029008,
+            "text": "    Scoffers set a city in a flame;\n    But wise men turn away wrath.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029009,
+            "text": "  If a wise man hath a controversy with a foolish man,\n   <i>[d]</i>Whether he be angry or laugh, there will be no rest.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>He rageth and laugheth, and there is no rest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029010,
+            "text": "  The bloodthirsty hate him that is perfect;\n   <i>[e]</i>And as for the upright, they seek his life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-10",
+            "footnotes": [
+                {
+                    "e": "Or, <i>But the upright care for his soul</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029011,
+            "text": "  A fool uttereth all his <i>[f]</i>anger;\n    But a wise man keepeth it back and stilleth it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-11",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>spirit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029012,
+            "text": "    If a ruler hearkeneth to falsehood,\n    All his servants are wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029013,
+            "text": "    The poor man and the oppressor meet together;\n    Jehovah lighteneth the eyes of them both.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029014,
+            "text": "    The king that faithfully judgeth the poor,\n    His throne shall be established for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029015,
+            "text": "    The rod and reproof give wisdom;\n    But a child left to himself causeth shame to his mother.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029016,
+            "text": "  When the wicked <i>[g]</i>are increased, transgression increaseth;\n    But the righteous shall look upon their fall.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>are in authority</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029017,
+            "text": "    Correct thy son, and he will give thee rest;\n    Yea, he will give delight unto thy soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029018,
+            "text": "    Where there is no vision, the people cast off restraint;\n    But he that keepeth the law, happy is he.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029019,
+            "text": "  A servant will not be corrected by words;\n  For though he understand, he will not <i>[h]</i>give heed.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-19",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>answer</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029020,
+            "text": "  Seest thou a man that is hasty in his <i>[i]</i>words?\n    There is more hope of a fool than of him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-20",
+            "footnotes": [
+                {
+                    "i": "Or, <i>business</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029021,
+            "text": "  He that delicately bringeth up his servant from a child\n  Shall have him become <i>[j]</i>a son at the last.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-21",
+            "footnotes": [
+                {
+                    "j": "The meaning of the word is doubtful."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029022,
+            "text": "    An angry man stirreth up strife,\n    And a wrathful man aboundeth in transgression.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029023,
+            "text": "    A man\u2019s pride shall bring him low;\n    But he that is of a lowly spirit shall obtain honor.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029024,
+            "text": "    Whoso is partner with a thief hateth his own soul;\n    He heareth the adjuration and uttereth nothing.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029025,
+            "text": "  The fear of man bringeth a snare;\n  But whoso putteth his trust in Jehovah <i>[k]</i>shall be safe.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-25",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>shall be set on high</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029026,
+            "text": "    Many seek the ruler\u2019s favor;\n    But a man\u2019s judgment  from Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20029027,
+            "text": "    An unjust man is an abomination to the righteous;\n    And he that is upright in the way is an abomination to the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-29-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 29
+}

@@ -1,0 +1,47 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19134001,
+            "text": "<b>Greetings of night-watchers.</b>\n\u00b6 A Song of Ascents.\u00b6     Behold, bless ye Jehovah, all ye servants of Jehovah,\n    That by night stand in the house of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-134-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19134002,
+            "text": "  Lift up your hands <i>[a]</i>to the sanctuary,\n    And bless ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-134-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>in holiness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19134003,
+            "text": "    Jehovah bless thee out of Zion;\n    Even he that made heaven and earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-134-3",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 134
+}

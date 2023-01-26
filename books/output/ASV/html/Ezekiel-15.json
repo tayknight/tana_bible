@@ -1,0 +1,102 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26015001,
+            "text": "\u00b6 And the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26015002,
+            "text": "Son of man, what is the vine-tree more than any tree, the vine-branch which <i>[a]</i>is among the trees of the forest? ",
+            "version": "ASV",
+            "clsstr": "Ezek-15-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>was</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26015003,
+            "text": "Shall wood be taken thereof to make any work? or will men take a pin of it to hang any vessel thereon? ",
+            "version": "ASV",
+            "clsstr": "Ezek-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26015004,
+            "text": "Behold, it is cast into the fire for fuel; the fire hath devoured both the ends of it, and the midst of it is burned: is it profitable for any work? ",
+            "version": "ASV",
+            "clsstr": "Ezek-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26015005,
+            "text": "Behold, when it was whole, it was <i>[b]</i>meet for no work: how much less, when the fire hath devoured it, and it is burned, shall it yet be <i>[c]</i>meet for any work! ",
+            "version": "ASV",
+            "clsstr": "Ezek-15-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>made into</i>."
+                },
+                {
+                    "c": "Hebrew <i>made into</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26015006,
+            "text": "Therefore thus saith the Lord Jehovah: As the vine-tree among the trees of the forest, which I have given to the fire for fuel, so <i>[d]</i>will I give the inhabitants of Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Ezek-15-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>have I given</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26015007,
+            "text": "And I will set my face against them; they <i>[e]</i>shall go forth from the fire, but the fire shall devour them; and ye shall know that I am Jehovah, when I set my face against them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-15-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>have gone forth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26015008,
+            "text": "And I will make the land desolate, because they have committed a trespass, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 15
+}

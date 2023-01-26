@@ -1,0 +1,287 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20013001,
+            "text": "\u00b6   A wise son his father\u2019s <i>[a]</i>instruction;\n    But a scoffer heareth not rebuke.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>correction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013002,
+            "text": " A man shall eat good <i>[b]</i>by the fruit of his mouth;\n  But <i>[c]</i>the soul of the treacherous  violence.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>from</i>"
+                },
+                {
+                    "c": "Or, <i>the desire of the treacherous</i> is for <i>violence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013003,
+            "text": "    He that guardeth his mouth keepeth his life;\n     he that openeth wide his lips shall have destruction.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013004,
+            "text": "    The soul of the sluggard desireth, and hath nothing;\n    But the soul of the diligent shall be made fat.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013005,
+            "text": "  A righteous man hateth lying;\n  But a wicked man <i>[d]</i>is loathsome, and cometh to shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>causeth shame and bringeth reproach</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013006,
+            "text": " Righteousness guardeth <i>[e]</i>him that is upright in the way;\n  But wickedness overthroweth <i>[f]</i>the sinner.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-6",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>uprightness of way</i>."
+                },
+                {
+                    "f": "Hebrew <i>sin</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013007,
+            "text": " There is that <i>[g]</i>maketh himself rich, yet hath nothing:\n  There is that <i>[h]</i>maketh himself poor, yet hath great wealth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-7",
+            "footnotes": [
+                {
+                    "g": "Or, <i>feigneth</i>"
+                },
+                {
+                    "h": "Or, <i>feigneth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013008,
+            "text": "  The ransom of a man\u2019s life is his riches;\n  But the poor heareth no <i>[i]</i>threatening.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-8",
+            "footnotes": [
+                {
+                    "i": "Or, <i>rebuke</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013009,
+            "text": "    The light of the righteous rejoiceth;\n    But the lamp of the wicked shall be put out.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013010,
+            "text": "    By pride cometh only contention;\n    But with the well-advised is wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013011,
+            "text": "  Wealth gotten by vanity shall be diminished;\n  But he that gathereth <i>[j]</i>by labor shall have increase.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-11",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>with the hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013012,
+            "text": "    Hope deferred maketh the heart sick;\n    But when the desire cometh, it is a tree of life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013013,
+            "text": "  Whoso despiseth the word <i>[k]</i>bringeth destruction on himself;\n    But he that feareth the commandment shall be rewarded.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-13",
+            "footnotes": [
+                {
+                    "k": "Or, <i>maketh himself a debtor thereto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013014,
+            "text": "  The <i>[l]</i>law of the wise is a fountain of life,\n    That one may depart from the snares of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-14",
+            "footnotes": [
+                {
+                    "l": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013015,
+            "text": "  Good understanding <i>[m]</i>giveth favor;\n    But the way of the transgressor is hard.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-15",
+            "footnotes": [
+                {
+                    "m": "Or, <i>getteth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013016,
+            "text": "    Every prudent man worketh with knowledge;\n    But a fool flaunteth  folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013017,
+            "text": "    A wicked messenger falleth into evil;\n    But a faithful ambassador is health.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013018,
+            "text": "  Poverty and shame him that refuseth <i>[n]</i>correction;\n    But he that regardeth reproof shall be honored.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-18",
+            "footnotes": [
+                {
+                    "n": "Or, <i>instruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013019,
+            "text": "    The desire accomplished is sweet to the soul;\n    But it is an abomination to fools to depart from evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013020,
+            "text": "  <i>[o]</i>Walk with wise men, and thou shalt be wise;\n  But the companion of fools shall <i>[p]</i>smart for it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-20",
+            "footnotes": [
+                {
+                    "o": "According to another reading, <i>He that walketh with wise men shall be wise</i>."
+                },
+                {
+                    "p": "Hebrew <i>be broken</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013021,
+            "text": "    Evil pursueth sinners;\n    But the righteous shall be recompensed with good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013022,
+            "text": "    A good man leaveth an inheritance to his children\u2019s children;\n    And the wealth of the sinner is laid up for the righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013023,
+            "text": "  Much food the <i>[q]</i>tillage of the poor;\n    But there is that is destroyed by reason of injustice.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-23",
+            "footnotes": [
+                {
+                    "q": "Or, <i>tilled land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013024,
+            "text": "  He that spareth his rod hateth his son;\n  But he that loveth him chasteneth him <i>[r]</i>betimes.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-24",
+            "footnotes": [
+                {
+                    "r": "Or, <i>diligently</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20013025,
+            "text": "    The righteous eateth to the satisfying of his soul;\n    But the belly of the wicked shall want.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-13-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 13
+}

@@ -1,0 +1,121 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 38,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 38,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 38003001,
+            "text": "\u00b6 And he showed me Joshua the high priest standing before the angel of Jehovah, and <i>[a]</i>Satan standing at his right hand to be his adversary. ",
+            "version": "ASV",
+            "clsstr": "Zech-3-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>the Adversary</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003002,
+            "text": "And Jehovah said unto Satan, Jehovah rebuke thee, O Satan; yea, Jehovah that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire? ",
+            "version": "ASV",
+            "clsstr": "Zech-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003003,
+            "text": "Now Joshua was clothed with filthy garments, and was standing before the angel. ",
+            "version": "ASV",
+            "clsstr": "Zech-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003004,
+            "text": "And he answered and spake unto those that stood before him, saying, Take the filthy garments from off him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with rich apparel. ",
+            "version": "ASV",
+            "clsstr": "Zech-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003005,
+            "text": "And I said, Let them set a clean <i>[b]</i>mitre upon his head. So they set a clean <i>[c]</i>mitre upon his head, and clothed him with garments; and the angel of Jehovah was standing by.",
+            "version": "ASV",
+            "clsstr": "Zech-3-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>turban</i>"
+                },
+                {
+                    "c": "Or, <i>turban</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003006,
+            "text": "\u00b6 And the angel of Jehovah protested unto Joshua, saying, ",
+            "version": "ASV",
+            "clsstr": "Zech-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003007,
+            "text": "Thus saith Jehovah of hosts: If thou wilt walk in my ways, and if thou wilt keep my charge, then thou also shalt judge my house, and shalt also keep my courts, and I will give thee <i>[d]</i>a place of access among these that stand by. ",
+            "version": "ASV",
+            "clsstr": "Zech-3-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>places to walk</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003008,
+            "text": "Hear now, O Joshua the high priest, thou and thy fellows that sit before thee; for they are men that are a <i>[e]</i>sign: for, behold, I will bring forth my servant the <i>[f]</i>Branch. ",
+            "version": "ASV",
+            "clsstr": "Zech-3-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>wonder</i>"
+                },
+                {
+                    "f": "Or, <i>Shoot</i>. Or, <i>Sprout</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003009,
+            "text": "For, behold, the stone that I have set before Joshua; upon one stone are seven eyes: behold, I will engrave the graving thereof, saith Jehovah of hosts, and I will remove the iniquity of that land in one day. ",
+            "version": "ASV",
+            "clsstr": "Zech-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38003010,
+            "text": "In that day, saith Jehovah of hosts, shall ye invite every man his neighbor under the vine and under the fig-tree.",
+            "version": "ASV",
+            "clsstr": "Zech-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Zechariah",
+    "chapters": 3
+}

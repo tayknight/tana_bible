@@ -1,0 +1,271 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44018001,
+            "text": "\u00b6 After these things he departed from Athens, and came to Corinth. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018002,
+            "text": "And he found a certain Jew named Aquila, a man of Pontus by race, lately come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome: and he came unto them; ",
+            "version": "ASV",
+            "clsstr": "Acts-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018003,
+            "text": "and because he was of the same trade, he abode with them, and they wrought; for by their trade they were tentmakers. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018004,
+            "text": "And he reasoned in the synagogue every sabbath, and <i>[a]</i>persuaded Jews and Greeks. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-4",
+            "footnotes": [
+                {
+                    "a": "Greek <i>sought to persuade</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018005,
+            "text": "But when Silas and Timothy came down from Macedonia, Paul was constrained by the word, testifying to the Jews that Jesus was the Christ. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018006,
+            "text": "And when they opposed themselves and <i>[b]</i>blasphemed, he shook out his raiment and said unto them, Your blood  upon your own heads; I am clean: from henceforth I will go unto the Gentiles. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>railed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018007,
+            "text": "And he departed thence, and went into the house of a certain man named Titus Justus, one that worshipped God, whose house joined hard to the synagogue. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018008,
+            "text": "And Crispus, the ruler of the synagogue, <i>[c]</i>believed in the Lord with all his house; and many of the Corinthians hearing believed, and were baptized. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-8",
+            "footnotes": [
+                {
+                    "c": "Greek <i>believed the Lord</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018009,
+            "text": "And the Lord said unto Paul in the night by a vision, Be not afraid, but speak and hold not thy peace: ",
+            "version": "ASV",
+            "clsstr": "Acts-18-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018010,
+            "text": "for I am with thee, and no man shall set on thee to harm thee: for I have much people in this city. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018011,
+            "text": "And he dwelt  a year and six months, teaching the word of God among them.",
+            "version": "ASV",
+            "clsstr": "Acts-18-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018012,
+            "text": "\u00b6 But when Gallio was proconsul of Achaia, the Jews with one accord rose up against Paul and brought him before the judgment-seat, ",
+            "version": "ASV",
+            "clsstr": "Acts-18-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018013,
+            "text": "saying, This man persuadeth men to worship God contrary to the law. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018014,
+            "text": "But when Paul was about to open his mouth, Gallio said unto the Jews, If indeed it were a matter of wrong or of wicked villany, O ye Jews, reason would that I should bear with you: ",
+            "version": "ASV",
+            "clsstr": "Acts-18-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018015,
+            "text": "but if they are questions about words and names and your own law, look to it yourselves; I am not minded to be a judge of these matters. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018016,
+            "text": "And he drove them from the judgment-seat. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018017,
+            "text": "And they all laid hold on Sosthenes, the ruler of the synagogue, and beat him before the judgment-seat. And Gallio cared for none of these things.",
+            "version": "ASV",
+            "clsstr": "Acts-18-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018018,
+            "text": "\u00b6 And Paul, having tarried after this yet many days, took his leave of the brethren, and sailed thence for Syria, and with him Priscilla and Aquila: having shorn his head in Cenchreae; for he had a vow. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018019,
+            "text": "And they came to Ephesus, and he left them there: but he himself entered into the synagogue, and reasoned with the Jews. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018020,
+            "text": "And when they asked him to abide a longer time, he consented not; ",
+            "version": "ASV",
+            "clsstr": "Acts-18-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018021,
+            "text": "but taking his leave of them, and saying, I will return again unto you if God will, he set sail from Ephesus.",
+            "version": "ASV",
+            "clsstr": "Acts-18-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018022,
+            "text": "\u00b6 And when he had landed at Caesarea, he went up and saluted the church, and went down to Antioch. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018023,
+            "text": "And having spent some time , he departed, and went through the region of Galatia, and Phrygia, in order, establishing all the disciples.",
+            "version": "ASV",
+            "clsstr": "Acts-18-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018024,
+            "text": "\u00b6 Now a certain Jew named Apollos, an Alexandrian by race, <i>[d]</i>an eloquent man, came to Ephesus; and he was mighty in the scriptures. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-24",
+            "footnotes": [
+                {
+                    "d": "Or, <i>a learned man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018025,
+            "text": "This man had been <i>[e]</i>instructed in the way of the Lord; and being fervent in spirit, he spake and taught accurately the things concerning Jesus, knowing only the baptism of John: ",
+            "version": "ASV",
+            "clsstr": "Acts-18-25",
+            "footnotes": [
+                {
+                    "e": "Greek <i>taught by word of mouth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018026,
+            "text": "and he began to speak boldly in the synagogue. But when Priscilla and Aquila heard him, they took him unto them, and expounded unto him the way of God more accurately. ",
+            "version": "ASV",
+            "clsstr": "Acts-18-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018027,
+            "text": "And when he was minded to pass over into Achaia, the brethren encouraged him, and wrote to the disciples to receive him: and when he was come, he <i>[f]</i>helped them much that had believed through grace; ",
+            "version": "ASV",
+            "clsstr": "Acts-18-27",
+            "footnotes": [
+                {
+                    "f": "Or, <i>helped much through grace them that had believed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44018028,
+            "text": "for he powerfully confuted the Jews, <i>[g]</i> publicly, showing by the scriptures that Jesus was the Christ.",
+            "version": "ASV",
+            "clsstr": "Acts-18-28",
+            "footnotes": [
+                {
+                    "g": "Or, <i>showing publicly</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 18
+}

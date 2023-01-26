@@ -1,0 +1,310 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23044001,
+            "text": "\u00b6 Yet now hear, O Jacob my servant, and Israel, who I have chosen: ",
+            "version": "ASV",
+            "clsstr": "Isa-44-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044002,
+            "text": "Thus saith Jehovah that made thee, and formed thee from the womb, who will help thee: Fear not, O Jacob my servant; and thou, Jeshurun, whom I have chosen. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044003,
+            "text": "For I will pour water upon <i>[a]</i>him that is thirsty, and streams upon the dry ground; I will pour my Spirit upon thy seed, and my blessing upon thine offspring: ",
+            "version": "ASV",
+            "clsstr": "Isa-44-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the thirsty</i> land"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044004,
+            "text": "and they shall spring up among the grass, as willows by the watercourses. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044005,
+            "text": "One shall say, I am Jehovah\u2019s; and another shall <i>[b]</i>call by the name of Jacob; and another shall <i>[c]</i>subscribe with his hand unto Jehovah, and <i>[d]</i>surname  by the name of Israel.",
+            "version": "ASV",
+            "clsstr": "Isa-44-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>proclaim the name</i>"
+                },
+                {
+                    "c": "Or, <i>write on his hand, Unto Jehovah</i>"
+                },
+                {
+                    "d": "Or, <i>give for a title the name of Israel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044006,
+            "text": "\u00b6 Thus saith Jehovah, the King of Israel, and his Redeemer, Jehovah of hosts: I am the first, and I am the last; and besides me there is no God. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044007,
+            "text": " <i>[e]</i>And who, as I, shall call, and shall declare it, and set it in order for me, since I established the ancient people? and the things that are coming, and that shall come to pass, let them <i>[f]</i>declare. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>And who, as I, can proclaim? let him declare it etc.</i>"
+                },
+                {
+                    "f": "Or, <i>declare unto them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044008,
+            "text": "Fear ye not, neither be afraid: have I not declared unto thee of old, and showed it? and ye are my witnesses. Is there a God besides me? yea, there is no Rock; I know not any.",
+            "version": "ASV",
+            "clsstr": "Isa-44-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044009,
+            "text": "\u00b6 They that fashion a graven image are all of them <i>[g]</i>vanity; and the things that they delight in shall not profit; and their own witnesses see not, nor know: that they may be put to shame. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-9",
+            "footnotes": [
+                {
+                    "g": "Or, <i>confusion</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044010,
+            "text": "Who hath fashioned a god, or molten an image that is profitable for nothing? ",
+            "version": "ASV",
+            "clsstr": "Isa-44-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044011,
+            "text": "Behold, <i>[h]</i>all his fellows shall be put to shame; and the workmen, they are of men: let them all be gathered together, let them stand up; they shall fear, they shall be put to shame together.",
+            "version": "ASV",
+            "clsstr": "Isa-44-11",
+            "footnotes": [
+                {
+                    "h": "Or, <i>all that join themselves thereto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044012,
+            "text": "\u00b6 The smith <i>[i]</i> an axe, and worketh in the coals, and fashioneth it with hammers, and worketh it with his strong arm: yea, he is hungry, and his strength faileth; he drinketh no water, and is faint. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-12",
+            "footnotes": [
+                {
+                    "i": "Or, sharpeneth <i>a tool</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044013,
+            "text": "The carpenter stretcheth out a line; he marketh it out with <i>[j]</i>a pencil; he shapeth it with planes, and he marketh it out with the compasses, and shapeth it after the figure of a man, according to the beauty of a man, to dwell in a house. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-13",
+            "footnotes": [
+                {
+                    "j": "Or, <i>red ochre</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044014,
+            "text": "He heweth him down cedars, and taketh the holm-tree and the oak, and strengtheneth for himself one among the trees of the forest: he planteth <i>[k]</i>a fir-tree, and the rain doth nourish it. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-14",
+            "footnotes": [
+                {
+                    "k": "Or, <i>an ash</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044015,
+            "text": "Then shall it be for a man to burn; and he taketh thereof, and warmeth himself; yea, he kindleth it, and baketh bread: yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044016,
+            "text": "He burneth <i>[l]</i>part thereof in the fire; with <i>[m]</i>part thereof he eateth flesh; he roasteth roast, and is satisfied; yea, he warmeth himself, and saith, Aha, I am warm, I have seen the fire. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-16",
+            "footnotes": [
+                {
+                    "l": "Or, <i>the half</i>"
+                },
+                {
+                    "m": "Or, <i>the half</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044017,
+            "text": "And the residue thereof he maketh a god, even his graven image; he falleth down unto it and worshippeth, and prayeth unto it, and saith, Deliver me; for thou art my god.",
+            "version": "ASV",
+            "clsstr": "Isa-44-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044018,
+            "text": "\u00b6 They know not, neither do they consider: for he hath <i>[n]</i>shut their eyes, that they cannot see; and their hearts, that they cannot understand. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-18",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>daubed</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044019,
+            "text": "And none calleth to mind, neither is there knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh and eaten it: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree? ",
+            "version": "ASV",
+            "clsstr": "Isa-44-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044020,
+            "text": "He feedeth on ashes; a deceived heart hath turned him aside; and he cannot deliver his soul, nor say, Is there not a lie in my right hand?",
+            "version": "ASV",
+            "clsstr": "Isa-44-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044021,
+            "text": "\u00b6 Remember these things, O Jacob, and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044022,
+            "text": "I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-44-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044023,
+            "text": "Sing, O ye heavens, for Jehovah hath done it; shout, ye lower parts of the earth; break forth into singing, ye mountains, O forest, and every tree therein: for Jehovah hath redeemed Jacob, and will glorify himself in Israel.",
+            "version": "ASV",
+            "clsstr": "Isa-44-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044024,
+            "text": "\u00b6 Thus saith Jehovah, thy Redeemer, and he that formed thee from the womb: I am Jehovah, that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth <i>[o]</i>(who is with me?); ",
+            "version": "ASV",
+            "clsstr": "Isa-44-24",
+            "footnotes": [
+                {
+                    "o": "Another reading is, <i>by myself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044025,
+            "text": "that frustrateth the signs of the <i>[p]</i>liars, and maketh diviners mad; that turneth wise men backward, and maketh their knowledge foolish; ",
+            "version": "ASV",
+            "clsstr": "Isa-44-25",
+            "footnotes": [
+                {
+                    "p": "Or, <i>boasters</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044026,
+            "text": "that confirmeth the word of his servant, and performeth the counsel of his messengers; that saith of Jerusalem, She shall be inhabited; and of the cities of Judah, They shall be built, and I will raise up the waste places thereof; ",
+            "version": "ASV",
+            "clsstr": "Isa-44-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044027,
+            "text": "that saith to the deep, Be dry, and I will dry up thy rivers; ",
+            "version": "ASV",
+            "clsstr": "Isa-44-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23044028,
+            "text": "That saith of <i>[q]</i>Cyrus, my shepherd, and shall perform all my pleasure, even saying of Jerusalem, She shall be built; <i>[r]</i>and of the temple, Thy foundation shall be laid.",
+            "version": "ASV",
+            "clsstr": "Isa-44-28",
+            "footnotes": [
+                {
+                    "q": "Hebrew <i>Coresh</i>."
+                },
+                {
+                    "r": "Or, <i>and the foundation of the temple shall be laid</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 44
+}

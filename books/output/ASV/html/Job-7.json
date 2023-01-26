@@ -1,0 +1,212 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18007001,
+            "text": "\u00b6   Is there not a <i>[a]</i>warfare to man upon earth?\n    And are not his days like the days of a hireling?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>time of service</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007002,
+            "text": "    As a servant that earnestly desireth the shadow,\n    And as a hireling that looketh for his wages:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007003,
+            "text": "    So am I made to possess months of misery,\n    And wearisome nights are appointed to me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007004,
+            "text": "    When I lie down, I say,\n    When shall I arise, and the night be gone?\n    And I am full of tossings to and fro unto the dawning of the day.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007005,
+            "text": "  My flesh is clothed with worms and clods of dust;\n  My skin <i>[b]</i>closeth up, and breaketh out afresh.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>is broken and become loathsome</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007006,
+            "text": "    My days are swifter than a weaver\u2019s shuttle,\n    And are spent without hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007007,
+            "text": "    Oh remember that my life is a breath:\n    Mine eye shall no more see good.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007008,
+            "text": "    The eye of him that seeth me shall behold me no more;\n    Thine eyes shall be upon me, but I shall not be.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007009,
+            "text": "    As the cloud is consumed and vanisheth away,\n    So he that goeth down to Sheol shall come up no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007010,
+            "text": "    He shall return no more to his house,\n    Neither shall his place know him any more.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007011,
+            "text": "\u00b6     Therefore I will not refrain my mouth;\n    I will speak in the anguish of my spirit;\n    I will complain in the bitterness of my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007012,
+            "text": "    Am I a sea, or a sea-monster,\n    That thou settest a watch over me?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007013,
+            "text": "    When I say, My bed shall comfort me,\n    My couch shall ease my complaint;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007014,
+            "text": "    Then thou scarest me with dreams,\n    And terrifiest me through visions:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007015,
+            "text": "    So that my soul chooseth strangling,\n    And death rather than  my bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007016,
+            "text": " <i>[c]</i>I loathe ; I <i>[d]</i>would not live alway:\n  Let me alone; for my days are <i>[e]</i>vanity.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-16",
+            "footnotes": [
+                {
+                    "c": "Or, <i>I waste away</i>"
+                },
+                {
+                    "d": "Or, <i>shall</i>"
+                },
+                {
+                    "e": "Or, <i>as a breath</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007017,
+            "text": "    What is man, that thou shouldest magnify him,\n    And that thou shouldest set thy mind upon him,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007018,
+            "text": "    And that thou shouldest visit him every morning,\n    And try him every moment?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007019,
+            "text": "    How long wilt thou not look away from me,\n    Nor let me alone till I swallow down my spittle?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007020,
+            "text": " If I have sinned, what <i>[f]</i>do I unto thee, O thou <i>[g]</i>watcher of men?\n    Why hast thou set me as a mark for thee,\n    So that I am a burden to myself?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-20",
+            "footnotes": [
+                {
+                    "f": "Or, <i>can I do</i>"
+                },
+                {
+                    "g": "Or, <i>preserver</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18007021,
+            "text": "    And why dost thou not pardon my transgression, and take away mine iniquity?\n    For now shall I lie down in the dust;\n    And thou wilt seek me diligently, but I shall not be.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-7-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 7
+}

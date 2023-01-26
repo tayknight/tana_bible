@@ -1,0 +1,358 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20010001,
+            "text": "\u00b6 The proverbs of Solomon.\u00b6     A wise son maketh a glad father;\n    But a foolish son is the heaviness of his mother.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010002,
+            "text": "    Treasures of wickedness profit nothing;\n    But righteousness delivereth from death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010003,
+            "text": "    Jehovah will not suffer the soul of the righteous to famish;\n    But he thrusteth away the desire of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010004,
+            "text": "    He becometh poor that worketh with a slack hand;\n    But the hand of the diligent maketh rich.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010005,
+            "text": " He that gathereth in summer is <i>[a]</i>a wise son;\n   he that sleepeth in harvest is a son <i>[b]</i>that causeth shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a son that doeth wisely</i>"
+                },
+                {
+                    "b": "Or, <i>that doeth shamefully</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010006,
+            "text": "  Blessings are upon the head of the righteous;\n  But <i>[c]</i>violence covereth the mouth of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the mouth of the wicked covereth violence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010007,
+            "text": "    The memory of the righteous is blessed;\n    But the name of the wicked shall rot.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010008,
+            "text": " The wise in heart will receive commandments;\n But <i>[d]</i>a prating fool <i>[e]</i>shall fall.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>the foolish of lips</i>."
+                },
+                {
+                    "e": "Or, <i>shall be overthrown</i> (or, <i>laid low</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010009,
+            "text": "    He that walketh uprightly walketh surely;\n    But he that perverteth his ways shall be known.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010010,
+            "text": " He that winketh with the eye causeth sorrow;\n But <i>[f]</i>a prating fool <i>[g]</i>shall fall.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-10",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>the foolish of lips</i>."
+                },
+                {
+                    "g": "Or, <i>shall be overthrown</i> (or, <i>laid low</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010011,
+            "text": "  The mouth of the righteous is a fountain of life;\n  But <i>[h]</i>violence covereth the mouth of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-11",
+            "footnotes": [
+                {
+                    "h": "Or, <i>the mouth of the wicked covereth violence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010012,
+            "text": "    Hatred stirreth up strifes;\n    But love covereth all transgressions.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010013,
+            "text": "  In the lips of him that hath discernment wisdom is found;\n  But a rod is for the back of him that is void of <i>[i]</i>understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-13",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010014,
+            "text": "    Wise men lay up knowledge;\n    But the mouth of the foolish is a present destruction.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010015,
+            "text": "    The rich man\u2019s wealth is his strong city:\n    The destruction of the poor is their poverty.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010016,
+            "text": "    The labor of the righteous  to life;\n    The increase of the wicked, to sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010017,
+            "text": " He <i>[j]</i>is in the way of life that heedeth <i>[k]</i>correction;\n  But he that forsaketh reproof <i>[l]</i>erreth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>is a way</i>"
+                },
+                {
+                    "k": "Or, <i>instruction</i>"
+                },
+                {
+                    "l": "Or, <i>causeth to err</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010018,
+            "text": "    He that hideth hatred is of lying lips;\n    And he that uttereth a slander is a fool.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010019,
+            "text": "  In the multitude of words there wanteth not transgression;\n  But he that refraineth his lips <i>[m]</i>doeth wisely.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-19",
+            "footnotes": [
+                {
+                    "m": "Or, <i>is wise</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010020,
+            "text": "    The tongue of the righteous is  choice silver:\n    The heart of the wicked is little worth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010021,
+            "text": "  The lips of the righteous feed many;\n  But the foolish die for lack of <i>[n]</i>understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-21",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010022,
+            "text": "  The blessing of Jehovah, it maketh rich;\n  And <i>[o]</i>he addeth no sorrow therewith.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-22",
+            "footnotes": [
+                {
+                    "o": "Or, <i>toil addeth nothing thereto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010023,
+            "text": "  It is as sport to a fool to do wickedness;\n   <i>[p]</i>And  wisdom to a man of understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-23",
+            "footnotes": [
+                {
+                    "p": "Or, <i>But a man of understanding hath wisdom</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010024,
+            "text": "    The fear of the wicked, it shall come upon him;\n    And the desire of the righteous shall be granted.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010025,
+            "text": "   <i>[q]</i>When the whirlwind passeth, the wicked is no more;\n    But the righteous is an everlasting foundation.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-25",
+            "footnotes": [
+                {
+                    "q": "Or, <i>As the whirlwind passeth, so is the wicked no more</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010026,
+            "text": "    As vinegar to the teeth, and as smoke to the eyes,\n    So is the sluggard to them that send him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010027,
+            "text": "  The fear of Jehovah <i>[r]</i>prolongeth days;\n    But the years of the wicked shall be shortened.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-27",
+            "footnotes": [
+                {
+                    "r": "Hebrew <i>addeth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010028,
+            "text": "    The hope of the righteous  gladness;\n    But the expectation of the wicked shall perish.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010029,
+            "text": "  The way of Jehovah is a stronghold to the upright;\n  But <i>[s]</i>it is a destruction to the workers of iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-29",
+            "footnotes": [
+                {
+                    "s": "Or, <i>destruction shall be to etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010030,
+            "text": "  The righteous shall never be removed;\n  But the wicked shall not dwell in the <i>[t]</i>land.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-30",
+            "footnotes": [
+                {
+                    "t": "Or, <i>earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010031,
+            "text": "  The mouth of the righteous <i>[u]</i>bringeth forth wisdom;\n    But the perverse tongue shall be cut off.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-31",
+            "footnotes": [
+                {
+                    "u": "Or, <i>buddeth with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20010032,
+            "text": "  The lips of the righteous know what is acceptable;\n  But the mouth of the wicked <i>[v]</i> perverseness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-10-32",
+            "footnotes": [
+                {
+                    "v": "Or, is"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 10
+}

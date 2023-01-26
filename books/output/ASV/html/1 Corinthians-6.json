@@ -1,0 +1,214 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46006001,
+            "text": "\u00b6 Dare any of you, having a matter against <i>[a]</i>his neighbor, go to law before the unrighteous, and not before the saints? ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>the other</i>. See [[Rom. 13:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006002,
+            "text": "Or know ye not that the saints shall judge the world? and if the world is judged by you, are ye unworthy <i>[b]</i>to judge the smallest matters? ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-2",
+            "footnotes": [
+                {
+                    "b": "Greek <i>of the smallest tribunals</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006003,
+            "text": "Know ye not that we shall judge angels? how much more, things that pertain to this life? ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006004,
+            "text": "If then ye have <i>[c]</i>to judge things pertaining to this life, <i>[d]</i>do ye set them to judge who are of no account in the church? ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-4",
+            "footnotes": [
+                {
+                    "c": "Greek <i>tribunals pertaining to</i>."
+                },
+                {
+                    "d": "Or, <i>set them\u00a0.\u00a0.\u00a0. church</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006005,
+            "text": "I say to move you to shame. <i>[e]</i>What, cannot there be  among you one wise man who shall be able to decide between his brethren, ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-5",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Is it so, that there cannot etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006006,
+            "text": "but brother goeth to law with brother, and that before unbelievers? ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006007,
+            "text": "Nay, already it is altogether <i>[f]</i>a defect in you, that ye have lawsuits one with another. Why not rather take wrong? why not rather be defrauded? ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-7",
+            "footnotes": [
+                {
+                    "f": "Or, <i>a loss to you</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006008,
+            "text": "Nay, but ye yourselves do wrong, and defraud, and that  brethren. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006009,
+            "text": "Or know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with men, ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006010,
+            "text": "nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006011,
+            "text": "And such were some of you: but ye <i>[g]</i>were washed, but ye were sanctified, but ye were justified in the name of the Lord Jesus Christ, and in the Spirit of our God.",
+            "version": "ASV",
+            "clsstr": "1Cor-6-11",
+            "footnotes": [
+                {
+                    "g": "Greek <i>washed yourselves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006012,
+            "text": "\u00b6 All things are lawful for me; but not all things are expedient. All things are lawful for me; but I will not be brought under the power of any. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006013,
+            "text": "Meats for the belly, and the belly for meats: but God shall bring to nought both it and them. But the body is not for fornication, but for the Lord; and the Lord for the body: ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006014,
+            "text": "and God both raised the Lord, and will raise up us through his power. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006015,
+            "text": "Know ye not that your bodies are members of Christ? shall I then take away the members of Christ, and make them members of a harlot? God forbid. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006016,
+            "text": "Or know ye not that he that is joined to a harlot is one body? for, <i>[h]</i>The twain, saith he, shall become one flesh. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-16",
+            "footnotes": [
+                {
+                    "h": "[[Gen. 2:24]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006017,
+            "text": "But he that is joined unto the Lord is one spirit. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006018,
+            "text": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body. ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006019,
+            "text": "Or know ye not that your body is a <i>[i]</i>temple of the Holy Spirit which is in you, which ye have from God? and ye are not your own; ",
+            "version": "ASV",
+            "clsstr": "1Cor-6-19",
+            "footnotes": [
+                {
+                    "i": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46006020,
+            "text": "for ye were bought with a price: glorify God therefore in your body.",
+            "version": "ASV",
+            "clsstr": "1Cor-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 6
+}

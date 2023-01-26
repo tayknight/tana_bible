@@ -1,0 +1,226 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19038001,
+            "text": "<b>Prayer of a suffering penitent.</b>\n\u00b6 A Psalm of David, <i>[a]</i>to bring to remembrance.\u00b6     O Jehovah, rebuke me not in thy wrath;\n    Neither chasten me in thy hot displeasure.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>to make memorial</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038002,
+            "text": " For thine arrows <i>[b]</i>stick fast in me,\n  And thy hand <i>[c]</i>presseth me sore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-2",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>lighted on me</i>."
+                },
+                {
+                    "c": "Hebrew <i>lighted on me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038003,
+            "text": "  There is no soundness in my flesh because of thine indignation;\n  Neither is there any <i>[d]</i>health in my bones because of my sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>rest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038004,
+            "text": "    For mine iniquities are gone over my head:\n    As a heavy burden they are too heavy for me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038005,
+            "text": "    My wounds are loathsome and corrupt,\n    Because of my foolishness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038006,
+            "text": "  I am <i>[e]</i>pained and bowed down greatly;\n    I go mourning all the day long.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-6",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>bent</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038007,
+            "text": "    For my loins are filled with burning;\n    And there is no soundness in my flesh.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038008,
+            "text": "  I am faint and sore bruised:\n  I have <i>[f]</i>groaned by reason of the disquietness of my heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-8",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>roared</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038009,
+            "text": "    Lord, all my desire is before thee;\n    And my groaning is not hid from thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038010,
+            "text": "    My heart throbbeth, my strength faileth me:\n    As for the light of mine eyes, it also is gone from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038011,
+            "text": "    My lovers and my friends stand aloof from my plague;\n    And my kinsmen stand afar off.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038012,
+            "text": "    They also that seek after my life lay snares ;\n    And they that seek my hurt speak mischievous things,\n    And meditate deceits all the day long.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038013,
+            "text": "    But I, as a deaf man, hear not;\n    And I am as a dumb man that openeth not his mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038014,
+            "text": "  Yea, I am as a man that heareth not,\n  And in whose mouth are no <i>[g]</i>reproofs.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>arguments</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038015,
+            "text": "    For in thee, O Jehovah, do I hope:\n    Thou wilt answer, O Lord my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038016,
+            "text": "    For I said, Lest they rejoice over me:\n    When my foot slippeth, they magnify themselves against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038017,
+            "text": "    For I am ready to fall,\n    And my sorrow is continually before me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038018,
+            "text": "    For I will declare mine iniquity;\n    I will be sorry for my sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038019,
+            "text": "  But mine enemies are lively, are strong;\n  And they that hate me <i>[h]</i>wrongfully are multiplied.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-19",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>falsely</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038020,
+            "text": "    They also that render evil for good\n    Are adversaries unto me, because I follow the thing that is good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038021,
+            "text": "    Forsake me not, O Jehovah:\n    O my God, be not far from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19038022,
+            "text": "    Make haste to help me,\n    O Lord, my salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-38-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 38
+}

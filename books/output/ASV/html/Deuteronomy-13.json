@@ -1,0 +1,186 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5013001,
+            "text": "\u00b6 If there arise in the midst of thee a prophet, or a dreamer of dreams, and he give thee a sign or a wonder, ",
+            "version": "ASV",
+            "clsstr": "Deut-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013002,
+            "text": "and the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them; ",
+            "version": "ASV",
+            "clsstr": "Deut-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013003,
+            "text": "thou shalt not hearken unto the words of that prophet, or unto that dreamer of dreams: for Jehovah your God proveth you, to know whether ye love Jehovah your God with all your heart and with all your soul. ",
+            "version": "ASV",
+            "clsstr": "Deut-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013004,
+            "text": "Ye shall walk after Jehovah your God, and fear him, and keep his commandments, and obey his voice, and ye shall serve him, and cleave unto him. ",
+            "version": "ASV",
+            "clsstr": "Deut-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013005,
+            "text": "And that prophet, or that dreamer of dreams, shall be put to death, because he hath spoken <i>[a]</i>rebellion against Jehovah your God, who brought you out of the land of Egypt, and redeemed thee out of the house of bondage, to draw thee aside out of the way which Jehovah thy God commanded thee to walk in. So shalt thou put away the evil from the midst of thee.",
+            "version": "ASV",
+            "clsstr": "Deut-13-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>turning aside</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013006,
+            "text": "\u00b6 If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, that is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers; ",
+            "version": "ASV",
+            "clsstr": "Deut-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013007,
+            "text": "of the gods of the peoples that are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth; ",
+            "version": "ASV",
+            "clsstr": "Deut-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013008,
+            "text": "thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him: ",
+            "version": "ASV",
+            "clsstr": "Deut-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013009,
+            "text": "but thou shalt surely kill him; thy hand shall be first upon him to put him to death, and afterwards the hand of all the people. ",
+            "version": "ASV",
+            "clsstr": "Deut-13-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013010,
+            "text": "And thou shalt stone him to death with stones, because he hath sought to draw thee away from Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage. ",
+            "version": "ASV",
+            "clsstr": "Deut-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013011,
+            "text": "And all Israel shall hear, and fear, and shall do no more any such wickedness as this is in the midst of thee.",
+            "version": "ASV",
+            "clsstr": "Deut-13-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013012,
+            "text": "\u00b6 If thou shalt hear tell <i>[b]</i>concerning one of thy cities, which Jehovah thy God giveth thee to dwell there, saying, ",
+            "version": "ASV",
+            "clsstr": "Deut-13-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013013,
+            "text": "Certain <i>[c]</i>base fellows are gone out from the midst of thee, and have drawn away the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known; ",
+            "version": "ASV",
+            "clsstr": "Deut-13-13",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>sons of worthlessness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013014,
+            "text": "then shalt thou inquire, and make search, and ask diligently; and, behold, if it be truth, and the thing certain, that such abomination is wrought in the midst of thee, ",
+            "version": "ASV",
+            "clsstr": "Deut-13-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013015,
+            "text": "thou shalt surely smite the inhabitants of that city with the edge of the sword, <i>[d]</i>destroying it utterly, and all that is therein and the cattle thereof, with the edge of the sword. ",
+            "version": "ASV",
+            "clsstr": "Deut-13-15",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>devoting it</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013016,
+            "text": "And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof <i>[e]</i>every whit, unto Jehovah thy God: and it shall be a <i>[f]</i>heap for ever; it shall not be built again. ",
+            "version": "ASV",
+            "clsstr": "Deut-13-16",
+            "footnotes": [
+                {
+                    "e": "Or, <i>as a whole burnt-offering</i>"
+                },
+                {
+                    "f": "Or, <i>mound</i>. Hebrew <i>tel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013017,
+            "text": "And there shall cleave nought of the devoted thing to thy hand; that Jehovah may turn from the fierceness of his anger, and show thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers; ",
+            "version": "ASV",
+            "clsstr": "Deut-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5013018,
+            "text": "when thou shalt hearken to the voice of Jehovah thy God, to keep all his commandments which I command thee this day, to do that which is right in the eyes of Jehovah thy God.",
+            "version": "ASV",
+            "clsstr": "Deut-13-18",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 13
+}

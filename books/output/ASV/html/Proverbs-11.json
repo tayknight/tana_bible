@@ -1,0 +1,310 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20011001,
+            "text": "\u00b6   <i>[a]</i>A false balance is an abomination to Jehovah;\n    But a just weight is his delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>A balance of deceit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011002,
+            "text": "    When pride cometh, then cometh shame;\n    But with the lowly is wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011003,
+            "text": "    The integrity of the upright shall guide them;\n    But the perverseness of the treacherous shall destroy them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011004,
+            "text": "    Riches profit not in the day of wrath;\n    But righteousness delivereth from death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011005,
+            "text": "  The righteousness of the perfect shall <i>[b]</i>direct his way;\n    But the wicked shall fall by his own wickedness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>make straight</i> (or, <i>plain</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011006,
+            "text": "    The righteousness of the upright shall deliver them;\n    But the treacherous shall be taken in their own iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011007,
+            "text": "  When a wicked man dieth, expectation shall perish;\n  And the hope of <i>[c]</i>iniquity perisheth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>strong</i> men"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011008,
+            "text": "    The righteous is delivered out of trouble;\n    And the wicked cometh in his stead.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011009,
+            "text": "    With his mouth the godless man destroyeth his neighbor;\n    But through knowledge shall the righteous be delivered.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011010,
+            "text": "    When it goeth well with the righteous, the city rejoiceth;\n    And when the wicked perish, there is shouting.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011011,
+            "text": "    By the blessing of the upright the city is exalted;\n    But it is overthrown by the mouth of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011012,
+            "text": "  He that despiseth his neighbor is void of <i>[d]</i>wisdom;\n    But a man of understanding holdeth his peace.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-12",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011013,
+            "text": "    He that goeth about as a tale-bearer revealeth secrets;\n    But he that is of a faithful spirit concealeth a matter.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011014,
+            "text": "    Where no wise guidance is, the people falleth;\n    But in the multitude of counsellors there is safety.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011015,
+            "text": " He that is surety for a stranger <i>[e]</i>shall smart for it;\n  But he that hateth <i>[f]</i>suretyship is secure.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-15",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>shall be sore broken</i>."
+                },
+                {
+                    "f": "Hebrew <i>those that strike</i> hands."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011016,
+            "text": "    A gracious woman obtaineth honor;\n    And violent men obtain riches.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011017,
+            "text": "    The merciful man doeth good to his own soul;\n    But he that is cruel troubleth his own flesh.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011018,
+            "text": "    The wicked earneth deceitful wages;\n    But he that soweth righteousness  a sure reward.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011019,
+            "text": "   <i>[g]</i>He that is stedfast in righteousness  unto life;\n    And he that pursueth evil  to his own death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>So righteousness</i> tendeth <i>to life, and he etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011020,
+            "text": "    They that are perverse in heart are an abomination to Jehovah;\n    But such as are perfect in  way are his delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011021,
+            "text": "   <i>[h]</i> hand  in hand, the evil man shall not be unpunished;\n    But the seed of the righteous shall be delivered.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-21",
+            "footnotes": [
+                {
+                    "h": "Or, <i>My hand upon it!</i> Hebrew <i>Hand to hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011022,
+            "text": "   a ring of gold in a swine\u2019s snout,\n   a fair woman that <i>[i]</i>is without discretion.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-22",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>turneth aside from</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011023,
+            "text": "  The desire of the righteous is only good;\n   the expectation of the wicked is <i>[j]</i>wrath.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-23",
+            "footnotes": [
+                {
+                    "j": "Or, <i>arrogance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011024,
+            "text": "  There is that scattereth, and increaseth yet more;\n  And there is that withholdeth <i>[k]</i>more than is meet, but  only to want.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-24",
+            "footnotes": [
+                {
+                    "k": "Or, <i>what is justly due</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011025,
+            "text": "    The liberal soul shall be made fat;\n    And he that watereth shall be watered also himself.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011026,
+            "text": "    He that withholdeth grain, the people shall curse him;\n    But blessing shall be upon the head of him that selleth it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011027,
+            "text": "    He that diligently seeketh good seeketh favor;\n    But he that searcheth after evil, it shall come unto him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011028,
+            "text": "    He that trusteth in his riches shall fall;\n    But the righteous shall flourish as the green leaf.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011029,
+            "text": "    He that troubleth his own house shall inherit the wind;\n    And the foolish shall be servant to the wise of heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011030,
+            "text": "    The fruit of the righteous is a tree of life;\n    And he that is wise winneth souls.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20011031,
+            "text": "    Behold, the righteous shall be recompensed in the earth;\n    How much more the wicked and the sinner!\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-11-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 11
+}

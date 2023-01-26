@@ -1,0 +1,166 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19039001,
+            "text": "<b>The vanity of life.</b>\n\u00b6 For the Chief Musician, for <i>[a]</i>Jeduthun. A Psalm of David.\u00b6   I said, I will take heed to my ways,\n  That I sin not with my tongue:\n  I will keep <i>[b]</i>my mouth with a bridle,\n    While the wicked is before me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-1",
+            "footnotes": [
+                {
+                    "a": "[[62:title]]; [[77:title]]; [[1 Chr. 16:41]]; [[25:1]]."
+                },
+                {
+                    "b": "Hebrew <i>a bridle</i> (or <i>muzzle</i>) <i>for my mouth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039002,
+            "text": "  I was dumb with silence, I held my peace, <i>[c]</i>even from good;\n    And my sorrow was stirred.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>and had no comfort</i>. Hebrew <i>away from good</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039003,
+            "text": "    My heart was hot within me;\n    While I was musing the fire burned;\n     spake I with my tongue:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039004,
+            "text": "    Jehovah, make me to know mine end,\n    And the measure of my days, what it is;\n    Let me know how frail I am.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039005,
+            "text": " Behold, thou hast made my days handbreadths;\n And my life-time is as nothing before thee:\n Surely every man <i>[d]</i>at his best estate is altogether <i>[e]</i>vanity. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-5",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>standing firm</i>."
+                },
+                {
+                    "e": "Hebrew <i>a breath</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039006,
+            "text": " Surely every man walketh <i>[f]</i>in a vain show;\n  Surely they are disquieted <i>[g]</i>in vain:\n    He heapeth up , and knoweth not who shall gather them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>as a shadow</i>"
+                },
+                {
+                    "g": "Or, <i>for vanity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039007,
+            "text": "    And now, Lord, what wait I for?\n    My hope is in thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039008,
+            "text": "    Deliver me from all my transgressions:\n    Make me not the reproach of the foolish.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039009,
+            "text": "    I was dumb, I opened not my mouth;\n    Because thou didst it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039010,
+            "text": "  Remove thy stroke away from me:\n  I am consumed by the <i>[h]</i>blow of thy hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-10",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>conflict</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039011,
+            "text": " When thou with rebukes dost correct man for iniquity,\n Thou <i>[i]</i>makest his beauty to consume away like a moth:\n  Surely every man is <i>[j]</i>vanity. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-11",
+            "footnotes": [
+                {
+                    "i": "Or, <i>consumest like a moth his delights</i>"
+                },
+                {
+                    "j": "Hebrew <i>a breath</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039012,
+            "text": "    Hear my prayer, O Jehovah, and give ear unto my cry;\n    Hold not thy peace at my tears:\n    For I am a stranger with thee,\n    A sojourner, as all my fathers were.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19039013,
+            "text": " Oh <i>[k]</i>spare me, that I may <i>[l]</i>recover strength,\n    Before I go hence, and be no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-39-13",
+            "footnotes": [
+                {
+                    "k": "Or, <i>look away from me</i>"
+                },
+                {
+                    "l": "Hebrew <i>brighten up</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 39
+}

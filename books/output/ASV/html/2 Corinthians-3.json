@@ -1,0 +1,206 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 47,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 47,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 47003001,
+            "text": "\u00b6 Are we beginning again to commend ourselves? or need we, as do some, epistles of commendation to you or from you? ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003002,
+            "text": "Ye are our epistle, written in our hearts, known and read of all men; ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003003,
+            "text": "being made manifest that ye are an epistle of Christ, ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in tables  hearts of flesh. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003004,
+            "text": "And such confidence have we through Christ to God-ward: ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003005,
+            "text": "not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God; ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003006,
+            "text": "who also made us sufficient as ministers of a new covenant; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003007,
+            "text": "But if the ministration of death, <i>[a]</i>written, engraven on stones, came <i>[b]</i>with glory, so that the children of Israel could not look stedfastly upon the face of Moses for the glory of his face; which  <i>[c]</i>was passing away: ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-7",
+            "footnotes": [
+                {
+                    "a": "Greek <i>in letters</i>."
+                },
+                {
+                    "b": "Greek <i>in</i>."
+                },
+                {
+                    "c": "Or, <i>was being done away</i>. Compare [[1 Cor. 13:8]], [[10]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003008,
+            "text": "how shall not rather the ministration of the spirit be with glory? ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003009,
+            "text": " <i>[d]</i>For if the ministration of condemnation hath glory, much rather doth the ministration of righteousness exceed in glory. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-9",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities read <i>For if the ministration of condemnation is glory</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003010,
+            "text": "For verily that which hath been made glorious hath not been made glorious in this respect, by reason of the glory that surpasseth. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003011,
+            "text": "For if that which <i>[e]</i>passeth away  <i>[f]</i>with glory, much more that which remaineth  in glory.",
+            "version": "ASV",
+            "clsstr": "2Cor-3-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>is being done away</i>. See [[verse 7]] margin."
+                },
+                {
+                    "f": "Greek <i>through</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003012,
+            "text": "\u00b6 Having therefore such a hope, we use great boldness of speech, ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003013,
+            "text": "and not as Moses, put a veil upon his face, that the children of Israel should not look stedfastly <i>[g]</i>on the end of that which <i>[h]</i>was passing away: ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>unto</i>"
+                },
+                {
+                    "h": "Or, <i>was being done away</i>. See [[verse 7]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003014,
+            "text": "but their <i>[i]</i>minds were hardened: for until this very day at the reading of the old covenant the same veil <i>[j]</i>remaineth, it not being revealed  that it is done away in Christ. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-14",
+            "footnotes": [
+                {
+                    "i": "Greek <i>thoughts</i>. [[4:4]]; [[11:3]]."
+                },
+                {
+                    "j": "Or, <i>remaineth unlifted; which</i> veil <i>is done away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003015,
+            "text": "But unto this day, whensoever Moses is read, a veil lieth upon their heart. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003016,
+            "text": "But whensoever <i>[k]</i>it shall turn to the Lord, the veil is taken away. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-16",
+            "footnotes": [
+                {
+                    "k": "Or, a man <i>shall turn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003017,
+            "text": "Now the Lord is the Spirit: and where the Spirit of the Lord is,  is liberty. ",
+            "version": "ASV",
+            "clsstr": "2Cor-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 47003018,
+            "text": "But we all, with unveiled face <i>[l]</i>beholding as in a mirror the glory of the Lord, are transformed into the same image from glory to glory, even as from the Lord the Spirit.",
+            "version": "ASV",
+            "clsstr": "2Cor-3-18",
+            "footnotes": [
+                {
+                    "l": "Or, <i>reflecting as a mirror</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Corinthians",
+    "chapters": 3
+}

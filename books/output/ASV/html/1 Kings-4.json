@@ -1,0 +1,344 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11004001,
+            "text": "\u00b6 And king Solomon was king over all Israel. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004002,
+            "text": "And these were the princes whom he had: Azariah the son of Zadok, the priest; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004003,
+            "text": "Elihoreph and Ahijah, the sons of Shisha, <i>[a]</i>scribes; Jehoshaphat the son of Ahilud, the <i>[b]</i>recorder; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>secretaries</i>"
+                },
+                {
+                    "b": "Or, <i>chronicler</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004004,
+            "text": "and Benaiah the son of Jehoiada was over the host; and Zadok and Abiathar were priests; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004005,
+            "text": "and Azariah the son of Nathan was over the officers; and Zabud the son of Nathan was <i>[c]</i>chief minister,  the king\u2019s friend; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>priest</i>. See [[2 Sam. 8:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004006,
+            "text": "and Ahishar was over the household; and Adoniram the son of Abda was over the men subject to taskwork.",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004007,
+            "text": "\u00b6 And Solomon had twelve officers over all Israel, who provided victuals for the king and his household: each man had to make provision for a month in the year. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004008,
+            "text": "And these are their names: Ben-hur, in the hill-country of Ephraim; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004009,
+            "text": "Ben-deker, in Makaz, and in Shaalbim, and Beth-shemesh, and Elon-beth-hanan; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004010,
+            "text": "Ben-hesed, in Arubboth (to him  Socoh, and all the land of Hepher); ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004011,
+            "text": "Ben-abinadab, in all <i>[d]</i>the <i>[e]</i>height of Dor (he had Taphath the daughter of Solomon to wife); ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Naphath-dor</i>"
+                },
+                {
+                    "e": "Or, <i>region</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004012,
+            "text": "Baana the son of Ahilud, in Taanach and Megiddo, and all Beth-shean which is beside Zarethan, beneath Jezreel, from Beth-shean to Abel-meholah, as far as <i>[f]</i>beyond Jokmeam; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>over against</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004013,
+            "text": "Ben-geber, in Ramoth-gilead (to him  <i>[g]</i>the towns of Jair the son of Manasseh, which are in Gilead;  to him  the region of Argob, which is in Bashan, threescore great cities with walls and brazen bars); ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Havvoth-jair</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004014,
+            "text": "Ahinadab the son of Iddo, in Mahanaim; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004015,
+            "text": "Ahimaaz, in Naphtali (he also took Basemath the daughter of Solomon to wife); ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004016,
+            "text": "Baana the son of Hushai, in Asher and <i>[h]</i>Bealoth; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-16",
+            "footnotes": [
+                {
+                    "h": "Or, <i>in Aloth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004017,
+            "text": "Jehoshaphat the son of Paruah, in Issachar; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004018,
+            "text": "Shimei the son of Ela, in Benjamin; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004019,
+            "text": "Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; <i>[i]</i>and  the only officer that was in the land.",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-19",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>and one officer</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004020,
+            "text": "\u00b6 Judah and Israel were many as the sand which is by the sea in multitude, eating and drinking and making merry. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004021,
+            "text": "And Solomon ruled over all the kingdoms from the River unto the land of the Philistines, and unto the border of Egypt: they brought tribute, and served Solomon all the days of his life. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004022,
+            "text": "And Solomon\u2019s provision for one day was thirty <i>[j]</i>measures of fine flour, and threescore measures of meal, ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-22",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>cor</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004023,
+            "text": "ten fat oxen, and twenty oxen out of the pastures, and a hundred sheep, besides harts, and gazelles, and roebucks, and fatted fowl. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004024,
+            "text": "For he had dominion over all <i>[k]</i>on this side the River, from Tiphsah even to Gaza, over all the kings <i>[l]</i>on this side the River: and he had peace on all sides round about him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-24",
+            "footnotes": [
+                {
+                    "k": "Or, <i>beyond the River</i>"
+                },
+                {
+                    "l": "Or, <i>beyond the River</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004025,
+            "text": "And Judah and Israel dwelt safely, every man under his vine and under his fig-tree, from Dan even to Beer-sheba, all the days of Solomon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004026,
+            "text": "And Solomon had <i>[m]</i>forty thousand stalls of horses for his chariots, and twelve thousand horsemen. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-26",
+            "footnotes": [
+                {
+                    "m": "In [[2 Chr. 9:25]], <i>four thousand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004027,
+            "text": "And those officers provided victuals for king Solomon, and for all that came unto king Solomon\u2019s table, every man in his month; they let nothing be lacking. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004028,
+            "text": "Barley also and straw for the horses and swift steeds brought they unto the place <i>[n]</i>where  were, every man according to his charge.",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-28",
+            "footnotes": [
+                {
+                    "n": "Or, <i>where he</i> (that is, the king) <i>was</i>. Or, <i>where it should be</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004029,
+            "text": "\u00b6 And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea-shore. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004030,
+            "text": "And Solomon\u2019s wisdom excelled the wisdom of all the children of the east, and all the wisdom of Egypt. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004031,
+            "text": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Calcol, and Darda, the sons of Mahol: and his fame was in all the nations round about. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004032,
+            "text": "And he spake three thousand proverbs; and his songs were a thousand and five. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004033,
+            "text": "And he spake of trees, from the cedar that is in Lebanon even unto the hyssop that springeth out of the wall; he spake also of beasts, and of birds, and of creeping things, and of fishes. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11004034,
+            "text": "And there came of all peoples to hear the wisdom of Solomon, from all kings of the earth, who had heard of his wisdom.",
+            "version": "ASV",
+            "clsstr": "1Kgs-4-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 4
+}

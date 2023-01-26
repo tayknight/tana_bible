@@ -1,0 +1,151 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 34,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 3,
+            "end_verse": 19,
+            "end_book": null
+        }
+    ],
+    "book": 34,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 34002001,
+            "text": "\u00b6 He that dasheth in pieces is come up against thee: keep the fortress, watch the way, make thy loins strong, fortify thy power mightily. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002002,
+            "text": "For Jehovah restoreth the excellency of Jacob, as the excellency of Israel; for the emptiers have emptied them out, and destroyed their vine-branches. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002003,
+            "text": "The shield of his mighty men is made red, the valiant men are in scarlet: the chariots <i>[a]</i>flash with steel in the day of his preparation, and the <i>[b]</i>cypress  are brandished. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>are with fire of steel</i>."
+                },
+                {
+                    "b": "Hebrew <i>cypress-trees</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002004,
+            "text": "The chariots rage in the streets; they rush to and fro in the broad ways: the appearance of them is like torches; they run like the lightnings. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002005,
+            "text": "He remembereth his nobles: they stumble in their march; they make haste to the wall thereof, and the mantelet is prepared. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002006,
+            "text": "The gates of the rivers are opened, and the palace is dissolved. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002007,
+            "text": " <i>[c]</i>And it is decreed: she is uncovered, she is carried away; and her handmaids <i>[d]</i>moan as with the voice of doves, beating upon their <i>[e]</i>breasts.",
+            "version": "ASV",
+            "clsstr": "Nah-2-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Huzzab is uncovered etc.</i>"
+                },
+                {
+                    "d": "Or, <i>lead</i> her"
+                },
+                {
+                    "e": "Hebrew <i>hearts</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002008,
+            "text": "\u00b6 But Nineveh hath been <i>[f]</i>from of old like a pool of water: yet they flee away. Stand, stand, ; but none <i>[g]</i>looketh back. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-8",
+            "footnotes": [
+                {
+                    "f": "Or, <i>from the days</i> that <i>she</i> hath been"
+                },
+                {
+                    "g": "Or, <i>causeth</i> them <i>to turn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002009,
+            "text": "Take ye the spoil of silver, take the spoil of gold; for there is no end of the store, the <i>[h]</i>glory of all goodly furniture. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-9",
+            "footnotes": [
+                {
+                    "h": "Or, <i>wealth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002010,
+            "text": "She is empty, and void, and waste; and the heart melteth, and the knees smite together, and anguish is in all loins, and the faces of them all are waxed pale. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002011,
+            "text": "Where is the den of the lions, and the feeding-place of the young lions, where the lion  the lioness walked, the lion\u2019s whelp, and none made them afraid? ",
+            "version": "ASV",
+            "clsstr": "Nah-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002012,
+            "text": "The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his caves with prey, and his dens with ravin. ",
+            "version": "ASV",
+            "clsstr": "Nah-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 34002013,
+            "text": "Behold, I am against thee, saith Jehovah of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions; and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.",
+            "version": "ASV",
+            "clsstr": "Nah-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Nahum",
+    "chapters": 2
+}

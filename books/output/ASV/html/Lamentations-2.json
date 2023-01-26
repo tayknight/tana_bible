@@ -1,0 +1,233 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 25,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 22,
+            "end_book": null
+        }
+    ],
+    "book": 25,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 25002001,
+            "text": "\u00b6     How hath the Lord covered the daughter of Zion with a cloud in his anger!\n    He hath cast down from heaven unto the earth the beauty of Israel,\n    And hath not remembered his footstool in the day of his anger.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002002,
+            "text": "    The Lord hath swallowed up all the habitations of Jacob, and hath not pitied:\n    He hath thrown down in his wrath the strongholds of the daughter of Judah;\n    He hath brought them down to the ground; he hath profaned the kingdom and the princes thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002003,
+            "text": "  He hath cut off in fierce anger <i>[a]</i>all the horn of Israel;\n    He hath drawn back his right hand from before the enemy:\n    And he hath burned up Jacob like a flaming fire, which devoureth round about.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>every horn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002004,
+            "text": "  He hath bent his bow like an enemy, he hath stood with his right hand as an adversary,\n  And hath slain all that were pleasant to the eye:\n   <i>[b]</i>In the tent of the daughter of Zion he hath poured out his wrath like fire.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>On</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002005,
+            "text": "    The Lord is become as an enemy, he hath swallowed up Israel;\n    He hath swallowed up all her palaces, he hath destroyed his strongholds;\n    And he hath multiplied in the daughter of Judah mourning and lamentation.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002006,
+            "text": " And he hath violently taken away his <i>[c]</i>tabernacle, as if it were of a garden; he hath destroyed his place of assembly:\n  Jehovah hath caused <i>[d]</i>solemn assembly and sabbath to be forgotten in Zion,\n    And hath despised in the indignation of his anger the king and the priest.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>booth</i>. Or, <i>hedge</i>"
+                },
+                {
+                    "d": "Or, <i>appointed feast</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002007,
+            "text": "    The Lord hath cast off his altar, he hath abhorred his sanctuary;\n    He hath given up into the hand of the enemy the walls of her palaces:\n    They have made a noise in the house of Jehovah, as in the day of a solemn assembly.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002008,
+            "text": "  Jehovah hath purposed to destroy the wall of the daughter of Zion;\n  He hath stretched out the line, he hath not withdrawn his hand from <i>[e]</i>destroying;\n    And he hath made the rampart and wall to lament; they languish together.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-8",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>swallowing up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002009,
+            "text": "    Her gates are sunk into the ground; he hath destroyed and broken her bars:\n    Her king and her princes are among the nations where the law is not;\n    Yea, her prophets find no vision from Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002010,
+            "text": "    The elders of the daughter of Zion sit upon the ground, they keep silence;\n    They have cast up dust upon their heads; they have girded themselves with sackcloth:\n    The virgins of Jerusalem hang down their heads to the ground.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002011,
+            "text": "\u00b6   Mine eyes do fail with tears, my heart is troubled;\n  My liver is poured upon the earth, because of the <i>[f]</i>destruction of the daughter of my people,\n    Because the young children and the sucklings swoon in the streets of the city.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>breach</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002012,
+            "text": "    They say to their mothers, Where is grain and wine?\n    When they swoon as the wounded in the streets of the city,\n    When their soul is poured out into their mothers\u2019 bosom.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002013,
+            "text": "  What shall I <i>[g]</i>testify unto thee? what shall I liken to thee, O daughter of Jerusalem?\n    What shall I compare to thee, that I may comfort thee, O virgin daughter of Zion?\n    For thy breach is great like the sea: who can heal thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>take to witness for thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002014,
+            "text": " Thy prophets have seen for thee false and foolish visions;\n And they have not uncovered thine iniquity, to bring back thy captivity,\n But have seen for thee false <i>[h]</i>oracles and <i>[i]</i>causes of banishment.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-14",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>burdens</i>."
+                },
+                {
+                    "i": "Or, <i>things to draw thee aside</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002015,
+            "text": "    All that pass by clap their hands at thee;\n    They hiss and wag their head at the daughter of Jerusalem, ,\n    Is this the city that men called The perfection of beauty, The joy of the whole earth?\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002016,
+            "text": "    All thine enemies have opened their mouth wide against thee;\n    They hiss and gnash the teeth; they say, We have swallowed her up;\n    Certainly this is the day that we looked for; we have found, we have seen it.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002017,
+            "text": "  Jehovah hath done that which he purposed; he hath <i>[j]</i>fulfilled his word that he commanded in the days of old;\n    He hath thrown down, and hath not pitied:\n    And he hath caused the enemy to rejoice over thee; he hath exalted the horn of thine adversaries.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>finished</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002018,
+            "text": "    Their heart cried unto the Lord:\n    O wall of the daughter of Zion, let tears run down like a river day and night;\n    Give thyself no respite; let not the apple of thine eye cease.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002019,
+            "text": "    Arise, cry out in the night, at the beginning of the watches;\n    Pour out thy heart like water before the face of the Lord:\n    Lift up thy hands toward him for the life of thy young children, that faint for hunger at the head of every street.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002020,
+            "text": "\u00b6     See, O Jehovah, and behold to whom thou hast done thus!\n    Shall the women eat their fruit, the children that are dandled in the hands?\n    Shall the priest and the prophet be slain in the sanctuary of the Lord?\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002021,
+            "text": "    The youth and the old man lie on the ground in the streets;\n    My virgins and my young men are fallen by the sword:\n    Thou hast slain them in the day of thine anger; thou hast slaughtered,  not pitied.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 25002022,
+            "text": "    Thou hast called, as in the day of a solemn assembly, my terrors on every side;\n    And there was none that escaped or remained in the day of Jehovah\u2019s anger:\n    Those that I have dandled and brought up hath mine enemy consumed.\n    ",
+            "version": "ASV",
+            "clsstr": "Lam-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Lamentations",
+    "chapters": 2
+}

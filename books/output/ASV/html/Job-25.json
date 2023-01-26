@@ -1,0 +1,71 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18025001,
+            "text": "\u00b6 Then answered Bildad the Shuhite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-25-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18025002,
+            "text": "\u00b6     Dominion and fear are with him;\n    He maketh peace in his high places.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-25-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18025003,
+            "text": "    Is there any number of his armies?\n    And upon whom doth not his light arise?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-25-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18025004,
+            "text": "  How then can man be just <i>[a]</i>with God?\n    Or how can he be clean that is born of a woman?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-25-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>before</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18025005,
+            "text": "    Behold, even the moon hath no brightness,\n    And the stars are not pure in his sight:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18025006,
+            "text": "    How much less man, that is a worm!\n    And the son of man, that is a worm!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-25-6",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 25
+}

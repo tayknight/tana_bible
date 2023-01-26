@@ -1,0 +1,146 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19148001,
+            "text": "<b>The whole Creation invoked to praise Jehovah.</b>\n\u00b6   <i>[a]</i>Praise ye Jehovah.\n    Praise ye Jehovah from the heavens:\n    Praise him in the heights.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148002,
+            "text": "    Praise ye him, all his angels:\n    Praise ye him, all his host.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148003,
+            "text": "    Praise ye him, sun and moon:\n    Praise him, all ye stars of light.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148004,
+            "text": "    Praise him, ye heavens of heavens,\n    And ye waters that are above the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148005,
+            "text": "    Let them praise the name of Jehovah;\n    For he commanded, and they were created.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148006,
+            "text": "  He hath also established them for ever and ever:\n  He hath made a decree <i>[b]</i>which shall not pass away.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>which none shall transgress</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148007,
+            "text": "    Praise Jehovah from the earth,\n    Ye sea-monsters, and all deeps;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148008,
+            "text": "    Fire and hail, snow and vapor;\n    Stormy wind, fulfilling his word;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148009,
+            "text": "    Mountains and all hills;\n    Fruitful trees and all cedars;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148010,
+            "text": "    Beasts and all cattle;\n    Creeping things and flying birds;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148011,
+            "text": "    Kings of the earth and all peoples;\n    Princes and all judges of the earth;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148012,
+            "text": "    Both young men and virgins;\n    Old men and children:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148013,
+            "text": "    Let them praise the name of Jehovah;\n    For his name alone is exalted;\n    His glory is above the earth and the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19148014,
+            "text": " And he hath lifted up <i>[c]</i>the horn of his people,\n  The praise of all his saints;\n  Even of the children of Israel, a people near unto him.\n   <i>[d]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-148-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>a horn for his people, A praise for all his saints; Even for etc.</i>"
+                },
+                {
+                    "d": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 148
+}

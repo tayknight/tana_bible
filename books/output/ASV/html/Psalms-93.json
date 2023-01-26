@@ -1,0 +1,63 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19093001,
+            "text": "<b>The majesty of Jehovah.</b>\n\u00b6     Jehovah reigneth; he is clothed with majesty;\n    Jehovah is clothed with strength; he hath girded himself therewith:\n    The world also is established, that it cannot be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-93-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19093002,
+            "text": "    Thy throne is established of old:\n    Thou art from everlasting.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-93-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19093003,
+            "text": "  The floods have lifted up, O Jehovah,\n  The floods have lifted up their voice;\n  The floods lift up their <i>[a]</i>waves.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-93-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>roaring</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19093004,
+            "text": "    Above the voices of many waters,\n    The mighty breakers of the sea,\n    Jehovah on high is mighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-93-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19093005,
+            "text": "    Thy testimonies are very sure:\n    Holiness becometh thy house,\n    O Jehovah, for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-93-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 93
+}

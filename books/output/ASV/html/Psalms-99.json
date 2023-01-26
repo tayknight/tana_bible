@@ -1,0 +1,95 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19099001,
+            "text": "<b>Praise to Jehovah for his fidelity to Israel.</b>\n\u00b6   Jehovah reigneth; let the peoples tremble:\n  He <i>[a]</i>sitteth  the cherubim; let the earth be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>is enthroned</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099002,
+            "text": "    Jehovah is great in Zion;\n    And he is high above all the peoples.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099003,
+            "text": "    Let them praise thy great and terrible name:\n    Holy is he.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099004,
+            "text": "\u00b6     The king\u2019s strength also loveth justice;\n    Thou dost establish equity;\n    Thou executest justice and righteousness in Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099005,
+            "text": "    Exalt ye Jehovah our God,\n    And worship at his footstool:\n    Holy is he.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099006,
+            "text": "\u00b6     Moses and Aaron among his priests,\n    And Samuel among them that call upon his name;\n    They called upon Jehovah, and he answered them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099007,
+            "text": "    He spake unto them in the pillar of cloud:\n    They kept his testimonies,\n    And the statute that he gave them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099008,
+            "text": "    Thou answeredst them, O Jehovah our God:\n    Thou wast a God that forgavest them,\n    Though thou tookest vengeance of their doings.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19099009,
+            "text": "    Exalt ye Jehovah our God,\n    And worship at his holy hill;\n    For Jehovah our God is holy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-99-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 99
+}

@@ -1,0 +1,103 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19112001,
+            "text": "<b>Prosperity of him that fears Jehovah.</b>\n\u00b6   <i>[a]</i>Praise ye Jehovah.\n    Blessed is the man that feareth Jehovah,\n    That delighteth greatly in his commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112002,
+            "text": "    His seed shall be mighty upon earth:\n    The generation of the upright shall be blessed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112003,
+            "text": "    Wealth and riches are in his house;\n    And his righteousness endureth for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112004,
+            "text": "    Unto the upright there ariseth light in the darkness:\n     gracious, and merciful, and righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112005,
+            "text": "    Well is it with the man that dealeth graciously and lendeth;\n    He shall maintain his cause in judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112006,
+            "text": "    For he shall never be moved;\n    The righteous shall be had in everlasting remembrance.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112007,
+            "text": "    He shall not be afraid of evil tidings:\n    His heart is fixed, trusting in Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112008,
+            "text": "    His heart is established, he shall not be afraid,\n    Until he see  upon his adversaries.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112009,
+            "text": "    He hath dispersed, he hath given to the needy;\n    His righteousness endureth for ever:\n    His horn shall be exalted with honor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19112010,
+            "text": "    The wicked shall see it, and be grieved;\n    He shall gnash with his teeth, and melt away:\n    The desire of the wicked shall perish.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-112-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 112
+}

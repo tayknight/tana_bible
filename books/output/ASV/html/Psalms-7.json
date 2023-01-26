@@ -1,0 +1,171 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19007001,
+            "text": "<b>Jehovah implored to defend the psalmist against the wicked.</b>\n\u00b6 Shiggaion of David, which he sang unto Jehovah, concerning the words of Cush a Benjamite.\u00b6     O Jehovah my God, in thee do I take refuge:\n    Save me from all them that pursue me, and deliver me,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007002,
+            "text": "    Lest they tear my soul like a lion,\n    Rending it in pieces, while there is none to deliver.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007003,
+            "text": "    O Jehovah my God, if I have done this;\n    If there be iniquity in my hands;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007004,
+            "text": "    If I have rewarded evil unto him that was at peace with me\n    (Yea, I have delivered him that without cause was mine adversary;)\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007005,
+            "text": "    Let the enemy pursue my soul, and overtake it;\n    Yea, let him tread my life down to the earth,\n    And lay my glory in the dust. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007006,
+            "text": "    Arise, O Jehovah, in thine anger;\n    Lift up thyself against the rage of mine adversaries,\n    And awake for me; thou hast commanded judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007007,
+            "text": "   <i>[a]</i>And let the congregation of the peoples compass thee about;\n    And over them return thou on high.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-7",
+            "footnotes": [
+                {
+                    "a": "Or, <i>So shall</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007008,
+            "text": "  Jehovah ministereth judgment to the peoples:\n  Judge me, O Jehovah, according to my righteousness, and to mine integrity <i>[b]</i>that is in me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>be it unto me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007009,
+            "text": "  Oh let the wickedness of the wicked come to an end, but establish thou the righteous:\n  For the righteous God trieth the minds and <i>[c]</i>hearts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-9",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>reins</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007010,
+            "text": "    My shield is with God,\n    Who saveth the upright in heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007011,
+            "text": "    God is a righteous judge,\n    Yea, a God that hath indignation every day.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007012,
+            "text": "   <i>[d]</i>If a man turn not, he will whet his sword;\n    He hath bent his bow, and made it ready;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Surely he will again whet</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007013,
+            "text": "    He hath also prepared for him the instruments of death;\n    He maketh his arrows fiery .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007014,
+            "text": "    Behold, he travaileth with iniquity;\n    Yea, he hath conceived mischief, and brought forth falsehood.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007015,
+            "text": "    He hath made a pit, and digged it,\n    And is fallen into the ditch which he made.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007016,
+            "text": "    His mischief shall return upon his own head,\n    And his violence shall come down upon his own pate.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19007017,
+            "text": "    I will give thanks unto Jehovah according to his righteousness,\n    And will sing praise to the name of Jehovah Most High.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 7
+}

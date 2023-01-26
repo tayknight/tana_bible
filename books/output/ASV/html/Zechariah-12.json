@@ -1,0 +1,154 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 38,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 38,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 38012001,
+            "text": "\u00b6 The <i>[a]</i>burden of the word of Jehovah concerning Israel.\u00b6  saith Jehovah, who stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him: ",
+            "version": "ASV",
+            "clsstr": "Zech-12-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oracle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012002,
+            "text": "Behold, I will make Jerusalem a cup of reeling unto all the peoples round about, and <i>[b]</i>upon Judah also <i>[c]</i>shall it be in the siege against Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>against</i>"
+                },
+                {
+                    "c": "Or, <i>shall it fall</i> to be"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012003,
+            "text": "And it shall come to pass in that day, that I will make Jerusalem a burdensome stone for all the peoples; all that burden themselves with it shall be sore wounded; and all the nations of the earth shall be gathered together against it. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012004,
+            "text": "In that day, saith Jehovah, I will smite every horse with terror, and his rider with madness; and I will open mine eyes upon the house of Judah, and will smite every horse of the peoples with blindness. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012005,
+            "text": "And the chieftains of Judah shall say in their heart, The inhabitants of Jerusalem are my strength in Jehovah of hosts their God. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012006,
+            "text": "In that day will I make the chieftains of Judah like a pan of fire among wood, and like a flaming torch among sheaves; and they shall devour all the peoples round about, on the right hand and on the left; and Jerusalem shall yet again dwell in <i>[d]</i>their own place, even in Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-6",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>her</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012007,
+            "text": "Jehovah also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem be not magnified above Judah. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012008,
+            "text": "In that day shall Jehovah defend the inhabitants of Jerusalem; and he <i>[e]</i>that is feeble among them at that day shall be as David; and the house of David shall be as God, as the angel of Jehovah before them. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>that stumbleth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012009,
+            "text": "And it shall come to pass in that day, that I will seek to destroy all the nations that come against Jerusalem.",
+            "version": "ASV",
+            "clsstr": "Zech-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012010,
+            "text": "\u00b6 And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplication; and they shall look unto <i>[f]</i>me whom they have pierced; and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his first-born. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-10",
+            "footnotes": [
+                {
+                    "f": "According to some manuscripts, <i>him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012011,
+            "text": "In that day shall there be a great mourning in Jerusalem, as the mourning of Hadadrimmon in the valley of Megiddon. ",
+            "version": "ASV",
+            "clsstr": "Zech-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012012,
+            "text": "And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart; ",
+            "version": "ASV",
+            "clsstr": "Zech-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012013,
+            "text": "the family of the house of Levi apart, and their wives apart; the family of the Shimeites apart, and their wives apart; ",
+            "version": "ASV",
+            "clsstr": "Zech-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 38012014,
+            "text": "all the families that remain, every family apart, and their wives apart.",
+            "version": "ASV",
+            "clsstr": "Zech-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Zechariah",
+    "chapters": 12
+}

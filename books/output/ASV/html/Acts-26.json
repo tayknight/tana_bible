@@ -1,0 +1,321 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44026001,
+            "text": "\u00b6 And Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth his hand, and made his defence:",
+            "version": "ASV",
+            "clsstr": "Acts-26-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026002,
+            "text": "\u00b6 I think myself happy, king Agrippa, that I am to make my defence before thee this day touching all the things whereof I am accused by the Jews: ",
+            "version": "ASV",
+            "clsstr": "Acts-26-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026003,
+            "text": " <i>[a]</i>especially because thou art expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>because thou art especially expert</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026004,
+            "text": "My manner of life then from my youth up, which was from the beginning among mine own nation and at Jerusalem, know all the Jews; ",
+            "version": "ASV",
+            "clsstr": "Acts-26-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026005,
+            "text": "having knowledge of me from the first, if they be willing to testify, that after the straitest sect of our religion I lived a Pharisee. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026006,
+            "text": "And now I stand  to be judged for the hope of the promise made of God unto our fathers; ",
+            "version": "ASV",
+            "clsstr": "Acts-26-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026007,
+            "text": "unto which  our twelve tribes, earnestly serving  night and day, hope to attain. And concerning this hope I am accused by the Jews, O king! ",
+            "version": "ASV",
+            "clsstr": "Acts-26-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026008,
+            "text": "Why is it judged incredible with you, if God doth raise the dead? ",
+            "version": "ASV",
+            "clsstr": "Acts-26-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026009,
+            "text": "I verily thought with myself that I ought to do many things contrary to the name of Jesus of Nazareth. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026010,
+            "text": "And this I also did in Jerusalem: and I both shut up many of the saints in prisons, having received authority from the chief priests, and when they were put to death I gave my vote against them. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026011,
+            "text": "And punishing them oftentimes in all the synagogues, I strove to make them blaspheme; and being exceedingly mad against them, I persecuted them even unto foreign cities. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026012,
+            "text": " <i>[b]</i>Whereupon as I journeyed to Damascus with the authority and commission of the chief priests, ",
+            "version": "ASV",
+            "clsstr": "Acts-26-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>On which errand</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026013,
+            "text": "at midday, O king, I saw on the way a light from heaven, above the brightness of the sun, shining round about me and them that journeyed with me. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026014,
+            "text": "And when we were all fallen to the earth, I heard a voice saying unto me in the Hebrew language, Saul, Saul, why persecutest thou me? it is hard for thee to kick against <i>[c]</i>the goad. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-14",
+            "footnotes": [
+                {
+                    "c": "Greek <i>goads</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026015,
+            "text": "And I said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026016,
+            "text": "But arise, and stand upon thy feet: for to this end have I appeared unto thee, to appoint thee a minister and a witness both of the things <i>[d]</i>wherein thou hast seen me, and of the things wherein I will appear unto thee; ",
+            "version": "ASV",
+            "clsstr": "Acts-26-16",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities read <i>which thou hast seen</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026017,
+            "text": "delivering thee from the people, and from the Gentiles, unto whom I send thee, ",
+            "version": "ASV",
+            "clsstr": "Acts-26-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026018,
+            "text": "to open their eyes, <i>[e]</i>that they may turn from darkness to light and from the power of Satan unto God, that they may receive remission of sins and an inheritance among them that are sanctified by faith in me. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-18",
+            "footnotes": [
+                {
+                    "e": "Or, <i>to turn them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026019,
+            "text": "Wherefore, O king Agrippa, I was not disobedient unto the heavenly vision: ",
+            "version": "ASV",
+            "clsstr": "Acts-26-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026020,
+            "text": "but declared both to them of Damascus first, and at Jerusalem, and throughout all the country of Judaea, and also to the Gentiles, that they should repent and turn to God, doing works worthy of <i>[f]</i>repentance. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-20",
+            "footnotes": [
+                {
+                    "f": "Or, <i>their repentance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026021,
+            "text": "For this cause the Jews seized me in the temple, and assayed to kill me. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026022,
+            "text": "Having therefore obtained the help that is from God, I stand unto this day testifying both to small and great, saying nothing but what the prophets and Moses did say should come; ",
+            "version": "ASV",
+            "clsstr": "Acts-26-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026023,
+            "text": " <i>[g]</i>how that the Christ <i>[h]</i>must suffer,  <i>[i]</i>how that he first by the resurrection of the dead should proclaim light both to the people and to the Gentiles.",
+            "version": "ASV",
+            "clsstr": "Acts-26-23",
+            "footnotes": [
+                {
+                    "g": "Or, <i>if</i>. Or, <i>whether</i>"
+                },
+                {
+                    "h": "Or, <i>is subject to suffering</i>"
+                },
+                {
+                    "i": "Or, <i>if</i>. Or, <i>whether</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026024,
+            "text": "\u00b6 And as he thus made his defence, Festus saith with a loud voice, Paul, thou art mad; thy much learning <i>[j]</i>is turning thee mad. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-24",
+            "footnotes": [
+                {
+                    "j": "Greek <i>turneth thee to madness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026025,
+            "text": "But Paul saith, I am not mad, most excellent Festus; but speak forth words of truth and soberness. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026026,
+            "text": "For the king knoweth of these things, unto whom also I speak freely: for I am persuaded that none of these things is hidden from him; for this hath not been done in a corner. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026027,
+            "text": "King Agrippa, believest thou the prophets? I know that thou believest. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026028,
+            "text": "And Agrippa unto Paul, <i>[k]</i>With but little persuasion thou wouldest fain make me a Christian. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-28",
+            "footnotes": [
+                {
+                    "k": "Or, <i>In a little</i> time <i>thou etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026029,
+            "text": "And Paul , I would to God, that <i>[l]</i>whether with little or with much, not thou only, but also all that hear me this day, might become such as I am, except these bonds.",
+            "version": "ASV",
+            "clsstr": "Acts-26-29",
+            "footnotes": [
+                {
+                    "l": "Or, <i>both in little and in great</i>, i.e., in all respects"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026030,
+            "text": "\u00b6 And the king rose up, and the governor, and Bernice, and they that sat with them: ",
+            "version": "ASV",
+            "clsstr": "Acts-26-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026031,
+            "text": "and when they had withdrawn, they spake one to another, saying, This man doeth nothing worthy of death or of bonds. ",
+            "version": "ASV",
+            "clsstr": "Acts-26-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44026032,
+            "text": "And Agrippa said unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.",
+            "version": "ASV",
+            "clsstr": "Acts-26-32",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 26
+}

@@ -1,0 +1,461 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2012001,
+            "text": "\u00b6 And Jehovah spake unto Moses and Aaron in the land of Egypt, saying, ",
+            "version": "ASV",
+            "clsstr": "Exod-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012002,
+            "text": "This month shall be unto you the beginning of months: it shall be the first month of the year to you. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012003,
+            "text": "Speak ye unto all the congregation of Israel, saying, In the tenth of this month they shall take to them every man a <i>[a]</i>lamb, according to their fathers\u2019 houses, a lamb for a household: ",
+            "version": "ASV",
+            "clsstr": "Exod-12-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>kid</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012004,
+            "text": "and if the household be too little for a lamb, then shall he and his neighbor next unto his house take one according to the number of the souls; according to every man\u2019s eating ye shall make your count for the lamb. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012005,
+            "text": "Your lamb shall be without blemish, a male a year old: ye shall take it from the sheep, or from the goats: ",
+            "version": "ASV",
+            "clsstr": "Exod-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012006,
+            "text": "and ye shall keep it until the fourteenth day of the same month; and the whole assembly of the congregation of Israel shall kill it <i>[b]</i>at even. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-6",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>between the two evenings</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012007,
+            "text": "And they shall take of the blood, and put it on the two side-posts and on the lintel, upon the houses wherein they shall eat it. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012008,
+            "text": "And they shall eat the flesh in that night, roast with fire, and unleavened bread; with bitter herbs they shall eat it. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012009,
+            "text": "Eat not of it raw, nor boiled at all with water, but roast with fire; its head with its legs and with the inwards thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012010,
+            "text": "And ye shall let nothing of it remain until the morning; but that which remaineth of it until the morning ye shall burn with fire. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012011,
+            "text": "And thus shall ye eat it: with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is Jehovah\u2019s passover. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012012,
+            "text": "For I will go through the land of Egypt in that night, and will smite all the first-born in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgments: I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012013,
+            "text": "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and there shall no plague be upon you <i>[c]</i>to destroy you, when I smite the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>for a destroyer</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012014,
+            "text": "And this day shall be unto you for a memorial, and ye shall keep it a feast to Jehovah: throughout your generations ye shall keep it a feast by an ordinance for ever.",
+            "version": "ASV",
+            "clsstr": "Exod-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012015,
+            "text": "\u00b6 Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012016,
+            "text": "And in the first day there shall be to you a holy convocation, and in the seventh day a holy convocation; no manner of work shall be done in them, save that which every man must eat, that only may be done by you. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012017,
+            "text": "And ye shall observe the  unleavened bread; for in this selfsame day have I brought your hosts out of the land of Egypt: therefore shall ye observe this day throughout your generations by an ordinance for ever. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012018,
+            "text": "In the first , on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012019,
+            "text": "Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, that soul shall be cut off from the congregation of Israel, whether he be a sojourner, or one that is born in the land. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012020,
+            "text": "Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.",
+            "version": "ASV",
+            "clsstr": "Exod-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012021,
+            "text": "\u00b6 Then Moses called for all the elders of Israel, and said unto them, <i>[d]</i>Draw out, and take you <i>[e]</i>lambs according to your families, and kill the passover. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-21",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Go forth</i>"
+                },
+                {
+                    "e": "Or, <i>kids</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012022,
+            "text": "And ye shall take a bunch of hyssop, and dip it in the blood that is in the basin, and strike the lintel and the two side-posts with the blood that is in the basin; and none of you shall go out of the door of his house until the morning. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012023,
+            "text": "For Jehovah will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side-posts, Jehovah will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012024,
+            "text": "And ye shall observe this thing for an ordinance to thee and to thy sons for ever. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012025,
+            "text": "And it shall come to pass, when ye are come to the land which Jehovah will give you, according as he hath promised, that ye shall keep this service. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012026,
+            "text": "And it shall come to pass, when your children shall say unto you, What mean ye by this service? ",
+            "version": "ASV",
+            "clsstr": "Exod-12-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012027,
+            "text": "that ye shall say, It is the sacrifice of Jehovah\u2019s passover, <i>[f]</i>who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-27",
+            "footnotes": [
+                {
+                    "f": "Or, <i>for that he passed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012028,
+            "text": "And the children of Israel went and did so; as Jehovah had commanded Moses and Aaron, so did they.",
+            "version": "ASV",
+            "clsstr": "Exod-12-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012029,
+            "text": "\u00b6 And it came to pass at midnight, that Jehovah smote all the first-born in the land of Egypt, from the first-born of Pharaoh that sat on his throne unto the first-born of the captive that was in the dungeon; and all the first-born of cattle. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012030,
+            "text": "And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012031,
+            "text": "And he called for Moses and Aaron by night, and said, Rise up, get you forth from among my people, both ye and the children of Israel; and go, serve Jehovah, as ye have said. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012032,
+            "text": "Take both your flocks and your herds, as ye have said, and be gone; and bless me also. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012033,
+            "text": "And the Egyptians were urgent upon the people, to send them out of the land in haste; for they said, We are all dead men. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012034,
+            "text": "And the people took their dough before it was leavened, their kneading-troughs being bound up in their clothes upon their shoulders. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012035,
+            "text": "And the children of Israel did according to the word of Moses; and they asked of the Egyptians jewels of silver, and jewels of gold, and raiment: ",
+            "version": "ASV",
+            "clsstr": "Exod-12-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012036,
+            "text": "and Jehovah gave the people favor in the sight of the Egyptians, so that they let them have what they asked. And they despoiled the Egyptians.",
+            "version": "ASV",
+            "clsstr": "Exod-12-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012037,
+            "text": "\u00b6 And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot that were men, besides children. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012038,
+            "text": "And a mixed multitude went up also with them; and flocks, and herds, even very much cattle. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012039,
+            "text": "And they baked unleavened cakes of the dough which they brought forth out of Egypt; for it was not leavened, because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victuals. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012040,
+            "text": "Now the time that the children of Israel dwelt in Egypt was four hundred and thirty years. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012041,
+            "text": "And it came to pass at the end of four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of Jehovah went out from the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012042,
+            "text": "It is <i>[g]</i>a night to be much observed unto Jehovah for bringing them out from the land of Egypt: <i>[h]</i>this is that night of Jehovah, to be much observed of all the children of Israel throughout their generations.",
+            "version": "ASV",
+            "clsstr": "Exod-12-42",
+            "footnotes": [
+                {
+                    "g": "Or, <i>a night of watching unto Jehovah</i>"
+                },
+                {
+                    "h": "Or, <i>this same night is a night of watching unto Jehovah for all etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012043,
+            "text": "\u00b6 And Jehovah said unto Moses and Aaron, This is the ordinance of the passover: there shall no foreigner eat thereof; ",
+            "version": "ASV",
+            "clsstr": "Exod-12-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012044,
+            "text": "but every man\u2019s servant that is bought for money, when thou hast circumcised him, then shall he eat thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012045,
+            "text": "A sojourner and a hired servant shall not eat thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012046,
+            "text": "In one house shall it be eaten; thou shalt not carry forth aught of the flesh abroad out of the house; neither shall ye break a bone thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012047,
+            "text": "All the congregation of Israel shall <i>[i]</i>keep it. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-47",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>do it</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012048,
+            "text": "And when a stranger shall sojourn with thee, and will keep the passover to Jehovah, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: but no uncircumcised person shall eat thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012049,
+            "text": "One law shall be to him that is home-born, and unto the stranger that sojourneth among you. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012050,
+            "text": "Thus did all the children of Israel; as Jehovah commanded Moses and Aaron, so did they. ",
+            "version": "ASV",
+            "clsstr": "Exod-12-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2012051,
+            "text": "And it came to pass the selfsame day, that Jehovah did bring the children of Israel out of the land of Egypt by their hosts.",
+            "version": "ASV",
+            "clsstr": "Exod-12-51",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 12
+}

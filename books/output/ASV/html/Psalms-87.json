@@ -1,0 +1,90 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19087001,
+            "text": "<b>The privileges of citizenship in Zion.</b>\n\u00b6 A Psalm of the sons of Korah; a Song.\u00b6   <i>[a]</i>His foundation is in the holy mountains.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-87-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>His foundation in the holy mountains Jehovah loveth, even the gates etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19087002,
+            "text": "    Jehovah loveth the gates of Zion\n    More than all the dwellings of Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-87-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19087003,
+            "text": "    Glorious things are spoken of thee, O city of God. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-87-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19087004,
+            "text": " I will make mention of <i>[b]</i>Rahab and Babylon as among them that know me:\n  Behold, Philistia, and Tyre, with <i>[c]</i>Ethiopia:\n    This one was born there.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-87-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Egypt</i>"
+                },
+                {
+                    "c": "Hebrew <i>Cush</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19087005,
+            "text": "    Yea, of Zion it shall be said, This one and that one was born in her;\n    And the Most High himself will establish her.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-87-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19087006,
+            "text": "    Jehovah will count, when he writeth up the peoples,\n    This one was born there. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-87-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19087007,
+            "text": "  They that sing as well as <i>[d]</i>they that dance ,\n    All my fountains are in thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-87-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>the players on instruments</i> shall be there"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 87
+}

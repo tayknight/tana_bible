@@ -1,0 +1,176 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23053001,
+            "text": "\u00b6 Who hath believed <i>[a]</i>our message? and to whom hath the arm of Jehovah been revealed? ",
+            "version": "ASV",
+            "clsstr": "Isa-53-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>that which we have heard</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053002,
+            "text": "For he grew up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; <i>[b]</i>and when we see him, there is no beauty that we should desire him. ",
+            "version": "ASV",
+            "clsstr": "Isa-53-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>that we should look upon him; nor beauty etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053003,
+            "text": "He was despised, and <i>[c]</i>rejected of men; a man of sorrows, and acquainted with <i>[d]</i>grief: and <i>[e]</i>as one from whom men hide their face he was despised; and we esteemed him not.",
+            "version": "ASV",
+            "clsstr": "Isa-53-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>forsaken</i>"
+                },
+                {
+                    "d": "Hebrew <i>sickness</i>."
+                },
+                {
+                    "e": "Or, <i>he hid as it were</i> his <i>face from us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053004,
+            "text": "\u00b6 Surely he hath borne our <i>[f]</i>griefs, and carried our sorrows; yet we did esteem him stricken, smitten of God, and afflicted. ",
+            "version": "ASV",
+            "clsstr": "Isa-53-4",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>sicknesses</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053005,
+            "text": "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed. ",
+            "version": "ASV",
+            "clsstr": "Isa-53-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053006,
+            "text": "All we like sheep have gone astray; we have turned every one to his own way; and Jehovah hath <i>[g]</i>laid on him the iniquity of us all.",
+            "version": "ASV",
+            "clsstr": "Isa-53-6",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>made to light</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053007,
+            "text": "\u00b6 He was oppressed, yet when he was afflicted he opened not his mouth; as a lamb that is led to the slaughter, and as a sheep that before its shearers is dumb, so he opened not his mouth. ",
+            "version": "ASV",
+            "clsstr": "Isa-53-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053008,
+            "text": " <i>[h]</i>By oppression and judgment he was taken away; and as for his generation, who considered that he was cut off out of the land of the <i>[i]</i>living for the transgression of my people to whom the stroke ? ",
+            "version": "ASV",
+            "clsstr": "Isa-53-8",
+            "footnotes": [
+                {
+                    "h": "Or, <i>From</i>"
+                },
+                {
+                    "i": "Or, <i>living? for the transgression of my people was he stricken</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053009,
+            "text": "And they made his grave with the wicked, and with a rich man in his death; <i>[j]</i>although he had done no violence, neither was any deceit in his mouth.",
+            "version": "ASV",
+            "clsstr": "Isa-53-9",
+            "footnotes": [
+                {
+                    "j": "Or, <i>because</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053010,
+            "text": "\u00b6 Yet it pleased Jehovah to bruise him; he hath <i>[k]</i>put him to grief: <i>[l]</i>when thou shalt make his soul <i>[m]</i>an offering for sin, he shall see  seed, he shall prolong his days, and the pleasure of Jehovah shall prosper in his hand. ",
+            "version": "ASV",
+            "clsstr": "Isa-53-10",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>made him sick</i>."
+                },
+                {
+                    "l": "Or, <i>when his soul shall make an offering</i>"
+                },
+                {
+                    "m": "Hebrew <i>a trespass-offering</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053011,
+            "text": " <i>[n]</i>He shall see of the travail of his soul, shall be satisfied: <i>[o]</i>by the knowledge of himself shall my righteous servant <i>[p]</i>justify many; and he shall bear their iniquities. ",
+            "version": "ASV",
+            "clsstr": "Isa-53-11",
+            "footnotes": [
+                {
+                    "n": "Or, <i>He shall see</i> and <i>be satisfied with the travail etc.</i>"
+                },
+                {
+                    "o": "Or, <i>by his knowledge</i>"
+                },
+                {
+                    "p": "Or, <i>make many righteous</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23053012,
+            "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul unto death, and was numbered with the transgressors: yet he bare the sin of many, and <i>[q]</i>made intercession for the transgressors.",
+            "version": "ASV",
+            "clsstr": "Isa-53-12",
+            "footnotes": [
+                {
+                    "q": "Or, <i>maketh</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 53
+}

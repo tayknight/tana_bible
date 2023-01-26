@@ -1,0 +1,234 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20005001,
+            "text": "\u00b6     My son, attend unto my wisdom;\n    Incline thine ear to my understanding:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005002,
+            "text": "    That thou mayest preserve discretion,\n    And that thy lips may keep knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005003,
+            "text": "    For the lips of a strange woman drop honey,\n    And her mouth is smoother than oil:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005004,
+            "text": "    But in the end she is bitter as wormwood,\n    Sharp as a two-edged sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005005,
+            "text": "    Her feet go down to death;\n    Her steps take hold on Sheol;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005006,
+            "text": "  <i>[a]</i>So that she findeth not the level path of life:\n  Her ways are unstable,  <i>[b]</i>she knoweth  not.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Lest thou find the level etc.</i> Or, <i>Lest thou weigh carefully the path of life</i>"
+                },
+                {
+                    "b": "Or, <i>thou canst not know</i> them"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005007,
+            "text": "\u00b6     Now therefore,  sons, hearken unto me,\n    And depart not from the words of my mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005008,
+            "text": "    Remove thy way far from her,\n    And come not nigh the door of her house;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005009,
+            "text": "    Lest thou give thine honor unto others,\n    And thy years unto the cruel;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005010,
+            "text": "  Lest strangers be filled with thy <i>[c]</i>strength,\n    And thy labors  in the house of an alien,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>wealth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005011,
+            "text": "  And thou <i>[d]</i>mourn at thy latter end,\n    When thy flesh and thy body are consumed,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>groan</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005012,
+            "text": "    And say, How have I hated instruction,\n    And my heart despised reproof;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005013,
+            "text": "    Neither have I obeyed the voice of my teachers,\n    Nor inclined mine ear to them that instructed me!\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005014,
+            "text": "    I was well-nigh in all evil\n    In the midst of the assembly and congregation.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005015,
+            "text": "\u00b6     Drink waters out of thine own cistern,\n    And running waters out of thine own well.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005016,
+            "text": "   <i>[e]</i>Should thy springs be dispersed abroad,\n    And streams of water in the streets?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-16",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Let</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005017,
+            "text": "    Let them be for thyself alone,\n    And not for strangers with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005018,
+            "text": "    Let thy fountain be blessed;\n    And rejoice in the wife of thy youth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005019,
+            "text": "   a loving hind and a pleasant doe,\n  Let her breasts satisfy thee at all times;\n  And <i>[f]</i>be thou ravished always with her love.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-19",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>go astray</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005020,
+            "text": "  For why shouldest thou, my son, <i>[g]</i>be ravished with a strange woman,\n    And embrace the bosom of a foreigner?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-20",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>go astray</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005021,
+            "text": "  For the ways of man are before the eyes of Jehovah;\n  And he <i>[h]</i>maketh level all his paths.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-21",
+            "footnotes": [
+                {
+                    "h": "Or, <i>weigheth carefully</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005022,
+            "text": "    His own iniquities shall take the wicked,\n    And he shall be holden with the cords of his sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20005023,
+            "text": "    He shall die for lack of instruction;\n    And in the greatness of his folly he shall go astray.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-5-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 5
+}

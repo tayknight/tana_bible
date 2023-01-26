@@ -1,0 +1,464 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26023001,
+            "text": "\u00b6 The word of Jehovah came again unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023002,
+            "text": "Son of man, there were two women, the daughters of one mother: ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023003,
+            "text": "and they played the harlot in Egypt; they played the harlot in their youth; there were their breasts pressed, and there was handled the bosom of their virginity. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023004,
+            "text": "And the names of them were Oholah the elder, and Oholibah her sister: and they became mine, and they bare sons and daughters. And as for their names, Samaria is <i>[a]</i>Oholah, and Jerusalem <i>[b]</i>Oholibah.",
+            "version": "ASV",
+            "clsstr": "Ezek-23-4",
+            "footnotes": [
+                {
+                    "a": "That is, <i>Her tent</i>."
+                },
+                {
+                    "b": "That is, <i>My tent is in her</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023005,
+            "text": "\u00b6 And Oholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians  neighbors, ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023006,
+            "text": "who were clothed with blue, governors and <i>[c]</i>rulers, all of them desirable young men, horsemen riding upon horses. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>deputies</i>. See [[Jer. 51:23]], etc."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023007,
+            "text": "And she bestowed her whoredoms upon them, the choicest men of Assyria all of them; and on whomsoever she doted, with all their idols she defiled herself. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023008,
+            "text": "Neither hath she left her whoredoms <i>[d]</i>since  Egypt; for in her youth they lay with her, and they handled the bosom of her virginity; and they poured out their whoredom upon her. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-8",
+            "footnotes": [
+                {
+                    "d": "Or, brought <i>from Egypt</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023009,
+            "text": "Wherefore I delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023010,
+            "text": "These uncovered her nakedness; they took her sons and her daughters; and her they slew with the sword: and she became a <i>[e]</i>byword among women; for they executed judgments upon her.",
+            "version": "ASV",
+            "clsstr": "Ezek-23-10",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>name</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023011,
+            "text": "\u00b6 And her sister Oholibah saw this, yet was she more corrupt in her doting than she, and in her whoredoms which were more than the whoredoms of her sister. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023012,
+            "text": "She doted upon the Assyrians, governors and rulers,  neighbors, clothed most gorgeously, horsemen riding upon horses, all of them desirable young men. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023013,
+            "text": "And I saw that she was defiled; they both took one way. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023014,
+            "text": "And she increased her whoredoms; for she saw men portrayed upon the wall, the images of the Chaldeans portrayed with vermilion, ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023015,
+            "text": "girded with girdles upon their loins, with flowing turbans upon their heads, all of them princes to look upon, after the likeness of the Babylonians <i>[f]</i>in Chaldea, the land of their nativity. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the land of whose nativity is Chaldea</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023016,
+            "text": "And <i>[g]</i>as soon as she saw them she doted upon them, and sent messengers unto them into Chaldea. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-16",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>at the sight of her eyes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023017,
+            "text": "And the Babylonians came to her into the bed of love, and they defiled her with their whoredom, and she was polluted with them, and her soul was alienated from them. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023018,
+            "text": "So she uncovered her whoredoms, and uncovered her nakedness: then my soul was alienated from her, like as my soul was alienated from her sister. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023019,
+            "text": "Yet she multiplied her whoredoms, remembering the days of her youth, wherein she had played the harlot in the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023020,
+            "text": "And she doted upon their paramours, whose flesh is as the flesh of asses, and whose issue is like the issue of horses. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023021,
+            "text": "Thus thou calledst to remembrance the lewdness of thy youth, in the handling of thy bosom by the Egyptians for the breasts of thy youth.",
+            "version": "ASV",
+            "clsstr": "Ezek-23-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023022,
+            "text": "\u00b6 Therefore, O Oholibah, thus saith the Lord Jehovah: Behold, I will raise up thy lovers against thee, from whom thy soul is alienated, and I will bring them against thee on every side: ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023023,
+            "text": "the Babylonians and all the Chaldeans, Pekod and Shoa and Koa, all the Assyrians with them; desirable young men, governors and rulers all of them, princes and <i>[h]</i>men of renown, all of them riding upon horses. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-23",
+            "footnotes": [
+                {
+                    "h": "Or, <i>counsellors</i>. Hebrew <i>called</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023024,
+            "text": "And they shall come against thee with weapons, chariots, and <i>[i]</i>wagons, and with a company of peoples; they shall set themselves against thee with buckler and shield and helmet round about: and I will commit the judgment unto them, and they shall judge thee according to their judgments. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-24",
+            "footnotes": [
+                {
+                    "i": "Or, <i>wheels</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023025,
+            "text": "And I will set my jealousy against thee, and they shall deal with thee in fury; they shall take away thy nose and thine ears; and thy residue shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023026,
+            "text": "They shall also strip thee of thy clothes, and take away thy fair jewels. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023027,
+            "text": "Thus will I make thy lewdness to cease from thee, and thy whoredom  from the land of Egypt; so that thou shalt not lift up thine eyes unto them, nor remember Egypt any more. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023028,
+            "text": "For thus saith the Lord Jehovah: Behold, I will deliver thee into the hand of them whom thou hatest, into the hand of them from whom thy soul is alienated; ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023029,
+            "text": "and they shall deal with thee in hatred, and shall take away all thy labor, and shall leave thee naked and bare; and the nakedness of thy whoredoms shall be uncovered, both thy lewdness and thy whoredoms.",
+            "version": "ASV",
+            "clsstr": "Ezek-23-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023030,
+            "text": "\u00b6 These things shall be done unto thee, for that thou hast played the harlot after the nations, and because thou art polluted with their idols. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023031,
+            "text": "Thou hast walked in the way of thy sister; therefore will I give her cup into thy hand. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023032,
+            "text": "Thus saith the Lord Jehovah: Thou shalt drink of thy sister\u2019s cup, which is deep and large; thou shalt be laughed to scorn and had in derision; <i>[j]</i>it containeth much. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-32",
+            "footnotes": [
+                {
+                    "j": "Or, <i>too much to endure</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023033,
+            "text": "Thou shalt be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of thy sister Samaria. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023034,
+            "text": "Thou shalt even drink it and drain it out, and thou shalt gnaw the sherds thereof, and shalt tear thy breasts; for I have spoken it, saith the Lord Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023035,
+            "text": "Therefore thus saith the Lord Jehovah: Because thou hast forgotten me, and cast me behind thy back, therefore bear thou also thy lewdness and thy whoredoms.",
+            "version": "ASV",
+            "clsstr": "Ezek-23-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023036,
+            "text": "\u00b6 Jehovah said moreover unto me: Son of man, wilt thou judge Oholah and Oholibah? then declare unto them their abominations. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023037,
+            "text": "For they have committed adultery, and blood is in their hands; and with their idols have they committed adultery; and they have also caused their sons, whom they bare unto me, to pass through  unto them to be devoured. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023038,
+            "text": "Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023039,
+            "text": "For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of my house. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023040,
+            "text": "And furthermore ye have sent for men <i>[k]</i>that come from far, unto whom a messenger was sent, and, lo, they came; for whom thou didst wash thyself, paint thine eyes, and deck thyself with ornaments, ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-40",
+            "footnotes": [
+                {
+                    "k": "Or, <i>to come</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023041,
+            "text": "and sit upon a stately bed, with a table prepared before it, whereupon thou didst set mine incense and mine oil. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023042,
+            "text": "And the voice of a multitude being at ease was with her: and with men of the common sort were brought drunkards from the wilderness; and they put bracelets upon the hands of them , and beautiful crowns upon their heads.",
+            "version": "ASV",
+            "clsstr": "Ezek-23-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023043,
+            "text": "\u00b6 Then said I <i>[l]</i>of her that was old in adulteries, Now will they play <i>[m]</i>the harlot with her, <i>[n]</i>and she . ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-43",
+            "footnotes": [
+                {
+                    "l": "Or, <i>She that is old will commit adulteries</i>"
+                },
+                {
+                    "m": "Hebrew <i>her whoredoms</i>."
+                },
+                {
+                    "n": "Or, <i>even with her</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023044,
+            "text": "And they went in unto her, as they go in unto a harlot: so went they in unto Oholah and unto Oholibah, the lewd women. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023045,
+            "text": "And righteous men, they shall judge them with the judgment of adulteresses, and with the judgment of women that shed blood; because they are adulteresses, and blood is in their hands. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023046,
+            "text": "For thus saith the Lord Jehovah: I will bring up a company against them, and will give them to be tossed to and fro and robbed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023047,
+            "text": "And the company shall stone them with stones, and despatch them with their swords; they shall slay their sons and their daughters, and burn up their houses with fire. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023048,
+            "text": "Thus will I cause lewdness to cease out of the land, that all women may be taught not to do after your lewdness. ",
+            "version": "ASV",
+            "clsstr": "Ezek-23-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26023049,
+            "text": "And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols; and ye shall know that I am the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-23-49",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 23
+}

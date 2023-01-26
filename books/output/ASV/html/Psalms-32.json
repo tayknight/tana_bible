@@ -1,0 +1,123 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19032001,
+            "text": "<b>Blessedness of forgiveness and of trust in God.</b>\n\u00b6  of David. Maschil.\u00b6     Blessed is he whose transgression is forgiven,\n    Whose sin is covered.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032002,
+            "text": "    Blessed is the man unto whom Jehovah imputeth not iniquity,\n    And in whose spirit there is no guile.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032003,
+            "text": "  When I kept silence, my bones wasted away\n  Through my <i>[a]</i>groaning all the day long.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>roaring</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032004,
+            "text": "  For day and night thy hand was heavy upon me:\n  My moisture was changed <i>[b]</i> with the drought of summer. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>into the</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032005,
+            "text": "    I acknowledged my sin unto thee,\n    And mine iniquity did I not hide:\n    I said, I will confess my transgressions unto Jehovah;\n    And thou forgavest the iniquity of my sin. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032006,
+            "text": "  For this let every one that is godly pray unto thee <i>[c]</i>in a time when thou mayest be found:\n    Surely when the great waters overflow they shall not reach unto him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in the time of finding out</i> sin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032007,
+            "text": "    Thou art my hiding-place; thou wilt preserve me from trouble;\n    Thou wilt compass me about with songs of deliverance. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032008,
+            "text": "    I will instruct thee and teach thee in the way which thou shalt go:\n    I will counsel thee with mine eye upon thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032009,
+            "text": "  Be ye not as the horse, or as the mule, which have no understanding;\n  Whose trappings must be bit and bridle to hold them in,\n   <i>[d]</i> they will not come near unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>That they come not near</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032010,
+            "text": "    Many sorrows shall be to the wicked;\n    But he that trusteth in Jehovah, lovingkindness shall compass him about.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19032011,
+            "text": "    Be glad in Jehovah, and rejoice, ye righteous;\n    And shout for joy, all ye that are upright in heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-32-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 32
+}

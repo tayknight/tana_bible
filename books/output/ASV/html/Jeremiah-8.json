@@ -1,0 +1,232 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24008001,
+            "text": "\u00b6 At that time, saith Jehovah, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves; ",
+            "version": "ASV",
+            "clsstr": "Jer-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008002,
+            "text": "and they shall spread them before the sun, and the moon, and all the host of heaven, which they have loved, and which they have served, and after which they have walked, and which they have sought, and which they have worshipped: they shall not be gathered, nor be buried, they shall be for dung upon the face of the earth. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008003,
+            "text": "And death shall be chosen rather than life by all the residue that remain of this evil family, that remain in all the places whither I have driven them, saith Jehovah of hosts.",
+            "version": "ASV",
+            "clsstr": "Jer-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008004,
+            "text": "\u00b6 Moreover thou shalt say unto them, Thus saith Jehovah: Shall men fall, and not rise up again? Shall one turn away, and not return? ",
+            "version": "ASV",
+            "clsstr": "Jer-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008005,
+            "text": "Why then is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008006,
+            "text": "I hearkened and heard, but they spake not aright: no man repenteth him of his wickedness, saying, What have I done? every one <i>[a]</i>turneth to his course, as a horse that rusheth headlong in the battle. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>turneth away in his course</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008007,
+            "text": "Yea, the stork in the heavens knoweth her appointed times; and the turtle-dove and the swallow and the crane observe the time of their coming; but my people know not the law of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008008,
+            "text": "\u00b6 How do ye say, We are wise, and the law of Jehovah is with us? But, behold, the false pen of the scribes hath <i>[b]</i>wrought falsely. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>made</i> of it <i>falsehood</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008009,
+            "text": "The wise men are put to shame, they are dismayed and taken: lo, they have rejected the word of Jehovah; and what manner of wisdom is in them? ",
+            "version": "ASV",
+            "clsstr": "Jer-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008010,
+            "text": "Therefore will I give their wives unto others, and their fields to them that shall possess them: for every one from the least even unto the greatest is given to covetousness; from the prophet even unto the priest every one dealeth falsely. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008011,
+            "text": "And they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when there is no peace. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008012,
+            "text": "Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore shall they fall among them that fall; in the time of their visitation they shall be cast down, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008013,
+            "text": "I will utterly consume them, saith Jehovah: there shall be no grapes on the vine, nor figs on the fig-tree, and the leaf shall fade; and <i>[c]</i> I have given them shall pass away from them.",
+            "version": "ASV",
+            "clsstr": "Jer-8-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>I have appointed them those that shall pass over them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008014,
+            "text": "\u00b6 Why do we sit still? assemble yourselves, and let us enter into the fortified cities, and let us <i>[d]</i>be silent there; for Jehovah our God hath <i>[e]</i>put us to silence, and given us water of <i>[f]</i>gall to drink, because we have sinned against Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-14",
+            "footnotes": [
+                {
+                    "d": "Or, <i>perish</i>"
+                },
+                {
+                    "e": "Or, <i>caused us to perish</i>"
+                },
+                {
+                    "f": "Or, <i>poison</i>. See [[Dt. 29:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008015,
+            "text": "We looked for peace, but no good came;  for a time of healing, and, behold, dismay! ",
+            "version": "ASV",
+            "clsstr": "Jer-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008016,
+            "text": "The snorting of his horses is heard from Dan: at the sound of the neighing of his strong ones the whole land trembleth; for they are come, and have devoured the land and all that is in it; the city and those that dwell therein. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008017,
+            "text": "For, behold, I will send serpents, adders, among you, which will not be charmed; and they shall bite you, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008018,
+            "text": "\u00b6 Oh that I could comfort myself against sorrow! my heart is faint within me. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008019,
+            "text": "Behold, the voice of the cry of the daughter of my people <i>[g]</i>from a land that is very far off: Is not Jehovah in Zion? is not her King in her? Why have they provoked me to anger with their graven images, and with foreign vanities? ",
+            "version": "ASV",
+            "clsstr": "Jer-8-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>because of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008020,
+            "text": "The harvest is past, the <i>[h]</i>summer is ended, and we are not saved. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-20",
+            "footnotes": [
+                {
+                    "h": "Or, <i>ingathering of summer fruits</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008021,
+            "text": "For the hurt of the daughter of my people am I hurt: I mourn; dismay hath taken hold on me. ",
+            "version": "ASV",
+            "clsstr": "Jer-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24008022,
+            "text": "Is there no balm in Gilead? is there no physician there? why then is not the <i>[i]</i>health of the daughter of my people <i>[j]</i>recovered?",
+            "version": "ASV",
+            "clsstr": "Jer-8-22",
+            "footnotes": [
+                {
+                    "i": "Or, <i>healing</i>"
+                },
+                {
+                    "j": "Or, <i>perfected</i>. Hebrew <i>gone up</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 8
+}

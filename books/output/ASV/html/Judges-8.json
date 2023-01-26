@@ -1,0 +1,327 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 7,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 7,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 7008001,
+            "text": "\u00b6 And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with Midian? And they did chide with him sharply. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008002,
+            "text": "And he said unto them, What have I now done in comparison with you? Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer? ",
+            "version": "ASV",
+            "clsstr": "Judg-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008003,
+            "text": "God hath delivered into your hand the princes of Midian, Oreb and Zeeb: and what was I able to do in comparison with you? Then their <i>[a]</i>anger was abated toward him, when he had said that.",
+            "version": "ASV",
+            "clsstr": "Judg-8-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>spirit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008004,
+            "text": "\u00b6 And Gideon came to the Jordan, <i>[b]</i> passed over, he, and the three hundred men that were with him, faint, yet pursuing. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>to pass</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008005,
+            "text": "And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they are faint, and I am pursuing after Zebah and Zalmunna, the kings of Midian. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008006,
+            "text": "And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in thy hand, that we should give bread unto thine army? ",
+            "version": "ASV",
+            "clsstr": "Judg-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008007,
+            "text": "And Gideon said, Therefore when Jehovah hath delivered Zebah and Zalmunna into my hand, then I will <i>[c]</i>tear your flesh with the thorns of the wilderness and with briers. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-7",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>thresh</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008008,
+            "text": "And he went up thence to Penuel, and spake unto them in like manner; and the men of Penuel answered him as the men of Succoth had answered. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008009,
+            "text": "And he spake also unto the men of Penuel, saying, When I come again in peace, I will break down this tower.",
+            "version": "ASV",
+            "clsstr": "Judg-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008010,
+            "text": "\u00b6 Now Zebah and Zalmunna were in Karkor, and their hosts with them, about fifteen thousand men, all that were left of all the host of the children of the east; for there fell a hundred and twenty thousand men that drew sword. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008011,
+            "text": "And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host; for the host was secure. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008012,
+            "text": "And Zebah and Zalmunna fled; and he pursued after them; and he took the two kings of Midian, Zebah and Zalmunna, and <i>[d]</i>discomfited all the host.",
+            "version": "ASV",
+            "clsstr": "Judg-8-12",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>terrified</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008013,
+            "text": "\u00b6 And Gideon the son of Joash returned from the battle from the ascent of Heres. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008014,
+            "text": "And he caught a young man of the men of Succoth, and inquired of him: and he <i>[e]</i>described for him the princes of Succoth, and the elders thereof, seventy and seven men. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>wrote down</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008015,
+            "text": "And he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, concerning whom ye did taunt me, saying, Are the hands of Zebah and Zalmunna now in thy hand, that we should give bread unto thy men that are weary? ",
+            "version": "ASV",
+            "clsstr": "Judg-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008016,
+            "text": "And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008017,
+            "text": "And he brake down the tower of Penuel, and slew the men of the city.",
+            "version": "ASV",
+            "clsstr": "Judg-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008018,
+            "text": "\u00b6 Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the children of a king. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008019,
+            "text": "And he said, They were my brethren, the sons of my mother: as Jehovah liveth, if ye had saved them alive, I would not slay you. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008020,
+            "text": "And he said unto Jether his first-born, Up, and slay them. But the youth drew not his sword; for he feared, because he was yet a youth. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008021,
+            "text": "Then Zebah and Zalmunna said, Rise thou, and fall upon us; for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took the crescents that were on their camels\u2019 necks.",
+            "version": "ASV",
+            "clsstr": "Judg-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008022,
+            "text": "\u00b6 Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son\u2019s son also; for thou hast saved us out of the hand of Midian. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008023,
+            "text": "And Gideon said unto them, I will not rule over you, neither shall my son rule over you: Jehovah shall rule over you. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008024,
+            "text": "And Gideon said unto them, I would make a request of you, that ye would give me every man the <i>[f]</i>ear-rings of his spoil. (For they had golden ear-rings, because they were Ishmaelites.) ",
+            "version": "ASV",
+            "clsstr": "Judg-8-24",
+            "footnotes": [
+                {
+                    "f": "Or, <i>nose-rings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008025,
+            "text": "And they answered, We will willingly give them. And they spread a garment, and did cast therein every man the ear-rings of his spoil. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008026,
+            "text": "And the weight of the golden ear-rings that he requested was a thousand and seven hundred  of gold; besides the crescents, and the pendants, and the purple raiment that was on the kings of Midian, and besides the chains that were about their camels\u2019 necks. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008027,
+            "text": "And Gideon made an ephod thereof, and put it in his city, even in Ophrah: and all Israel played the harlot after it there; and it became a snare unto Gideon, and to his house. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008028,
+            "text": "So Midian was subdued before the children of Israel, and they lifted up their heads no more. And the land had rest forty years in the days of Gideon.",
+            "version": "ASV",
+            "clsstr": "Judg-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008029,
+            "text": "\u00b6 And Jerubbaal the son of Joash went and dwelt in his own house. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008030,
+            "text": "And Gideon had threescore and ten sons of his body begotten; for he had many wives. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008031,
+            "text": "And his concubine that was in Shechem, she also bare him a son, and he <i>[g]</i>called his name Abimelech. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-31",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>set</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008032,
+            "text": "And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites.",
+            "version": "ASV",
+            "clsstr": "Judg-8-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008033,
+            "text": "\u00b6 And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and played the harlot after the Baalim, and made Baal-berith their god. ",
+            "version": "ASV",
+            "clsstr": "Judg-8-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008034,
+            "text": "And the children of Israel remembered not Jehovah their God, who had delivered them out of the hand of all their enemies on every side; ",
+            "version": "ASV",
+            "clsstr": "Judg-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7008035,
+            "text": "neither showed they kindness to the house of Jerubbaal,  Gideon, according to all the goodness which he had showed unto Israel.",
+            "version": "ASV",
+            "clsstr": "Judg-8-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Judges",
+    "chapters": 8
+}

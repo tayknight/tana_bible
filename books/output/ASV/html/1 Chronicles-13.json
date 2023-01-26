@@ -1,0 +1,156 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13013001,
+            "text": "\u00b6 And David consulted with the captains of thousands and of hundreds, even with every leader. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013002,
+            "text": "And David said unto all the assembly of Israel, If it seem good unto you, and if it be of Jehovah our God, let us send abroad every where unto our brethren that are left in all the <i>[a]</i>land of Israel, <i>[b]</i>with whom the priests and Levites are in their cities that have <i>[c]</i>suburbs, that they may gather themselves unto us; ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>lands</i>."
+                },
+                {
+                    "b": "Or, <i>and with them to the priests and Levites that are etc.</i>"
+                },
+                {
+                    "c": "Or, <i>pasture lands</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013003,
+            "text": "and let us bring again the ark of our God to us: for we sought not unto it in the days of Saul. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013004,
+            "text": "And all the assembly said that they would do so; for the thing was right in the eyes of all the people. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013005,
+            "text": "So David assembled all Israel together, from the Shihor  of Egypt even unto the entrance of Hamath, to bring the ark of God from Kiriath-jearim. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013006,
+            "text": "And David went up, and all Israel, to Baalah, , to Kiriath-jearim, which belonged to Judah, to bring up from thence the ark of God Jehovah that <i>[d]</i>sitteth the cherubim, <i>[e]</i>that is called by the Name. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>is enthroned</i>"
+                },
+                {
+                    "e": "Or, <i>where the Name is called on</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013007,
+            "text": "And they carried the ark of God upon a new cart,  out of the house of Abinadab: and Uzza and Ahio drove the cart. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013008,
+            "text": "And David and all Israel played before God with all their might, even with songs, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.",
+            "version": "ASV",
+            "clsstr": "1Chr-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013009,
+            "text": "\u00b6 And when they came unto the threshing-floor of Chidon, Uzza put forth his hand to hold the ark; for the oxen <i>[f]</i>stumbled. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-9",
+            "footnotes": [
+                {
+                    "f": "Or, <i>were restive</i>. Or, <i>threw</i> it <i>down</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013010,
+            "text": "And the anger of Jehovah was kindled against Uzza, and he smote him, because he put forth his hand to the ark; and there he died before God. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013011,
+            "text": "And David was displeased, because Jehovah had broken forth upon Uzza: and he called that place <i>[g]</i>Perez-uzza, unto this day. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-11",
+            "footnotes": [
+                {
+                    "g": "That is, <i>The breach of Uzza</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013012,
+            "text": "And David was afraid of God that day, saying, How shall I bring the ark of God home to me? ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013013,
+            "text": "So David removed not the ark unto him into the city of David, but carried it aside into the house of Obed-edom the Gittite. ",
+            "version": "ASV",
+            "clsstr": "1Chr-13-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13013014,
+            "text": "And the ark of God remained with the family of Obed-edom in his house three months: and Jehovah blessed the house of Obed-edom, and all that he had.",
+            "version": "ASV",
+            "clsstr": "1Chr-13-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 13
+}

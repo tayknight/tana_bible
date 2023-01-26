@@ -1,0 +1,123 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 10,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 10,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 10004001,
+            "text": "\u00b6 And when , Saul\u2019s son, heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled. ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004002,
+            "text": "And , Saul\u2019s son,  two men that were captains of bands: the name of the one was Baanah, and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin (for Beeroth also is reckoned to Benjamin: ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004003,
+            "text": "and the Beerothites fled to Gittaim, and have been sojourners there until this day).",
+            "version": "ASV",
+            "clsstr": "2Sam-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004004,
+            "text": "\u00b6 Now Jonathan, Saul\u2019s son, had a son that was lame of his feet. He was five years old when the tidings came of Saul and Jonathan out of Jezreel; and his nurse took him up, and fled: and it came to pass, as she made haste to flee, that he fell, and became lame. And his name was <i>[a]</i>Mephibosheth.",
+            "version": "ASV",
+            "clsstr": "2Sam-4-4",
+            "footnotes": [
+                {
+                    "a": "In [[1 Chr. 8:34]]; [[9:40]], <i>Merib-baal</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004005,
+            "text": "\u00b6 And the sons of Rimmon the Beerothite, Rechab and Baanah, went, and came about the heat of the day to the house of Ish-bosheth, as he took his rest at noon. ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004006,
+            "text": "And <i>[b]</i>they came thither into the midst of the house, as though they would have fetched wheat; and they smote him in the body: and Rechab and Baanah his brother escaped. ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>there came\u00a0.\u00a0.\u00a0. men fetching wheat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004007,
+            "text": "Now when they came into the house, as he lay on his bed in his bedchamber, they smote him, and slew him, and beheaded him, and took his head, and went by the way of the Arabah all night. ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004008,
+            "text": "And they brought the head of Ish-bosheth unto David to Hebron, and said to the king, Behold, the head of Ish-bosheth, the son of Saul, thine enemy, who sought thy life; and Jehovah hath avenged my lord the king this day of Saul, and of his seed. ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004009,
+            "text": "And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As Jehovah liveth, who hath redeemed my soul out of all adversity, ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004010,
+            "text": "when one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, which was the reward I gave him for his tidings. ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004011,
+            "text": "How much more, when wicked men have slain a righteous person in his own house upon his bed, shall I not now require his blood of your hand, and take you away from the earth? ",
+            "version": "ASV",
+            "clsstr": "2Sam-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10004012,
+            "text": "And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ish-bosheth, and buried it in the grave of Abner in Hebron.",
+            "version": "ASV",
+            "clsstr": "2Sam-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Samuel",
+    "chapters": 4
+}

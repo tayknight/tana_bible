@@ -1,0 +1,254 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23049001,
+            "text": "\u00b6 Listen, O isles, unto me; and hearken, ye peoples, from far: Jehovah hath called me from the womb; from the bowels of my mother hath he made mention of my name: ",
+            "version": "ASV",
+            "clsstr": "Isa-49-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049002,
+            "text": "and he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me: and he hath made me a polished shaft; in his quiver hath he kept me close: ",
+            "version": "ASV",
+            "clsstr": "Isa-49-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049003,
+            "text": "and he said unto me, Thou art my servant; Israel, in whom I will be glorified. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049004,
+            "text": "But I said, I have labored in vain, I have spent my strength for nought and vanity; yet surely the justice  to me is with Jehovah, and my recompense with my God.",
+            "version": "ASV",
+            "clsstr": "Isa-49-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049005,
+            "text": "\u00b6 And now saith Jehovah that formed me from the womb to be his servant, to bring Jacob again to him, <i>[a]</i>and that Israel be gathered unto him (for I am honorable in the eyes of Jehovah, and my God is become my strength); ",
+            "version": "ASV",
+            "clsstr": "Isa-49-5",
+            "footnotes": [
+                {
+                    "a": "Another reading is, <i>but Israel is not gathered, yet shall I be etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049006,
+            "text": "yea, he saith, It is too light a thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, <i>[b]</i>that thou mayest be my salvation unto the end of the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>that my salvation may be</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049007,
+            "text": "Thus saith Jehovah, the Redeemer of Israel,  his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers: Kings shall see and arise; princes, and they shall worship; because of Jehovah that is faithful,  the Holy One of Israel, who hath chosen thee.",
+            "version": "ASV",
+            "clsstr": "Isa-49-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049008,
+            "text": "\u00b6 Thus saith Jehovah, In an acceptable time have I answered thee, and in a day of salvation have I helped thee; and I will preserve thee, and give thee for a covenant of the people, to <i>[c]</i>raise up the land, to make them inherit the desolate heritages; ",
+            "version": "ASV",
+            "clsstr": "Isa-49-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>establish the earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049009,
+            "text": "saying to them that are bound, Go forth; to them that are in darkness, Show yourselves. They shall feed in the ways, and on all bare heights shall be their pasture. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049010,
+            "text": "They shall not hunger nor thirst; neither shall the <i>[d]</i>heat nor sun smite them: for he that hath mercy on them will lead them, even by springs of water will he guide them. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>mirage</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049011,
+            "text": "And I will make all my mountains a way, and my highways shall be exalted. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049012,
+            "text": "Lo, these shall come from far; and, lo, these from the north and from the west; and these from the land of Sinim. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049013,
+            "text": "Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for Jehovah hath comforted his people, and will have compassion upon his afflicted.",
+            "version": "ASV",
+            "clsstr": "Isa-49-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049014,
+            "text": "\u00b6 But Zion said, Jehovah hath forsaken me, and the Lord hath forgotten me. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049015,
+            "text": "Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, these may forget, yet will not I forget thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049016,
+            "text": "Behold, I have graven thee upon the palms of my hands; thy walls are continually before me. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049017,
+            "text": "Thy children make haste; thy destroyers and they that made thee waste shall go forth from thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049018,
+            "text": "Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith Jehovah, thou shalt surely clothe thee with them all as with an ornament, and gird thyself with them, like a bride. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049019,
+            "text": "For, as for thy waste and thy desolate places, and thy land that hath been destroyed, surely now shalt thou be too strait for the inhabitants, and they that swallowed thee up shall be far away. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049020,
+            "text": "The children of thy bereavement shall yet say in thine ears, The place is too strait for me; give place to me that I may dwell. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049021,
+            "text": "Then shalt thou say in thy heart, Who hath <i>[e]</i>begotten me these, seeing I have been bereaved of my children, and am <i>[f]</i>solitary, an exile, and wandering to and fro? and who hath brought up these? Behold, I was left alone; these, where were they?",
+            "version": "ASV",
+            "clsstr": "Isa-49-21",
+            "footnotes": [
+                {
+                    "e": "Or, <i>borne</i>"
+                },
+                {
+                    "f": "Or, <i>barren</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049022,
+            "text": "\u00b6 Thus saith the Lord Jehovah, Behold, I will lift up my hand to the nations, and set up my ensign to the peoples; and they shall bring thy sons in their bosom, and thy daughters shall be carried upon their shoulders. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049023,
+            "text": "And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their faces to the earth, and lick the dust of thy feet; and thou shalt know that I am Jehovah; and they that wait for me shall not be put to shame.",
+            "version": "ASV",
+            "clsstr": "Isa-49-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049024,
+            "text": "\u00b6 Shall the prey be taken from the mighty, or <i>[g]</i>the lawful captives be delivered? ",
+            "version": "ASV",
+            "clsstr": "Isa-49-24",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>the captives of the just</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049025,
+            "text": "But thus saith Jehovah, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered; for I will contend with him that contendeth with thee, and I will save thy children. ",
+            "version": "ASV",
+            "clsstr": "Isa-49-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23049026,
+            "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I, Jehovah, am thy Saviour, and thy Redeemer, the Mighty One of Jacob.",
+            "version": "ASV",
+            "clsstr": "Isa-49-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 49
+}

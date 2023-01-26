@@ -1,0 +1,463 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 27,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 27,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 27002001,
+            "text": "\u00b6 And in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002002,
+            "text": "Then the king commanded to call the magicians, and the enchanters, and the sorcerers, and the Chaldeans, to tell the king his dreams. So they came in and stood before the king. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002003,
+            "text": "And the king said unto them, I have dreamed a dream, and my spirit is troubled to know the dream. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002004,
+            "text": "Then spake the Chaldeans to the king <i>[a]</i>in the Syrian language, <i>[b]</i>O king, live for ever: tell thy servants the dream, and we will show the interpretation. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>in Aramaic</i>"
+                },
+                {
+                    "b": "[[2:4\u20137:28]] is in Aramaic."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002005,
+            "text": "The king answered and said to the Chaldeans, <i>[c]</i>The thing is gone from me: if ye make not known unto me the dream and the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>The word is gone forth from me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002006,
+            "text": "But if ye show the dream and the interpretation thereof, ye shall receive of me gifts and rewards and great honor: therefore show me the dream and the interpretation thereof. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002007,
+            "text": "They answered the second time and said, Let the king tell his servants the dream, and we will show the interpretation. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002008,
+            "text": "The king answered and said, I know of a certainty that ye would <i>[d]</i>gain time, because ye see <i>[e]</i>the thing is gone from me. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-8",
+            "footnotes": [
+                {
+                    "d": "Aramaic <i>buy the time</i>."
+                },
+                {
+                    "e": "Or, <i>the word is gone forth from me: that if etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002009,
+            "text": "But if ye make not known unto me the dream, there is but one law for you; for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can show me the interpretation thereof. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002010,
+            "text": "The Chaldeans answered before the king, and said, There is not a man upon the earth that can show the king\u2019s matter, forasmuch as no king, <i>[f]</i>lord, or ruler, hath asked such a thing of any magician, or enchanter, or Chaldean. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-10",
+            "footnotes": [
+                {
+                    "f": "Or, be he never so <i>great and powerful, hath etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002011,
+            "text": "And it is a rare thing that the king requireth, and there is no other that can show it before the king, except the gods, whose dwelling is not with flesh. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002012,
+            "text": "For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002013,
+            "text": "So the decree went forth, and the wise men were to be slain; and they sought Daniel and his companions to be slain.",
+            "version": "ASV",
+            "clsstr": "Dan-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002014,
+            "text": "\u00b6 Then Daniel returned answer with counsel and prudence to Arioch the captain of the king\u2019s guard, who was gone forth to slay the wise men of Babylon; ",
+            "version": "ASV",
+            "clsstr": "Dan-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002015,
+            "text": "he answered and said to Arioch the king\u2019s captain, Wherefore is the decree so urgent from the king? Then Arioch made the thing known to Daniel. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002016,
+            "text": "And Daniel went in, and desired of the king that he would <i>[g]</i>appoint him a time, <i>[h]</i>and he would show the king the interpretation.",
+            "version": "ASV",
+            "clsstr": "Dan-2-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>give him time</i>"
+                },
+                {
+                    "h": "Or, <i>that he might</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002017,
+            "text": "\u00b6 Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions: ",
+            "version": "ASV",
+            "clsstr": "Dan-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002018,
+            "text": "that they would desire mercies of the God of heaven concerning this secret; that Daniel and his companions should not perish with the rest of the wise men of Babylon. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002019,
+            "text": "Then was the secret revealed unto Daniel in a vision of the night. Then Daniel blessed the God of heaven. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002020,
+            "text": "Daniel answered and said, Blessed be the name of God for ever and ever; for wisdom and might are his. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002021,
+            "text": "And he changeth the times and the seasons; he removeth kings, and setteth up kings; he giveth wisdom unto the wise, and knowledge to them that have understanding; ",
+            "version": "ASV",
+            "clsstr": "Dan-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002022,
+            "text": "he revealeth the deep and secret things; he knoweth what is in the darkness, and the light dwelleth with him. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002023,
+            "text": "I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast now made known unto me what we desired of thee; for thou hast made known unto us the king\u2019s matter. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002024,
+            "text": "Therefore Daniel went in unto Arioch, whom the king had appointed to destroy the wise men of Babylon; he went and said thus unto him: Destroy not the wise men of Babylon; bring me in before the king, and I will show unto the king the interpretation.",
+            "version": "ASV",
+            "clsstr": "Dan-2-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002025,
+            "text": "\u00b6 Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the children of the captivity of Judah, that will make known unto the king the interpretation. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002026,
+            "text": "The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof? ",
+            "version": "ASV",
+            "clsstr": "Dan-2-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002027,
+            "text": "Daniel answered before the king, and said, The secret which the king hath demanded can neither wise men, enchanters, magicians, nor soothsayers, show unto the king; ",
+            "version": "ASV",
+            "clsstr": "Dan-2-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002028,
+            "text": "but there is a God in heaven that revealeth secrets, and he hath made known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these: ",
+            "version": "ASV",
+            "clsstr": "Dan-2-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002029,
+            "text": "as for thee, O king, thy thoughts came  upon thy bed, what should come to pass hereafter; and he that revealeth secrets hath made known to thee what shall come to pass. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002030,
+            "text": "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but to the intent that the interpretation may be made known to the king, and that thou mayest know the thoughts of thy heart.",
+            "version": "ASV",
+            "clsstr": "Dan-2-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002031,
+            "text": "\u00b6 Thou, O king, sawest, and, behold, a great image. This image, which was mighty, and whose brightness was excellent, stood before thee; and the aspect thereof was terrible. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002032,
+            "text": "As for this image, its head was of fine gold, its breast and its arms of silver, its belly and its thighs of brass, ",
+            "version": "ASV",
+            "clsstr": "Dan-2-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002033,
+            "text": "its legs of iron, its feet part of iron, and part of clay. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002034,
+            "text": "Thou sawest till that a stone was cut out without hands, which smote the image upon its feet that were of iron and clay, and brake them in pieces. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002035,
+            "text": "Then was the iron, the clay, the brass, the silver, and the gold, broken in pieces together, and became like the chaff of the summer threshing-floors; and the wind carried them away, so that no place was found for them: and the stone that smote the image became a great <i>[i]</i>mountain, and filled the whole earth.",
+            "version": "ASV",
+            "clsstr": "Dan-2-35",
+            "footnotes": [
+                {
+                    "i": "Or, <i>rock</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002036,
+            "text": "\u00b6 This is the dream; and we will tell the interpretation thereof before the king. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002037,
+            "text": "Thou, O king, art king of kings, unto whom the God of heaven hath given the kingdom, the power, and the strength, and the glory; ",
+            "version": "ASV",
+            "clsstr": "Dan-2-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002038,
+            "text": "and wheresoever the children of men dwell, the beasts of the field and the birds of the heavens hath he given into thy hand, and hath made thee to rule over them all: thou art the head of gold. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002039,
+            "text": "And after thee shall arise another kingdom inferior to thee; and another third kingdom of brass, which shall bear rule over all the earth. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002040,
+            "text": "And the fourth kingdom shall be strong as iron, forasmuch as iron breaketh in pieces and subdueth all things; and as iron that crusheth all these, shall it break in pieces and crush. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002041,
+            "text": "And whereas thou sawest the feet and toes, part of potters\u2019 clay, and part of iron, it shall be a divided kingdom; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with <i>[j]</i>miry clay. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-41",
+            "footnotes": [
+                {
+                    "j": "Or, <i>earthenware</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002042,
+            "text": "And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly <i>[k]</i>broken. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-42",
+            "footnotes": [
+                {
+                    "k": "Or, <i>brittle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002043,
+            "text": "And whereas thou sawest the iron mixed with <i>[l]</i>miry clay, they shall mingle themselves <i>[m]</i>with the seed of men; but they shall not cleave one to another, even as iron doth not mingle with clay. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-43",
+            "footnotes": [
+                {
+                    "l": "Or, <i>earthenware</i>"
+                },
+                {
+                    "m": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002044,
+            "text": "And in the days of those kings shall the God of heaven set up a kingdom which shall never be destroyed, nor shall the sovereignty thereof be left to another people; but it shall break in pieces and consume all these kingdoms, and it shall stand for ever. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002045,
+            "text": "Forasmuch as thou sawest that a stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.",
+            "version": "ASV",
+            "clsstr": "Dan-2-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002046,
+            "text": "\u00b6 Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odors unto him. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002047,
+            "text": "The king answered unto Daniel, and said, Of a truth your God is the God of gods, and the Lord of kings, and a revealer of secrets, seeing thou hast been able to reveal this secret. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002048,
+            "text": "Then the king made Daniel great, and gave him many great gifts, and made him to rule over the whole province of Babylon, and to be chief governor over all the wise men of Babylon. ",
+            "version": "ASV",
+            "clsstr": "Dan-2-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 27002049,
+            "text": "And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abed-nego, over the affairs of the province of Babylon: but Daniel was <i>[n]</i>in the gate of the king.",
+            "version": "ASV",
+            "clsstr": "Dan-2-49",
+            "footnotes": [
+                {
+                    "n": "Or, <i>at the king\u2019s court</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Daniel",
+    "chapters": 2
+}

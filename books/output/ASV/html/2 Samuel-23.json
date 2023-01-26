@@ -1,0 +1,402 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 10,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 10,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 10023001,
+            "text": "\u00b6 Now these are the last words of David.\u00b6   David the son of Jesse saith,\n  And the man who was raised on high saith,\n  The anointed of the God of Jacob,\n  And <i>[a]</i>the sweet psalmist of Israel:\n    ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>pleasant in the psalms of Israel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023002,
+            "text": "  The Spirit of Jehovah spake <i>[b]</i>by me,\n    And his word was upon my tongue.\n    ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023003,
+            "text": " The God of Israel said,\n The Rock of Israel spake to me:\n  <i>[c]</i>One that ruleth over men <i>[d]</i>righteously,\n    That ruleth in the fear of God,\n    ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-3",
+            "footnotes": [
+                {
+                    "c": "Or, There shall be <i>one\u00a0.\u00a0.\u00a0. and</i> it shall be <i>as etc.</i>"
+                },
+                {
+                    "d": "Hebrew <i>a righteous one</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023004,
+            "text": "     as the light of the morning, when the sun riseth,\n    A morning without clouds,\n     the tender grass  out of the earth,\n    Through clear shining after rain.\n    ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023005,
+            "text": "   <i>[e]</i>Verily my house is not so with God;\n    Yet he hath made with me an everlasting covenant,\n    Ordered in all things, and sure:\n    For it is all my salvation, and all  desire,\n    Although he maketh it not to grow.\n    ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-5",
+            "footnotes": [
+                {
+                    "e": "Or, <i>For is not my house so with God? for he\u00a0.\u00a0.\u00a0. for all my salvation, and all</i> my <i>desire, will he not make it to grow?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023006,
+            "text": "  But <i>[f]</i>the ungodly shall be all of them as thorns to be thrust away,\n    Because they cannot be taken with the hand;\n    ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-6",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>Belial</i>, that is, <i>worthlessness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023007,
+            "text": "  But the man that toucheth them\n  Must be <i>[g]</i>armed with iron and the staff of a spear:\n    And they shall be utterly burned with fire in  place.\n    ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-7",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>filled</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023008,
+            "text": "\u00b6 These are the names of the mighty men whom David had: <i>[h]</i>Josheb-basshebeth a Tahchemonite, chief of the captains; the same was Adino the Eznite, against eight hundred slain at one time.",
+            "version": "ASV",
+            "clsstr": "2Sam-23-8",
+            "footnotes": [
+                {
+                    "h": "In [[1 Chr. 11:11]], <i>Jashobeam</i>. The Hebrew of this verse is obscure."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023009,
+            "text": "\u00b6 And after him was Eleazar the son of Dodai the son of an Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel <i>[i]</i>were gone away. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-9",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>went up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023010,
+            "text": "He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword; and Jehovah wrought a great <i>[j]</i>victory that day; and the people returned after him only to take spoil.",
+            "version": "ASV",
+            "clsstr": "2Sam-23-10",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023011,
+            "text": "\u00b6 And after him was Shammah the son of Agee a Hararite. And the Philistines were gathered together <i>[k]</i>into a troop, where was a plot of ground full of lentils; and the people fled from the Philistines. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-11",
+            "footnotes": [
+                {
+                    "k": "Or, <i>for foraging</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023012,
+            "text": "But he stood in the midst of the plot, and defended it, and slew the Philistines; and Jehovah wrought a great <i>[l]</i>victory.",
+            "version": "ASV",
+            "clsstr": "2Sam-23-12",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023013,
+            "text": "\u00b6 And three of the thirty chief men went down, and came to David in the harvest time unto the cave of Adullam; and the troop of the Philistines was encamped in the valley of Rephaim. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023014,
+            "text": "And David was then in the stronghold; and the garrison of the Philistines was then in Beth-lehem. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023015,
+            "text": "And David longed, and said, Oh that one would give me water to drink of the well of Beth-lehem, which is by the gate! ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023016,
+            "text": "And the three mighty men brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but he would not drink thereof, but poured it out unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023017,
+            "text": "And he said, Be it far from me, O Jehovah, that I should do this: the blood of the men that went <i>[m]</i>in jeopardy of their lives? therefore he would not drink it. These things did the three mighty men.",
+            "version": "ASV",
+            "clsstr": "2Sam-23-17",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>with their lives</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023018,
+            "text": "\u00b6 And Abishai, the brother of Joab, the son of Zeruiah, was chief of the three. And he lifted up his spear against three hundred <i>[n]</i>and slew them, and had a name among the three. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-18",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>slain</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023019,
+            "text": "Was he not most honorable of the three? therefore he was made their captain: howbeit he attained not unto the  three.",
+            "version": "ASV",
+            "clsstr": "2Sam-23-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023020,
+            "text": "\u00b6 And Benaiah the son of Jehoiada, the son of <i>[o]</i>a valiant man of Kabzeel, who had done mighty deeds, he slew the two  Ariel of Moab: he went down also and slew a lion in the midst of a pit in time of snow. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-20",
+            "footnotes": [
+                {
+                    "o": "According to another reading, <i>Ish-hai</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023021,
+            "text": "And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian\u2019s hand, and slew him with his own spear. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023022,
+            "text": "These things did Benaiah the son of Jehoiada, and had a name among the three mighty men. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023023,
+            "text": "He was more honorable than the thirty, but he attained not to the three. And David set him over his <i>[p]</i>guard.",
+            "version": "ASV",
+            "clsstr": "2Sam-23-23",
+            "footnotes": [
+                {
+                    "p": "Or, <i>council</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023024,
+            "text": "\u00b6 Asahel the brother of Joab was one of the thirty; Elhanan the son of Dodo of Beth-lehem, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023025,
+            "text": "Shammah the Harodite, Elika the Harodite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023026,
+            "text": "Helez the Paltite, Ira the son of Ikkesh the Tekoite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023027,
+            "text": "Abiezer the Anathothite, Mebunnai the Hushathite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023028,
+            "text": "Zalmon the Ahohite, Maharai the Netophathite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023029,
+            "text": "Heleb the son of Baanah the Netophathite, Ittai the son of Ribai of Gibeah of the children of Benjamin, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023030,
+            "text": "Benaiah a Pirathonite, Hiddai of the brooks of Gaash. ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023031,
+            "text": "Abi-albon the Arbathite, Azmaveth the Barhumite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023032,
+            "text": "Eliahba the Shaalbonite, the sons of Jashen, Jonathan, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023033,
+            "text": "Shammah the Hararite, Ahiam the son of Sharar the Ararite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023034,
+            "text": "Eliphelet the son of Ahasbai, the son of the Maacathite, Eliam the son of Ahithophel the Gilonite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023035,
+            "text": " <i>[q]</i>Hezro the Carmelite, Paarai the Arbite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-35",
+            "footnotes": [
+                {
+                    "q": "Or, <i>Hezrai</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023036,
+            "text": "Igal the son of Nathan of Zobah, Bani the Gadite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023037,
+            "text": "Zelek the Ammonite, Naharai the Beerothite, <i>[r]</i>armorbearers to Joab the son of Zeruiah, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-37",
+            "footnotes": [
+                {
+                    "r": "Another reading is, <i>armorbearer</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023038,
+            "text": "Ira the Ithrite, Gareb the Ithrite, ",
+            "version": "ASV",
+            "clsstr": "2Sam-23-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 10023039,
+            "text": "Uriah the Hittite: thirty and seven in all.",
+            "version": "ASV",
+            "clsstr": "2Sam-23-39",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Samuel",
+    "chapters": 23
+}

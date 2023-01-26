@@ -1,0 +1,594 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46015001,
+            "text": "\u00b6 Now I make known unto you brethren, the <i>[a]</i>gospel which I <i>[b]</i>preached unto you, which also ye received, wherein also ye stand, ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-1",
+            "footnotes": [
+                {
+                    "a": "See marginal note on [[4:15]]."
+                },
+                {
+                    "b": "See marginal note on [[1:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015002,
+            "text": "by which also ye are saved, if ye hold fast <i>[c]</i>the word which I <i>[d]</i>preached unto you, except ye believed <i>[e]</i>in vain. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-2",
+            "footnotes": [
+                {
+                    "c": "Greek <i>with what word</i>."
+                },
+                {
+                    "d": "See marginal note on [[1:17]]."
+                },
+                {
+                    "e": "Or, <i>without cause</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015003,
+            "text": "For I delivered unto you first of all that which also I received: that Christ died for our sins according to the scriptures; ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015004,
+            "text": "and that he was buried; and that he hath been raised on the third day according to the scriptures; ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015005,
+            "text": "and that he appeared to Cephas; then to the twelve; ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015006,
+            "text": "then he appeared to above five hundred brethren at once, of whom the greater part remain until now, but some are fallen asleep; ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015007,
+            "text": "then he appeared to <i>[f]</i>James; then to all the apostles; ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-7",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015008,
+            "text": "and last of all, as to the  untimely born, he appeared to me also. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015009,
+            "text": "For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015010,
+            "text": "But by the grace of God I am what I am: and his grace which was bestowed upon me was not found <i>[g]</i>vain; but I labored more abundantly than they all: yet not I, but the grace of God which was with me. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>void</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015011,
+            "text": "Whether then  I or they, so we preach, and so ye believed.",
+            "version": "ASV",
+            "clsstr": "1Cor-15-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015012,
+            "text": "\u00b6 Now if Christ is preached that he hath been raised from the dead, how say some among you that there is no resurrection of the dead? ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015013,
+            "text": "But if there is no resurrection of the dead, neither hath Christ been raised: ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015014,
+            "text": "and if Christ hath not been raised, then is our preaching <i>[h]</i>vain, <i>[i]</i>your faith also is <i>[j]</i>vain. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>void</i>"
+                },
+                {
+                    "i": "Some ancient authorities read <i>our</i>."
+                },
+                {
+                    "j": "Or, <i>void</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015015,
+            "text": "Yea, and we are found false witnesses of God; because we witnessed of God that he raised up <i>[k]</i>Christ: whom he raised not up, if so be that the dead are not raised. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-15",
+            "footnotes": [
+                {
+                    "k": "Greek <i>the Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015016,
+            "text": "For if the dead are not raised, neither hath Christ been raised: ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015017,
+            "text": "and if Christ hath not been raised, your faith is vain; ye are yet in your sins. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015018,
+            "text": "Then they also that are fallen asleep in Christ have perished. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015019,
+            "text": " <i>[l]</i>If we have only hoped in Christ in this life, we are of all men most pitiable.",
+            "version": "ASV",
+            "clsstr": "1Cor-15-19",
+            "footnotes": [
+                {
+                    "l": "Or, <i>If in this life only we have hoped in Christ etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015020,
+            "text": "\u00b6 But now hath Christ been raised from the dead, the first-fruits of them that are asleep. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015021,
+            "text": "For since by man  death, by man  also the resurrection of the dead. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015022,
+            "text": "For as in Adam all die, so also in <i>[m]</i>Christ shall all be made alive. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-22",
+            "footnotes": [
+                {
+                    "m": "Greek <i>the Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015023,
+            "text": "But each in his own order: Christ the first-fruits; then they that are Christ\u2019s, at his <i>[n]</i>coming. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-23",
+            "footnotes": [
+                {
+                    "n": "Greek <i>presence</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015024,
+            "text": "Then the end, when he shall deliver up the kingdom to <i>[o]</i>God, even the Father; when he shall have abolished all rule and all authority and power. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-24",
+            "footnotes": [
+                {
+                    "o": "Greek <i>the God and Father</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015025,
+            "text": "For he must reign, till he hath put all his enemies under his feet. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015026,
+            "text": "The last enemy that shall be abolished is death. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015027,
+            "text": "For, He put all things in subjection under his feet. <i>[p]</i>But when he saith, <i>[q]</i>All things are put in subjection, it is evident that he is excepted who did subject all things unto him. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-27",
+            "footnotes": [
+                {
+                    "p": "Or, <i>But when he shall have said, All things are put in subjection (evidently excepting him that did subject all things unto him), when</i>, I say, <i>all things etc.</i>"
+                },
+                {
+                    "q": "[[Ps. 8:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015028,
+            "text": "And when all things have been subjected unto him, then shall the Son also himself be subjected to him that did subject all things unto him, that God may be all in all.",
+            "version": "ASV",
+            "clsstr": "1Cor-15-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015029,
+            "text": "\u00b6 Else what shall they do that are baptized for the dead? If the dead are not raised at all, why then are they baptized for them? ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015030,
+            "text": "why do we also stand in jeopardy every hour? ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015031,
+            "text": "I protest by <i>[r]</i>that glorying in you, brethren, which I have in Christ Jesus our Lord, I die daily. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-31",
+            "footnotes": [
+                {
+                    "r": "Or, <i>your glorying</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015032,
+            "text": "If after the manner of men I fought with beasts at Ephesus, <i>[s]</i>what doth it profit me? If the dead are not raised, let us eat and drink, for to-morrow we die. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-32",
+            "footnotes": [
+                {
+                    "s": "Or, <i>what doth it profit me, if the dead are not raised? Let us eat etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015033,
+            "text": "Be not deceived: Evil companionships corrupt good morals. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015034,
+            "text": "Awake to soberness righteously, and sin not; for some have no knowledge of God: I speak  to move you to shame.",
+            "version": "ASV",
+            "clsstr": "1Cor-15-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015035,
+            "text": "\u00b6 But some one will say, How are the dead raised? and with what manner of body do they come? ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015036,
+            "text": "Thou foolish one, that which thou thyself sowest is not quickened except it die: ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015037,
+            "text": "and that which thou sowest, thou sowest not the body that shall be, but a bare grain, it may chance of wheat, or of some other kind; ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015038,
+            "text": "but God giveth it a body even as it pleased him, and to each seed a body of its own. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015039,
+            "text": "All flesh is not the same flesh: but there is one  of men, and another flesh of beasts, and another flesh of birds, and another of fishes. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015040,
+            "text": "There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the  of the terrestrial is another. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015041,
+            "text": "There is one glory of the sun, and another glory of the moon, and another glory of the stars; for one star differeth from another star in glory. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015042,
+            "text": "So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption: ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015043,
+            "text": "it is sown in dishonor; it is raised in glory: it is sown in weakness; it is raised in power: ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015044,
+            "text": "it is sown a <i>[t]</i>natural body; it is raised a spiritual body. If there is a <i>[u]</i>natural body, there is also a spiritual . ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-44",
+            "footnotes": [
+                {
+                    "t": "Greek <i>psychical</i>."
+                },
+                {
+                    "u": "Greek <i>psychical</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015045,
+            "text": "So also it is written, <i>[v]</i>The first man Adam became a living soul. The last Adam  a life-giving spirit. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-45",
+            "footnotes": [
+                {
+                    "v": "[[Gen. 2:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015046,
+            "text": "Howbeit that is not first which is spiritual, but that which is <i>[w]</i>natural; then that which is spiritual. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-46",
+            "footnotes": [
+                {
+                    "w": "Greek <i>psychical</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015047,
+            "text": "The first man is of the earth, earthy: the second man is of heaven. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015048,
+            "text": "As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015049,
+            "text": "And as we have borne the image of the earthy, <i>[x]</i>we shall also bear the image of the heavenly.",
+            "version": "ASV",
+            "clsstr": "1Cor-15-49",
+            "footnotes": [
+                {
+                    "x": "Many ancient authorities read <i>let us also bear</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015050,
+            "text": "\u00b6 Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015051,
+            "text": "Behold, I tell you a mystery: <i>[y]</i>We all shall not sleep, but we shall all be changed, ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-51",
+            "footnotes": [
+                {
+                    "y": "Or, <i>We shall not all etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015052,
+            "text": "in a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015053,
+            "text": "For this corruptible must put on incorruption, and this mortal must put on immortality. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015054,
+            "text": "But when <i>[z]</i>this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall come to pass the saying that is written, <i>[aa]</i>Death is swallowed up <i>[ab]</i>in victory. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-54",
+            "footnotes": [
+                {
+                    "z": "Many ancient authorities omit <i>this corruptible shall have put on incorruption, and</i>."
+                },
+                {
+                    "aa": "[[Isa. 25:8]]."
+                },
+                {
+                    "ab": "Or, <i>victoriously</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015055,
+            "text": " <i>[ac]</i>O death, where is thy victory? O death, where is thy sting? ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-55",
+            "footnotes": [
+                {
+                    "ac": "[[Hos. 13:14]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015056,
+            "text": "The sting of death is sin; and the power of sin is the law: ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015057,
+            "text": "but thanks be to God, who giveth us the victory through our Lord Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "1Cor-15-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46015058,
+            "text": "Wherefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labor is not <i>[ad]</i>vain in the Lord.",
+            "version": "ASV",
+            "clsstr": "1Cor-15-58",
+            "footnotes": [
+                {
+                    "ad": "Or, <i>void</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 15
+}

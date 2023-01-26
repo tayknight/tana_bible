@@ -1,0 +1,216 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23063001,
+            "text": "\u00b6 Who is this that cometh from Edom, with <i>[a]</i>dyed garments from Bozrah? this that is glorious in his apparel, marching in the greatness of his strength? I that speak in righteousness, mighty to save. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>crimsoned</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063002,
+            "text": "Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winevat? ",
+            "version": "ASV",
+            "clsstr": "Isa-63-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063003,
+            "text": "I have trodden the winepress alone; and of the peoples there was no man with me: yea, I <i>[b]</i>trod them in mine anger, and trampled them in my wrath; and their <i>[c]</i>lifeblood <i>[d]</i>is sprinkled upon my garments, and I <i>[e]</i>have stained all my raiment. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>will tread\u00a0.\u00a0.\u00a0. and trample</i>"
+                },
+                {
+                    "c": "Or, <i>strength</i>"
+                },
+                {
+                    "d": "Or, <i>shall be</i>"
+                },
+                {
+                    "e": "Or, <i>will stain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063004,
+            "text": "For the day of vengeance <i>[f]</i>was in my heart, and <i>[g]</i>the year of my redeemed is come. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-4",
+            "footnotes": [
+                {
+                    "f": "Or, <i>is</i>"
+                },
+                {
+                    "g": "Or, <i>my year of redemption</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063005,
+            "text": "And I looked, and there was none to help; and I wondered that there was none to uphold: therefore mine own arm brought salvation unto me; and my wrath, it upheld me. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063006,
+            "text": "And <i>[h]</i>I trod down the peoples in mine anger, and <i>[i]</i>made them drunk in my wrath, and I <i>[j]</i>poured out their lifeblood on the earth.",
+            "version": "ASV",
+            "clsstr": "Isa-63-6",
+            "footnotes": [
+                {
+                    "h": "Or, <i>I will tread\u00a0.\u00a0.\u00a0. and make\u00a0.\u00a0.\u00a0. and I will pour out</i>"
+                },
+                {
+                    "i": "Or, according to another reading, <i>brake them in pieces</i>"
+                },
+                {
+                    "j": "Or, <i>brought down their strength to the earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063007,
+            "text": "\u00b6 I will make mention of the lovingkindnesses of Jehovah,  the praises of Jehovah, according to all that Jehovah hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063008,
+            "text": "For he said, Surely, they are my people, children that will not deal falsely: so he was their Saviour. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063009,
+            "text": " <i>[k]</i>In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.",
+            "version": "ASV",
+            "clsstr": "Isa-63-9",
+            "footnotes": [
+                {
+                    "k": "Another reading is, <i>In all their adversity he was no adversary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063010,
+            "text": "\u00b6 But they rebelled, and grieved his holy Spirit: therefore he was turned to be their enemy,  himself fought against them. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063011,
+            "text": " <i>[l]</i>Then he remembered the days of old, Moses his people, , Where is he that brought them up out of the sea with the <i>[m]</i>shepherds of his flock? where is he that put his holy Spirit in the midst of them? ",
+            "version": "ASV",
+            "clsstr": "Isa-63-11",
+            "footnotes": [
+                {
+                    "l": "Or, <i>Then his people remembered the ancient days of Moses etc.</i>"
+                },
+                {
+                    "m": "Another reading is, <i>shepherd</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063012,
+            "text": "that caused his glorious arm to go at the right hand of Moses? that divided the waters before them, to make himself an everlasting name? ",
+            "version": "ASV",
+            "clsstr": "Isa-63-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063013,
+            "text": "that led them through the depths, as a horse in the wilderness, so that they stumbled not? ",
+            "version": "ASV",
+            "clsstr": "Isa-63-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063014,
+            "text": "As the cattle that go down into the valley, the Spirit of Jehovah caused them to rest: so didst thou lead thy people, to make thyself a glorious name.",
+            "version": "ASV",
+            "clsstr": "Isa-63-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063015,
+            "text": "\u00b6 Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where are thy zeal and thy mighty acts? the yearning of thy heart and thy compassions are restrained toward me. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063016,
+            "text": "For thou art our Father, though Abraham knoweth us not, and Israel doth not acknowledge us: thou, O Jehovah, art our Father; our Redeemer from everlasting is thy name. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063017,
+            "text": "O Jehovah, why dost thou make us to err from thy ways, and hardenest our heart from thy fear? Return for thy servants\u2019 sake, the tribes of thine inheritance. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063018,
+            "text": "Thy holy people possessed  but a little while: our adversaries have trodden down thy sanctuary. ",
+            "version": "ASV",
+            "clsstr": "Isa-63-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23063019,
+            "text": "We are become as they over whom thou never barest rule, as they that were not called by thy name.",
+            "version": "ASV",
+            "clsstr": "Isa-63-19",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 63
+}

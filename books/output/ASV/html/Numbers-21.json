@@ -1,0 +1,349 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4021001,
+            "text": "\u00b6 And the Canaanite, the king of Arad, who dwelt in the South, heard tell that Israel came by the way <i>[a]</i>of Atharim; and he fought against Israel, and took some of them captive. ",
+            "version": "ASV",
+            "clsstr": "Num-21-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>of the spies</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021002,
+            "text": "And Israel vowed a vow unto Jehovah, and said, If thou wilt indeed deliver this people into my hand, then I will <i>[b]</i>utterly destroy their cities. ",
+            "version": "ASV",
+            "clsstr": "Num-21-2",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>devote</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021003,
+            "text": "And Jehovah hearkened to the voice of Israel, and delivered up the Canaanites; and they <i>[c]</i>utterly destroyed them and their cities: and the name of the place was called <i>[d]</i>Hormah.",
+            "version": "ASV",
+            "clsstr": "Num-21-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>devoted</i>."
+                },
+                {
+                    "d": "From the same root as <i>herem</i>, a devoted thing"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021004,
+            "text": "\u00b6 And they journeyed from mount Hor by the way to the Red Sea, to compass the land of Edom: and the soul of the people <i>[e]</i>was much discouraged <i>[f]</i>because of the way. ",
+            "version": "ASV",
+            "clsstr": "Num-21-4",
+            "footnotes": [
+                {
+                    "e": "Or, <i>was impatient</i>. Hebrew <i>was shortened</i>."
+                },
+                {
+                    "f": "Or, <i>in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021005,
+            "text": "And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, and there is no water; and our soul loatheth this <i>[g]</i>light bread. ",
+            "version": "ASV",
+            "clsstr": "Num-21-5",
+            "footnotes": [
+                {
+                    "g": "Or, <i>vile</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021006,
+            "text": "And Jehovah sent fiery serpents among the people, and they bit the people; and much people of Israel died. ",
+            "version": "ASV",
+            "clsstr": "Num-21-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021007,
+            "text": "And the people came to Moses, and said, We have sinned, because we have spoken against Jehovah, and against thee; pray unto Jehovah, that he take away the serpents from us. And Moses prayed for the people. ",
+            "version": "ASV",
+            "clsstr": "Num-21-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021008,
+            "text": "And Jehovah said unto Moses, Make thee a fiery serpent, and set it upon a standard: and it shall come to pass, that every one that is bitten, when he seeth it, shall live. ",
+            "version": "ASV",
+            "clsstr": "Num-21-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021009,
+            "text": "And Moses made a serpent of brass, and set it upon the standard: and it came to pass, that if a serpent had bitten any man, when he looked unto the serpent of brass, he lived.",
+            "version": "ASV",
+            "clsstr": "Num-21-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021010,
+            "text": "\u00b6 And the children of Israel journeyed, and encamped in Oboth. ",
+            "version": "ASV",
+            "clsstr": "Num-21-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021011,
+            "text": "And they journeyed from Oboth, and encamped at Iye-abarim, in the wilderness which is before Moab, toward the sunrising. ",
+            "version": "ASV",
+            "clsstr": "Num-21-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021012,
+            "text": "From thence they journeyed, and encamped in the valley of Zered. ",
+            "version": "ASV",
+            "clsstr": "Num-21-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021013,
+            "text": "From thence they journeyed, and encamped on the other side of the Arnon, which is in the wilderness, that cometh out of the border of the Amorites: for the Arnon is the border of Moab, between Moab and the Amorites. ",
+            "version": "ASV",
+            "clsstr": "Num-21-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021014,
+            "text": "Wherefore it is said in the book of the Wars of Jehovah,\u00b6   Vaheb <i>[h]</i>in Suphah,\n    And the valleys of the Arnon,\n    ",
+            "version": "ASV",
+            "clsstr": "Num-21-14",
+            "footnotes": [
+                {
+                    "h": "Or, <i>in storm</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021015,
+            "text": "    And the slope of the valleys\n    That inclineth toward the dwelling of Ar,\n    And leaneth upon the border of Moab.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-21-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021016,
+            "text": "\u00b6 And from thence to <i>[i]</i>Beer: that is the well whereof Jehovah said unto Moses, Gather the people together, and I will give them water.",
+            "version": "ASV",
+            "clsstr": "Num-21-16",
+            "footnotes": [
+                {
+                    "i": "That is, <i>A well</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021017,
+            "text": "\u00b6 Then sang Israel this song:\u00b6     Spring up, O well; sing ye unto it:\n    ",
+            "version": "ASV",
+            "clsstr": "Num-21-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021018,
+            "text": "  The well, which the princes digged,\n  Which the nobles of the people delved,\n   <i>[j]</i>With the sceptre,  with their staves.\n    \u00b6 And from the wilderness  to Mattanah; ",
+            "version": "ASV",
+            "clsstr": "Num-21-18",
+            "footnotes": [
+                {
+                    "j": "Or, <i>By</i> order of <i>the law-giver</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021019,
+            "text": "and from Mattanah to Nahaliel; and from Nahaliel to Bamoth; ",
+            "version": "ASV",
+            "clsstr": "Num-21-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021020,
+            "text": "and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looketh down upon <i>[k]</i>the desert.",
+            "version": "ASV",
+            "clsstr": "Num-21-20",
+            "footnotes": [
+                {
+                    "k": "Or, <i>Jeshimon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021021,
+            "text": "\u00b6 And Israel sent messengers unto Sihon king of the Amorites, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-21-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021022,
+            "text": "Let me pass through thy land: we will not turn aside into field, or into vineyard; we will not drink of the water of the wells: we will go by the king\u2019s highway, until we have passed thy border. ",
+            "version": "ASV",
+            "clsstr": "Num-21-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021023,
+            "text": "And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness, and came to Jahaz; and he fought against Israel. ",
+            "version": "ASV",
+            "clsstr": "Num-21-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021024,
+            "text": "And Israel smote him with the edge of the sword, and possessed his land from the Arnon unto the Jabbok, even unto the children of Ammon; for the border of the children of Ammon was strong. ",
+            "version": "ASV",
+            "clsstr": "Num-21-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021025,
+            "text": "And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the <i>[l]</i>towns thereof. ",
+            "version": "ASV",
+            "clsstr": "Num-21-25",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>daughters</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021026,
+            "text": "For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto the Arnon. ",
+            "version": "ASV",
+            "clsstr": "Num-21-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021027,
+            "text": "Wherefore they that speak in proverbs say,\u00b6     Come ye to Heshbon;\n    Let the city of Sihon be built and established:\n    ",
+            "version": "ASV",
+            "clsstr": "Num-21-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021028,
+            "text": "  For a fire is gone out of Heshbon,\n  A flame from the city of Sihon:\n  It hath devoured Ar of Moab,\n  The lords of <i>[m]</i>the high places of the Arnon.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-21-28",
+            "footnotes": [
+                {
+                    "m": "Or, <i>Bamoth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021029,
+            "text": "    Woe to thee, Moab!\n    Thou art undone, O people of Chemosh:\n    He hath given his sons as fugitives,\n    And his daughters into captivity,\n    Unto Sihon king of the Amorites.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-21-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021030,
+            "text": "    We have shot at them; Heshbon is perished even unto Dibon,\n    And we have laid waste even unto Nophah,\n    Which  unto Medeba.\n    ",
+            "version": "ASV",
+            "clsstr": "Num-21-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021031,
+            "text": "\u00b6 Thus Israel dwelt in the land of the Amorites. ",
+            "version": "ASV",
+            "clsstr": "Num-21-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021032,
+            "text": "And Moses sent to spy out Jazer; and they took the towns thereof, and drove out the Amorites that were there.",
+            "version": "ASV",
+            "clsstr": "Num-21-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021033,
+            "text": "\u00b6 And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he and all his people, to battle at Edrei. ",
+            "version": "ASV",
+            "clsstr": "Num-21-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021034,
+            "text": "And Jehovah said unto Moses, Fear him not: for I have delivered him into thy hand, and all his people, and his land; and thou shalt do to him as thou didst unto Sihon king of the Amorites, who dwelt at Heshbon. ",
+            "version": "ASV",
+            "clsstr": "Num-21-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4021035,
+            "text": "So they smote him, and his sons and all his people, until there was none left him remaining: and they possessed his land. ",
+            "version": "ASV",
+            "clsstr": "Num-21-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 21
+}

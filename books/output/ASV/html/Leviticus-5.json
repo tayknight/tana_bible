@@ -1,0 +1,187 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3005001,
+            "text": "\u00b6 And if any one sin, in that he heareth the voice of adjuration, he being a witness, whether he hath seen or known, if he do not utter , then he shall bear his iniquity. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005002,
+            "text": "Or if any one touch any unclean thing, whether it be the carcass of an unclean beast, or the carcass of unclean cattle, or the carcass of unclean creeping things, and it be hidden from him, and he be unclean, then he shall be guilty. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005003,
+            "text": "Or if he touch the uncleanness of man, whatsoever his uncleanness be wherewith he is unclean, and it be hid from him; when he knoweth of it, then he shall be guilty. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005004,
+            "text": "Or if any one swear rashly with his lips to do evil, or to do good, whatsoever it be that a man shall utter rashly with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these . ",
+            "version": "ASV",
+            "clsstr": "Lev-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005005,
+            "text": "And it shall be, when he shall be guilty in one of these , that he shall confess that wherein he hath sinned: ",
+            "version": "ASV",
+            "clsstr": "Lev-5-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005006,
+            "text": "and he shall bring <i>[a]</i>his trespass-offering unto Jehovah for his sin which he hath sinned, a female from the flock, a lamb or a goat, for a sin-offering; and the priest shall make atonement for him as concerning his sin.",
+            "version": "ASV",
+            "clsstr": "Lev-5-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for his guilt</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005007,
+            "text": "\u00b6 And if his means suffice not for a lamb, then he shall bring his trespass-offering for that wherein he hath sinned, two turtle-doves, or two young pigeons, unto Jehovah; one for a sin-offering, and the other for a burnt-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005008,
+            "text": "And he shall bring them unto the priest, who shall offer that which is for the sin-offering first, and <i>[b]</i>wring off its head from its neck, but shall not divide it asunder: ",
+            "version": "ASV",
+            "clsstr": "Lev-5-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>pinch</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005009,
+            "text": "and he shall sprinkle of the blood of the sin-offering upon the side of the altar; and the rest of the blood shall be drained out at the base of the altar: it is a sin-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005010,
+            "text": "And he shall <i>[c]</i>offer the second for a burnt-offering, according to the ordinance; and the priest shall make atonement for him as concerning his sin which he hath sinned, and he shall be forgiven.",
+            "version": "ASV",
+            "clsstr": "Lev-5-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>prepare</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005011,
+            "text": "\u00b6 But if his means suffice not for two turtle-doves, or two young pigeons, then he shall bring his oblation for that wherein he hath sinned, the tenth part of an ephah of fine flour for a sin-offering: he shall put no oil upon it, neither shall he put any frankincense thereon; for it is a sin-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005012,
+            "text": "And he shall bring it to the priest, and the priest shall take his handful of it as the memorial thereof, and burn it on the altar, <i>[d]</i>upon the offerings of Jehovah made by fire: it is a sin-offering. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>after the manner of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005013,
+            "text": "And the priest shall make atonement for him as touching his sin that he hath sinned in any of these things, and he shall be forgiven: and  shall be the priest\u2019s, as the meal-offering.",
+            "version": "ASV",
+            "clsstr": "Lev-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005014,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005015,
+            "text": "If any one commit a trespass, and sin unwittingly, in the holy things of Jehovah; then he shall bring his trespass-offering unto Jehovah, a ram without blemish out of the flock, according to thy estimation in silver by shekels, after the shekel of the sanctuary, for a trespass-offering: ",
+            "version": "ASV",
+            "clsstr": "Lev-5-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005016,
+            "text": "and he shall make restitution for that which he hath done amiss in the holy thing, and shall add the fifth part thereto, and give it unto the priest; and the priest shall make atonement for him with the ram of the trespass-offering, and he shall be forgiven.",
+            "version": "ASV",
+            "clsstr": "Lev-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005017,
+            "text": "\u00b6 And if any one sin, and do any of the things which Jehovah hath commanded not to be done; though he knew it not, yet is he guilty, and shall bear his iniquity. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005018,
+            "text": "And he shall bring a ram without blemish out of the flock, according to thy estimation, for a trespass-offering, unto the priest; and the priest shall make atonement for him concerning the thing wherein he erred unwittingly and knew it not, and he shall be forgiven. ",
+            "version": "ASV",
+            "clsstr": "Lev-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3005019,
+            "text": "It is a trespass-offering: he is certainly guilty before Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 5
+}

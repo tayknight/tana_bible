@@ -1,0 +1,210 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4019001,
+            "text": "\u00b6 And Jehovah spake unto Moses and unto Aaron, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019002,
+            "text": "This is the statute of the law which Jehovah hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer <i>[a]</i>without spot, wherein is no blemish,  upon which never came yoke. ",
+            "version": "ASV",
+            "clsstr": "Num-19-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>perfect</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019003,
+            "text": "And ye shall give her unto Eleazar the priest, and he shall bring her forth without the camp, and one shall slay her before his face: ",
+            "version": "ASV",
+            "clsstr": "Num-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019004,
+            "text": "and Eleazar the priest shall take of her blood with his finger, and sprinkle her blood toward the front of the tent of meeting seven times. ",
+            "version": "ASV",
+            "clsstr": "Num-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019005,
+            "text": "And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn: ",
+            "version": "ASV",
+            "clsstr": "Num-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019006,
+            "text": "and the priest shall take cedar-wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer. ",
+            "version": "ASV",
+            "clsstr": "Num-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019007,
+            "text": "Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even. ",
+            "version": "ASV",
+            "clsstr": "Num-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019008,
+            "text": "And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even. ",
+            "version": "ASV",
+            "clsstr": "Num-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019009,
+            "text": "And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place; and it shall be kept for the congregation of the children of Israel for a water for impurity: it is a sin-offering. ",
+            "version": "ASV",
+            "clsstr": "Num-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019010,
+            "text": "And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.",
+            "version": "ASV",
+            "clsstr": "Num-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019011,
+            "text": "\u00b6 He that toucheth the dead body of any man shall be unclean seven days: ",
+            "version": "ASV",
+            "clsstr": "Num-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019012,
+            "text": "the same shall purify himself therewith on the third day, <i>[b]</i>and on the seventh day he shall be clean: but if he purify not himself the third day, <i>[c]</i>then the seventh day he shall not be clean. ",
+            "version": "ASV",
+            "clsstr": "Num-19-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>and on the seventh day</i>, so <i>shall he be clean</i>"
+                },
+                {
+                    "c": "Or, <i>and</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019013,
+            "text": "Whosoever toucheth a dead person, the body of a man that hath died, and purifieth not himself, defileth the tabernacle of Jehovah; and that soul shall be cut off from Israel: because the water for impurity was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him.",
+            "version": "ASV",
+            "clsstr": "Num-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019014,
+            "text": "\u00b6 This is the law when a man dieth in a tent: every one that cometh into the tent, and every one that is in the tent, shall be unclean seven days. ",
+            "version": "ASV",
+            "clsstr": "Num-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019015,
+            "text": "And every open vessel, which hath no covering bound upon it, is unclean. ",
+            "version": "ASV",
+            "clsstr": "Num-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019016,
+            "text": "And whosoever in the open field toucheth one that is slain with a sword, or a dead body, or a bone of a man, or a grave, shall be unclean seven days. ",
+            "version": "ASV",
+            "clsstr": "Num-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019017,
+            "text": "And for the unclean they shall take of the ashes of the burning of the sin-offering; and <i>[d]</i>running water shall be put thereto in a vessel: ",
+            "version": "ASV",
+            "clsstr": "Num-19-17",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>living</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019018,
+            "text": "and a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched the bone, or the slain, or the dead, or the grave: ",
+            "version": "ASV",
+            "clsstr": "Num-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019019,
+            "text": "and the clean person shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify him; and he shall wash his clothes, and bathe himself in water, and shall be clean at even.",
+            "version": "ASV",
+            "clsstr": "Num-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019020,
+            "text": "\u00b6 But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from the midst of the assembly, because he hath defiled the sanctuary of Jehovah: the water for impurity hath not been sprinkled upon him; he is unclean. ",
+            "version": "ASV",
+            "clsstr": "Num-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019021,
+            "text": "And it shall be a perpetual statute unto them: and he that sprinkleth the water for impurity shall wash his clothes, and he that toucheth the water for impurity shall be unclean until even. ",
+            "version": "ASV",
+            "clsstr": "Num-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4019022,
+            "text": "And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even.",
+            "version": "ASV",
+            "clsstr": "Num-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 19
+}

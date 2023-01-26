@@ -1,0 +1,432 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42018001,
+            "text": "\u00b6 And he spake a parable unto them to the end that they ought always to pray, and not to faint; ",
+            "version": "ASV",
+            "clsstr": "Luke-18-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018002,
+            "text": "saying, There was in a city a judge, who feared not God, and regarded not man: ",
+            "version": "ASV",
+            "clsstr": "Luke-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018003,
+            "text": "and there was a widow in that city; and she came oft unto him, saying, <i>[a]</i>Avenge me of mine adversary. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Do me justice of</i>: and so in verses [[5]], [[7]], [[8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018004,
+            "text": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; ",
+            "version": "ASV",
+            "clsstr": "Luke-18-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018005,
+            "text": "yet because this widow troubleth me, I will avenge her, <i>[b]</i>lest she <i>[c]</i>wear me out by her continual coming. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>lest at last by her coming she wear me out</i>"
+                },
+                {
+                    "c": "Greek <i>bruise</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018006,
+            "text": "And the Lord said, Hear what <i>[d]</i>the unrighteous judge saith. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-6",
+            "footnotes": [
+                {
+                    "d": "Greek <i>the judge of unrighteousness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018007,
+            "text": "And shall not God avenge his elect, that cry to him day and night, <i>[e]</i>and  he is longsuffering over them? ",
+            "version": "ASV",
+            "clsstr": "Luke-18-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>and is he slow to punish on their behalf?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018008,
+            "text": "I say unto you, that he will avenge them speedily. Nevertheless, when the Son of man cometh, shall he find <i>[f]</i>faith on the earth?",
+            "version": "ASV",
+            "clsstr": "Luke-18-8",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the faith</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018009,
+            "text": "\u00b6 And he spake also this parable unto certain who trusted in themselves that they were righteous, and set <i>[g]</i>all others at nought: ",
+            "version": "ASV",
+            "clsstr": "Luke-18-9",
+            "footnotes": [
+                {
+                    "g": "Greek <i>the rest</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018010,
+            "text": "Two men went up into the temple to pray; the one a Pharisee, and the other a <i>[h]</i>publican. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-10",
+            "footnotes": [
+                {
+                    "h": "See marginal note on [[3:12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018011,
+            "text": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as the rest of men, extortioners, unjust, adulterers, or even as this <i>[i]</i>publican. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-11",
+            "footnotes": [
+                {
+                    "i": "See marginal note on [[3:12]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018012,
+            "text": "I fast twice in the week; I give tithes of all that I get. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018013,
+            "text": "But the <i>[j]</i>publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote his breast, saying, God, <i>[k]</i>be thou merciful to me <i>[l]</i>a sinner. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-13",
+            "footnotes": [
+                {
+                    "j": "See marginal note on [[3:12]]."
+                },
+                {
+                    "k": "Or, <i>be thou propitiated</i>"
+                },
+                {
+                    "l": "Or, <i>the sinner</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018014,
+            "text": "I say unto you, This man went down to his house justified rather than the other: for every one that exalteth himself shall be humbled; but he that humbleth himself shall be exalted.",
+            "version": "ASV",
+            "clsstr": "Luke-18-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018015,
+            "text": "\u00b6 And they were bringing unto him also their babes, that he should touch them: but when the disciples saw it, they rebuked them. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018016,
+            "text": "But Jesus called them unto him, saying, Suffer the little children to come unto me, and forbid them not: for <i>[m]</i>to such belongeth the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-16",
+            "footnotes": [
+                {
+                    "m": "Or, <i>of such is</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018017,
+            "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall in no wise enter therein.",
+            "version": "ASV",
+            "clsstr": "Luke-18-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018018,
+            "text": "\u00b6 And a certain ruler asked him, saying, Good Teacher, what shall I do to inherit eternal life? ",
+            "version": "ASV",
+            "clsstr": "Luke-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018019,
+            "text": "And Jesus said unto him, Why callest thou me good? none is good, save one,  God. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018020,
+            "text": "Thou knowest the commandments, <i>[n]</i>Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honor thy father and mother. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-20",
+            "footnotes": [
+                {
+                    "n": "[[Ex. 20:12\u201316]]; [[Dt. 5:16\u201320]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018021,
+            "text": "And he said, All these things have I observed from my youth up. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018022,
+            "text": "And when Jesus heard it, he said unto him, One thing thou lackest yet: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018023,
+            "text": "But when he heard these things, he became exceeding sorrowful; for he was very rich. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018024,
+            "text": "And Jesus seeing him said, How hardly shall they that have riches enter into the kingdom of God! ",
+            "version": "ASV",
+            "clsstr": "Luke-18-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018025,
+            "text": "For it is easier for a camel to enter in through a needle\u2019s eye, than for a rich man to enter into the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018026,
+            "text": "And they that heard it said, Then who can be saved? ",
+            "version": "ASV",
+            "clsstr": "Luke-18-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018027,
+            "text": "But he said, The things which are impossible with men are possible with God. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018028,
+            "text": "And Peter said, Lo, we have left <i>[o]</i>our own, and followed thee. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-28",
+            "footnotes": [
+                {
+                    "o": "Or, <i>our own</i> homes. See [[Jn. 19:27]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018029,
+            "text": "And he said unto them, Verily I say unto you, There is no man that hath left house, or wife, or brethren, or parents, or children, for the kingdom of God\u2019s sake, ",
+            "version": "ASV",
+            "clsstr": "Luke-18-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018030,
+            "text": "who shall not receive manifold more in this time, and in the <i>[p]</i>world to come eternal life.",
+            "version": "ASV",
+            "clsstr": "Luke-18-30",
+            "footnotes": [
+                {
+                    "p": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018031,
+            "text": "\u00b6 And he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all the things that are written through the prophets shall be accomplished unto the Son of man. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018032,
+            "text": "For he shall be <i>[q]</i>delivered up unto the Gentiles, and shall be mocked, and shamefully treated, and spit upon: ",
+            "version": "ASV",
+            "clsstr": "Luke-18-32",
+            "footnotes": [
+                {
+                    "q": "Or, <i>betrayed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018033,
+            "text": "and they shall scourge and kill him: and the third day he shall rise again. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018034,
+            "text": "And they understood none of these things; and this saying was hid from them, and they perceived not the things that were said.",
+            "version": "ASV",
+            "clsstr": "Luke-18-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018035,
+            "text": "\u00b6 And it came to pass, as he drew nigh unto Jericho, a certain blind man sat by the way side begging: ",
+            "version": "ASV",
+            "clsstr": "Luke-18-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018036,
+            "text": "and hearing a multitude going by, he inquired what this meant. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018037,
+            "text": "And they told him, that Jesus of Nazareth passeth by. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018038,
+            "text": "And he cried, saying, Jesus, thou son of David, have mercy on me. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018039,
+            "text": "And they that went before rebuked him, that he should hold his peace: but he cried out the more a great deal, Thou son of David, have mercy on me. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018040,
+            "text": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him, ",
+            "version": "ASV",
+            "clsstr": "Luke-18-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018041,
+            "text": "What wilt thou that I should do unto thee? And he said, Lord, that I may receive my sight. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018042,
+            "text": "And Jesus said unto him, Receive thy sight: thy faith hath <i>[r]</i>made thee whole. ",
+            "version": "ASV",
+            "clsstr": "Luke-18-42",
+            "footnotes": [
+                {
+                    "r": "Or, <i>saved thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42018043,
+            "text": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.",
+            "version": "ASV",
+            "clsstr": "Luke-18-43",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 18
+}

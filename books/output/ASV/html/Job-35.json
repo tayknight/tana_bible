@@ -1,0 +1,159 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18035001,
+            "text": "\u00b6 Moreover Elihu answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-35-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035002,
+            "text": "\u00b6     Thinkest thou this to be  right,\n     sayest thou, My righteousness is more than God\u2019s,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035003,
+            "text": "    That thou sayest, What advantage will it be unto thee?\n    , What profit shall I have, more than if I had sinned?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035004,
+            "text": "    I will answer thee,\n    And thy companions with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035005,
+            "text": "    Look unto the heavens, and see;\n    And behold the skies, which are higher than thou.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035006,
+            "text": "    If thou hast sinned, what effectest thou against him?\n    And if thy transgressions be multiplied, what doest thou unto him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035007,
+            "text": "    If thou be righteous, what givest thou him?\n    Or what receiveth he of thy hand?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035008,
+            "text": "    Thy wickedness  a man as thou art;\n    And thy righteousness  a son of man.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035009,
+            "text": "\u00b6     By reason of the multitude of oppressions they cry out;\n    They cry for help by reason of the arm of the mighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035010,
+            "text": "    But none saith, Where is God my Maker,\n    Who giveth songs in the night,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035011,
+            "text": "    Who teacheth us more than the beasts of the earth,\n    And maketh us wiser than the birds of the heavens?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035012,
+            "text": "  There they cry, <i>[a]</i>but none giveth answer,\n    Because of the pride of evil men.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-12",
+            "footnotes": [
+                {
+                    "a": "Or, <i>but he answereth not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035013,
+            "text": "    Surely God will not hear an empty ,\n    Neither will the Almighty regard it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035014,
+            "text": "  How much less when thou sayest <i>[b]</i>thou beholdest him not,\n    The cause is before him, and thou waitest for him!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-14",
+            "footnotes": [
+                {
+                    "b": "Or, <i>thou beholdest him not! The cause is before him; therefore wait thou for him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035015,
+            "text": "  But now, because he hath not visited in his anger,\n   <i>[c]</i>Neither doth he greatly regard arrogance;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-15",
+            "footnotes": [
+                {
+                    "c": "Or, Thou sayest, <i>He doth not greatly regard arrogance. Thus doth etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18035016,
+            "text": "    Therefore doth Job open his mouth in vanity;\n    He multiplieth words without knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-35-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 35
+}

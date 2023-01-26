@@ -1,0 +1,115 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14019001,
+            "text": "\u00b6 And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019002,
+            "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the wicked, and love them that hate Jehovah? for this thing wrath is upon thee from before Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019003,
+            "text": "Nevertheless there are good things found in thee, in that thou hast put away the Asheroth out of the land, and hast set thy heart to seek God.",
+            "version": "ASV",
+            "clsstr": "2Chr-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019004,
+            "text": "\u00b6 And Jehoshaphat dwelt at Jerusalem: and he went out again among the people from Beer-sheba to the hill-country of Ephraim, and brought them back unto Jehovah, the God of their fathers. ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019005,
+            "text": "And he set judges in the land throughout all the fortified cities of Judah, city by city, ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019006,
+            "text": "and said to the judges, Consider what ye do: for ye judge not for man, but for Jehovah; and with you <i>[a]</i>in the judgment. ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>in giving judgment</i>. Hebrew <i>in the matter of judgment</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019007,
+            "text": "Now therefore let the fear of Jehovah be upon you; take heed and do it: for there is no iniquity with Jehovah our God, nor respect of persons, nor taking of bribes.",
+            "version": "ASV",
+            "clsstr": "2Chr-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019008,
+            "text": "\u00b6 Moreover in Jerusalem did Jehoshaphat set of the Levites and the priests, and of the heads of the fathers\u2019  of Israel, for the judgment of Jehovah, and for controversies. And they returned to Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019009,
+            "text": "And he charged them, saying, Thus shall ye do in the fear of Jehovah, faithfully, and with a perfect heart. ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019010,
+            "text": "And whensoever any controversy shall come to you from your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, ye shall warn them, that they be not guilty towards Jehovah, and so wrath come upon you and upon your brethren: this do, and ye shall not be guilty. ",
+            "version": "ASV",
+            "clsstr": "2Chr-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14019011,
+            "text": "And, behold, Amariah the chief priest is over you in all matters of Jehovah; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king\u2019s matters: also the Levites shall be officers before you. <i>[b]</i>Deal courageously, and Jehovah be with the good.",
+            "version": "ASV",
+            "clsstr": "2Chr-19-11",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Be strong and do</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 19
+}

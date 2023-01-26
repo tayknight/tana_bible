@@ -1,0 +1,207 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11019001,
+            "text": "\u00b6 And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019002,
+            "text": "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to-morrow about this time. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019003,
+            "text": "And when he saw that, he arose, and went for his life, and came to Beer-sheba, which belongeth to Judah, and left his servant there. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019004,
+            "text": "But he himself went a day\u2019s journey into the wilderness, and came and sat down under a <i>[a]</i>juniper-tree: and he requested for himself that he might die, and said, It is enough; now, O Jehovah, take away my life; for I am not better than my fathers. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>broom-tree</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019005,
+            "text": "And he lay down and slept under a juniper-tree; and, behold, an angel touched him, and said unto him, Arise and eat. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019006,
+            "text": "And he looked, and, behold, there was at his head a cake baken on the <i>[b]</i>coals, and a cruse of water. And he did eat and drink, and laid him down again. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>hot stones</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019007,
+            "text": "And the angel of Jehovah came again the second time, and touched him, and said, Arise and eat, because the journey is too great for thee. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019008,
+            "text": "And he arose, and did eat and drink, and went in the strength of that food forty days and forty nights unto Horeb the mount of God.",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019009,
+            "text": "\u00b6 And he came thither unto a cave, and lodged there; and, behold, the word of Jehovah came to him, and he said unto him, What doest thou here, Elijah? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019010,
+            "text": "And he said, I have been very jealous for Jehovah, the God of hosts; for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword: and I, even I only, am left; and they seek my life, to take it away. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019011,
+            "text": "And he said, Go forth, and stand upon the mount before Jehovah. And, behold, Jehovah passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before Jehovah; but Jehovah was not in the wind: and after the wind an earthquake; but Jehovah was not in the earthquake: ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019012,
+            "text": "and after the earthquake a fire; but Jehovah was not in the fire: and after the fire <i>[c]</i>a still small voice. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-12",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>a sound of gentle stillness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019013,
+            "text": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And, behold, there came a voice unto him, and said, What doest thou here, Elijah? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019014,
+            "text": "And he said, I have been very jealous for Jehovah, the God of hosts; for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019015,
+            "text": "\u00b6 And Jehovah said unto him, Go, return on thy way <i>[d]</i>to the wilderness of Damascus: and when thou comest, thou shalt anoint Hazael to be king over Syria; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>by the wilderness to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019016,
+            "text": "and Jehu the son of Nimshi shalt thou anoint to be king over Israel; and Elisha the son of Shaphat of Abel-meholah shalt thou anoint to be prophet in thy room. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019017,
+            "text": "And it shall come to pass, that him that escapeth from the sword of Hazael shall Jehu slay; and him that escapeth from the sword of Jehu shall Elisha slay. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019018,
+            "text": "Yet will I leave  seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019019,
+            "text": "\u00b6 So he departed thence, and found Elisha the son of Shaphat, who was plowing, with twelve yoke  before him, and he with the twelfth: and Elijah passed over unto him, and cast his mantle upon him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019020,
+            "text": "And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said unto him, Go back again; for what have I done to thee? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11019021,
+            "text": "And he returned from following him, and took the yoke of oxen, and slew them, and <i>[e]</i>boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.",
+            "version": "ASV",
+            "clsstr": "1Kgs-19-21",
+            "footnotes": [
+                {
+                    "e": "Or, <i>roasted</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 19
+}

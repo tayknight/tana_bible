@@ -1,0 +1,362 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20014001,
+            "text": "\u00b6   Every wise woman buildeth her house;\n  But <i>[a]</i>the foolish plucketh it down with her own hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>folly</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014002,
+            "text": "    He that walketh in his uprightness feareth Jehovah;\n    But he that is perverse in his ways despiseth him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014003,
+            "text": "    In the mouth of the foolish is a rod for  pride;\n    But the lips of the wise shall preserve them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014004,
+            "text": "    Where no oxen are, the crib is clean;\n    But much increase is by the strength of the ox.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014005,
+            "text": "  A faithful witness will not lie;\n  But a false witness <i>[b]</i>uttereth lies.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>breatheth out</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014006,
+            "text": "    A scoffer seeketh wisdom, and  not;\n    But knowledge is easy unto him that hath understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014007,
+            "text": "   <i>[c]</i>Go into the presence of a foolish man,\n    And thou shalt not perceive  the lips of knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Go from\u00a0.\u00a0.\u00a0. For thou wilt not etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014008,
+            "text": "    The wisdom of the prudent is to understand his way;\n    But the folly of fools is deceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014009,
+            "text": "  <i>[d]</i>A trespass-offering mocketh fools;\n  But among the upright there is <i>[e]</i>good will.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Fools make a mock at sin</i>"
+                },
+                {
+                    "e": "Or, <i>the favor</i> of God"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014010,
+            "text": "    The heart knoweth its own bitterness;\n    And a stranger doth not intermeddle with its joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014011,
+            "text": "    The house of the wicked shall be overthrown;\n    But the tent of the upright shall flourish.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014012,
+            "text": "  There is a way which <i>[f]</i>seemeth right unto a man;\n    But the end thereof are the ways of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>is straight before</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014013,
+            "text": "    Even in laughter the heart is sorrowful;\n    And the end of mirth is heaviness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014014,
+            "text": "    The backslider in heart shall be filled with his own ways;\n    And a good man  from himself.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014015,
+            "text": "    The simple believeth every word;\n    But the prudent man looketh well to his going.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014016,
+            "text": "    A wise man feareth, and departeth from evil;\n    But the fool beareth himself insolently, and is confident.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014017,
+            "text": "    He that is soon angry will deal foolishly;\n    And a man of wicked devices is hated.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014018,
+            "text": "    The simple inherit folly;\n    But the prudent are crowned with knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014019,
+            "text": "    The evil bow down before the good;\n    And the wicked, at the gates of the righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014020,
+            "text": "    The poor is hated even of his own neighbor;\n    But the rich hath many friends.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014021,
+            "text": "    He that despiseth his neighbor sinneth;\n    But he that hath pity on the poor, happy is he.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014022,
+            "text": "   <i>[g]</i>Do they not err that devise evil?\n    But mercy and truth  them that devise good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-22",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Shall they not go astray</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014023,
+            "text": "    In all labor there is profit;\n    But the talk of the lips  only to penury.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014024,
+            "text": "   <i>[h]</i>The crown of the wise is their riches;\n     the folly of fools is  folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-24",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Their riches is a crown unto the wise</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014025,
+            "text": "  A true witness delivereth souls;\n  But he that <i>[i]</i>uttereth lies  deceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-25",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>breatheth out</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014026,
+            "text": "  In the fear of Jehovah is strong confidence;\n  And <i>[j]</i>his children shall have a place of refuge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-26",
+            "footnotes": [
+                {
+                    "j": "Or, <i>the children of him</i> that hath it"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014027,
+            "text": "    The fear of Jehovah is a fountain of life,\n    That one may depart from the snares of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014028,
+            "text": "    In the multitude of people is the king\u2019s glory;\n    But in the want of people is the destruction of the prince.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014029,
+            "text": "  He that is slow to anger is of great understanding;\n  But he that is hasty of spirit <i>[k]</i>exalteth folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-29",
+            "footnotes": [
+                {
+                    "k": "Or, <i>carrieth away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014030,
+            "text": "  A tranquil heart is the life of the flesh;\n  But <i>[l]</i>envy is the rottenness of the bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-30",
+            "footnotes": [
+                {
+                    "l": "Or, <i>jealousy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014031,
+            "text": "    He that oppresseth the poor reproacheth his Maker;\n    But he that hath mercy on the needy honoreth him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014032,
+            "text": "  The wicked is thrust down in his <i>[m]</i>evil-doing;\n    But the righteous hath a refuge in his death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-32",
+            "footnotes": [
+                {
+                    "m": "Or, <i>calamity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014033,
+            "text": "  Wisdom resteth in the heart of him that hath understanding;\n   <i>[n]</i>But  in the inward part of fools is made known.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-33",
+            "footnotes": [
+                {
+                    "n": "Or, <i>And in the midst of fools it maketh itself known</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014034,
+            "text": "  Righteousness exalteth a nation;\n  But sin is a reproach to <i>[o]</i>any people.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-34",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>peoples</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20014035,
+            "text": "  The king\u2019s favor is toward a servant that dealeth wisely;\n  But his wrath will be him that <i>[p]</i>causeth shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-14-35",
+            "footnotes": [
+                {
+                    "p": "Or, <i>doeth shamefully</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 14
+}

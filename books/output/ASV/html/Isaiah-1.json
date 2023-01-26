@@ -1,0 +1,337 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23001001,
+            "text": "\u00b6 The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.",
+            "version": "ASV",
+            "clsstr": "Isa-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001002,
+            "text": "\u00b6 Hear, O heavens, and give ear, O earth; for Jehovah hath spoken: I have <i>[a]</i>nourished and brought up children, and they have rebelled against me. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>made great and exalted</i>. See [[Ezek. 31:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001003,
+            "text": "The ox knoweth his owner, and the ass his master\u2019s crib;  Israel doth not know, my people doth not consider. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001004,
+            "text": "Ah sinful nation, a people laden with iniquity, a seed of evil-doers, children that deal corruptly! they have forsaken Jehovah, they have despised the Holy One of Israel, they are estranged  backward. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001005,
+            "text": " <i>[b]</i>Why will ye be still stricken, that ye revolt more and more? <i>[c]</i>the whole head is sick, and <i>[d]</i>the whole heart faint. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Why should ye be stricken any more? ye will revolt etc.</i>"
+                },
+                {
+                    "c": "Or, <i>every</i>"
+                },
+                {
+                    "d": "Or, <i>every</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001006,
+            "text": "From the sole of the foot even unto the head there is no soundness in it;  wounds, and bruises, and fresh stripes: they have not been closed, neither bound up, neither mollified with oil. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001007,
+            "text": "Your country is desolate; your cities are burned with fire; your land, strangers devour it in your presence, and it is desolate, <i>[e]</i>as overthrown by strangers. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>as the overthrow of strangers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001008,
+            "text": "And the daughter of Zion is left as a booth in a vineyard, as a lodge in a garden of cucumbers, as a besieged city. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001009,
+            "text": "Except Jehovah of hosts had left unto us a very small remnant, we should have been as Sodom, we should have been like unto Gomorrah.",
+            "version": "ASV",
+            "clsstr": "Isa-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001010,
+            "text": "\u00b6 Hear the word of Jehovah, ye <i>[f]</i>rulers of Sodom; give ear unto the <i>[g]</i>law of our God, ye people of Gomorrah. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-10",
+            "footnotes": [
+                {
+                    "f": "Or, <i>judges</i>"
+                },
+                {
+                    "g": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001011,
+            "text": "What unto me is the multitude of your sacrifices? saith Jehovah: I have had enough of the burnt-offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he-goats. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001012,
+            "text": "When ye come <i>[h]</i>to appear before me, who hath required this at your hand, to trample my courts? ",
+            "version": "ASV",
+            "clsstr": "Isa-1-12",
+            "footnotes": [
+                {
+                    "h": "Or, as otherwise read, <i>to see my face</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001013,
+            "text": "Bring no more <i>[i]</i>vain oblations; incense is an abomination unto me; new moon and sabbath, the calling of assemblies,\u2014 <i>[j]</i>I cannot away with iniquity and the solemn meeting. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-13",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>an oblation of vanity</i>."
+                },
+                {
+                    "j": "Or, <i>I cannot away with; it is iniquity, even the solemn meeting</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001014,
+            "text": "Your new moons and your appointed feasts my soul hateth; they are a <i>[k]</i>trouble unto me; I am weary of bearing them. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-14",
+            "footnotes": [
+                {
+                    "k": "Or, <i>cumbrance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001015,
+            "text": "And when ye spread forth your hands, I will hide mine eyes from you; yea, when ye make many prayers, I will not hear: your hands are full of blood. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001016,
+            "text": "Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil; ",
+            "version": "ASV",
+            "clsstr": "Isa-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001017,
+            "text": "learn to do well; seek justice, <i>[l]</i>relieve the oppressed, judge the fatherless, plead for the widow.",
+            "version": "ASV",
+            "clsstr": "Isa-1-17",
+            "footnotes": [
+                {
+                    "l": "Or, <i>set right the oppressor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001018,
+            "text": "\u00b6 Come now, and let us reason together, saith Jehovah: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001019,
+            "text": "If ye be willing and obedient, ye shall eat the good of the land: ",
+            "version": "ASV",
+            "clsstr": "Isa-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001020,
+            "text": "but if ye refuse and rebel, ye shall be devoured with the sword; for the mouth of Jehovah hath spoken it.",
+            "version": "ASV",
+            "clsstr": "Isa-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001021,
+            "text": "\u00b6 How is the faithful city become a harlot! she that was full of justice! righteousness lodged in her, but now murderers. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001022,
+            "text": "Thy silver is become dross, thy wine mixed with water. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001023,
+            "text": "Thy princes are rebellious, and companions of thieves; every one loveth bribes, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them.",
+            "version": "ASV",
+            "clsstr": "Isa-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001024,
+            "text": "\u00b6 Therefore saith the Lord, Jehovah of hosts, the Mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies; ",
+            "version": "ASV",
+            "clsstr": "Isa-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001025,
+            "text": "and I will <i>[m]</i>turn my hand upon thee, and <i>[n]</i>thoroughly purge away thy dross, and will take away all thy <i>[o]</i>tin; ",
+            "version": "ASV",
+            "clsstr": "Isa-1-25",
+            "footnotes": [
+                {
+                    "m": "Or, <i>bring my hand again</i>"
+                },
+                {
+                    "n": "Hebrew <i>as with lye</i>."
+                },
+                {
+                    "o": "Or, <i>alloy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001026,
+            "text": "and I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called The city of righteousness, a faithful town. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001027,
+            "text": "Zion shall be redeemed with justice, and <i>[p]</i>her converts with righteousness. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-27",
+            "footnotes": [
+                {
+                    "p": "Or, <i>they that return of her</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001028,
+            "text": "But the <i>[q]</i>destruction of transgressors and sinners shall be together, and they that forsake Jehovah shall be consumed. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-28",
+            "footnotes": [
+                {
+                    "q": "Hebrew <i>breaking</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001029,
+            "text": "For they shall be ashamed of the <i>[r]</i>oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-29",
+            "footnotes": [
+                {
+                    "r": "Or, <i>terebinths</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001030,
+            "text": "For ye shall be as <i>[s]</i>an oak whose leaf fadeth, and as a garden that hath no water. ",
+            "version": "ASV",
+            "clsstr": "Isa-1-30",
+            "footnotes": [
+                {
+                    "s": "Or, <i>a terebinth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23001031,
+            "text": "And the strong shall be as tow, and his work as a spark; and they shall both burn together, and none shall quench them.",
+            "version": "ASV",
+            "clsstr": "Isa-1-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 1
+}

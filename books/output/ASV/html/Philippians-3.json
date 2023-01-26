@@ -1,0 +1,222 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 50,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 50,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 50003001,
+            "text": "\u00b6 Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not irksome, but for you it is safe. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003002,
+            "text": "Beware of the dogs, beware of the evil workers, beware of the concision: ",
+            "version": "ASV",
+            "clsstr": "Phil-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003003,
+            "text": "for we are the circumcision, who worship by the Spirit of God, and glory in Christ Jesus, and have no confidence in the flesh: ",
+            "version": "ASV",
+            "clsstr": "Phil-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003004,
+            "text": "though I myself might have confidence even in the flesh: if any other man <i>[a]</i>thinketh to have confidence in the flesh, I yet more: ",
+            "version": "ASV",
+            "clsstr": "Phil-3-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>seemeth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003005,
+            "text": "circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as touching the law, a Pharisee; ",
+            "version": "ASV",
+            "clsstr": "Phil-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003006,
+            "text": "as touching zeal, persecuting the church; as touching the righteousness which is in the law, found blameless. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003007,
+            "text": "Howbeit what things were <i>[b]</i>gain to me, these have I counted loss for Christ. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-7",
+            "footnotes": [
+                {
+                    "b": "Greek <i>gains</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003008,
+            "text": "Yea verily, and I count all things to be loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I suffered the loss of all things, and do count them but refuse, that I may gain Christ, ",
+            "version": "ASV",
+            "clsstr": "Phil-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003009,
+            "text": "and be found in him, <i>[c]</i>not having a righteousness of mine own, that which is of the law, but that which is through faith in Christ, the righteousness which is from God <i>[d]</i>by faith: ",
+            "version": "ASV",
+            "clsstr": "Phil-3-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>not having</i> as <i>my righteousness that which is of the law</i>"
+                },
+                {
+                    "d": "Greek <i>upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003010,
+            "text": "that I may know him, and the power of his resurrection, and the fellowship of his sufferings, becoming conformed unto his death; ",
+            "version": "ASV",
+            "clsstr": "Phil-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003011,
+            "text": "if by any means I may attain unto the resurrection from the dead. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003012,
+            "text": "Not that I have already obtained, or am already made perfect: but I press on, if so be that I may <i>[e]</i>lay hold on that for which also I was laid hold on by Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>lay hold, seeing that also I was laid hold on</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003013,
+            "text": "Brethren, I count not myself <i>[f]</i>yet to have laid hold: but one thing , forgetting the things which are behind, and stretching forward to the things which are before, ",
+            "version": "ASV",
+            "clsstr": "Phil-3-13",
+            "footnotes": [
+                {
+                    "f": "Many ancient authorities omit <i>yet</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003014,
+            "text": "I press on toward the goal unto the prize of the <i>[g]</i>high calling of God in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>upward</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003015,
+            "text": "Let us therefore, as many as are <i>[h]</i>perfect, be thus minded: and if in anything ye are otherwise minded, this also shall God reveal unto you: ",
+            "version": "ASV",
+            "clsstr": "Phil-3-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>full-grown</i>. [[1 Cor. 2:6]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003016,
+            "text": "only, whereunto we have attained, by that same  let us walk.",
+            "version": "ASV",
+            "clsstr": "Phil-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003017,
+            "text": "\u00b6 Brethren, be ye imitators together of me, and mark them that so walk even as ye have us for an ensample. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003018,
+            "text": "For many walk, of whom I told you often, and now tell you even weeping,  the enemies of the cross of Christ: ",
+            "version": "ASV",
+            "clsstr": "Phil-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003019,
+            "text": "whose end is perdition, whose god is the belly, and  glory is in their shame, who mind earthly things. ",
+            "version": "ASV",
+            "clsstr": "Phil-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003020,
+            "text": "For our <i>[i]</i>citizenship is in heaven; whence also we wait for a Saviour, the Lord Jesus Christ: ",
+            "version": "ASV",
+            "clsstr": "Phil-3-20",
+            "footnotes": [
+                {
+                    "i": "Or, <i>commonwealth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50003021,
+            "text": "who shall fashion anew the body of our humiliation,  conformed to the body of his glory, according to the working whereby he is able even to subject all things unto himself.",
+            "version": "ASV",
+            "clsstr": "Phil-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Philippians",
+    "chapters": 3
+}

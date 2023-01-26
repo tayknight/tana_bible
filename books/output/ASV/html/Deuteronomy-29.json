@@ -1,0 +1,270 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5029001,
+            "text": "\u00b6 These are the words of the covenant which Jehovah commanded Moses to make with the children of Israel in the land of Moab, besides the covenant which he made with them in Horeb.",
+            "version": "ASV",
+            "clsstr": "Deut-29-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029002,
+            "text": "\u00b6 And Moses called unto all Israel, and said unto them, Ye have seen all that Jehovah did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land; ",
+            "version": "ASV",
+            "clsstr": "Deut-29-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029003,
+            "text": "the great trials which thine eyes saw, the signs, and those great wonders: ",
+            "version": "ASV",
+            "clsstr": "Deut-29-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029004,
+            "text": "but Jehovah hath not given you a heart to know, and eyes to see, and ears to hear, unto this day. ",
+            "version": "ASV",
+            "clsstr": "Deut-29-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029005,
+            "text": "And I have led you forty years in the wilderness: your clothes are not waxed old upon you, and thy shoe is not waxed old upon thy foot. ",
+            "version": "ASV",
+            "clsstr": "Deut-29-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029006,
+            "text": "Ye have not eaten bread, neither have ye drunk wine or strong drink; that ye may know that I am Jehovah your God. ",
+            "version": "ASV",
+            "clsstr": "Deut-29-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029007,
+            "text": "And when ye came unto this place, Sihon the king of Heshbon, and Og the king of Bashan, came out against us unto battle, and we smote them: ",
+            "version": "ASV",
+            "clsstr": "Deut-29-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029008,
+            "text": "and we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to the half-tribe of the Manassites. ",
+            "version": "ASV",
+            "clsstr": "Deut-29-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029009,
+            "text": "Keep therefore the words of this covenant, and do them, that ye may <i>[a]</i>prosper in all that ye do.",
+            "version": "ASV",
+            "clsstr": "Deut-29-9",
+            "footnotes": [
+                {
+                    "a": "Or, <i>deal wisely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029010,
+            "text": "\u00b6 Ye stand this day all of you before Jehovah your God; your heads, your tribes, your elders, and your officers, even all the men of Israel, ",
+            "version": "ASV",
+            "clsstr": "Deut-29-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029011,
+            "text": "your little ones, your wives, and thy sojourner that is in the midst of thy camps, from the hewer of thy wood unto the drawer of thy water; ",
+            "version": "ASV",
+            "clsstr": "Deut-29-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029012,
+            "text": "that thou mayest enter into the covenant of Jehovah thy God, and into his oath, which Jehovah thy God maketh with thee this day; ",
+            "version": "ASV",
+            "clsstr": "Deut-29-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029013,
+            "text": "that he may establish thee this day unto himself for a people, and that he may be unto thee a God, as he spake unto thee, and as he sware unto thy fathers, to Abraham, to Isaac, and to Jacob.",
+            "version": "ASV",
+            "clsstr": "Deut-29-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029014,
+            "text": "\u00b6 Neither with you only do I make this covenant and this oath, ",
+            "version": "ASV",
+            "clsstr": "Deut-29-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029015,
+            "text": "but with him that standeth here with us this day before Jehovah our God, and also with him that is not here with us this day ",
+            "version": "ASV",
+            "clsstr": "Deut-29-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029016,
+            "text": "(for ye know how we dwelt in the land of Egypt, and how we came through the midst of the nations through which ye passed; ",
+            "version": "ASV",
+            "clsstr": "Deut-29-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029017,
+            "text": "and ye have seen their abominations, and their idols, wood and stone, silver and gold, which were among them); ",
+            "version": "ASV",
+            "clsstr": "Deut-29-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029018,
+            "text": "lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from Jehovah our God, to go to serve the gods of those nations; lest there should be among you a root that beareth <i>[b]</i>gall and wormwood; ",
+            "version": "ASV",
+            "clsstr": "Deut-29-18",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>rosh</i>, a poisonous herb."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029019,
+            "text": "and it come to pass, when he heareth the words of this <i>[c]</i>curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the stubbornness of my heart, <i>[d]</i>to destroy the moist with the dry. ",
+            "version": "ASV",
+            "clsstr": "Deut-29-19",
+            "footnotes": [
+                {
+                    "c": "Or, <i>oath</i> (and so verses [[20]], [[21]])"
+                },
+                {
+                    "d": "Or, <i>to add drunkenness to thirst</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029020,
+            "text": "Jehovah will not pardon him, but then the anger of Jehovah and his jealousy will smoke against that man, and all the curse that is written in this book shall lie upon him, and Jehovah will blot out his name from under heaven. ",
+            "version": "ASV",
+            "clsstr": "Deut-29-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029021,
+            "text": "And Jehovah will set him apart unto evil out of all the tribes of Israel, according to all the curses of the covenant that is written in this book of the law.",
+            "version": "ASV",
+            "clsstr": "Deut-29-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029022,
+            "text": "\u00b6 And the generation to come, your children that shall rise up after you, and the foreigner that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses wherewith Jehovah hath made it sick; ",
+            "version": "ASV",
+            "clsstr": "Deut-29-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029023,
+            "text": " the whole land thereof is brimstone, and salt,  a burning,  it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which Jehovah overthrew in his anger, and in his wrath: ",
+            "version": "ASV",
+            "clsstr": "Deut-29-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029024,
+            "text": "even all the nations shall say, Wherefore hath Jehovah done thus unto this land? what meaneth the heat of this great anger? ",
+            "version": "ASV",
+            "clsstr": "Deut-29-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029025,
+            "text": "Then men shall say, Because they forsook the covenant of Jehovah, the God of their fathers, which he made with them when he brought them forth out of the land of Egypt, ",
+            "version": "ASV",
+            "clsstr": "Deut-29-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029026,
+            "text": "and went and served other gods, and worshipped them, gods that they knew not, and that he had not <i>[e]</i>given unto them: ",
+            "version": "ASV",
+            "clsstr": "Deut-29-26",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>allotted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029027,
+            "text": "therefore the anger of Jehovah was kindled against this land, to bring upon it all the curse that is written in this book; ",
+            "version": "ASV",
+            "clsstr": "Deut-29-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029028,
+            "text": "and Jehovah rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as at this day. ",
+            "version": "ASV",
+            "clsstr": "Deut-29-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5029029,
+            "text": "The secret things belong unto Jehovah our God; but the things that are revealed belong unto us and to our children for ever, that we may do all the words of this law.",
+            "version": "ASV",
+            "clsstr": "Deut-29-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 29
+}

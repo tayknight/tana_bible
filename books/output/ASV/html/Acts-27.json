@@ -1,0 +1,403 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44027001,
+            "text": "\u00b6 And when it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan <i>[a]</i>band. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>cohort</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027002,
+            "text": "And embarking in a ship of Adramyttium, which was about to sail unto the places on the coast of Asia, we put to sea, Aristarchus, a Macedonian of Thessalonica, being with us. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027003,
+            "text": "And the next day we touched at Sidon: and Julius treated Paul kindly, and gave him leave to go unto his friends and <i>[b]</i>refresh himself. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-3",
+            "footnotes": [
+                {
+                    "b": "Greek <i>receive attention</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027004,
+            "text": "And putting to sea from thence, we sailed under the lee of Cyprus, because the winds were contrary. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027005,
+            "text": "And when we had sailed across the sea which is off Cilicia and Pamphylia, we came to Myra,  of Lycia. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027006,
+            "text": "And there the centurion found a ship of Alexandria sailing for Italy; and he put us therein. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027007,
+            "text": "And when we had sailed slowly many days, and were come with difficulty over against Cnidus, the wind not <i>[c]</i>further suffering us, we sailed under the lee of Crete, over against Salmone; ",
+            "version": "ASV",
+            "clsstr": "Acts-27-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>suffering us to get there</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027008,
+            "text": "and with difficulty coasting along it we came unto a certain place called Fair Havens; nigh whereunto was the city of Lasea.",
+            "version": "ASV",
+            "clsstr": "Acts-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027009,
+            "text": "\u00b6 And when much time was spent, and the voyage was now dangerous, because the Fast was now already gone by, Paul admonished them, ",
+            "version": "ASV",
+            "clsstr": "Acts-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027010,
+            "text": "and said unto them, Sirs, I perceive that the voyage will be with injury and much loss, not only of the lading and the ship, but also of our lives. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027011,
+            "text": "But the centurion gave more heed to the master and to the owner of the ship, than to those things which were spoken by Paul. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027012,
+            "text": "And because the haven was not commodious to winter in, the more part advised to put to sea from thence, if by any means they could reach Phoenix, and winter a haven of Crete, looking <i>[d]</i>north-east and south-east. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-12",
+            "footnotes": [
+                {
+                    "d": "Greek <i>down the south-west wind and down the north-west wind</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027013,
+            "text": "And when the south wind blew softly, supposing that they had obtained their purpose, they weighed anchor and sailed along Crete, close in shore. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027014,
+            "text": "But after no long time there beat down from it a tempestuous wind, which is called Euraquilo: ",
+            "version": "ASV",
+            "clsstr": "Acts-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027015,
+            "text": "and when the ship was caught, and could not face the wind, we gave way , and were driven. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027016,
+            "text": "And running under the lee of a small island called <i>[e]</i>Cauda, we were able, with difficulty, to secure the boat: ",
+            "version": "ASV",
+            "clsstr": "Acts-27-16",
+            "footnotes": [
+                {
+                    "e": "Many ancient authorities read <i>Clauda</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027017,
+            "text": "and when they had hoisted it up, they used helps, under-girding the ship; and, fearing lest they should be cast upon the Syrtis, they lowered the gear, and so were driven. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027018,
+            "text": "And as we labored exceedingly with the storm, the next day they began to throw  overboard; ",
+            "version": "ASV",
+            "clsstr": "Acts-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027019,
+            "text": "and the third day they cast out with their own hands the <i>[f]</i>tackling of the ship. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-19",
+            "footnotes": [
+                {
+                    "f": "Or, <i>furniture</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027020,
+            "text": "And when neither sun nor stars shone upon  for many days, and no small tempest lay on , all hope that we should be saved was now taken away. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027021,
+            "text": "And when they had been long without food, then Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have set sail from Crete, and have gotten this injury and loss. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027022,
+            "text": "And now I exhort you to be of good cheer; for there shall be no loss of life among you, but  of the ship. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027023,
+            "text": "For there stood by me this night an angel of the God whose I am, whom also I serve, ",
+            "version": "ASV",
+            "clsstr": "Acts-27-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027024,
+            "text": "saying, Fear not, Paul; thou must stand before Caesar: and lo, God hath granted thee all them that sail with thee. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027025,
+            "text": "Wherefore, sirs, be of good cheer: for I believe God, that it shall be even so as it hath been spoken unto me. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027026,
+            "text": "But we must be cast upon a certain island.",
+            "version": "ASV",
+            "clsstr": "Acts-27-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027027,
+            "text": "\u00b6 But when the fourteenth night was come, as we were driven to and fro in the  Adria, about midnight the sailors surmised that they were drawing near to some country: ",
+            "version": "ASV",
+            "clsstr": "Acts-27-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027028,
+            "text": "and they sounded, and found twenty fathoms; and after a little space, they sounded again, and found fifteen fathoms. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027029,
+            "text": "And fearing lest haply we should be cast ashore on rocky ground, they let go four anchors from the stern, and <i>[g]</i>wished for the day. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-29",
+            "footnotes": [
+                {
+                    "g": "Or, <i>prayed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027030,
+            "text": "And as the sailors were seeking to flee out of the ship, and had lowered the boat into the sea, under color as though they would lay out anchors from the foreship, ",
+            "version": "ASV",
+            "clsstr": "Acts-27-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027031,
+            "text": "Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027032,
+            "text": "Then the soldiers cut away the ropes of the boat, and let her fall off. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027033,
+            "text": "And while the day was coming on, Paul besought them all to take some food, saying, This day is the fourteenth day that ye wait and continue fasting, having taken nothing. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027034,
+            "text": "Wherefore I beseech you to take some food: for this is for your safety: for there shall not a hair perish from the head of any of you. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027035,
+            "text": "And when he had said this, and had taken bread, he gave thanks to God in the presence of all; and he brake it, and began to eat. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027036,
+            "text": "Then were they all of good cheer, and themselves also took food. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027037,
+            "text": "And we were in all in the ship two hundred threescore and sixteen souls. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027038,
+            "text": "And when they had eaten enough, they lightened the ship, throwing out the wheat into the sea. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027039,
+            "text": "And when it was day, they knew not the land: but they perceived a certain bay with a beach, and they took counsel whether they could <i>[h]</i>drive the ship upon it. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-39",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities read <i>bring the ship safe to shore</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027040,
+            "text": "And casting off the anchors, they left them in the sea, at the same time loosing the bands of the rudders; and hoisting up the foresail to the wind, they made for the beach. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027041,
+            "text": "But lighting upon a place where two seas met, they ran the vessel aground; and the foreship struck and remained unmoveable, but the stern began to break up by the violence . ",
+            "version": "ASV",
+            "clsstr": "Acts-27-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027042,
+            "text": "And the soldiers\u2019 counsel was to kill the prisoners, lest any  should swim out, and escape. ",
+            "version": "ASV",
+            "clsstr": "Acts-27-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027043,
+            "text": "But the centurion, desiring to save Paul, stayed them from their purpose; and commanded that they who could swim should cast themselves overboard, and get first to the land; ",
+            "version": "ASV",
+            "clsstr": "Acts-27-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44027044,
+            "text": "and the rest, some on planks, and some on  things from the ship. And so it came to pass, that they all escaped safe to the land.",
+            "version": "ASV",
+            "clsstr": "Acts-27-44",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 27
+}

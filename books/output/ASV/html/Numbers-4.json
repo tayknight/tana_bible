@@ -1,0 +1,439 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4004001,
+            "text": "\u00b6 And Jehovah spake unto Moses and unto Aaron, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004002,
+            "text": "Take the sum of the sons of Kohath from among the sons of Levi, by their families, by their fathers\u2019 houses, ",
+            "version": "ASV",
+            "clsstr": "Num-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004003,
+            "text": "from thirty years old and upward even until fifty years old, all that enter upon the <i>[a]</i>service, to do the work in the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "Num-4-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>warfare</i>, or <i>host</i> (and so in verses [[35]], [[39]], [[43]])."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004004,
+            "text": "This is the <i>[b]</i>service of the sons of Kohath in the tent of meeting,  the most holy things: ",
+            "version": "ASV",
+            "clsstr": "Num-4-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>work</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004005,
+            "text": "when the camp setteth forward, Aaron shall go in, and his sons, and they shall take down the veil of the screen, and cover the ark of the testimony with it, ",
+            "version": "ASV",
+            "clsstr": "Num-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004006,
+            "text": "and shall put thereon a covering of sealskin, and shall spread over it a cloth all of blue, and shall put in the staves thereof. ",
+            "version": "ASV",
+            "clsstr": "Num-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004007,
+            "text": "And upon the table of showbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls and the cups wherewith to pour out; and the continual bread shall be thereon: ",
+            "version": "ASV",
+            "clsstr": "Num-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004008,
+            "text": "and they shall spread upon them a cloth of scarlet, and cover the same with a covering of sealskin, and shall put in the staves thereof. ",
+            "version": "ASV",
+            "clsstr": "Num-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004009,
+            "text": "And they shall take a cloth of blue, and cover the candlestick of the light, and its lamps, and its snuffers, and its snuffdishes, and all the oil vessels thereof, wherewith they minister unto it: ",
+            "version": "ASV",
+            "clsstr": "Num-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004010,
+            "text": "and they shall put it and all the vessels thereof within a covering of sealskin, and shall put it upon <i>[c]</i>the frame. ",
+            "version": "ASV",
+            "clsstr": "Num-4-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>a bar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004011,
+            "text": "And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of sealskin, and shall put in the staves thereof: ",
+            "version": "ASV",
+            "clsstr": "Num-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004012,
+            "text": "and they shall take all the vessels of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of sealskin, and shall put them on the frame. ",
+            "version": "ASV",
+            "clsstr": "Num-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004013,
+            "text": "And they shall take away the ashes from the altar, and spread a purple cloth thereon: ",
+            "version": "ASV",
+            "clsstr": "Num-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004014,
+            "text": "and they shall put upon it all the vessels thereof, wherewith they minister about it, the firepans, the flesh-hooks, and the shovels, and the basins, all the vessels of the altar; and they shall spread upon it a covering of sealskin, and put in the staves thereof. ",
+            "version": "ASV",
+            "clsstr": "Num-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004015,
+            "text": "And when Aaron and his sons have made an end of covering the sanctuary, and all the furniture of the sanctuary, as the camp is set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch the <i>[d]</i>sanctuary, lest they die. These things are the burden of the sons of Kohath in the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "Num-4-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>holy things</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004016,
+            "text": "And the charge of Eleazar the son of Aaron the priest shall be the oil for the light, and the sweet incense, and the continual meal-offering, and the anointing oil, the charge of all the tabernacle, and of all that therein is, the sanctuary, and the furniture thereof.",
+            "version": "ASV",
+            "clsstr": "Num-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004017,
+            "text": "\u00b6 And Jehovah spake unto Moses and unto Aaron, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004018,
+            "text": "Cut ye not off the tribe of the families of the Kohathites from among the Levites; ",
+            "version": "ASV",
+            "clsstr": "Num-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004019,
+            "text": "but thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden; ",
+            "version": "ASV",
+            "clsstr": "Num-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004020,
+            "text": "but they shall not go in to see the sanctuary even for a moment, lest they die.",
+            "version": "ASV",
+            "clsstr": "Num-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004021,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004022,
+            "text": "Take the sum of the sons of Gershon also, by their fathers\u2019 houses, by their families; ",
+            "version": "ASV",
+            "clsstr": "Num-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004023,
+            "text": "from thirty years old and upward until fifty years old shalt thou number them; all that enter in to <i>[e]</i>wait upon the service, to do the work in the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "Num-4-23",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>war the warfare</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004024,
+            "text": "This is the service of the families of the Gershonites, in serving and in bearing burdens: ",
+            "version": "ASV",
+            "clsstr": "Num-4-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004025,
+            "text": "they shall bear the curtains of the tabernacle, and the tent of meeting, its covering, and the covering of sealskin that is above upon it, and the screen for the door of the tent of meeting, ",
+            "version": "ASV",
+            "clsstr": "Num-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004026,
+            "text": "and the hangings of the court, and the screen for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and whatsoever shall be done with them: therein shall they serve. ",
+            "version": "ASV",
+            "clsstr": "Num-4-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004027,
+            "text": "At the commandment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burden, and in all their service; and ye shall appoint unto them in charge all their burden. ",
+            "version": "ASV",
+            "clsstr": "Num-4-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004028,
+            "text": "This is the service of the families of the sons of the Gershonites in the tent of meeting: and their charge shall be under the hand of Ithamar the son of Aaron the priest.",
+            "version": "ASV",
+            "clsstr": "Num-4-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004029,
+            "text": "\u00b6 As for the sons of Merari, thou shalt number them by their families, by their fathers\u2019 houses; ",
+            "version": "ASV",
+            "clsstr": "Num-4-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004030,
+            "text": "from thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth upon the service, to do the work of the tent of meeting. ",
+            "version": "ASV",
+            "clsstr": "Num-4-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004031,
+            "text": "And this is the charge of their burden, according to all their service in the tent of meeting: the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, ",
+            "version": "ASV",
+            "clsstr": "Num-4-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004032,
+            "text": "and the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall <i>[f]</i>appoint the instruments of the charge of their burden. ",
+            "version": "ASV",
+            "clsstr": "Num-4-32",
+            "footnotes": [
+                {
+                    "f": "Or, <i>number</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004033,
+            "text": "This is the service of the families of the sons of Merari, according to all their service, in the tent of meeting, under the hand of Ithamar the son of Aaron the priest.",
+            "version": "ASV",
+            "clsstr": "Num-4-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004034,
+            "text": "\u00b6 And Moses and Aaron and the princes of the congregation numbered the sons of the Kohathites by their families, and by their fathers\u2019 houses, ",
+            "version": "ASV",
+            "clsstr": "Num-4-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004035,
+            "text": "from thirty years old and upward even unto fifty years old, every one that entered upon the service, for work in the tent of meeting: ",
+            "version": "ASV",
+            "clsstr": "Num-4-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004036,
+            "text": "and those that were numbered of them by their families were two thousand seven hundred and fifty. ",
+            "version": "ASV",
+            "clsstr": "Num-4-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004037,
+            "text": "These are they that were numbered of the families of the Kohathites, all that did serve in the tent of meeting, whom Moses and Aaron numbered according to the commandment of Jehovah by Moses.",
+            "version": "ASV",
+            "clsstr": "Num-4-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004038,
+            "text": "\u00b6 And those that were numbered of the sons of Gershon, their families, and by their fathers\u2019 houses, ",
+            "version": "ASV",
+            "clsstr": "Num-4-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004039,
+            "text": "from thirty years old and upward even unto fifty years old, every one that entered upon the service, for work in the tent of meeting, ",
+            "version": "ASV",
+            "clsstr": "Num-4-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004040,
+            "text": "even those that were numbered of them, by their families, by their fathers\u2019 houses, were two thousand and six hundred and thirty. ",
+            "version": "ASV",
+            "clsstr": "Num-4-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004041,
+            "text": "These are they that were numbered of the families of the sons of Gershon, all that did serve in the tent of meeting, whom Moses and Aaron numbered according to the commandment of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Num-4-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004042,
+            "text": "\u00b6 And those that were numbered of the families of the sons of Merari, by their families, by their fathers\u2019 houses, ",
+            "version": "ASV",
+            "clsstr": "Num-4-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004043,
+            "text": "from thirty years old and upward even unto fifty years old, every one that entered upon the service, for work in the tent of meeting, ",
+            "version": "ASV",
+            "clsstr": "Num-4-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004044,
+            "text": "even those that were numbered of them by their families, were three thousand and two hundred. ",
+            "version": "ASV",
+            "clsstr": "Num-4-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004045,
+            "text": "These are they that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the commandment of Jehovah by Moses.",
+            "version": "ASV",
+            "clsstr": "Num-4-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004046,
+            "text": "\u00b6 All those that were numbered of the Levites, whom Moses and Aaron and the princes of Israel numbered, by their families, and by their fathers\u2019 houses, ",
+            "version": "ASV",
+            "clsstr": "Num-4-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004047,
+            "text": "from thirty years old and upward even unto fifty years old, every one that entered in to do the work of service, and the work of bearing burdens in the tent of meeting, ",
+            "version": "ASV",
+            "clsstr": "Num-4-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004048,
+            "text": "even those that were numbered of them, were eight thousand and five hundred and fourscore. ",
+            "version": "ASV",
+            "clsstr": "Num-4-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4004049,
+            "text": "According to the commandment of Jehovah they were numbered by Moses, every one according to his service, and <i>[g]</i>according to his burden: thus were they numbered of him, as Jehovah commanded Moses.",
+            "version": "ASV",
+            "clsstr": "Num-4-49",
+            "footnotes": [
+                {
+                    "g": "Or, <i>according to his burden and his duty, as etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 4
+}

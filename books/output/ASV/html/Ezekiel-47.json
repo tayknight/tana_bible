@@ -1,0 +1,230 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26047001,
+            "text": "\u00b6 And he brought me back unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward (for the forefront of the house was toward the east); and the waters came down from under, from the right side of the house, on the south of the altar. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047002,
+            "text": "Then he brought me out by the way of the gate northward, and led me round by the way without unto the outer gate, by the way of that looketh toward the east; and, behold, there <i>[a]</i>ran out waters on the right side.",
+            "version": "ASV",
+            "clsstr": "Ezek-47-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>trickled forth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047003,
+            "text": "\u00b6 When the man went forth eastward with the line in his hand, he measured a thousand cubits, and he caused me to pass through the waters, waters that were to the ankles. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047004,
+            "text": "Again he measured a thousand, and caused me to pass through the waters, waters that were to the knees. Again he measured a thousand, and caused me to pass through , waters that were to the loins. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047005,
+            "text": "Afterward he measured a thousand;  a river that I could not pass through; for the waters were risen, waters to swim in, a river that could not be passed through.",
+            "version": "ASV",
+            "clsstr": "Ezek-47-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047006,
+            "text": "\u00b6 And he said unto me, Son of man, hast thou seen ? Then he brought me, and caused me to return to the bank of the river. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047007,
+            "text": "Now when I had returned, behold, upon the bank of the river were very many trees on the one side and on the other. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047008,
+            "text": "Then said he unto me, These waters issue forth toward the eastern region, and shall go down into the Arabah; and they shall go toward the sea; into the sea  which were made to issue forth; and the waters shall be healed. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047009,
+            "text": "And it shall come to pass, that every living creature which swarmeth, in every place whither the <i>[b]</i>rivers come, shall live; and there shall be a very great multitude of fish; for these waters are come thither, <i>[c]</i>and  shall be healed, and everything shall live whithersoever the river cometh. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-9",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>two rivers</i>."
+                },
+                {
+                    "c": "Or, <i>that all things may be healed and live</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047010,
+            "text": "And it shall come to pass, that fishers shall stand by it: from En-gedi even unto En-eglaim shall be a place for the spreading of nets; their fish shall be after their kinds, as the fish of the great sea, exceeding many. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047011,
+            "text": "But the miry places thereof, and the marshes thereof, shall not be healed; they shall be <i>[d]</i>given up to salt. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>given for salt</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047012,
+            "text": "And by the river upon the bank thereof, on this side and on that side, shall grow every tree for food, whose leaf shall not wither, neither shall the fruit thereof fail: it shall bring forth <i>[e]</i>new fruit every month, because the waters thereof issue out of the sanctuary; and the fruit thereof shall be for food, and the leaf thereof for healing.",
+            "version": "ASV",
+            "clsstr": "Ezek-47-12",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>first-fruits</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047013,
+            "text": "\u00b6 Thus saith the Lord Jehovah: This shall be the border, whereby ye shall divide the land for inheritance according to the twelve tribes of Israel: Joseph  portions. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047014,
+            "text": "And ye shall inherit it, one as well as another; for I <i>[f]</i>sware to give it unto your fathers: and this land shall fall unto you for inheritance.",
+            "version": "ASV",
+            "clsstr": "Ezek-47-14",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>lifted up my hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047015,
+            "text": "\u00b6 And this shall be the border of the land: On the north side, from the great sea, by the way of Hethlon, unto the entrance of Zedad; ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047016,
+            "text": "Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; <i>[g]</i>Hazer-hatticon, which is by the border of Hauran. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>the middle Hazer</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047017,
+            "text": "And the border from the sea, shall be Hazar-enon at the border of Damascus; and on the north northward is the border of Hamath. This is the north side. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047018,
+            "text": "And the east side, between Hauran and Damascus and Gilead, and the land of Israel, shall be the Jordan; from the  border, unto the east sea shall ye measure. This is the east side. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047019,
+            "text": "And the south side southward shall be from Tamar as far as the waters of Meriboth-kadesh, to the brook , unto the great sea. This is the south side southward. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047020,
+            "text": "And the west side shall be the great sea, from the  border as far as over against the entrance of Hamath. This is the west side.",
+            "version": "ASV",
+            "clsstr": "Ezek-47-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047021,
+            "text": "\u00b6 So shall ye divide this land unto you according to the tribes of Israel. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047022,
+            "text": "And it shall come to pass, that ye shall divide it by lot for an inheritance unto you and to the strangers that sojourn among you, who shall beget children among you; and they shall be unto you as the home-born among the children of Israel; they shall have inheritance with you among the tribes of Israel. ",
+            "version": "ASV",
+            "clsstr": "Ezek-47-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26047023,
+            "text": "And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-47-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 47
+}

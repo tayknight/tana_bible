@@ -1,0 +1,298 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20025001,
+            "text": "\u00b6 These also are proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
+            "version": "ASV",
+            "clsstr": "Prov-25-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025002,
+            "text": "\u00b6     It is the glory of God to conceal a thing;\n    But the glory of kings is to search out a matter.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025003,
+            "text": "    As the heavens for height, and the earth for depth,\n    So the heart of kings is unsearchable.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025004,
+            "text": "    Take away the dross from the silver,\n    And there cometh forth a vessel for the refiner:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025005,
+            "text": "    Take away the wicked  before the king,\n    And his throne shall be established in righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025006,
+            "text": "   <i>[a]</i>Put not thyself forward in the presence of the king,\n    And stand not in the place of great men:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-6",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Glorify not thyself</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025007,
+            "text": "    For better is it that it be said unto thee, Come up hither,\n    Than that thou shouldest be put lower in the presence of the prince,\n    Whom thine eyes have seen.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025008,
+            "text": "  Go not forth hastily to strive,\n   <i>[b]</i>Lest  what to do in the end thereof,\n    When thy neighbor hath put thee to shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Lest</i> it be said <i>in the end thereof, What wilt thou do? When etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025009,
+            "text": "  Debate thy cause with thy neighbor ,\n   <i>[c]</i>And disclose not the secret of another;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>But</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025010,
+            "text": "    Lest he that heareth it revile thee,\n    And thine infamy turn not away.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025011,
+            "text": "  A word <i>[d]</i>fitly spoken\n    Is  apples of gold in network of silver.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>in due season</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025012,
+            "text": "   <i>[e]</i>an ear-ring of gold, and an ornament of fine gold,\n     a wise reprover upon an obedient ear.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>a nose-ring</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025013,
+            "text": "    As the cold of snow in the time of harvest,\n     a faithful messenger to them that send him;\n    For he refresheth the soul of his masters.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025014,
+            "text": "   clouds and wind without rain,\n   he that boasteth himself <i>[f]</i>of his gifts falsely.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-14",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>in a gift of falsehood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025015,
+            "text": "  By long forbearing is a <i>[g]</i>ruler persuaded,\n    And a soft tongue breaketh the bone.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-15",
+            "footnotes": [
+                {
+                    "g": "Or, <i>judge</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025016,
+            "text": "    Hast thou found honey? eat so much as is sufficient for thee,\n    Lest thou be filled therewith, and vomit it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025017,
+            "text": "  Let thy foot be seldom in thy neighbor\u2019s house,\n  Lest he be <i>[h]</i>weary of thee, and hate thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-17",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>full of thee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025018,
+            "text": "    A man that beareth false witness against his neighbor\n    Is a maul, and a sword, and a sharp arrow.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025019,
+            "text": "    Confidence in an unfaithful man in time of trouble\n    Is  a broken tooth, and a foot out of joint.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025020,
+            "text": "     one that taketh off a garment in cold weather,  vinegar upon soda,\n    So is he that singeth songs to a heavy heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025021,
+            "text": "  If <i>[i]</i>thine enemy be hungry, give him bread to eat;\n    And if he be thirsty, give him water to drink:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-21",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>he that hateth thee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025022,
+            "text": "    For thou wilt heap coals of fire upon his head,\n    And Jehovah will reward thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025023,
+            "text": "    The north wind bringeth forth rain;\n    So doth a backbiting tongue an angry countenance.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025024,
+            "text": "    It is better to dwell in the corner of the housetop,\n    Than with a contentious woman in a wide house.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025025,
+            "text": "   cold waters to a <i>[j]</i>thirsty soul,\n    So is good news from a far country.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-25",
+            "footnotes": [
+                {
+                    "j": "Or, <i>weary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025026,
+            "text": "  a <i>[k]</i>troubled fountain, and a corrupted spring,\n   a righteous man that <i>[l]</i>giveth way before the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-26",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>trampled</i>."
+                },
+                {
+                    "l": "Or, <i>is moved</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025027,
+            "text": "  It is not good to eat much honey;\n   <i>[m]</i>So  to search out their own glory is grievous.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-27",
+            "footnotes": [
+                {
+                    "m": "Or, <i>But</i> for men <i>to search out their own glory is glory</i>. The Hebrew text is obscure."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20025028,
+            "text": "   <i>[n]</i>He whose spirit is without restraint\n    Is  a city that is broken down and without walls.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-25-28",
+            "footnotes": [
+                {
+                    "n": "Or, <i>He that hath no rule over his spirit</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 25
+}

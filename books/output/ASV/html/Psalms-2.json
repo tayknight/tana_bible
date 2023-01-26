@@ -1,0 +1,130 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19002001,
+            "text": "<b>The reign of Jehovah\u2019s anointed.</b>\n\u00b6   Why do the nations <i>[a]</i>rage,\n    And the peoples meditate a vain thing?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>tumultuously assemble</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002002,
+            "text": "    The kings of the earth set themselves,\n    And the rulers take counsel together,\n    Against Jehovah, and against his anointed, ,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002003,
+            "text": "    Let us break their bonds asunder,\n    And cast away their cords from us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002004,
+            "text": "    He that sitteth in the heavens will laugh:\n    The Lord will have them in derision.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002005,
+            "text": "  Then will he speak unto them in his wrath,\n  And <i>[b]</i>vex them in his sore displeasure:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>trouble</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002006,
+            "text": "    Yet I have set my king\n    Upon my holy hill of Zion.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002007,
+            "text": "    I will tell of the decree:\n    Jehovah said unto me, Thou art my son;\n    This day have I begotten thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002008,
+            "text": "    Ask of me, and I will give  the nations for thine inheritance,\n    And the uttermost parts of the earth for thy possession.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002009,
+            "text": "    Thou shalt break them with a rod of iron;\n    Thou shalt dash them in pieces like a potter\u2019s vessel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002010,
+            "text": "\u00b6     Now therefore be wise, O ye kings:\n    Be instructed, ye judges of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002011,
+            "text": "    Serve Jehovah with fear,\n    And rejoice with trembling.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19002012,
+            "text": " Kiss the son, lest he be angry, and ye perish in the way,\n For his wrath <i>[c]</i>will soon be kindled.\n   <i>[d]</i>Blessed are all they that take refuge in him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-2-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>may</i>"
+                },
+                {
+                    "d": "Or, <i>Happy</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 2
+}

@@ -1,0 +1,91 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3012001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3012002,
+            "text": "Speak unto the children of Israel, saying, If a woman conceive seed, and bear a man-child, then she shall be unclean seven days; as in the days of the <i>[a]</i>impurity of her sickness shall she be unclean. ",
+            "version": "ASV",
+            "clsstr": "Lev-12-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>separation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3012003,
+            "text": "And in the eighth day the flesh of his foreskin shall be circumcised. ",
+            "version": "ASV",
+            "clsstr": "Lev-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3012004,
+            "text": "And she shall continue in the blood of  purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled. ",
+            "version": "ASV",
+            "clsstr": "Lev-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3012005,
+            "text": "But if she bear a maid-child, then she shall be unclean two weeks, as in her <i>[b]</i>impurity; and she shall continue in the blood of  purifying threescore and six days.",
+            "version": "ASV",
+            "clsstr": "Lev-12-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>separation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3012006,
+            "text": "\u00b6 And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb a year old for a burnt-offering, and a young pigeon, or a turtle-dove, for a sin-offering, unto the door of the tent of meeting, unto the priest: ",
+            "version": "ASV",
+            "clsstr": "Lev-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3012007,
+            "text": "and he shall offer it before Jehovah, and make atonement for her; and she shall be cleansed from the fountain of her blood. This is the law for her that beareth, whether a male or a female. ",
+            "version": "ASV",
+            "clsstr": "Lev-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3012008,
+            "text": "And if her means suffice not for a lamb, then she shall take two turtle-doves, or two young pigeons; the one for a burnt-offering, and the other for a sin-offering: and the priest shall make atonement for her, and she shall be clean.",
+            "version": "ASV",
+            "clsstr": "Lev-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 12
+}

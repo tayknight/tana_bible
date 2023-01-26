@@ -1,0 +1,327 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2009001,
+            "text": "\u00b6 Then Jehovah said unto Moses, Go in unto Pharaoh, and tell him, Thus saith Jehovah, the God of the Hebrews, Let my people go, that they may serve me. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009002,
+            "text": "For if thou refuse to let them go, and wilt hold them still, ",
+            "version": "ASV",
+            "clsstr": "Exod-9-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009003,
+            "text": "behold, the hand of Jehovah is upon thy cattle which are in the field, upon the horses, upon the asses, upon the camels, upon the herds, and upon the flocks:  a very grievous murrain. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009004,
+            "text": "And Jehovah shall make a distinction between the cattle of Israel and the cattle of Egypt; and there shall nothing die of all that belongeth to the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009005,
+            "text": "And Jehovah appointed a set time, saying, To-morrow Jehovah shall do this thing in the land. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009006,
+            "text": "And Jehovah did that thing on the morrow; and all the cattle of Egypt died; but of the cattle of the children of Israel died not one. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009007,
+            "text": "And Pharaoh sent, and, behold, there was not so much as one of the cattle of the Israelites dead. But the heart of Pharaoh was <i>[a]</i>stubborn, and he did not let the people go.",
+            "version": "ASV",
+            "clsstr": "Exod-9-7",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>heavy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009008,
+            "text": "\u00b6 And Jehovah said unto Moses and unto Aaron, Take to you handfuls of <i>[b]</i>ashes of the furnace, and let Moses sprinkle it toward heaven in the sight of Pharaoh. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>soot</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009009,
+            "text": "And it shall become small dust over all the land of Egypt, and shall be a boil breaking forth with blains upon man and upon beast, throughout all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009010,
+            "text": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man and upon beast. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009011,
+            "text": "And the magicians could not stand before Moses because of the boils; for the boils were upon the magicians, and upon all the Egyptians. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009012,
+            "text": "And Jehovah <i>[c]</i>hardened the heart of Pharaoh, and he hearkened not unto them; as Jehovah had spoken unto Moses. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-12",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>made strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009013,
+            "text": "And Jehovah said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith Jehovah, the God of the Hebrews, Let my people go, that they may serve me. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009014,
+            "text": "For I will this time send all my plagues upon thy heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009015,
+            "text": "For now I had put forth my hand, and smitten thee and thy people with pestilence, and thou hadst been cut off from the earth: ",
+            "version": "ASV",
+            "clsstr": "Exod-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009016,
+            "text": "but in very deed for this cause have I made thee to stand, to show thee my power, and that my name may be declared throughout all the earth. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009017,
+            "text": "As yet exaltest thou thyself against my people, that thou wilt not let them go? ",
+            "version": "ASV",
+            "clsstr": "Exod-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009018,
+            "text": "Behold, to-morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the day it was founded even until now. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009019,
+            "text": "Now therefore send, hasten in thy cattle and all that thou hast in the field;  every man and beast that shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009020,
+            "text": "He that feared the word of Jehovah among the servants of Pharaoh made his servants and his cattle flee into the houses: ",
+            "version": "ASV",
+            "clsstr": "Exod-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009021,
+            "text": "and he that regarded not the word of Jehovah left his servants and his cattle in the field.",
+            "version": "ASV",
+            "clsstr": "Exod-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009022,
+            "text": "\u00b6 And Jehovah said unto Moses, Stretch forth thy hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009023,
+            "text": "And Moses stretched forth his rod toward heaven: and Jehovah sent thunder and hail, and fire ran down unto the earth; and Jehovah rained hail upon the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009024,
+            "text": "So there was hail, and fire <i>[d]</i>mingled with the hail, very grievous, such as had not been in all the land of Egypt since it became a nation. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-24",
+            "footnotes": [
+                {
+                    "d": "Or, <i>flashing continually amidst</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009025,
+            "text": "And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009026,
+            "text": "Only in the land of Goshen, where the children of Israel were, was there no hail.",
+            "version": "ASV",
+            "clsstr": "Exod-9-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009027,
+            "text": "\u00b6 And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: Jehovah is righteous, and I and my people are wicked. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009028,
+            "text": "Entreat Jehovah; for there hath been enough of  <i>[e]</i>mighty thunderings and hail; and I will let you go, and ye shall stay no longer. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-28",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>voices</i> (or <i>thunderings</i>) <i>of God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009029,
+            "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto Jehovah; the thunders shall cease, neither shall there be any more hail; that thou mayest know that the earth is Jehovah\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009030,
+            "text": "But as for thee and thy servants, I know that ye will not yet fear Jehovah God. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009031,
+            "text": "And the flax and the barley were smitten: for the barley was in the ear, and the flax was in bloom. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009032,
+            "text": "But the wheat and the spelt were not smitten: for they were not grown up. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009033,
+            "text": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto Jehovah: and the thunders and hail ceased, and the rain was not poured upon the earth. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009034,
+            "text": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and <i>[f]</i>hardened his heart, he and his servants. ",
+            "version": "ASV",
+            "clsstr": "Exod-9-34",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>made heavy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2009035,
+            "text": "And the heart of Pharaoh <i>[g]</i>was hardened, and he did not let the children of Israel go; as Jehovah had spoken by Moses.",
+            "version": "ASV",
+            "clsstr": "Exod-9-35",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>was strong</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 9
+}

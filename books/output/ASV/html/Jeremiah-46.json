@@ -1,0 +1,281 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24046001,
+            "text": "\u00b6 The word of Jehovah which came to Jeremiah the prophet concerning the nations.",
+            "version": "ASV",
+            "clsstr": "Jer-46-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046002,
+            "text": "\u00b6 Of Egypt: concerning the army of Pharaoh-neco king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah, king of Judah. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046003,
+            "text": "Prepare ye the buckler and shield, and draw near to battle. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046004,
+            "text": "Harness the horses, and get up, ye horsemen, and stand forth with your helmets; furbish the spears, put on the coats of mail. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046005,
+            "text": "Wherefore have I seen it? they are dismayed and are turned backward; and their mighty ones are beaten down, and are fled apace, and look not back: terror is on every side, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046006,
+            "text": "Let not the swift flee away, nor the mighty man escape; in the north by the river Euphrates have they stumbled and fallen. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046007,
+            "text": " <i>[a]</i>Who is this that riseth up like the Nile, whose waters toss themselves like the rivers? ",
+            "version": "ASV",
+            "clsstr": "Jer-46-7",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Who is this like the Nile that riseth up, like the rivers whose waters toss themselves? Egypt is like the Nile that riseth up etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046008,
+            "text": "Egypt riseth up like the Nile, and his waters toss themselves like the rivers: and he saith, I will rise up, I will cover the earth; I will destroy cities and the inhabitants thereof. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046009,
+            "text": "Go up, ye horses; and rage, ye chariots; and let the mighty men go forth: Cush and Put, that handle the shield; and the Ludim, that handle and bend the bow. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046010,
+            "text": "For that day is  of the Lord, Jehovah of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour and be satiate, and shall drink its fill of their blood; for the Lord, Jehovah of hosts, hath a sacrifice in the north country by the river Euphrates. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046011,
+            "text": "Go up into Gilead, and take balm, O virgin daughter of Egypt: in vain dost thou use many medicines; there is no healing for thee. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046012,
+            "text": "The nations have heard of thy shame, and the earth is full of thy cry; for the mighty man hath stumbled against the mighty, they are fallen both of them together.",
+            "version": "ASV",
+            "clsstr": "Jer-46-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046013,
+            "text": "\u00b6 The word that Jehovah spake to Jeremiah the prophet, how that Nebuchadrezzar king of Babylon should come and smite the land of Egypt.",
+            "version": "ASV",
+            "clsstr": "Jer-46-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046014,
+            "text": "\u00b6 Declare ye in Egypt, and publish in Migdol, and publish in Memphis and in Tahpanhes: say ye, Stand forth, and prepare thee; for the sword hath devoured round about thee. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046015,
+            "text": "Why are thy strong ones swept away? they stood not, because Jehovah did <i>[b]</i>drive them. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-15",
+            "footnotes": [
+                {
+                    "b": "Or, <i>thrust them down</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046016,
+            "text": "He made many to stumble, yea, they fell one upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046017,
+            "text": "They cried there, Pharaoh king of Egypt is <i>[c]</i>but a noise; he hath let the appointed time pass by. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-17",
+            "footnotes": [
+                {
+                    "c": "Or, <i>destroyed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046018,
+            "text": "As I live, saith the King, whose name is Jehovah of hosts, surely like Tabor among the mountains, and like Carmel by the sea, so shall he come. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046019,
+            "text": " <i>[d]</i>O thou daughter that dwellest in Egypt, <i>[e]</i>furnish thyself to go into captivity; for Memphis shall become a desolation, and shall be burnt up, without inhabitant. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-19",
+            "footnotes": [
+                {
+                    "d": "Or, <i>O thou that dwellest with the daughter of Egypt</i>"
+                },
+                {
+                    "e": "Hebrew <i>make thee vessels of captivity</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046020,
+            "text": "Egypt is a very fair heifer;  <i>[f]</i>destruction out of the north is come, it is come. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-20",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the gadfly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046021,
+            "text": "Also her hired men in the midst of her are like calves of the stall; for they also are turned back, they are fled away together, they did not stand: for the day of their calamity is come upon them, the time of their visitation. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046022,
+            "text": " <i>[g]</i>The sound thereof shall go like the serpent; for they shall march with an army, and come against her with axes, as hewers of wood. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-22",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Her sound is like that of the serpent as it goeth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046023,
+            "text": "They shall cut down her forest, saith Jehovah, <i>[h]</i>though it cannot be searched; because they are more than the locusts, and are innumerable. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-23",
+            "footnotes": [
+                {
+                    "h": "Or, <i>for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046024,
+            "text": "The daughter of Egypt shall be put to shame; she shall be delivered into the hand of the people of the north. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046025,
+            "text": "Jehovah of hosts, the God of Israel, saith: Behold, I will punish Amon of No, and Pharaoh, and Egypt, with her gods, and her kings; even Pharaoh, and them that trust in him: ",
+            "version": "ASV",
+            "clsstr": "Jer-46-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046026,
+            "text": "and I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants; and afterwards it shall be inhabited, as in the days of old, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-46-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046027,
+            "text": "\u00b6 But fear not thou, O Jacob my servant, neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be quiet and at ease, and none shall make him afraid. ",
+            "version": "ASV",
+            "clsstr": "Jer-46-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24046028,
+            "text": "Fear not thou, O Jacob my servant, saith Jehovah; for I am with thee: for I will make a full end of all the nations whither I have driven thee; but I will not make a full end of thee, but I will correct thee in <i>[i]</i>measure, and will in no wise <i>[j]</i>leave thee unpunished.",
+            "version": "ASV",
+            "clsstr": "Jer-46-28",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>judgment</i>."
+                },
+                {
+                    "j": "Or, <i>hold thee guiltless</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 46
+}

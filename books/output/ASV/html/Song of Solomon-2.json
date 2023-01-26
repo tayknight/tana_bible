@@ -1,0 +1,209 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 22,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 8,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 22,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 22002001,
+            "text": "\u00b6  I am a <i>[a]</i>rose of <i>[b]</i>Sharon,\n    A lily of the valleys.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>habazzeleth</i>, the autumn crocus."
+                },
+                {
+                    "b": "Or, <i>the plain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002002,
+            "text": "\u00b6     As a lily among thorns,\n    So is my love among the daughters.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002003,
+            "text": "\u00b6   As the apple-tree among the trees of the wood,\n  So is my beloved among the sons.\n  I <i>[c]</i>sat down under his shadow with great delight,\n    And his fruit was sweet to my taste.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>delighted and sat down etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002004,
+            "text": "  He brought me to the <i>[d]</i>banqueting-house,\n    And his banner over me was love.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-4",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>house of wine</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002005,
+            "text": "  Stay ye me with <i>[e]</i>raisins, refresh me with apples;\n    For I am sick from love.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-5",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>cakes of raisins</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002006,
+            "text": "   <i>[f]</i>His left hand  under my head,\n    And his right hand doth embrace me.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-6",
+            "footnotes": [
+                {
+                    "f": "Or, Let <i>his left hand</i> be <i>etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002007,
+            "text": "\u00b6  I adjure you, O daughters of Jerusalem,\n By the <i>[g]</i>roes, or by the hinds of the field,\n  That ye stir not up, nor awake love,\n  Until <i>[h]</i>he please.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-7",
+            "footnotes": [
+                {
+                    "g": "Or, <i>gazelles</i>"
+                },
+                {
+                    "h": "Or, <i>it</i>. Or, <i>she</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002008,
+            "text": "\u00b6     The voice of my beloved! behold, he cometh,\n    Leaping upon the mountains,\n    Skipping upon the hills.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002009,
+            "text": "  My beloved is like a <i>[i]</i>roe or a young hart:\n    Behold, he standeth behind our wall;\n    He looketh in at the windows;\n    He glanceth through the lattice.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-9",
+            "footnotes": [
+                {
+                    "i": "Or, <i>gazelle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002010,
+            "text": "\u00b6     My beloved spake, and said unto me,\n    Rise up, my love, my fair one, and come away.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002011,
+            "text": "    For, lo, the winter is past;\n    The rain is over and gone;\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002012,
+            "text": "  The flowers appear on the earth;\n  The time of the <i>[j]</i>singing  is come,\n    And the voice of the turtle-dove is heard in our land;\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-12",
+            "footnotes": [
+                {
+                    "j": "Or, <i>pruning</i> of vines"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002013,
+            "text": "    The fig-tree ripeneth her green figs,\n    And the vines are in blossom;\n    They give forth their fragrance.\n    Arise, my love, my fair one, and come away.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002014,
+            "text": "    O my dove, that art in the clefts of the rock,\n    In the covert of the steep place,\n    Let me see thy countenance,\n    Let me hear thy voice;\n    For sweet is thy voice, and thy countenance is comely.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002015,
+            "text": "\u00b6     Take us the foxes, the little foxes,\n    That spoil the vineyards;\n    For our vineyards are in blossom.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002016,
+            "text": "    My beloved is mine, and I am his:\n    He feedeth  among the lilies.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22002017,
+            "text": " <i>[k]</i>Until the day <i>[l]</i>be cool, and the shadows flee away,\n Turn, my beloved, and be thou like a <i>[m]</i>roe or a young hart\n Upon the <i>[n]</i>mountains of <i>[o]</i>Bether.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-2-17",
+            "footnotes": [
+                {
+                    "k": "Or, <i>When the day is cool</i>"
+                },
+                {
+                    "l": "Or, <i>break</i>. Hebrew <i>breathe</i>."
+                },
+                {
+                    "m": "Or, <i>gazelle</i>"
+                },
+                {
+                    "n": "Or, <i>mountains of separation</i>"
+                },
+                {
+                    "o": "Perhaps, the spice <i>malobathron</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Song of Solomon",
+    "chapters": 2
+}

@@ -1,0 +1,219 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2013001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Exod-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013002,
+            "text": "Sanctify unto me all the first-born, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine.",
+            "version": "ASV",
+            "clsstr": "Exod-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013003,
+            "text": "\u00b6 And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of <i>[a]</i>bondage; for by strength of hand Jehovah brought you out from this place: there shall no leavened bread be eaten. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>bondmen</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013004,
+            "text": "This day ye go forth in the month Abib. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013005,
+            "text": "And it shall be, when Jehovah shall bring thee into the land of the Canaanite, and the Hittite, and the Amorite, and the Hivite, and the Jebusite, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013006,
+            "text": "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013007,
+            "text": "Unleavened bread shall be eaten throughout the seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee, in all thy borders. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013008,
+            "text": "And thou shalt tell thy son in that day, saying, It is because of that which Jehovah did for me when I came forth out of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013009,
+            "text": "And it shall be for a sign unto thee upon thy hand, and for a memorial between thine eyes, that the law of Jehovah may be in thy mouth: for with a strong hand hath Jehovah brought thee out of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013010,
+            "text": "Thou shalt therefore keep this ordinance in its season from year to year.",
+            "version": "ASV",
+            "clsstr": "Exod-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013011,
+            "text": "\u00b6 And it shall be, when Jehovah shall bring thee into the land of the Canaanite, as he sware unto thee and to thy fathers, and shall give it thee, ",
+            "version": "ASV",
+            "clsstr": "Exod-13-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013012,
+            "text": "that thou shalt <i>[b]</i>set apart unto Jehovah all that openeth the womb, and every firstling which thou hast that cometh of a beast; the males shall be Jehovah\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-12",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>cause to pass over</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013013,
+            "text": "And every firstling of an ass thou shalt redeem with a <i>[c]</i>lamb; and if thou wilt not redeem it, then thou shalt break its neck: and all the first-born of man among thy sons shalt thou redeem. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>kid</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013014,
+            "text": "And it shall be, when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand Jehovah brought us out from Egypt, from the house of <i>[d]</i>bondage: ",
+            "version": "ASV",
+            "clsstr": "Exod-13-14",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>bondmen</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013015,
+            "text": "and it came to pass, when Pharaoh <i>[e]</i>would hardly let us go, that Jehovah slew all the first-born in the land of Egypt, both the first-born of man, and the first-born of beast: therefore I sacrifice to Jehovah all that openeth the womb, being males; but all the first-born of my sons I redeem. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>hardened himself against letting us go</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013016,
+            "text": "And it shall be for a sign upon thy hand, and for frontlets between thine eyes: for by strength of hand Jehovah brought us forth out of Egypt.",
+            "version": "ASV",
+            "clsstr": "Exod-13-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013017,
+            "text": "\u00b6 And it came to pass, when Pharaoh had let the people go, that God led them not by the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt: ",
+            "version": "ASV",
+            "clsstr": "Exod-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013018,
+            "text": "but God led the people about, by the way of the wilderness by the Red Sea: and the children of Israel went up armed out of the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013019,
+            "text": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013020,
+            "text": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Exod-13-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013021,
+            "text": "And Jehovah went before them by day in a pillar of cloud, to lead them the way, and by night in a pillar of fire, to give them light; that they might go by day and by night: ",
+            "version": "ASV",
+            "clsstr": "Exod-13-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2013022,
+            "text": " <i>[f]</i>the pillar of cloud by day, and the pillar of fire by night, departed not from before the people.",
+            "version": "ASV",
+            "clsstr": "Exod-13-22",
+            "footnotes": [
+                {
+                    "f": "Or, <i>he took not away the pillar of cloud by day, or the etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 13
+}

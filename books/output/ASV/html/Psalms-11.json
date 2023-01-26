@@ -1,0 +1,90 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19011001,
+            "text": "<b>Jehovah a refuge and defence.</b>\n\u00b6 For the Chief Musician. of David.\u00b6   In Jehovah do I take refuge:\n  How say ye to my soul,\n  Flee <i>[a]</i> a bird to your mountain;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-11-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>ye birds</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19011002,
+            "text": "    For, lo, the wicked bend the bow,\n    They make ready their arrow upon the string,\n    That they may shoot in darkness at the upright in heart;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19011003,
+            "text": "   <i>[b]</i>If the foundations be destroyed,\n    What can the righteous do?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-11-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>For the foundations are destroyed; What hath the righteous wrought?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19011004,
+            "text": "    Jehovah is in his holy temple;\n    Jehovah, his throne is in heaven;\n    His eyes behold, his eyelids try, the children of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19011005,
+            "text": "    Jehovah trieth the righteous;\n    But the wicked and him that loveth violence his soul hateth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19011006,
+            "text": "    Upon the wicked he will rain snares;\n    Fire and brimstone and burning wind shall be the portion of their cup.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19011007,
+            "text": " For Jehovah is righteous; he loveth <i>[c]</i>righteousness:\n   <i>[d]</i>The upright shall behold his face.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-11-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>righteous deeds</i>"
+                },
+                {
+                    "d": "Or, <i>His countenance doth behold the upright</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 11
+}

@@ -1,0 +1,256 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1003001,
+            "text": "\u00b6 Now the serpent was more subtle than any beast of the field which Jehovah God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of <i>[a]</i>any tree of the garden? ",
+            "version": "ASV",
+            "clsstr": "Gen-3-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>all the trees</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003002,
+            "text": "And the woman said unto the serpent, Of the fruit of the trees of the garden we may eat: ",
+            "version": "ASV",
+            "clsstr": "Gen-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003003,
+            "text": "but of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003004,
+            "text": "And the serpent said unto the woman, Ye shall not surely die: ",
+            "version": "ASV",
+            "clsstr": "Gen-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003005,
+            "text": "for God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as <i>[b]</i>God, knowing good and evil. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>gods</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003006,
+            "text": "And when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was <i>[c]</i>to be desired to make one wise, she took of the fruit thereof, and did eat; and she gave also unto her husband with her, and he did eat. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>desirable to look upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003007,
+            "text": "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig-leaves together, and made themselves <i>[d]</i>aprons. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>girdles</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003008,
+            "text": "And they heard the <i>[e]</i>voice of Jehovah God walking in the garden in the <i>[f]</i>cool of the day: and the man and his wife hid themselves from the presence of Jehovah God amongst the trees of the garden.",
+            "version": "ASV",
+            "clsstr": "Gen-3-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>sound</i>"
+                },
+                {
+                    "f": "Hebrew <i>wind</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003009,
+            "text": "\u00b6 And Jehovah God called unto the man, and said unto him, Where art thou? ",
+            "version": "ASV",
+            "clsstr": "Gen-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003010,
+            "text": "And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003011,
+            "text": "And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat? ",
+            "version": "ASV",
+            "clsstr": "Gen-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003012,
+            "text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003013,
+            "text": "And Jehovah God said unto the woman, What is this thou hast done? And the woman said, The serpent beguiled me, and I did eat. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003014,
+            "text": "And Jehovah God said unto the serpent, Because thou hast done this, cursed art thou <i>[g]</i>above all cattle, and <i>[h]</i>above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life: ",
+            "version": "ASV",
+            "clsstr": "Gen-3-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>from among</i>"
+                },
+                {
+                    "h": "Or, <i>from among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003015,
+            "text": "and I will put enmity between thee and the woman, and between thy seed and her seed: he shall <i>[i]</i>bruise thy head, and thou shalt <i>[j]</i>bruise his heel. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-15",
+            "footnotes": [
+                {
+                    "i": "Or, <i>lie in wait for</i>"
+                },
+                {
+                    "j": "Or, <i>lie in wait for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003016,
+            "text": "Unto the woman he said, I will greatly multiply thy pain and thy conception; in pain thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003017,
+            "text": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in <i>[k]</i>toil shalt thou eat of it all the days of thy life; ",
+            "version": "ASV",
+            "clsstr": "Gen-3-17",
+            "footnotes": [
+                {
+                    "k": "Or, <i>sorrow</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003018,
+            "text": "thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field; ",
+            "version": "ASV",
+            "clsstr": "Gen-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003019,
+            "text": "in the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003020,
+            "text": "And the man called his wife\u2019s name <i>[l]</i>Eve; because she was the mother of all living. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-20",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>Havvah</i>, that is, <i>Living</i>, or <i>Life</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003021,
+            "text": "And Jehovah God made for Adam and for his wife coats of skins, and clothed them.",
+            "version": "ASV",
+            "clsstr": "Gen-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003022,
+            "text": "\u00b6 And Jehovah God said, Behold, the man is become as one of us, to know good and evil; and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever\u2014",
+            "version": "ASV",
+            "clsstr": "Gen-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003023,
+            "text": "therefore Jehovah God sent him forth from the garden of Eden, to till the ground from whence he was taken. ",
+            "version": "ASV",
+            "clsstr": "Gen-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1003024,
+            "text": "So he drove out the man; and he placed at the east of the garden of Eden the Cherubim, and the flame of a sword which turned every way, to keep the way of the tree of life.",
+            "version": "ASV",
+            "clsstr": "Gen-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 3
+}

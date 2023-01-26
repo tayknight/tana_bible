@@ -1,0 +1,204 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28004001,
+            "text": "\u00b6 Hear the word of Jehovah, ye children of Israel; for Jehovah hath a controversy with the inhabitants of the land, because there is no truth, nor goodness, nor knowledge of God in the land. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004002,
+            "text": "There is nought but swearing and breaking faith, and killing, and stealing, and committing adultery; they break out, and blood toucheth blood. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004003,
+            "text": "Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field and the birds of the heavens; yea, the fishes of the sea also shall be taken away. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004004,
+            "text": "Yet let no man strive, neither let any man reprove; for thy people are as they that strive with the priest. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004005,
+            "text": "And thou shalt stumble in the day, and the prophet also shall stumble with thee in the night; and I will destroy thy mother.",
+            "version": "ASV",
+            "clsstr": "Hos-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004006,
+            "text": "\u00b6 My people are destroyed for lack of knowledge: because thou hast rejected knowledge, <i>[a]</i>I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I also will forget thy children. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-6",
+            "footnotes": [
+                {
+                    "a": "According to another reading, <i>I have rejected</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004007,
+            "text": "As they were multiplied, so they sinned against me: I will change their glory into shame. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004008,
+            "text": "They feed on the sin of my people, and set their heart on their iniquity. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004009,
+            "text": "And it shall be, like people, like priest; and I will punish them for their ways, and will requite them their doings. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004010,
+            "text": "And they shall eat, and not have enough; they shall play the harlot, and shall not increase; because they have left off taking heed to Jehovah.",
+            "version": "ASV",
+            "clsstr": "Hos-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004011,
+            "text": "\u00b6 Whoredom and wine and new wine take away the <i>[b]</i>understanding. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-11",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004012,
+            "text": "My people ask counsel at their stock, and their staff declareth unto them; for the spirit of whoredom hath caused them to err, and they have played the harlot,  from under their God. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004013,
+            "text": "They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and terebinths, because the shadow thereof is good: therefore your daughters play the harlot, and your brides commit adultery. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004014,
+            "text": "I will not punish your daughters when they play the harlot, nor your <i>[c]</i>brides when they commit adultery; for  themselves go apart with harlots, and they sacrifice with the prostitutes; and the people that doth not understand shall be overthrown.",
+            "version": "ASV",
+            "clsstr": "Hos-4-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>daughters-in-law</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004015,
+            "text": "\u00b6 Though thou, Israel, play the harlot, yet let not Judah <i>[d]</i>offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, As Jehovah liveth. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>become guilty</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004016,
+            "text": "For Israel hath behaved himself stubbornly, like a stubborn heifer: now will Jehovah feed them as a lamb in a large place. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004017,
+            "text": "Ephraim is joined to idols; let him alone. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004018,
+            "text": " <i>[e]</i>Their drink is become sour; they play the harlot continually; <i>[f]</i>her <i>[g]</i>rulers dearly love shame. ",
+            "version": "ASV",
+            "clsstr": "Hos-4-18",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Their carouse is over</i>"
+                },
+                {
+                    "f": "Or, <i>they are given up to love; her rulers are a shame</i>"
+                },
+                {
+                    "g": "Hebrew <i>shields</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28004019,
+            "text": "The wind hath wrapped her up in its <i>[h]</i>wings; and <i>[i]</i>they shall be put to shame because of their sacrifices.",
+            "version": "ASV",
+            "clsstr": "Hos-4-19",
+            "footnotes": [
+                {
+                    "h": "Or, <i>skirts</i>"
+                },
+                {
+                    "i": "Or, as otherwise read, <i>their altars shall be put to shame</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 4
+}

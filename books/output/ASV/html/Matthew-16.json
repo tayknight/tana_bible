@@ -1,0 +1,301 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40016001,
+            "text": "\u00b6 And the Pharisees and Sadducees came, and trying him asked him to show them a sign from heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016002,
+            "text": "But he answered and said unto them, <i>[a]</i>When it is evening, ye say,  fair weather: for the heaven is red. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-2",
+            "footnotes": [
+                {
+                    "a": "The following words, to the end of [[verse 3]], are omitted by some of the most ancient and other important authorities."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016003,
+            "text": "And in the morning,  foul weather to-day: for the heaven is red and lowering. Ye know how to discern the face of the heaven; but ye cannot  the signs of the times. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016004,
+            "text": "An evil and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of Jonah. And he left them, and departed.",
+            "version": "ASV",
+            "clsstr": "Matt-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016005,
+            "text": "\u00b6 And the disciples came to the other side and forgot to take <i>[b]</i>bread. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-5",
+            "footnotes": [
+                {
+                    "b": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016006,
+            "text": "And Jesus said unto them, Take heed and beware of the leaven of the Pharisees and Sadducees. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016007,
+            "text": "And they reasoned among themselves, saying, <i>[c]</i>We took no <i>[d]</i>bread. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-7",
+            "footnotes": [
+                {
+                    "c": "Or, It is <i>because we took no bread</i>."
+                },
+                {
+                    "d": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016008,
+            "text": "And Jesus perceiving it said, O ye of little faith, why reason ye among yourselves, because ye have no <i>[e]</i>bread? ",
+            "version": "ASV",
+            "clsstr": "Matt-16-8",
+            "footnotes": [
+                {
+                    "e": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016009,
+            "text": "Do ye not yet perceive, neither remember the five loaves of the five thousand, and how many <i>[f]</i>baskets ye took up? ",
+            "version": "ASV",
+            "clsstr": "Matt-16-9",
+            "footnotes": [
+                {
+                    "f": "<i>Basket</i> in verses [[9]] and [[10]] represents different Greek words."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016010,
+            "text": "Neither the seven loaves of the four thousand, and how many <i>[g]</i>baskets ye took up? ",
+            "version": "ASV",
+            "clsstr": "Matt-16-10",
+            "footnotes": [
+                {
+                    "g": "<i>Basket</i> in verses [[9]] and [[10]] represents different Greek words."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016011,
+            "text": "How is it that ye do not perceive that I spake not to you concerning <i>[h]</i>bread? But beware of the leaven of the Pharisees and Sadducees. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-11",
+            "footnotes": [
+                {
+                    "h": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016012,
+            "text": "Then understood they that he bade them not beware of the leaven of <i>[i]</i>bread, but of the teaching of the Pharisees and Sadducees.",
+            "version": "ASV",
+            "clsstr": "Matt-16-12",
+            "footnotes": [
+                {
+                    "i": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016013,
+            "text": "\u00b6 Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, Who do men say <i>[j]</i>that the Son of man is? ",
+            "version": "ASV",
+            "clsstr": "Matt-16-13",
+            "footnotes": [
+                {
+                    "j": "Many ancient authorities read <i>that I the Son of man am</i>. See [[Mk. 8:27]]; [[Lk. 9:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016014,
+            "text": "And they said, Some  John the Baptist; some, Elijah; and others, Jeremiah, or one of the prophets. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016015,
+            "text": "He saith unto them, But who say ye that I am? ",
+            "version": "ASV",
+            "clsstr": "Matt-16-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016016,
+            "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016017,
+            "text": "And Jesus answered and said unto him, Blessed art thou, Simon Bar-Jonah: for flesh and blood hath not revealed it unto thee, but my Father who is in heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016018,
+            "text": "And I also say unto thee, that thou art <i>[k]</i>Peter, and upon this <i>[l]</i>rock I will build my church; and the gates of Hades shall not prevail against it. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-18",
+            "footnotes": [
+                {
+                    "k": "Greek <i>Petros</i>."
+                },
+                {
+                    "l": "Greek <i>petra</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016019,
+            "text": "I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven; and whatsoever thou shalt loose on earth shall be loosed in heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016020,
+            "text": "Then charged he the disciples that they should tell no man that he was the Christ.",
+            "version": "ASV",
+            "clsstr": "Matt-16-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016021,
+            "text": "\u00b6 From that time began <i>[m]</i>Jesus to show unto his disciples, that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and the third day be raised up. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-21",
+            "footnotes": [
+                {
+                    "m": "Some ancient authorities read <i>Jesus Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016022,
+            "text": "And Peter took him, and began to rebuke him, saying, <i>[n]</i>Be it far from thee, Lord: this shall never be unto thee. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-22",
+            "footnotes": [
+                {
+                    "n": "Or, God <i>have mercy on thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016023,
+            "text": "But he turned, and said unto Peter, Get thee behind me, Satan: thou art a stumbling-block unto me: for thou mindest not the things of God, but the things of men. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016024,
+            "text": "Then said Jesus unto his disciples, If any man would come after me, let him deny himself, and take up his cross, and follow me. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016025,
+            "text": "For whosoever would save his life shall lose it: and whosoever shall lose his life for my sake shall find it. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016026,
+            "text": "For what shall a man be profited, if he shall gain the whole world, and forfeit his life? or what shall a man give in exchange for his life? ",
+            "version": "ASV",
+            "clsstr": "Matt-16-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016027,
+            "text": "For the Son of man shall come in the glory of his Father with his angels; and then shall he render unto every man according to his <i>[o]</i>deeds. ",
+            "version": "ASV",
+            "clsstr": "Matt-16-27",
+            "footnotes": [
+                {
+                    "o": "Greek <i>doing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40016028,
+            "text": "Verily I say unto you, There are some of them that stand here, who shall in no wise taste of death, till they see the Son of man coming in his kingdom.",
+            "version": "ASV",
+            "clsstr": "Matt-16-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 16
+}

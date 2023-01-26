@@ -1,0 +1,419 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18038001,
+            "text": "\u00b6 Then Jehovah answered Job out of the whirlwind, and said,",
+            "version": "ASV",
+            "clsstr": "Job-38-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038002,
+            "text": "\u00b6     Who is this that darkeneth counsel\n    By words without knowledge?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038003,
+            "text": "    Gird up now thy loins like a man;\n    For I will demand of thee, and declare thou unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038004,
+            "text": "  Where wast thou when I laid the foundations of the earth?\n  Declare, <i>[a]</i>if thou hast understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>if thou knowest understanding</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038005,
+            "text": "  Who determined the measures thereof, <i>[b]</i>if thou knowest?\n    Or who stretched the line upon it?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>seeing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038006,
+            "text": " Whereupon were the <i>[c]</i>foundations thereof <i>[d]</i>fastened?\n    Or who laid the corner-stone thereof,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>sockets</i>."
+                },
+                {
+                    "d": "Hebrew <i>made to sink</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038007,
+            "text": "    When the morning stars sang together,\n    And all the sons of God shouted for joy?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038008,
+            "text": "\u00b6   Or shut up the sea with doors,\n  When it brake forth, <i>[e]</i> it had issued out of the womb;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-8",
+            "footnotes": [
+                {
+                    "e": "Or, and <i>issued</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038009,
+            "text": "    When I made clouds the garment thereof,\n    And thick darkness a swaddling-band for it,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038010,
+            "text": "  And <i>[f]</i>marked out for it my bound,\n    And set bars and doors,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-10",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>brake</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038011,
+            "text": "    And said, Hitherto shalt thou come, but no further;\n    And here shall thy proud waves be stayed?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038012,
+            "text": "\u00b6     Hast thou commanded the morning since thy days ,\n     caused the dayspring to know its place;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038013,
+            "text": "    That it might take hold of the ends of the earth,\n    And the wicked be shaken out of it?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038014,
+            "text": "  It is changed as clay under the seal;\n  And stand forth <i>[g]</i>as a garment:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>as</i> in <i>a garment</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038015,
+            "text": "    And from the wicked their light is withholden,\n    And the high arm is broken.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038016,
+            "text": "\u00b6   Hast thou entered into the springs of the sea?\n  Or hast thou walked in the <i>[h]</i>recesses of the deep?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-16",
+            "footnotes": [
+                {
+                    "h": "Or, <i>search</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038017,
+            "text": "    Have the gates of death been revealed unto thee?\n    Or hast thou seen the gates of the shadow of death?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038018,
+            "text": "    Hast thou comprehended the earth in its breadth?\n    Declare, if thou knowest it all.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038019,
+            "text": "\u00b6     Where is the way to the dwelling of light?\n    And as for darkness, where is the place thereof,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038020,
+            "text": "    That thou shouldest take it to the bound thereof,\n    And that thou shouldest discern the paths to the house thereof?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038021,
+            "text": "    , thou knowest, for thou wast then born,\n    And the number of thy days is great!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038022,
+            "text": "    Hast thou entered the treasuries of the snow,\n    Or hast thou seen the treasures of the hail,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038023,
+            "text": "    Which I have reserved against the time of trouble,\n    Against the day of battle and war?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038024,
+            "text": "   <i>[i]</i>By what way is the light parted,\n    Or the east wind scattered upon the earth?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-24",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Which is the way</i> to the place where <i>the light is etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038025,
+            "text": "\u00b6     Who hath cleft a channel for the waterflood,\n    Or the way for the lightning of the thunder;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038026,
+            "text": "    To cause it to rain on a land where no man is;\n    On the wilderness, wherein there is no man;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038027,
+            "text": "  To satisfy the waste and desolate ,\n  And to cause the <i>[j]</i>tender grass to spring forth?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-27",
+            "footnotes": [
+                {
+                    "j": "Or, <i>greensward</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038028,
+            "text": "    Hath the rain a father?\n    Or who hath begotten the drops of dew?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038029,
+            "text": "  Out of whose womb came the ice?\n  And the hoary frost of heaven, who hath <i>[k]</i>gendered it?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-29",
+            "footnotes": [
+                {
+                    "k": "Or, <i>given it birth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038030,
+            "text": " The waters <i>[l]</i>hide themselves like stone,\n  And the face of the deep <i>[m]</i>is frozen.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-30",
+            "footnotes": [
+                {
+                    "l": "Or, <i>are congealed like stone</i>"
+                },
+                {
+                    "m": "Hebrew <i>cohereth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038031,
+            "text": "\u00b6   Canst thou bind the <i>[n]</i>cluster of the Pleiades,\n    Or loose the bands of Orion?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-31",
+            "footnotes": [
+                {
+                    "n": "Or, <i>chain</i> Or, <i>sweet influences</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038032,
+            "text": " Canst thou lead forth <i>[o]</i>the Mazzaroth in their season?\n  Or canst thou guide the Bear with her <i>[p]</i>train?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-32",
+            "footnotes": [
+                {
+                    "o": "Or, <i>the signs of the Zodiac</i>"
+                },
+                {
+                    "p": "Hebrew <i>sons</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038033,
+            "text": "    Knowest thou the ordinances of the heavens?\n    Canst thou establish the dominion thereof in the earth?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038034,
+            "text": "\u00b6     Canst thou lift up thy voice to the clouds,\n    That abundance of waters may cover thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038035,
+            "text": "    Canst thou send forth lightnings, that they may go,\n    And say unto thee, Here we are?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038036,
+            "text": " Who hath put wisdom in the <i>[q]</i>inward parts?\n  Or who hath given understanding to the <i>[r]</i>mind?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-36",
+            "footnotes": [
+                {
+                    "q": "Or, <i>dark clouds</i>"
+                },
+                {
+                    "r": "Or, <i>meteor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038037,
+            "text": "  Who can number the clouds by wisdom?\n  Or who can <i>[s]</i>pour out the bottles of heaven,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-37",
+            "footnotes": [
+                {
+                    "s": "Hebrew <i>cause to lie down</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038038,
+            "text": "    When the dust runneth into a mass,\n    And the clods cleave fast together?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038039,
+            "text": "\u00b6     Canst thou hunt the prey for the lioness,\n    Or satisfy the appetite of the young lions,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038040,
+            "text": "    When they couch in their dens,\n     abide in the covert to lie in wait?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18038041,
+            "text": "    Who provideth for the raven his prey,\n    When his young ones cry unto God,\n     wander for lack of food?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-38-41",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 38
+}

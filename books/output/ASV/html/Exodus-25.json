@@ -1,0 +1,421 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2025001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Exod-25-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025002,
+            "text": "Speak unto the children of Israel, that they take for me an <i>[a]</i>offering: of every man whose heart maketh him willing ye shall take my offering. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>heave-offering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025003,
+            "text": "And this is the <i>[b]</i>offering which ye shall take of them: gold, and silver, and brass, ",
+            "version": "ASV",
+            "clsstr": "Exod-25-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>heave-offering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025004,
+            "text": "and blue, and purple, and scarlet, and <i>[c]</i>fine linen, and goats\u2019 , ",
+            "version": "ASV",
+            "clsstr": "Exod-25-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>cotton</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025005,
+            "text": "and rams\u2019 skins dyed red, and <i>[d]</i>sealskins, and acacia wood, ",
+            "version": "ASV",
+            "clsstr": "Exod-25-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>porpoise-skins</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025006,
+            "text": "oil for the light, spices for the anointing oil, and for the sweet incense, ",
+            "version": "ASV",
+            "clsstr": "Exod-25-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025007,
+            "text": " <i>[e]</i>onyx stones, and stones to be set, for the ephod, and for the breastplate. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>beryl</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025008,
+            "text": "And let them make me a sanctuary, that I may dwell among them. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025009,
+            "text": "According to all that I show thee, the pattern of the <i>[f]</i>tabernacle, and the pattern of all the furniture thereof, even so shall ye make it.",
+            "version": "ASV",
+            "clsstr": "Exod-25-9",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>dwelling</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025010,
+            "text": "\u00b6 And they shall make an ark of acacia wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025011,
+            "text": "And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a <i>[g]</i>crown of gold round about. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>rim</i>. Or, <i>moulding</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025012,
+            "text": "And thou shalt cast four rings of gold for it, and put them in the four feet thereof; and two rings shall be on the one <i>[h]</i>side of it, and two rings on the other <i>[i]</i>side of it. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-12",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>rib</i>."
+                },
+                {
+                    "i": "Hebrew <i>rib</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025013,
+            "text": "And thou shalt make staves of acacia wood, and overlay them with gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025014,
+            "text": "And thou shalt put the staves into the rings on the sides of the ark, wherewith to bear the ark. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025015,
+            "text": "The staves shall be in the rings of the ark: they shall not be taken from it. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025016,
+            "text": "And thou shalt put into the ark the testimony which I shall give thee. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025017,
+            "text": "And thou shalt make a <i>[j]</i>mercy-seat of pure gold: two cubits and a half  the length thereof, and a cubit and a half the breadth thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>covering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025018,
+            "text": "And thou shalt make two cherubim of gold; of <i>[k]</i>beaten work shalt thou make them, at the two ends of the mercy-seat. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-18",
+            "footnotes": [
+                {
+                    "k": "Or, <i>turned</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025019,
+            "text": "And make one cherub at the one end, and one cherub at the other end: <i>[l]</i>of one piece with the mercy-seat shall ye make the cherubim on the two ends thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-19",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>out of the mercy-seat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025020,
+            "text": "And the cherubim shall spread out their wings on high, covering the mercy-seat with their wings, with their faces one to another; toward the mercy-seat shall the faces of the cherubim be. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025021,
+            "text": "And thou shalt put the mercy-seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025022,
+            "text": "And there I will meet with thee, and I will commune with thee from above the mercy-seat, from between the two cherubim which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel.",
+            "version": "ASV",
+            "clsstr": "Exod-25-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025023,
+            "text": "\u00b6 And thou shalt make a table of acacia wood: two cubits  the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025024,
+            "text": "And thou shalt overlay it with pure gold, and make thereto a crown of gold round about. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025025,
+            "text": "And thou shalt make unto it a border of a handbreadth round about; and thou shalt make a golden crown to the border thereof round about. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025026,
+            "text": "And thou shalt make for it four rings of gold, and put the rings in the four corners that are on the four feet thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025027,
+            "text": "Close by the border shall the rings be, for places for the staves to bear the table. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025028,
+            "text": "And thou shalt make the staves of acacia wood, and overlay them with gold, that the table may be borne with them. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025029,
+            "text": "And thou shalt make the dishes thereof, and the spoons thereof, and the flagons thereof, and the bowls thereof, wherewith to pour out: of pure gold shalt thou make them. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025030,
+            "text": "And thou shalt set upon the table <i>[m]</i>showbread before me alway.",
+            "version": "ASV",
+            "clsstr": "Exod-25-30",
+            "footnotes": [
+                {
+                    "m": "Or, <i>Presence-bread</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025031,
+            "text": "\u00b6 And thou shalt make a candlestick of pure gold: of <i>[n]</i>beaten work shall the candlestick be made, even its <i>[o]</i>base, and its shaft; its cups, its knops, and its flowers, shall be <i>[p]</i>of one piece with it: ",
+            "version": "ASV",
+            "clsstr": "Exod-25-31",
+            "footnotes": [
+                {
+                    "n": "Or, <i>turned</i>"
+                },
+                {
+                    "o": "Hebrew <i>thigh</i>."
+                },
+                {
+                    "p": "Hebrew <i>out of the same</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025032,
+            "text": "and there shall be six branches going out of the sides thereof; three branches of the candlestick out of the one side thereof, and three branches of the candlestick out of the other side thereof: ",
+            "version": "ASV",
+            "clsstr": "Exod-25-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025033,
+            "text": "three cups made like almond-blossoms in one branch, a knop and a flower; and three cups made like almond-blossoms in the other branch, a knop and a flower: so for the six branches going out of the candlestick: ",
+            "version": "ASV",
+            "clsstr": "Exod-25-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025034,
+            "text": "and in the candlestick four cups made like almond-blossoms, the knops thereof, and the flowers thereof; ",
+            "version": "ASV",
+            "clsstr": "Exod-25-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025035,
+            "text": "and a knop under two branches <i>[q]</i>of one piece with it, and a knop under two branches <i>[r]</i>of one piece with it, and a knop under two branches <i>[s]</i>of one piece with it, for the six branches going out of the candlestick. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-35",
+            "footnotes": [
+                {
+                    "q": "Hebrew <i>out of the same</i>."
+                },
+                {
+                    "r": "Hebrew <i>out of the same</i>."
+                },
+                {
+                    "s": "Hebrew <i>out of the same</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025036,
+            "text": "Their knops and their branches shall be <i>[t]</i>of one piece with it; the whole of it one <i>[u]</i>beaten work of pure gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-36",
+            "footnotes": [
+                {
+                    "t": "Hebrew <i>out of the same</i>."
+                },
+                {
+                    "u": "Or, <i>turned</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025037,
+            "text": "And thou shalt make the lamps thereof, seven: and they shall <i>[v]</i>light the lamps thereof, to give light over against it. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-37",
+            "footnotes": [
+                {
+                    "v": "Or, <i>set up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025038,
+            "text": "And the snuffers thereof, and the snuffdishes thereof, shall be of pure gold. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025039,
+            "text": "Of a talent of pure gold shall it be made, with all these vessels. ",
+            "version": "ASV",
+            "clsstr": "Exod-25-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2025040,
+            "text": "And see that thou make them after their pattern, which hath been showed thee in the mount.",
+            "version": "ASV",
+            "clsstr": "Exod-25-40",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 25
+}

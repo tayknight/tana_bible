@@ -1,0 +1,313 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 60,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 60,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 60002001,
+            "text": "\u00b6 Putting away therefore all <i>[a]</i>wickedness, and all guile, and hypocrisies, and envies, and all evil speakings, ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>malice</i>. [[1 Cor. 14:20]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002002,
+            "text": "as newborn babes, long for the <i>[b]</i>spiritual milk which is without guile, that ye may grow thereby unto salvation; ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-2",
+            "footnotes": [
+                {
+                    "b": "Greek <i>belonging to the reason</i>. Compare [[Rom. 12:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002003,
+            "text": "if ye have tasted that the Lord is gracious: ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002004,
+            "text": "unto whom coming, a living stone, rejected indeed of men, but with God elect, <i>[c]</i>precious, ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>honorable</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002005,
+            "text": "ye also, as living stones, are built up <i>[d]</i>a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>a spiritual house for a holy priesthood</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002006,
+            "text": "Because it is contained in <i>[e]</i>scripture,\u00b6 <i>[f]</i>Behold, I lay in Zion a chief corner stone, elect, <i>[g]</i>precious:\n  And he that believeth on <i>[h]</i>him shall not be put to shame.\n    ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>a scripture</i>"
+                },
+                {
+                    "f": "[[Isa. 28:16]]."
+                },
+                {
+                    "g": "Or, <i>honorable</i>"
+                },
+                {
+                    "h": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002007,
+            "text": "\u00b6 <i>[i]</i>For you therefore that believe is the <i>[j]</i>preciousness: but for such as disbelieve,\u00b6   <i>[k]</i>The stone which the builders rejected,\n    The same was made the head of the corner;\n    ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-7",
+            "footnotes": [
+                {
+                    "i": "Or, <i>In your sight</i>"
+                },
+                {
+                    "j": "Or, <i>honor</i>"
+                },
+                {
+                    "k": "[[Ps. 118:22]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002008,
+            "text": "\u00b6 and,\u00b6 <i>[l]</i>A stone of stumbling, and a rock of offence;\n \u00b6 <i>[m]</i>for they <i>[n]</i>stumble at the word, being disobedient: whereunto also they were appointed. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-8",
+            "footnotes": [
+                {
+                    "l": "[[Isa. 8:14]]."
+                },
+                {
+                    "m": "Greek <i>who</i>."
+                },
+                {
+                    "n": "Or, <i>stumble, being disobedient to the word</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002009,
+            "text": "But ye are an elect race, a royal priesthood, a holy nation, a people for  own possession, that ye may show forth the excellencies of him who called you out of darkness into his marvellous light: ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002010,
+            "text": "who in time past were no people, but now are the people of God: who had not obtained mercy, but now have obtained mercy.",
+            "version": "ASV",
+            "clsstr": "1Pet-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002011,
+            "text": "\u00b6 Beloved, I beseech you as sojourners and pilgrims, to abstain from fleshly lusts, which war against the soul; ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002012,
+            "text": "having your behavior seemly among the Gentiles; that, wherein they speak against you as evil-doers, they may by your good works, which they behold, glorify God in the day of visitation.",
+            "version": "ASV",
+            "clsstr": "1Pet-2-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002013,
+            "text": "\u00b6 Be subject to every <i>[o]</i>ordinance of man for the Lord\u2019s sake: whether to the king, as supreme; ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-13",
+            "footnotes": [
+                {
+                    "o": "Greek <i>creation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002014,
+            "text": "or unto governors, as sent <i>[p]</i>by him for vengeance on evil-doers and for praise to them that do well. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-14",
+            "footnotes": [
+                {
+                    "p": "Greek <i>through</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002015,
+            "text": "For so is the will of God, that by well-doing ye should put to silence the ignorance of foolish men: ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002016,
+            "text": "as free, and not <i>[q]</i>using your freedom for a cloak of <i>[r]</i>wickedness, but as bondservants of God. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-16",
+            "footnotes": [
+                {
+                    "q": "Greek <i>having</i>."
+                },
+                {
+                    "r": "Or, <i>malice</i>. [[1 Cor. 14:20]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002017,
+            "text": "Honor all men. Love the brotherhood. Fear God. Honor the king.",
+            "version": "ASV",
+            "clsstr": "1Pet-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002018,
+            "text": "\u00b6 <i>[s]</i>Servants,  in subjection to your masters with all fear; not only to the good and gentle, but also to the froward. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-18",
+            "footnotes": [
+                {
+                    "s": "Greek <i>Household-servants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002019,
+            "text": "For this is <i>[t]</i>acceptable, if for conscience <i>[u]</i>toward God a man endureth griefs, suffering wrongfully. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-19",
+            "footnotes": [
+                {
+                    "t": "Greek <i>grace</i>."
+                },
+                {
+                    "u": "Greek <i>of</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002020,
+            "text": "For what glory is it, if, when ye sin, and are buffeted , ye shall take it patiently? but if, when ye do well, and suffer , ye shall take it patiently, this is <i>[v]</i>acceptable with God. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-20",
+            "footnotes": [
+                {
+                    "v": "Greek <i>grace</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002021,
+            "text": "For hereunto were ye called: because Christ also suffered for you, leaving you an example, that ye should follow his steps: ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002022,
+            "text": "who did no sin, neither was guile found in his mouth: ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002023,
+            "text": "who, when he was reviled, reviled not again; when he suffered, threatened not; but committed <i>[w]</i> to him that judgeth righteously: ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-23",
+            "footnotes": [
+                {
+                    "w": "Or, his cause"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002024,
+            "text": "who his own self <i>[x]</i>bare our sins in his body upon the tree, that we, having died unto sins, might live unto righteousness; by whose <i>[y]</i>stripes ye were healed. ",
+            "version": "ASV",
+            "clsstr": "1Pet-2-24",
+            "footnotes": [
+                {
+                    "x": "Or, <i>carried up\u00a0.\u00a0.\u00a0. to the tree</i>. Compare [[Col. 2:14]]; [[1 Macc. 4:53]] (Greek)."
+                },
+                {
+                    "y": "Greek <i>bruise</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 60002025,
+            "text": "For ye were going astray like sheep; but are now returned unto the Shepherd and <i>[z]</i>Bishop of your souls.",
+            "version": "ASV",
+            "clsstr": "1Pet-2-25",
+            "footnotes": [
+                {
+                    "z": "Or, <i>Overseer</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Peter",
+    "chapters": 2
+}

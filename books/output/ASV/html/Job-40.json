@@ -1,0 +1,226 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18040001,
+            "text": "\u00b6 Moreover Jehovah answered Job, and said,",
+            "version": "ASV",
+            "clsstr": "Job-40-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040002,
+            "text": "\u00b6     Shall he that cavilleth contend with the Almighty?\n    He that argueth with God, let him answer it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040003,
+            "text": "\u00b6 Then Job answered Jehovah, and said,",
+            "version": "ASV",
+            "clsstr": "Job-40-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040004,
+            "text": "\u00b6     Behold, I am of small account; what shall I answer thee?\n    I lay my hand upon my mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040005,
+            "text": "    Once have I spoken, and I will not answer;\n    Yea, twice, but I will proceed no further.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040006,
+            "text": "\u00b6 Then Jehovah answered Job out of the whirlwind, and said,",
+            "version": "ASV",
+            "clsstr": "Job-40-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040007,
+            "text": "\u00b6     Gird up thy loins now like a man:\n    I will demand of thee, and declare thou unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040008,
+            "text": "    Wilt thou even annul my judgment?\n    Wilt thou condemn me, that thou mayest be justified?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040009,
+            "text": "    Or hast thou an arm like God?\n    And canst thou thunder with a voice like him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040010,
+            "text": "\u00b6     Deck thyself now with excellency and dignity;\n    And array thyself with honor and majesty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040011,
+            "text": "    Pour forth the overflowings of thine anger;\n    And look upon every one that is proud, and abase him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040012,
+            "text": "    Look on every one that is proud,  bring him low;\n    And tread down the wicked where they stand.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040013,
+            "text": "    Hide them in the dust together;\n    Bind their faces in the hidden .\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040014,
+            "text": "    Then will I also confess of thee\n    That thine own right hand can save thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040015,
+            "text": "\u00b6  Behold now, <i>[a]</i>behemoth, which I made <i>[b]</i>as well as thee;\n    He eateth grass as an ox.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-15",
+            "footnotes": [
+                {
+                    "a": "That is, <i>the hippopotamus</i>."
+                },
+                {
+                    "b": "Hebrew <i>with</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040016,
+            "text": "    Lo now, his strength is in his loins,\n    And his force is in the muscles of his belly.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040017,
+            "text": "    He moveth his tail like a cedar:\n    The sinews of his thighs are knit together.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040018,
+            "text": "  His bones are tubes of brass;\n  His <i>[c]</i>limbs are like bars of iron.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-18",
+            "footnotes": [
+                {
+                    "c": "Or, <i>ribs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040019,
+            "text": "\u00b6     He is the chief of the ways of God:\n    He  that made him giveth him his sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040020,
+            "text": "    Surely the mountains bring him forth food,\n    Where all the beasts of the field do play.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040021,
+            "text": "    He lieth under the lotus-trees,\n    In the covert of the reed, and the fen.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040022,
+            "text": "    The lotus-trees cover him with their shade;\n    The willows of the brook compass him about.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040023,
+            "text": "  Behold, if a river <i>[d]</i>overflow, he trembleth not;\n    He is confident, though a Jordan swell even to his mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-23",
+            "footnotes": [
+                {
+                    "d": "Or, <i>be violent</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18040024,
+            "text": "    Shall any take him when he is on the watch,\n    Or pierce through his nose with a snare?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-40-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 40
+}

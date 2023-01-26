@@ -1,0 +1,659 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24051001,
+            "text": "\u00b6 Thus saith Jehovah: Behold, I will raise up against Babylon, and against them that dwell in <i>[a]</i>Leb-kamai, a destroying wind. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>The heart of them that rise up against me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051002,
+            "text": "And I will send unto Babylon <i>[b]</i>strangers, that shall winnow her; and they shall empty her land: for in the day of trouble they shall be against her round about. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>winnowers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051003,
+            "text": " <i>[c]</i>Against bendeth let the archer bend his bow, and against lifteth himself up in his coat of mail: and spare ye not her young men; <i>[d]</i>destroy ye utterly all her host. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-3",
+            "footnotes": [
+                {
+                    "c": "Or, as otherwise read, <i>Let not the archer bend his bow, and let him not lift</i>"
+                },
+                {
+                    "d": "Hebrew <i>devote ye all etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051004,
+            "text": "And they shall fall down slain in the land of the Chaldeans, and thrust through in her streets.",
+            "version": "ASV",
+            "clsstr": "Jer-51-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051005,
+            "text": "\u00b6 For Israel is not <i>[e]</i>forsaken, nor Judah, of his God, of Jehovah of hosts; though their land is full of guilt against the Holy One of Israel. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-5",
+            "footnotes": [
+                {
+                    "e": "Or, <i>widowed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051006,
+            "text": "Flee out of the midst of Babylon, and save every man his life; be not cut off in her iniquity: for it is the time of Jehovah\u2019s vengeance; he will render unto her a recompense. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051007,
+            "text": "Babylon hath been a golden cup in Jehovah\u2019s hand, that made all the earth drunken: the nations have drunk of her wine; therefore the nations are mad. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051008,
+            "text": "Babylon is suddenly fallen and destroyed: wail for her; take balm for her pain, if so be she may be healed. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051009,
+            "text": "We would have healed Babylon, but she is not healed: forsake her, and let us go every one into his own country; for her judgment reacheth unto heaven, and is lifted up even to the skies. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051010,
+            "text": "Jehovah hath brought forth our righteousness: come, and let us declare in Zion the work of Jehovah our God.",
+            "version": "ASV",
+            "clsstr": "Jer-51-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051011,
+            "text": "\u00b6 Make <i>[f]</i>sharp the arrows; <i>[g]</i>hold firm the <i>[h]</i>shields: Jehovah hath stirred up the spirit of the kings of the Medes; because his purpose is against Babylon, to destroy it: for it is the vengeance of Jehovah, the vengeance of his temple. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>bright</i>. Hebrew <i>clean</i>."
+                },
+                {
+                    "g": "Hebrew <i>fill</i>."
+                },
+                {
+                    "h": "Or, <i>suits of armor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051012,
+            "text": "Set up a standard against the walls of Babylon, make the watch strong, set the watchmen, prepare the ambushes; for Jehovah hath both purposed and done that which he spake concerning the inhabitants of Babylon. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051013,
+            "text": "O thou that dwellest upon many waters, abundant in treasures, thine end is come, the measure of thy <i>[i]</i>covetousness. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-13",
+            "footnotes": [
+                {
+                    "i": "Or, <i>dishonest gain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051014,
+            "text": "Jehovah of hosts hath sworn by himself, , <i>[j]</i>Surely I will fill thee with men, as with the canker-worm; <i>[k]</i>and they shall lift up a shout against thee.",
+            "version": "ASV",
+            "clsstr": "Jer-51-14",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Though I have filled</i>"
+                },
+                {
+                    "k": "Or, <i>yet</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051015,
+            "text": "\u00b6 He hath made the earth by his power, he hath established the world by his wisdom, and by his understanding hath he stretched out the heavens. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051016,
+            "text": "When he uttereth his voice, there is a tumult of waters in the heavens, and he causeth the vapors to ascend from the ends of the earth; he maketh lightnings for the rain, and bringeth forth the wind out of his treasuries. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051017,
+            "text": "Every man is become brutish  without knowledge; every goldsmith is put to shame by his image; for his molten image is falsehood, and there is no breath in them. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051018,
+            "text": "They are vanity, a work of delusion: in the time of their visitation they shall perish. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051019,
+            "text": "The portion of Jacob is not like these; for he is the former of all things; and  is the tribe of his inheritance: Jehovah of hosts is his name.",
+            "version": "ASV",
+            "clsstr": "Jer-51-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051020,
+            "text": "\u00b6 Thou art my <i>[l]</i>battle-axe and weapons of war: and with thee will I break in pieces the nations; and with thee will I destroy kingdoms; ",
+            "version": "ASV",
+            "clsstr": "Jer-51-20",
+            "footnotes": [
+                {
+                    "l": "Or, <i>maul</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051021,
+            "text": "and with thee will I break in pieces the horse and his rider; ",
+            "version": "ASV",
+            "clsstr": "Jer-51-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051022,
+            "text": "and with thee will I break in pieces the chariot and him that rideth therein; and with thee will I break in pieces man and woman; and with thee will I break in pieces the old man and the youth; and with thee will I break in pieces the young man and the virgin; ",
+            "version": "ASV",
+            "clsstr": "Jer-51-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051023,
+            "text": "and with thee will I break in pieces the shepherd and his flock; and with thee will I break in pieces the husbandman and his yoke ; and with thee will I break in pieces <i>[m]</i>governors and deputies. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-23",
+            "footnotes": [
+                {
+                    "m": "Or, <i>lieutenants</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051024,
+            "text": "And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-51-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051025,
+            "text": "\u00b6 Behold, I am against thee, O destroying mountain, saith Jehovah, which destroyest all the earth; and I will stretch out my hand upon thee, and roll thee down from the rocks, and will make thee a burnt mountain. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051026,
+            "text": "And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate for ever, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-51-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051027,
+            "text": "\u00b6 Set ye up a standard in the land, blow the trumpet among the nations, <i>[n]</i>prepare the nations against her, call together against her the kingdoms of Ararat, Minni, and Ashkenaz: appoint a marshal against her; cause the horses to come up as the rough canker-worm. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-27",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>sanctify</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051028,
+            "text": " <i>[o]</i>Prepare against her the nations, the kings of the Medes, the governors thereof, and all the deputies thereof, and all the land of their dominion. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-28",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>Sanctify</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051029,
+            "text": "And the land trembleth and is in pain; for the purposes of Jehovah against Babylon do stand, to make the land of Babylon a desolation, without inhabitant. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051030,
+            "text": "The mighty men of Babylon have forborne to fight, they remain in their strongholds; their might hath failed; they are become as women: her dwelling-places are set on fire; her bars are broken. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051031,
+            "text": "One post shall run to meet another, and one messenger to meet another, to show the king of Babylon that his city is taken on every quarter: ",
+            "version": "ASV",
+            "clsstr": "Jer-51-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051032,
+            "text": "and the <i>[p]</i>passages are seized, and the <i>[q]</i>reeds they have burned with fire, and the men of war are affrighted.",
+            "version": "ASV",
+            "clsstr": "Jer-51-32",
+            "footnotes": [
+                {
+                    "p": "Or, <i>fords</i>"
+                },
+                {
+                    "q": "Or, <i>marshes</i>. Hebrew <i>pools</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051033,
+            "text": "\u00b6 For thus saith Jehovah of hosts, the God of Israel: The daughter of Babylon is like a threshing-floor at the time when it is trodden; yet a little while, and the time of harvest shall come for her. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051034,
+            "text": "Nebuchadrezzar the king of Babylon hath devoured <i>[r]</i>me, he hath crushed <i>[s]</i>me, he hath made <i>[t]</i>me an empty vessel, he hath, like a monster, swallowed <i>[u]</i>me up, he hath filled his maw with my delicacies; he hath cast <i>[v]</i>me out. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-34",
+            "footnotes": [
+                {
+                    "r": "Another reading is, <i>us</i>."
+                },
+                {
+                    "s": "Another reading is, <i>us</i>."
+                },
+                {
+                    "t": "Another reading is, <i>us</i>."
+                },
+                {
+                    "u": "Another reading is, <i>us</i>."
+                },
+                {
+                    "v": "Another reading is, <i>us</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051035,
+            "text": " <i>[w]</i>The violence done to me and to my flesh be upon Babylon, shall the <i>[x]</i>inhabitant of Zion say; and, My blood be upon the inhabitants of Chaldea, shall Jerusalem say. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-35",
+            "footnotes": [
+                {
+                    "w": "Hebrew <i>My wrong and my flesh</i>."
+                },
+                {
+                    "x": "Hebrew <i>inhabitress</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051036,
+            "text": "Therefore thus saith Jehovah: Behold, I will plead thy cause, and take vengeance for thee; and I will dry up her sea, and make her fountain dry. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051037,
+            "text": "And Babylon shall become heaps, a dwelling-place for jackals, an astonishment, and a hissing, without inhabitant. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051038,
+            "text": "They shall roar together like young lions; they shall growl as lions\u2019 whelps. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051039,
+            "text": "When they are heated, I will make their feast, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051040,
+            "text": "I will bring them down like lambs to the slaughter, like rams with he-goats.",
+            "version": "ASV",
+            "clsstr": "Jer-51-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051041,
+            "text": "\u00b6 How is Sheshach taken! and the praise of the whole earth seized! how is Babylon become <i>[y]</i>a desolation among the nations! ",
+            "version": "ASV",
+            "clsstr": "Jer-51-41",
+            "footnotes": [
+                {
+                    "y": "Or, <i>an astonishment</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051042,
+            "text": "The sea is come up upon Babylon; she is covered with the <i>[z]</i>multitude of the waves thereof. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-42",
+            "footnotes": [
+                {
+                    "z": "Or, <i>tumult</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051043,
+            "text": "Her cities are become <i>[aa]</i>a desolation, a dry land, and a desert, a land wherein no man dwelleth, neither doth any son of man pass thereby. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-43",
+            "footnotes": [
+                {
+                    "aa": "Or, <i>an astonishment</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051044,
+            "text": "And I will <i>[ab]</i>execute judgment upon Bel in Babylon, and I will bring forth out of his mouth that which he hath swallowed up; and the nations shall not flow any more unto him: yea, the wall of Babylon shall fall.",
+            "version": "ASV",
+            "clsstr": "Jer-51-44",
+            "footnotes": [
+                {
+                    "ab": "Hebrew <i>visit upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051045,
+            "text": "\u00b6 My people, go ye out of the midst of her, and save yourselves every man from the fierce anger of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051046,
+            "text": "And let not your heart faint, neither fear ye for the tidings that shall be heard in the land; for tidings shall come one year, and after that in another year  tidings, and violence in the land, ruler against ruler. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051047,
+            "text": "Therefore, behold, the days come, that I will execute judgment upon the graven images of Babylon; and her whole land shall be confounded; and all her slain shall fall in the midst of her. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051048,
+            "text": "Then the heavens and the earth, and all that is therein, shall sing for joy over Babylon; for the destroyers shall come unto her from the north, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051049,
+            "text": " <i>[ac]</i>As Babylon hath caused the slain of Israel to fall, so at Babylon shall fall the slain of all the <i>[ad]</i>land.",
+            "version": "ASV",
+            "clsstr": "Jer-51-49",
+            "footnotes": [
+                {
+                    "ac": "Or, <i>Both Babylon is to fall, O ye slain of Israel, and at etc.</i>"
+                },
+                {
+                    "ad": "Or, <i>earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051050,
+            "text": "\u00b6 Ye that have escaped the sword, go ye, stand not still; remember Jehovah from afar, and let Jerusalem come into your mind. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051051,
+            "text": "We are confounded, because we have heard reproach; confusion hath covered our faces: for strangers are come into the sanctuaries of Jehovah\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051052,
+            "text": "Wherefore, behold, the days come, saith Jehovah, that I will execute judgment upon her graven images; and through all her land the wounded shall groan. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051053,
+            "text": "Though Babylon should mount up to heaven, and though she should fortify the height of her strength, yet from me shall destroyers come unto her, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-51-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051054,
+            "text": "\u00b6 The sound of a cry from Babylon, and of great destruction from the land of the Chaldeans! ",
+            "version": "ASV",
+            "clsstr": "Jer-51-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051055,
+            "text": "For Jehovah layeth Babylon waste, and destroyeth out of her the great voice; and their waves roar like many waters; the noise of their voice is uttered: ",
+            "version": "ASV",
+            "clsstr": "Jer-51-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051056,
+            "text": "for the destroyer is come upon her, even upon Babylon, and her mighty men are taken, their bows are broken in pieces; for Jehovah is a God of recompenses, he will surely requite. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051057,
+            "text": "And I will make drunk her princes and her wise men, her governors and her deputies, and her mighty men; and they shall sleep a perpetual sleep, and not wake, saith the King, whose name is Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051058,
+            "text": "Thus saith Jehovah of hosts: <i>[ae]</i>The broad walls of Babylon shall be utterly <i>[af]</i>overthrown, and her high gates shall be burned with fire; and the peoples shall labor for vanity, and the nations for the fire; and they shall be weary.",
+            "version": "ASV",
+            "clsstr": "Jer-51-58",
+            "footnotes": [
+                {
+                    "ae": "Or, <i>The walls of broad Babylon</i>"
+                },
+                {
+                    "af": "Or, <i>made bare</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051059,
+            "text": "\u00b6 The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Mahseiah, when he went with Zedekiah the king of Judah to Babylon in the fourth year of his reign. Now Seraiah was <i>[ag]</i>chief chamberlain. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-59",
+            "footnotes": [
+                {
+                    "ag": "Or, <i>quartermaster</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051060,
+            "text": "And Jeremiah wrote in <i>[ah]</i>a book all the evil that should come upon Babylon, even all these words that are written concerning Babylon. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-60",
+            "footnotes": [
+                {
+                    "ah": "Or, <i>one book</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051061,
+            "text": "And Jeremiah said to Seraiah, When thou comest to Babylon, <i>[ai]</i>then see that thou read all these words, ",
+            "version": "ASV",
+            "clsstr": "Jer-51-61",
+            "footnotes": [
+                {
+                    "ai": "Or, <i>and shalt see, and read\u00a0.\u00a0.\u00a0. then shalt thou say etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051062,
+            "text": "and say, O Jehovah, thou hast spoken concerning this place, to cut it off, that none shall dwell therein, neither man nor beast, but that it shall be desolate for ever. ",
+            "version": "ASV",
+            "clsstr": "Jer-51-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051063,
+            "text": "And it shall be, when thou hast made an end of reading this book, that thou shalt bind a stone to it, and cast it into the midst of the Euphrates: ",
+            "version": "ASV",
+            "clsstr": "Jer-51-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24051064,
+            "text": "and thou shalt say, Thus shall Babylon sink, and shall not rise again because of the evil that I will bring upon her; and they shall be weary.\u00b6 Thus far are the words of Jeremiah.",
+            "version": "ASV",
+            "clsstr": "Jer-51-64",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 51
+}

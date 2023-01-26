@@ -1,0 +1,75 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19053001,
+            "text": "<b>The folly and wickedness of men.</b>\n\u00b6 For the Chief Musician; set to Mahalath. Maschil of David.\u00b6     The fool hath said in his heart, There is no God.\n    Corrupt are they, and have done abominable iniquity;\n    There is none that doeth good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-53-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19053002,
+            "text": "  God looked down from heaven upon the children of men,\n  To see if there were any that did <i>[a]</i>understand,\n    That did seek after God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-53-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>deal wisely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19053003,
+            "text": "    Every one of them is gone back; they are together become filthy;\n    There is none that doeth good, no, not one.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-53-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19053004,
+            "text": "    Have the workers of iniquity no knowledge,\n    Who eat up my people  they eat bread,\n    And call not upon God?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-53-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19053005,
+            "text": "    There were they in great fear, where no fear was;\n    For God hath scattered the bones of him that encampeth against thee:\n    Thou hast put them to shame, because God hath rejected them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-53-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19053006,
+            "text": "  Oh that the salvation of Israel were come out of Zion!\n  When God <i>[b]</i>bringeth back the captivity of his people,\n    Then shall Jacob rejoice,  Israel shall be glad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-53-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>returneth to</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 53
+}

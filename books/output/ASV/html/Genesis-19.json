@@ -1,0 +1,347 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1019001,
+            "text": "\u00b6 And the two angels came to Sodom at even; and Lot sat in the gate of Sodom: and Lot saw them, and rose up to meet them; and he bowed himself with his face to the earth; ",
+            "version": "ASV",
+            "clsstr": "Gen-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019002,
+            "text": "and he said, Behold now, my lords, turn aside, I pray you, into your servant\u2019s house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your way. And they said, Nay; but we will abide in the street all night. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019003,
+            "text": "And he urged them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019004,
+            "text": "But before they lay down, the men of the city,  the men of Sodom, compassed the house round, both young and old, all the people from every quarter; ",
+            "version": "ASV",
+            "clsstr": "Gen-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019005,
+            "text": "and they called unto Lot, and said unto him, Where are the men that came in to thee this night? bring them out unto us, that we may know them. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019006,
+            "text": "And Lot went out unto them to the door, and shut the door after him. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019007,
+            "text": "And he said, I pray you, my brethren, do not so wickedly. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019008,
+            "text": "Behold now, I have two daughters that have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing, <i>[a]</i>forasmuch as they are come under the shadow of my roof. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for therefore</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019009,
+            "text": "And they said, Stand back. And they said, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and drew near to break the door. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019010,
+            "text": "But the men put forth their hand, and brought Lot into the house to them, and shut to the door. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019011,
+            "text": "And they smote the men that were at the door of the house with blindness, both small and great, so that they wearied themselves to find the door.",
+            "version": "ASV",
+            "clsstr": "Gen-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019012,
+            "text": "\u00b6 And the men said unto Lot, Hast thou here any besides? son-in-law, and thy sons, and thy daughters, and whomsoever thou hast in the city, bring them out of the place: ",
+            "version": "ASV",
+            "clsstr": "Gen-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019013,
+            "text": "for we will destroy this place, because the cry of them is waxed great before Jehovah; and Jehovah hath sent us to destroy it. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019014,
+            "text": "And Lot went out, and spake unto his sons-in-law, who <i>[b]</i>married his daughters, and said, Up, get you out of this place; for Jehovah will destroy the city. But he seemed unto his sons-in-law as one that mocked. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-14",
+            "footnotes": [
+                {
+                    "b": "Or, <i>were to marry</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019015,
+            "text": "And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters that are here, lest thou be consumed in the <i>[c]</i>iniquity of the city. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-15",
+            "footnotes": [
+                {
+                    "c": "Or, <i>punishment</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019016,
+            "text": "But he lingered; and the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters, Jehovah being merciful unto him: and they brought him forth, and set him without the city. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019017,
+            "text": "And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the Plain; escape to the mountain, lest thou be consumed. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019018,
+            "text": "And Lot said unto them, Oh, not so, <i>[d]</i>my lord: ",
+            "version": "ASV",
+            "clsstr": "Gen-19-18",
+            "footnotes": [
+                {
+                    "d": "Or, <i>O Lord</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019019,
+            "text": "behold now, thy servant hath found favor in thy sight, and thou hast magnified thy lovingkindness, which thou hast showed unto me in saving my life; and I cannot escape to the mountain, lest <i>[e]</i>evil overtake me, and I die: ",
+            "version": "ASV",
+            "clsstr": "Gen-19-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>the evil</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019020,
+            "text": "behold now, this city is near to flee unto, and it is a little one. Oh let me escape thither (is it not a little one?), and my soul shall live. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019021,
+            "text": "And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow the city of which thou hast spoken. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019022,
+            "text": "Haste thee, escape thither; for I cannot do anything till thou be come thither. Therefore the name of the city was called <i>[f]</i>Zoar.",
+            "version": "ASV",
+            "clsstr": "Gen-19-22",
+            "footnotes": [
+                {
+                    "f": "That is, <i>Little</i>. See [[verse 20]]; [[14:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019023,
+            "text": "\u00b6 The sun was risen upon the earth when Lot came unto Zoar. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019024,
+            "text": "Then Jehovah rained upon Sodom and upon Gomorrah brimstone and fire from Jehovah out of heaven; ",
+            "version": "ASV",
+            "clsstr": "Gen-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019025,
+            "text": "and he overthrew those cities, and all the Plain, and all the inhabitants of the cities, and that which grew upon the ground. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019026,
+            "text": "But his wife looked back from behind him, and she became a pillar of salt. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019027,
+            "text": "And Abraham gat up early in the morning to the place where he had stood before Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Gen-19-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019028,
+            "text": "and he looked toward Sodom and Gomorrah, and toward all the land of the Plain, and beheld, and, lo, the smoke of the land went up as the smoke of a furnace.",
+            "version": "ASV",
+            "clsstr": "Gen-19-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019029,
+            "text": "\u00b6 And it came to pass, when God destroyed the cities of the Plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in which Lot dwelt.",
+            "version": "ASV",
+            "clsstr": "Gen-19-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019030,
+            "text": "\u00b6 And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019031,
+            "text": "And the first-born said unto the younger, Our father is old, and there is not a man in the earth to come in unto us after the manner of all the earth: ",
+            "version": "ASV",
+            "clsstr": "Gen-19-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019032,
+            "text": "come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019033,
+            "text": "And they made their father drink wine that night: and the first-born went in, and lay with her father; and he knew not when she lay down, nor when she arose. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019034,
+            "text": "And it came to pass on the morrow, that the first-born said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, and lie with him, that we may preserve seed of our father. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019035,
+            "text": "And they made their father drink wine that night also: and the younger arose, and lay with him; and he knew not when she lay down, nor when she arose. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019036,
+            "text": "Thus were both the daughters of Lot with child by their father. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019037,
+            "text": "And the first-born bare a son, and called his name Moab: the same is the father of the Moabites unto this day. ",
+            "version": "ASV",
+            "clsstr": "Gen-19-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1019038,
+            "text": "And the younger, she also bare a son, and called his name Ben-ammi: the same is the father of the children of Ammon unto this day.",
+            "version": "ASV",
+            "clsstr": "Gen-19-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 19
+}

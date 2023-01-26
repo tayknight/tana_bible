@@ -1,0 +1,316 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42016001,
+            "text": "\u00b6 And he said also unto the disciples, There was a certain rich man, who had a steward; and the same was accused unto him that he was wasting his goods. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016002,
+            "text": "And he called him, and said unto him, What is this that I hear of thee? render the account of thy stewardship; for thou canst be no longer steward. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016003,
+            "text": "And the steward said within himself, What shall I do, seeing that my lord taketh away the stewardship from me? I have not strength to dig; to beg I am ashamed. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016004,
+            "text": "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016005,
+            "text": "And calling to him each one of his lord\u2019s debtors, he said to the first, How much owest thou unto my lord? ",
+            "version": "ASV",
+            "clsstr": "Luke-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016006,
+            "text": "And he said, A hundred <i>[a]</i>measures of oil. And he said unto him, Take thy <i>[b]</i>bond, and sit down quickly and write fifty. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-6",
+            "footnotes": [
+                {
+                    "a": "Greek <i>baths</i>, the bath being a Hebrew measure. See [[Ezek. 45:10]], [[11]], [[14]]."
+                },
+                {
+                    "b": "Greek <i>writings</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016007,
+            "text": "Then said he to another, And how much owest thou? And he said, A hundred <i>[c]</i>measures of wheat. He saith unto him, Take thy <i>[d]</i>bond, and write fourscore. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-7",
+            "footnotes": [
+                {
+                    "c": "Greek <i>cors</i>, the cor being a Hebrew measure. See [[Ezek. 45:14]]."
+                },
+                {
+                    "d": "Greek <i>writings</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016008,
+            "text": "And his lord commended <i>[e]</i>the unrighteous steward because he had done wisely: for the sons of this <i>[f]</i>world are for their own generation wiser than the sons of the light. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-8",
+            "footnotes": [
+                {
+                    "e": "Greek <i>the steward of unrighteousness</i>."
+                },
+                {
+                    "f": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016009,
+            "text": "And I say unto you, Make to yourselves friends <i>[g]</i>by means of the mammon of unrighteousness; that, when it shall fail, they may receive you into the eternal tabernacles. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-9",
+            "footnotes": [
+                {
+                    "g": "Greek <i>out of</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016010,
+            "text": "He that is faithful in a very little is faithful also in much: and he that is unrighteous in a very little is unrighteous also in much. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016011,
+            "text": "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true ? ",
+            "version": "ASV",
+            "clsstr": "Luke-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016012,
+            "text": "And if ye have not been faithful in that which is another\u2019s, who will give you that which is <i>[h]</i>your own? ",
+            "version": "ASV",
+            "clsstr": "Luke-16-12",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities read <i>our own</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016013,
+            "text": "No <i>[i]</i>servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to one, and despise the other. Ye cannot serve God and mammon.",
+            "version": "ASV",
+            "clsstr": "Luke-16-13",
+            "footnotes": [
+                {
+                    "i": "Greek <i>household-servant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016014,
+            "text": "\u00b6 And the Pharisees, who were lovers of money, heard all these things; and they scoffed at him. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016015,
+            "text": "And he said unto them, Ye are they that justify yourselves in the sight of men; but God knoweth your hearts: for that which is exalted among men is an abomination in the sight of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016016,
+            "text": "The law and the prophets until John: from that time the <i>[j]</i>gospel of the kingdom of God is preached, and every man entereth violently into it. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-16",
+            "footnotes": [
+                {
+                    "j": "Or, <i>good tidings</i>: compare [[3:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016017,
+            "text": "But it is easier for heaven and earth to pass away, than for one tittle of the law to fall.",
+            "version": "ASV",
+            "clsstr": "Luke-16-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016018,
+            "text": "\u00b6 Every one that putteth away his wife, and marrieth another, committeth adultery: and he that marrieth one that is put away from a husband committeth adultery.",
+            "version": "ASV",
+            "clsstr": "Luke-16-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016019,
+            "text": "\u00b6 Now there was a certain rich man, and he was clothed in purple and fine linen, <i>[k]</i>faring sumptuously every day: ",
+            "version": "ASV",
+            "clsstr": "Luke-16-19",
+            "footnotes": [
+                {
+                    "k": "Or, <i>living in mirth and splendor every day</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016020,
+            "text": "and a certain beggar named Lazarus was laid at his gate, full of sores, ",
+            "version": "ASV",
+            "clsstr": "Luke-16-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016021,
+            "text": "and desiring to be fed with the  that fell from the rich man\u2019s table; yea, even the dogs came and licked his sores. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016022,
+            "text": "And it came to pass, that the beggar died, and that he was carried away by the angels into Abraham\u2019s bosom: and the rich man also died, and was buried. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016023,
+            "text": "And in Hades he lifted up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016024,
+            "text": "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am in anguish in this flame. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016025,
+            "text": "But Abraham said, <i>[l]</i>Son, remember that thou in thy lifetime receivedst thy good things, and Lazarus in like manner evil things: but now here he is comforted, and thou art in anguish. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-25",
+            "footnotes": [
+                {
+                    "l": "Greek <i>Child</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016026,
+            "text": "And <i>[m]</i>besides all this, between us and you there is a great gulf fixed, that they that would pass from hence to you may not be able, and that none may cross over from thence to us. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-26",
+            "footnotes": [
+                {
+                    "m": "Or, <i>in all these things</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016027,
+            "text": "And he said, I pray thee therefore, father, that thou wouldest send him to my father\u2019s house; ",
+            "version": "ASV",
+            "clsstr": "Luke-16-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016028,
+            "text": "for I have five brethren; that he may testify unto them, lest they also come into this place of torment. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016029,
+            "text": "But Abraham saith, They have Moses and the prophets; let them hear them. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016030,
+            "text": "And he said, Nay, father Abraham: but if one go to them from the dead, they will repent. ",
+            "version": "ASV",
+            "clsstr": "Luke-16-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42016031,
+            "text": "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, if one rise from the dead.",
+            "version": "ASV",
+            "clsstr": "Luke-16-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 16
+}

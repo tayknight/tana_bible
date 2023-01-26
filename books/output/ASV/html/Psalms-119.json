@@ -1,0 +1,1531 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19119001,
+            "text": "<b>Meditations and prayers relating to the law of God.</b>\n\u00b6 \u05d0 Aleph.\u00b6   Blessed are they that are <i>[a]</i>perfect in the way,\n    Who walk in the law of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>upright in way</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119002,
+            "text": "    Blessed are they that keep his testimonies,\n    That seek him with the whole heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119003,
+            "text": "    Yea, they do no unrighteousness;\n    They walk in his ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119004,
+            "text": "    Thou hast commanded  thy precepts,\n    That we should observe them diligently.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119005,
+            "text": "    Oh that my ways were established\n    To observe thy statutes!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119006,
+            "text": "    Then shall I not be put to shame,\n    When I have respect unto all thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119007,
+            "text": "    I will give thanks unto thee with uprightness of heart,\n    When I learn thy righteous judgments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119008,
+            "text": "    I will observe thy statutes:\n    Oh forsake me not utterly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119009,
+            "text": "\u00b6 \u05d1 Beth.\u00b6     Wherewith shall a young man cleanse his way?\n    By taking heed  according to thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119010,
+            "text": "    With my whole heart have I sought thee:\n    Oh let me not wander from thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119011,
+            "text": "    Thy word have I laid up in my heart,\n    That I might not sin against thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119012,
+            "text": "    Blessed art thou, O Jehovah:\n    Teach me thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119013,
+            "text": "    With my lips have I declared\n    All the ordinances of thy mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119014,
+            "text": "    I have rejoiced in the way of thy testimonies,\n    As much as in all riches.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119015,
+            "text": "    I will meditate on thy precepts,\n    And have respect unto thy ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119016,
+            "text": "    I will delight myself in thy statutes:\n    I will not forget thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119017,
+            "text": "\u00b6 \u05d2 Gimel.\u00b6     Deal bountifully with thy servant, that I may live;\n    So will I observe thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119018,
+            "text": "    Open thou mine eyes, that I may behold\n    Wondrous things out of thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119019,
+            "text": "    I am a sojourner in the earth:\n    Hide not thy commandments from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119020,
+            "text": "    My soul breaketh for the longing\n    That it hath unto thine ordinances at all times.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119021,
+            "text": "  Thou hast rebuked the proud <i>[b]</i>that are cursed,\n    That do wander from thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-21",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Cursed are they that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119022,
+            "text": "    Take away from me reproach and contempt;\n    For I have kept thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119023,
+            "text": "    Princes also sat and talked against me;\n     thy servant did meditate on thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119024,
+            "text": "  Thy testimonies also are my delight\n   <i>[c]</i>my counsellors.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-24",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>the men of my counsel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119025,
+            "text": "\u00b6 \u05d3 Daleth.\u00b6     My soul cleaveth unto the dust:\n    Quicken thou me according to thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119026,
+            "text": "    I declared my ways, and thou answeredst me:\n    Teach me thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119027,
+            "text": "    Make me to understand the way of thy precepts:\n    So shall I meditate on thy wondrous works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119028,
+            "text": "  My soul <i>[d]</i>melteth for heaviness:\n    Strengthen thou me according unto thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-28",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>droppeth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119029,
+            "text": "    Remove from me the way of falsehood;\n    And grant me thy law graciously.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119030,
+            "text": "    I have chosen the way of faithfulness:\n    Thine ordinances have I set .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119031,
+            "text": "    I cleave unto thy testimonies:\n    O Jehovah, put me not to shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119032,
+            "text": "    I will run the way of thy commandments,\n    When thou shalt enlarge my heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119033,
+            "text": "\u00b6 \u05d4 He.\u00b6     Teach me, O Jehovah, the way of thy statutes;\n    And I shall keep it unto the end.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119034,
+            "text": "    Give me understanding, and I shall keep thy law;\n    Yea, I shall observe it with my whole heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119035,
+            "text": "    Make me to go in the path of thy commandments;\n    For therein do I delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119036,
+            "text": "    Incline my heart unto thy testimonies,\n    And not to covetousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119037,
+            "text": "    Turn away mine eyes from beholding vanity,\n    And quicken me in thy ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119038,
+            "text": "  Confirm unto thy servant thy word,\n   <i>[e]</i>Which  unto the fear of thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-38",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Who</i> is devoted <i>to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119039,
+            "text": "    Turn away my reproach whereof I am afraid;\n    For thine ordinances are good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119040,
+            "text": "    Behold, I have longed after thy precepts:\n    Quicken me in thy righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119041,
+            "text": "\u00b6 \u05d5 Vav.\u00b6     Let thy lovingkindnesses also come unto me, O Jehovah,\n    Even thy salvation, according to thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119042,
+            "text": "    So shall I have an answer for him that reproacheth me;\n    For I trust in thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119043,
+            "text": "    And take not the word of truth utterly out of my mouth;\n    For I have hoped in thine ordinances.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119044,
+            "text": "    So shall I observe thy law continually\n    For ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119045,
+            "text": "    And I shall walk at liberty;\n    For I have sought thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119046,
+            "text": "    I will also speak of thy testimonies before kings,\n    And shall not be put to shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119047,
+            "text": "    And I will delight myself in thy commandments,\n    Which I have loved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119048,
+            "text": "    I will lift up my hands also unto thy commandments, which I have loved;\n    And I will meditate on thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119049,
+            "text": "\u00b6 \u05d6 Zayin.\u00b6   Remember the word unto thy servant,\n   <i>[f]</i>Because thou hast made me to hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-49",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Wherein</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119050,
+            "text": "  This is my comfort in my affliction;\n   <i>[g]</i>For thy word hath quickened me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-50",
+            "footnotes": [
+                {
+                    "g": "Or, <i>That</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119051,
+            "text": "    The proud have had me greatly in derision:\n     have I not swerved from thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119052,
+            "text": "    I have remembered thine ordinances of old, O Jehovah,\n    And have comforted myself.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119053,
+            "text": "   <i>[h]</i>Hot indignation hath taken hold upon me,\n    Because of the wicked that forsake thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-53",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Horror</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119054,
+            "text": "    Thy statutes have been my songs\n    In the house of my pilgrimage.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119055,
+            "text": "    I have remembered thy name, O Jehovah, in the night,\n    And have observed thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119056,
+            "text": "  This I have had,\n   <i>[i]</i>Because I have kept thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-56",
+            "footnotes": [
+                {
+                    "i": "Or, <i>That</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119057,
+            "text": "\u00b6 \u05d7 Hheth.\u00b6   <i>[j]</i>Jehovah is my portion:\n    I have said that I would observe thy words.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-57",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Jehovah is my portion, have I said: That I may observe etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119058,
+            "text": "    I entreated thy favor with my whole heart:\n    Be merciful unto me according to thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119059,
+            "text": "    I thought on my ways,\n    And turned my feet unto thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119060,
+            "text": "    I made haste, and delayed not,\n    To observe thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119061,
+            "text": "    The cords of the wicked have wrapped me round;\n     I have not forgotten thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119062,
+            "text": "    At midnight I will rise to give thanks unto thee\n    Because of thy righteous ordinances.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119063,
+            "text": "    I am a companion of all them that fear thee,\n    And of them that observe thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119064,
+            "text": "    The earth, O Jehovah, is full of thy lovingkindness:\n    Teach me thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119065,
+            "text": "\u00b6 \u05d8 Teth.\u00b6     Thou hast dealt well with thy servant,\n    O Jehovah, according unto thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119066,
+            "text": "    Teach me good judgment and knowledge;\n    For I have believed in thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119067,
+            "text": "    Before I was afflicted I went astray;\n    But now I observe thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-67",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119068,
+            "text": "    Thou art good, and doest good;\n    Teach me thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-68",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119069,
+            "text": "    The proud have forged a lie against me:\n    With my whole heart will I keep thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-69",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119070,
+            "text": "    Their heart is as fat as grease;\n    But I delight in thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-70",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119071,
+            "text": "    It is good for me that I have been afflicted;\n    That I may learn thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-71",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119072,
+            "text": "    The law of thy mouth is better unto me\n    Than thousands of gold and silver.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-72",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119073,
+            "text": "\u00b6 \u05d9 Yodh.\u00b6   Thy hands have made me and <i>[k]</i>fashioned me:\n    Give me understanding, that I may learn thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-73",
+            "footnotes": [
+                {
+                    "k": "Or, <i>established</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119074,
+            "text": "    They that fear thee shall see me and be glad,\n    Because I have hoped in thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-74",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119075,
+            "text": "    I know, O Jehovah, that thy judgments are righteous,\n    And that in faithfulness thou hast afflicted me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-75",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119076,
+            "text": "    Let, I pray thee, thy lovingkindness be for my comfort,\n    According to thy word unto thy servant.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-76",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119077,
+            "text": "    Let thy tender mercies come unto me, that I may live;\n    For thy law is my delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-77",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119078,
+            "text": "  Let the proud be put to shame;\n  for they have overthrown me <i>[l]</i>wrongfully:\n     I will meditate on thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-78",
+            "footnotes": [
+                {
+                    "l": "Or, <i>with falsehood</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119079,
+            "text": "  Let those that fear thee turn unto me;\n   <i>[m]</i>And they shall know thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-79",
+            "footnotes": [
+                {
+                    "m": "Another reading is, <i>Even they that know</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119080,
+            "text": "    Let my heart be perfect in thy statutes,\n    That I be not put to shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-80",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119081,
+            "text": "\u00b6 \u05db Kaph.\u00b6     My soul fainteth for thy salvation;\n     I hope in thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-81",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119082,
+            "text": "    Mine eyes fail for thy word,\n    While I say, When wilt thou comfort me?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-82",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119083,
+            "text": "    For I am become like a wine-skin in the smoke;\n    Yet do I not forget thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-83",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119084,
+            "text": "    How many are the days of thy servant?\n    When wilt thou execute judgment on them that persecute me?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-84",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119085,
+            "text": "    The proud have digged pits for me,\n    Who are not according to thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-85",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119086,
+            "text": "  All thy commandments are faithful:\n  They persecute me <i>[n]</i>wrongfully; help thou me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-86",
+            "footnotes": [
+                {
+                    "n": "Or, <i>with falsehood</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119087,
+            "text": "    They had almost consumed me upon earth;\n    But I forsook not thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-87",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119088,
+            "text": "    Quicken me after thy lovingkindness;\n    So shall I observe the testimony of thy mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-88",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119089,
+            "text": "\u00b6 \u05dc Lamedh.\u00b6     For ever, O Jehovah,\n    Thy word is settled in heaven.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-89",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119090,
+            "text": "    Thy faithfulness is unto all generations:\n    Thou hast established the earth, and it abideth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-90",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119091,
+            "text": "   <i>[o]</i>They abide this day according to thine ordinances;\n    For all things are thy servants.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-91",
+            "footnotes": [
+                {
+                    "o": "Or, <i>As for thine ordinances, they abide this day</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119092,
+            "text": "    Unless thy law had been my delight,\n    I should then have perished in mine affliction.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-92",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119093,
+            "text": "    I will never forget thy precepts;\n    For with them thou hast quickened me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-93",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119094,
+            "text": "    I am thine, save me;\n    For I have sought thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-94",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119095,
+            "text": "    The wicked have waited for me, to destroy me;\n     I will consider thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-95",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119096,
+            "text": "    I have seen an end of all perfection;\n     thy commandment is exceeding broad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-96",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119097,
+            "text": "\u00b6 \u05de Mem.\u00b6     Oh how love I thy law!\n    It is my meditation all the day.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-97",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119098,
+            "text": "   <i>[p]</i>Thy commandments make me wiser than mine enemies;\n    For they are ever with me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-98",
+            "footnotes": [
+                {
+                    "p": "Or, <i>Thou through thy commandments makest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119099,
+            "text": "    I have more understanding than all my teachers;\n    For thy testimonies are my meditation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-99",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119100,
+            "text": "    I understand more than the aged,\n    Because I have kept thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-100",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119101,
+            "text": "    I have refrained my feet from every evil way,\n    That I might observe thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-101",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119102,
+            "text": "    I have not turned aside from thine ordinances;\n    For thou hast taught me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-102",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119103,
+            "text": "  How sweet are thy words unto my <i>[q]</i>taste!\n     than honey to my mouth!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-103",
+            "footnotes": [
+                {
+                    "q": "Hebrew <i>palate</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119104,
+            "text": "    Through thy precepts I get understanding:\n    Therefore I hate every false way.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-104",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119105,
+            "text": "\u00b6 \u05e0 Nun.\u00b6     Thy word is a lamp unto my feet,\n    And light unto my path.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-105",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119106,
+            "text": "    I have sworn, and have confirmed it,\n    That I will observe thy righteous ordinances.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-106",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119107,
+            "text": "    I am afflicted very much:\n    Quicken me, O Jehovah, according unto thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-107",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119108,
+            "text": "    Accept, I beseech thee, the freewill-offerings of my mouth, O Jehovah,\n    And teach me thine ordinances.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-108",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119109,
+            "text": "    My soul is continually in my hand;\n    Yet do I not forget thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-109",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119110,
+            "text": "    The wicked have laid a snare for me;\n    Yet have I not gone astray from thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-110",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119111,
+            "text": "    Thy testimonies have I taken as a heritage for ever;\n    For they are the rejoicing of my heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-111",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119112,
+            "text": "    I have inclined my heart to perform thy statutes\n    For ever, even unto the end.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-112",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119113,
+            "text": "\u00b6 \u05e1 Samekh.\u00b6     I hate them that are of a double mind;\n    But thy law do I love.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-113",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119114,
+            "text": "    Thou art my hiding-place and my shield:\n    I hope in thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-114",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119115,
+            "text": "    Depart from me, ye evil-doers,\n    That I may keep the commandments of my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-115",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119116,
+            "text": "    Uphold me according unto thy word, that I may live;\n    And let me not be ashamed of my hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-116",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119117,
+            "text": "    Hold thou me up, and I shall be safe,\n    And shall have respect unto thy statutes continually.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-117",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119118,
+            "text": "  Thou hast set at nought all them that err from thy statutes;\n  For their deceit is <i>[r]</i>falsehood.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-118",
+            "footnotes": [
+                {
+                    "r": "Or, <i>vain</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119119,
+            "text": "  Thou <i>[s]</i>puttest away all the wicked of the earth like dross:\n    Therefore I love thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-119",
+            "footnotes": [
+                {
+                    "s": "Hebrew <i>causest to cease</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119120,
+            "text": "    My flesh trembleth for fear of thee;\n    And I am afraid of thy judgments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-120",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119121,
+            "text": "\u00b6 \u05e2 Ayin.\u00b6     I have done justice and righteousness:\n    Leave me not to mine oppressors.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-121",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119122,
+            "text": "    Be surety for thy servant for good:\n    Let not the proud oppress me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-122",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119123,
+            "text": "    Mine eyes fail for thy salvation,\n    And for thy righteous word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-123",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119124,
+            "text": "    Deal with thy servant according unto thy lovingkindness,\n    And teach me thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-124",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119125,
+            "text": "    I am thy servant; give me understanding,\n    That I may know thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-125",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119126,
+            "text": "    It is time for Jehovah to work;\n     they have made void thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-126",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119127,
+            "text": "    Therefore I love thy commandments\n    Above gold, yea, above fine gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-127",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119128,
+            "text": "    Therefore I esteem all  precepts concerning all  to be right;\n     I hate every false way.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-128",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119129,
+            "text": "\u00b6 \u05e4 Pe.\u00b6     Thy testimonies are wonderful;\n    Therefore doth my soul keep them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-129",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119130,
+            "text": "    The opening of thy words giveth light;\n    It giveth understanding unto the simple.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-130",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119131,
+            "text": "    I opened wide my mouth, and panted;\n    For I longed for thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-131",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119132,
+            "text": "    Turn thee unto me, and have mercy upon me,\n    As thou usest to do unto those that love thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-132",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119133,
+            "text": "    Establish my footsteps in thy word;\n    And let not any iniquity have dominion over me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-133",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119134,
+            "text": "    Redeem me from the oppression of man:\n    So will I observe thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-134",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119135,
+            "text": "    Make thy face to shine upon thy servant;\n    And teach me thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-135",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119136,
+            "text": "    Streams of water run down mine eyes,\n    Because they observe not thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-136",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119137,
+            "text": "\u00b6 \u05e6 Tsadhe.\u00b6   Righteous art thou, O Jehovah,\n  And upright <i>[t]</i>are thy judgments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-137",
+            "footnotes": [
+                {
+                    "t": "Or, <i>in thy judgments</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119138,
+            "text": "    Thou hast commanded thy testimonies in righteousness\n    And very faithfulness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-138",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119139,
+            "text": "  My zeal hath <i>[u]</i>consumed me,\n    Because mine adversaries have forgotten thy words.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-139",
+            "footnotes": [
+                {
+                    "u": "Hebrew <i>cut me off</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119140,
+            "text": "  Thy word is very <i>[v]</i>pure;\n    Therefore thy servant loveth it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-140",
+            "footnotes": [
+                {
+                    "v": "Hebrew <i>tried</i>, or, <i>refined</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119141,
+            "text": "    I am small and despised;\n     do I not forget thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-141",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119142,
+            "text": "    Thy righteousness is an everlasting righteousness,\n    And thy law is truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-142",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119143,
+            "text": "  Trouble and anguish have <i>[w]</i>taken hold on me;\n     thy commandments are my delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-143",
+            "footnotes": [
+                {
+                    "w": "Or, <i>found me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119144,
+            "text": "    Thy testimonies are righteous for ever:\n    Give me understanding, and I shall live.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-144",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119145,
+            "text": "\u00b6 \u05e7 Qoph.\u00b6     I have called with my whole heart; answer me, O Jehovah:\n    I will keep thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-145",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119146,
+            "text": "    I have called unto thee; save me,\n    And I shall observe thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-146",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119147,
+            "text": "    I anticipated the dawning of the morning, and cried:\n    I hoped in thy words.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-147",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119148,
+            "text": "    Mine eyes anticipated the night-watches,\n    That I might meditate on thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-148",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119149,
+            "text": "  Hear my voice according unto thy lovingkindness:\n  Quicken me, O Jehovah, <i>[x]</i>according to thine ordinances.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-149",
+            "footnotes": [
+                {
+                    "x": "Or, <i>as thou art wont</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119150,
+            "text": "  They draw nigh <i>[y]</i>that follow after wickedness;\n    They are far from thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-150",
+            "footnotes": [
+                {
+                    "y": "Or, <i>that persecute</i> me <i>with wickedness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119151,
+            "text": "    Thou art nigh, O Jehovah;\n    And all thy commandments are truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-151",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119152,
+            "text": "    Of old have I known from thy testimonies,\n    That thou hast founded them for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-152",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119153,
+            "text": "\u00b6 \u05e8 Resh.\u00b6     Consider mine affliction, and deliver me;\n    For I do not forget thy law.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-153",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119154,
+            "text": "    Plead thou my cause, and redeem me:\n    Quicken me according to thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-154",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119155,
+            "text": "    Salvation is far from the wicked;\n    For they seek not thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-155",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119156,
+            "text": "    Great are thy tender mercies, O Jehovah:\n    Quicken me according to thine ordinances.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-156",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119157,
+            "text": "    Many are my persecutors and mine adversaries;\n     have I not swerved from thy testimonies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-157",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119158,
+            "text": "  I beheld the treacherous, and <i>[z]</i>was grieved,\n    Because they observe not thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-158",
+            "footnotes": [
+                {
+                    "z": "Or, <i>loathed</i> them"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119159,
+            "text": "    Consider how I love thy precepts:\n    Quicken me, O Jehovah, according to thy lovingkindness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-159",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119160,
+            "text": "    The sum of thy word is truth;\n    And every one of thy righteous ordinances  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-160",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119161,
+            "text": "\u00b6 \u05e9 Shin.\u00b6     Princes have persecuted me without a cause;\n    But my heart standeth in awe of thy words.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-161",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119162,
+            "text": "    I rejoice at thy word,\n    As one that findeth great spoil.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-162",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119163,
+            "text": "    I hate and abhor falsehood;\n     thy law do I love.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-163",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119164,
+            "text": "    Seven times a day do I praise thee,\n    Because of thy righteous ordinances.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-164",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119165,
+            "text": "    Great peace have they that love thy law;\n    And they have no occasion of stumbling.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-165",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119166,
+            "text": "    I have hoped for thy salvation, O Jehovah,\n    And have done thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-166",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119167,
+            "text": "    My soul hath observed thy testimonies;\n    And I love them exceedingly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-167",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119168,
+            "text": "    I have observed thy precepts and thy testimonies;\n    For all my ways are before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-168",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119169,
+            "text": "\u00b6 \u05ea Tav.\u00b6     Let my cry come near before thee, O Jehovah:\n    Give me understanding according to thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-169",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119170,
+            "text": "    Let my supplication come before thee:\n    Deliver me according to thy word.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-170",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119171,
+            "text": "    Let my lips utter praise;\n    For thou teachest me thy statutes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-171",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119172,
+            "text": "    Let my tongue sing of thy word;\n    For all thy commandments are righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-172",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119173,
+            "text": "    Let thy hand be ready to help me;\n    For I have chosen thy precepts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-173",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119174,
+            "text": "    I have longed for thy salvation, O Jehovah;\n    And thy law is my delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-174",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119175,
+            "text": "    Let my soul live, and it shall praise thee;\n    And let thine ordinances help me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-175",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19119176,
+            "text": "    I have gone astray like a lost sheep;\n    seek thy servant;\n    For I do not forget thy commandments.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-119-176",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 119
+}

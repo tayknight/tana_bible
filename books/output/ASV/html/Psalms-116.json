@@ -1,0 +1,191 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19116001,
+            "text": "<b>Thanksgiving for deliverance from death.</b>\n\u00b6     I love Jehovah, because he heareth\n    My voice and my supplications.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116002,
+            "text": "    Because he hath inclined his ear unto me,\n    Therefore will I call  as long as I live.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116003,
+            "text": "  The cords of death compassed me,\n  And the pains of Sheol <i>[a]</i>gat hold upon me:\n    I found trouble and sorrow.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>found me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116004,
+            "text": "    Then called I upon the name of Jehovah:\n    O Jehovah, I beseech thee, deliver my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116005,
+            "text": "    Gracious is Jehovah, and righteous;\n    Yea, our God is merciful.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116006,
+            "text": "    Jehovah preserveth the simple:\n    I was brought low, and he saved me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116007,
+            "text": "    Return unto thy rest, O my soul;\n    For Jehovah hath dealt bountifully with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116008,
+            "text": "    For thou hast delivered my soul from death,\n    Mine eyes from tears,\n     my feet from falling.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116009,
+            "text": "  I will walk before Jehovah\n  In the <i>[b]</i>land of the living.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-9",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>lands</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116010,
+            "text": "  I <i>[c]</i>believe, for I will speak:\n    I was greatly afflicted:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>believed, when I spake</i> thus"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116011,
+            "text": "  I said in my <i>[d]</i>haste,\n    All men are liars.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>alarm</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116012,
+            "text": "    What shall I render unto Jehovah\n    For all his benefits toward me?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116013,
+            "text": "    I will take the cup of salvation,\n    And call upon the name of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116014,
+            "text": "    I will pay my vows unto Jehovah,\n    Yea, in the presence of all his people.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116015,
+            "text": "    Precious in the sight of Jehovah\n    Is the death of his saints.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116016,
+            "text": "    O Jehovah, truly I am thy servant:\n    I am thy servant, the son of thy handmaid;\n    Thou hast loosed my bonds.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116017,
+            "text": "    I will offer to thee the sacrifice of thanksgiving,\n    And will call upon the name of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116018,
+            "text": "    I will pay my vows unto Jehovah,\n    Yea, in the presence of all his people,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19116019,
+            "text": "  In the courts of Jehovah\u2019s house,\n  In the midst of thee, O Jerusalem.\n   <i>[e]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-116-19",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 116
+}

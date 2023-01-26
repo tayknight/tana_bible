@@ -1,0 +1,223 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 12,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 25,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 12,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 12020001,
+            "text": "\u00b6 In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came to him, and said unto him, Thus saith Jehovah, Set thy house in order; for thou shalt die, and not live. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020002,
+            "text": "Then he turned his face to the wall, and prayed unto Jehovah, saying, ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020003,
+            "text": "Remember now, O Jehovah, I beseech thee, how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020004,
+            "text": "And it came to pass, before Isaiah was gone <i>[a]</i>out into <i>[b]</i>the middle part of the city, that the word of Jehovah came to him, saying, ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>out of</i>"
+                },
+                {
+                    "b": "According to another reading, <i>the middle court</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020005,
+            "text": "Turn back, and say to Hezekiah the <i>[c]</i>prince of my people, Thus saith Jehovah, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee; on the third day thou shalt go up unto the house of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>leader</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020006,
+            "text": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David\u2019s sake. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020007,
+            "text": "And Isaiah said, Take a cake of figs. And they took and laid it on the boil, and he recovered.",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020008,
+            "text": "\u00b6 And Hezekiah said unto Isaiah, What shall be the sign that Jehovah will heal me, and that I shall go up unto the house of Jehovah the third day? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020009,
+            "text": "And Isaiah said, This shall be the sign unto thee from Jehovah, that Jehovah will do the thing that he hath spoken: <i>[d]</i>shall the shadow go forward ten <i>[e]</i>steps, or go back ten steps? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>the shadow is gone forward ten steps, shall it go back etc.</i>"
+                },
+                {
+                    "e": "Or, <i>degrees</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020010,
+            "text": "And Hezekiah answered, It is a light thing for the shadow to decline ten steps: nay, but let the shadow return backward ten steps. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020011,
+            "text": "And Isaiah the prophet cried unto Jehovah; and he brought the shadow ten steps backward, by which it had gone down on the <i>[f]</i>dial of Ahaz.",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-11",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>steps</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020012,
+            "text": "\u00b6 At that time <i>[g]</i>Berodach-baladan the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah; for he had heard that Hezekiah had been sick. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-12",
+            "footnotes": [
+                {
+                    "g": "In [[Isa. 39:1]], <i>Merodach-baladan</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020013,
+            "text": "And Hezekiah hearkened unto them, and showed them all the house of his <i>[h]</i>precious things, the silver, and the gold, and the spices, and the precious oil, and <i>[i]</i>the house of his <i>[j]</i>armor, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>spicery</i>"
+                },
+                {
+                    "i": "Another reading is, <i>all the house</i>"
+                },
+                {
+                    "j": "Or, <i>jewels</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020014,
+            "text": "Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country, even from Babylon. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020015,
+            "text": "And he said, What have they seen in thy house? And Hezekiah answered, All that is in my house have they seen: there is nothing among my treasures that I have not showed them.",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020016,
+            "text": "\u00b6 And Isaiah said unto Hezekiah, Hear the word of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020017,
+            "text": "Behold, the days come, that all that is in thy house, and that which thy fathers have laid up in store unto this day, shall be carried to Babylon: nothing shall be left, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020018,
+            "text": "And of thy sons that shall issue from thee, whom thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020019,
+            "text": "Then said Hezekiah unto Isaiah, Good is the word of Jehovah which thou hast spoken. He said moreover, Is it not so, if peace and truth shall be in my days? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020020,
+            "text": "Now the rest of the acts of Hezekiah, and all his might, and how he made the pool, and the conduit, and brought water into the city, are they not written in the book of the chronicles of the kings of Judah? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12020021,
+            "text": "And Hezekiah slept with his fathers; and Manasseh his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "2Kgs-20-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Kings",
+    "chapters": 20
+}

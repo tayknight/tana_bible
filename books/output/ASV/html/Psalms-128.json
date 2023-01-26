@@ -1,0 +1,71 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19128001,
+            "text": "<b>Blessedness of the fear of Jehovah.</b>\n\u00b6 A Song of Ascents.\u00b6     Blessed is every one that feareth Jehovah,\n    That walketh in his ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-128-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19128002,
+            "text": "    For thou shalt eat the labor of thy hands:\n    Happy shalt thou be, and it shall be well with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-128-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19128003,
+            "text": "    Thy wife shall be as a fruitful vine,\n    In the innermost parts of thy house;\n    Thy children like olive plants,\n    Round about thy table.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-128-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19128004,
+            "text": "    Behold, thus shall the man be blessed\n    That feareth Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-128-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19128005,
+            "text": "    Jehovah bless thee out of Zion:\n    And see thou the good of Jerusalem all the days of thy life.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-128-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19128006,
+            "text": "  Yea, see thou thy children\u2019s children.\n   <i>[a]</i>Peace be upon Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-128-6",
+            "footnotes": [
+                {
+                    "a": "Or, And <i>peace upon Israel</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 128
+}

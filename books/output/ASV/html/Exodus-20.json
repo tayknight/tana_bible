@@ -1,0 +1,254 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2020001,
+            "text": "\u00b6 And God spake all these words, saying, ",
+            "version": "ASV",
+            "clsstr": "Exod-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020002,
+            "text": "I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of <i>[a]</i>bondage. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>bondmen</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020003,
+            "text": "Thou shalt have no other gods <i>[b]</i>before me.",
+            "version": "ASV",
+            "clsstr": "Exod-20-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>besides me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020004,
+            "text": "\u00b6 Thou shalt not make unto thee a graven image, nor any likeness  that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: ",
+            "version": "ASV",
+            "clsstr": "Exod-20-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020005,
+            "text": "thou shalt not bow down thyself unto them, nor serve them; for I Jehovah thy God am a jealous God, visiting the iniquity of the fathers upon the children, upon the third and upon the fourth generation of them that hate me, ",
+            "version": "ASV",
+            "clsstr": "Exod-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020006,
+            "text": "and showing lovingkindness unto <i>[c]</i>thousands of them that love me and keep my commandments.",
+            "version": "ASV",
+            "clsstr": "Exod-20-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>a thousand generations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020007,
+            "text": "\u00b6 Thou shalt not take the name of Jehovah thy God <i>[d]</i>in vain; for Jehovah will not hold him guiltless that taketh his name <i>[e]</i>in vain.",
+            "version": "ASV",
+            "clsstr": "Exod-20-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>for vanity</i> (or, <i>falsehood</i>)"
+                },
+                {
+                    "e": "Or, <i>for vanity</i> (or, <i>falsehood</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020008,
+            "text": "\u00b6 Remember the sabbath day, to keep it holy. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020009,
+            "text": "Six days shalt thou labor, and do all thy work; ",
+            "version": "ASV",
+            "clsstr": "Exod-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020010,
+            "text": "but the seventh day is a sabbath unto Jehovah thy God:  thou shalt not do any work, thou, nor thy son, nor thy daughter, thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates: ",
+            "version": "ASV",
+            "clsstr": "Exod-20-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020011,
+            "text": "for in six days Jehovah made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore Jehovah blessed the sabbath day, and hallowed it.",
+            "version": "ASV",
+            "clsstr": "Exod-20-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020012,
+            "text": "\u00b6 Honor thy father and thy mother, that thy days may be long in the land which Jehovah thy God giveth thee.",
+            "version": "ASV",
+            "clsstr": "Exod-20-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020013,
+            "text": "\u00b6 Thou shalt not kill.",
+            "version": "ASV",
+            "clsstr": "Exod-20-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020014,
+            "text": "\u00b6 Thou shalt not commit adultery.",
+            "version": "ASV",
+            "clsstr": "Exod-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020015,
+            "text": "\u00b6 Thou shalt not steal.",
+            "version": "ASV",
+            "clsstr": "Exod-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020016,
+            "text": "\u00b6 Thou shalt not bear false witness against thy neighbor.",
+            "version": "ASV",
+            "clsstr": "Exod-20-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020017,
+            "text": "\u00b6 Thou shalt not covet thy neighbor\u2019s house, thou shalt not covet thy neighbor\u2019s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor anything that is thy neighbor\u2019s.",
+            "version": "ASV",
+            "clsstr": "Exod-20-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020018,
+            "text": "\u00b6 And all the people perceived the thunderings, and the lightnings, and the voice of the trumpet, and the mountain smoking: and when the people saw it, they <i>[f]</i>trembled, and stood afar off. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-18",
+            "footnotes": [
+                {
+                    "f": "Or, <i>were moved</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020019,
+            "text": "And they said unto Moses, Speak thou with us, and we will hear; but let not God speak with us, lest we die. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020020,
+            "text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before you, that ye sin not. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020021,
+            "text": "And the people stood afar off, and Moses drew near unto the thick darkness where God was.",
+            "version": "ASV",
+            "clsstr": "Exod-20-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020022,
+            "text": "\u00b6 And Jehovah said unto Moses, Thus thou shalt say unto the children of Israel, Ye yourselves have seen that I have talked with you from heaven. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020023,
+            "text": "Ye shall not make  with me; gods of silver, or gods of gold, ye shall not make unto you. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020024,
+            "text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt-offerings, and thy peace-offerings, thy sheep, and thine oxen: in every place where I <i>[g]</i>record my name I will come unto thee and I will bless thee. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-24",
+            "footnotes": [
+                {
+                    "g": "Or, <i>cause my name to be remembered</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020025,
+            "text": "And if thou make me an altar of stone, thou shalt not build it of hewn stones; for if thou lift up thy tool upon it, thou hast polluted it. ",
+            "version": "ASV",
+            "clsstr": "Exod-20-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2020026,
+            "text": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not uncovered thereon.",
+            "version": "ASV",
+            "clsstr": "Exod-20-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 20
+}

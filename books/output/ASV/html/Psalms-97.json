@@ -1,0 +1,115 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19097001,
+            "text": "<b>Jehovah\u2019s power and dominion.</b>\n\u00b6     Jehovah reigneth; let the earth rejoice;\n    Let the multitude of isles be glad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097002,
+            "text": "    Clouds and darkness are round about him:\n    Righteousness and justice are the foundation of his throne.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097003,
+            "text": "    A fire goeth before him,\n    And burneth up his adversaries round about.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097004,
+            "text": "    His lightnings lightened the world:\n    The earth saw, and trembled.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097005,
+            "text": "    The mountains melted like wax at the presence of Jehovah,\n    At the presence of the Lord of the whole earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097006,
+            "text": "    The heavens declare his righteousness,\n    And all the peoples have seen his glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097007,
+            "text": "    Let all them be put to shame that serve graven images,\n    That boast themselves of idols:\n    Worship him, all ye gods.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097008,
+            "text": "    Zion heard and was glad,\n    And the daughters of Judah rejoiced,\n    Because of thy judgments, O Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097009,
+            "text": "    For thou, Jehovah, art most high above all the earth:\n    Thou art exalted far above all gods.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097010,
+            "text": "    O ye that love Jehovah, hate evil:\n    He preserveth the souls of his saints;\n    He delivereth them out of the hand of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097011,
+            "text": "    Light is sown for the righteous,\n    And gladness for the upright in heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19097012,
+            "text": "    Be glad in Jehovah, ye righteous;\n    And give thanks to his holy memorial .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-97-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 97
+}

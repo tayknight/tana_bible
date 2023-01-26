@@ -1,0 +1,175 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 30,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 9,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 30,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 30001001,
+            "text": "\u00b6 The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.",
+            "version": "ASV",
+            "clsstr": "Amos-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001002,
+            "text": "\u00b6 And he said, Jehovah will roar from Zion, and utter his voice from Jerusalem; and the <i>[a]</i>pastures of the shepherds shall mourn, and the top of Carmel shall wither.",
+            "version": "ASV",
+            "clsstr": "Amos-1-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>habitations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001003,
+            "text": "\u00b6 Thus saith Jehovah: For three transgressions of Damascus, yea, for four, I will not <i>[b]</i>turn away <i>[c]</i>the punishment thereof; because they have threshed Gilead with threshing instruments of iron. ",
+            "version": "ASV",
+            "clsstr": "Amos-1-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>revoke my word</i>"
+                },
+                {
+                    "c": "Hebrew <i>it</i> (and so in verses [[6]], [[9]], etc.)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001004,
+            "text": "But I will send a fire into the house of Hazael, and it shall devour the palaces of Ben-hadad. ",
+            "version": "ASV",
+            "clsstr": "Amos-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001005,
+            "text": "And I will break the bar of Damascus, and cut off <i>[d]</i>the inhabitant from the valley of <i>[e]</i>Aven, and him that holdeth the sceptre from <i>[f]</i>the house of Eden; and the people of Syria shall go into captivity unto Kir, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-1-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>him that sitteth</i> on the throne (and so in [[verse 8]])"
+                },
+                {
+                    "e": "That is, <i>Vanity</i>."
+                },
+                {
+                    "f": "Or, <i>Beth-eden</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001006,
+            "text": "\u00b6 Thus saith Jehovah: For three transgressions of Gaza, yea, for four, I will not turn away the punishment thereof; because they carried away captive <i>[g]</i>the whole people, to deliver them up to Edom. ",
+            "version": "ASV",
+            "clsstr": "Amos-1-6",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>an entire captivity</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001007,
+            "text": "But I will send a fire on the wall of Gaza, and it shall devour the palaces thereof. ",
+            "version": "ASV",
+            "clsstr": "Amos-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001008,
+            "text": "And I will cut off the inhabitant from Ashdod, and him that holdeth the sceptre from Ashkelon; and I will turn my hand against Ekron; and the remnant of the Philistines shall perish, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001009,
+            "text": "\u00b6 Thus saith Jehovah: For three transgressions of Tyre, yea, for four, I will not turn away the punishment thereof; because they delivered up <i>[h]</i>the whole people to Edom, and remembered not <i>[i]</i>the brotherly covenant. ",
+            "version": "ASV",
+            "clsstr": "Amos-1-9",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>an entire captivity</i>."
+                },
+                {
+                    "i": "Hebrew <i>the covenant of brethren</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001010,
+            "text": "But I will send a fire on the wall of Tyre, and it shall devour the palaces thereof.",
+            "version": "ASV",
+            "clsstr": "Amos-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001011,
+            "text": "\u00b6 Thus saith Jehovah: For three transgressions of Edom, yea, for four, I will not turn away the punishment thereof; because he did pursue his brother with the sword, and <i>[j]</i>did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever. ",
+            "version": "ASV",
+            "clsstr": "Amos-1-11",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>corrupted his compassions</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001012,
+            "text": "But I will send a fire upon Teman, and it shall devour the palaces of Bozrah.",
+            "version": "ASV",
+            "clsstr": "Amos-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001013,
+            "text": "\u00b6 Thus saith Jehovah: For three transgressions of the children of Ammon, yea, for four, I will not turn away the punishment thereof; because they have ripped up the women with child of Gilead, that they may enlarge their border. ",
+            "version": "ASV",
+            "clsstr": "Amos-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001014,
+            "text": "But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind; ",
+            "version": "ASV",
+            "clsstr": "Amos-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30001015,
+            "text": "and their king shall go into captivity, he and his princes together, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Amos",
+    "chapters": 1
+}

@@ -1,0 +1,360 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41007001,
+            "text": "\u00b6 And there are gathered together unto him the Pharisees, and certain of the scribes, who had come from Jerusalem, ",
+            "version": "ASV",
+            "clsstr": "Mark-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007002,
+            "text": "and had seen that some of his disciples ate their bread with <i>[a]</i>defiled, that is, unwashen, hands. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>common</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007003,
+            "text": "(For the Pharisees, and all the Jews, except they wash their hands <i>[b]</i>diligently, eat not, holding the tradition of the elders; ",
+            "version": "ASV",
+            "clsstr": "Mark-7-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>up to the elbow</i>. Greek <i>with the fist</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007004,
+            "text": "and from the marketplace, except they <i>[c]</i>bathe themselves, they eat not; and many other things there are, which they have received to hold, <i>[d]</i>washings of cups, and pots, and brasen vessels <i>[e]</i>.) ",
+            "version": "ASV",
+            "clsstr": "Mark-7-4",
+            "footnotes": [
+                {
+                    "c": "Greek <i>baptize</i>. Some ancient authorities read <i>sprinkle themselves</i>."
+                },
+                {
+                    "d": "Greek <i>baptizings</i>."
+                },
+                {
+                    "e": "Many ancient authorities add <i>and couches</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007005,
+            "text": "And the Pharisees and the scribes ask him, Why walk not thy disciples according to the tradition of the elders, but eat their bread with <i>[f]</i>defiled hands? ",
+            "version": "ASV",
+            "clsstr": "Mark-7-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>common</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007006,
+            "text": "And he said unto them, Well did Isaiah prophesy of you hypocrites, as it is written,\u00b6   <i>[g]</i>This people honoreth me with their lips,\n    But their heart is far from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Mark-7-6",
+            "footnotes": [
+                {
+                    "g": "[[Isa. 29:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007007,
+            "text": "    But in vain do they worship me,\n    Teaching  doctrines the precepts of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Mark-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007008,
+            "text": "\u00b6 Ye leave the commandment of God, and hold fast the tradition of men. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007009,
+            "text": "And he said unto them, Full well do ye reject the commandment of God, that ye may keep your tradition. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007010,
+            "text": "For Moses said, <i>[h]</i>Honor thy father and thy mother; and, He that speaketh evil of father or mother, let him <i>[i]</i>die the death: ",
+            "version": "ASV",
+            "clsstr": "Mark-7-10",
+            "footnotes": [
+                {
+                    "h": "[[Ex. 20:12]]; [[Dt. 5:16]]; [[Ex. 21:17]]; [[Lev. 20:9]]."
+                },
+                {
+                    "i": "Or, <i>surely die</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007011,
+            "text": "but ye say, If a man shall say to his father or his mother, That wherewith thou mightest have been profited by me is Corban, that is to say, Given ; ",
+            "version": "ASV",
+            "clsstr": "Mark-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007012,
+            "text": "ye no longer suffer him to do aught for his father or his mother; ",
+            "version": "ASV",
+            "clsstr": "Mark-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007013,
+            "text": "making void the word of God by your tradition, which ye have delivered: and many such like things ye do. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007014,
+            "text": "And he called to him the multitude again, and said unto them, Hear me all of you, and understand: ",
+            "version": "ASV",
+            "clsstr": "Mark-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007015,
+            "text": "there is nothing from without the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man. <i>[j]</i> ",
+            "version": "ASV",
+            "clsstr": "Mark-7-15",
+            "footnotes": [
+                {
+                    "j": "Many ancient authorities insert [[verse 16]] <i>If any man hath ears to hear, let him hear</i>. See [[4:9]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007017,
+            "text": "And when he was entered into the house from the multitude, his disciples asked of him the parable. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007018,
+            "text": "And he saith unto them, Are ye so without understanding also? Perceive ye not, that whatsoever from without goeth into the man,  cannot defile him; ",
+            "version": "ASV",
+            "clsstr": "Mark-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007019,
+            "text": "because it goeth not into his heart, but into his belly, and goeth out into the draught? , making all meats clean. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007020,
+            "text": "And he said, That which proceedeth out of the man, that defileth the man. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007021,
+            "text": "For from within, out of the heart of men, <i>[k]</i>evil thoughts proceed, fornications, thefts, murders, adulteries, ",
+            "version": "ASV",
+            "clsstr": "Mark-7-21",
+            "footnotes": [
+                {
+                    "k": "Greek <i>thoughts that are evil</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007022,
+            "text": "covetings, wickednesses, deceit, lasciviousness, an evil eye, railing, pride, foolishness: ",
+            "version": "ASV",
+            "clsstr": "Mark-7-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007023,
+            "text": "all these evil things proceed from within, and defile the man.",
+            "version": "ASV",
+            "clsstr": "Mark-7-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007024,
+            "text": "\u00b6 And from thence he arose, and went away into the borders of Tyre <i>[l]</i>and Sidon. And he entered into a house, and would have no man know it; and he could not be hid. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-24",
+            "footnotes": [
+                {
+                    "l": "Some ancient authorities omit <i>and Sidon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007025,
+            "text": "But straightway a woman, whose little daughter had an unclean spirit, having heard of him, came and fell down at his feet. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007026,
+            "text": "Now the woman was a <i>[m]</i>Greek, a Syrophoenician by race. And she besought him that he would cast forth the demon out of her daughter. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-26",
+            "footnotes": [
+                {
+                    "m": "Or, <i>Gentile</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007027,
+            "text": "And he said unto her, Let the children first be filled: for it is not meet to take the children\u2019s <i>[n]</i>bread and cast it to the dogs. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-27",
+            "footnotes": [
+                {
+                    "n": "Or, <i>loaf</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007028,
+            "text": "But she answered and saith unto him, Yea, Lord; even the dogs under the table eat of the children\u2019s crumbs. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007029,
+            "text": "And he said unto her, For this saying go thy way; the demon is gone out of thy daughter. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007030,
+            "text": "And she went away unto her house, and found the child laid upon the bed, and the demon gone out.",
+            "version": "ASV",
+            "clsstr": "Mark-7-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007031,
+            "text": "\u00b6 And again he went out from the borders of Tyre, and came through Sidon unto the sea of Galilee, through the midst of the borders of Decapolis. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007032,
+            "text": "And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to lay his hand upon him. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007033,
+            "text": "And he took him aside from the multitude privately, and put his fingers into his ears, and he spat, and touched his tongue; ",
+            "version": "ASV",
+            "clsstr": "Mark-7-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007034,
+            "text": "and looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007035,
+            "text": "And his ears were opened, and the bond of his tongue was loosed, and he spake plain. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007036,
+            "text": "And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published it. ",
+            "version": "ASV",
+            "clsstr": "Mark-7-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41007037,
+            "text": "And they were beyond measure astonished, saying, He hath done all things well; he maketh even the deaf to hear, and the dumb to speak.",
+            "version": "ASV",
+            "clsstr": "Mark-7-37",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 7
+}

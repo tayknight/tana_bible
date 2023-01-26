@@ -1,0 +1,264 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 51,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 18,
+            "end_book": null
+        }
+    ],
+    "book": 51,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 51003001,
+            "text": "\u00b6 If then ye were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God. ",
+            "version": "ASV",
+            "clsstr": "Col-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003002,
+            "text": "Set your mind on the things that are above, not on the things that are upon the earth. ",
+            "version": "ASV",
+            "clsstr": "Col-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003003,
+            "text": "For ye died, and your life is hid with Christ in God. ",
+            "version": "ASV",
+            "clsstr": "Col-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003004,
+            "text": "When Christ,  <i>[a]</i>our life, shall be manifested, then shall ye also with him be manifested in glory.",
+            "version": "ASV",
+            "clsstr": "Col-3-4",
+            "footnotes": [
+                {
+                    "a": "Many ancient authorities read <i>your</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003005,
+            "text": "\u00b6 Put to death therefore your members which are upon the earth: fornication, uncleanness, passion, evil desire, and covetousness, which is idolatry; ",
+            "version": "ASV",
+            "clsstr": "Col-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003006,
+            "text": "for which things\u2019 sake cometh the wrath of God <i>[b]</i>upon the sons of disobedience: ",
+            "version": "ASV",
+            "clsstr": "Col-3-6",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities omit <i>upon the sons of disobedience</i>. See [[Eph. 5:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003007,
+            "text": " <i>[c]</i>wherein ye also once walked, when ye lived in these things; ",
+            "version": "ASV",
+            "clsstr": "Col-3-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>amongst whom</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003008,
+            "text": "but now do ye also put them all away: anger, wrath, malice, railing, shameful speaking out of your mouth: ",
+            "version": "ASV",
+            "clsstr": "Col-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003009,
+            "text": "lie not one to another; seeing that ye have put off the old man with his doings, ",
+            "version": "ASV",
+            "clsstr": "Col-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003010,
+            "text": "and have put on the new man, that is being renewed unto knowledge after the image of him that created him: ",
+            "version": "ASV",
+            "clsstr": "Col-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003011,
+            "text": "where there cannot be Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, bondman, freeman; but Christ is all, and in all.",
+            "version": "ASV",
+            "clsstr": "Col-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003012,
+            "text": "\u00b6 Put on therefore, as God\u2019s elect, holy and beloved, a heart of compassion, kindness, lowliness, meekness, longsuffering; ",
+            "version": "ASV",
+            "clsstr": "Col-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003013,
+            "text": "forbearing one another, and forgiving each other, if any man have a complaint against any; even as <i>[d]</i>the Lord forgave you, so also do ye: ",
+            "version": "ASV",
+            "clsstr": "Col-3-13",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities read <i>Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003014,
+            "text": "and above all these things  love, which is the bond of perfectness. ",
+            "version": "ASV",
+            "clsstr": "Col-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003015,
+            "text": "And let the peace of Christ <i>[e]</i>rule in your hearts, to the which also ye were called in one body; and be ye thankful. ",
+            "version": "ASV",
+            "clsstr": "Col-3-15",
+            "footnotes": [
+                {
+                    "e": "Greek <i>arbitrate</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003016,
+            "text": "Let the word of <i>[f]</i>Christ dwell in you <i>[g]</i>richly; in all wisdom teaching and admonishing <i>[h]</i>one another with psalms  hymns  spiritual songs, singing with grace in your hearts unto God. ",
+            "version": "ASV",
+            "clsstr": "Col-3-16",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities read <i>the Lord</i>; others <i>God</i>"
+                },
+                {
+                    "g": "Or, <i>richly in all wisdom; teaching etc.</i>"
+                },
+                {
+                    "h": "Or, <i>yourselves</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003017,
+            "text": "And whatsoever ye do, in word or in deed,  all in the name of the Lord Jesus, giving thanks to God the Father through him.",
+            "version": "ASV",
+            "clsstr": "Col-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003018,
+            "text": "\u00b6 Wives, be in subjection to your husbands, as is fitting in the Lord. ",
+            "version": "ASV",
+            "clsstr": "Col-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003019,
+            "text": "Husbands, love your wives, and be not bitter against them. ",
+            "version": "ASV",
+            "clsstr": "Col-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003020,
+            "text": "Children, obey your parents in all things, for this is well-pleasing in the Lord. ",
+            "version": "ASV",
+            "clsstr": "Col-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003021,
+            "text": "Fathers, provoke not your children, that they be not discouraged. ",
+            "version": "ASV",
+            "clsstr": "Col-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003022,
+            "text": " <i>[i]</i>Servants, obey in all things them that are your <i>[j]</i>masters according to the flesh; not with eye-service, as men-pleasers, but in singleness of heart, fearing the Lord: ",
+            "version": "ASV",
+            "clsstr": "Col-3-22",
+            "footnotes": [
+                {
+                    "i": "Greek <i>Bondservants</i>."
+                },
+                {
+                    "j": "Greek <i>lords</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003023,
+            "text": "whatsoever ye do, work <i>[k]</i>heartily, as unto the Lord, and not unto men; ",
+            "version": "ASV",
+            "clsstr": "Col-3-23",
+            "footnotes": [
+                {
+                    "k": "Greek <i>from the soul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003024,
+            "text": "knowing that from the Lord ye shall receive the recompense of the inheritance: ye serve the Lord Christ. ",
+            "version": "ASV",
+            "clsstr": "Col-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 51003025,
+            "text": "For he that doeth wrong shall <i>[l]</i>receive again for the wrong that he hath done: and there is no respect of persons. ",
+            "version": "ASV",
+            "clsstr": "Col-3-25",
+            "footnotes": [
+                {
+                    "l": "Greek <i>receive again the wrong</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Colossians",
+    "chapters": 3
+}

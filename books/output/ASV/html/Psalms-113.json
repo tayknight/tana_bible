@@ -1,0 +1,103 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19113001,
+            "text": "<b>Jehovah praised for exalting the humble.</b>\n\u00b6   <i>[a]</i>Praise ye Jehovah.\n    Praise, O ye servants of Jehovah,\n    Praise the name of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113002,
+            "text": "    Blessed be the name of Jehovah\n    From this time forth and for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113003,
+            "text": "    From the rising of the sun unto the going down of the same\n    Jehovah\u2019s name is to be praised.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113004,
+            "text": "    Jehovah is high above all nations,\n    And his glory above the heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113005,
+            "text": "    Who is like unto Jehovah our God,\n    That hath his seat on high,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113006,
+            "text": "  That humbleth himself <i>[b]</i>to behold\n     in heaven and in the earth?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>to regard the heavens and the earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113007,
+            "text": "    He raiseth up the poor out of the dust,\n    And lifteth up the needy from the dunghill;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113008,
+            "text": "    That he may set him with princes,\n    Even with the princes of his people.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19113009,
+            "text": "  He maketh the barren woman to keep house,\n   a joyful mother of children.\n   <i>[c]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-113-9",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 113
+}

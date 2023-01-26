@@ -1,0 +1,169 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 21,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 21,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 21004001,
+            "text": "\u00b6 Then I returned and saw all the oppressions that are done under the sun: and, behold, the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004002,
+            "text": "Wherefore I praised the dead that have been long dead more than the living that are yet alive; ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004003,
+            "text": "yea, <i>[a]</i>better than them both  him that hath not yet been, who hath not seen the evil work that is done under the sun. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>better than they both is he that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004004,
+            "text": "Then I saw all labor and every <i>[b]</i>skilful work, that <i>[c]</i>for this a man is envied of his neighbor. This also is vanity and a striving after wind. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>successful</i>"
+                },
+                {
+                    "c": "Or, <i>it cometh of a man\u2019s rivalry with his neighbor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004005,
+            "text": "The fool foldeth his hands together, and eateth his own flesh. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004006,
+            "text": "Better is a handful, <i>[d]</i>with quietness, than two handfuls <i>[e]</i>with labor and striving after wind. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>of</i>"
+                },
+                {
+                    "e": "Or, <i>of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004007,
+            "text": "Then I returned and saw vanity under the sun. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004008,
+            "text": "There is one that is alone, and he hath not a second; yea, he hath neither son nor brother; yet is there no end of all his labor, neither are his eyes satisfied with riches. For whom then, , do I labor, and deprive my soul of good? This also is vanity, yea, it is a sore travail. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004009,
+            "text": "Two are better than one, because they have a good reward for their labor. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004010,
+            "text": "For if they fall, the one will lift up his fellow; but woe to him that is alone when he falleth, and hath not another to lift him up. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004011,
+            "text": "Again, if two lie together, then they have warmth; but how can one be warm ? ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004012,
+            "text": "And if a man prevail against him that is alone, two shall withstand him; and a threefold cord is not quickly broken. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004013,
+            "text": "Better is a poor and wise youth than an old and foolish king, who knoweth not how to receive admonition any more. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004014,
+            "text": "For out of prison he came forth to be king; yea, even in his kingdom he was born poor. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004015,
+            "text": "I saw all the living that walk under the sun, that they were with the youth, the second, that stood up in his stead. ",
+            "version": "ASV",
+            "clsstr": "Eccl-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21004016,
+            "text": " <i>[f]</i>There was no end of all the people, even of all them over whom he was: yet they that come after shall not rejoice in him. Surely this also is vanity and a striving after wind.",
+            "version": "ASV",
+            "clsstr": "Eccl-4-16",
+            "footnotes": [
+                {
+                    "f": "Or, <i>There is no end, in the mind of all the people, to all that hath been before them; they also etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ecclesiastes",
+    "chapters": 4
+}

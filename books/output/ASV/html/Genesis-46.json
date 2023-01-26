@@ -1,0 +1,344 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1046001,
+            "text": "\u00b6 And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046002,
+            "text": "And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046003,
+            "text": "And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation: ",
+            "version": "ASV",
+            "clsstr": "Gen-46-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046004,
+            "text": "I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046005,
+            "text": "And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046006,
+            "text": "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him: ",
+            "version": "ASV",
+            "clsstr": "Gen-46-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046007,
+            "text": "his sons, and his sons\u2019 sons with him, his daughters, and his sons\u2019 daughters, and all his seed brought he with him into Egypt.",
+            "version": "ASV",
+            "clsstr": "Gen-46-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046008,
+            "text": "\u00b6 And these are the names of the children of Israel, who came into Egypt, Jacob and his sons: Reuben, Jacob\u2019s first-born. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046009,
+            "text": "And the sons of Reuben: Hanoch, and Pallu, and Hezron, and Carmi. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046010,
+            "text": "And the sons of Simeon: <i>[a]</i>Jemuel, and Jamin, and Ohad, and <i>[b]</i>Jachin, and <i>[c]</i>Zohar, and Shaul the son of a Canaanitish woman. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-10",
+            "footnotes": [
+                {
+                    "a": "In [[Num. 26:12]]; [[1 Chr. 4:24]], <i>Nemuel</i>."
+                },
+                {
+                    "b": "In [[1 Chr. 4:24]], <i>Jarib</i>."
+                },
+                {
+                    "c": "In [[Num. 26:13]]; [[1 Chr. 4:24]], <i>Zerah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046011,
+            "text": "And the sons of Levi: <i>[d]</i>Gershon, Kohath, and Merari. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-11",
+            "footnotes": [
+                {
+                    "d": "In [[1 Chr. 6:16]], <i>Gershom</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046012,
+            "text": "And the sons of Judah: Er, and Onan, and Shelah, and Perez, and Zerah; but Er and Onan died in the land of Canaan. And the sons of Perez were Hezron and Hamul. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046013,
+            "text": "And the sons of Issachar: Tola, and <i>[e]</i>Puvah, and Iob, and Shimron. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-13",
+            "footnotes": [
+                {
+                    "e": "In [[1 Chr. 7:1]], <i>Puvah, Jashub</i>. See [[Num. 26:23]], [[24]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046014,
+            "text": "And the sons of Zebulun: Sered, and Elon, and Jahleel. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046015,
+            "text": "These are the sons of Leah, whom she bare unto Jacob in Paddan-aram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046016,
+            "text": "And the sons of Gad: <i>[f]</i>Ziphion, and Haggi, Shuni, and <i>[g]</i>Ezbon, Eri, and <i>[h]</i>Arodi, and Areli. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-16",
+            "footnotes": [
+                {
+                    "f": "In [[Num. 26:15]], <i>Zephon</i>."
+                },
+                {
+                    "g": "In [[Num. 26:16]], <i>Ozni</i>."
+                },
+                {
+                    "h": "In [[Num. 26:17]], <i>Arod</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046017,
+            "text": "And the sons of Asher: Imnah, and Ishvah, and Ishvi, and Beriah, and Serah their sister; and the sons of Beriah: Heber, and Malchiel. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046018,
+            "text": "These are the sons of Zilpah, whom Laban gave to Leah his daughter; and these she bare unto Jacob, even sixteen souls. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046019,
+            "text": "The sons of Rachel Jacob\u2019s wife: Joseph and Benjamin. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046020,
+            "text": "And unto Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Poti-phera priest of On, bare unto him. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046021,
+            "text": "And the sons of Benjamin: Bela, and Becher, and Ashbel, Gera, and Naaman, <i>[i]</i>Ehi, and Rosh, <i>[j]</i>Muppim, and <i>[k]</i>Huppim, and Ard. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-21",
+            "footnotes": [
+                {
+                    "i": "In [[Num. 26:38]], <i>Ahiram</i>."
+                },
+                {
+                    "j": "In [[Num. 26:39]], <i>Shephupham</i>. In [[1 Chr. 7:12]], <i>Shuppim</i>."
+                },
+                {
+                    "k": "In [[Num. 26:39]], <i>Hupham</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046022,
+            "text": "These are the sons of Rachel, who were born to Jacob: all the souls were fourteen. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046023,
+            "text": "And the sons of Dan: <i>[l]</i>Hushim. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-23",
+            "footnotes": [
+                {
+                    "l": "In [[Num. 26:42]], <i>Shuham</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046024,
+            "text": "And the sons of Naphtali: <i>[m]</i>Jahzeel, and Guni, and Jezer, and <i>[n]</i>Shillem. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-24",
+            "footnotes": [
+                {
+                    "m": "In [[1 Chr. 7:13]], <i>Jahziel</i>."
+                },
+                {
+                    "n": "In [[1 Chr. 7:13]], <i>Shallum</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046025,
+            "text": "These are the sons of Bilhah, whom Laban gave unto Rachel his daughter, and these she bare unto Jacob: all the souls were seven. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046026,
+            "text": "All the <i>[o]</i>souls that came with Jacob into Egypt, that came out of his loins, besides Jacob\u2019s sons\u2019 wives, all the souls were threescore and six; ",
+            "version": "ASV",
+            "clsstr": "Gen-46-26",
+            "footnotes": [
+                {
+                    "o": "Or, <i>souls belonging to Jacob that came</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046027,
+            "text": "and the sons of Joseph, who were born to him in Egypt, were two souls: all the souls of the house of Jacob, that came into Egypt, were threescore and ten.",
+            "version": "ASV",
+            "clsstr": "Gen-46-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046028,
+            "text": "\u00b6 And he sent Judah before him unto Joseph, to show the way before him unto Goshen; and they came into the land of Goshen. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046029,
+            "text": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen; and he presented himself unto him, and fell on his neck, and wept on his neck a good while. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046030,
+            "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, that thou art yet alive. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046031,
+            "text": "And Joseph said unto his brethren, and unto his father\u2019s house, I will go up, and tell Pharaoh, and will say unto him, My brethren, and my father\u2019s house, who were in the land of Canaan, are come unto me; ",
+            "version": "ASV",
+            "clsstr": "Gen-46-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046032,
+            "text": "and the men are shepherds, for they have been keepers of cattle; and they have brought their flocks, and their herds, and all that they have. ",
+            "version": "ASV",
+            "clsstr": "Gen-46-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046033,
+            "text": "And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation? ",
+            "version": "ASV",
+            "clsstr": "Gen-46-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1046034,
+            "text": "that ye shall say, Thy servants have been keepers of cattle from our youth even until now, both we, and our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.",
+            "version": "ASV",
+            "clsstr": "Gen-46-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 46
+}

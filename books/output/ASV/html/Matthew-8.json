@@ -1,0 +1,356 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40008001,
+            "text": "\u00b6 And when he was come down from the mountain, great multitudes followed him. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008002,
+            "text": "And behold, there came to him a leper and <i>[a]</i>worshipped him, saying, Lord, if thou wilt, thou canst make me clean. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-2",
+            "footnotes": [
+                {
+                    "a": "See marginal note on [[2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008003,
+            "text": "And he stretched forth his hand, and touched him, saying, I will; be thou made clean. And straightway his leprosy was cleansed. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008004,
+            "text": "And Jesus saith unto him, <i>[b]</i>See thou tell no man; but go, show thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.",
+            "version": "ASV",
+            "clsstr": "Matt-8-4",
+            "footnotes": [
+                {
+                    "b": "[[Lev. 13:49]]; [[14:2ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008005,
+            "text": "\u00b6 And when he was entered into Capernaum, there came unto him a centurion, beseeching him, ",
+            "version": "ASV",
+            "clsstr": "Matt-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008006,
+            "text": "and saying, Lord, my <i>[c]</i>servant lieth in the house sick of the palsy, grievously tormented. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>boy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008007,
+            "text": "And he saith unto him, I will come and heal him. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008008,
+            "text": "And the centurion answered and said, Lord, I am not <i>[d]</i>worthy that thou shouldest come under my roof; but only say <i>[e]</i>the word, and my <i>[f]</i>servant shall be healed. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-8",
+            "footnotes": [
+                {
+                    "d": "Greek <i>sufficient</i>."
+                },
+                {
+                    "e": "Greek <i>with a word</i>."
+                },
+                {
+                    "f": "Or, <i>boy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008009,
+            "text": "For I also am a man <i>[g]</i>under authority, having under myself soldiers: and I say to this one, Go, and he goeth; and to another, Come, and he cometh; and to my <i>[h]</i>servant, Do this, and he doeth it. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-9",
+            "footnotes": [
+                {
+                    "g": "Some ancient authorities insert <i>set</i>: as in [[Lk. 7:8]]."
+                },
+                {
+                    "h": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008010,
+            "text": "And when Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, <i>[i]</i>I have not found so great faith, no, not in Israel. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-10",
+            "footnotes": [
+                {
+                    "i": "Many ancient authorities read <i>With no man in Israel have I found so great faith</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008011,
+            "text": "And I say unto you, that many shall come from the east and the west, and shall <i>[j]</i>sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven: ",
+            "version": "ASV",
+            "clsstr": "Matt-8-11",
+            "footnotes": [
+                {
+                    "j": "Greek <i>recline</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008012,
+            "text": "but the sons of the kingdom shall be cast forth into the outer darkness: there shall be the weeping and the gnashing of teeth. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008013,
+            "text": "And Jesus said unto the centurion, Go thy way; as thou hast believed, be it done unto thee. And the <i>[k]</i>servant was healed in that hour.",
+            "version": "ASV",
+            "clsstr": "Matt-8-13",
+            "footnotes": [
+                {
+                    "k": "Or, <i>boy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008014,
+            "text": "\u00b6 And when Jesus was come into Peter\u2019s house, he saw his wife\u2019s mother lying sick of a fever. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008015,
+            "text": "And he touched her hand, and the fever left her; and she arose, and ministered unto him. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008016,
+            "text": "And when even was come, they brought unto him many <i>[l]</i>possessed with demons: and he cast out the spirits with a word, and healed all that were sick: ",
+            "version": "ASV",
+            "clsstr": "Matt-8-16",
+            "footnotes": [
+                {
+                    "l": "Or, <i>demoniacs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008017,
+            "text": "that it might be fulfilled which was spoken through Isaiah the prophet, saying, <i>[m]</i>Himself took our infirmities, and bare our diseases.",
+            "version": "ASV",
+            "clsstr": "Matt-8-17",
+            "footnotes": [
+                {
+                    "m": "[[Isa. 53:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008018,
+            "text": "\u00b6 Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008019,
+            "text": "And there came <i>[n]</i>a scribe, and said unto him, Teacher, I will follow thee whithersoever thou goest. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-19",
+            "footnotes": [
+                {
+                    "n": "Greek <i>one scribe</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008020,
+            "text": "And Jesus saith unto him, The foxes have holes, and the birds of the heaven  <i>[o]</i>nests; but the Son of man hath not where to lay his head. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-20",
+            "footnotes": [
+                {
+                    "o": "Greek <i>lodging-places</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008021,
+            "text": "And another of the disciples said unto him, Lord, suffer me first to go and bury my father. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008022,
+            "text": "But Jesus saith unto him, Follow me; and leave the dead to bury their own dead.",
+            "version": "ASV",
+            "clsstr": "Matt-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008023,
+            "text": "\u00b6 And when he was entered into a boat, his disciples followed him. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008024,
+            "text": "And behold, there arose a great tempest in the sea, insomuch that the boat was covered with the waves: but he was asleep. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008025,
+            "text": "And they came to him, and awoke him, saying, Save, Lord; we perish. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008026,
+            "text": "And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008027,
+            "text": "And the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him?",
+            "version": "ASV",
+            "clsstr": "Matt-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008028,
+            "text": "\u00b6 And when he was come to the other side into the country of the Gadarenes, there met him two <i>[p]</i>possessed with demons, coming forth out of the tombs, exceeding fierce, so that no man could pass by that way. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-28",
+            "footnotes": [
+                {
+                    "p": "Or, <i>demoniacs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008029,
+            "text": "And behold, they cried out, saying, What have we to do with thee, thou Son of God? art thou come hither to torment us before the time? ",
+            "version": "ASV",
+            "clsstr": "Matt-8-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008030,
+            "text": "Now there was afar off from them a herd of many swine feeding. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008031,
+            "text": "And the demons besought him, saying, If thou cast us out, send us away into the herd of swine. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008032,
+            "text": "And he said unto them, Go. And they came out, and went into the swine: and behold, the whole herd rushed down the steep into the sea, and perished in the waters. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008033,
+            "text": "And they that fed them fled, and went away into the city, and told everything, and what was befallen to them that were <i>[q]</i>possessed with demons. ",
+            "version": "ASV",
+            "clsstr": "Matt-8-33",
+            "footnotes": [
+                {
+                    "q": "Or, <i>demoniacs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40008034,
+            "text": "And behold, all the city came out to meet Jesus: and when they saw him, they besought  that he would depart from their borders.",
+            "version": "ASV",
+            "clsstr": "Matt-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 8
+}

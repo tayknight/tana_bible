@@ -1,0 +1,134 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23064001,
+            "text": "\u00b6 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might <i>[a]</i>quake at thy presence, ",
+            "version": "ASV",
+            "clsstr": "Isa-64-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>flow down</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064002,
+            "text": "as when fire kindleth the brushwood,  the fire causeth the waters to boil; to make thy name known to thine adversaries, that the nations may tremble at thy presence! ",
+            "version": "ASV",
+            "clsstr": "Isa-64-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064003,
+            "text": "When thou didst terrible things which we looked not for, thou camest down, the mountains quaked at thy presence. ",
+            "version": "ASV",
+            "clsstr": "Isa-64-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064004,
+            "text": "For from of old men have not heard, nor perceived by the ear, neither hath the eye <i>[b]</i>seen a God besides thee, who worketh for him that waiteth for him. ",
+            "version": "ASV",
+            "clsstr": "Isa-64-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>seen, O God, besides thee, one that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064005,
+            "text": "Thou <i>[c]</i>meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou wast wroth, and we sinned: <i>[d]</i>in them  of long time; and shall we be saved? ",
+            "version": "ASV",
+            "clsstr": "Isa-64-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>sparest</i>"
+                },
+                {
+                    "d": "Or, <i>in those is continuance, and we shall be saved</i>. The Hebrew is obscure."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064006,
+            "text": "For we are all become as one that is unclean, and all our righteousnesses are as a polluted garment: and we all do fade as a leaf; and our iniquities, like the wind, take us away. ",
+            "version": "ASV",
+            "clsstr": "Isa-64-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064007,
+            "text": "And there is none that calleth upon thy name, that stirreth up himself to take hold of thee; for thou hast hid thy face from us, and hast <i>[e]</i>consumed us by means of our iniquities.",
+            "version": "ASV",
+            "clsstr": "Isa-64-7",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>melted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064008,
+            "text": "\u00b6 But now, O Jehovah, thou art our Father; we are the clay, and thou our potter; and we all are the work of thy hand. ",
+            "version": "ASV",
+            "clsstr": "Isa-64-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064009,
+            "text": "Be not wroth very sore, O Jehovah, neither remember iniquity for ever: behold, look, we beseech thee, we are all thy people. ",
+            "version": "ASV",
+            "clsstr": "Isa-64-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064010,
+            "text": "Thy holy cities are become a wilderness, Zion is become a wilderness, Jerusalem a desolation. ",
+            "version": "ASV",
+            "clsstr": "Isa-64-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064011,
+            "text": "Our holy and our beautiful house, where our fathers praised thee, is burned with fire; and all our pleasant places are laid waste. ",
+            "version": "ASV",
+            "clsstr": "Isa-64-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23064012,
+            "text": "Wilt thou refrain thyself for these things, O Jehovah? wilt thou hold thy peace, and afflict us very sore?",
+            "version": "ASV",
+            "clsstr": "Isa-64-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 64
+}

@@ -1,0 +1,234 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 62,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 5,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 62,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 62003001,
+            "text": "\u00b6 Behold what manner of love the Father hath bestowed upon us, that we should be called children of God; and  we are. For this cause the world knoweth us not, because it knew him not. ",
+            "version": "ASV",
+            "clsstr": "1John-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003002,
+            "text": "Beloved, now are we children of God, and it is not yet made manifest what we shall be. We know that, if <i>[a]</i>he shall be manifested, we shall be like him; for we shall see him even as he is. ",
+            "version": "ASV",
+            "clsstr": "1John-3-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003003,
+            "text": "And every one that hath this hope  on him purifieth himself, even as he is pure. ",
+            "version": "ASV",
+            "clsstr": "1John-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003004,
+            "text": "Every one that doeth sin doeth also lawlessness; and sin is lawlessness. ",
+            "version": "ASV",
+            "clsstr": "1John-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003005,
+            "text": "And ye know that he was manifested to <i>[b]</i>take away sins; and in him is no sin. ",
+            "version": "ASV",
+            "clsstr": "1John-3-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>bear sins</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003006,
+            "text": "Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither <i>[c]</i>knoweth him. ",
+            "version": "ASV",
+            "clsstr": "1John-3-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>hath known</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003007,
+            "text": " little children, let no man lead you astray: he that doeth righteousness is righteous, even as he is righteous: ",
+            "version": "ASV",
+            "clsstr": "1John-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003008,
+            "text": "he that doeth sin is of the devil; for the devil sinneth from the beginning. To this end was the Son of God manifested, that he might destroy the works of the devil. ",
+            "version": "ASV",
+            "clsstr": "1John-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003009,
+            "text": "Whosoever is begotten of God doeth no sin, because his seed abideth in him: and he cannot sin, because he is begotten of God. ",
+            "version": "ASV",
+            "clsstr": "1John-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003010,
+            "text": "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother. ",
+            "version": "ASV",
+            "clsstr": "1John-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003011,
+            "text": "For this is the message which ye heard from the beginning, that we should love one another: ",
+            "version": "ASV",
+            "clsstr": "1John-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003012,
+            "text": "not as Cain was of the evil one, and slew his brother. And wherefore slew he him? Because his works were evil, and his brother\u2019s righteous.",
+            "version": "ASV",
+            "clsstr": "1John-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003013,
+            "text": "\u00b6 Marvel not, brethren, if the world hateth you. ",
+            "version": "ASV",
+            "clsstr": "1John-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003014,
+            "text": "We know that we have passed out of death into life, because we love the brethren. He that loveth not abideth in death. ",
+            "version": "ASV",
+            "clsstr": "1John-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003015,
+            "text": "Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him. ",
+            "version": "ASV",
+            "clsstr": "1John-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003016,
+            "text": "Hereby know we love, because he laid down his life for us: and we ought to lay down our lives for the brethren. ",
+            "version": "ASV",
+            "clsstr": "1John-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003017,
+            "text": "But whoso hath the world\u2019s goods, and beholdeth his brother in need, and shutteth up his compassion from him, how doth the love of God abide in him? ",
+            "version": "ASV",
+            "clsstr": "1John-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003018,
+            "text": " little children, let us not love in word, neither with the tongue; but in deed and truth. ",
+            "version": "ASV",
+            "clsstr": "1John-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003019,
+            "text": "Hereby shall we know that we are of the truth, and shall <i>[d]</i>assure our heart <i>[e]</i>before him: ",
+            "version": "ASV",
+            "clsstr": "1John-3-19",
+            "footnotes": [
+                {
+                    "d": "Greek <i>persuade</i>. Compare [[Mt. 28:14]]."
+                },
+                {
+                    "e": "Or, <i>before him, whereinsoever our heart condemn us; because God etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003020,
+            "text": "because if our heart condemn us, God is greater than our heart, and knoweth all things. ",
+            "version": "ASV",
+            "clsstr": "1John-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003021,
+            "text": "Beloved, if our heart condemn us not, we have boldness toward God; ",
+            "version": "ASV",
+            "clsstr": "1John-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003022,
+            "text": "and whatsoever we ask we receive of him, because we keep his commandments and do the things that are pleasing in his sight. ",
+            "version": "ASV",
+            "clsstr": "1John-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003023,
+            "text": "And this is his commandment, that we should <i>[f]</i>believe in the name of his Son Jesus Christ, and love one another, even as he gave us commandment. ",
+            "version": "ASV",
+            "clsstr": "1John-3-23",
+            "footnotes": [
+                {
+                    "f": "Greek <i>believe the name</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 62003024,
+            "text": "And he that keepeth his commandments abideth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he gave us.",
+            "version": "ASV",
+            "clsstr": "1John-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 John",
+    "chapters": 3
+}

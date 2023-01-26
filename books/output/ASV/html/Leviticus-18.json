@@ -1,0 +1,275 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 3,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 27,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 3,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 3018001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Lev-18-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018002,
+            "text": "Speak unto the children of Israel, and say unto them, I am Jehovah your God. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018003,
+            "text": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do; neither shall ye walk in their statutes. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018004,
+            "text": "Mine ordinances shall ye do, and my statutes shall ye keep, to walk therein: I am Jehovah your God. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018005,
+            "text": "Ye shall therefore keep my statutes, and mine ordinances; which if a man do, he shall live <i>[a]</i>in them: I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Lev-18-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018006,
+            "text": "\u00b6 None of you shall approach to any that are near of kin to him, to uncover  nakedness: I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018007,
+            "text": "The nakedness of thy father, even the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018008,
+            "text": "The nakedness of thy father\u2019s wife shalt thou not uncover; it is thy father\u2019s nakedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018009,
+            "text": "The nakedness of thy sister, the daughter of thy father, or the daughter of thy mother, whether born at home, or born abroad, even their nakedness thou shalt not uncover. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018010,
+            "text": "The nakedness of thy son\u2019s daughter, or of thy daughter\u2019s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018011,
+            "text": "The nakedness of thy father\u2019s wife\u2019s daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018012,
+            "text": "Thou shalt not uncover the nakedness of thy father\u2019s sister: she is thy father\u2019s near kinswoman. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018013,
+            "text": "Thou shalt not uncover the nakedness of thy mother\u2019s sister: for she is thy mother\u2019s near kinswoman. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018014,
+            "text": "Thou shalt not uncover the nakedness of thy father\u2019s brother, thou shalt not approach to his wife: she is thine aunt. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018015,
+            "text": "Thou shalt not uncover the nakedness of thy daughter-in-law: she is thy son\u2019s wife; thou shalt not uncover her nakedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018016,
+            "text": "Thou shalt not uncover the nakedness of thy brother\u2019s wife: it is thy brother\u2019s nakedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018017,
+            "text": "Thou shalt not uncover the nakedness of a woman and her daughter; thou shalt not take her son\u2019s daughter, or her daughter\u2019s daughter, to uncover her nakedness; they are near kinswomen: it is <i>[b]</i>wickedness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-17",
+            "footnotes": [
+                {
+                    "b": "Or, <i>enormity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018018,
+            "text": "And thou shalt not take a wife to her sister, to be a rival , to uncover her nakedness, besides the other in her life-time.",
+            "version": "ASV",
+            "clsstr": "Lev-18-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018019,
+            "text": "\u00b6 And thou shalt not approach unto a woman to uncover her nakedness, as long as she is <i>[c]</i>impure by her uncleanness. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-19",
+            "footnotes": [
+                {
+                    "c": "Or, <i>separated for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018020,
+            "text": "And thou shalt not lie carnally with thy neighbor\u2019s wife, to defile thyself with her. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018021,
+            "text": "And thou shalt not give any of thy seed <i>[d]</i>to make them pass through  to Molech; neither shalt thou profane the name of thy God: I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-21",
+            "footnotes": [
+                {
+                    "d": "Or, <i>to set them apart to Molech</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018022,
+            "text": "Thou shalt not lie with mankind, as with womankind: it is abomination. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018023,
+            "text": "And thou shalt not lie with any beast to defile thyself therewith; neither shall any woman stand before a beast, to lie down thereto: it is confusion.",
+            "version": "ASV",
+            "clsstr": "Lev-18-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018024,
+            "text": "\u00b6 Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out from before you; ",
+            "version": "ASV",
+            "clsstr": "Lev-18-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018025,
+            "text": "and the land is defiled: therefore I do visit the iniquity thereof upon it, and the land vomiteth out her inhabitants. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018026,
+            "text": "Ye therefore shall keep my statutes and mine ordinances, and shall not do any of these abominations; neither the home-born, nor the stranger that sojourneth among you ",
+            "version": "ASV",
+            "clsstr": "Lev-18-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018027,
+            "text": "(for all these abominations have the men of the land done, that were before you, and the land is defiled); ",
+            "version": "ASV",
+            "clsstr": "Lev-18-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018028,
+            "text": "that the land vomit not you out also, when ye defile it, as it vomited out the nation that was before you. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018029,
+            "text": "For whosoever shall do any of these abominations, even the souls that do them shall be cut off from among their people. ",
+            "version": "ASV",
+            "clsstr": "Lev-18-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 3018030,
+            "text": "Therefore shall ye keep my charge, that ye practise not any of these abominable customs, which were practised before you, and that ye defile not yourselves therein: I am Jehovah your God.",
+            "version": "ASV",
+            "clsstr": "Lev-18-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Leviticus",
+    "chapters": 18
+}

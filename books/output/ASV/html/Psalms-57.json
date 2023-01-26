@@ -1,0 +1,119 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19057001,
+            "text": "<b>Prayer for rescue from persecutors.</b>\n\u00b6 For the Chief Musician; Al-tashheth. of David. Michtam; when he fled from Saul, in the cave.\u00b6   Be merciful unto me, O God, be merciful unto me;\n  For my soul taketh refuge in thee:\n  Yea, in the shadow of thy wings will I take refuge,\n  Until  <i>[a]</i>calamities be overpast.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>wickednesses</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057002,
+            "text": "    I will cry unto God Most High,\n    Unto God that performeth  for me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057003,
+            "text": "    He will send from heaven, and save me,\n     he that would swallow me up reproacheth; \n    God will send forth his lovingkindness and his truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057004,
+            "text": "  My soul is among lions;\n  I <i>[b]</i>lie among them that are set on fire,\n    Even the sons of men, whose teeth are spears and arrows,\n    And their tongue a sharp sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>must lie</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057005,
+            "text": "    Be thou exalted, O God, above the heavens;\n     thy glory  above all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057006,
+            "text": "\u00b6     They have prepared a net for my steps;\n    My soul is bowed down:\n    They have digged a pit before me;\n    They are fallen into the midst thereof themselves. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057007,
+            "text": "    My heart is fixed, O God, my heart is fixed:\n    I will sing, yea, I will sing praises.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057008,
+            "text": "  Awake up, my glory; awake, psaltery and harp:\n  I myself <i>[c]</i>will awake right early.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>will awake the dawn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057009,
+            "text": "    I will give thanks unto thee, O Lord, among the peoples:\n    I will sing praises unto thee among the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057010,
+            "text": "    For thy lovingkindness is great unto the heavens,\n    And thy truth unto the skies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19057011,
+            "text": "    Be thou exalted, O God, above the heavens;\n     thy glory  above all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-57-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 57
+}

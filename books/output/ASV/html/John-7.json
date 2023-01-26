@@ -1,0 +1,479 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43007001,
+            "text": "\u00b6 And after these things Jesus walked in Galilee: for he would not walk in Judaea, because the Jews sought to kill him. ",
+            "version": "ASV",
+            "clsstr": "John-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007002,
+            "text": "Now the feast of the Jews, the feast of tabernacles, was at hand. ",
+            "version": "ASV",
+            "clsstr": "John-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007003,
+            "text": "His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may behold thy works which thou doest. ",
+            "version": "ASV",
+            "clsstr": "John-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007004,
+            "text": "For no man doeth anything in secret, <i>[a]</i>and himself seeketh to be known openly. If thou doest these things, manifest thyself to the world. ",
+            "version": "ASV",
+            "clsstr": "John-7-4",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities read <i>and seeketh it to be known openly</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007005,
+            "text": "For even his brethren did not believe on him. ",
+            "version": "ASV",
+            "clsstr": "John-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007006,
+            "text": "Jesus therefore saith unto them, My time is not yet come; but your time is always ready. ",
+            "version": "ASV",
+            "clsstr": "John-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007007,
+            "text": "The world cannot hate you; but me it hateth, because I testify of it, that its works are evil. ",
+            "version": "ASV",
+            "clsstr": "John-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007008,
+            "text": "Go ye up unto the feast: I go not up <i>[b]</i>unto this feast; because my time is not yet fulfilled. ",
+            "version": "ASV",
+            "clsstr": "John-7-8",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities add <i>yet</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007009,
+            "text": "And having said these things unto them, he abode  in Galilee.",
+            "version": "ASV",
+            "clsstr": "John-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007010,
+            "text": "\u00b6 But when his brethren were gone up unto the feast, then went he also up, not publicly, but as it were in secret. ",
+            "version": "ASV",
+            "clsstr": "John-7-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007011,
+            "text": "The Jews therefore sought him at the feast, and said, Where is he? ",
+            "version": "ASV",
+            "clsstr": "John-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007012,
+            "text": "And there was much murmuring among the multitudes concerning him: some said, He is a good man; others said, Not so, but he leadeth the multitude astray. ",
+            "version": "ASV",
+            "clsstr": "John-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007013,
+            "text": "Yet no man spake openly of him for fear of the Jews.",
+            "version": "ASV",
+            "clsstr": "John-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007014,
+            "text": "\u00b6 But when it was now the midst of the feast Jesus went up into the temple, and taught. ",
+            "version": "ASV",
+            "clsstr": "John-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007015,
+            "text": "The Jews therefore marvelled, saying, How knoweth this man letters, having never learned? ",
+            "version": "ASV",
+            "clsstr": "John-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007016,
+            "text": "Jesus therefore answered them, and said, My teaching is not mine, but his that sent me. ",
+            "version": "ASV",
+            "clsstr": "John-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007017,
+            "text": "If any man willeth to do his will, he shall know of the teaching, whether it is of God, or  I speak from myself. ",
+            "version": "ASV",
+            "clsstr": "John-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007018,
+            "text": "He that speaketh from himself seeketh his own glory: but he that seeketh the glory of him that sent him, the same is true, and no unrighteousness is in him. ",
+            "version": "ASV",
+            "clsstr": "John-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007019,
+            "text": "Did not Moses give you the law, and  none of you doeth the law? Why seek ye to kill me? ",
+            "version": "ASV",
+            "clsstr": "John-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007020,
+            "text": "The multitude answered, Thou hast a demon: who seeketh to kill thee? ",
+            "version": "ASV",
+            "clsstr": "John-7-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007021,
+            "text": "Jesus answered and said unto them, I did one work, and ye all marvel because thereof. ",
+            "version": "ASV",
+            "clsstr": "John-7-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007022,
+            "text": "Moses hath given you circumcision (not that it is of Moses, but of the fathers); and on the sabbath ye circumcise a man. ",
+            "version": "ASV",
+            "clsstr": "John-7-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007023,
+            "text": "If a man receiveth circumcision on the sabbath, that the law of Moses may not be broken; are ye wroth with me, because I made <i>[c]</i>a man every whit whole on the sabbath? ",
+            "version": "ASV",
+            "clsstr": "John-7-23",
+            "footnotes": [
+                {
+                    "c": "Greek <i>a whole man sound</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007024,
+            "text": "Judge not according to appearance, but judge righteous judgment.",
+            "version": "ASV",
+            "clsstr": "John-7-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007025,
+            "text": "\u00b6 Some therefore of them of Jerusalem said, Is not this he whom they seek to kill? ",
+            "version": "ASV",
+            "clsstr": "John-7-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007026,
+            "text": "And lo, he speaketh openly, and they say nothing unto him. Can it be that the rulers indeed know that this is the Christ? ",
+            "version": "ASV",
+            "clsstr": "John-7-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007027,
+            "text": "Howbeit we know this man whence he is: but when the Christ cometh, no one knoweth whence he is. ",
+            "version": "ASV",
+            "clsstr": "John-7-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007028,
+            "text": "Jesus therefore cried in the temple, teaching and saying, Ye both know me, and know whence I am; and I am not come of myself, but he that sent me is true, whom ye know not. ",
+            "version": "ASV",
+            "clsstr": "John-7-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007029,
+            "text": "I know him; because I am from him, and he sent me. ",
+            "version": "ASV",
+            "clsstr": "John-7-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007030,
+            "text": "They sought therefore to take him: and no man laid his hand on him, because his hour was not yet come. ",
+            "version": "ASV",
+            "clsstr": "John-7-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007031,
+            "text": "But of the multitude many believed on him; and they said, When the Christ shall come, will he do more signs than those which this man hath done? ",
+            "version": "ASV",
+            "clsstr": "John-7-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007032,
+            "text": "The Pharisees heard the multitude murmuring these things concerning him; and the chief priests and the Pharisees sent officers to take him. ",
+            "version": "ASV",
+            "clsstr": "John-7-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007033,
+            "text": "Jesus therefore said, Yet a little while am I with you, and I go unto him that sent me. ",
+            "version": "ASV",
+            "clsstr": "John-7-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007034,
+            "text": "Ye shall seek me, and shall not find me: and where I am, ye cannot come. ",
+            "version": "ASV",
+            "clsstr": "John-7-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007035,
+            "text": "The Jews therefore said among themselves, Whither will this man go that we shall not find him? will he go unto the Dispersion <i>[d]</i>among the Greeks, and teach the Greeks? ",
+            "version": "ASV",
+            "clsstr": "John-7-35",
+            "footnotes": [
+                {
+                    "d": "Greek <i>of</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007036,
+            "text": "What is this word that he said, Ye shall seek me, and shall not find me; and where I am, ye cannot come?",
+            "version": "ASV",
+            "clsstr": "John-7-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007037,
+            "text": "\u00b6 Now on the last day, the great  of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me and drink. ",
+            "version": "ASV",
+            "clsstr": "John-7-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007038,
+            "text": "He that believeth on me, as the scripture hath said, <i>[e]</i>from within him shall flow rivers of living water. ",
+            "version": "ASV",
+            "clsstr": "John-7-38",
+            "footnotes": [
+                {
+                    "e": "Greek <i>out of his belly</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007039,
+            "text": "But this spake he of the Spirit, which they that believed on him were to receive: <i>[f]</i>for the Spirit was not yet ; because Jesus was not yet glorified. ",
+            "version": "ASV",
+            "clsstr": "John-7-39",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities read <i>for the Holy Spirit was not yet given</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007040,
+            "text": " of the multitude therefore, when they heard these words, said, This is of a truth the prophet. ",
+            "version": "ASV",
+            "clsstr": "John-7-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007041,
+            "text": "Others said, This is the Christ. But some said, What, doth the Christ come out of Galilee? ",
+            "version": "ASV",
+            "clsstr": "John-7-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007042,
+            "text": " <i>[g]</i>Hath not the scripture said that the Christ cometh of the seed of David, and from Bethlehem, the village where David was? ",
+            "version": "ASV",
+            "clsstr": "John-7-42",
+            "footnotes": [
+                {
+                    "g": "[[2 Sam. 7:12ff]]; [[Mic. 5:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007043,
+            "text": "So there arose a division in the multitude because of him. ",
+            "version": "ASV",
+            "clsstr": "John-7-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007044,
+            "text": "And some of them would have taken him; but no man laid hands on him.",
+            "version": "ASV",
+            "clsstr": "John-7-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007045,
+            "text": "\u00b6 The officers therefore came to the chief priests and Pharisees; and they said unto them, Why did ye not bring him? ",
+            "version": "ASV",
+            "clsstr": "John-7-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007046,
+            "text": "The officers answered, Never man so spake. ",
+            "version": "ASV",
+            "clsstr": "John-7-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007047,
+            "text": "The Pharisees therefore answered them, Are ye also led astray? ",
+            "version": "ASV",
+            "clsstr": "John-7-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007048,
+            "text": "Hath any of the rulers believed on him, or of the Pharisees? ",
+            "version": "ASV",
+            "clsstr": "John-7-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007049,
+            "text": "But this multitude that knoweth not the law are accursed. ",
+            "version": "ASV",
+            "clsstr": "John-7-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007050,
+            "text": "Nicodemus saith unto them (he that came to him before, being one of them), ",
+            "version": "ASV",
+            "clsstr": "John-7-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007051,
+            "text": "Doth our law judge a man, except it first hear from himself and know what he doeth? ",
+            "version": "ASV",
+            "clsstr": "John-7-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007052,
+            "text": "They answered and said unto him, Art thou also of Galilee? Search, and <i>[h]</i>see that out of Galilee ariseth no prophet.",
+            "version": "ASV",
+            "clsstr": "John-7-52",
+            "footnotes": [
+                {
+                    "h": "Or, <i>see: for out of Galilee etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43007053,
+            "text": "\u00b6 <i>[i]</i>[And they went every man unto his own house: ",
+            "version": "ASV",
+            "clsstr": "John-7-53",
+            "footnotes": [
+                {
+                    "i": "Most of the ancient authorities omit [[7:53\u20138:11]]. Those which contain it vary much from each other."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 7
+}

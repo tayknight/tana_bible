@@ -1,0 +1,135 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 30,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 9,
+            "end_verse": 15,
+            "end_book": null
+        }
+    ],
+    "book": 30,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 30004001,
+            "text": "\u00b6 Hear this word, ye kine of Bashan, that are in the mountain of Samaria, that oppress the poor, that crush the needy, that say unto their lords, Bring, and let us drink. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004002,
+            "text": "The Lord Jehovah hath sworn by his holiness, that, lo, the days shall come upon you, that they shall take you away with hooks, and your residue with fish-hooks. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004003,
+            "text": "And ye shall go out at the breaches, every one straight before her; <i>[a]</i>and ye shall cast  into Harmon, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-4-3",
+            "footnotes": [
+                {
+                    "a": "The text is obscure."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004004,
+            "text": "\u00b6 Come to Beth-el, and transgress; to Gilgal,  multiply transgression; and bring your sacrifices every morning,  your tithes every three days; ",
+            "version": "ASV",
+            "clsstr": "Amos-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004005,
+            "text": "and <i>[b]</i>offer a sacrifice of thanksgiving of that which is leavened, and proclaim freewill-offerings and publish them: for this pleaseth you, O ye children of Israel, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-4-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>offer by burning</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004006,
+            "text": "\u00b6 And I also have given you cleanness of teeth in all your cities, and want of bread in all your places; yet have ye not returned unto me, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004007,
+            "text": "And I also have withholden the rain from you, when there were yet three months to the harvest; and I caused it to rain upon one city, and caused it not to rain upon another city: one piece was rained upon, and the piece whereupon it rained not withered. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004008,
+            "text": "So two or three cities wandered unto one city to drink water, and were not satisfied: yet have ye not returned unto me, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004009,
+            "text": "I have smitten you with blasting and mildew: the multitude of your gardens and your vineyards and your fig-trees and your olive-trees hath the palmer-worm devoured: yet have ye not returned unto me, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004010,
+            "text": "I have sent among you the pestilence after the manner of Egypt: your young men have I slain with the sword, <i>[c]</i>and have carried away your horses; and I have made the stench of your camp to come up even into your nostrils: yet have ye not returned unto me, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-10",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>with the captivity of your horses</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004011,
+            "text": "I have overthrown  among you, as when God overthrew Sodom and Gomorrah, and ye were as a brand plucked out of the burning: yet have ye not returned unto me, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Amos-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004012,
+            "text": "\u00b6 Therefore thus will I do unto thee, O Israel;  because I will do this unto thee, prepare to meet thy God, O Israel. ",
+            "version": "ASV",
+            "clsstr": "Amos-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 30004013,
+            "text": "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought; that maketh the morning darkness, and treadeth upon the high places of the earth\u2014Jehovah, the God of hosts, is his name.",
+            "version": "ASV",
+            "clsstr": "Amos-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Amos",
+    "chapters": 4
+}

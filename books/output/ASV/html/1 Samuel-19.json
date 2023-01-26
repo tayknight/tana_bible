@@ -1,0 +1,235 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9019001,
+            "text": "\u00b6 And Saul spake to Jonathan his son, and to all his servants, that they should slay David. But Jonathan, Saul\u2019s son, delighted much in David. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019002,
+            "text": "And Jonathan told David, saying, Saul my father seeketh to slay thee: now therefore, I pray thee, take heed to thyself in the morning, and abide in a secret place, and hide thyself: ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019003,
+            "text": "and I will go out and stand beside my father in the field where thou art, and I will commune with my father of thee; and if I see aught, I will tell thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019004,
+            "text": "And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works have been to thee-ward very good: ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019005,
+            "text": "for he put his life in his hand, and smote the Philistine, and Jehovah wrought a great <i>[a]</i>victory for all Israel: thou sawest it, and didst rejoice; wherefore then wilt thou sin against innocent blood, to slay David without a cause? ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>salvation</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019006,
+            "text": "And Saul hearkened unto the voice of Jonathan: and Saul sware, As Jehovah liveth, he shall not be put to death. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019007,
+            "text": "And Jonathan called David, and Jonathan showed him all those things. And Jonathan brought David to Saul, and he was in his presence, as beforetime.",
+            "version": "ASV",
+            "clsstr": "1Sam-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019008,
+            "text": "\u00b6 And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled before him. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019009,
+            "text": "And <i>[b]</i>an evil spirit from Jehovah was upon Saul, as he sat in his house with his spear in his hand; and David was playing with his hand. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the spirit of Jehovah was evil toward Saul</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019010,
+            "text": "And Saul sought to smite David even to the wall with the spear; but he slipped away out of Saul\u2019s presence, and he smote the spear into the wall: and David fled, and escaped that night. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019011,
+            "text": "And Saul sent messengers unto David\u2019s house, to watch him, and to slay him in the morning: and Michal, David\u2019s wife, told him, saying, If thou save not thy life to-night, to-morrow thou wilt be slain. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019012,
+            "text": "So Michal let David down through the window: and he went, and fled, and escaped. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019013,
+            "text": "And Michal took the teraphim, and laid it in the bed, and put a <i>[c]</i>pillow of goats\u2019  at the head thereof, and covered it with the clothes. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>quilt</i>. Or, <i>network</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019014,
+            "text": "And when Saul sent messengers to take David, she said, He is sick. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019015,
+            "text": "And Saul sent the messengers to see David, saying, Bring him up to me in the bed, that I may slay him. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019016,
+            "text": "And when the messengers came in, behold, the teraphim was in the bed, with the <i>[d]</i>pillow of goats\u2019  at the head thereof. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>quilt</i>. Or, <i>network</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019017,
+            "text": "And Saul said unto Michal, Why hast thou deceived me thus, and let mine enemy go, so that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?",
+            "version": "ASV",
+            "clsstr": "1Sam-19-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019018,
+            "text": "\u00b6 Now David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019019,
+            "text": "And it was told Saul, saying, Behold, David is at Naioth in Ramah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019020,
+            "text": "And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as head over them, the Spirit of God came upon the messengers of Saul, and they also prophesied. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019021,
+            "text": "And when it was told Saul, he sent other messengers, and they also prophesied. And Saul sent messengers again the third time, and they also prophesied. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019022,
+            "text": "Then went he also to Ramah, and came to the great <i>[e]</i>well that is in Secu: and he asked and said, Where are Samuel and David? And one said, Behold, they are at Naioth in Ramah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-22",
+            "footnotes": [
+                {
+                    "e": "Or, <i>cistern</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019023,
+            "text": "And he went thither to Naioth in Ramah: and the Spirit of God came upon him also, and he went on, and prophesied, until he came to Naioth in Ramah. ",
+            "version": "ASV",
+            "clsstr": "1Sam-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9019024,
+            "text": "And he also stripped off his clothes, and he also prophesied before Samuel, and <i>[f]</i>lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets?",
+            "version": "ASV",
+            "clsstr": "1Sam-19-24",
+            "footnotes": [
+                {
+                    "f": "Or, <i>fell</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 19
+}

@@ -1,0 +1,342 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19104001,
+            "text": "<b>Jehovah\u2019s care over all his works.</b>\n\u00b6     Bless Jehovah, O my soul.\n    O Jehovah my God, thou art very great;\n    Thou art clothed with honor and majesty:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104002,
+            "text": "    Who coverest thyself with light as with a garment;\n    Who stretchest out the heavens like a curtain;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104003,
+            "text": "    Who layeth the beams of his chambers in the waters;\n    Who maketh the clouds his chariot;\n    Who walketh upon the wings of the wind;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104004,
+            "text": "  Who maketh <i>[a]</i>winds his messengers;\n    Flames of fire his ministers;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>his angels winds</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104005,
+            "text": "   <i>[b]</i>Who laid the foundations of the earth,\n    That it should not be moved for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>He founded the earth upon its bases</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104006,
+            "text": "    Thou coveredst it with the deep as with a vesture;\n    The waters stood above the mountains.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104007,
+            "text": "    At thy rebuke they fled;\n    At the voice of thy thunder they hasted away\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104008,
+            "text": "   <i>[c]</i>(The mountains rose, the valleys sank down)\n    Unto the place which thou hadst founded for them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>They went up by the mountains, they went down by the valleys</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104009,
+            "text": "    Thou hast set a bound that they may not pass over;\n    That they turn not again to cover the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104010,
+            "text": "    He sendeth forth springs into the valleys;\n    They run among the mountains;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104011,
+            "text": "    They give drink to every beast of the field;\n    The wild asses quench their thirst.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104012,
+            "text": "  By them the birds of the heavens have their habitation;\n  They <i>[d]</i>sing among the branches.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-12",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>utter their voice</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104013,
+            "text": "    He watereth the mountains from his chambers:\n    The earth is filled with the fruit of thy works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104014,
+            "text": " He causeth the grass to grow for the cattle,\n And herb for the <i>[e]</i>service of man;\n  That he may bring forth <i>[f]</i>food out of the earth,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>labor</i>"
+                },
+                {
+                    "f": "Hebrew <i>bread</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104015,
+            "text": "  And wine that maketh glad the heart of man,\n   <i>[g]</i> oil to make his face to shine,\n    And bread that strengtheneth man\u2019s heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-15",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>To make his face to shine with oil</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104016,
+            "text": "    The trees of Jehovah are filled ,\n    The cedars of Lebanon, which he hath planted;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104017,
+            "text": "    Where the birds make their nests:\n    As for the stork, the fir-trees are her house.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104018,
+            "text": "    The high mountains are for the wild goats;\n    The rocks are a refuge for the conies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104019,
+            "text": "    He appointed the moon for seasons:\n    The sun knoweth his going down.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104020,
+            "text": "    Thou makest darkness, and it is night,\n    Wherein all the beasts of the forest creep forth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104021,
+            "text": "    The young lions roar after their prey,\n    And seek their food from God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104022,
+            "text": "    The sun ariseth, they get them away,\n    And lay them down in their dens.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104023,
+            "text": "    Man goeth forth unto his work\n    And to his labor until the evening.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104024,
+            "text": "  O Jehovah, how manifold are thy works!\n  In wisdom hast thou made them all:\n  The earth is full of thy <i>[h]</i>riches.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-24",
+            "footnotes": [
+                {
+                    "h": "Or, <i>creatures</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104025,
+            "text": "    Yonder is the sea, great and wide,\n    Wherein are things creeping innumerable,\n    Both small and great beasts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104026,
+            "text": "  There go the ships;\n  There is leviathan, whom thou hast formed to play <i>[i]</i>therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-26",
+            "footnotes": [
+                {
+                    "i": "Or, <i>with him</i>. See [[Job 41:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104027,
+            "text": "    These wait all for thee,\n    That thou mayest give them their food in due season.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104028,
+            "text": "    Thou givest unto them, they gather;\n    Thou openest thy hand, they are satisfied with good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104029,
+            "text": "  Thou hidest thy face, they are troubled;\n  Thou <i>[j]</i>takest away their breath, they die,\n    And return to their dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-29",
+            "footnotes": [
+                {
+                    "j": "Or, <i>gatherest in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104030,
+            "text": "    Thou sendest forth thy Spirit, they are created;\n    And thou renewest the face of the ground.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104031,
+            "text": "    Let the glory of Jehovah endure for ever;\n    Let Jehovah rejoice in his works:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104032,
+            "text": "    Who looketh on the earth, and it trembleth;\n    He toucheth the mountains, and they smoke.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104033,
+            "text": "    I will sing unto Jehovah as long as I live:\n    I will sing praise to my God while I have any being.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104034,
+            "text": "    Let my meditation be sweet unto him:\n    I will rejoice in Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19104035,
+            "text": "  Let sinners be consumed out of the earth.\n  And let the wicked be no more.\n  Bless Jehovah, O my soul.\n   <i>[k]</i>Praise ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-104-35",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 104
+}

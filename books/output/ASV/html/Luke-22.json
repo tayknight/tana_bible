@@ -1,0 +1,663 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42022001,
+            "text": "\u00b6 Now the feast of unleavened bread drew nigh, which is called the Passover. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022002,
+            "text": "And the chief priests and the scribes sought how they might put him to death; for they feared the people.",
+            "version": "ASV",
+            "clsstr": "Luke-22-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022003,
+            "text": "\u00b6 And Satan entered into Judas who was called Iscariot, being of the number of the twelve. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022004,
+            "text": "And he went away, and communed with the chief priests and captains, how he might <i>[a]</i>deliver him unto them. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>betray</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022005,
+            "text": "And they were glad, and covenanted to give him money. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022006,
+            "text": "And he consented, and sought opportunity to <i>[b]</i>deliver him unto them <i>[c]</i>in the absence of the multitude.",
+            "version": "ASV",
+            "clsstr": "Luke-22-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>betray</i>"
+                },
+                {
+                    "c": "Or, <i>without tumult</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022007,
+            "text": "\u00b6 And the day of unleavened bread came, on which the passover must be sacrificed. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022008,
+            "text": "And he sent Peter and John, saying, Go and make ready for us the passover, that we may eat. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022009,
+            "text": "And they said unto him, Where wilt thou that we make ready? ",
+            "version": "ASV",
+            "clsstr": "Luke-22-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022010,
+            "text": "And he said unto them, Behold, when ye are entered into the city, there shall meet you a man bearing a pitcher of water; follow him into the house whereinto he goeth. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022011,
+            "text": "And ye shall say unto the master of the house, The Teacher saith unto thee, Where is the guest-chamber, where I shall eat the passover with my disciples? ",
+            "version": "ASV",
+            "clsstr": "Luke-22-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022012,
+            "text": "And he will show you a large upper room furnished: there make ready. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022013,
+            "text": "And they went, and found as he had said unto them: and they made ready the passover.",
+            "version": "ASV",
+            "clsstr": "Luke-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022014,
+            "text": "\u00b6 And when the hour was come, he sat down, and the apostles with him. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022015,
+            "text": "And he said unto them, With desire I have desired to eat this passover with you before I suffer: ",
+            "version": "ASV",
+            "clsstr": "Luke-22-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022016,
+            "text": "for I say unto you, I shall not eat it, until it be fulfilled in the kingdom of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022017,
+            "text": "And he received a cup, and when he had given thanks, he said, Take this, and divide it among yourselves: ",
+            "version": "ASV",
+            "clsstr": "Luke-22-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022018,
+            "text": "for I say unto you, I shall not drink from henceforth of the fruit of the vine, until the kingdom of God shall come. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022019,
+            "text": "And he took <i>[d]</i>bread, and when he had given thanks, he brake it, and gave to them, saying, This is my body <i>[e]</i>which is given for you: this do in remembrance of me. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-19",
+            "footnotes": [
+                {
+                    "d": "Or, <i>a loaf</i>"
+                },
+                {
+                    "e": "Some ancient authorities omit <i>which is given for you\u00a0.\u00a0.\u00a0. which is poured out for you</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022020,
+            "text": "And the cup in like manner after supper, saying, This cup is the new covenant in my blood,  that which is poured out for you. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022021,
+            "text": "But behold, the hand of him that <i>[f]</i>betrayeth me is with me on the table. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-21",
+            "footnotes": [
+                {
+                    "f": "See [[verse 4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022022,
+            "text": "For the Son of man indeed goeth, as it hath been determined: but woe unto that man through whom he is <i>[g]</i>betrayed! ",
+            "version": "ASV",
+            "clsstr": "Luke-22-22",
+            "footnotes": [
+                {
+                    "g": "See [[verse 4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022023,
+            "text": "And they began to question among themselves, which of them it was that should do this thing.",
+            "version": "ASV",
+            "clsstr": "Luke-22-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022024,
+            "text": "\u00b6 And there arose also a contention among them, which of them was accounted to be <i>[h]</i>greatest. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-24",
+            "footnotes": [
+                {
+                    "h": "Greek <i>greater</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022025,
+            "text": "And he said unto them, The kings of the Gentiles have lordship over them; and they that have authority over them are called Benefactors. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022026,
+            "text": "But ye  not  so: but he that is the greater among you, let him become as the younger; and he that is chief, as he that doth serve. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022027,
+            "text": "For which is greater, he that <i>[i]</i>sitteth at meat, or he that serveth? is not he that <i>[j]</i>sitteth at meat? but I am in the midst of you as he that serveth. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-27",
+            "footnotes": [
+                {
+                    "i": "Greek <i>reclineth</i>."
+                },
+                {
+                    "j": "Greek <i>reclineth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022028,
+            "text": "But ye are they that have continued with me in my temptations; ",
+            "version": "ASV",
+            "clsstr": "Luke-22-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022029,
+            "text": "and <i>[k]</i>I appoint unto you a kingdom, even as my Father appointed unto me, ",
+            "version": "ASV",
+            "clsstr": "Luke-22-29",
+            "footnotes": [
+                {
+                    "k": "Or, <i>I appoint unto you, even as my Father appointed unto me a kingdom, that ye may eat and drink etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022030,
+            "text": "that ye may eat and drink at my table in my kingdom; and ye shall sit on thrones judging the twelve tribes of Israel.",
+            "version": "ASV",
+            "clsstr": "Luke-22-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022031,
+            "text": "\u00b6 Simon, Simon, behold, Satan <i>[l]</i>asked to have you, that he might sift you as wheat: ",
+            "version": "ASV",
+            "clsstr": "Luke-22-31",
+            "footnotes": [
+                {
+                    "l": "Or, <i>obtained you by asking</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022032,
+            "text": "but I made supplication for thee, that thy faith fail not; and do thou, when once thou hast turned again, establish thy brethren. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022033,
+            "text": "And he said unto him, Lord, with thee I am ready to go both to prison and to death. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022034,
+            "text": "And he said, I tell thee, Peter, the cock shall not crow this day, until thou shalt thrice deny that thou knowest me.",
+            "version": "ASV",
+            "clsstr": "Luke-22-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022035,
+            "text": "\u00b6 And he said unto them, When I sent you forth without purse, and wallet, and shoes, lacked ye anything? And they said, Nothing. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022036,
+            "text": "And he said unto them, But now, he that hath a purse, let him take it, and likewise a wallet; <i>[m]</i>and he that hath none, let him sell his cloak, and buy a sword. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-36",
+            "footnotes": [
+                {
+                    "m": "Or, <i>and he that hath no sword, let him sell his cloak, and buy one</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022037,
+            "text": "For I say unto you, that this which is written must be fulfilled in me, <i>[n]</i>And he was reckoned with transgressors: for that which concerneth me hath <i>[o]</i>fulfilment. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-37",
+            "footnotes": [
+                {
+                    "n": "[[Isa. 53:12]]."
+                },
+                {
+                    "o": "Greek <i>end</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022038,
+            "text": "And they said, Lord, behold, here are two swords. And he said unto them, It is enough.",
+            "version": "ASV",
+            "clsstr": "Luke-22-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022039,
+            "text": "\u00b6 And he came out, and went, as his custom was, unto the mount of Olives; and the disciples also followed him. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022040,
+            "text": "And when he was at the place, he said unto them, Pray that ye enter not into temptation. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022041,
+            "text": "And he was parted from them about a stone\u2019s cast; and he kneeled down and prayed, ",
+            "version": "ASV",
+            "clsstr": "Luke-22-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022042,
+            "text": "saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022043,
+            "text": " <i>[p]</i>And there appeared unto him an angel from heaven, strengthening him. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-43",
+            "footnotes": [
+                {
+                    "p": "Many ancient authorities omit verses [[43]], [[44]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022044,
+            "text": "And being in an agony he prayed more earnestly; and his sweat became as it were great drops of blood falling down upon the ground. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022045,
+            "text": "And when he rose up from his prayer, he came unto the disciples, and found them sleeping for sorrow, ",
+            "version": "ASV",
+            "clsstr": "Luke-22-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022046,
+            "text": "and said unto them, Why sleep ye? rise and pray, that ye enter not into temptation.",
+            "version": "ASV",
+            "clsstr": "Luke-22-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022047,
+            "text": "\u00b6 While he yet spake, behold, a multitude, and he that was called Judas, one of the twelve, went before them; and he drew near unto Jesus to kiss him. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022048,
+            "text": "But Jesus said unto him, Judas, <i>[q]</i>betrayest thou the Son of man with a kiss? ",
+            "version": "ASV",
+            "clsstr": "Luke-22-48",
+            "footnotes": [
+                {
+                    "q": "See [[verse 4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022049,
+            "text": "And when they that were about him saw what would follow, they said, Lord, shall we smite with the sword? ",
+            "version": "ASV",
+            "clsstr": "Luke-22-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022050,
+            "text": "And a certain one of them smote the <i>[r]</i>servant of the high priest, and struck off his right ear. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-50",
+            "footnotes": [
+                {
+                    "r": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022051,
+            "text": "But Jesus answered and said, Suffer ye  thus far. And he touched his ear, and healed him. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022052,
+            "text": "And Jesus said unto the chief priests, and captains of the temple, and elders, that were come against him, Are ye come out, as against a robber, with swords and staves? ",
+            "version": "ASV",
+            "clsstr": "Luke-22-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022053,
+            "text": "When I was daily with you in the temple, ye stretched not forth your hands against me: but this is your hour, and the power of darkness.",
+            "version": "ASV",
+            "clsstr": "Luke-22-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022054,
+            "text": "\u00b6 And they seized him, and led him , and brought him into the high priest\u2019s house. But Peter followed afar off. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022055,
+            "text": "And when they had kindled a fire in the midst of the court, and had sat down together, Peter sat in the midst of them. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022056,
+            "text": "And a certain maid seeing him as he sat in the light , and looking stedfastly upon him, said, This man also was with him. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022057,
+            "text": "But he denied, saying, Woman, I know him not. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022058,
+            "text": "And after a little while another saw him, and said, Thou also art  of them. But Peter said, Man, I am not. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022059,
+            "text": "And after the space of about one hour another confidently affirmed, saying, Of a truth this man also was with him; for he is a Galilaean. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022060,
+            "text": "But Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022061,
+            "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how that he said unto him, Before the cock crow this day thou shalt deny me thrice. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022062,
+            "text": "And he went out, and wept bitterly.",
+            "version": "ASV",
+            "clsstr": "Luke-22-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022063,
+            "text": "\u00b6 And the men that held <i>[s]</i> mocked him, and beat him. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-63",
+            "footnotes": [
+                {
+                    "s": "Greek <i>him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022064,
+            "text": "And they blindfolded him, and asked him, saying, Prophesy: who is he that struck thee? ",
+            "version": "ASV",
+            "clsstr": "Luke-22-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022065,
+            "text": "And many other things spake they against him, reviling him.",
+            "version": "ASV",
+            "clsstr": "Luke-22-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022066,
+            "text": "\u00b6 And as soon as it was day, the assembly of the elders of the people was gathered together, both chief priests and scribes; and they led him away into their council, saying, ",
+            "version": "ASV",
+            "clsstr": "Luke-22-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022067,
+            "text": "If thou art the Christ, tell us. But he said unto them, If I tell you, ye will not believe: ",
+            "version": "ASV",
+            "clsstr": "Luke-22-67",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022068,
+            "text": "and if I ask , ye will not answer. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-68",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022069,
+            "text": "But from henceforth shall the Son of man be seated at the right hand of the power of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-69",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022070,
+            "text": "And they all said, Art thou then the Son of God? And he said unto them, <i>[t]</i>Ye say that I am. ",
+            "version": "ASV",
+            "clsstr": "Luke-22-70",
+            "footnotes": [
+                {
+                    "t": "Or, <i>Ye say</i> it, <i>because I am</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42022071,
+            "text": "And they said, What further need have we of witness? for we ourselves have heard from his own mouth.",
+            "version": "ASV",
+            "clsstr": "Luke-22-71",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 22
+}

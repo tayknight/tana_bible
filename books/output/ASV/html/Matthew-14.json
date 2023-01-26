@@ -1,0 +1,331 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40014001,
+            "text": "\u00b6 At that season Herod the tetrarch heard the report concerning Jesus, ",
+            "version": "ASV",
+            "clsstr": "Matt-14-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014002,
+            "text": "and said unto his servants, This is John the Baptist; he is risen from the dead; and therefore do these powers work in him. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014003,
+            "text": "For Herod had laid hold on John, and bound him, and put him in prison for the sake of Herodias, his brother Philip\u2019s wife. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014004,
+            "text": "For John said unto him, It is not lawful for thee to have her. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014005,
+            "text": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014006,
+            "text": "But when Herod\u2019s birthday came, the daughter of Herodias danced in the midst, and pleased Herod. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014007,
+            "text": "Whereupon he promised with an oath to give her whatsoever she should ask. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014008,
+            "text": "And she, being put forward by her mother, saith, Give me here on a platter the head of John the Baptist. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014009,
+            "text": "And the king was grieved; but for the sake of his oaths, and of them that sat at meat with him, he commanded it to be given; ",
+            "version": "ASV",
+            "clsstr": "Matt-14-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014010,
+            "text": "and he sent and beheaded John in the prison. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014011,
+            "text": "And his head was brought on a platter, and given to the damsel: and she brought it to her mother. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014012,
+            "text": "And his disciples came, and took up the corpse, and buried him; and they went and told Jesus.",
+            "version": "ASV",
+            "clsstr": "Matt-14-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014013,
+            "text": "\u00b6 Now when Jesus heard , he withdrew from thence in a boat, to a desert place apart: and when the multitudes heard , they followed him <i>[a]</i>on foot from the cities. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-13",
+            "footnotes": [
+                {
+                    "a": "Or, <i>by land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014014,
+            "text": "And he came forth, and saw a great multitude, and he had compassion on them, and healed their sick. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014015,
+            "text": "And when even was come, the disciples came to him, saying, The place is desert, and the time is already past; send the multitudes away, that they may go into the villages, and buy themselves food. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014016,
+            "text": "But Jesus said unto them, They have no need to go away; give ye them to eat. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014017,
+            "text": "And they say unto him, We have here but five loaves, and two fishes. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014018,
+            "text": "And he said, Bring them hither to me. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014019,
+            "text": "And he commanded the multitudes to <i>[b]</i>sit down on the grass; and he took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake and gave the loaves to the disciples, and the disciples to the multitudes. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-19",
+            "footnotes": [
+                {
+                    "b": "Greek <i>recline</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014020,
+            "text": "And they all ate, and were filled: and they took up that which remained over of the broken pieces, twelve baskets full. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014021,
+            "text": "And they that did eat were about five thousand men, besides women and children.",
+            "version": "ASV",
+            "clsstr": "Matt-14-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014022,
+            "text": "\u00b6 And straightway he constrained the disciples to enter into the boat, and to go before him unto the other side, till he should send the multitudes away. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014023,
+            "text": "And after he had sent the multitudes away, he went up into the mountain apart to pray: and when even was come, he was there alone. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014024,
+            "text": "But the boat <i>[c]</i>was now in the midst of the sea, distressed by the waves; for the wind was contrary. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-24",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities read <i>was many furlongs distant from the land</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014025,
+            "text": "And in the fourth watch of the night he came unto them, walking upon the sea. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014026,
+            "text": "And when the disciples saw him walking on the sea, they were troubled, saying, It is a ghost; and they cried out for fear. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014027,
+            "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014028,
+            "text": "And Peter answered him and said, Lord, if it be thou, bid me come unto thee upon the waters. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014029,
+            "text": "And he said, Come. And Peter went down from the boat, and walked upon the waters <i>[d]</i>to come to Jesus. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-29",
+            "footnotes": [
+                {
+                    "d": "Some ancient authorities read <i>and came</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014030,
+            "text": "But when he saw the <i>[e]</i>wind, he was afraid; and beginning to sink, he cried out, saying, Lord, save me. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-30",
+            "footnotes": [
+                {
+                    "e": "Many ancient authorities add <i>strong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014031,
+            "text": "And immediately Jesus stretched forth his hand, and took hold of him, and saith unto him, O thou of little faith, wherefore didst thou doubt? ",
+            "version": "ASV",
+            "clsstr": "Matt-14-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014032,
+            "text": "And when they were gone up into the boat, the wind ceased. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014033,
+            "text": "And they that were in the boat <i>[f]</i>worshipped him, saying, Of a truth thou art the Son of God.",
+            "version": "ASV",
+            "clsstr": "Matt-14-33",
+            "footnotes": [
+                {
+                    "f": "See marginal note on [[2:2]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014034,
+            "text": "\u00b6 And when they had crossed over, they came to the land, unto Gennesaret. ",
+            "version": "ASV",
+            "clsstr": "Matt-14-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014035,
+            "text": "And when the men of that place knew him, they sent into all that region round about, and brought unto him all that were sick; ",
+            "version": "ASV",
+            "clsstr": "Matt-14-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40014036,
+            "text": "and they besought him that they might only touch the border of his garment: and as many as touched were made whole.",
+            "version": "ASV",
+            "clsstr": "Matt-14-36",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 14
+}

@@ -1,0 +1,207 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19033001,
+            "text": "<b>Praise to the Creator and Preserver.</b>\n\u00b6     Rejoice in Jehovah, O ye righteous:\n    Praise is comely for the upright.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033002,
+            "text": "    Give thanks unto Jehovah with the harp:\n    Sing praises unto him with the psaltery of ten strings.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033003,
+            "text": "    Sing unto him a new song;\n    Play skilfully with a loud noise.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033004,
+            "text": "    For the word of Jehovah is right;\n    And all his work is  in faithfulness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033005,
+            "text": "    He loveth righteousness and justice:\n    The earth is full of the lovingkindness of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033006,
+            "text": "    By the word of Jehovah were the heavens made,\n    And all the host of them by the breath of his mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033007,
+            "text": "    He gathereth the waters of the sea together as a heap:\n    He layeth up the deeps in store-houses.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033008,
+            "text": "    Let all the earth fear Jehovah:\n    Let all the inhabitants of the world stand in awe of him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033009,
+            "text": "    For he spake, and it was done;\n    He commanded, and it stood fast.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033010,
+            "text": "    Jehovah bringeth the counsel of the nations to nought;\n    He maketh the thoughts of the peoples to be of no effect.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033011,
+            "text": "    The counsel of Jehovah standeth fast for ever,\n    The thoughts of his heart to all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033012,
+            "text": "    Blessed is the nation whose God is Jehovah,\n    The people whom he hath chosen for his own inheritance.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033013,
+            "text": "    Jehovah looketh from heaven;\n    He beholdeth all the sons of men;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033014,
+            "text": "    From the place of his habitation he looketh forth\n    Upon all the inhabitants of the earth,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033015,
+            "text": "    He that fashioneth the hearts of them all,\n    That considereth all their works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033016,
+            "text": "  There is no king saved by <i>[a]</i>the multitude of a host:\n    A mighty man is not delivered by great strength.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-16",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a great power</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033017,
+            "text": "    A horse is a vain thing for safety;\n    Neither doth he deliver any by his great power.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033018,
+            "text": "  Behold, the eye of Jehovah is upon them that fear him,\n  Upon them that <i>[b]</i>hope in his lovingkindness;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-18",
+            "footnotes": [
+                {
+                    "b": "Or, <i>wait for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033019,
+            "text": "    To deliver their soul from death,\n    And to keep them alive in famine.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033020,
+            "text": "    Our soul hath waited for Jehovah:\n    He is our help and our shield.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033021,
+            "text": "    For our heart shall rejoice in him,\n    Because we have trusted in his holy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19033022,
+            "text": "  Let thy lovingkindness, O Jehovah, be upon us,\n  According as we <i>[c]</i>have hoped in thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-33-22",
+            "footnotes": [
+                {
+                    "c": "Or, <i>wait for</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 33
+}

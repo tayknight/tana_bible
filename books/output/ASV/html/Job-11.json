@@ -1,0 +1,211 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18011001,
+            "text": "\u00b6 Then answered Zophar the Naamathite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011002,
+            "text": "\u00b6     Should not the multitude of words be answered?\n    And should a man full of talk be justified?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011003,
+            "text": "    Should thy boastings make men hold their peace?\n    And when thou mockest, shall no man make thee ashamed?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011004,
+            "text": "    For thou sayest, My doctrine is pure,\n    And I am clean in thine eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011005,
+            "text": "    But oh that God would speak,\n    And open his lips against thee,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011006,
+            "text": "  And that he would show thee the secrets of wisdom!\n  For he is manifold in understanding.\n  Know therefore that God <i>[a]</i>exacteth of thee less than thine iniquity deserveth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>remitteth</i> (Hebrew <i>causeth to be forgotten</i>) <i>unto thee of thine iniquity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011007,
+            "text": "\u00b6   <i>[b]</i>Canst thou by searching find out God?\n    Canst thou find out the Almighty unto perfection?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Canst thou find out the deep things of God?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011008,
+            "text": "   <i>[c]</i>It is high as heaven; what canst thou do?\n    Deeper than Sheol; what canst thou know?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-8",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>The heights of heaven</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011009,
+            "text": "    The measure thereof is longer than the earth,\n    And broader than the sea.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011010,
+            "text": "  If he pass through, and shut up,\n  And <i>[d]</i>all unto judgment, then who can hinder him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-10",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>call an assembly</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011011,
+            "text": "  For he knoweth false men:\n  He seeth iniquity also, <i>[e]</i>even though he consider it not.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>and him that considereth not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011012,
+            "text": "   <i>[f]</i>But vain man is void of understanding,\n    Yea, man is born  a wild ass\u2019s colt.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>But an empty man will get understanding, when a wild ass\u2019s colt is born a man</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011013,
+            "text": "\u00b6     If thou set thy heart aright,\n    And stretch out thy hands toward him;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011014,
+            "text": "    If iniquity be in thy hand, put it far away,\n    And let not unrighteousness dwell in thy tents.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011015,
+            "text": "    Surely then shalt thou lift up thy face without spot;\n    Yea, thou shalt be stedfast, and shalt not fear:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011016,
+            "text": "    For thou shalt forget thy misery;\n    Thou shalt remember it as waters that are passed away,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011017,
+            "text": "  And life shall <i>[g]</i>be clearer than the noonday;\n    Though there be darkness, it shall be as the morning.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>arise above</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011018,
+            "text": "    And thou shalt be secure, because there is hope;\n    Yea, thou shalt search , and shalt take thy rest in safety.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011019,
+            "text": "    Also thou shalt lie down, and none shall make thee afraid;\n    Yea, many shall make suit unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18011020,
+            "text": "  But the eyes of the wicked shall fail,\n  And <i>[h]</i>they shall have no way to flee;\n    And their hope shall be the giving up of the ghost.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-11-20",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>refuge is perished from them</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 11
+}

@@ -1,0 +1,203 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2027001,
+            "text": "\u00b6 And thou shalt make the altar of acacia wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027002,
+            "text": "And thou shalt make the horns of it upon the four corners thereof; the horns thereof shall be of one piece with it: and thou shalt overlay it with brass. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027003,
+            "text": "And thou shalt make its pots to take away its ashes, and its shovels, and its basins, and its flesh-hooks, and its firepans: all the vessels thereof thou shalt make of brass. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027004,
+            "text": "And thou shalt make for it a grating of network of brass; and upon the net shalt thou make four brazen rings in the four <i>[a]</i>corners thereof. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>ends</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027005,
+            "text": "And thou shalt put it under the ledge round the altar beneath, that the net may reach halfway up the altar. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027006,
+            "text": "And thou shalt make staves for the altar, staves of acacia wood, and overlay them with brass. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027007,
+            "text": "And the staves thereof shall be put into the rings, and the staves shall be upon the two <i>[b]</i>sides of the altar, in bearing it. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-7",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>ribs</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027008,
+            "text": "Hollow with planks shalt thou make it: as it hath been showed thee in the mount, so shall they make it.",
+            "version": "ASV",
+            "clsstr": "Exod-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027009,
+            "text": "\u00b6 And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen a hundred cubits long for one side: ",
+            "version": "ASV",
+            "clsstr": "Exod-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027010,
+            "text": "and the pillars thereof shall be twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets  of silver. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027011,
+            "text": "And likewise for the north side in length there shall be hangings a hundred cubits long, and the pillars thereof twenty, and their sockets twenty, of brass; the hooks of the pillars, and their fillets, of silver. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027012,
+            "text": "And for the breadth of the court on the west side shall be hangings of fifty cubits; their pillars ten, and their sockets ten. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027013,
+            "text": "And the breadth of the court on the east side eastward shall be fifty cubits. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027014,
+            "text": "The hangings for the one side  shall be fifteen cubits; their pillars three, and their sockets three. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027015,
+            "text": "And for the other side shall be hangings of fifteen cubits; their pillars three, and their sockets three. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027016,
+            "text": "And for the gate of the court shall be a screen of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer; their pillars four, and their sockets four. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027017,
+            "text": "All the pillars of the court round about shall be filleted with silver; their hooks of silver, and their sockets of brass. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027018,
+            "text": "The length of the court shall be a hundred cubits, and the breadth fifty every where, and the height five cubits, of fine twined linen, and their sockets of brass. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027019,
+            "text": "All the instruments of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass.",
+            "version": "ASV",
+            "clsstr": "Exod-27-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027020,
+            "text": "\u00b6 And thou shalt command the children of Israel, that they bring unto thee pure olive oil beaten for the light, <i>[c]</i>to cause a lamp to burn continually. ",
+            "version": "ASV",
+            "clsstr": "Exod-27-20",
+            "footnotes": [
+                {
+                    "c": "Or, <i>to set up a lamp continually</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2027021,
+            "text": "In the tent of meeting, without the veil which is before the testimony, Aaron and his sons shall keep it in order from evening to morning before Jehovah: it shall be a statute for ever throughout their generations <i>[d]</i>on the behalf of the children of Israel.",
+            "version": "ASV",
+            "clsstr": "Exod-27-21",
+            "footnotes": [
+                {
+                    "d": "Or, <i>from</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 27
+}

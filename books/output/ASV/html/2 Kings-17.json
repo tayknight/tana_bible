@@ -1,0 +1,367 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 12,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 25,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 12,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 12017001,
+            "text": "\u00b6 In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel,  nine years. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017002,
+            "text": "And he did that which was evil in the sight of Jehovah, yet not as the kings of Israel that were before him. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017003,
+            "text": "Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and brought him tribute. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017004,
+            "text": "And the king of Assyria found conspiracy in Hoshea; for he had sent messengers to So king of Egypt, and offered no tribute to the king of Assyria, as he had done year by year: therefore the king of Assyria shut him up, and bound him in prison. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017005,
+            "text": "Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017006,
+            "text": "In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away unto Assyria, and placed them in Halah, and on the Habor, the river of Gozan, and in the cities of the Medes.",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017007,
+            "text": "\u00b6 And it was so, because the children of Israel had sinned against Jehovah their God, who brought them up out of the land of Egypt from under the hand of Pharaoh king of Egypt, and had feared other gods, ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017008,
+            "text": "and walked in the statutes of the nations, whom Jehovah cast out from before the children of Israel, and of the kings of Israel, which they <i>[a]</i>made. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>practised</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017009,
+            "text": "And the children of Israel did secretly things that were not right against Jehovah their God: and they built them high places in all their cities, from the tower of the watchmen to the fortified city; ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017010,
+            "text": "and they set them up <i>[b]</i>pillars and Asherim upon every high hill, and under every green tree; ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-10",
+            "footnotes": [
+                {
+                    "b": "Or, <i>obelisks</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017011,
+            "text": "and there they burnt incense in all the high places, as did the nations whom Jehovah carried away before them; and they wrought wicked things to provoke Jehovah to anger; ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017012,
+            "text": "and they served idols, whereof Jehovah had said unto them, Ye shall not do this thing. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017013,
+            "text": "Yet Jehovah testified unto Israel, and unto Judah, by every prophet, and every seer, saying, Turn ye from your evil ways, and keep my commandments and my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017014,
+            "text": "Notwithstanding, they would not hear, but hardened their neck, like to the neck of their fathers, who believed not in Jehovah their God. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017015,
+            "text": "And they rejected his statutes, and his covenant that he made with their fathers, and his testimonies which he testified unto them; and they followed vanity, and became vain, and  after the nations that were round about them, concerning whom Jehovah had charged them that they should not do like them. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017016,
+            "text": "And they forsook all the commandments of Jehovah their God, and made them molten images, even two calves, and made an Asherah, and worshipped all the host of heaven, and served Baal. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017017,
+            "text": "And they caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do that which was evil in the sight of Jehovah, to provoke him to anger. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017018,
+            "text": "Therefore Jehovah was very angry with Israel, and removed them out of his sight: there was none left but the tribe of Judah only.",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017019,
+            "text": "\u00b6 Also Judah kept not the commandments of Jehovah their God, but walked in the statutes of Israel which they <i>[c]</i>made. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-19",
+            "footnotes": [
+                {
+                    "c": "Or, <i>practised</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017020,
+            "text": "And Jehovah rejected all the seed of Israel, and afflicted them, and delivered them into the hand of spoilers, until he had cast them out of his sight. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017021,
+            "text": "For he rent Israel from the house of David; and they made Jeroboam the son of Nebat king: and Jeroboam <i>[d]</i>drove Israel from following Jehovah, and made them sin a great sin. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-21",
+            "footnotes": [
+                {
+                    "d": "According to another reading, <i>drew Israel away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017022,
+            "text": "And the children of Israel walked in all the sins of Jeroboam which he did; they departed not from them; ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017023,
+            "text": "until Jehovah removed Israel out of his sight, as he spake by all his servants the prophets. So Israel was carried away out of their own land to Assyria unto this day.",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017024,
+            "text": "\u00b6 And the king of Assyria brought men from Babylon, and from Cuthah, and from Avva, and from Hamath and Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel; and they possessed Samaria, and dwelt in the cities thereof. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017025,
+            "text": "And so it was, at the beginning of their dwelling there, that they feared not Jehovah: therefore Jehovah sent lions among them, which killed some of them. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017026,
+            "text": "Wherefore they spake to the king of Assyria, saying, The nations which thou hast carried away, and placed in the cities of Samaria, know not the law of the god of the land: therefore he hath sent lions among them, and, behold, they slay them, because they know not the law of the god of the land.",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017027,
+            "text": "\u00b6 Then the king of Assyria commanded, saying, Carry thither one of the priests whom ye brought from thence; and let them go and dwell there, and let him teach them the law of the god of the land. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017028,
+            "text": "So one of the priests whom they had carried away from Samaria came and dwelt in Beth-el, and taught them how they should fear Jehovah. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017029,
+            "text": "Howbeit every nation made gods of their own, and put them in the houses of the high places which the Samaritans had made, every nation in their cities wherein they dwelt. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017030,
+            "text": "And the men of Babylon made Succoth-benoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima, ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017031,
+            "text": "and the Avvites made Nibhaz and Tartak; and the Sepharvites burnt their children in the fire to Adrammelech and Anammelech, the <i>[e]</i>gods of Sepharvaim. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-31",
+            "footnotes": [
+                {
+                    "e": "Or, <i>god</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017032,
+            "text": "So they feared Jehovah, and made unto them from among themselves priests of the high places, who sacrificed for them in the houses of the high places. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017033,
+            "text": "They feared Jehovah, and served their own gods, after the manner of the nations from among whom they had been carried away.",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017034,
+            "text": "\u00b6 Unto this day they do after the former manner: they fear not Jehovah, neither do they after their statutes, or after their ordinances, or after the law or after the commandment which Jehovah commanded the children of Jacob, whom he named Israel; ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017035,
+            "text": "with whom Jehovah had made a covenant, and charged them, saying, Ye shall not fear other gods, nor bow yourselves to them, nor serve them, nor sacrifice to them: ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017036,
+            "text": "but Jehovah, who brought you up out of the land of Egypt with great power and with an outstretched arm, him shall ye fear, and unto him shall ye bow yourselves, and to him shall ye sacrifice: ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017037,
+            "text": "and the statutes and the ordinances, and the law and the commandment, which he wrote for you, ye shall observe to do for evermore; and ye shall not fear other gods: ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017038,
+            "text": "and the covenant that I have made with you ye shall not forget; neither shall ye fear other gods: ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017039,
+            "text": "but Jehovah your God shall ye fear; and he will deliver you out of the hand of all your enemies. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017040,
+            "text": "Howbeit they did not hearken, but they did after their former manner. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12017041,
+            "text": "So these nations feared Jehovah, and served their graven images; their children likewise, and their children\u2019s children, as did their fathers, so do they unto this day.",
+            "version": "ASV",
+            "clsstr": "2Kgs-17-41",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Kings",
+    "chapters": 17
+}

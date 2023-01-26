@@ -1,0 +1,583 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5028001,
+            "text": "\u00b6 And it shall come to pass, if thou shalt hearken diligently unto the voice of Jehovah thy God, to observe to do all his commandments which I command thee this day, that Jehovah thy God will set thee on high above all the nations of the earth: ",
+            "version": "ASV",
+            "clsstr": "Deut-28-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028002,
+            "text": "and all these blessings shall come upon thee, and overtake thee, if thou shalt hearken unto the voice of Jehovah thy God. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028003,
+            "text": "Blessed shalt thou be in the city, and blessed shalt thou be in the field. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028004,
+            "text": "Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy beasts, the increase of thy cattle, and the young of thy flock. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028005,
+            "text": "Blessed shall be thy basket and thy kneading-trough. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028006,
+            "text": "Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out.",
+            "version": "ASV",
+            "clsstr": "Deut-28-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028007,
+            "text": "\u00b6 Jehovah will cause thine enemies that rise up against thee to be smitten before thee: they shall come out against thee one way, and shall flee before thee seven ways. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028008,
+            "text": "Jehovah will command the blessing upon thee in thy barns, and in all that thou puttest thy hand unto; and he will bless thee in the land which Jehovah thy God giveth thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028009,
+            "text": "Jehovah will establish thee for a holy people unto himself, as he hath sworn unto thee; if thou shalt keep the commandments of Jehovah thy God, and walk in his ways. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028010,
+            "text": "And all the peoples of the earth shall see that thou art called by the name of Jehovah; and they shall be afraid of thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028011,
+            "text": "And Jehovah will make thee plenteous for good, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which Jehovah sware unto thy fathers to give thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028012,
+            "text": "Jehovah will open unto thee his good <i>[a]</i>treasure the heavens, to give the rain of thy land in its season, and to bless all the work of thy hand: and thou shalt lend unto many nations, and thou shalt not borrow. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-12",
+            "footnotes": [
+                {
+                    "a": "Or, <i>treasury</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028013,
+            "text": "And Jehovah will make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if thou shalt hearken unto the commandments of Jehovah thy God, which I command thee this day, to observe and to do , ",
+            "version": "ASV",
+            "clsstr": "Deut-28-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028014,
+            "text": "and shalt not turn aside from any of the words which I command you this day, to the right hand, or to the left, to go after other gods to serve them.",
+            "version": "ASV",
+            "clsstr": "Deut-28-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028015,
+            "text": "\u00b6 But it shall come to pass, if thou wilt not hearken unto the voice of Jehovah thy God, to observe to do all his commandments and his statutes which I command thee this day, that all these curses shall come upon thee, and overtake thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028016,
+            "text": "Cursed shalt thou be in the city, and cursed shalt thou be in the field. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028017,
+            "text": "Cursed shall be thy basket and thy kneading-trough. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028018,
+            "text": "Cursed shall be the fruit of thy body, and the fruit of thy ground, the increase of thy cattle, and the young of thy flock. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028019,
+            "text": "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out.",
+            "version": "ASV",
+            "clsstr": "Deut-28-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028020,
+            "text": "\u00b6 Jehovah will send upon thee cursing, discomfiture, and rebuke, in all that thou puttest thy hand unto to do, until thou be destroyed, and until thou perish quickly; because of the evil of thy doings, whereby thou hast forsaken me. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028021,
+            "text": "Jehovah will make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest in to possess it. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028022,
+            "text": "Jehovah will smite thee with consumption, and with fever, and with inflammation, and with fiery heat, and with <i>[b]</i>the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-22",
+            "footnotes": [
+                {
+                    "b": "Or, as otherwise read, <i>drought</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028023,
+            "text": "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028024,
+            "text": "Jehovah will make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.",
+            "version": "ASV",
+            "clsstr": "Deut-28-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028025,
+            "text": "\u00b6 Jehovah will cause thee to be smitten before thine enemies; thou shalt go out one way against them, and shalt flee seven ways before them: and thou shalt be <i>[c]</i>tossed to and from among all the kingdoms of the earth. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-25",
+            "footnotes": [
+                {
+                    "c": "Or, <i>a terror unto all</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028026,
+            "text": "And thy dead body shall be food unto all birds of the heavens, and unto the beasts of the earth; and there shall be none to frighten them away. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028027,
+            "text": "Jehovah will smite thee with the boil of Egypt, and with the <i>[d]</i>emerods, and with the scurvy, and with the itch, whereof thou canst not be healed. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-27",
+            "footnotes": [
+                {
+                    "d": "Or, <i>tumors</i>. Or, <i>plague boils</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028028,
+            "text": "Jehovah will smite thee with madness, and with blindness, and with astonishment of heart; ",
+            "version": "ASV",
+            "clsstr": "Deut-28-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028029,
+            "text": "and thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and robbed alway, and there shall be none to save thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028030,
+            "text": "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build a house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not use the fruit thereof. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028031,
+            "text": "Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to save thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028032,
+            "text": "Thy sons and thy daughters shall be given unto another people; and thine eyes shall look, and fail with longing for them all the day: and there shall be nought in the power of thy hand. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028033,
+            "text": "The fruit of thy ground, and all thy labors, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway; ",
+            "version": "ASV",
+            "clsstr": "Deut-28-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028034,
+            "text": "so that thou shalt be mad for the sight of thine eyes which thou shalt see. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028035,
+            "text": "Jehovah will smite thee in the knees, and in the legs, with a sore boil, whereof thou canst not be healed, from the sole of thy foot unto the crown of thy head.",
+            "version": "ASV",
+            "clsstr": "Deut-28-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028036,
+            "text": "\u00b6 Jehovah will bring thee, and thy king whom thou shalt set over thee, unto a nation that thou hast not known, thou nor thy fathers; and there shalt thou serve other gods, wood and stone. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028037,
+            "text": "And thou shalt become an astonishment, a proverb, and a byword, among all the peoples whither Jehovah shall lead thee away. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028038,
+            "text": "Thou shalt carry much seed out into the field, and shalt gather little in; for the locust shall consume it. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028039,
+            "text": "Thou shalt plant vineyards and dress them, but thou shalt neither drink of the wine, nor gather ; for the worm shall eat them. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028040,
+            "text": "Thou shalt have olive-trees throughout all thy borders, but thou shalt not anoint thyself with the oil; for thine olive shall cast . ",
+            "version": "ASV",
+            "clsstr": "Deut-28-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028041,
+            "text": "Thou shalt beget sons and daughters, but they shall not be thine; for they shall go into captivity. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028042,
+            "text": "All thy trees and the fruit of thy ground shall the locust possess. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028043,
+            "text": "The sojourner that is in the midst of thee shall mount up above thee higher and higher; and thou shalt come down lower and lower. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028044,
+            "text": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028045,
+            "text": "And all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of Jehovah thy God, to keep his commandments and his statutes which he commanded thee: ",
+            "version": "ASV",
+            "clsstr": "Deut-28-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028046,
+            "text": "and they shall be upon thee for a sign and for a wonder, and upon thy seed for ever.",
+            "version": "ASV",
+            "clsstr": "Deut-28-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028047,
+            "text": "\u00b6 Because thou servedst not Jehovah thy God with joyfulness, and with gladness of heart, by reason of the abundance of all things; ",
+            "version": "ASV",
+            "clsstr": "Deut-28-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028048,
+            "text": "therefore shalt thou serve thine enemies that Jehovah shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028049,
+            "text": "Jehovah will bring a nation against thee from far, from the end of the earth, as the eagle flieth; a nation whose tongue thou shalt not understand; ",
+            "version": "ASV",
+            "clsstr": "Deut-28-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028050,
+            "text": "a nation of fierce countenance, that shall not regard the person of the old, nor show favor to the young, ",
+            "version": "ASV",
+            "clsstr": "Deut-28-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028051,
+            "text": "and shall eat the fruit of thy cattle, and the fruit of thy ground, until thou be destroyed; that also shall not leave thee grain, new wine, or oil, the increase of thy cattle, or the young of thy flock, until they have caused thee to perish. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028052,
+            "text": "And they shall besiege thee in all thy gates, until thy high and fortified walls come down, wherein thou trustedst, throughout all thy land; and they shall besiege thee in all thy gates throughout all thy land, which Jehovah thy God hath given thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028053,
+            "text": "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, whom Jehovah thy God hath given thee, in the siege and in the distress wherewith thine enemies shall distress thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028054,
+            "text": "The man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children whom he hath remaining; ",
+            "version": "ASV",
+            "clsstr": "Deut-28-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028055,
+            "text": "so that he will not give to any of them of the flesh of his children whom he shall eat, because he hath nothing left him, in the siege and in the distress wherewith thine enemy shall distress thee in all thy gates. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028056,
+            "text": "The tender and delicate woman among you, who would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter, ",
+            "version": "ASV",
+            "clsstr": "Deut-28-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028057,
+            "text": "and toward her <i>[e]</i>young one that cometh out from between her feet, and toward her children whom she shall bear; for she shall eat them for want of all things secretly, in the siege and in the distress wherewith thine enemy shall distress thee in thy gates.",
+            "version": "ASV",
+            "clsstr": "Deut-28-57",
+            "footnotes": [
+                {
+                    "e": "Or, <i>after-birth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028058,
+            "text": "\u00b6 If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, <b>LORD</b>; ",
+            "version": "ASV",
+            "clsstr": "Deut-28-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028059,
+            "text": "then Jehovah will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028060,
+            "text": "And he will bring upon thee again all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028061,
+            "text": "Also every sickness, and every plague, which is not written in the book of this law, them will Jehovah bring upon thee, until thou be destroyed. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028062,
+            "text": "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou didst not hearken unto the voice of Jehovah thy God. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028063,
+            "text": "And it shall come to pass, that, as Jehovah rejoiced over you to do you good, and to multiply you, so Jehovah will rejoice over you to cause you to perish, and to destroy you; and ye shall be plucked from off the land whither thou goest in to possess it. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028064,
+            "text": "And Jehovah will scatter thee among all peoples, from the one end of the earth even unto the other end of the earth; and there thou shalt serve other gods, which thou hast not known, thou nor thy fathers, even wood and stone. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028065,
+            "text": "And among these nations shalt thou find no ease, and there shall be no rest for the sole of thy foot: but Jehovah will give thee there a trembling heart, and failing of eyes, and pining of soul; ",
+            "version": "ASV",
+            "clsstr": "Deut-28-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028066,
+            "text": "and thy life shall hang in doubt before thee; and thou shalt fear night and day, and shalt have no assurance of thy life. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028067,
+            "text": "In the morning thou shalt say, Would it were even! and at even thou shalt say, Would it were morning! for the fear of thy heart which thou shalt fear, and for the sight of thine eyes which thou shalt see. ",
+            "version": "ASV",
+            "clsstr": "Deut-28-67",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5028068,
+            "text": "And Jehovah will bring thee into Egypt again with ships, by the way whereof I said unto thee, Thou shalt see it no more again: and there ye shall sell yourselves unto your enemies for bondmen and for bondwomen, and no man shall buy you.",
+            "version": "ASV",
+            "clsstr": "Deut-28-68",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 28
+}

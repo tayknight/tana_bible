@@ -1,0 +1,135 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19026001,
+            "text": "<b>Protestation of integrity, and prayer for protection.</b>\n\u00b6 of David.\u00b6   Judge me, O Jehovah, for I have walked in mine integrity:\n  I have trusted also in Jehovah <i>[a]</i>without wavering.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>I shall not slide</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026002,
+            "text": "  Examine me, O Jehovah, and prove me;\n  Try my <i>[b]</i>heart and my mind.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-2",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>reins</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026003,
+            "text": "    For thy lovingkindness is before mine eyes;\n    And I have walked in thy truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026004,
+            "text": "    I have not sat with men of falsehood;\n    Neither will I go in with dissemblers.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026005,
+            "text": "    I hate the assembly of evil-doers,\n    And will not sit with the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026006,
+            "text": "    I will wash my hands in innocency:\n    So will I compass thine altar, O Jehovah;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026007,
+            "text": "  That I may <i>[c]</i>make the voice of thanksgiving to be heard,\n    And tell of all thy wondrous works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>publish with the voice of thanksgiving</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026008,
+            "text": "  Jehovah, I love the habitation of thy house,\n  And the place <i>[d]</i>where thy glory dwelleth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>of the tabernacle of thy glory</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026009,
+            "text": "   <i>[e]</i>Gather not my soul with sinners,\n    Nor my life with men of blood;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Take not away</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026010,
+            "text": "    In whose hands is wickedness,\n    And their right hand is full of bribes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026011,
+            "text": "    But as for me, I will walk in mine integrity:\n    Redeem me, and be merciful unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19026012,
+            "text": "    My foot standeth in an even place:\n    In the congregations will I bless Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-26-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 26
+}

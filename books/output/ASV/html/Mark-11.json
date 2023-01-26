@@ -1,0 +1,319 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41011001,
+            "text": "\u00b6 And when they draw nigh unto Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth two of his disciples, ",
+            "version": "ASV",
+            "clsstr": "Mark-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011002,
+            "text": "and saith unto them, Go your way into the village that is over against you: and straightway as ye enter into it, ye shall find a colt tied, whereon no man ever yet sat; loose him, and bring him. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011003,
+            "text": "And if any one say unto you, Why do ye this? say ye, The Lord hath need of him; and straightway he <i>[a]</i>will send him <i>[b]</i>back hither. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-3",
+            "footnotes": [
+                {
+                    "a": "Greek <i>sendeth</i>."
+                },
+                {
+                    "b": "Or, <i>again</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011004,
+            "text": "And they went away, and found a colt tied at the door without in the open street; and they loose him. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011005,
+            "text": "And certain of them that stood there said unto them, What do ye, loosing the colt? ",
+            "version": "ASV",
+            "clsstr": "Mark-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011006,
+            "text": "And they said unto them even as Jesus had said: and they let them go. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011007,
+            "text": "And they bring the colt unto Jesus, and cast on him their garments; and he sat upon him. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011008,
+            "text": "And many spread their garments upon the way; and others <i>[c]</i>branches, which they had cut from the fields. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-8",
+            "footnotes": [
+                {
+                    "c": "Greek <i>layers of leaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011009,
+            "text": "And they that went before, and they that followed, cried, Hosanna; Blessed  he that cometh in the name of the Lord: ",
+            "version": "ASV",
+            "clsstr": "Mark-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011010,
+            "text": "Blessed  the kingdom that cometh,  of our father David: Hosanna in the highest.",
+            "version": "ASV",
+            "clsstr": "Mark-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011011,
+            "text": "\u00b6 And he entered into Jerusalem, into the temple; and when he had looked round about upon all things, it being now eventide, he went out unto Bethany with the twelve.",
+            "version": "ASV",
+            "clsstr": "Mark-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011012,
+            "text": "\u00b6 And on the morrow, when they were come out from Bethany, he hungered. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011013,
+            "text": "And seeing a fig tree afar off having leaves, he came, if haply he might find anything thereon: and when he came to it, he found nothing but leaves; for it was not the season of figs. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011014,
+            "text": "And he answered and said unto it, No man eat fruit from thee henceforward for ever. And his disciples heard it.",
+            "version": "ASV",
+            "clsstr": "Mark-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011015,
+            "text": "\u00b6 And they come to Jerusalem: and he entered into the temple, and began to cast out them that sold and them that bought in the temple, and overthrew the tables of the money-changers, and the seats of them that sold the doves; ",
+            "version": "ASV",
+            "clsstr": "Mark-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011016,
+            "text": "and he would not suffer that any man should carry a vessel through the temple. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011017,
+            "text": "And he taught, and said unto them, Is it not written, <i>[d]</i>My house shall be called a house of prayer for all the nations? <i>[e]</i>but ye have made it a den of robbers. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-17",
+            "footnotes": [
+                {
+                    "d": "[[Isa. 56:7]]."
+                },
+                {
+                    "e": "[[Jer. 7:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011018,
+            "text": "And the chief priests and the scribes heard it, and sought how they might destroy him: for they feared him, for all the multitude was astonished at his teaching.",
+            "version": "ASV",
+            "clsstr": "Mark-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011019,
+            "text": "\u00b6 And <i>[f]</i>every evening <i>[g]</i>he went forth out of the city.",
+            "version": "ASV",
+            "clsstr": "Mark-11-19",
+            "footnotes": [
+                {
+                    "f": "Greek <i>whenever evening came</i>."
+                },
+                {
+                    "g": "Some ancient authorities read <i>they</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011020,
+            "text": "\u00b6 And as they passed by in the morning, they saw the fig tree withered away from the roots. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011021,
+            "text": "And Peter calling to remembrance saith unto him, Rabbi, behold, the fig tree which thou cursedst is withered away. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011022,
+            "text": "And Jesus answering saith unto them, Have faith in God. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011023,
+            "text": "Verily I say unto you, Whosoever shall say unto this mountain, Be thou taken up and cast into the sea; and shall not doubt in his heart, but shall believe that what he saith cometh to pass; he shall have it. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011024,
+            "text": "Therefore I say unto you, All things whatsoever ye pray and ask for, believe that ye <i>[h]</i>receive them, and ye shall have them. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-24",
+            "footnotes": [
+                {
+                    "h": "Greek <i>received</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011025,
+            "text": "And whensoever ye stand praying, forgive, if ye have aught against any one; that your Father also who is in heaven may forgive you your trespasses. <i>[i]</i>",
+            "version": "ASV",
+            "clsstr": "Mark-11-25",
+            "footnotes": [
+                {
+                    "i": "Many ancient authorities add [[verse 26]] <i>But if ye do not forgive, neither will your Father who is in heaven forgive your trespasses</i>. Compare [[Mt. 6:15]]; [[18:35]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011027,
+            "text": "\u00b6 And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders; ",
+            "version": "ASV",
+            "clsstr": "Mark-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011028,
+            "text": "and they said unto him, By what authority doest thou these things? or who gave thee this authority to do these things? ",
+            "version": "ASV",
+            "clsstr": "Mark-11-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011029,
+            "text": "And Jesus said unto them, I will ask of you one <i>[j]</i>question, and answer me, and I will tell you by what authority I do these things. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-29",
+            "footnotes": [
+                {
+                    "j": "Greek <i>word</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011030,
+            "text": "The baptism of John, was it from heaven, or from men? answer me. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011031,
+            "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him? ",
+            "version": "ASV",
+            "clsstr": "Mark-11-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011032,
+            "text": " <i>[k]</i>But should we say, From men\u2014they feared the people: <i>[l]</i>for all verily held John to be a prophet. ",
+            "version": "ASV",
+            "clsstr": "Mark-11-32",
+            "footnotes": [
+                {
+                    "k": "Or, <i>But shall we say, From men?</i>"
+                },
+                {
+                    "l": "Or, <i>for all held John to be a prophet indeed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41011033,
+            "text": "And they answered Jesus and say, We know not. And Jesus saith unto them, Neither tell I you by what authority I do these things.",
+            "version": "ASV",
+            "clsstr": "Mark-11-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 11
+}

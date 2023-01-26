@@ -1,0 +1,184 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 58,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 58,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 58001001,
+            "text": "\u00b6 God, having of old time spoken unto the fathers in the prophets by divers portions and in divers manners, ",
+            "version": "ASV",
+            "clsstr": "Heb-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001002,
+            "text": "hath at the end of these days spoken unto us in <i>[a]</i> Son, whom he appointed heir of all things, through whom also he made the <i>[b]</i>worlds; ",
+            "version": "ASV",
+            "clsstr": "Heb-1-2",
+            "footnotes": [
+                {
+                    "a": "Greek <i>a Son</i>."
+                },
+                {
+                    "b": "Greek <i>ages</i>. Compare [[1 Tim. 1:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001003,
+            "text": "who being the effulgence of his glory, and <i>[c]</i>the very image of his substance, and upholding all things by the word of his power, when he had made purification of sins, sat down on the right hand of the Majesty on high; ",
+            "version": "ASV",
+            "clsstr": "Heb-1-3",
+            "footnotes": [
+                {
+                    "c": "Or, <i>the impress of his substance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001004,
+            "text": "having become by so much better than the angels, as he hath inherited a more excellent name than they. ",
+            "version": "ASV",
+            "clsstr": "Heb-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001005,
+            "text": "For unto which of the angels said he at any time,\u00b6  <i>[d]</i>Thou art my Son,\n  This day have I begotten thee?\n  \u00b6 and again,\u00b6 <i>[e]</i>I will be to him a Father,\n    And he shall be to me a Son?\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-5",
+            "footnotes": [
+                {
+                    "d": "[[Ps. 2:7]]."
+                },
+                {
+                    "e": "[[2 Sam. 7:14]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001006,
+            "text": "\u00b6 <i>[f]</i>And when he again <i>[g]</i>bringeth in the firstborn into <i>[h]</i>the world he saith, <i>[i]</i>And let all the angels of God worship him. ",
+            "version": "ASV",
+            "clsstr": "Heb-1-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>And again, when he bringeth in</i>"
+                },
+                {
+                    "g": "Or, <i>shall have brought in</i>"
+                },
+                {
+                    "h": "Greek <i>the inhabited earth</i>."
+                },
+                {
+                    "i": "[[Dt. 32:43]] Septuagint; compare [[Ps. 97:7]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001007,
+            "text": "And of the angels he saith,\u00b6   <i>[j]</i>Who maketh his angels winds,\n    And his ministers a flame of fire:\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-7",
+            "footnotes": [
+                {
+                    "j": "[[Ps. 104:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001008,
+            "text": "\u00b6 but of the Son ,\u00b6 <i>[k]</i> <i>[l]</i>Thy throne, O God, is for ever and ever;\n  And the sceptre of uprightness is the sceptre of <i>[m]</i>thy kingdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-8",
+            "footnotes": [
+                {
+                    "k": "[[Ps. 45:6f]]."
+                },
+                {
+                    "l": "Or, <i>Thy throne is God for etc.</i>"
+                },
+                {
+                    "m": "The two oldest Greek manuscripts read, <i>his</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001009,
+            "text": "    Thou hast loved righteousness, and hated iniquity;\n    Therefore God, thy God, hath anointed thee\n    With the oil of gladness above thy fellows.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001010,
+            "text": "\u00b6 And,\u00b6   <i>[n]</i>Thou, Lord, in the beginning didst lay the foundation of the earth,\n    And the heavens are the works of thy hands:\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-10",
+            "footnotes": [
+                {
+                    "n": "[[Ps. 102:25ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001011,
+            "text": "    They shall perish; but thou continuest:\n    And they all shall wax old as doth a garment;\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001012,
+            "text": "    And as a mantle shalt thou roll them up,\n    As a garment, and they shall be changed:\n    But thou art the same,\n    And thy years shall not fail.\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001013,
+            "text": "\u00b6 But of which of the angels hath he said at any time,\u00b6   <i>[o]</i>Sit thou on my right hand,\n    Till I make thine enemies the footstool of thy feet?\n    ",
+            "version": "ASV",
+            "clsstr": "Heb-1-13",
+            "footnotes": [
+                {
+                    "o": "[[Ps. 110:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 58001014,
+            "text": "\u00b6 Are they not all ministering spirits, sent forth to do service for the sake of them that shall inherit salvation?",
+            "version": "ASV",
+            "clsstr": "Heb-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hebrews",
+    "chapters": 1
+}

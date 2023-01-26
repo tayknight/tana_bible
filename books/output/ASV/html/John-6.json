@@ -1,0 +1,657 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43006001,
+            "text": "\u00b6 After these things Jesus went away to the other side of the sea of Galilee, which is  of Tiberias. ",
+            "version": "ASV",
+            "clsstr": "John-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006002,
+            "text": "And a great multitude followed him, because they beheld the signs which he did on them that were sick. ",
+            "version": "ASV",
+            "clsstr": "John-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006003,
+            "text": "And Jesus went up into the mountain, and there he sat with his disciples. ",
+            "version": "ASV",
+            "clsstr": "John-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006004,
+            "text": "Now the passover, the feast of the Jews, was at hand. ",
+            "version": "ASV",
+            "clsstr": "John-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006005,
+            "text": "Jesus therefore lifting up his eyes, and seeing that a great multitude cometh unto him, saith unto Philip, Whence are we to buy <i>[a]</i>bread, that these may eat? ",
+            "version": "ASV",
+            "clsstr": "John-6-5",
+            "footnotes": [
+                {
+                    "a": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006006,
+            "text": "And this he said to prove him: for he himself knew what he would do. ",
+            "version": "ASV",
+            "clsstr": "John-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006007,
+            "text": "Philip answered him, Two hundred <i>[b]</i>shillings\u2019 worth of <i>[c]</i>bread is not sufficient for them, that every one may take a little. ",
+            "version": "ASV",
+            "clsstr": "John-6-7",
+            "footnotes": [
+                {
+                    "b": "The word in the Greek denotes a coin worth about eight pence halfpenny, or nearly seventeen cents."
+                },
+                {
+                    "c": "Greek <i>loaves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006008,
+            "text": "One of his disciples, Andrew, Simon Peter\u2019s brother, saith unto him, ",
+            "version": "ASV",
+            "clsstr": "John-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006009,
+            "text": "There is a lad here, who hath five barley loaves, and two fishes: but what are these among so many? ",
+            "version": "ASV",
+            "clsstr": "John-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006010,
+            "text": "Jesus said, Make the people sit down. Now there was much grass in the place. So the men sat down, in number about five thousand. ",
+            "version": "ASV",
+            "clsstr": "John-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006011,
+            "text": "Jesus therefore took the loaves; and having given thanks, he distributed to them that were set down; likewise also of the fishes as much as they would. ",
+            "version": "ASV",
+            "clsstr": "John-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006012,
+            "text": "And when they were filled, he saith unto his disciples, Gather up the broken pieces which remain over, that nothing be lost. ",
+            "version": "ASV",
+            "clsstr": "John-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006013,
+            "text": "So they gathered them up, and filled twelve baskets with broken pieces from the five barley loaves, which remained over unto them that had eaten. ",
+            "version": "ASV",
+            "clsstr": "John-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006014,
+            "text": "When therefore the people saw the <i>[d]</i>sign which he did, they said, This is of a truth the prophet that cometh into the world.",
+            "version": "ASV",
+            "clsstr": "John-6-14",
+            "footnotes": [
+                {
+                    "d": "Some ancient authorities read <i>signs</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006015,
+            "text": "\u00b6 Jesus therefore perceiving that they were about to come and take him by force, to make him king, withdrew again into the mountain himself alone.",
+            "version": "ASV",
+            "clsstr": "John-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006016,
+            "text": "\u00b6 And when evening came, his disciples went down unto the sea; ",
+            "version": "ASV",
+            "clsstr": "John-6-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006017,
+            "text": "and they entered into a boat, and were going over the sea unto Capernaum. And it was now dark, and Jesus had not yet come to them. ",
+            "version": "ASV",
+            "clsstr": "John-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006018,
+            "text": "And the sea was rising by reason of a great wind that blew. ",
+            "version": "ASV",
+            "clsstr": "John-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006019,
+            "text": "When therefore they had rowed about five and twenty or thirty furlongs, they behold Jesus walking on the sea, and drawing nigh unto the boat: and they were afraid. ",
+            "version": "ASV",
+            "clsstr": "John-6-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006020,
+            "text": "But he saith unto them, It is I; be not afraid. ",
+            "version": "ASV",
+            "clsstr": "John-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006021,
+            "text": "They were willing therefore to receive him into the boat: and straightway the boat was at the land whither they were going.",
+            "version": "ASV",
+            "clsstr": "John-6-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006022,
+            "text": "\u00b6 On the morrow the multitude that stood on the other side of the sea saw that there was no other <i>[e]</i>boat there, save one, and that Jesus entered not with his disciples into the boat, but  his disciples went away alone ",
+            "version": "ASV",
+            "clsstr": "John-6-22",
+            "footnotes": [
+                {
+                    "e": "Greek <i>little boat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006023,
+            "text": "(howbeit there came <i>[f]</i>boats from Tiberias nigh unto the place where they ate the bread after the Lord had given thanks): ",
+            "version": "ASV",
+            "clsstr": "John-6-23",
+            "footnotes": [
+                {
+                    "f": "Greek <i>little boats</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006024,
+            "text": "when the multitude therefore saw that Jesus was not there, neither his disciples, they themselves got into the <i>[g]</i>boats, and came to Capernaum, seeking Jesus. ",
+            "version": "ASV",
+            "clsstr": "John-6-24",
+            "footnotes": [
+                {
+                    "g": "Greek <i>little boats</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006025,
+            "text": "And when they found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither? ",
+            "version": "ASV",
+            "clsstr": "John-6-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006026,
+            "text": "Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw signs, but because ye ate of the loaves, and were filled. ",
+            "version": "ASV",
+            "clsstr": "John-6-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006027,
+            "text": "Work not for the food which perisheth, but for the food which abideth unto eternal life, which the Son of man shall give unto you: for him the Father,  God, hath sealed. ",
+            "version": "ASV",
+            "clsstr": "John-6-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006028,
+            "text": "They said therefore unto him, What must we do, that we may work the works of God? ",
+            "version": "ASV",
+            "clsstr": "John-6-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006029,
+            "text": "Jesus answered and said unto them, This is the work of God, that ye believe on him whom <i>[h]</i>he hath sent. ",
+            "version": "ASV",
+            "clsstr": "John-6-29",
+            "footnotes": [
+                {
+                    "h": "Or, <i>he sent</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006030,
+            "text": "They said therefore unto him, What then doest thou for a sign, that we may see, and believe thee? what workest thou? ",
+            "version": "ASV",
+            "clsstr": "John-6-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006031,
+            "text": "Our fathers ate the manna in the wilderness; as it is written, He <i>[i]</i>gave them bread out of heaven to eat. ",
+            "version": "ASV",
+            "clsstr": "John-6-31",
+            "footnotes": [
+                {
+                    "i": "[[Neh. 9:15]]; [[Ex. 16:4]], [[15]]; [[Ps. 78:24]]; [[105:40]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006032,
+            "text": "Jesus therefore said unto them, Verily, verily, I say unto you, It was not Moses that gave you the bread out of heaven; but my Father giveth you the true bread out of heaven. ",
+            "version": "ASV",
+            "clsstr": "John-6-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006033,
+            "text": "For the bread of God is that which cometh down out of heaven, and giveth life unto the world. ",
+            "version": "ASV",
+            "clsstr": "John-6-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006034,
+            "text": "They said therefore unto him, Lord, evermore give us this bread. ",
+            "version": "ASV",
+            "clsstr": "John-6-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006035,
+            "text": "Jesus said unto them, I am the bread of life: he that cometh to me shall not hunger, and he that believeth on me shall never thirst. ",
+            "version": "ASV",
+            "clsstr": "John-6-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006036,
+            "text": "But I said unto you, that ye have seen me, and yet believe not. ",
+            "version": "ASV",
+            "clsstr": "John-6-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006037,
+            "text": "All that which the Father giveth me shall come unto me; and him that cometh to me I will in no wise cast out. ",
+            "version": "ASV",
+            "clsstr": "John-6-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006038,
+            "text": "For I am come down from heaven, not to do mine own will, but the will of him that sent me. ",
+            "version": "ASV",
+            "clsstr": "John-6-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006039,
+            "text": "And this is the will of him that sent me, that of all that which he hath given me I should lose nothing, but should raise it up at the last day. ",
+            "version": "ASV",
+            "clsstr": "John-6-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006040,
+            "text": "For this is the will of my Father, that every one that beholdeth the Son, and believeth on him, should have eternal life; and <i>[j]</i>I will raise him up at the last day.",
+            "version": "ASV",
+            "clsstr": "John-6-40",
+            "footnotes": [
+                {
+                    "j": "Or, <i>that I should raise him up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006041,
+            "text": "\u00b6 The Jews therefore murmured concerning him, because he said, I am the bread which came down out of heaven. ",
+            "version": "ASV",
+            "clsstr": "John-6-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006042,
+            "text": "And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how doth he now say, I am come down out of heaven? ",
+            "version": "ASV",
+            "clsstr": "John-6-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006043,
+            "text": "Jesus answered and said unto them, Murmur not among yourselves. ",
+            "version": "ASV",
+            "clsstr": "John-6-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006044,
+            "text": "No man can come to me, except the Father that sent me draw him: and I will raise him up in the last day. ",
+            "version": "ASV",
+            "clsstr": "John-6-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006045,
+            "text": "It is written in the prophets, <i>[k]</i>And they shall all be taught of God. Every one that hath heard from the Father, and hath learned, cometh unto me. ",
+            "version": "ASV",
+            "clsstr": "John-6-45",
+            "footnotes": [
+                {
+                    "k": "[[Isa. 54:13]]; ([[Jer. 31:34]]?)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006046,
+            "text": "Not that any man hath seen the Father, save he that is from God, he hath seen the Father. ",
+            "version": "ASV",
+            "clsstr": "John-6-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006047,
+            "text": "Verily, verily, I say unto you, He that believeth hath eternal life. ",
+            "version": "ASV",
+            "clsstr": "John-6-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006048,
+            "text": "I am the bread of life. ",
+            "version": "ASV",
+            "clsstr": "John-6-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006049,
+            "text": "Your fathers ate the manna in the wilderness, and they died. ",
+            "version": "ASV",
+            "clsstr": "John-6-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006050,
+            "text": "This is the bread which cometh down out of heaven, that a man may eat thereof, and not die. ",
+            "version": "ASV",
+            "clsstr": "John-6-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006051,
+            "text": "I am the living bread which came down out of heaven: if any man eat of this bread, he shall live for ever: yea and the bread which I will give is my flesh, for the life of the world.",
+            "version": "ASV",
+            "clsstr": "John-6-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006052,
+            "text": "\u00b6 The Jews therefore strove one with another, saying, How can this man give us his flesh to eat? ",
+            "version": "ASV",
+            "clsstr": "John-6-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006053,
+            "text": "Jesus therefore said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man and drink his blood, ye have not life in yourselves. ",
+            "version": "ASV",
+            "clsstr": "John-6-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006054,
+            "text": "He that eateth my flesh and drinketh my blood hath eternal life; and I will raise him up at the last day. ",
+            "version": "ASV",
+            "clsstr": "John-6-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006055,
+            "text": "For my flesh is <i>[l]</i>meat indeed, and my blood is <i>[m]</i>drink indeed. ",
+            "version": "ASV",
+            "clsstr": "John-6-55",
+            "footnotes": [
+                {
+                    "l": "Greek <i>true meat</i>."
+                },
+                {
+                    "m": "Greek <i>true drink</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006056,
+            "text": "He that eateth my flesh and drinketh my blood abideth in me, and I in him. ",
+            "version": "ASV",
+            "clsstr": "John-6-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006057,
+            "text": "As the living Father sent me, and I live because of the Father; so he that eateth me, he also shall live because of me. ",
+            "version": "ASV",
+            "clsstr": "John-6-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006058,
+            "text": "This is the bread which came down out of heaven: not as the fathers ate, and died; he that eateth this bread shall live for ever. ",
+            "version": "ASV",
+            "clsstr": "John-6-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006059,
+            "text": "These things said he in <i>[n]</i>the synagogue, as he taught in Capernaum.",
+            "version": "ASV",
+            "clsstr": "John-6-59",
+            "footnotes": [
+                {
+                    "n": "Or, <i>a synagogue</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006060,
+            "text": "\u00b6 Many therefore of his disciples, when they heard , said, This is a hard saying; who can hear <i>[o]</i>it? ",
+            "version": "ASV",
+            "clsstr": "John-6-60",
+            "footnotes": [
+                {
+                    "o": "Or, <i>him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006061,
+            "text": "But Jesus knowing in himself that his disciples murmured at this, said unto them, Doth this cause you to stumble? ",
+            "version": "ASV",
+            "clsstr": "John-6-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006062,
+            "text": " then if ye should behold the Son of man ascending where he was before? ",
+            "version": "ASV",
+            "clsstr": "John-6-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006063,
+            "text": "It is the spirit that giveth life; the flesh profiteth nothing: the words that I have spoken unto you are spirit, and are life. ",
+            "version": "ASV",
+            "clsstr": "John-6-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006064,
+            "text": "But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who it was that should <i>[p]</i>betray him. ",
+            "version": "ASV",
+            "clsstr": "John-6-64",
+            "footnotes": [
+                {
+                    "p": "Or, <i>deliver him up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006065,
+            "text": "And he said, For this cause have I said unto you, that no man can come unto me, except it be given unto him of the Father.",
+            "version": "ASV",
+            "clsstr": "John-6-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006066,
+            "text": "\u00b6 Upon this many of his disciples went back, and walked no more with him. ",
+            "version": "ASV",
+            "clsstr": "John-6-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006067,
+            "text": "Jesus said therefore unto the twelve, Would ye also go away? ",
+            "version": "ASV",
+            "clsstr": "John-6-67",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006068,
+            "text": "Simon Peter answered him, Lord, to whom shall we go? thou <i>[q]</i>hast the words of eternal life. ",
+            "version": "ASV",
+            "clsstr": "John-6-68",
+            "footnotes": [
+                {
+                    "q": "Or, <i>hast words</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006069,
+            "text": "And we have believed and know that thou art the Holy One of God. ",
+            "version": "ASV",
+            "clsstr": "John-6-69",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006070,
+            "text": "Jesus answered them, Did not I choose you the twelve, and one of you is a devil? ",
+            "version": "ASV",
+            "clsstr": "John-6-70",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43006071,
+            "text": "Now he spake of Judas of Simon Iscariot, for he it was that should <i>[r]</i>betray him,  one of the twelve.",
+            "version": "ASV",
+            "clsstr": "John-6-71",
+            "footnotes": [
+                {
+                    "r": "Or, <i>deliver him up</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 6
+}

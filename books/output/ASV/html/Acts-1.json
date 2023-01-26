@@ -1,0 +1,290 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44001001,
+            "text": "\u00b6 The <i>[a]</i>former treatise I made, O Theophilus, concerning all that Jesus began both to do and to teach, ",
+            "version": "ASV",
+            "clsstr": "Acts-1-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>first</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001002,
+            "text": "until the day in which he was received up, after that he had given commandment through the Holy Spirit unto the apostles whom he had chosen: ",
+            "version": "ASV",
+            "clsstr": "Acts-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001003,
+            "text": "to whom he also <i>[b]</i>showed himself alive after his passion by many proofs, appearing unto them by the space of forty days, and speaking the things concerning the kingdom of God: ",
+            "version": "ASV",
+            "clsstr": "Acts-1-3",
+            "footnotes": [
+                {
+                    "b": "Greek <i>presented</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001004,
+            "text": "and, <i>[c]</i>being assembled together with them, he charged them not to depart from Jerusalem, but to wait for the promise of the Father, which, , ye heard from me: ",
+            "version": "ASV",
+            "clsstr": "Acts-1-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>eating with them</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001005,
+            "text": "for John indeed baptized with water; but ye shall be baptized <i>[d]</i>in the Holy Spirit not many days hence.",
+            "version": "ASV",
+            "clsstr": "Acts-1-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001006,
+            "text": "\u00b6 They therefore, when they were come together, asked him, saying, Lord, dost thou at this time restore the kingdom to Israel? ",
+            "version": "ASV",
+            "clsstr": "Acts-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001007,
+            "text": "And he said unto them, It is not for you to know times or seasons, which the Father hath <i>[e]</i>set within his own authority. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>appointed by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001008,
+            "text": "But ye shall receive power, when the Holy Spirit is come upon you: and ye shall be my witnesses both in Jerusalem, and in all Judaea and Samaria, and unto the uttermost part of the earth. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001009,
+            "text": "And when he had said these things, as they were looking, he was taken up; and a cloud received him out of their sight. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001010,
+            "text": "And while they were looking stedfastly into heaven as he went, behold two men stood by them in white apparel; ",
+            "version": "ASV",
+            "clsstr": "Acts-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001011,
+            "text": "who also said, Ye men of Galilee, why stand ye looking into heaven? this Jesus, who was received up from you into heaven, shall so come in like manner as ye beheld him going into heaven.",
+            "version": "ASV",
+            "clsstr": "Acts-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001012,
+            "text": "\u00b6 Then returned they unto Jerusalem from the mount called Olivet, which is nigh unto Jerusalem, a sabbath day\u2019s journey off. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001013,
+            "text": "And when they were come in, they went up into the upper chamber, where they were abiding; both Peter and John and <i>[f]</i>James and Andrew, Philip and Thomas, Bartholomew and Matthew, <i>[g]</i>James of Alphaeus, and Simon the Zealot, and Judas of <i>[i]</i>James. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Jacob</i>"
+                },
+                {
+                    "g": "Or, <i>Jacob</i>"
+                },
+                {
+                    "h": "Or, brother. See [[Jude 1]]."
+                },
+                {
+                    "i": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001014,
+            "text": "These all with one accord continued stedfastly in prayer, <i>[j]</i>with the women, and Mary the mother of Jesus, and with his brethren.",
+            "version": "ASV",
+            "clsstr": "Acts-1-14",
+            "footnotes": [
+                {
+                    "j": "Or, <i>with</i> certain <i>women</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001015,
+            "text": "\u00b6 And in these days Peter stood up in the midst of the brethren, and said (and there was a multitude of <i>[k]</i>persons  together, about a hundred and twenty), ",
+            "version": "ASV",
+            "clsstr": "Acts-1-15",
+            "footnotes": [
+                {
+                    "k": "Greek <i>names</i>. See [[Rev. 3:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001016,
+            "text": "Brethren, it was needful that the scripture should be fulfilled, which the Holy Spirit spake before by the mouth of David concerning Judas, who was guide to them that took Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001017,
+            "text": "For he was numbered among us, and received his <i>[l]</i>portion in this ministry. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-17",
+            "footnotes": [
+                {
+                    "l": "Or, <i>lot</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001018,
+            "text": "(Now this man obtained a field with the reward of his iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001019,
+            "text": "And it became known to all the dwellers at Jerusalem; insomuch that in their language that field was called Akeldama, that is, The field of blood.) ",
+            "version": "ASV",
+            "clsstr": "Acts-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001020,
+            "text": "For it is written in the book of Psalms,\u00b6 <i>[m]</i>Let his habitation be made desolate,\n And let no man dwell therein:\n \u00b6 and,\u00b6 <i>[n]</i>His <i>[o]</i>office let another take.\n    ",
+            "version": "ASV",
+            "clsstr": "Acts-1-20",
+            "footnotes": [
+                {
+                    "m": "[[Ps. 69:25]]."
+                },
+                {
+                    "n": "[[Ps. 109:8]]."
+                },
+                {
+                    "o": "Greek <i>overseership</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001021,
+            "text": "\u00b6 Of the men therefore that have companied with us all the time that the Lord Jesus went in and went out <i>[p]</i>among us, ",
+            "version": "ASV",
+            "clsstr": "Acts-1-21",
+            "footnotes": [
+                {
+                    "p": "Or, <i>over</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001022,
+            "text": "beginning from the baptism of John, unto the day that he was received up from us, of these must one become a witness with us of his resurrection. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001023,
+            "text": "And they put forward two, Joseph called Barsabbas, who was surnamed Justus, and Matthias. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001024,
+            "text": "And they prayed, and said, Thou, Lord, who knowest the hearts of all men, show of these two the one whom thou hast chosen, ",
+            "version": "ASV",
+            "clsstr": "Acts-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001025,
+            "text": "to take the place in this ministry and apostleship from which Judas fell away, that he might go to his own place. ",
+            "version": "ASV",
+            "clsstr": "Acts-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44001026,
+            "text": "And they gave lots <i>[q]</i>for them; and the lot fell upon Matthias; and he was numbered with the eleven apostles.",
+            "version": "ASV",
+            "clsstr": "Acts-1-26",
+            "footnotes": [
+                {
+                    "q": "Or, <i>unto</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 1
+}

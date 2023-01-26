@@ -1,0 +1,175 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19090001,
+            "text": "\u00b6 Book IV\n<b>God\u2019s eternity and man\u2019s transitoriness.</b>\n\u00b6 A Prayer of Moses the man of God.\u00b6     Lord, thou hast been our dwelling-place\n    In all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090002,
+            "text": "  Before the mountains were brought forth,\n  Or ever thou <i>[a]</i>hadst formed the earth and the world,\n    Even from everlasting to everlasting, thou art God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>gavest birth to</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090003,
+            "text": "  Thou turnest man to <i>[b]</i>destruction,\n    And sayest, Return, ye children of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>dust</i>. Hebrew <i>crushing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090004,
+            "text": "  For a thousand years in thy sight\n  Are but as yesterday <i>[c]</i>when it is past,\n    And as a watch in the night.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>when it passeth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090005,
+            "text": "    Thou carriest them away as with a flood; they are as a sleep:\n    In the morning they are like grass which groweth up.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090006,
+            "text": "    In the morning it flourisheth, and groweth up;\n    In the evening it is cut down, and withereth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090007,
+            "text": "    For we are consumed in thine anger,\n    And in thy wrath are we troubled.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090008,
+            "text": "    Thou hast set our iniquities before thee,\n    Our secret sins in the light of thy countenance.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090009,
+            "text": "  For all our days are passed away in thy wrath:\n  We bring our years to an end as <i>[d]</i>a sigh.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>a sound</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090010,
+            "text": "    The days of our years are threescore years and ten,\n    Or even by reason of strength fourscore years;\n    Yet is their pride but labor and sorrow;\n    For it is soon gone, and we fly away.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090011,
+            "text": "    Who knoweth the power of thine anger,\n    And thy wrath according to the fear that is due unto thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090012,
+            "text": "    So teach us to number our days,\n    That we may get us a heart of wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090013,
+            "text": "    Return, O Jehovah; how long?\n    And let it repent thee concerning thy servants.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090014,
+            "text": "    Oh satisfy us in the morning with thy lovingkindness,\n    That we may rejoice and be glad all our days.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090015,
+            "text": "    Make us glad according to the days wherein thou hast afflicted us,\n    And the years wherein we have seen evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090016,
+            "text": "    Let thy work appear unto thy servants,\n    And thy glory upon their children.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19090017,
+            "text": "  And let the <i>[e]</i>favor of the Lord our God be upon us;\n    And establish thou the work of our hands upon us;\n    Yea, the work of our hands establish thou it.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-90-17",
+            "footnotes": [
+                {
+                    "e": "Or, <i>beauty</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 90
+}

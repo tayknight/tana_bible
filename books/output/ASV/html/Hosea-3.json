@@ -1,0 +1,74 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28003001,
+            "text": "\u00b6 And Jehovah said unto me, Go again, love a woman beloved <i>[a]</i>of friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and <i>[b]</i>love cakes of raisins. ",
+            "version": "ASV",
+            "clsstr": "Hos-3-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>of</i> her <i>husband, yet an etc.</i>"
+                },
+                {
+                    "b": "Or, <i>them that love</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28003002,
+            "text": "So I bought her to me for fifteen of silver, and a homer of barley, and a <i>[c]</i>half-homer of barley; ",
+            "version": "ASV",
+            "clsstr": "Hos-3-2",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>lethech</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28003003,
+            "text": "and I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be any man\u2019s wife: so will I also be toward thee. ",
+            "version": "ASV",
+            "clsstr": "Hos-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28003004,
+            "text": "For the children of Israel shall abide many days without king, and without prince, and without sacrifice, and without <i>[d]</i>pillar, and without ephod or teraphim: ",
+            "version": "ASV",
+            "clsstr": "Hos-3-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>obelisk</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28003005,
+            "text": "afterward shall the children of Israel return, and seek Jehovah their God, and David their king, and shall come with fear unto Jehovah and to his goodness in the latter days.",
+            "version": "ASV",
+            "clsstr": "Hos-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 3
+}

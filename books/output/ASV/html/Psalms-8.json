@@ -1,0 +1,99 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19008001,
+            "text": "<b>Jehovah\u2019s glory and man\u2019s dignity.</b>\n\u00b6 For the Chief Musician; set to the Gittith. A Psalm of David.\u00b6   O Jehovah, our Lord, How excellent is thy name in all the earth,\n  Who hast set thy glory <i>[a]</i>upon the heavens!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>above</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008002,
+            "text": "    Out of the mouth of babes and sucklings hast thou established strength,\n    Because of thine adversaries,\n    That thou mightest still the enemy and the avenger.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008003,
+            "text": "    When I consider thy heavens, the work of thy fingers,\n    The moon and the stars, which thou hast ordained;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008004,
+            "text": "    What is man, that thou art mindful of him?\n    And the son of man, that thou visitest him?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008005,
+            "text": "  For thou hast made him but little lower than <i>[b]</i>God,\n    And crownest him with glory and honor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the angels</i>. Hebrew <i>Elohim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008006,
+            "text": "    Thou makest him to have dominion over the works of thy hands;\n    Thou hast put all things under his feet:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008007,
+            "text": "    All sheep and oxen,\n    Yea, and the beasts of the field,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008008,
+            "text": "    The birds of the heavens, and the fish of the sea,\n    Whatsoever passeth through the paths of the seas.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19008009,
+            "text": "    O Jehovah, our Lord,\n    How excellent is thy name in all the earth!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 8
+}

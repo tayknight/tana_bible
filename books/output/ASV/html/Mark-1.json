@@ -1,0 +1,469 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41001001,
+            "text": "\u00b6 The beginning of the <i>[a]</i>gospel of Jesus Christ, <i>[b]</i>the Son of God.",
+            "version": "ASV",
+            "clsstr": "Mark-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>good tidings</i>: and so elsewhere."
+                },
+                {
+                    "b": "Some ancient authorities omit <i>the Son of God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001002,
+            "text": "\u00b6 Even as it is written <i>[c]</i>in Isaiah the prophet,\u00b6   <i>[d]</i>Behold, I send my messenger before thy face,\n    Who shall prepare thy way;\n    ",
+            "version": "ASV",
+            "clsstr": "Mark-1-2",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities read <i>in the prophets</i>."
+                },
+                {
+                    "d": "[[Mal. 3:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001003,
+            "text": "   <i>[e]</i>The voice of one crying in the wilderness,\n    Make ye ready the way of the Lord,\n    Make his paths straight;\n    ",
+            "version": "ASV",
+            "clsstr": "Mark-1-3",
+            "footnotes": [
+                {
+                    "e": "[[Isa. 40:3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001004,
+            "text": "\u00b6 John came, who baptized in the wilderness and preached the baptism of repentance unto remission of sins. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001005,
+            "text": "And there went out unto him all the country of Judaea, and all they of Jerusalem; and they were baptized of him in the river Jordan, confessing their sins. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001006,
+            "text": "And John was clothed with camel\u2019s hair, and  a leathern girdle about his loins, and did eat locusts and wild honey. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001007,
+            "text": "And he preached, saying, There cometh after me he that is mightier than I, the latchet of whose shoes I am not <i>[f]</i>worthy to stoop down and unloose. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-7",
+            "footnotes": [
+                {
+                    "f": "Greek <i>sufficient</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001008,
+            "text": "I baptized you <i>[g]</i>in water; but he shall baptize you <i>[h]</i>in the Holy Spirit.",
+            "version": "ASV",
+            "clsstr": "Mark-1-8",
+            "footnotes": [
+                {
+                    "g": "Or, <i>with</i>"
+                },
+                {
+                    "h": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001009,
+            "text": "\u00b6 And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John <i>[i]</i>in the Jordan. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-9",
+            "footnotes": [
+                {
+                    "i": "Greek <i>into</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001010,
+            "text": "And straightway coming up out of the water, he saw the heavens rent asunder, and the Spirit as a dove descending upon him: ",
+            "version": "ASV",
+            "clsstr": "Mark-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001011,
+            "text": "and a voice came out of the heavens, Thou art my beloved Son, in thee I am well pleased.",
+            "version": "ASV",
+            "clsstr": "Mark-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001012,
+            "text": "\u00b6 And straightway the Spirit driveth him forth into the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001013,
+            "text": "And he was in the wilderness forty days tempted of Satan; and he was with the wild beasts; and the angels ministered unto him.",
+            "version": "ASV",
+            "clsstr": "Mark-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001014,
+            "text": "\u00b6 Now after John was delivered up, Jesus came into Galilee, preaching the <i>[j]</i>gospel of God, ",
+            "version": "ASV",
+            "clsstr": "Mark-1-14",
+            "footnotes": [
+                {
+                    "j": "Or, <i>good tidings</i>: and so elsewhere"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001015,
+            "text": "and saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe in the <i>[k]</i>gospel.",
+            "version": "ASV",
+            "clsstr": "Mark-1-15",
+            "footnotes": [
+                {
+                    "k": "Or, <i>good tidings</i>: and so elsewhere"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001016,
+            "text": "\u00b6 And passing along by the sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net in the sea; for they were fishers. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001017,
+            "text": "And Jesus said unto them, Come ye after me, and I will make you to become fishers of men. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001018,
+            "text": "And straightway they left the nets, and followed him. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001019,
+            "text": "And going on a little further, he saw <i>[l]</i>James the  of Zebedee, and John his brother, who also were in the boat mending the nets. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-19",
+            "footnotes": [
+                {
+                    "l": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001020,
+            "text": "And straightway he called them: and they left their father Zebedee in the boat with the hired servants, and went after him.",
+            "version": "ASV",
+            "clsstr": "Mark-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001021,
+            "text": "\u00b6 And they go into Capernaum; and straightway on the sabbath day he entered into the synagogue and taught. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001022,
+            "text": "And they were astonished at his teaching: for he taught them as having authority, and not as the scribes. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001023,
+            "text": "And straightway there was in their synagogue a man with an unclean spirit; and he cried out, ",
+            "version": "ASV",
+            "clsstr": "Mark-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001024,
+            "text": "saying, What have we to do with thee, Jesus thou Nazarene? art thou come to destroy us? I know thee who thou art, the Holy One of God. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001025,
+            "text": "And Jesus rebuked <i>[m]</i>him, saying, Hold thy peace, and come out of him. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-25",
+            "footnotes": [
+                {
+                    "m": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001026,
+            "text": "And the unclean spirit, <i>[n]</i>tearing him and crying with a loud voice, came out of him. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-26",
+            "footnotes": [
+                {
+                    "n": "Or, <i>convulsing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001027,
+            "text": "And they were all amazed, insomuch that they questioned among themselves, saying, What is this? a new teaching! with authority he commandeth even the unclean spirits, and they obey him. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001028,
+            "text": "And the report of him went out straightway everywhere into all the region of Galilee round about.",
+            "version": "ASV",
+            "clsstr": "Mark-1-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001029,
+            "text": "\u00b6 And straightway, <i>[o]</i>when they were come out of the synagogue, they came into the house of Simon and Andrew, with <i>[p]</i>James and John. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-29",
+            "footnotes": [
+                {
+                    "o": "Some ancient authorities read <i>when he was come out of the synagogue, he came etc.</i>"
+                },
+                {
+                    "p": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001030,
+            "text": "Now Simon\u2019s wife\u2019s mother lay sick of a fever; and straightway they tell him of her: ",
+            "version": "ASV",
+            "clsstr": "Mark-1-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001031,
+            "text": "and he came and took her by the hand, and raised her up; and the fever left her, and she ministered unto them.",
+            "version": "ASV",
+            "clsstr": "Mark-1-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001032,
+            "text": "\u00b6 And at even, when the sun did set, they brought unto him all that were sick, and them that were <i>[q]</i>possessed with demons. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-32",
+            "footnotes": [
+                {
+                    "q": "Or, <i>demoniacs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001033,
+            "text": "And all the city was gathered together at the door. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001034,
+            "text": "And he healed many that were sick with divers diseases, and cast out many demons; and he suffered not the demons to speak, because they knew him <i>[r]</i>.",
+            "version": "ASV",
+            "clsstr": "Mark-1-34",
+            "footnotes": [
+                {
+                    "r": "Many ancient authorities add <i>to be Christ</i>. See [[Lk. 4:41]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001035,
+            "text": "\u00b6 And in the morning, a great while before day, he rose up and went out, and departed into a desert place, and there prayed. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001036,
+            "text": "And Simon and they that were with him followed after him; ",
+            "version": "ASV",
+            "clsstr": "Mark-1-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001037,
+            "text": "and they found him, and say unto him, All are seeking thee. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001038,
+            "text": "And he saith unto them, Let us go elsewhere into the next towns, that I may preach there also; for to this end came I forth. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001039,
+            "text": "And he went into their synagogues throughout all Galilee, preaching and casting out demons.",
+            "version": "ASV",
+            "clsstr": "Mark-1-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001040,
+            "text": "\u00b6 And there cometh to him a leper, beseeching him, <i>[s]</i>and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-40",
+            "footnotes": [
+                {
+                    "s": "Some ancient authorities omit <i>and kneeling down to him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001041,
+            "text": "And being moved with compassion, he stretched forth his hand, and touched him, and saith unto him, I will; be thou made clean. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001042,
+            "text": "And straightway the leprosy departed from him, and he was made clean. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001043,
+            "text": "And he <i>[t]</i>strictly charged him, and straightway sent him out, ",
+            "version": "ASV",
+            "clsstr": "Mark-1-43",
+            "footnotes": [
+                {
+                    "t": "Or, <i>sternly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001044,
+            "text": "and saith unto him, See thou say nothing to any man: but go show thyself to the priest, and offer for thy cleansing the things which Moses <i>[u]</i>commanded, for a testimony unto them. ",
+            "version": "ASV",
+            "clsstr": "Mark-1-44",
+            "footnotes": [
+                {
+                    "u": "[[Lev. 13:49]]; [[14:2ff]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41001045,
+            "text": "But he went out, and began to publish it much, and to spread abroad the <i>[v]</i>matter, insomuch that <i>[w]</i>Jesus could no more openly enter into <i>[x]</i>a city, but was without in desert places: and they came to him from every quarter.",
+            "version": "ASV",
+            "clsstr": "Mark-1-45",
+            "footnotes": [
+                {
+                    "v": "Greek <i>word</i>."
+                },
+                {
+                    "w": "Greek <i>he</i>."
+                },
+                {
+                    "x": "Or, <i>the city</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 1
+}

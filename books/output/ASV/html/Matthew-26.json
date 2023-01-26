@@ -1,0 +1,738 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40026001,
+            "text": "\u00b6 And it came to pass, when Jesus had finished all these words, he said unto his disciples, ",
+            "version": "ASV",
+            "clsstr": "Matt-26-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026002,
+            "text": "Ye know that after two days the passover cometh, and the Son of man is <i>[a]</i>delivered up to be crucified. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-2",
+            "footnotes": [
+                {
+                    "a": "See [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026003,
+            "text": "Then were gathered together the chief priests, and the elders of the people, unto the court of the high priest, who was called Caiaphas; ",
+            "version": "ASV",
+            "clsstr": "Matt-26-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026004,
+            "text": "and they took counsel together that they might take Jesus by subtlety, and kill him. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026005,
+            "text": "But they said, Not during the feast, lest a tumult arise among the people.",
+            "version": "ASV",
+            "clsstr": "Matt-26-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026006,
+            "text": "\u00b6 Now when Jesus was in Bethany, in the house of Simon the leper, ",
+            "version": "ASV",
+            "clsstr": "Matt-26-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026007,
+            "text": "there came unto him a woman having <i>[b]</i>an alabaster cruse of exceeding precious ointment, and she poured it upon his head, as <i>[c]</i>he sat at meat. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>a flask</i>"
+                },
+                {
+                    "c": "Or, <i>reclined at table</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026008,
+            "text": "But when the disciples saw it, they had indignation, saying, To what purpose is this waste? ",
+            "version": "ASV",
+            "clsstr": "Matt-26-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026009,
+            "text": "For this  might have been sold for much, and given to the poor. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026010,
+            "text": "But Jesus perceiving it said unto them, Why trouble ye the woman? for she hath wrought a good work upon me. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026011,
+            "text": "For ye have the poor always with you; but me ye have not always. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026012,
+            "text": "For in that she <i>[d]</i>poured this ointment upon my body, she did it to prepare me for burial. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-12",
+            "footnotes": [
+                {
+                    "d": "Greek <i>cast</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026013,
+            "text": "Verily I say unto you, Wheresoever <i>[e]</i>this gospel shall be preached in the whole world, that also which this woman hath done shall be spoken of for a memorial of her.",
+            "version": "ASV",
+            "clsstr": "Matt-26-13",
+            "footnotes": [
+                {
+                    "e": "Or, <i>these good tidings</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026014,
+            "text": "\u00b6 Then one of the twelve, who was called Judas Iscariot, went unto the chief priests, ",
+            "version": "ASV",
+            "clsstr": "Matt-26-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026015,
+            "text": "and said, What are ye willing to give me, and I will <i>[f]</i>deliver him unto you? And they weighed unto him thirty pieces of silver. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-15",
+            "footnotes": [
+                {
+                    "f": "See [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026016,
+            "text": "And from that time he sought opportunity to <i>[g]</i>deliver him .",
+            "version": "ASV",
+            "clsstr": "Matt-26-16",
+            "footnotes": [
+                {
+                    "g": "See [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026017,
+            "text": "\u00b6 Now on the first  of unleavened bread the disciples came to Jesus, saying, Where wilt thou that we make ready for thee to eat the passover? ",
+            "version": "ASV",
+            "clsstr": "Matt-26-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026018,
+            "text": "And he said, Go into the city to such a man, and say unto him, The Teacher saith, My time is at hand; I keep the passover at thy house with my disciples. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026019,
+            "text": "And the disciples did as Jesus appointed them; and they made ready the passover.",
+            "version": "ASV",
+            "clsstr": "Matt-26-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026020,
+            "text": "\u00b6 Now when even was come, he was <i>[h]</i>sitting at meat with the twelve <i>[i]</i>disciples; ",
+            "version": "ASV",
+            "clsstr": "Matt-26-20",
+            "footnotes": [
+                {
+                    "h": "Or, <i>reclining at table</i>"
+                },
+                {
+                    "i": "Many authorities, some ancient, omit <i>disciples</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026021,
+            "text": "and as they were eating, he said, Verily I say unto you, that one of you shall <i>[j]</i>betray me. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-21",
+            "footnotes": [
+                {
+                    "j": "See marginal note on [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026022,
+            "text": "And they were exceeding sorrowful, and began to say unto him every one, Is it I, Lord? ",
+            "version": "ASV",
+            "clsstr": "Matt-26-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026023,
+            "text": "And he answered and said, He that dipped his hand with me in the dish, the same shall <i>[k]</i>betray me. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-23",
+            "footnotes": [
+                {
+                    "k": "See marginal note on [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026024,
+            "text": "The Son of man goeth, even as it is written of him: but woe unto that man through whom the Son of man is <i>[l]</i>betrayed! good were it <i>[m]</i>for that man if he had not been born. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-24",
+            "footnotes": [
+                {
+                    "l": "See marginal note on [[10:4]]."
+                },
+                {
+                    "m": "Greek <i>for him if that man</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026025,
+            "text": "And Judas, who <i>[n]</i>betrayed him, answered and said, Is it I, Rabbi? He saith unto him, Thou hast said.",
+            "version": "ASV",
+            "clsstr": "Matt-26-25",
+            "footnotes": [
+                {
+                    "n": "See marginal note on [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026026,
+            "text": "\u00b6 And as they were eating, Jesus took <i>[o]</i>bread, and blessed, and brake it; and he gave to the disciples, and said, Take, eat; this is my body. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-26",
+            "footnotes": [
+                {
+                    "o": "Or, <i>a loaf</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026027,
+            "text": "And he took <i>[p]</i>a cup, and gave thanks, and gave to them, saying, Drink ye all of it; ",
+            "version": "ASV",
+            "clsstr": "Matt-26-27",
+            "footnotes": [
+                {
+                    "p": "Some ancient authorities read <i>the cup</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026028,
+            "text": "for this is my blood of the <i>[q]</i>covenant, which is poured out for many unto remission of sins. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-28",
+            "footnotes": [
+                {
+                    "q": "Many ancient authorities insert <i>new</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026029,
+            "text": "But I say unto you, I shall not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father\u2019s kingdom.",
+            "version": "ASV",
+            "clsstr": "Matt-26-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026030,
+            "text": "\u00b6 And when they had sung a hymn, they went out into the mount of Olives.",
+            "version": "ASV",
+            "clsstr": "Matt-26-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026031,
+            "text": "\u00b6 Then saith Jesus unto them, All ye shall be offended in me this night: for it is written, <i>[r]</i>I will smite the shepherd, and the sheep of the flock shall be scattered abroad. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-31",
+            "footnotes": [
+                {
+                    "r": "[[Zech. 13:7]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026032,
+            "text": "But after I am raised up, I will go before you into Galilee. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026033,
+            "text": "But Peter answered and said unto him, If all shall be <i>[s]</i>offended in thee, I will never be <i>[t]</i>offended. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-33",
+            "footnotes": [
+                {
+                    "s": "Greek <i>caused to stumble</i>."
+                },
+                {
+                    "t": "Greek <i>caused to stumble</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026034,
+            "text": "Jesus said unto him, Verily I say unto thee, that this night, before the cock crow, thou shalt deny me thrice. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026035,
+            "text": "Peter saith unto him, Even if I must die with thee,  will I not deny thee. Likewise also said all the disciples.",
+            "version": "ASV",
+            "clsstr": "Matt-26-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026036,
+            "text": "\u00b6 Then cometh Jesus with them unto <i>[u]</i>a place called Gethsemane, and saith unto his disciples, Sit ye here, while I go yonder and pray. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-36",
+            "footnotes": [
+                {
+                    "u": "Greek <i>an enclosed piece of ground</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026037,
+            "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and sore troubled. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026038,
+            "text": "Then saith he unto them, My soul is exceeding sorrowful, even unto death: abide ye here, and watch with me. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026039,
+            "text": "And he went forward a little, and fell on his face, and prayed, saying, My Father, if it be possible, let this cup pass away from me: nevertheless, not as I will, but as thou wilt. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026040,
+            "text": "And he cometh unto the disciples, and findeth them sleeping, and saith unto Peter, What, could ye not watch with me one hour? ",
+            "version": "ASV",
+            "clsstr": "Matt-26-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026041,
+            "text": " <i>[v]</i>Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-41",
+            "footnotes": [
+                {
+                    "v": "Or, <i>Watch ye, and pray that ye enter not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026042,
+            "text": "Again a second time he went away, and prayed, saying, My Father, if this cannot pass away, except I drink it, thy will be done. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026043,
+            "text": "And he came again and found them sleeping, for their eyes were heavy. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026044,
+            "text": "And he left them again, and went away, and prayed a third time, saying again the same words. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026045,
+            "text": "Then cometh he to the disciples, and saith unto them, <i>[w]</i>Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is <i>[x]</i>betrayed into the hands of sinners. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-45",
+            "footnotes": [
+                {
+                    "w": "Or, <i>Do ye sleep on, then, and take your rest?</i>"
+                },
+                {
+                    "x": "See marginal note on [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026046,
+            "text": "Arise, let us be going: behold, he is at hand that <i>[y]</i>betrayeth me.",
+            "version": "ASV",
+            "clsstr": "Matt-26-46",
+            "footnotes": [
+                {
+                    "y": "See marginal note on [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026047,
+            "text": "\u00b6 And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026048,
+            "text": "Now he that <i>[z]</i>betrayed him gave them a sign, saying, Whomsoever I shall kiss, that is he: take him. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-48",
+            "footnotes": [
+                {
+                    "z": "See marginal note on [[10:4]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026049,
+            "text": "And straightway he came to Jesus, and said, Hail, Rabbi; and <i>[aa]</i>kissed him. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-49",
+            "footnotes": [
+                {
+                    "aa": "Greek <i>kissed him much</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026050,
+            "text": "And Jesus said unto him, Friend,  that for which thou art come. Then they came and laid hands on Jesus, and took him. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026051,
+            "text": "And behold, one of them that were with Jesus stretched out his hand, and drew his sword, and smote the <i>[ab]</i>servant of the high priest, and struck off his ear. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-51",
+            "footnotes": [
+                {
+                    "ab": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026052,
+            "text": "Then saith Jesus unto him, Put up again thy sword into its place: for all they that take the sword shall perish with the sword. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026053,
+            "text": "Or thinkest thou that I cannot beseech my Father, and he shall even now send me more than twelve legions of angels? ",
+            "version": "ASV",
+            "clsstr": "Matt-26-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026054,
+            "text": "How then should the scriptures be fulfilled, that thus it must be? ",
+            "version": "ASV",
+            "clsstr": "Matt-26-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026055,
+            "text": "In that hour said Jesus to the multitudes, Are ye come out as against a robber with swords and staves to seize me? I sat daily in the temple teaching, and ye took me not. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026056,
+            "text": "But all this is come to pass, that the scriptures of the prophets might be fulfilled. Then all the disciples left him, and fled.",
+            "version": "ASV",
+            "clsstr": "Matt-26-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026057,
+            "text": "\u00b6 And they that had taken Jesus led him away to  Caiaphas the high priest, where the scribes and the elders were gathered together. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026058,
+            "text": "But Peter followed him afar off, unto the court of the high priest, and entered in, and sat with the officers, to see the end. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026059,
+            "text": "Now the chief priests and the whole council sought false witness against Jesus, that they might put him to death; ",
+            "version": "ASV",
+            "clsstr": "Matt-26-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026060,
+            "text": "and they found it not, though many false witnesses came. But afterward came two, ",
+            "version": "ASV",
+            "clsstr": "Matt-26-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026061,
+            "text": "and said, This man said, I am able to destroy the <i>[ac]</i>temple of God, and to build it in three days. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-61",
+            "footnotes": [
+                {
+                    "ac": "Or, <i>sanctuary</i>: as in [[23:35]]; [[27:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026062,
+            "text": "And the high priest stood up, and said unto him, Answerest thou nothing? what is it which these witness against thee? ",
+            "version": "ASV",
+            "clsstr": "Matt-26-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026063,
+            "text": "But Jesus held his peace. And the high priest said unto him, I adjure thee by the living God, that thou tell us whether thou art the Christ, the Son of God. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026064,
+            "text": "Jesus saith unto him, Thou hast said: nevertheless I say unto you, Henceforth ye shall see the Son of man sitting at the right hand of Power, and coming on the clouds of heaven. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026065,
+            "text": "Then the high priest rent his garments, saying, He hath spoken blasphemy: what further need have we of witnesses? behold, now ye have heard the blasphemy: ",
+            "version": "ASV",
+            "clsstr": "Matt-26-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026066,
+            "text": "what think ye? They answered and said, He is <i>[ad]</i>worthy of death. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-66",
+            "footnotes": [
+                {
+                    "ad": "Greek <i>liable to</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026067,
+            "text": "Then did they spit in his face and buffet him: and some smote him <i>[ae]</i>with the palms of their hands, ",
+            "version": "ASV",
+            "clsstr": "Matt-26-67",
+            "footnotes": [
+                {
+                    "ae": "Or, <i>with rods</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026068,
+            "text": "saying, Prophesy unto us, thou Christ: who is he that struck thee?",
+            "version": "ASV",
+            "clsstr": "Matt-26-68",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026069,
+            "text": "\u00b6 Now Peter was sitting without in the court: and a maid came unto him, saying, Thou also wast with Jesus the Galilaean. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-69",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026070,
+            "text": "But he denied before them all, saying, I know not what thou sayest. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-70",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026071,
+            "text": "And when he was gone out into the porch, another  saw him, and saith unto them that were there, This man also was with Jesus of Nazareth. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-71",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026072,
+            "text": "And again he denied with an oath, I know not the man. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-72",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026073,
+            "text": "And after a little while they that stood by came and said to Peter, Of a truth thou also art  of them; for thy speech maketh thee known. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-73",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026074,
+            "text": "Then began he to curse and to swear, I know not the man. And straightway the cock crew. ",
+            "version": "ASV",
+            "clsstr": "Matt-26-74",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40026075,
+            "text": "And Peter remembered the word which Jesus had said, Before the cock crow, thou shalt deny me thrice. And he went out, and wept bitterly.",
+            "version": "ASV",
+            "clsstr": "Matt-26-75",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 26
+}

@@ -1,0 +1,126 @@
+{
+  "version": "TanaIntermediateFile V0.1",
+  "attributes": [
+    {
+      "name": "Version",
+      "dataType": "any"
+    },
+    {
+      "name": "Book (abbr)",
+      "dataType": "any"
+    },
+    {
+      "name": "Book",
+      "dataType": "any"
+    },
+    {
+      "name": "Chapter",
+      "dataType": "any"
+    },
+    {
+      "name": "Starting Verse",
+      "dataType": "any"
+    },
+    {
+      "name": "Ending Verse",
+      "dataType": "any"
+    },
+    {
+      "name": "Footnotes",
+      "dataType": "any"
+    },
+    {
+      "name": "Cross References",
+      "dataType": "any"
+    }
+  ],
+  "nodes": [
+    {
+      "type": "node",
+      "uid": "1001001",
+      "name": "Genesis 1:1",
+      "supertags": [
+        "bibleverse"
+      ],
+      "children": [
+        {
+          "type": "field",
+          "uid": "1001001-book-abbr",
+          "name": "Book (abbr)",
+          "children": [
+            {
+              "type": "node",
+              "uid": "1001001-book-abbr-val",
+              "name": "Genesis"
+            }
+          ]
+        },
+        {
+          "type": "field",
+          "uid": "1001001-book-",
+          "name": "Book",
+          "children": [
+            {
+              "type": "node",
+              "uid": "1001001-book-val",
+              "name": "Genesis"
+            }
+          ]
+        },
+        {
+          "type": "field",
+          "uid": "1001001-chapter",
+          "name": "Chapter",
+          "children": [
+            {
+              "type": "node",
+              "uid": "1001001-chapter-val",
+              "name": "1"
+            }
+          ]
+        },
+        {
+          "type": "field",
+          "uid": "1001001-starting-verse",
+          "name": "Starting Verse",
+          "children": [
+            {
+              "type": "node",
+              "uid": "1001001-starting-verse-val",
+              "name": "1"
+            }
+          ]
+        },
+        {
+          "type": "field",
+          "uid": "1001001-ending_verse",
+          "name": "Ending Verse",
+          "children": [
+            {
+              "type": "node",
+              "uid": "1001001-ending-verse-val",
+              "name": "1"
+            }
+          ]
+        },
+        {
+          "type": "node",
+          "uid": "1001001-text",
+          "name": "\u00b6 In the beginning God created the heavens and the earth. "
+        },
+        {
+          "type": "field",
+          "uid": "1001001-fn",
+          "name": "Footnotes",
+          "children": []
+        }
+      ]
+    }
+  ],
+    "supertags": [
+      {
+        "uid": "bibleverse",
+        "name": "verse"
+      }
+    ]
+  }

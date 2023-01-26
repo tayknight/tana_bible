@@ -1,0 +1,299 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 48,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 18,
+            "end_book": null
+        }
+    ],
+    "book": 48,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 48001001,
+            "text": "\u00b6 Paul, an apostle (not from men, neither through <i>[a]</i>man, but through Jesus Christ, and God the Father, who raised him from the dead), ",
+            "version": "ASV",
+            "clsstr": "Gal-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001002,
+            "text": "and all the brethren that are with me, unto the churches of Galatia: ",
+            "version": "ASV",
+            "clsstr": "Gal-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001003,
+            "text": "Grace to you and peace <i>[b]</i>from God the Father, and our Lord Jesus Christ, ",
+            "version": "ASV",
+            "clsstr": "Gal-1-3",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities read <i>from God our Father, and the Lord Jesus Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001004,
+            "text": "who gave himself for our sins, that he might deliver us out of this present evil <i>[c]</i>world, according to the will of <i>[d]</i>our God and Father: ",
+            "version": "ASV",
+            "clsstr": "Gal-1-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>age</i>"
+                },
+                {
+                    "d": "Or, <i>God and our Father</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001005,
+            "text": "to whom the glory <i>[e]</i>for ever and ever. Amen.",
+            "version": "ASV",
+            "clsstr": "Gal-1-5",
+            "footnotes": [
+                {
+                    "e": "Greek <i>unto the ages of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001006,
+            "text": "\u00b6 I marvel that ye are so quickly removing from him that called you in the grace of Christ unto a different <i>[f]</i>gospel; ",
+            "version": "ASV",
+            "clsstr": "Gal-1-6",
+            "footnotes": [
+                {
+                    "f": "Greek <i>good tidings</i>. See marginal note on [[Mt. 4:23]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001007,
+            "text": " <i>[g]</i>which is not another : only there are some that trouble you, and would pervert the <i>[h]</i>gospel of Christ. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-7",
+            "footnotes": [
+                {
+                    "g": "Or, <i>which is nothing else save that there etc.</i>"
+                },
+                {
+                    "h": "Greek <i>good tidings</i>. See [[verse 6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001008,
+            "text": "But though we, or an angel from heaven, should <i>[i]</i>preach <i>[j]</i>unto you any gospel <i>[k]</i>other than that which we <i>[l]</i>preached unto you, let him be anathema. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-8",
+            "footnotes": [
+                {
+                    "i": "See marginal note on [[Mt. 11:5]]."
+                },
+                {
+                    "j": "Some ancient authorities omit <i>unto you</i>."
+                },
+                {
+                    "k": "Or, <i>contrary to that</i>"
+                },
+                {
+                    "l": "See marginal note on [[Mt. 11:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001009,
+            "text": "As we have said before, so say I now again, If any man <i>[m]</i>preacheth unto you any gospel <i>[n]</i>other than that which ye received, let him be anathema. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-9",
+            "footnotes": [
+                {
+                    "m": "See marginal note on [[Mt. 11:5]]."
+                },
+                {
+                    "n": "Or, <i>contrary to that</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001010,
+            "text": "For am I now seeking the favor of men, or of God? or am I striving to please men? if I were still pleasing men, I should not be a <i>[o]</i>servant of Christ.",
+            "version": "ASV",
+            "clsstr": "Gal-1-10",
+            "footnotes": [
+                {
+                    "o": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001011,
+            "text": "\u00b6 For I make known to you, brethren, as touching the <i>[p]</i>gospel which was <i>[q]</i>preached by me, that it is not after man. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-11",
+            "footnotes": [
+                {
+                    "p": "Greek <i>good tidings</i>. See [[verse 6]]."
+                },
+                {
+                    "q": "See marginal note on [[Mt. 11:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001012,
+            "text": "For neither did I receive it from <i>[r]</i>man, nor was I taught it, but  through revelation of Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-12",
+            "footnotes": [
+                {
+                    "r": "Or, <i>a man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001013,
+            "text": "For ye have heard of my manner of life in time past in the Jews\u2019 religion, how that beyond measure I persecuted the church of God, and made havoc of it: ",
+            "version": "ASV",
+            "clsstr": "Gal-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001014,
+            "text": "and I advanced in the Jews\u2019 religion beyond many of mine own age <i>[s]</i>among my countrymen, being more exceedingly zealous for the traditions of my fathers. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-14",
+            "footnotes": [
+                {
+                    "s": "Greek <i>in my race</i>. Compare [[2 Cor. 11:26]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001015,
+            "text": "But when it was the good pleasure of God, who separated me,  from my mother\u2019s womb, and called me through his grace, ",
+            "version": "ASV",
+            "clsstr": "Gal-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001016,
+            "text": "to reveal his Son in me, that I might <i>[t]</i>preach him among the Gentiles; straightway I conferred not with flesh and blood: ",
+            "version": "ASV",
+            "clsstr": "Gal-1-16",
+            "footnotes": [
+                {
+                    "t": "See marginal note on [[Mt. 11:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001017,
+            "text": "neither went I up to Jerusalem to them that were apostles before me: but I went away into Arabia; and again I returned unto Damascus.",
+            "version": "ASV",
+            "clsstr": "Gal-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001018,
+            "text": "\u00b6 Then after three years I went up to Jerusalem to <i>[u]</i>visit Cephas, and tarried with him fifteen days. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-18",
+            "footnotes": [
+                {
+                    "u": "Or, <i>become acquainted with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001019,
+            "text": "But other of the apostles saw I none, <i>[v]</i>save <i>[w]</i>James the Lord\u2019s brother. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-19",
+            "footnotes": [
+                {
+                    "v": "Or, <i>but only</i>"
+                },
+                {
+                    "w": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001020,
+            "text": "Now touching the things which I write unto you, behold, before God, I lie not. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001021,
+            "text": "Then I came into the regions of Syria and Cilicia. ",
+            "version": "ASV",
+            "clsstr": "Gal-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001022,
+            "text": "And I was still unknown by face unto the churches of Judaea which were in Christ: ",
+            "version": "ASV",
+            "clsstr": "Gal-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001023,
+            "text": "but they only heard say, He that once persecuted us now <i>[x]</i>preacheth the faith of which he once made havoc; ",
+            "version": "ASV",
+            "clsstr": "Gal-1-23",
+            "footnotes": [
+                {
+                    "x": "See marginal note on [[Mt. 11:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 48001024,
+            "text": "and they glorified God in me.",
+            "version": "ASV",
+            "clsstr": "Gal-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Galatians",
+    "chapters": 1
+}

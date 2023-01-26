@@ -1,0 +1,143 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19092001,
+            "text": "<b>Praise for Jehovah\u2019s goodness.</b>\n\u00b6 A Psalm, a Song for the sabbath day.\u00b6     It is a good thing to give thanks unto Jehovah,\n    And to sing praises unto thy name, O Most High;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092002,
+            "text": "    To show forth thy lovingkindness in the morning,\n    And thy faithfulness every night,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092003,
+            "text": "    With an instrument of ten strings, and with the psaltery;\n    With a solemn sound upon the harp.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092004,
+            "text": "    For thou, Jehovah, hast made me glad through thy work:\n    I will triumph in the works of thy hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092005,
+            "text": "    How great are thy works, O Jehovah!\n    Thy thoughts are very deep.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092006,
+            "text": "    A brutish man knoweth not;\n    Neither doth a fool understand this:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092007,
+            "text": "    When the wicked spring as the grass,\n    And when all the workers of iniquity do flourish;\n    It is that they shall be destroyed for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092008,
+            "text": "    But thou, O Jehovah, art on high for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092009,
+            "text": "    For, lo, thine enemies, O Jehovah,\n    For, lo, thine enemies shall perish;\n    All the workers of iniquity shall be scattered.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092010,
+            "text": "    But my horn hast thou exalted like  the wild-ox:\n    I am anointed with fresh oil.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092011,
+            "text": "  Mine eye also hath seen on <i>[a]</i>mine enemies,\n    Mine ears have heard  of the evil-doers that rise up against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-11",
+            "footnotes": [
+                {
+                    "a": "Or, <i>them that lie in wait for me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092012,
+            "text": "    The righteous shall flourish like the palm-tree:\n    He shall grow like a cedar in Lebanon.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092013,
+            "text": "    They are planted in the house of Jehovah;\n    They shall flourish in the courts of our God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092014,
+            "text": "    They shall still bring forth fruit in old age;\n    They shall be full of sap and green:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19092015,
+            "text": "    To show that Jehovah is upright;\n    He is my rock, and there is no unrighteousness in him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-92-15",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 92
+}

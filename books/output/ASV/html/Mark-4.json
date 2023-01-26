@@ -1,0 +1,366 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41004001,
+            "text": "\u00b6 And again he began to teach by the sea side. And there is gathered unto him a very great multitude, so that he entered into a boat, and sat in the sea; and all the multitude were by the sea on the land. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004002,
+            "text": "And he taught them many things in parables, and said unto them in his teaching, ",
+            "version": "ASV",
+            "clsstr": "Mark-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004003,
+            "text": "Hearken: Behold, the sower went forth to sow: ",
+            "version": "ASV",
+            "clsstr": "Mark-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004004,
+            "text": "and it came to pass, as he sowed, some  fell by the way side, and the birds came and devoured it. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004005,
+            "text": "And other fell on the rocky , where it had not much earth; and straightway it sprang up, because it had no deepness of earth: ",
+            "version": "ASV",
+            "clsstr": "Mark-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004006,
+            "text": "and when the sun was risen, it was scorched; and because it had no root, it withered away. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004007,
+            "text": "And other fell among the thorns, and the thorns grew up, and choked it, and it yielded no fruit. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004008,
+            "text": "And others fell into the good ground, and yielded fruit, growing up and increasing; and brought forth, thirtyfold, and sixtyfold, and a hundredfold. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004009,
+            "text": "And he said, Who hath ears to hear, let him hear.",
+            "version": "ASV",
+            "clsstr": "Mark-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004010,
+            "text": "\u00b6 And when he was alone, they that were about him with the twelve asked of him the parables. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004011,
+            "text": "And he said unto them, Unto you is given the mystery of the kingdom of God: but unto them that are without, all things are done in parables: ",
+            "version": "ASV",
+            "clsstr": "Mark-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004012,
+            "text": "that seeing they may see, and not perceive; and hearing they may hear, and not understand; lest haply they should turn again, and it should be forgiven them. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004013,
+            "text": "And he saith unto them, Know ye not this parable? and how shall ye know all the parables? ",
+            "version": "ASV",
+            "clsstr": "Mark-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004014,
+            "text": "The sower soweth the word. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004015,
+            "text": "And these are they by the way side, where the word is sown; and when they have heard, straightway cometh Satan, and taketh away the word which hath been sown in them. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004016,
+            "text": "And these in like manner are they that are sown upon the rocky , who, when they have heard the word, straightway receive it with joy; ",
+            "version": "ASV",
+            "clsstr": "Mark-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004017,
+            "text": "and they have no root in themselves, but endure for a while; then, when tribulation or persecution ariseth because of the word, straightway they stumble. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004018,
+            "text": "And others are they that are sown among the thorns; these are they that have heard the word, ",
+            "version": "ASV",
+            "clsstr": "Mark-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004019,
+            "text": "and the cares of the <i>[a]</i>world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-19",
+            "footnotes": [
+                {
+                    "a": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004020,
+            "text": "And those are they that were sown upon the good ground; such as hear the word, and accept it, and bear fruit, thirtyfold, and sixtyfold, and a hundredfold.",
+            "version": "ASV",
+            "clsstr": "Mark-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004021,
+            "text": "\u00b6 And he said unto them, Is the lamp brought to be put under the bushel, or under the bed,  not to be put on the stand? ",
+            "version": "ASV",
+            "clsstr": "Mark-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004022,
+            "text": "For there is nothing hid, save that it should be manifested; neither was  made secret, but that it should come to light. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004023,
+            "text": "If any man hath ears to hear, let him hear. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004024,
+            "text": "And he said unto them, Take heed what ye hear: with what measure ye mete it shall be measured unto you; and more shall be given unto you. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004025,
+            "text": "For he that hath, to him shall be given: and he that hath not, from him shall be taken away even that which he hath.",
+            "version": "ASV",
+            "clsstr": "Mark-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004026,
+            "text": "\u00b6 And he said, So is the kingdom of God, as if a man should cast seed upon the earth; ",
+            "version": "ASV",
+            "clsstr": "Mark-4-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004027,
+            "text": "and should sleep and rise night and day, and the seed should spring up and grow, he knoweth not how. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004028,
+            "text": "The earth <i>[b]</i>beareth fruit of herself; first the blade, then the ear, then the full grain in the ear. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-28",
+            "footnotes": [
+                {
+                    "b": "Or, <i>yieldeth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004029,
+            "text": "But when the fruit <i>[c]</i>is ripe, straightway he <i>[d]</i>putteth forth the sickle, because the harvest is come.",
+            "version": "ASV",
+            "clsstr": "Mark-4-29",
+            "footnotes": [
+                {
+                    "c": "Or, <i>alloweth</i>"
+                },
+                {
+                    "d": "Or, <i>sendeth forth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004030,
+            "text": "\u00b6 And he said, How shall we liken the kingdom of God? or in what parable shall we set it forth? ",
+            "version": "ASV",
+            "clsstr": "Mark-4-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004031,
+            "text": " <i>[e]</i>It is like a grain of mustard seed, which, when it is sown upon the earth, though it be less than all the seeds that are upon the earth, ",
+            "version": "ASV",
+            "clsstr": "Mark-4-31",
+            "footnotes": [
+                {
+                    "e": "Greek <i>As unto</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004032,
+            "text": "yet when it is sown, groweth up, and becometh greater than all the herbs, and putteth out great branches; so that the birds of the heaven can lodge under the shadow thereof.",
+            "version": "ASV",
+            "clsstr": "Mark-4-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004033,
+            "text": "\u00b6 And with many such parables spake he the word unto them, as they were able to hear it; ",
+            "version": "ASV",
+            "clsstr": "Mark-4-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004034,
+            "text": "and without a parable spake he not unto them: but privately to his own disciples he expounded all things.",
+            "version": "ASV",
+            "clsstr": "Mark-4-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004035,
+            "text": "\u00b6 And on that day, when even was come, he saith unto them, Let us go over unto the other side. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004036,
+            "text": "And leaving the multitude, they take him with them, even as he was, in the boat. And other boats were with him. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004037,
+            "text": "And there ariseth a great storm of wind, and the waves beat into the boat, insomuch that the boat was now filling. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004038,
+            "text": "And he himself was in the stern, asleep on the cushion: and they awake him, and say unto him, Teacher, carest thou not that we perish? ",
+            "version": "ASV",
+            "clsstr": "Mark-4-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004039,
+            "text": "And he awoke, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm. ",
+            "version": "ASV",
+            "clsstr": "Mark-4-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004040,
+            "text": "And he said unto them, Why are ye fearful? have ye not yet faith? ",
+            "version": "ASV",
+            "clsstr": "Mark-4-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41004041,
+            "text": "And they feared exceedingly, and said one to another, Who then is this, that even the wind and the sea obey him?",
+            "version": "ASV",
+            "clsstr": "Mark-4-41",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 4
+}

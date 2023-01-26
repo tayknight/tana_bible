@@ -1,0 +1,118 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19111001,
+            "text": "<b>Jehovah praised for his goodness.</b>\n\u00b6   <i>[a]</i>Praise ye Jehovah.\n    I will give thanks unto Jehovah with my whole heart,\n    In the council of the upright, and in the congregation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Hallelujah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111002,
+            "text": "    The works of Jehovah are great,\n    Sought out of all them that have pleasure therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111003,
+            "text": "    His work is honor and majesty;\n    And his righteousness endureth for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111004,
+            "text": "    He hath made his wonderful works to be remembered:\n    Jehovah is gracious and merciful.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111005,
+            "text": "  He hath given <i>[b]</i>food unto them that fear him:\n    He will ever be mindful of his covenant.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>prey</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111006,
+            "text": "    He hath showed his people the power of his works,\n    In giving them the heritage of the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111007,
+            "text": "    The works of his hands are truth and justice;\n    All his precepts are sure.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111008,
+            "text": "  They are established for ever and ever;\n  They are <i>[c]</i>done in truth and uprightness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>made</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111009,
+            "text": "    He hath sent redemption unto his people;\n    He hath commanded his covenant for ever:\n    Holy and reverend is his name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19111010,
+            "text": " The fear of Jehovah is the beginning of wisdom;\n  <i>[d]</i>A good understanding have all they that do <i>[e]</i>:\n    His praise endureth for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-111-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Good repute</i>"
+                },
+                {
+                    "e": "Hebrew <i>them</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 111
+}

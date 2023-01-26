@@ -1,0 +1,168 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 28,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 14,
+            "end_verse": 9,
+            "end_book": null
+        }
+    ],
+    "book": 28,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 28012001,
+            "text": "Ephraim feedeth on wind, and followeth after the east wind: he continually multiplieth lies and desolation; and they make a covenant with Assyria, and oil is carried into Egypt. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012002,
+            "text": "Jehovah hath also a controversy with Judah, and will <i>[a]</i>punish Jacob according to his ways; according to his doings will he recompense him. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>visit upon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012003,
+            "text": "In the womb he took his brother by the heel; and in his <i>[b]</i>manhood he <i>[c]</i>had power with God: ",
+            "version": "ASV",
+            "clsstr": "Hos-12-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>strength</i>"
+                },
+                {
+                    "c": "Or, <i>strove</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012004,
+            "text": "yea, he had power over the angel, and prevailed; he wept, and made supplication unto him: he found him at Beth-el, and there he spake with us, ",
+            "version": "ASV",
+            "clsstr": "Hos-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012005,
+            "text": " <i>[d]</i>even Jehovah, the God of hosts; Jehovah is his memorial . ",
+            "version": "ASV",
+            "clsstr": "Hos-12-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>for Jehovah is the God of hosts</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012006,
+            "text": "Therefore turn thou to thy God: keep kindness and justice, and wait for thy God continually.",
+            "version": "ASV",
+            "clsstr": "Hos-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012007,
+            "text": "\u00b6 <i>[e]</i> <i>[f]</i>a trafficker, the balances of deceit are in his hand: he loveth to <i>[g]</i>oppress. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-7",
+            "footnotes": [
+                {
+                    "e": "Or, As for <i>Canaan, the etc.</i>"
+                },
+                {
+                    "f": "Or, <i>a Canaanite</i>. Hebrew <i>Canaan</i>."
+                },
+                {
+                    "g": "Or, <i>defraud</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012008,
+            "text": "And Ephraim said, Surely I am become rich, I have found me wealth: in all my labors they shall find in me no iniquity that were sin. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012009,
+            "text": "But I am Jehovah thy God from the land of Egypt; I will yet again make thee to dwell in tents, as in the days of the solemn feast. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012010,
+            "text": "I have also spoken unto the prophets, and I have multiplied visions; and <i>[h]</i>by the ministry of the prophets have I used similitudes. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-10",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>by the hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012011,
+            "text": "Is Gilead iniquity? they are altogether false; in Gilgal they sacrifice bullocks; yea, their altars <i>[i]</i>are as heaps in the furrows of the field. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-11",
+            "footnotes": [
+                {
+                    "i": "Or, <i>shall be</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012012,
+            "text": "And Jacob fled into the field of Aram, and Israel served for a wife, and for a wife he kept . ",
+            "version": "ASV",
+            "clsstr": "Hos-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012013,
+            "text": "And by a prophet Jehovah brought Israel up out of Egypt, and by a prophet was he <i>[j]</i>preserved. ",
+            "version": "ASV",
+            "clsstr": "Hos-12-13",
+            "footnotes": [
+                {
+                    "j": "Or, <i>kept</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 28012014,
+            "text": "Ephraim hath provoked to anger most bitterly: therefore shall his blood be left upon him, and his reproach shall his Lord return unto him.",
+            "version": "ASV",
+            "clsstr": "Hos-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Hosea",
+    "chapters": 12
+}

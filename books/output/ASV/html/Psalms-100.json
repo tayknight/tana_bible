@@ -1,0 +1,74 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19100001,
+            "text": "<b>All men exhorted to praise God.</b>\n\u00b6 A Psalm <i>[a]</i>of thanksgiving.\u00b6   Make a joyful noise unto Jehovah, <i>[b]</i>all ye lands.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-100-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for the thank-offering</i>"
+                },
+                {
+                    "b": "Hebrew <i>all the earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19100002,
+            "text": "    Serve Jehovah with gladness:\n    Come before his presence with singing.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-100-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19100003,
+            "text": "  Know ye that Jehovah, he is God:\n  It is he that hath made us, <i>[c]</i>and we are his;\n    We are his people, and the sheep of his pasture.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-100-3",
+            "footnotes": [
+                {
+                    "c": "Another reading is, <i>and not we ourselves</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19100004,
+            "text": "  Enter into his gates with <i>[d]</i>thanksgiving,\n    And into his courts with praise:\n    Give thanks unto him, and bless his name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-100-4",
+            "footnotes": [
+                {
+                    "d": "Or, <i>a thank-offering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19100005,
+            "text": "    For Jehovah is good; his lovingkindness  for ever,\n    And his faithfulness unto all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-100-5",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 100
+}

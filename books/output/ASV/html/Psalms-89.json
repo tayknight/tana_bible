@@ -1,0 +1,505 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19089001,
+            "text": "<b>Jehovah\u2019s covenant with David, and Israel\u2019s afflictions.</b>\n\u00b6 Maschil of Ethan the Ezrahite.\u00b6     I will sing of the lovingkindness of Jehovah for ever:\n    With my mouth will I make known thy faithfulness to all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089002,
+            "text": "    For I have said, Mercy shall be built up for ever;\n    Thy faithfulness wilt thou establish in the very heavens.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089003,
+            "text": "\u00b6     I have made a covenant with my chosen,\n    I have sworn unto David my servant:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089004,
+            "text": "    Thy seed will I establish for ever,\n    And build up thy throne to all generations. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089005,
+            "text": "    And the heavens shall praise thy wonders, O Jehovah;\n    Thy faithfulness also in the assembly of the holy ones.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089006,
+            "text": " For who in the skies can be compared unto Jehovah?\n Who among the <i>[a]</i>sons of the <i>[b]</i>mighty is like unto Jehovah,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>sons of God</i>"
+                },
+                {
+                    "b": "Or, <i>gods</i>. See [[29:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089007,
+            "text": "    A God very terrible in the council of the holy ones,\n    And to be feared above all them that are round about him?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089008,
+            "text": "  O Jehovah God of hosts,\n  Who is a mighty one, like unto thee, O <i>[c]</i>Jehovah?\n    And thy faithfulness is round about thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-8",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Jah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089009,
+            "text": "    Thou rulest the pride of the sea:\n    When the waves thereof arise, thou stillest them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089010,
+            "text": "  Thou hast broken <i>[d]</i>Rahab in pieces, as one that is slain;\n    Thou hast scattered thine enemies with the arm of thy strength.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Egypt</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089011,
+            "text": "    The heavens are thine, the earth also is thine:\n    The world and the fulness thereof, thou hast founded them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089012,
+            "text": "    The north and the south, thou hast created them:\n    Tabor and Hermon rejoice in thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089013,
+            "text": "  Thou hast <i>[e]</i>a mighty arm;\n    Strong is thy hand, and high is thy right hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-13",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>an arm with might</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089014,
+            "text": "    Righteousness and justice are the foundation of thy throne:\n    Lovingkindness and truth go before thy face.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089015,
+            "text": "  Blessed is the people that know the <i>[f]</i>joyful sound:\n    They walk, O Jehovah, in the light of thy countenance.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>trumpet sound</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089016,
+            "text": "    In thy name do they rejoice all the day;\n    And in thy righteousness are they exalted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089017,
+            "text": "  For thou art the glory of their strength;\n  And in thy favor <i>[g]</i>our horn shall be exalted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-17",
+            "footnotes": [
+                {
+                    "g": "Another reading is, <i>thou shalt exalt our horn</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089018,
+            "text": "  For our shield belongeth unto Jehovah;\n   <i>[h]</i>And our king to the Holy One of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-18",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Even to the Holy One of Israel our King</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089019,
+            "text": "\u00b6   Then thou spakest in vision to thy <i>[i]</i>saints,\n    And saidst, I have laid help upon one that is mighty;\n    I have exalted one chosen out of the people.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-19",
+            "footnotes": [
+                {
+                    "i": "Or, as otherwise read, <i>saint</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089020,
+            "text": "    I have found David my servant;\n    With my holy oil have I anointed him:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089021,
+            "text": "    With whom my hand shall be established;\n    Mine arm also shall strengthen him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089022,
+            "text": "  The enemy shall not <i>[j]</i>exact from him,\n    Nor the son of wickedness afflict him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-22",
+            "footnotes": [
+                {
+                    "j": "Or, <i>do him violence</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089023,
+            "text": "    And I will beat down his adversaries before him,\n    And smite them that hate him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089024,
+            "text": "    But my faithfulness and my lovingkindness shall be with him;\n    And in my name shall his horn be exalted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089025,
+            "text": "    I will set his hand also on the sea,\n    And his right hand on the rivers.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089026,
+            "text": "    He shall cry unto me, Thou art my Father,\n    My God, and the rock of my salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089027,
+            "text": "    I also will make him  first-born,\n    The highest of the kings of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089028,
+            "text": "  My lovingkindness will I keep for him for evermore;\n  And my covenant shall <i>[k]</i>stand fast with him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-28",
+            "footnotes": [
+                {
+                    "k": "Or, <i>be faithful</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089029,
+            "text": "    His seed also will I make to endure for ever,\n    And his throne as the days of heaven.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089030,
+            "text": "    If his children forsake my law,\n    And walk not in mine ordinances;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089031,
+            "text": "  If they <i>[l]</i>break my statutes,\n    And keep not my commandments;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-31",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>profane</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089032,
+            "text": "    Then will I visit their transgression with the rod,\n    And their iniquity with stripes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089033,
+            "text": "    But my lovingkindness will I not utterly take from him,\n    Nor suffer my faithfulness to fail.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089034,
+            "text": "  My covenant will I not <i>[m]</i>break,\n    Nor alter the thing that is gone out of my lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-34",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>profane</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089035,
+            "text": "   <i>[n]</i>Once have I sworn by my holiness:\n    I will not lie unto David:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-35",
+            "footnotes": [
+                {
+                    "n": "Or, <i>One thing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089036,
+            "text": "    His seed shall endure for ever,\n    And his throne as the sun before me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089037,
+            "text": "  <i>[o]</i>It shall be established for ever as the moon,\n   <i>[p]</i>And  the faithful witness in the sky. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-37",
+            "footnotes": [
+                {
+                    "o": "Or, <i>As the moon which is established for ever</i>"
+                },
+                {
+                    "p": "Or, <i>And the witness in the sky is faithful</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089038,
+            "text": "\u00b6     But thou hast cast off and rejected,\n    Thou hast been wroth with thine anointed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089039,
+            "text": "    Thou hast abhorred the covenant of thy servant:\n    Thou hast profaned his crown  to the ground.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089040,
+            "text": "    Thou hast broken down all his hedges;\n    Thou hast brought his strongholds to ruin.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089041,
+            "text": "    All that pass by the way rob him:\n    He is become a reproach to his neighbors.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089042,
+            "text": "    Thou hast exalted the right hand of his adversaries;\n    Thou hast made all his enemies to rejoice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089043,
+            "text": "    Yea, thou turnest back the edge of his sword,\n    And hast not made him to stand in the battle.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089044,
+            "text": "    Thou hast made his brightness to cease,\n    And cast his throne down to the ground.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089045,
+            "text": "    The days of his youth hast thou shortened:\n    Thou hast covered him with shame. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089046,
+            "text": "    How long, O Jehovah? wilt thou hide thyself for ever?\n     shall thy wrath burn like fire?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089047,
+            "text": "    Oh remember how short my time is:\n    For what vanity hast thou created all the children of men!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089048,
+            "text": "  What man is he that shall live and not see death,\n  That shall deliver his soul from the <i>[q]</i>power of Sheol? \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-48",
+            "footnotes": [
+                {
+                    "q": "Hebrew <i>hand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089049,
+            "text": "    Lord, where are thy former lovingkindnesses,\n    Which thou swarest unto David in thy faithfulness?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089050,
+            "text": "  Remember, Lord, the reproach of thy servants;\n  How I do bear in my bosom all the <i>[r]</i>mighty peoples,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-50",
+            "footnotes": [
+                {
+                    "r": "Or, <i>many</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089051,
+            "text": "    Wherewith thine enemies have reproached, O Jehovah,\n    Wherewith they have reproached the footsteps of thine anointed.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19089052,
+            "text": "\u00b6     Blessed be Jehovah for evermore.\n    Amen, and Amen.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-89-52",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 89
+}

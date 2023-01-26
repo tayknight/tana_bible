@@ -1,0 +1,303 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18019001,
+            "text": "\u00b6 Then Job answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019002,
+            "text": "\u00b6     How long will ye vex my soul,\n    And break me in pieces with words?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019003,
+            "text": "    These ten times have ye reproached me:\n    Ye are not ashamed that ye deal hardly with me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019004,
+            "text": "    And be it indeed that I have erred,\n    Mine error remaineth with myself.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019005,
+            "text": "   <i>[a]</i>If indeed ye will magnify yourselves against me,\n    And plead against me my reproach;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Will ye indeed\u00a0.\u00a0.\u00a0. reproach?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019006,
+            "text": "  Know now that God hath <i>[b]</i>subverted me ,\n    And hath compassed me with his net.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>overthrown me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019007,
+            "text": "\u00b6   Behold, I <i>[c]</i>cry out of wrong, but I am not heard:\n    I cry for help, but there is no justice.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>cry out, Violence!</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019008,
+            "text": "    He hath walled up my way that I cannot pass,\n    And hath set darkness in my paths.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019009,
+            "text": "    He hath stripped me of my glory,\n    And taken the crown from my head.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019010,
+            "text": "    He hath broken me down on every side, and I am gone;\n    And my hope hath he plucked up like a tree.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019011,
+            "text": "    He hath also kindled his wrath against me,\n    And he counteth me unto him as  his adversaries.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019012,
+            "text": "    His troops come on together,\n    And cast up their way against me,\n    And encamp round about my tent.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019013,
+            "text": "\u00b6     He hath put my brethren far from me,\n    And mine acquaintance are wholly estranged from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019014,
+            "text": "    My kinsfolk have failed,\n    And my familiar friends have forgotten me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019015,
+            "text": "  They that <i>[d]</i>dwell in my house, and my maids, count me for a stranger:\n    I am an alien in their sight.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-15",
+            "footnotes": [
+                {
+                    "d": "Or, <i>sojourn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019016,
+            "text": "    I call unto my servant, and he giveth me no answer,\n     I entreat him with my mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019017,
+            "text": " My breath is strange to my wife,\n And <i>[e]</i>my supplication to the children <i>[f]</i>of mine own mother.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-17",
+            "footnotes": [
+                {
+                    "e": "Or, <i>I make supplication</i>. Or, <i>I am loathsome</i>"
+                },
+                {
+                    "f": "Or, <i>of my body</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019018,
+            "text": "    Even young children despise me;\n    If I arise, they speak against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019019,
+            "text": "  All <i>[g]</i>my familiar friends abhor me,\n    And they whom I loved are turned against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-19",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>the men of my council</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019020,
+            "text": "    My bone cleaveth to my skin and to my flesh,\n    And I am escaped with the skin of my teeth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019021,
+            "text": "    Have pity upon me, have pity upon me, O ye my friends;\n    For the hand of God hath touched me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019022,
+            "text": "    Why do ye persecute me as God,\n    And are not satisfied with my flesh?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019023,
+            "text": "\u00b6     Oh that my words were now written!\n    Oh that they were inscribed in a book!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019024,
+            "text": "    That with an iron pen and lead\n    They were graven in the rock for ever!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019025,
+            "text": " <i>[h]</i>But as for me I know that my <i>[i]</i>Redeemer liveth,\n  And at last he will stand up upon the <i>[j]</i>earth:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-25",
+            "footnotes": [
+                {
+                    "h": "Or, <i>For</i>"
+                },
+                {
+                    "i": "Or, <i>vindicator</i>. Hebrew <i>goel</i>."
+                },
+                {
+                    "j": "Hebrew <i>dust</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019026,
+            "text": "   <i>[k]</i>And after my skin,  this , is destroyed,\n    Then without my flesh shall I see God;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-26",
+            "footnotes": [
+                {
+                    "k": "Or, <i>And after my skin hath been thus destroyed, Yet from my flesh shall I see God</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019027,
+            "text": " Whom I, even I, shall see, <i>[l]</i>on my side,\n  And mine eyes shall behold, and not as a stranger.\n  My <i>[m]</i>heart is consumed within me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-27",
+            "footnotes": [
+                {
+                    "l": "Or, <i>for myself</i>"
+                },
+                {
+                    "m": "Hebrew <i>reins</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019028,
+            "text": "    If ye say, How we will persecute him!\n    And that the root of the matter is found in me;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18019029,
+            "text": "  Be ye afraid of the sword:\n  For <i>[n]</i>wrath  the punishments of the sword,\n    That ye may know there is a judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-19-29",
+            "footnotes": [
+                {
+                    "n": "Or, <i>wrathful are</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 19
+}

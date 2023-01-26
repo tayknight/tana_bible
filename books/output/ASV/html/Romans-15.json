@@ -1,0 +1,375 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45015001,
+            "text": "\u00b6 Now we that are strong ought to bear the infirmities of the weak, and not to please ourselves. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015002,
+            "text": "Let each one of us please his neighbor for that which is good, unto edifying. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015003,
+            "text": "For Christ also pleased not himself; but, as it is written, <i>[a]</i>The reproaches of them that reproached thee fell upon me. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-3",
+            "footnotes": [
+                {
+                    "a": "[[Ps. 69:9]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015004,
+            "text": "For whatsoever things were written aforetime were written for our learning, that through <i>[b]</i>patience and through comfort of the scriptures we might have hope. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015005,
+            "text": "Now the God of <i>[c]</i>patience and of comfort grant you to be of the same mind one with another according to Christ Jesus: ",
+            "version": "ASV",
+            "clsstr": "Rom-15-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015006,
+            "text": "that with one accord ye may with one mouth glorify <i>[d]</i>the God and Father of our Lord Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>God and the Father</i>. So [[2 Cor. 1:3]]; [[11:31]]; [[Eph. 1:3]]; [[1 Pet. 1:3]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015007,
+            "text": "Wherefore receive ye one another, even as Christ also received <i>[e]</i>you, to the glory of God. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-7",
+            "footnotes": [
+                {
+                    "e": "Some ancient authorities read <i>us</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015008,
+            "text": "For I say that Christ hath been made a minister of the circumcision for the truth of God, that he might confirm the promises  unto the fathers, ",
+            "version": "ASV",
+            "clsstr": "Rom-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015009,
+            "text": "and that the Gentiles might glorify God for his mercy; as it is written,\u00b6 <i>[f]</i>Therefore will I <i>[g]</i>give praise unto thee among the <i>[h]</i>Gentiles,\n    And sing unto thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-15-9",
+            "footnotes": [
+                {
+                    "f": "[[Ps. 18:49]] (or [[2 Sam. 22:50]])"
+                },
+                {
+                    "g": "Or, <i>confess</i>"
+                },
+                {
+                    "h": "Greek <i>nations</i>. Compare [[Mt. 4:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015010,
+            "text": "\u00b6 And again he saith,\u00b6  <i>[i]</i>Rejoice, ye <i>[j]</i>Gentiles, with his people.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-15-10",
+            "footnotes": [
+                {
+                    "i": "[[Dt. 32:43]]."
+                },
+                {
+                    "j": "Greek <i>nations</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015011,
+            "text": "\u00b6 And again,\u00b6  <i>[k]</i>Praise the Lord, all ye <i>[l]</i>Gentiles;\n    And let all the peoples praise him.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-15-11",
+            "footnotes": [
+                {
+                    "k": "[[Ps. 117:1]]."
+                },
+                {
+                    "l": "Greek <i>nations</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015012,
+            "text": "\u00b6 And again, Isaiah saith,\u00b6 <i>[m]</i>There shall be the root of Jesse,\n And he that ariseth to rule over the <i>[n]</i>Gentiles;\n  On him shall the <i>[o]</i>Gentiles hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-15-12",
+            "footnotes": [
+                {
+                    "m": "[[Isa. 11:10]]."
+                },
+                {
+                    "n": "Greek <i>nations</i>."
+                },
+                {
+                    "o": "Greek <i>nations</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015013,
+            "text": "\u00b6 Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, in the power of the Holy Spirit.",
+            "version": "ASV",
+            "clsstr": "Rom-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015014,
+            "text": "\u00b6 And I myself also am persuaded of you, my brethren, that ye yourselves are full of goodness, filled with all knowledge, able also to admonish one another. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015015,
+            "text": "But I write the more boldly unto you in some measure, as putting you again in remembrance, because of the grace that was given me of God, ",
+            "version": "ASV",
+            "clsstr": "Rom-15-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015016,
+            "text": "that I should be a minister of Christ Jesus unto the <i>[p]</i>Gentiles, <i>[q]</i>ministering the <i>[r]</i>gospel of God, that the offering up of the Gentiles might be made acceptable, being sanctified by the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-16",
+            "footnotes": [
+                {
+                    "p": "Greek <i>nations</i>."
+                },
+                {
+                    "q": "Greek <i>ministering in sacrifice</i>."
+                },
+                {
+                    "r": "See marginal note on [[1:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015017,
+            "text": "I have therefore my glorying in Christ Jesus in things pertaining to God. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015018,
+            "text": "For I will not dare to speak of any <i>[s]</i>things save those which Christ wrought through me, for the obedience of the <i>[t]</i>Gentiles, by word and deed, ",
+            "version": "ASV",
+            "clsstr": "Rom-15-18",
+            "footnotes": [
+                {
+                    "s": "Greek <i>of those things which Christ wrought not through me</i>."
+                },
+                {
+                    "t": "Greek <i>nations</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015019,
+            "text": "in the power of signs and wonders, in the power of <i>[u]</i>the Holy Spirit; so that from Jerusalem, and round about even unto Illyricum, I have <i>[v]</i>fully preached the <i>[w]</i>gospel of Christ; ",
+            "version": "ASV",
+            "clsstr": "Rom-15-19",
+            "footnotes": [
+                {
+                    "u": "Many ancient authorities read <i>the Spirit of God</i>. One reads <i>the Spirit</i>."
+                },
+                {
+                    "v": "Greek <i>fulfilled</i>. Compare [[Col. 1:25]]."
+                },
+                {
+                    "w": "See marginal note on [[1:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015020,
+            "text": "yea, <i>[x]</i>making it my aim so to <i>[y]</i>preach the gospel, not where Christ was  named, that I might not build upon another man\u2019s foundation; ",
+            "version": "ASV",
+            "clsstr": "Rom-15-20",
+            "footnotes": [
+                {
+                    "x": "Greek <i>being ambitious</i>. [[2 Cor. 5:9]]; [[1 Th. 4:11]]."
+                },
+                {
+                    "y": "See marginal note on [[1:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015021,
+            "text": "but, as it is written,\u00b6   <i>[z]</i>They shall see, to whom no tidings of him came,\n    And they who have not heard shall understand.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-15-21",
+            "footnotes": [
+                {
+                    "z": "[[Isa. 52:15]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015022,
+            "text": "\u00b6 Wherefore also I was hindered these many times from coming to you: ",
+            "version": "ASV",
+            "clsstr": "Rom-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015023,
+            "text": "but now, having no more any place in these regions, and having these many years a longing to come unto you, ",
+            "version": "ASV",
+            "clsstr": "Rom-15-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015024,
+            "text": "whensoever I go unto Spain (for I hope to see you in my journey, and to be brought on my way thitherward by you, if first in some measure I shall have been satisfied with your company)\u2014",
+            "version": "ASV",
+            "clsstr": "Rom-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015025,
+            "text": "but now, , I go unto Jerusalem, ministering unto the saints. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015026,
+            "text": "For it hath been the good pleasure of Macedonia and Achaia to make a certain contribution for the poor among the saints that are at Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015027,
+            "text": "Yea, it hath been their good pleasure; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, they owe it  also to minister unto them in carnal things. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015028,
+            "text": "When therefore I have accomplished this, and have sealed to them this fruit, I will go on by you unto Spain. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015029,
+            "text": "And I know that, when I come unto you, I shall come in the fulness of the blessing of Christ.",
+            "version": "ASV",
+            "clsstr": "Rom-15-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015030,
+            "text": "\u00b6 Now I beseech you, brethren, by our Lord Jesus Christ, and by the love of the Spirit, that ye strive together with me in your prayers to God for me; ",
+            "version": "ASV",
+            "clsstr": "Rom-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015031,
+            "text": "that I may be delivered from them that are disobedient in Judaea, and  my ministration which  for Jerusalem may be acceptable to the saints; ",
+            "version": "ASV",
+            "clsstr": "Rom-15-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015032,
+            "text": "that I may come unto you in joy through the will of God, and together with you find rest. ",
+            "version": "ASV",
+            "clsstr": "Rom-15-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45015033,
+            "text": "Now the God of peace be with you all. Amen.",
+            "version": "ASV",
+            "clsstr": "Rom-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 15
+}

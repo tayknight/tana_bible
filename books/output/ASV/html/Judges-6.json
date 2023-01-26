@@ -1,0 +1,397 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 7,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 7,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 7006001,
+            "text": "\u00b6 And the children of Israel did that which was evil in the sight of Jehovah: and Jehovah delivered them into the hand of Midian seven years. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006002,
+            "text": "And the hand of Midian prevailed against Israel; and because of Midian the children of Israel made them the dens which are in the mountains, and the caves, and the strongholds. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006003,
+            "text": "And so it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east; they came up against them; ",
+            "version": "ASV",
+            "clsstr": "Judg-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006004,
+            "text": "and they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance in Israel, neither sheep, nor ox, nor ass. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006005,
+            "text": "For they came up with their cattle and their tents; they came in as locusts for multitude; both they and their camels were without number: and they came into the land to destroy it. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006006,
+            "text": "And Israel was brought very low because of Midian; and the children of Israel cried unto Jehovah.",
+            "version": "ASV",
+            "clsstr": "Judg-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006007,
+            "text": "\u00b6 And it came to pass, when the children of Israel cried unto Jehovah because of Midian, ",
+            "version": "ASV",
+            "clsstr": "Judg-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006008,
+            "text": "that Jehovah sent a prophet unto the children of Israel: and he said unto them, Thus saith Jehovah, the God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage; ",
+            "version": "ASV",
+            "clsstr": "Judg-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006009,
+            "text": "and I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drove them out from before you, and gave you their land; ",
+            "version": "ASV",
+            "clsstr": "Judg-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006010,
+            "text": "and I said unto you, I am Jehovah your God; ye shall not fear the gods of the Amorites, in whose land ye dwell. But ye have not hearkened unto my voice.",
+            "version": "ASV",
+            "clsstr": "Judg-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006011,
+            "text": "\u00b6 And the angel of Jehovah came, and sat under the <i>[a]</i>oak which was in Ophrah, that pertained unto Joash the Abiezrite: and his son Gideon was beating out wheat in the winepress, to hide it from the Midianites. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-11",
+            "footnotes": [
+                {
+                    "a": "Or, <i>terebinth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006012,
+            "text": "And the angel of Jehovah appeared unto him, and said unto him, Jehovah is with thee, thou mighty man of valor. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006013,
+            "text": "And Gideon said unto him, Oh, my lord, if Jehovah is with us, why then is all this befallen us? and where are all his wondrous works which our fathers told us of, saying, Did not Jehovah bring us up from Egypt? but now Jehovah hath cast us off, and delivered us into the hand of Midian. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006014,
+            "text": "And Jehovah <i>[b]</i>looked upon him, and said, Go in this thy might, and save Israel from the hand of Midian: have not I sent thee? ",
+            "version": "ASV",
+            "clsstr": "Judg-6-14",
+            "footnotes": [
+                {
+                    "b": "Or, <i>turned towards</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006015,
+            "text": "And he said unto him, Oh, Lord, wherewith shall I save Israel? behold, my <i>[c]</i>family is the poorest in Manasseh, and I am the least in my father\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-15",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>thousand</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006016,
+            "text": "And Jehovah said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006017,
+            "text": "And he said unto him, If now I have found favor in thy sight, then show me a sign that it is thou that talkest with me. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006018,
+            "text": "Depart not hence, I pray thee, until I come unto thee, and bring forth my <i>[d]</i>present, and lay it before thee. And he said, I will tarry until thou come again.",
+            "version": "ASV",
+            "clsstr": "Judg-6-18",
+            "footnotes": [
+                {
+                    "d": "Or, <i>offering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006019,
+            "text": "\u00b6 And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of meal: the flesh he put in a basket, and he put the broth in a pot, and brought it out unto him under the <i>[e]</i>oak, and presented it. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>terebinth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006020,
+            "text": "And the angel of God said unto him, Take the flesh and the unleavened cakes, and lay them upon this rock, and pour out the broth. And he did so. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006021,
+            "text": "Then the angel of Jehovah put forth the end of the staff that was in his hand, and touched the flesh and the unleavened cakes; and there went up fire out of the rock, and consumed the flesh and the unleavened cakes; and the angel of Jehovah departed out of his sight. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006022,
+            "text": "And Gideon saw that he was the angel of Jehovah; and Gideon said, Alas, O Lord Jehovah! forasmuch as I have seen the angel of Jehovah face to face. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006023,
+            "text": "And Jehovah said unto him, Peace be unto thee; fear not: thou shalt not die. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006024,
+            "text": "Then Gideon built an altar there unto Jehovah, and called it <i>[f]</i>Jehovah-shalom: unto this day it is yet in Ophrah of the Abiezrites.",
+            "version": "ASV",
+            "clsstr": "Judg-6-24",
+            "footnotes": [
+                {
+                    "f": "That is, <i>Jehovah is peace</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006025,
+            "text": "\u00b6 And it came to pass the same night, that Jehovah said unto him, Take thy father\u2019s bullock, <i>[g]</i>even the second bullock seven years old, and throw down the altar of Baal that thy father hath, and cut down the Asherah that is <i>[h]</i>by it; ",
+            "version": "ASV",
+            "clsstr": "Judg-6-25",
+            "footnotes": [
+                {
+                    "g": "Or, <i>and</i>"
+                },
+                {
+                    "h": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006026,
+            "text": "and build an altar unto Jehovah thy God upon the top of this stronghold, <i>[i]</i>in the orderly manner, and take the second bullock, and offer a burnt-offering with the wood of the Asherah which thou shalt cut down. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-26",
+            "footnotes": [
+                {
+                    "i": "Or, <i>with that pertaining to it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006027,
+            "text": "Then Gideon took ten men of his servants, and did as Jehovah had spoken unto him: and it came to pass, because he feared his father\u2019s household and the men of the city, so that he could not do it by day, that he did it by night.",
+            "version": "ASV",
+            "clsstr": "Judg-6-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006028,
+            "text": "\u00b6 And when the men of the city arose early in the morning, behold, the altar of Baal was broken down, and the Asherah was cut down that was <i>[j]</i>by it, and the second bullock was offered upon the altar that was built. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-28",
+            "footnotes": [
+                {
+                    "j": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006029,
+            "text": "And they said one to another, Who hath done this thing? And when they inquired and asked, they said, Gideon the son of Joash hath done this thing. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006030,
+            "text": "Then the men of the city said unto Joash, Bring out thy son, that he may die, because he hath broken down the altar of Baal, and because he hath cut down the Asherah that was <i>[k]</i>by it. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-30",
+            "footnotes": [
+                {
+                    "k": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006031,
+            "text": "And Joash said unto all that stood against him, Will ye contend for Baal? or will ye save him? he that will contend for him, <i>[l]</i>let him be put to death <i>[m]</i>whilst  morning: if he be a god, let him contend for himself, because one hath broken down his altar. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-31",
+            "footnotes": [
+                {
+                    "l": "Or, <i>shall be put to death:</i> let be <i>till morning; if etc.</i>"
+                },
+                {
+                    "m": "Or, <i>before morning</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006032,
+            "text": "Therefore on that day he called him <i>[n]</i>Jerubbaal, saying, Let Baal contend against him, because he hath broken down his altar.",
+            "version": "ASV",
+            "clsstr": "Judg-6-32",
+            "footnotes": [
+                {
+                    "n": "That is, <i>Let Baal contend</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006033,
+            "text": "\u00b6 Then all the Midianites and the Amalekites and the children of the east assembled themselves together; and they passed over, and encamped in the valley of Jezreel. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006034,
+            "text": "But the Spirit of Jehovah <i>[o]</i>came upon Gideon; and he blew a trumpet; and Abiezer was gathered together after him. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-34",
+            "footnotes": [
+                {
+                    "o": "Hebrew <i>clothed itself with</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006035,
+            "text": "And he sent messengers throughout all Manasseh; and they also were gathered together after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them.",
+            "version": "ASV",
+            "clsstr": "Judg-6-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006036,
+            "text": "\u00b6 And Gideon said unto God, If thou wilt save Israel by my hand, as thou hast spoken, ",
+            "version": "ASV",
+            "clsstr": "Judg-6-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006037,
+            "text": "behold, I will put a fleece of wool on the threshing-floor; if there be dew on the fleece only, and it be dry upon all the ground, then shall I know that thou wilt save Israel by my hand, as thou hast spoken. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006038,
+            "text": "And it was so; for he rose up early on the morrow, and pressed the fleece together, and wrung the dew out of the fleece, a bowlful of water. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006039,
+            "text": "And Gideon said unto God, Let not thine anger be kindled against me, and I will speak but this once: let me make trial, I pray thee, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew. ",
+            "version": "ASV",
+            "clsstr": "Judg-6-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7006040,
+            "text": "And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground.",
+            "version": "ASV",
+            "clsstr": "Judg-6-40",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Judges",
+    "chapters": 6
+}

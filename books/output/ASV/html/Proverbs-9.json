@@ -1,0 +1,178 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20009001,
+            "text": "\u00b6     Wisdom hath builded her house;\n    She hath hewn out her seven pillars:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009002,
+            "text": "    She hath killed her beasts; she hath mingled her wine;\n    She hath also furnished her table:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009003,
+            "text": "    She hath sent forth her maidens;\n    She crieth upon the highest places of the city:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009004,
+            "text": "    Whoso is simple, let him turn in hither:\n    As for him that is void of understanding, she saith to him,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009005,
+            "text": "    Come, eat ye of my bread,\n    And drink of the wine which I have mingled.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009006,
+            "text": "   <i>[a]</i>Leave off, ye simple ones, and live;\n    And walk in the way of understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Forsake the simple</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009007,
+            "text": "\u00b6     He that correcteth a scoffer getteth to himself reviling;\n    And he that reproveth a wicked man  himself a blot.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009008,
+            "text": "    Reprove not a scoffer, lest he hate thee:\n    Reprove a wise man, and he will love thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009009,
+            "text": "    Give  to a wise man, and he will be yet wiser:\n    Teach a righteous man, and he will increase in learning.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009010,
+            "text": "    The fear of Jehovah is the beginning of wisdom;\n    And the knowledge of the Holy One is understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009011,
+            "text": "    For by me thy days shall be multiplied,\n    And the years of thy life shall be increased.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009012,
+            "text": "    If thou art wise, thou art wise for thyself;\n    And if thou scoffest, thou alone shalt bear it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009013,
+            "text": "\u00b6  <i>[b]</i>The foolish woman is clamorous;\n   <i>[c]</i>simple, and knoweth nothing.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-13",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Folly</i>"
+                },
+                {
+                    "c": "Hebrew <i>simplicity</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009014,
+            "text": "    And she sitteth at the door of her house,\n    On a seat in the high places of the city,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009015,
+            "text": "    To call to them that pass by,\n    Who go right on their ways:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009016,
+            "text": "    Whoso is simple, let him turn in hither;\n    And as for him that is void of understanding, she saith to him,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009017,
+            "text": "    Stolen waters are sweet,\n    And bread  in secret is pleasant.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20009018,
+            "text": "  But he knoweth not that <i>[d]</i>the dead are there;\n    That her guests are in the depths of Sheol.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-9-18",
+            "footnotes": [
+                {
+                    "d": "Or, <i>the shades</i>. Hebrew <i>Rephaim</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 9
+}

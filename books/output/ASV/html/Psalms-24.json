@@ -1,0 +1,107 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19024001,
+            "text": "<b>The King of Glory entering Zion.</b>\n\u00b6 A Psalm of David.\u00b6     The earth is Jehovah\u2019s, and the fulness thereof;\n    The world, and they that dwell therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024002,
+            "text": "    For he hath founded it upon the seas,\n    And established it upon the floods.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024003,
+            "text": "    Who shall ascend into the hill of Jehovah?\n    And who shall stand in his holy place?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024004,
+            "text": "    He that hath clean hands, and a pure heart;\n    Who hath not lifted up his soul unto falsehood,\n    And hath not sworn deceitfully.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024005,
+            "text": "    He shall receive a blessing from Jehovah,\n    And righteousness from the God of his salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024006,
+            "text": "    This is the generation of them that seek after him,\n    That seek thy face,  Jacob. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024007,
+            "text": "\u00b6   Lift up your heads, O ye gates;\n  And be ye lifted up, ye <i>[a]</i>everlasting doors:\n    And the King of glory will come in.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-7",
+            "footnotes": [
+                {
+                    "a": "Or, <i>ancient</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024008,
+            "text": "    Who is the King of glory?\n    Jehovah strong and mighty,\n    Jehovah mighty in battle.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024009,
+            "text": "  Lift up your heads, O ye gates;\n  Yea, lift them up, ye <i>[b]</i>everlasting doors:\n    And the King of glory will come in.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>ancient</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19024010,
+            "text": "    Who is this King of glory?\n    Jehovah of hosts,\n    He is the King of glory. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 24
+}

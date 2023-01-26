@@ -1,0 +1,219 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 54,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 54,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 54001001,
+            "text": "\u00b6 Paul, an apostle of Christ Jesus according to the commandment of God our Saviour, and Christ Jesus our hope; ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001002,
+            "text": "unto Timothy, my true child in faith: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.",
+            "version": "ASV",
+            "clsstr": "1Tim-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001003,
+            "text": "\u00b6 As I exhorted thee to tarry at Ephesus, when I was going into Macedonia, that thou mightest charge certain men not to teach a different doctrine, ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001004,
+            "text": "neither to give heed to fables and endless genealogies, which minister questionings, rather than a <i>[a]</i>dispensation of God which is in faith; . ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stewardship</i>. See [[1 Cor. 9:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001005,
+            "text": "But the end of the charge is love out of a pure heart and a good conscience and faith unfeigned: ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001006,
+            "text": "from which things some having <i>[b]</i>swerved have turned aside unto vain talking; ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-6",
+            "footnotes": [
+                {
+                    "b": "Greek <i>missed the mark</i>. [[6:21]]; [[2 Tim. 2:18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001007,
+            "text": "desiring to be teachers of the law, though they understand neither what they say, nor whereof they confidently affirm. ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001008,
+            "text": "But we know that the law is good, if a man use it lawfully, ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001009,
+            "text": "as knowing this, that law is not made for a righteous man, but for the lawless and unruly, for the ungodly and sinners, for the unholy and profane, for <i>[c]</i>murderers of fathers and <i>[d]</i>murderers of mothers, for manslayers, ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>smiters</i>"
+                },
+                {
+                    "d": "Or, <i>smiters</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001010,
+            "text": "for fornicators, for abusers of themselves with men, for menstealers, for liars, for false swearers, and if there be any other thing contrary to the <i>[e]</i>sound <i>[f]</i>doctrine; ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-10",
+            "footnotes": [
+                {
+                    "e": "Greek <i>healthful</i>."
+                },
+                {
+                    "f": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001011,
+            "text": "according to the <i>[g]</i>gospel of the glory of the blessed God, which was committed to my trust.",
+            "version": "ASV",
+            "clsstr": "1Tim-1-11",
+            "footnotes": [
+                {
+                    "g": "Greek <i>good tidings</i>. See [[Mt. 4:23]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001012,
+            "text": "\u00b6 I thank him that <i>[h]</i>enabled me,  Christ Jesus our Lord, for that he counted me faithful, appointing me to  service; ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-12",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities read <i>enableth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001013,
+            "text": "though I was before a blasphemer, and a persecutor, and injurious: howbeit I obtained mercy, because I did it ignorantly in unbelief; ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001014,
+            "text": "and the grace of our Lord abounded exceedingly with faith and love which is in Christ Jesus. ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001015,
+            "text": "Faithful is the saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief: ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001016,
+            "text": "howbeit for this cause I obtained mercy, that in me as chief might Jesus Christ show forth all his longsuffering, for an ensample of them that should thereafter believe on him unto eternal life. ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001017,
+            "text": "Now unto the King <i>[i]</i>eternal, <i>[j]</i>immortal, invisible, the only God, honor and glory <i>[k]</i>for ever and ever. Amen.",
+            "version": "ASV",
+            "clsstr": "1Tim-1-17",
+            "footnotes": [
+                {
+                    "i": "Greek <i>of the ages</i>. Compare [[Heb. 1:2]]; [[Rev. 15:3]]."
+                },
+                {
+                    "j": "Greek <i>incorruptible</i>."
+                },
+                {
+                    "k": "Greek <i>unto the ages of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001018,
+            "text": "\u00b6 This charge I commit unto thee, my child Timothy, according to the prophecies which led the way to thee, that by them thou mayest war the good warfare; ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001019,
+            "text": "holding faith and a good conscience; which some having thrust from them made shipwreck concerning the faith: ",
+            "version": "ASV",
+            "clsstr": "1Tim-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 54001020,
+            "text": "of whom is Hymenaeus and Alexander; whom I delivered unto Satan, that they might be taught not to blaspheme.",
+            "version": "ASV",
+            "clsstr": "1Tim-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Timothy",
+    "chapters": 1
+}

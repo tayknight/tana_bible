@@ -1,0 +1,326 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20016001,
+            "text": "\u00b6     The plans of the heart belong to man;\n    But the answer of the tongue is from Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016002,
+            "text": "    All the ways of a man are clean in his own eyes;\n    But Jehovah weigheth the spirits.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016003,
+            "text": "   <i>[a]</i>Commit thy works unto Jehovah,\n    And thy purposes shall be established.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Roll</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016004,
+            "text": "  Jehovah hath made everything for <i>[b]</i>its own end;\n    Yea, even the wicked for the day of evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>his own purpose</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016005,
+            "text": "    Every one that is proud in heart is an abomination to Jehovah:\n     hand  in hand, he shall not be unpunished.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016006,
+            "text": "    By mercy and truth iniquity is atoned for;\n    And by the fear of Jehovah men depart from evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016007,
+            "text": "    When a man\u2019s ways please Jehovah,\n    He maketh even his enemies to be at peace with him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016008,
+            "text": "    Better is a little, with righteousness,\n    Than great revenues with injustice.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016009,
+            "text": "    A man\u2019s heart deviseth his way;\n    But Jehovah directeth his steps.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016010,
+            "text": "   <i>[c]</i>A divine sentence is in the lips of the king;\n    His mouth shall not transgress in judgment.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-10",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Divination</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016011,
+            "text": "    A just balance and scales are Jehovah\u2019s;\n    All the weights of the bag are his work.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016012,
+            "text": "    It is an abomination to kings to commit wickedness;\n    For the throne is established by righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016013,
+            "text": "    Righteous lips are the delight of kings;\n    And they love him that speaketh right.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016014,
+            "text": "    The wrath of a king is  messengers of death;\n    But a wise man will pacify it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016015,
+            "text": "    In the light of the king\u2019s countenance is life;\n    And his favor is as a cloud of the latter rain.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016016,
+            "text": "    How much better is it to get wisdom than gold!\n    Yea, to get understanding is rather to be chosen than silver.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016017,
+            "text": "    The highway of the upright is to depart from evil:\n    He that keepeth his way preserveth his soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016018,
+            "text": "    Pride  before destruction,\n    And a haughty spirit before a fall.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016019,
+            "text": "  Better it is to be of a lowly spirit with the <i>[d]</i>poor,\n    Than to divide the spoil with the proud.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-19",
+            "footnotes": [
+                {
+                    "d": "Or, <i>meek</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016020,
+            "text": "  He that <i>[e]</i>giveth heed unto the word shall find good;\n    And whoso trusteth in Jehovah, happy is he.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-20",
+            "footnotes": [
+                {
+                    "e": "Or, <i>handleth a matter wisely</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016021,
+            "text": "    The wise in heart shall be called prudent;\n    And the sweetness of the lips increaseth learning.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016022,
+            "text": "    Understanding is a well-spring of life unto him that hath it;\n    But the correction of fools is  folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016023,
+            "text": "    The heart of the wise instructeth his mouth,\n    And addeth learning to his lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016024,
+            "text": "    Pleasant words are  a honeycomb,\n    Sweet to the soul, and health to the bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016025,
+            "text": "  There is a way which <i>[f]</i>seemeth right unto a man,\n    But the end thereof are the ways of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-25",
+            "footnotes": [
+                {
+                    "f": "Or, <i>is straight before</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016026,
+            "text": "    The appetite of the laboring man laboreth for him;\n    For his mouth urgeth him .\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016027,
+            "text": "  A worthless man <i>[g]</i>deviseth mischief;\n    And in his lips there is as a scorching fire.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-27",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>diggeth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016028,
+            "text": "  A perverse man scattereth abroad strife;\n  And a whisperer <i>[h]</i>separateth chief friends.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-28",
+            "footnotes": [
+                {
+                    "h": "Or, <i>alienateth his friend</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016029,
+            "text": "    A man of violence enticeth his neighbor,\n    And leadeth him in a way that is not good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016030,
+            "text": "   <i>[i]</i>He that shutteth his eyes,  to devise perverse things:\n    He that compresseth his lips bringeth evil to pass.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-30",
+            "footnotes": [
+                {
+                    "i": "Or, <i>He that shutteth his eyes to devise perverse things, That compresseth his lips, bringeth etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016031,
+            "text": " The hoary head is a crown of <i>[j]</i>glory;\n   <i>[k]</i>It shall be found in the way of righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-31",
+            "footnotes": [
+                {
+                    "j": "Or, <i>beauty</i>"
+                },
+                {
+                    "k": "Or, If <i>it be found</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016032,
+            "text": "    He that is slow to anger is better than the mighty;\n    And he that ruleth his spirit, than he that taketh a city.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20016033,
+            "text": "    The lot is cast into the lap;\n    But the whole disposing thereof is of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-16-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 16
+}

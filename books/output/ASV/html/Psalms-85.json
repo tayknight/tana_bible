@@ -1,0 +1,135 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19085001,
+            "text": "<b>Prayer for God\u2019s mercy upon the nation.</b>\n\u00b6 For the Chief Musician. A Psalm of the sons of Korah.\u00b6   Jehovah, thou hast been favorable unto thy land;\n  Thou hast <i>[a]</i>brought back the captivity of Jacob.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>returned to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085002,
+            "text": "    Thou hast forgiven the iniquity of thy people;\n    Thou hast covered all their sin. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085003,
+            "text": "    Thou hast taken away all thy wrath;\n    Thou hast turned  from the fierceness of thine anger.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085004,
+            "text": "   <i>[b]</i>Turn us, O God of our salvation,\n    And cause thine indignation toward us to cease.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>Turn to us</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085005,
+            "text": "    Wilt thou be angry with us for ever?\n    Wilt thou draw out thine anger to all generations?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085006,
+            "text": "    Wilt thou not quicken us again,\n    That thy people may rejoice in thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085007,
+            "text": "    Show us thy lovingkindness, O Jehovah,\n    And grant us thy salvation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085008,
+            "text": "    I will hear what God Jehovah will speak;\n    For he will speak peace unto his people, and to his saints:\n    But let them not turn again to folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085009,
+            "text": "    Surely his salvation is nigh them that fear him,\n    That glory may dwell in our land.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085010,
+            "text": "    Mercy and truth are met together;\n    Righteousness and peace have kissed each other.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085011,
+            "text": "    Truth springeth out of the earth;\n    And righteousness hath looked down from heaven.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085012,
+            "text": "    Yea, Jehovah will give that which is good;\n    And our land shall yield its increase.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19085013,
+            "text": "  Righteousness shall go before him,\n  And shall <i>[c]</i>make his footsteps a way .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-85-13",
+            "footnotes": [
+                {
+                    "c": "Or, <i>set</i> us <i>in the way of his steps</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 85
+}

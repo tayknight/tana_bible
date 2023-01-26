@@ -1,0 +1,348 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20030001,
+            "text": "\u00b6 The words of Agur the son of <i>[a]</i>Jakeh; the <i>[b]</i>oracle.\u00b6   The man saith <i>[c]</i>unto Ithiel, unto Ithiel and Ucal:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Jakeh, of Massa</i>. See [[Gen. 25:14]]."
+                },
+                {
+                    "b": "Or, <i>burden</i>"
+                },
+                {
+                    "c": "Or, as otherwise read, <i>I have wearied myself, O God, I have wearied myself, O God, and am consumed: For I am etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030002,
+            "text": "    Surely I am more brutish than any man,\n    And have not the understanding of a man;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030003,
+            "text": "  And I have not learned wisdom,\n   <i>[d]</i>Neither have I the knowledge of the Holy One.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>That I should have the knowledge etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030004,
+            "text": "    Who hath ascended up into heaven, and descended?\n    Who hath gathered the wind in his fists?\n    Who hath bound the waters in his garment?\n    Who hath established all the ends of the earth?\n    What is his name, and what is his son\u2019s name, if thou knowest?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030005,
+            "text": "\u00b6   Every word of God is <i>[e]</i>tried:\n    He is a shield unto them that take refuge in him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-5",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>purified</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030006,
+            "text": "    Add thou not unto his words,\n    Lest he reprove thee, and thou be found a liar.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030007,
+            "text": "\u00b6     Two things have I asked of thee;\n    Deny me  not before I die:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030008,
+            "text": "  Remove far from me falsehood and lies;\n  Give me neither poverty nor riches;\n  Feed me with <i>[f]</i>the food that is needful for me:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-8",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>the bread of my portion</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030009,
+            "text": "  Lest I be full, and deny , and say, Who is Jehovah?\n  Or lest I be poor, and steal,\n  And <i>[g]</i>use profanely the name of my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-9",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>handle the name</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030010,
+            "text": "\u00b6     Slander not a servant unto his master,\n    Lest he curse thee, and thou be held guilty.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030011,
+            "text": "\u00b6     There is a generation that curse their father,\n    And bless not their mother.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030012,
+            "text": "    There is a generation that are pure in their own eyes,\n    And  are not washed from their filthiness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030013,
+            "text": "    There is a generation, oh how lofty are their eyes!\n    And their eyelids are lifted up.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030014,
+            "text": "    There is a generation whose teeth are  swords, and their jaw teeth  knives,\n    To devour the poor from off the earth, and the needy from among men.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030015,
+            "text": "\u00b6  The <i>[h]</i>horseleach hath two daughters, <i>[i]</i>, Give, give.\n    There are three things that are never satisfied,\n    , four that say not, Enough:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>vampire</i>"
+                },
+                {
+                    "i": "Or, called"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030016,
+            "text": "    Sheol; and the barren womb;\n    The earth that is not satisfied with water;\n    And the fire that saith not, Enough.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030017,
+            "text": " The eye that mocketh at his father,\n And despiseth to obey his mother,\n The ravens of <i>[j]</i>the valley shall pick it out,\n  And the <i>[k]</i>young eagles shall eat it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-17",
+            "footnotes": [
+                {
+                    "j": "Or, <i>the brook</i>"
+                },
+                {
+                    "k": "Or, <i>vultures</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030018,
+            "text": "\u00b6     There are three things which are too wonderful for me,\n    Yea, four which I know not:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030019,
+            "text": "    The way of an eagle in the air;\n    The way of a serpent upon a rock;\n    The way of a ship in the midst of the sea;\n    And the way of a man with a maiden.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030020,
+            "text": "    So is the way of an adulterous woman;\n    She eateth, and wipeth her mouth,\n    And saith, I have done no wickedness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030021,
+            "text": "\u00b6   <i>[l]</i>For three things the earth doth tremble,\n    And for four,  it cannot bear:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-21",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>Under</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030022,
+            "text": "    For a servant when he is king;\n    And a fool when he is filled with food;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030023,
+            "text": "    For an odious woman when she is married;\n    And a handmaid that is heir to her mistress.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030024,
+            "text": "\u00b6     There are four things which are little upon the earth,\n    But they are exceeding wise:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030025,
+            "text": "    The ants are a people not strong,\n    Yet they provide their food in the summer;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030026,
+            "text": "    The conies are but a feeble folk,\n    Yet make they their houses in the rocks;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030027,
+            "text": "    The locusts have no king,\n    Yet go they forth all of them by bands;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030028,
+            "text": "  The lizard <i>[m]</i>taketh hold with her hands,\n    Yet is she in kings\u2019 palaces.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-28",
+            "footnotes": [
+                {
+                    "m": "Or, <i>thou canst seize with thy hands</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030029,
+            "text": "\u00b6     There are three things which are stately in their march,\n    Yea, four which are stately in going:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030030,
+            "text": "    The lion, which is mightiest among beasts,\n    And turneth not away for any;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030031,
+            "text": " The <i>[n]</i>greyhound; the he-goat also;\n  And the king <i>[o]</i>against whom there is no rising up.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-31",
+            "footnotes": [
+                {
+                    "n": "Or, <i>war-horse</i> Hebrew <i>well girt</i> (or, <i>well knit</i>) <i>in the loins</i>."
+                },
+                {
+                    "o": "Or, <i>when his army is with him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030032,
+            "text": "    If thou hast done foolishly in lifting up thyself,\n    Or if thou hast thought evil,\n     thy hand upon thy mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20030033,
+            "text": " For the <i>[p]</i>churning of milk bringeth forth butter,\n And the <i>[q]</i>wringing of the nose bringeth forth blood;\n  So the <i>[r]</i>forcing of wrath bringeth forth strife.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-30-33",
+            "footnotes": [
+                {
+                    "p": "Hebrew <i>pressing</i>."
+                },
+                {
+                    "q": "Hebrew <i>pressing</i>."
+                },
+                {
+                    "r": "Hebrew <i>pressing</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 30
+}

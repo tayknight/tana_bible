@@ -1,0 +1,430 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 16,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 13,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 16,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 16012001,
+            "text": "\u00b6 Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012002,
+            "text": "Amariah, Malluch, Hattush, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012003,
+            "text": "Shecaniah, Rehum, Meremoth, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012004,
+            "text": "Iddo, Ginnethoi, Abijah, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012005,
+            "text": "Mijamin, Maadiah, Bilgah, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012006,
+            "text": "Shemaiah, and Joiarib, Jedaiah. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012007,
+            "text": "Sallu, Amok, Hilkiah, Jedaiah. These were the chiefs of the priests and of their brethren in the days of Jeshua.",
+            "version": "ASV",
+            "clsstr": "Neh-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012008,
+            "text": "\u00b6 Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, Mattaniah, who was over <i>[a]</i>the thanksgiving, he and his brethren. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the choirs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012009,
+            "text": "Also Bakbukiah and Unno, their brethren, were over against them according to their offices. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012010,
+            "text": "And Jeshua begat Joiakim, and Joiakim begat Eliashib, and Eliashib begat Joiada, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012011,
+            "text": "and Joiada begat Jonathan, and Jonathan begat Jaddua.",
+            "version": "ASV",
+            "clsstr": "Neh-12-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012012,
+            "text": "\u00b6 And in the days of Joiakim were priests, heads of fathers\u2019 : of Seraiah, Meraiah; of Jeremiah, Hananiah; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012013,
+            "text": "of Ezra, Meshullam; of Amariah, Jehohanan; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012014,
+            "text": "of <i>[b]</i>Malluchi, Jonathan; of Shebaniah, Joseph; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-14",
+            "footnotes": [
+                {
+                    "b": "Another reading is, <i>Melicu</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012015,
+            "text": "of Harim, Adna; of Meraioth, Helkai; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012016,
+            "text": "of Iddo, Zechariah; of Ginnethon, Meshullam; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012017,
+            "text": "of Abijah, Zichri; of Miniamin, of Moadiah, Piltai; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012018,
+            "text": "of Bilgah, Shammua; of Shemaiah, Jehonathan; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012019,
+            "text": "and of Joiarib, Mattenai; of Jedaiah, Uzzi; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012020,
+            "text": "of Sallai, Kallai; of Amok, Eber; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012021,
+            "text": "of Hilkiah, Hashabiah; of Jedaiah, Nethanel.",
+            "version": "ASV",
+            "clsstr": "Neh-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012022,
+            "text": "\u00b6 As for the Levites, in the days of Eliashib, Joiada, and Johanan, and Jaddua, there were recorded the heads of fathers\u2019 ; also the priests, <i>[c]</i>in the reign of Darius the Persian. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-22",
+            "footnotes": [
+                {
+                    "c": "Or, <i>to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012023,
+            "text": "The sons of Levi, heads of fathers\u2019 , were written in the book of the chronicles, even until the days of Johanan the son of Eliashib. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012024,
+            "text": "And the chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and give thanks, according to the commandment of David the man of God, watch next to watch. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012025,
+            "text": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the watch at the store-houses of the gates. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012026,
+            "text": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest the scribe.",
+            "version": "ASV",
+            "clsstr": "Neh-12-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012027,
+            "text": "\u00b6 And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012028,
+            "text": "And the sons of the singers gathered themselves together, both out of the <i>[d]</i>plain round about Jerusalem, and from the villages of the Netophathites; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-28",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Circuit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012029,
+            "text": "also from Beth-gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012030,
+            "text": "And the priests and the Levites purified themselves; and they purified the people, and the gates, and the wall.",
+            "version": "ASV",
+            "clsstr": "Neh-12-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012031,
+            "text": "\u00b6 Then I brought up the princes of Judah upon the wall, and appointed two great companies that gave thanks and went in procession;  on the right hand upon the wall toward the dung gate: ",
+            "version": "ASV",
+            "clsstr": "Neh-12-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012032,
+            "text": "and after them went Hoshaiah, and half of the princes of Judah, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012033,
+            "text": "and Azariah, Ezra, and Meshullam, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012034,
+            "text": "Judah, and Benjamin, and Shemaiah, and Jeremiah, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012035,
+            "text": "and certain of the priests\u2019 sons with trumpets: Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012036,
+            "text": "and his brethren, Shemaiah, and Azarel, Milalai, Gilalai, Maai, Nethanel, and Judah, Hanani, with the musical instruments of David the man of God; and Ezra the scribe was before them. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012037,
+            "text": "And by the fountain gate, and straight before them, they went up by the stairs of the city of David, at the ascent of the wall, above the house of David, even unto the water gate eastward.",
+            "version": "ASV",
+            "clsstr": "Neh-12-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012038,
+            "text": "\u00b6 And the other company of them that gave thanks went to meet them, and I after them, with the half of the people, upon the wall, above the tower of the furnaces, even unto the broad wall, ",
+            "version": "ASV",
+            "clsstr": "Neh-12-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012039,
+            "text": "and above the gate of Ephraim, and by the old gate, and by the fish gate, and the tower of Hananel, and the tower of <i>[e]</i>Hammeah, even unto the sheep gate: and they stood still in the gate of the guard. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-39",
+            "footnotes": [
+                {
+                    "e": "Or, <i>The hundred</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012040,
+            "text": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the <i>[f]</i>rulers with me; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-40",
+            "footnotes": [
+                {
+                    "f": "Or, <i>deputies</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012041,
+            "text": "and the priests, Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets; ",
+            "version": "ASV",
+            "clsstr": "Neh-12-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012042,
+            "text": "and Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012043,
+            "text": "And they offered great sacrifices that day, and rejoiced; for God had made them rejoice with great joy; and the women also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
+            "version": "ASV",
+            "clsstr": "Neh-12-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012044,
+            "text": "\u00b6 And on that day were men appointed over the chambers for the treasures, for the heave-offerings, for the first-fruits, and for the tithes, to gather into them, according to the fields of the cities, the portions <i>[g]</i>appointed by the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that <i>[h]</i>waited. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-44",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>of the law</i>."
+                },
+                {
+                    "h": "Hebrew <i>stood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012045,
+            "text": "And they kept the charge of their God, and the charge of the purification, and  the singers and the porters, according to the commandment of David, and of Solomon his son. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012046,
+            "text": "For in the days of David and Asaph of old <i>[i]</i>there was a chief of the singers, and songs of praise and thanksgiving unto God. ",
+            "version": "ASV",
+            "clsstr": "Neh-12-46",
+            "footnotes": [
+                {
+                    "i": "Another reading is, <i>there were chiefs</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 16012047,
+            "text": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, as every day required: and they set apart  for the Levites; and the Levites set apart  for the sons of Aaron.",
+            "version": "ASV",
+            "clsstr": "Neh-12-47",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Nehemiah",
+    "chapters": 12
+}

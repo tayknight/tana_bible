@@ -1,0 +1,271 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1009001,
+            "text": "\u00b6 And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009002,
+            "text": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every bird of the heavens; with all wherewith the ground <i>[a]</i>teemeth, and all the fishes of the sea, into your hand are they delivered. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>creepeth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009003,
+            "text": "Every moving thing that liveth shall be food for you; as the green herb have I given you all. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009004,
+            "text": "But flesh with the life thereof,  the blood thereof, shall ye not eat. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009005,
+            "text": "And surely your blood,  of your lives, will I require; at the hand of every beast will I require it: and at the hand of man, even at the hand of every man\u2019s brother, will I require the life of man. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009006,
+            "text": "Whoso sheddeth man\u2019s blood, by man shall his blood be shed: for in the image of God made he man. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009007,
+            "text": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.",
+            "version": "ASV",
+            "clsstr": "Gen-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009008,
+            "text": "\u00b6 And God spake unto Noah, and to his sons with him, saying, ",
+            "version": "ASV",
+            "clsstr": "Gen-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009009,
+            "text": "And I, behold, I establish my covenant with you, and with your seed after you; ",
+            "version": "ASV",
+            "clsstr": "Gen-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009010,
+            "text": "and with every living creature that is with you, the birds, the cattle, and every beast of the earth with you; of all that go out of the ark, even every beast of the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009011,
+            "text": "And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of the flood; neither shall there any more be a flood to destroy the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009012,
+            "text": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations: ",
+            "version": "ASV",
+            "clsstr": "Gen-9-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009013,
+            "text": " <i>[b]</i>I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-13",
+            "footnotes": [
+                {
+                    "b": "Or, <i>I have set</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009014,
+            "text": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud, ",
+            "version": "ASV",
+            "clsstr": "Gen-9-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009015,
+            "text": "and I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009016,
+            "text": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009017,
+            "text": "And God said unto Noah, This is the token of the covenant which I have established between me and all flesh that is upon the earth.",
+            "version": "ASV",
+            "clsstr": "Gen-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009018,
+            "text": "\u00b6 And the sons of Noah, that went forth from the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009019,
+            "text": "These three were the sons of Noah: and of these was the whole earth overspread.",
+            "version": "ASV",
+            "clsstr": "Gen-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009020,
+            "text": "\u00b6 And Noah began to be a husbandman, and planted a vineyard: ",
+            "version": "ASV",
+            "clsstr": "Gen-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009021,
+            "text": "and he drank of the wine, and was drunken; and he was uncovered within his tent. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009022,
+            "text": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009023,
+            "text": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father\u2019s nakedness. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009024,
+            "text": "And Noah awoke from his wine, and knew what his <i>[c]</i>youngest son had done unto him. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-24",
+            "footnotes": [
+                {
+                    "c": "Or, <i>younger</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009025,
+            "text": "And he said,\u00b6     Cursed be Canaan;\n    A servant of servants shall he be unto his brethren.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009026,
+            "text": "\u00b6 And he said,\u00b6   Blessed be Jehovah, the God of Shem;\n  And let Canaan be <i>[d]</i>his servant.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-9-26",
+            "footnotes": [
+                {
+                    "d": "Or, <i>their</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009027,
+            "text": "  God enlarge Japheth,\n  And <i>[e]</i>let him dwell in the tents of Shem;\n    And let Canaan be his servant.\n    ",
+            "version": "ASV",
+            "clsstr": "Gen-9-27",
+            "footnotes": [
+                {
+                    "e": "Or, <i>he shall</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009028,
+            "text": "\u00b6 And Noah lived after the flood three hundred and fifty years. ",
+            "version": "ASV",
+            "clsstr": "Gen-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1009029,
+            "text": "And all the days of Noah were nine hundred and fifty years: and he died.",
+            "version": "ASV",
+            "clsstr": "Gen-9-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 9
+}

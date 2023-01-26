@@ -1,0 +1,274 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20026001,
+            "text": "\u00b6     As snow in summer, and as rain in harvest,\n    So honor is not seemly for a fool.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026002,
+            "text": "  As the sparrow in her wandering, as the swallow in her flying,\n  So the curse that is causeless <i>[a]</i>alighteth not.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>cometh not</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026003,
+            "text": "    A whip for the horse, a bridle for the ass,\n    And a rod for the back of fools.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026004,
+            "text": "    Answer not a fool according to his folly,\n    Lest thou also be like unto him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026005,
+            "text": "  Answer a fool according to his folly,\n  Lest he be wise in <i>[b]</i>his own conceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>his own eyes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026006,
+            "text": "    He that sendeth a message by the hand of a fool\n    Cutteth off  feet,  drinketh in damage.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026007,
+            "text": "    The legs of the lame hang loose;\n    So is a parable in the mouth of fools.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026008,
+            "text": "    As one that bindeth a stone in a sling,\n    So is he that giveth honor to a fool.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026009,
+            "text": "     a thorn that goeth up into the hand of a drunkard,\n    So is a parable in the mouth of fools.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026010,
+            "text": "   <i>[c]</i> an archer that woundeth all,\n    So is he that hireth a fool and he that hireth them that pass by.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>A master worker formeth all things; But he that hireth the fool is as one that hireth them that pass by.</i> The Hebrew is obscure."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026011,
+            "text": "    As a dog that returneth to his vomit,\n     a fool that repeateth his folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026012,
+            "text": "  Seest thou a man wise in <i>[d]</i>his own conceit?\n    There is more hope of a fool than of him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-12",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>his own eyes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026013,
+            "text": "    The sluggard saith, There is a lion in the way;\n    A lion is in the streets.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026014,
+            "text": "     the door turneth upon its hinges,\n    So doth the sluggard upon his bed.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026015,
+            "text": "    The sluggard burieth his hand in the dish;\n    It wearieth him to bring it again to his mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026016,
+            "text": " The sluggard is wiser in <i>[e]</i>his own conceit\n  Than seven men that can <i>[f]</i>render a reason.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-16",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>his own eyes</i>."
+                },
+                {
+                    "f": "Or, <i>answer discreetly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026017,
+            "text": "   <i>[g]</i>He that passeth by,  vexeth himself with strife belonging not to him,\n    Is  one that taketh a dog by the ears.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>He that vexeth himself\u00a0.\u00a0.\u00a0. Is</i> like <i>one that taketh a passing dog etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026018,
+            "text": "    As a madman who casteth firebrands,\n    Arrows, and death,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026019,
+            "text": "    So is the man that deceiveth his neighbor,\n    And saith, Am not I in sport?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026020,
+            "text": "    For lack of wood the fire goeth out;\n    And where there is no whisperer, contention ceaseth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026021,
+            "text": "     coals are to hot embers, and wood to fire,\n    So is a contentious man to inflame strife.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026022,
+            "text": "    The words of a whisperer are as dainty morsels,\n    And they go down into the innermost parts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026023,
+            "text": "    Fervent lips and a wicked heart\n    Are  an earthen vessel overlaid with silver dross.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026024,
+            "text": "    He that hateth dissembleth with his lips;\n    But he layeth up deceit within him:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026025,
+            "text": "    When he speaketh fair, believe him not;\n    For there are seven abominations in his heart:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026026,
+            "text": "    Though  hatred cover itself with guile,\n    His wickedness shall be openly showed before the assembly.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026027,
+            "text": "    Whoso diggeth a pit shall fall therein;\n    And he that rolleth a stone, it shall return upon him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20026028,
+            "text": "  A lying tongue hateth those whom it hath <i>[h]</i>wounded;\n    And a flattering mouth worketh ruin.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-26-28",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>crushed</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 26
+}

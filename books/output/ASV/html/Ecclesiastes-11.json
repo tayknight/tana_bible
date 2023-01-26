@@ -1,0 +1,132 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 21,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 12,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 21,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 21011001,
+            "text": "\u00b6 <i>[a]</i>Cast thy bread <i>[b]</i>upon the waters; for thou shalt find it after many days. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Send forth</i>"
+                },
+                {
+                    "b": "Hebrew <i>upon the face of the waters</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011002,
+            "text": " <i>[c]</i>Give a portion to seven, yea, even unto eight; for thou knowest not what evil shall be upon the earth. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Divide a portion into seven, yea, even into eight</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011003,
+            "text": "If the clouds be full of rain, they empty themselves upon the earth; and if a tree fall <i>[d]</i>toward the south, or <i>[e]</i>toward the north, in the place where the tree falleth, there shall it be. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>in</i>"
+                },
+                {
+                    "e": "Or, <i>in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011004,
+            "text": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011005,
+            "text": "As thou knowest not what is the way of the <i>[f]</i>wind,  how the bones  in the womb of her that is with child; even so thou knowest not the work of God who doeth all. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-5",
+            "footnotes": [
+                {
+                    "f": "Or, <i>spirit</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011006,
+            "text": "In the morning sow thy seed, and in the evening withhold not thy hand; for thou knowest not which shall prosper, whether this or that, or whether they both shall be alike good. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011007,
+            "text": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011008,
+            "text": " <i>[g]</i>Yea, if a man live many years, let him rejoice in them all; <i>[h]</i>but let him remember the days of darkness, for they shall be many. All that cometh is vanity. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-8",
+            "footnotes": [
+                {
+                    "g": "Or, <i>For</i>"
+                },
+                {
+                    "h": "Or, <i>and remember</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011009,
+            "text": "Rejoice, O young man, in thy youth, and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart, and in the sight of thine eyes; but know thou, that for all these things God will bring thee into judgment. ",
+            "version": "ASV",
+            "clsstr": "Eccl-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 21011010,
+            "text": "Therefore remove <i>[i]</i>sorrow from thy heart, and put away evil from thy flesh; for youth and the dawn of life are vanity.",
+            "version": "ASV",
+            "clsstr": "Eccl-11-10",
+            "footnotes": [
+                {
+                    "i": "Or, <i>vexation</i>. Or, <i>provocation</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ecclesiastes",
+    "chapters": 11
+}

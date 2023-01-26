@@ -1,0 +1,327 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1042001,
+            "text": "\u00b6 Now Jacob saw that there was grain in Egypt, and Jacob said unto his sons, Why do ye look one upon another? ",
+            "version": "ASV",
+            "clsstr": "Gen-42-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042002,
+            "text": "And he said, Behold, I have heard that there is grain in Egypt: get you down thither, and buy for us from thence; that we may live, and not die. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042003,
+            "text": "And Joseph\u2019s ten brethren went down to buy grain from Egypt. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042004,
+            "text": "But Benjamin, Joseph\u2019s brother, Jacob sent not with his brethren; for he said, Lest peradventure harm befall him. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042005,
+            "text": "And the sons of Israel came to buy among those that came: for the famine was in the land of Canaan. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042006,
+            "text": "And Joseph was the governor over the land; he it was that sold to all the people of the land. And Joseph\u2019s brethren came, and bowed down themselves to him with their faces to the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042007,
+            "text": "And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly with them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042008,
+            "text": "And Joseph knew his brethren, but they knew not him. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042009,
+            "text": "And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042010,
+            "text": "And they said unto him, Nay, my lord, but to buy food are thy servants come. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042011,
+            "text": "We are all one man\u2019s sons; we are true men, thy servants are no spies. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042012,
+            "text": "And he said unto them, Nay, but to see the nakedness of the land ye are come. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042013,
+            "text": "And they said, We thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042014,
+            "text": "And Joseph said unto them, That is it that I spake unto you, saying, Ye are spies: ",
+            "version": "ASV",
+            "clsstr": "Gen-42-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042015,
+            "text": "hereby ye shall be proved: by the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042016,
+            "text": "Send one of you, and let him fetch your brother, and ye shall be bound, that your words may be proved, whether there be truth in you: or else by the life of Pharaoh surely ye are spies. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042017,
+            "text": "And he put them all together into ward three days.",
+            "version": "ASV",
+            "clsstr": "Gen-42-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042018,
+            "text": "\u00b6 And Joseph said unto them the third day, This do, and live; for I fear God: ",
+            "version": "ASV",
+            "clsstr": "Gen-42-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042019,
+            "text": "if ye be true men, let one of your brethren be bound in your prison-house; but go ye, carry grain for the famine of your houses: ",
+            "version": "ASV",
+            "clsstr": "Gen-42-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042020,
+            "text": "and bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042021,
+            "text": "And they said one to another, We are verily guilty concerning our brother, in that we saw the distress of his soul, when he besought us, and we would not hear; therefore is this distress come upon us. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042022,
+            "text": "And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore also, behold, his blood is required. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042023,
+            "text": "And they knew not that Joseph understood them; for there was an interpreter between them. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042024,
+            "text": "And he turned himself about from them, and wept; and he returned to them, and spake to them, and took Simeon from among them, and bound him before their eyes. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042025,
+            "text": "Then Joseph commanded to fill their vessels with grain, and to restore every man\u2019s money into his sack, and to give them provision for the way: and thus was it done unto them.",
+            "version": "ASV",
+            "clsstr": "Gen-42-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042026,
+            "text": "\u00b6 And they laded their asses with their grain, and departed thence. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042027,
+            "text": "And as one of them opened his sack to give his ass provender in the lodging-place, he espied his money; and, behold, it was in the mouth of his sack. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042028,
+            "text": "And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they turned trembling one to another, saying, What is this that God hath done unto us? ",
+            "version": "ASV",
+            "clsstr": "Gen-42-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042029,
+            "text": "And they came unto Jacob their father unto the land of Canaan, and told him all that had befallen them, saying, ",
+            "version": "ASV",
+            "clsstr": "Gen-42-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042030,
+            "text": "The man, the lord of the land, spake roughly with us, and took us for spies of the country. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042031,
+            "text": "And we said unto him, We are true men; we are no spies: ",
+            "version": "ASV",
+            "clsstr": "Gen-42-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042032,
+            "text": "we are twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042033,
+            "text": "And the man, the lord of the land, said unto us, Hereby shall I know that ye are true men: leave one of your brethren with me, and take  the famine of your houses, and go your way; ",
+            "version": "ASV",
+            "clsstr": "Gen-42-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042034,
+            "text": "and bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffic in the land.",
+            "version": "ASV",
+            "clsstr": "Gen-42-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042035,
+            "text": "\u00b6 And it came to pass as they emptied their sacks, that, behold, every man\u2019s bundle of money was in his sack: and when they and their father saw their bundles of money, they were afraid. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042036,
+            "text": "And Jacob their father said unto them, Me have ye bereaved of my children: Joseph is not, and Simeon is not, and ye will take Benjamin away: all these things are <i>[a]</i>against me. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-36",
+            "footnotes": [
+                {
+                    "a": "Or, <i>upon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042037,
+            "text": "And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again. ",
+            "version": "ASV",
+            "clsstr": "Gen-42-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1042038,
+            "text": "And he said, My son shall not go down with you; for his brother is dead, and he only is left: if harm befall him by the way in which ye go, then will ye bring down my gray hairs with sorrow to Sheol.",
+            "version": "ASV",
+            "clsstr": "Gen-42-38",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 42
+}

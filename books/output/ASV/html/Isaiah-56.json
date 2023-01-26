@@ -1,0 +1,137 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23056001,
+            "text": "\u00b6 Thus saith Jehovah, Keep ye justice, and do righteousness; for my salvation is near to come, and my righteousness to be revealed. ",
+            "version": "ASV",
+            "clsstr": "Isa-56-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056002,
+            "text": "Blessed is the man that doeth this, and the son of man that holdeth it fast; that keepeth the sabbath from profaning it, and keepeth his hand from doing any evil. ",
+            "version": "ASV",
+            "clsstr": "Isa-56-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056003,
+            "text": "Neither let the foreigner, that hath joined himself to Jehovah, speak, saying, Jehovah will surely separate me from his people; neither let the eunuch say, Behold, I am a dry tree. ",
+            "version": "ASV",
+            "clsstr": "Isa-56-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056004,
+            "text": "For thus saith Jehovah of the eunuchs that keep my sabbaths, and choose the things that please me, and hold fast my covenant: ",
+            "version": "ASV",
+            "clsstr": "Isa-56-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056005,
+            "text": "Unto them will I give in my house and within my walls a <i>[a]</i>memorial and a name <i>[b]</i>better than of sons and of daughters; I will give <i>[c]</i>them an everlasting name, that shall not be cut off.",
+            "version": "ASV",
+            "clsstr": "Isa-56-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>place</i>. Hebrew <i>hand</i>."
+                },
+                {
+                    "b": "Or, <i>better than sons and daughters</i>"
+                },
+                {
+                    "c": "Hebrew <i>him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056006,
+            "text": "\u00b6 Also the foreigners that join themselves to Jehovah, to minister unto him, and to love the name of Jehovah, to be his servants, every one that keepeth the sabbath from profaning it, and holdeth fast my covenant; ",
+            "version": "ASV",
+            "clsstr": "Isa-56-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056007,
+            "text": "even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt-offerings and their sacrifices shall be accepted upon mine altar; for my house shall be called a house of prayer for all peoples. ",
+            "version": "ASV",
+            "clsstr": "Isa-56-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056008,
+            "text": "The Lord Jehovah, who gathereth the outcasts of Israel, saith, Yet will I gather to him, <i>[d]</i>besides his own that are gathered.",
+            "version": "ASV",
+            "clsstr": "Isa-56-8",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>to his gathered ones</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056009,
+            "text": "\u00b6 All ye beasts of the field, <i>[e]</i>come to devour, , all ye beasts in the forest. ",
+            "version": "ASV",
+            "clsstr": "Isa-56-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>come ye to devour all the beasts in the forest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056010,
+            "text": "His watchmen are blind, they are all without knowledge; they are all dumb dogs, they cannot bark; dreaming, lying down, loving to slumber. ",
+            "version": "ASV",
+            "clsstr": "Isa-56-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056011,
+            "text": "Yea, the dogs are greedy, they can never have enough; and these are shepherds that cannot understand: they have all turned to their own way, each one to his gain, <i>[f]</i>from every quarter. ",
+            "version": "ASV",
+            "clsstr": "Isa-56-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>one and all</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23056012,
+            "text": "Come ye, , I will fetch wine, and we will fill ourselves with strong drink; and to-morrow shall be as this day,  great beyond measure.",
+            "version": "ASV",
+            "clsstr": "Isa-56-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 56
+}

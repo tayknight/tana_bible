@@ -1,0 +1,359 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43009001,
+            "text": "\u00b6 And as he passed by, he saw a man blind from his birth. ",
+            "version": "ASV",
+            "clsstr": "John-9-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009002,
+            "text": "And his disciples asked him, saying, Rabbi, who sinned, this man, or his parents, that he should be born blind? ",
+            "version": "ASV",
+            "clsstr": "John-9-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009003,
+            "text": "Jesus answered, Neither did this man sin, nor his parents: but that the works of God should be made manifest in him. ",
+            "version": "ASV",
+            "clsstr": "John-9-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009004,
+            "text": "We must work the works of him that sent me, while it is day: the night cometh, when no man can work. ",
+            "version": "ASV",
+            "clsstr": "John-9-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009005,
+            "text": "When I am in the world, I am the light of the world. ",
+            "version": "ASV",
+            "clsstr": "John-9-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009006,
+            "text": "When he had thus spoken, he spat on the ground, and made clay of the spittle, <i>[a]</i>and anointed his eyes with the clay, ",
+            "version": "ASV",
+            "clsstr": "John-9-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>and with the clay thereof anointed</i> his <i>eyes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009007,
+            "text": "and said unto him, Go, wash in the pool of Siloam (which is by interpretation, Sent). He went away therefore, and washed, and came seeing. ",
+            "version": "ASV",
+            "clsstr": "John-9-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009008,
+            "text": "The neighbors therefore, and they that saw him aforetime, that he was a beggar, said, Is not this he that sat and begged? ",
+            "version": "ASV",
+            "clsstr": "John-9-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009009,
+            "text": "Others said, It is he: others said, No, but he is like him. He said, I am . ",
+            "version": "ASV",
+            "clsstr": "John-9-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009010,
+            "text": "They said therefore unto him, How then were thine eyes opened? ",
+            "version": "ASV",
+            "clsstr": "John-9-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009011,
+            "text": "He answered, The man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to Siloam, and wash: so I went away and washed, and I received sight. ",
+            "version": "ASV",
+            "clsstr": "John-9-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009012,
+            "text": "And they said unto him, Where is he? He saith, I know not.",
+            "version": "ASV",
+            "clsstr": "John-9-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009013,
+            "text": "\u00b6 They bring to the Pharisees him that aforetime was blind. ",
+            "version": "ASV",
+            "clsstr": "John-9-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009014,
+            "text": "Now it was the sabbath on the day when Jesus made the clay, and opened his eyes. ",
+            "version": "ASV",
+            "clsstr": "John-9-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009015,
+            "text": "Again therefore the Pharisees also asked him how he received his sight. And he said unto them, He put clay upon mine eyes, and I washed, and I see. ",
+            "version": "ASV",
+            "clsstr": "John-9-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009016,
+            "text": "Some therefore of the Pharisees said, This man is not from God, because he keepeth not the sabbath. But others said, How can a man that is a sinner do such signs? And there was a division among them. ",
+            "version": "ASV",
+            "clsstr": "John-9-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009017,
+            "text": "They say therefore unto the blind man again, What sayest thou of him, in that he opened thine eyes? And he said, He is a prophet. ",
+            "version": "ASV",
+            "clsstr": "John-9-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009018,
+            "text": "The Jews therefore did not believe concerning him, that he had been blind, and had received his sight, until they called the parents of him that had received his sight, ",
+            "version": "ASV",
+            "clsstr": "John-9-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009019,
+            "text": "and asked them, saying, Is this your son, who ye say was born blind? how then doth he now see? ",
+            "version": "ASV",
+            "clsstr": "John-9-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009020,
+            "text": "His parents answered and said, We know that this is our son, and that he was born blind: ",
+            "version": "ASV",
+            "clsstr": "John-9-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009021,
+            "text": "but how he now seeth, we know not; or who opened his eyes, we know not: ask him; he is of age; he shall speak for himself. ",
+            "version": "ASV",
+            "clsstr": "John-9-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009022,
+            "text": "These things said his parents, because they feared the Jews: for the Jews had agreed already, that if any man should confess him  Christ, he should be put out of the synagogue. ",
+            "version": "ASV",
+            "clsstr": "John-9-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009023,
+            "text": "Therefore said his parents, He is of age; ask him. ",
+            "version": "ASV",
+            "clsstr": "John-9-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009024,
+            "text": "So they called a second time the man that was blind, and said unto him, Give glory to God: we know that this man is a sinner. ",
+            "version": "ASV",
+            "clsstr": "John-9-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009025,
+            "text": "He therefore answered, Whether he is a sinner, I know not: one thing I know, that, whereas I was blind, now I see. ",
+            "version": "ASV",
+            "clsstr": "John-9-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009026,
+            "text": "They said therefore unto him, What did he to thee? how opened he thine eyes? ",
+            "version": "ASV",
+            "clsstr": "John-9-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009027,
+            "text": "He answered them, I told you even now, and ye did not hear; wherefore would ye hear it again? would ye also become his disciples? ",
+            "version": "ASV",
+            "clsstr": "John-9-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009028,
+            "text": "And they reviled him, and said, Thou art his disciple; but we are disciples of Moses. ",
+            "version": "ASV",
+            "clsstr": "John-9-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009029,
+            "text": "We know that God hath spoken unto Moses: but as for this man, we know not whence he is. ",
+            "version": "ASV",
+            "clsstr": "John-9-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009030,
+            "text": "The man answered and said unto them, Why, herein is the marvel, that ye know not whence he is, and  he opened mine eyes. ",
+            "version": "ASV",
+            "clsstr": "John-9-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009031,
+            "text": "We know that God heareth not sinners: but if any man be a worshipper of God, and do his will, him he heareth. ",
+            "version": "ASV",
+            "clsstr": "John-9-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009032,
+            "text": "Since the world began it was never heard that any one opened the eyes of a man born blind. ",
+            "version": "ASV",
+            "clsstr": "John-9-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009033,
+            "text": "If this man were not from God, he could do nothing. ",
+            "version": "ASV",
+            "clsstr": "John-9-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009034,
+            "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.",
+            "version": "ASV",
+            "clsstr": "John-9-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009035,
+            "text": "\u00b6 Jesus heard that they had cast him out; and finding him, he said, Dost thou believe on <i>[b]</i>the Son of God? ",
+            "version": "ASV",
+            "clsstr": "John-9-35",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>the Son of Man</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009036,
+            "text": "He answered and said, And who is he, Lord, that I may believe on him? ",
+            "version": "ASV",
+            "clsstr": "John-9-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009037,
+            "text": "Jesus said unto him, Thou hast both seen him, and he it is that speaketh with thee. ",
+            "version": "ASV",
+            "clsstr": "John-9-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009038,
+            "text": "And he said, Lord, I believe. And he <i>[c]</i>worshipped him. ",
+            "version": "ASV",
+            "clsstr": "John-9-38",
+            "footnotes": [
+                {
+                    "c": "The Greek word denotes an act of reverence, whether paid to a creature (as here) or to the Creator (see [[4:20]])."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009039,
+            "text": "And Jesus said, For judgment came I into this world, that they that see not may see; and that they that see may become blind. ",
+            "version": "ASV",
+            "clsstr": "John-9-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009040,
+            "text": "Those of the Pharisees who were with him heard these things, and said unto him, Are we also blind? ",
+            "version": "ASV",
+            "clsstr": "John-9-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43009041,
+            "text": "Jesus said unto them, If ye were blind, ye would have no sin: but now ye say, We see: your sin remaineth.",
+            "version": "ASV",
+            "clsstr": "John-9-41",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 9
+}

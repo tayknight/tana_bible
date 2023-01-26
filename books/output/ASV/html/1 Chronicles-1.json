@@ -1,0 +1,505 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 13,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 29,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 13,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 13001001,
+            "text": "\u00b6 Adam, Seth, Enosh, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001002,
+            "text": "Kenan, Mahalalel, Jared, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001003,
+            "text": "Enoch, Methuselah, Lamech, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001004,
+            "text": "Noah, Shem, Ham, and Japheth.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001005,
+            "text": "\u00b6 The sons of Japheth: Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001006,
+            "text": "And the sons of Gomer: Ashkenaz, and <i>[a]</i>Diphath, and Togarmah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-6",
+            "footnotes": [
+                {
+                    "a": "In [[Gen. 10:3]], <i>Riphath</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001007,
+            "text": "And the sons of Javan: Elishah, and Tarshish, Kittim, and <i>[b]</i>Rodanim.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-7",
+            "footnotes": [
+                {
+                    "b": "In [[Gen. 10:4]], <i>Dodanim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001008,
+            "text": "\u00b6 The sons of Ham: Cush, and Mizraim, Put, and Canaan. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001009,
+            "text": "And the sons of Cush: Seba, and Havilah, and Sabta, and Raama, and Sabteca. And the sons of Raamah: Sheba, and Dedan. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001010,
+            "text": "And Cush begat Nimrod; he began to be a mighty one in the earth. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001011,
+            "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001012,
+            "text": "and Pathrusim, and Casluhim (from whence came <i>[c]</i>the Philistines), and Caphtorim. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-12",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Pelishtim</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001013,
+            "text": "And Canaan begat Sidon his first-born, and Heth, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001014,
+            "text": "and the Jebusite, and the Amorite, and the Girgashite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001015,
+            "text": "and the Hivite, and the Arkite, and the Sinite, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001016,
+            "text": "and the Arvadite, and the Zemarite, and the Hamathite.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001017,
+            "text": "\u00b6 The sons of Shem: Elam, and Asshur, and Arpachshad, and Lud, and Aram, and Uz, and Hul, and Gether, and <i>[d]</i>Meshech. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-17",
+            "footnotes": [
+                {
+                    "d": "In [[Gen. 10:23]], <i>Mash</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001018,
+            "text": "And Arpachshad begat Shelah, and Shelah begat Eber. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001019,
+            "text": "And unto Eber were born two sons: the name of the one was Peleg; for in his days the earth was divided; and his brother\u2019s name was Joktan. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001020,
+            "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001021,
+            "text": "and Hadoram, and Uzal, and Diklah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001022,
+            "text": "and <i>[e]</i>Ebal, and Abimael, and Sheba, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-22",
+            "footnotes": [
+                {
+                    "e": "In [[Gen. 10:28]], <i>Obal</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001023,
+            "text": "and Ophir, and Havilah, and Jobab. All these were the sons of Joktan.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001024,
+            "text": "\u00b6 Shem, Arpachshad, Shelah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001025,
+            "text": "Eber, Peleg, Reu, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001026,
+            "text": "Serug, Nahor, Terah, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001027,
+            "text": "Abram (the same is Abraham).",
+            "version": "ASV",
+            "clsstr": "1Chr-1-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001028,
+            "text": "\u00b6 The sons of Abraham: Isaac, and Ishmael. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001029,
+            "text": "These are their generations: the first-born of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001030,
+            "text": "Mishma, and Dumah, Massa, Hadad, and Tema, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001031,
+            "text": "Jetur, Naphish, and Kedemah. These are the sons of Ishmael.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001032,
+            "text": "\u00b6 And the sons of Keturah, Abraham\u2019s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan: Sheba, and Dedan. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001033,
+            "text": "And the sons of Midian: Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these were the sons of Keturah.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001034,
+            "text": "\u00b6 And Abraham begat Isaac. The sons of Isaac: Esau, and Israel.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001035,
+            "text": "\u00b6 The sons of Esau: Eliphaz, Reuel, and Jeush, and Jalam, and Korah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001036,
+            "text": "The sons of Eliphaz: Teman, and Omar, <i>[f]</i>Zephi, and Gatam, Kenaz, and Timna, and Amalek. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-36",
+            "footnotes": [
+                {
+                    "f": "In [[Gen. 36:11]], <i>Zepho</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001037,
+            "text": "The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001038,
+            "text": "\u00b6 And the sons of Seir: Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001039,
+            "text": "And the sons of Lotan: Hori, and <i>[g]</i>Homam; and Timna was Lotan\u2019s sister. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-39",
+            "footnotes": [
+                {
+                    "g": "In [[Gen. 36:22]], <i>Hemam</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001040,
+            "text": "The sons of Shobal: <i>[h]</i>Alian, and Manahath, and Ebal, <i>[i]</i>Shephi, and Onam. And the sons of Zibeon: Aiah, and Anah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-40",
+            "footnotes": [
+                {
+                    "h": "In [[Gen. 36:23]], <i>Alvan</i>."
+                },
+                {
+                    "i": "In [[Gen. 36:23]], <i>Shepho</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001041,
+            "text": "The sons of Anah: Dishon. And the sons of Dishon: <i>[j]</i>Hamran, and Eshban, and Ithran, and Cheran. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-41",
+            "footnotes": [
+                {
+                    "j": "In [[Gen. 36:26]], <i>Hemdan</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001042,
+            "text": "The sons of Ezer: Bilhan, and Zaavan, <i>[k]</i>Jaakan. The sons of Dishan: Uz, and Aran.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-42",
+            "footnotes": [
+                {
+                    "k": "In [[Gen. 36:27]], <i>and Akan</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001043,
+            "text": "\u00b6 Now these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel: Bela the son of Beor; and the name of his city was Dinhabah. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001044,
+            "text": "And Bela died, and Jobab the son of Zerah of Bozrah reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001045,
+            "text": "And Jobab died, and Husham of the land of the Temanites reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001046,
+            "text": "And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead; and the name of his city was Avith. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001047,
+            "text": "And Hadad died, and Samlah of Masrekah reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001048,
+            "text": "And Samlah died, and Shaul of Rehoboth by the River reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001049,
+            "text": "And Shaul died, and Baal-hanan the son of Achbor reigned in his stead. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001050,
+            "text": "And Baal-hanan died, and <i>[l]</i>Hadad reigned in his stead; and the name of his city was <i>[m]</i>Pai: and his wife\u2019s name was Mehetabel, the daughter of Matred, the daughter of Me-zahab. ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-50",
+            "footnotes": [
+                {
+                    "l": "In [[Gen. 36:39]], <i>Hadar</i>."
+                },
+                {
+                    "m": "In [[Gen. 36:39]], <i>Pau</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001051,
+            "text": "And Hadad died.\u00b6 And the chiefs of Edom were: chief Timna, chief <i>[n]</i>Aliah, chief Jetheth, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-51",
+            "footnotes": [
+                {
+                    "n": "In [[Gen. 36:40]], <i>Alvah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001052,
+            "text": "chief Oholibamah, chief Elah, chief Pinon, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001053,
+            "text": "chief Kenaz, chief Teman, chief Mibzar, ",
+            "version": "ASV",
+            "clsstr": "1Chr-1-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 13001054,
+            "text": "chief Magdiel, chief Iram. These are the chiefs of Edom.",
+            "version": "ASV",
+            "clsstr": "1Chr-1-54",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Chronicles",
+    "chapters": 1
+}

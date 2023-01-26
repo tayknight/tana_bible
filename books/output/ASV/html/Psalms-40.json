@@ -1,0 +1,189 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19040001,
+            "text": "<b>A sacrifice of praise, and prayer for help.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6     I waited patiently for Jehovah;\n    And he inclined unto me, and heard my cry.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040002,
+            "text": "  He brought me up also out of <i>[a]</i>a horrible pit, out of the miry clay;\n    And he set my feet upon a rock, and established my goings.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>a pit of tumult</i> (or <i>destruction</i>)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040003,
+            "text": "    And he hath put a new song in my mouth, even praise unto our God:\n    Many shall see it, and fear,\n    And shall trust in Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040004,
+            "text": "  Blessed is the man that maketh Jehovah his trust,\n  And respecteth not the proud, nor such as <i>[b]</i>turn aside to lies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>fall away treacherously</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040005,
+            "text": "  Many, O Jehovah my God, are the wonderful works which thou hast done,\n  And thy thoughts which are to us-ward:\n   <i>[c]</i>They cannot be set in order unto thee;\n    If I would declare and speak of them,\n    They are more than can be numbered.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>There is none to be compared unto thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040006,
+            "text": " Sacrifice and <i>[d]</i>offering thou hast no delight in;\n   <i>[e]</i>Mine ears hast thou opened:\n    Burnt-offering and sin-offering hast thou not required.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>meal-offering</i>"
+                },
+                {
+                    "e": "Hebrew <i>Ears hast thou digged</i> (or, <i>pierced</i>) <i>for me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040007,
+            "text": "  Then said I, Lo, I am come;\n  In the roll of the book it is <i>[f]</i>written of me:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-7",
+            "footnotes": [
+                {
+                    "f": "Or, <i>prescribed to</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040008,
+            "text": "    I delight to do thy will, O my God;\n    Yea, thy law is within my heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040009,
+            "text": "    I have proclaimed glad tidings of righteousness in the great assembly;\n    Lo, I will not refrain my lips,\n    O Jehovah, thou knowest.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040010,
+            "text": "    I have not hid thy righteousness within my heart;\n    I have declared thy faithfulness and thy salvation;\n    I have not concealed thy lovingkindness and thy truth from the great assembly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040011,
+            "text": "    Withhold not thou thy tender mercies from me, O Jehovah;\n    Let thy lovingkindness and thy truth continually preserve me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040012,
+            "text": "  For innumerable evils have compassed me about;\n  Mine iniquities have overtaken me, so that I am not able to look up;\n  They are more than the hairs of my head;\n  And my heart hath <i>[g]</i>failed me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-12",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>forsaken</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040013,
+            "text": "    Be pleased, O Jehovah, to deliver me:\n    Make haste to help me, O Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040014,
+            "text": "    Let them be put to shame and confounded together\n    That seek after my soul to destroy it:\n    Let them be turned backward and brought to dishonor\n    That delight in my hurt.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040015,
+            "text": " Let them be <i>[h]</i>desolate <i>[i]</i>by reason of their shame\n    That say unto me, Aha, aha.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>astonished</i>"
+                },
+                {
+                    "i": "Or, <i>for a reward of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040016,
+            "text": "    Let all those that seek thee rejoice and be glad in thee:\n    Let such as love thy salvation say continually,\n    Jehovah be magnified.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19040017,
+            "text": "    But I am poor and needy;\n     the Lord thinketh upon me:\n    Thou art my help and my deliverer;\n    Make no tarrying, O my God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-40-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 40
+}

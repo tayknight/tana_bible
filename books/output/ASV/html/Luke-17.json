@@ -1,0 +1,357 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42017001,
+            "text": "\u00b6 And he said unto his disciples, It is impossible but that occasions of stumbling should come; but woe unto him, through whom they come! ",
+            "version": "ASV",
+            "clsstr": "Luke-17-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017002,
+            "text": "It were well for him if a millstone were hanged about his neck, and he were thrown into the sea, rather than that he should cause one of these little ones to stumble. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017003,
+            "text": "Take heed to yourselves: if thy brother sin, rebuke him; and if he repent, forgive him. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017004,
+            "text": "And if he sin against thee seven times in the day, and seven times turn again to thee, saying, I repent; thou shalt forgive him.",
+            "version": "ASV",
+            "clsstr": "Luke-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017005,
+            "text": "\u00b6 And the apostles said unto the Lord, Increase our faith. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017006,
+            "text": "And the Lord said, If ye had faith as a grain of mustard seed, ye would say unto this sycamine tree, Be thou rooted up, and be thou planted in the sea; and it would obey you. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017007,
+            "text": "But who is there of you, having a <i>[a]</i>servant plowing or keeping sheep, that will say unto him, when he is come in from the field, Come straightway and sit down to meat; ",
+            "version": "ASV",
+            "clsstr": "Luke-17-7",
+            "footnotes": [
+                {
+                    "a": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017008,
+            "text": "and will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink? ",
+            "version": "ASV",
+            "clsstr": "Luke-17-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017009,
+            "text": "Doth he thank the <i>[b]</i>servant because he did the things that were commanded? ",
+            "version": "ASV",
+            "clsstr": "Luke-17-9",
+            "footnotes": [
+                {
+                    "b": "Greek <i>bondservant</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017010,
+            "text": "Even so ye also, when ye shall have done all the things that are commanded you, say, We are unprofitable <i>[c]</i>servants; we have done that which it was our duty to do.",
+            "version": "ASV",
+            "clsstr": "Luke-17-10",
+            "footnotes": [
+                {
+                    "c": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017011,
+            "text": "\u00b6 And it came to pass, <i>[d]</i>as they were on the way to Jerusalem, that he was passing <i>[e]</i>along the borders of Samaria and Galilee. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>as he was</i>"
+                },
+                {
+                    "e": "Or, <i>through the midst of etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017012,
+            "text": "And as he entered into a certain village, there met him ten men that were lepers, who stood afar off: ",
+            "version": "ASV",
+            "clsstr": "Luke-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017013,
+            "text": "and they lifted up their voices, saying, Jesus, Master, have mercy on us. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017014,
+            "text": "And when he saw them, he said unto them, Go and show yourselves unto the priests. And it came to pass, as they went, they were cleansed. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017015,
+            "text": "And one of them, when he saw that he was healed, turned back, with a loud voice glorifying God; ",
+            "version": "ASV",
+            "clsstr": "Luke-17-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017016,
+            "text": "and he fell upon his face at his feet, giving him thanks: and he was a Samaritan. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017017,
+            "text": "And Jesus answering said, Were not the ten cleansed? but where are the nine? ",
+            "version": "ASV",
+            "clsstr": "Luke-17-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017018,
+            "text": " <i>[f]</i>Were there none found that returned to give glory to God, save this <i>[g]</i>stranger? ",
+            "version": "ASV",
+            "clsstr": "Luke-17-18",
+            "footnotes": [
+                {
+                    "f": "Or, <i>There were none found\u00a0.\u00a0.\u00a0. save this stranger</i>."
+                },
+                {
+                    "g": "Or, <i>alien</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017019,
+            "text": "And he said unto him, Arise, and go thy way: thy faith hath <i>[h]</i>made thee whole.",
+            "version": "ASV",
+            "clsstr": "Luke-17-19",
+            "footnotes": [
+                {
+                    "h": "Or, <i>saved thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017020,
+            "text": "\u00b6 And being asked by the Pharisees, when the kingdom of God cometh, he answered them and said, The kingdom of God cometh not with observation: ",
+            "version": "ASV",
+            "clsstr": "Luke-17-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017021,
+            "text": "neither shall they say, Lo, here! or, There! for lo, the kingdom of God is <i>[i]</i>within you.",
+            "version": "ASV",
+            "clsstr": "Luke-17-21",
+            "footnotes": [
+                {
+                    "i": "Or, <i>in the midst of you</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017022,
+            "text": "\u00b6 And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017023,
+            "text": "And they shall say to you, Lo, there! Lo, here! go not away, nor follow after : ",
+            "version": "ASV",
+            "clsstr": "Luke-17-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017024,
+            "text": "for as the lightning, when it lighteneth out of the one part under the heaven, shineth unto the other part under heaven; so shall the Son of man be <i>[j]</i>in his day. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-24",
+            "footnotes": [
+                {
+                    "j": "Some ancient authorities omit <i>in his day</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017025,
+            "text": "But first must he suffer many things and be rejected of this generation. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017026,
+            "text": "And as it came to pass in the days of Noah, even so shall it be also in the days of the Son of man. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017027,
+            "text": "They ate, they drank, they married, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017028,
+            "text": "Likewise even as it came to pass in the days of Lot; they ate, they drank, they bought, they sold, they planted, they builded; ",
+            "version": "ASV",
+            "clsstr": "Luke-17-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017029,
+            "text": "but in the day that Lot went out from Sodom it rained fire and brimstone from heaven, and destroyed them all: ",
+            "version": "ASV",
+            "clsstr": "Luke-17-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017030,
+            "text": "after the same manner shall it be in the day that the Son of man is revealed. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017031,
+            "text": "In that day, he that shall be on the housetop, and his goods in the house, let him not go down to take them away: and let him that is in the field likewise not return back. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017032,
+            "text": "Remember Lot\u2019s wife. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017033,
+            "text": "Whosoever shall seek to gain his life shall lose it: but whosoever shall lose shall <i>[k]</i>preserve it. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-33",
+            "footnotes": [
+                {
+                    "k": "Greek <i>save it alive</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017034,
+            "text": "I say unto you, In that night there shall be two men on one bed; the one shall be taken, and the other shall be left. ",
+            "version": "ASV",
+            "clsstr": "Luke-17-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017035,
+            "text": "There shall be two women grinding together; the one shall be taken, and the other shall be left. <i>[l]</i> ",
+            "version": "ASV",
+            "clsstr": "Luke-17-35",
+            "footnotes": [
+                {
+                    "l": "Some ancient authorities add [[verse 36]] <i>There shall be two men in the field; the one shall be taken, and the other shall be left.</i> [[Mt. 24:40]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42017037,
+            "text": "And they answering say unto him, Where, Lord? And he said unto them, Where the body , thither will the <i>[m]</i>eagles also be gathered together.",
+            "version": "ASV",
+            "clsstr": "Luke-17-37",
+            "footnotes": [
+                {
+                    "m": "Or, <i>vultures</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 17
+}

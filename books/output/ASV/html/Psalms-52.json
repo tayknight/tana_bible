@@ -1,0 +1,103 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19052001,
+            "text": "<b>Futility of boastful wickedness.</b>\n\u00b6 For the Chief Musician. Maschil of David; when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.\u00b6     Why boastest thou thyself in mischief, O mighty man?\n    The lovingkindness of God  continually.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052002,
+            "text": "    Thy tongue deviseth very wickedness,\n    Like a sharp razor, working deceitfully.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052003,
+            "text": "    Thou lovest evil more than good,\n    And lying rather than to speak righteousness. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052004,
+            "text": "  Thou lovest all devouring words,\n   <i>[a]</i>O thou deceitful tongue.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-4",
+            "footnotes": [
+                {
+                    "a": "Or, And <i>the deceitful tongue</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052005,
+            "text": "  God will likewise <i>[b]</i>destroy thee for ever;\n    He will take thee up, and pluck thee out of thy tent,\n    And root thee out of the land of the living. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>break thee down</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052006,
+            "text": "    The righteous also shall see , and fear,\n    And shall laugh at him, ,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052007,
+            "text": "  Lo, this is the man that made not God his <i>[c]</i>strength,\n    But trusted in the abundance of his riches,\n    And strengthened himself in his wickedness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>stronghold</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052008,
+            "text": "    But as for me, I am like a green olive-tree in the house of God:\n    I trust in the lovingkindness of God for ever and ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19052009,
+            "text": "    I will give thee thanks for ever, because thou hast done it;\n    And I will hope in thy name, for it is good, in the presence of thy saints.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-52-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 52
+}

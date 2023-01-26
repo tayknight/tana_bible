@@ -1,0 +1,226 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 49,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 6,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 49,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 49003001,
+            "text": "\u00b6 For this cause I Paul, the prisoner of Christ Jesus in behalf of you Gentiles,\u2014",
+            "version": "ASV",
+            "clsstr": "Eph-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003002,
+            "text": "if so be that ye have heard of the <i>[a]</i>dispensation of that grace of God which was given me to you-ward; ",
+            "version": "ASV",
+            "clsstr": "Eph-3-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stewardship</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003003,
+            "text": "how that by revelation was made known unto me the mystery, as I wrote before in few words, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003004,
+            "text": "whereby, when ye read, ye can perceive my understanding in the mystery of Christ; ",
+            "version": "ASV",
+            "clsstr": "Eph-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003005,
+            "text": "which in other generations was not made known unto the sons of men, as it hath now been revealed unto his holy apostles and prophets in the Spirit; ",
+            "version": "ASV",
+            "clsstr": "Eph-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003006,
+            "text": ", that the Gentiles are fellow-heirs, and fellow-members of the body, and fellow-partakers of the promise in Christ Jesus through the <i>[b]</i>gospel, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-6",
+            "footnotes": [
+                {
+                    "b": "Greek <i>good tidings</i>. See [[Mt. 4:23]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003007,
+            "text": "whereof I was made a minister, according to the gift of that grace of God which was given me according to the working of his power. ",
+            "version": "ASV",
+            "clsstr": "Eph-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003008,
+            "text": "Unto me, who am less than the least of all saints, was this grace given, to <i>[c]</i>preach unto the Gentiles the unsearchable riches of Christ; ",
+            "version": "ASV",
+            "clsstr": "Eph-3-8",
+            "footnotes": [
+                {
+                    "c": "Greek <i>bring good tidings of the etc.</i> Compare [[2:17]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003009,
+            "text": "and to <i>[d]</i>make all men see what is the dispensation of the mystery which for ages hath been hid in God who created all things; ",
+            "version": "ASV",
+            "clsstr": "Eph-3-9",
+            "footnotes": [
+                {
+                    "d": "Some ancient authorities read <i>bring to light what is</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003010,
+            "text": "to the intent that now unto the principalities and the powers in the heavenly  might be made known through the church the manifold wisdom of God, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003011,
+            "text": "according to the <i>[e]</i>eternal purpose which he purposed in Christ Jesus our Lord: ",
+            "version": "ASV",
+            "clsstr": "Eph-3-11",
+            "footnotes": [
+                {
+                    "e": "Greek <i>purpose of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003012,
+            "text": "in whom we have boldness and access in confidence through <i>[f]</i>our faith in him. ",
+            "version": "ASV",
+            "clsstr": "Eph-3-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>the faith of him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003013,
+            "text": "Wherefore I ask that <i>[g]</i>ye may not faint at my tribulations for you, which <i>[h]</i>are your glory.",
+            "version": "ASV",
+            "clsstr": "Eph-3-13",
+            "footnotes": [
+                {
+                    "g": "Or, <i>I</i>"
+                },
+                {
+                    "h": "Or, <i>is</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003014,
+            "text": "\u00b6 For this cause I bow my knees unto the Father, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003015,
+            "text": "from whom every <i>[i]</i>family in heaven and on earth is named, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-15",
+            "footnotes": [
+                {
+                    "i": "Greek <i>fatherhood</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003016,
+            "text": "that he would grant you, according to the riches of his glory, that ye may be strengthened with power through his Spirit in the inward man; ",
+            "version": "ASV",
+            "clsstr": "Eph-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003017,
+            "text": "that Christ may dwell in your hearts through faith; to the end that ye, being rooted and grounded in love, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003018,
+            "text": "may be strong to apprehend with all the saints what is the breadth and length and height and depth, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003019,
+            "text": "and to know the love of Christ which passeth knowledge, that ye may be filled unto all the fulness of God.",
+            "version": "ASV",
+            "clsstr": "Eph-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003020,
+            "text": "\u00b6 Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, ",
+            "version": "ASV",
+            "clsstr": "Eph-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 49003021,
+            "text": "unto him the glory in the church and in Christ Jesus unto <i>[j]</i>all generations for ever and ever. Amen.",
+            "version": "ASV",
+            "clsstr": "Eph-3-21",
+            "footnotes": [
+                {
+                    "j": "Greek <i>all the generations of the age of the ages</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ephesians",
+    "chapters": 3
+}

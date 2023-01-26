@@ -1,0 +1,133 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19036001,
+            "text": "<b>Wickedness of men and lovingkindness of God.</b>\n\u00b6 For the Chief Musician. of David the servant of Jehovah.\u00b6  <i>[a]</i>The transgression of the wicked <i>[b]</i>saith within my heart,\n    There is no fear of God before his eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Transgression saith to the wicked</i>"
+                },
+                {
+                    "b": "Or, <i>uttereth its oracle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036002,
+            "text": " For <i>[c]</i>he flattereth himself in his own eyes,\n   <i>[d]</i>That his iniquity will not be found out and be hated.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>it</i> (or <i>he</i>) <i>flattereth him in his eyes</i>"
+                },
+                {
+                    "d": "Or, <i>Until his iniquity be found and be hated</i>. Hebrew <i>Concerning the finding out of his iniquity and hating it</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036003,
+            "text": "    The words of his mouth are iniquity and deceit:\n    He hath ceased to be wise  to do good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036004,
+            "text": "    He deviseth iniquity upon his bed;\n    He setteth himself in a way that is not good;\n    He abhorreth not evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036005,
+            "text": "\u00b6     Thy lovingkindness, O Jehovah, is in the heavens;\n    Thy faithfulness  unto the skies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036006,
+            "text": "    Thy righteousness is like the mountains of God;\n    Thy judgments are a great deep:\n    O Jehovah, thou preservest man and beast.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036007,
+            "text": "    How precious is thy lovingkindness, O God!\n    And the children of men take refuge under the shadow of thy wings.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036008,
+            "text": "  They shall be <i>[e]</i>abundantly satisfied with the fatness of thy house;\n    And thou wilt make them drink of the river of thy pleasures.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-8",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>watered</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036009,
+            "text": "    For with thee is the fountain of life:\n    In thy light shall we see light.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036010,
+            "text": "    Oh continue thy lovingkindness unto them that know thee,\n    And thy righteousness to the upright in heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036011,
+            "text": "    Let not the foot of pride come against me,\n    And let not the hand of the wicked drive me away.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19036012,
+            "text": "    There are the workers of iniquity fallen:\n    They are thrust down, and shall not be able to rise.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-36-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 36
+}

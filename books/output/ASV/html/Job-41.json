@@ -1,0 +1,322 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18041001,
+            "text": "\u00b6   Canst thou draw out <i>[a]</i>leviathan with a fishhook?\n    Or press down his tongue with a cord?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-1",
+            "footnotes": [
+                {
+                    "a": "That is, <i>the crocodile</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041002,
+            "text": " Canst thou put <i>[b]</i>a rope into his nose?\n  Or pierce his jaw through with a <i>[c]</i>hook?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-2",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>a rope of rushes</i>."
+                },
+                {
+                    "c": "Or, <i>spike</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041003,
+            "text": "    Will he make many supplications unto thee?\n    Or will he speak soft words unto thee?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041004,
+            "text": "    Will he make a covenant with thee,\n    That thou shouldest take him for a servant for ever?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041005,
+            "text": "    Wilt thou play with him as with a bird?\n    Or wilt thou bind him for thy maidens?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041006,
+            "text": "    Will the bands  make traffic of him?\n    Will they part him among the merchants?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041007,
+            "text": "    Canst thou fill his skin with barbed irons,\n    Or his head with fish-spears?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041008,
+            "text": "    Lay thy hand upon him;\n    Remember the battle, and do so no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041009,
+            "text": "    Behold, the hope of him is in vain:\n    Will not one be cast down even at the sight of him?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041010,
+            "text": "\u00b6     None is so fierce that he dare stir him up;\n    Who then is he that can stand before me?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041011,
+            "text": "    Who hath first given unto me, that I should repay him?\n     under the whole heaven is mine.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041012,
+            "text": "\u00b6     I will not keep silence concerning his limbs,\n    Nor his mighty strength, nor his goodly frame.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041013,
+            "text": "  Who can <i>[d]</i>strip off his outer garment?\n    Who shall come within his jaws?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-13",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>uncover the face of his garment</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041014,
+            "text": "  Who can open the doors of his face?\n   <i>[e]</i>Round about his teeth is terror.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>His teeth are terrible round about</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041015,
+            "text": "   <i>[f]</i>strong scales are  pride,\n    Shut up together  a close seal.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>courses of scales</i>. Hebrew <i>channels of shields</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041016,
+            "text": "\u00b6     One is so near to another,\n    That no air can come between them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041017,
+            "text": "    They are joined one to another;\n    They stick together, so that they cannot be sundered.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041018,
+            "text": "    His sneezings flash forth light,\n    And his eyes are like the eyelids of the morning.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041019,
+            "text": "    Out of his mouth go burning torches,\n    And sparks of fire leap forth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041020,
+            "text": "    Out of his nostrils a smoke goeth,\n    As of a boiling pot and  rushes.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041021,
+            "text": "    His breath kindleth coals,\n    And a flame goeth forth from his mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041022,
+            "text": "    In his neck abideth strength,\n    And terror danceth before him.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041023,
+            "text": "    The flakes of his flesh are joined together:\n    They are firm upon him; they cannot be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041024,
+            "text": "    His heart is as firm as a stone;\n    Yea, firm as the nether millstone.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041025,
+            "text": "    When he raiseth himself up, the mighty are afraid:\n    By reason of consternation they are beside themselves.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041026,
+            "text": "  If one lay at him with the sword, it cannot avail;\n  Nor the spear, the dart, nor the <i>[g]</i>pointed shaft.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-26",
+            "footnotes": [
+                {
+                    "g": "Or, <i>coat of mail</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041027,
+            "text": "    He counteth iron as straw,\n     brass as rotten wood.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041028,
+            "text": "  The <i>[h]</i>arrow cannot make him flee:\n    Sling-stones are turned with him into stubble.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-28",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>son of the bow</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041029,
+            "text": "    Clubs are counted as stubble:\n    He laugheth at the rushing of the javelin.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041030,
+            "text": "    His underparts are  sharp potsherds:\n    He spreadeth  a threshing-wain upon the mire.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041031,
+            "text": "    He maketh the deep to boil like a pot:\n    He maketh the sea like a pot of ointment.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041032,
+            "text": "    He maketh a path to shine after him;\n    One would think the deep to be hoary.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041033,
+            "text": "    Upon earth there is not his like,\n    That is made without fear.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18041034,
+            "text": "    He beholdeth everything that is high:\n    He is king over all the sons of pride.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-41-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 41
+}

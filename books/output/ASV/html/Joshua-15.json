@@ -1,0 +1,554 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 6,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 33,
+            "end_book": null
+        }
+    ],
+    "book": 6,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 6015001,
+            "text": "\u00b6 And the lot for the tribe of the children of Judah according to their families was unto the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south. ",
+            "version": "ASV",
+            "clsstr": "Josh-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015002,
+            "text": "And their south border was from the uttermost part of the Salt Sea, from the <i>[a]</i>bay that looketh southward; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>tongue</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015003,
+            "text": "and it went out southward of the ascent of Akrabbim, and passed along to Zin, and went up by the south of Kadesh-barnea, and passed along by Hezron, and went up to Addar, and turned about to Karka; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015004,
+            "text": "and it passed along to Azmon, and went out at the brook of Egypt; and the goings out of the border were at the sea: this shall be your south border. ",
+            "version": "ASV",
+            "clsstr": "Josh-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015005,
+            "text": "And the east border was the Salt Sea, even unto the end of the Jordan. And the border of the north quarter was from the <i>[b]</i>bay of the sea at the end of the Jordan; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>tongue</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015006,
+            "text": "and the border went up to Beth-hoglah, and passed along by the north of Beth-arabah; and the border went up to the stone of Bohan the son of Reuben; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015007,
+            "text": "and the border went up to Debir from the valley of Achor, and so northward, looking toward Gilgal, that is over against the ascent of Adummim, which is on the south side of the river; and the border passed along to the waters of En-shemesh, and the goings out thereof were at En-rogel; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015008,
+            "text": "and the border went up by the valley of the son of Hinnom unto the <i>[c]</i>side of the Jebusite southward (the same is Jerusalem); and the border went up to the top of the mountain that lieth before the valley of Hinnom westward, which is at the uttermost part of the vale of Rephaim northward; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-8",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>shoulder</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015009,
+            "text": "and the border extended from the top of the mountain unto the fountain of the waters of Nephtoah, and went out to the cities of mount Ephron; and the border extended to Baalah (the same is Kiriath-jearim); ",
+            "version": "ASV",
+            "clsstr": "Josh-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015010,
+            "text": "and the border turned about from Baalah westward unto mount Seir, and passed along unto the side of mount Jearim on the north (the same is Chesalon), and went down to Beth-shemesh, and passed along by Timnah; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015011,
+            "text": "and the border went out unto the side of Ekron northward; and the border extended to Shikkeron, and passed along to mount Baalah, and went out at Jabneel; and the goings out of the border were at the sea. ",
+            "version": "ASV",
+            "clsstr": "Josh-15-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015012,
+            "text": "And the west border was to the great sea, and the border . This is the border of the children of Judah round about according to their families.",
+            "version": "ASV",
+            "clsstr": "Josh-15-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015013,
+            "text": "\u00b6 And unto Caleb the son of Jephunneh he gave a portion among the children of Judah, according to the commandment of Jehovah to Joshua, even <i>[d]</i>Kiriath-arba,  the father of Anak (the same is Hebron). ",
+            "version": "ASV",
+            "clsstr": "Josh-15-13",
+            "footnotes": [
+                {
+                    "d": "That is, <i>The city of Arba</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015014,
+            "text": "And Caleb drove out thence the three sons of Anak: Sheshai, and Ahiman, and Talmai, the children of Anak. ",
+            "version": "ASV",
+            "clsstr": "Josh-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015015,
+            "text": "And he went up thence against the inhabitants of Debir: now the name of Debir beforetime was Kiriath-sepher. ",
+            "version": "ASV",
+            "clsstr": "Josh-15-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015016,
+            "text": "And Caleb said, He that smiteth Kiriath-sepher, and taketh it, to him will I give Achsah my daughter to wife. ",
+            "version": "ASV",
+            "clsstr": "Josh-15-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015017,
+            "text": "And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife. ",
+            "version": "ASV",
+            "clsstr": "Josh-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015018,
+            "text": "And it came to pass, when she came , that she moved him to ask of her father a field: and she alighted from off her ass; and Caleb said, What wouldest thou? ",
+            "version": "ASV",
+            "clsstr": "Josh-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015019,
+            "text": "And she said, Give me a <i>[e]</i>blessing; for that thou hast <i>[f]</i>set me in the land of the South, give me also springs of water. And he gave her the upper springs and the nether springs.",
+            "version": "ASV",
+            "clsstr": "Josh-15-19",
+            "footnotes": [
+                {
+                    "e": "Or, <i>present</i>"
+                },
+                {
+                    "f": "Or, <i>given me the land of the South</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015020,
+            "text": "\u00b6 This is the inheritance of the tribe of the children of Judah according to their families.",
+            "version": "ASV",
+            "clsstr": "Josh-15-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015021,
+            "text": "\u00b6 And the uttermost cities of the tribe of the children of Judah toward the border of Edom in the South were Kabzeel, and Eder, and Jagur, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015022,
+            "text": "and Kinah, and Dimonah, and Adadah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015023,
+            "text": "and Kedesh, and Hazor, and Ithnan, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015024,
+            "text": "Ziph, and Telem, and Bealoth, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015025,
+            "text": "and Hazor-hadattah, and Kerioth-hezron (the same is Hazor), ",
+            "version": "ASV",
+            "clsstr": "Josh-15-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015026,
+            "text": "Amam, and Shema, and Moladah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015027,
+            "text": "and Hazar-gaddah, and Heshmon, and Beth-pelet, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015028,
+            "text": "and Hazar-shual, and Beer-sheba, and Biziothiah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015029,
+            "text": "Baalah, and Iim, and Ezem, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015030,
+            "text": "and Eltolad, and Chesil, and Hormah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015031,
+            "text": "and Ziklag, and Madmannah, and Sansannah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015032,
+            "text": "and Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities are twenty and nine, with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015033,
+            "text": "\u00b6 In the lowland, Eshtaol, and Zorah, and Ashnah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015034,
+            "text": "and Zanoah, and En-gannim, Tappuah, and Enam, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015035,
+            "text": "Jarmuth, and Adullam, Socoh, and Azekah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015036,
+            "text": "and Shaaraim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015037,
+            "text": "\u00b6 Zenan, and Hadashah, and Migdal-gad, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015038,
+            "text": "and Dilean, and Mizpeh, and Joktheel, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015039,
+            "text": "Lachish, and Bozkath, and Eglon, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015040,
+            "text": "and Cabbon, and <i>[g]</i>Lahmam, and Chitlish, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-40",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Lahmas</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015041,
+            "text": "and Gederoth, Beth-dagon, and Naamah, and Makkedah; sixteen cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015042,
+            "text": "\u00b6 Libnah, and Ether, and Ashan, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015043,
+            "text": "and Iphtah, and Ashnah, and Nezib, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015044,
+            "text": "and Keilah, and Achzib, and Mareshah; nine cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015045,
+            "text": "\u00b6 Ekron, with its <i>[h]</i>towns and its villages; ",
+            "version": "ASV",
+            "clsstr": "Josh-15-45",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>daughters</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015046,
+            "text": "from Ekron even unto the sea, all that were by the side of Ashdod, with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015047,
+            "text": "\u00b6 Ashdod, its towns and its villages; Gaza, its towns and its villages; unto the brook of Egypt, and the great sea, and the border .",
+            "version": "ASV",
+            "clsstr": "Josh-15-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015048,
+            "text": "\u00b6 And in the hill-country, Shamir, and Jattir, and Socoh, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015049,
+            "text": "and Dannah, and Kiriath-sannah (the same is Debir), ",
+            "version": "ASV",
+            "clsstr": "Josh-15-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015050,
+            "text": "and Anab, and Eshtemoh, and Anim, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015051,
+            "text": "and Goshen, and Holon, and Giloh; eleven cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015052,
+            "text": "\u00b6 Arab, and Dumah, and Eshan, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015053,
+            "text": "and Janim, and Beth-tappuah, and Aphekah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015054,
+            "text": "and Humtah, and Kiriath-arba (the same is Hebron), and Zior; nine cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015055,
+            "text": "\u00b6 Maon, Carmel, and Ziph, and Jutah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015056,
+            "text": "and Jezreel, and Jokdeam, and Zanoah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015057,
+            "text": "Kain, Gibeah, and Timnah; ten cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015058,
+            "text": "\u00b6 Halhul, Beth-zur, and Gedor, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015059,
+            "text": "and Maarath, and Beth-anoth, and Eltekon; six cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015060,
+            "text": "\u00b6 Kiriath-baal (the same is Kiriath-jearim), and Rabbah; two cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015061,
+            "text": "\u00b6 In the wilderness, Beth-arabah, Middin, and Secacah, ",
+            "version": "ASV",
+            "clsstr": "Josh-15-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015062,
+            "text": "and Nibshan, and the City of Salt, and En-gedi; six cities with their villages.",
+            "version": "ASV",
+            "clsstr": "Josh-15-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6015063,
+            "text": "\u00b6 And as for the Jebusites, the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.",
+            "version": "ASV",
+            "clsstr": "Josh-15-63",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Joshua",
+    "chapters": 15
+}

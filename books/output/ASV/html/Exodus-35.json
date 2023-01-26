@@ -1,0 +1,318 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 2,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 40,
+            "end_verse": 38,
+            "end_book": null
+        }
+    ],
+    "book": 2,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 2035001,
+            "text": "\u00b6 And Moses assembled all the congregation of the children of Israel, and said unto them, These are the words which Jehovah hath commanded, that ye should do them. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035002,
+            "text": "Six days shall work be done; but on the seventh day there shall be to you a holy day, a sabbath of solemn rest to Jehovah: whosoever doeth any work therein shall be put to death. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035003,
+            "text": "Ye shall kindle no fire throughout your habitations upon the sabbath day.",
+            "version": "ASV",
+            "clsstr": "Exod-35-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035004,
+            "text": "\u00b6 And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which Jehovah commanded, saying, ",
+            "version": "ASV",
+            "clsstr": "Exod-35-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035005,
+            "text": "Take ye from among you an offering unto Jehovah; whosoever is of a willing heart, let him bring it, Jehovah\u2019s offering: gold, and silver, and brass, ",
+            "version": "ASV",
+            "clsstr": "Exod-35-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035006,
+            "text": "and blue, and purple, and scarlet, and fine linen, and goats\u2019 , ",
+            "version": "ASV",
+            "clsstr": "Exod-35-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035007,
+            "text": "and rams\u2019 skins dyed red, and sealskins, and acacia wood, ",
+            "version": "ASV",
+            "clsstr": "Exod-35-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035008,
+            "text": "and oil for the light, and spices for the anointing oil, and for the sweet incense, ",
+            "version": "ASV",
+            "clsstr": "Exod-35-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035009,
+            "text": "and onyx stones, and stones to be set, for the ephod, and for the breastplate.",
+            "version": "ASV",
+            "clsstr": "Exod-35-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035010,
+            "text": "\u00b6 And let every wise-hearted man among you come, and make all that Jehovah hath commanded: ",
+            "version": "ASV",
+            "clsstr": "Exod-35-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035011,
+            "text": "the tabernacle, its tent, and its covering, its clasps, and its boards, its bars, its pillars, and its sockets; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035012,
+            "text": "the ark, and the staves thereof, the mercy-seat, and the veil of the screen; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035013,
+            "text": "the table, and its staves, and all its vessels, and the <i>[a]</i>showbread; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-13",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Presence-bread</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035014,
+            "text": "the candlestick also for the light, and its vessels, and its lamps, and the oil for the light; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035015,
+            "text": "and the altar of incense, and its staves, and the anointing oil, and the sweet incense, and the screen for the door, at the door of the tabernacle; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035016,
+            "text": "the altar of burnt-offering, with its grating of brass, its staves, and all its vessels, the laver and its base; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035017,
+            "text": "the hangings of the court, the pillars thereof, and their sockets, and the screen for the gate of the court; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035018,
+            "text": "the pins of the tabernacle, and the pins of the court, and their cords; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035019,
+            "text": "the finely wrought garments, for ministering in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest\u2019s office.",
+            "version": "ASV",
+            "clsstr": "Exod-35-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035020,
+            "text": "\u00b6 And all the congregation of the children of Israel departed from the presence of Moses. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035021,
+            "text": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing,  brought Jehovah\u2019s offering, for the work of the tent of meeting, and for all the service thereof, and for the holy garments. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035022,
+            "text": "And they came, both men and women, as many as were willing-hearted, brought brooches, and <i>[b]</i>ear-rings, and signet-rings, and <i>[c]</i>armlets, all jewels of gold; even every man that offered an offering of gold unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-22",
+            "footnotes": [
+                {
+                    "b": "Or, <i>nose-rings</i>"
+                },
+                {
+                    "c": "Or, <i>necklaces</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035023,
+            "text": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats\u2019 , and rams\u2019 skins dyed red, and sealskins, brought them. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035024,
+            "text": "Every one that did offer an offering of silver and brass brought Jehovah\u2019s offering; and every man, with whom was found acacia wood for any work of the service, brought it. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035025,
+            "text": "And all the women that were wise-hearted did spin with their hands, and brought that which they had spun, the blue, and the purple, the scarlet, and the fine linen. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035026,
+            "text": "And all the women whose heart stirred them up in wisdom spun the goats\u2019 . ",
+            "version": "ASV",
+            "clsstr": "Exod-35-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035027,
+            "text": "And the rulers brought the <i>[d]</i>onyx stones, and the stones to be set, for the ephod, and for the breastplate; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-27",
+            "footnotes": [
+                {
+                    "d": "Or, <i>beryl</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035028,
+            "text": "and the spice, and the oil; for the light, and for the anointing oil, and for the sweet incense. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035029,
+            "text": "The children of Israel brought a freewill-offering unto Jehovah; every man and woman, whose heart made them willing to bring for all the work, which Jehovah had commanded to be made by Moses.",
+            "version": "ASV",
+            "clsstr": "Exod-35-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035030,
+            "text": "\u00b6 And Moses said unto the children of Israel, See, Jehovah hath called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035031,
+            "text": "and he hath filled him with the Spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship; ",
+            "version": "ASV",
+            "clsstr": "Exod-35-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035032,
+            "text": "and to devise skilful works, to work in gold, and in silver, and in brass, ",
+            "version": "ASV",
+            "clsstr": "Exod-35-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035033,
+            "text": "and in cutting of stones for setting, and in carving of wood, to work in all manner of skilful workmanship. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035034,
+            "text": "And he hath put in his heart that he may teach, both he, and Oholiab, the son of Ahisamach, of the tribe of Dan. ",
+            "version": "ASV",
+            "clsstr": "Exod-35-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 2035035,
+            "text": "Them hath he filled with wisdom of heart, to work all manner of workmanship, of the <i>[e]</i>engraver, and of the skilful workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any workmanship, and of those that devise skilful works.",
+            "version": "ASV",
+            "clsstr": "Exod-35-35",
+            "footnotes": [
+                {
+                    "e": "Or, <i>craftsman</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Exodus",
+    "chapters": 35
+}

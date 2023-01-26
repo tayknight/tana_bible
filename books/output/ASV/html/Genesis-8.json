@@ -1,0 +1,203 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1008001,
+            "text": "\u00b6 And God remembered Noah, and all the beasts, and all the cattle that were with him in the ark: and God made a wind to pass over the earth, and the waters assuaged; ",
+            "version": "ASV",
+            "clsstr": "Gen-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008002,
+            "text": "the fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained; ",
+            "version": "ASV",
+            "clsstr": "Gen-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008003,
+            "text": "and the waters returned from off the earth continually: and after the end of a hundred and fifty days the waters decreased. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008004,
+            "text": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008005,
+            "text": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen.",
+            "version": "ASV",
+            "clsstr": "Gen-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008006,
+            "text": "\u00b6 And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made: ",
+            "version": "ASV",
+            "clsstr": "Gen-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008007,
+            "text": "and he sent forth a raven, and it went forth to and fro, until the waters were dried up from off the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008008,
+            "text": "And he sent forth a dove from him, to see if the waters were abated from off the face of the ground; ",
+            "version": "ASV",
+            "clsstr": "Gen-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008009,
+            "text": "but the dove found no rest for the sole of her foot, and she returned unto him to the ark; for the waters were on the face of the whole earth: and he put forth his hand, and took her, and brought her in unto him into the ark. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008010,
+            "text": "And he stayed yet other seven days; and again he sent forth the dove out of the ark; ",
+            "version": "ASV",
+            "clsstr": "Gen-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008011,
+            "text": "and the dove came in to him at eventide; and, lo, in her mouth <i>[a]</i>an olive-leaf plucked off: so Noah knew that the waters were abated from off the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-11",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a fresh olive-leaf</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008012,
+            "text": "And he stayed yet other seven days, and sent forth the dove; and she returned not again unto him any more.",
+            "version": "ASV",
+            "clsstr": "Gen-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008013,
+            "text": "\u00b6 And it came to pass in the six hundred and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dried. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008014,
+            "text": "And in the second month, on the seven and twentieth day of the month, was the earth dry. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008015,
+            "text": "And God spake unto Noah, saying, ",
+            "version": "ASV",
+            "clsstr": "Gen-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008016,
+            "text": "Go forth from the ark, thou, and thy wife, and thy sons, and thy sons\u2019 wives with thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008017,
+            "text": "Bring forth with thee every living thing that is with thee of all flesh, both birds, and cattle, and every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008018,
+            "text": "And Noah went forth, and his sons, and his wife, and his sons\u2019 wives with him: ",
+            "version": "ASV",
+            "clsstr": "Gen-8-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008019,
+            "text": "every beast, every creeping thing, and every bird, whatsoever moveth upon the earth, after their families, went forth out of the ark.",
+            "version": "ASV",
+            "clsstr": "Gen-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008020,
+            "text": "\u00b6 And Noah builded an altar unto Jehovah, and took of every clean beast, and of every clean bird, and offered burnt-offerings on the altar. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008021,
+            "text": "And Jehovah smelled the sweet savor; and Jehovah said in his heart, I will not again curse the ground any more for man\u2019s <i>[b]</i>sake, for that the imagination of man\u2019s heart is evil from his youth; neither will I again smite any more everything living, as I have done. ",
+            "version": "ASV",
+            "clsstr": "Gen-8-21",
+            "footnotes": [
+                {
+                    "b": "Or, <i>sake: for the</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1008022,
+            "text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
+            "version": "ASV",
+            "clsstr": "Gen-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 8
+}

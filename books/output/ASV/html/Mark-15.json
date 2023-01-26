@@ -1,0 +1,451 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41015001,
+            "text": "\u00b6 And straightway in the morning the chief priests with the elders and scribes, and the whole council, held a consultation, and bound Jesus, and carried him away, and delivered him up to Pilate. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015002,
+            "text": "And Pilate asked him, Art thou the King of the Jews? And he answering saith unto him, Thou sayest. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015003,
+            "text": "And the chief priests accused him of many things. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015004,
+            "text": "And Pilate again asked him, saying, Answerest thou nothing? behold how many things they accuse thee of. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015005,
+            "text": "But Jesus no more answered anything; insomuch that Pilate marvelled.",
+            "version": "ASV",
+            "clsstr": "Mark-15-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015006,
+            "text": "\u00b6 Now at <i>[a]</i>the feast he used to release unto them one prisoner, whom they asked of him. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a feast</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015007,
+            "text": "And there was one called Barabbas,  bound with them that had made insurrection, men who in the insurrection had committed murder. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015008,
+            "text": "And the multitude went up and began to ask him  as he was wont to do unto them. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015009,
+            "text": "And Pilate answered them, saying, Will ye that I release unto you the King of the Jews? ",
+            "version": "ASV",
+            "clsstr": "Mark-15-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015010,
+            "text": "For he perceived that for envy the chief priests had delivered him up. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015011,
+            "text": "But the chief priests stirred up the multitude, that he should rather release Barabbas unto them. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015012,
+            "text": "And Pilate again answered and said unto them, What then shall I do unto him whom ye call the King of the Jews? ",
+            "version": "ASV",
+            "clsstr": "Mark-15-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015013,
+            "text": "And they cried out again, Crucify him. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015014,
+            "text": "And Pilate said unto them, Why, what evil hath he done? But they cried out exceedingly, Crucify him. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015015,
+            "text": "And Pilate, wishing to content the multitude, released unto them Barabbas, and delivered Jesus, when he had scourged him, to be crucified.",
+            "version": "ASV",
+            "clsstr": "Mark-15-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015016,
+            "text": "\u00b6 And the soldiers led him away within the court, which is the <i>[b]</i>Praetorium; and they call together the whole <i>[c]</i>band. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-16",
+            "footnotes": [
+                {
+                    "b": "Or, <i>palace</i>"
+                },
+                {
+                    "c": "Or, <i>cohort</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015017,
+            "text": "And they clothe him with purple, and platting a crown of thorns, they put it on him; ",
+            "version": "ASV",
+            "clsstr": "Mark-15-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015018,
+            "text": "and they began to salute him, Hail, King of the Jews! ",
+            "version": "ASV",
+            "clsstr": "Mark-15-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015019,
+            "text": "And they smote his head with a reed, and spat upon him, and bowing their knees <i>[d]</i>worshipped him. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-19",
+            "footnotes": [
+                {
+                    "d": "See marginal note on [[5:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015020,
+            "text": "And when they had mocked him, they took off from him the purple, and put on him his garments. And they lead him out to crucify him.",
+            "version": "ASV",
+            "clsstr": "Mark-15-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015021,
+            "text": "\u00b6 And they <i>[e]</i>compel one passing by, Simon of Cyrene, coming from the country, the father of Alexander and Rufus, to go , that he might bear his cross.",
+            "version": "ASV",
+            "clsstr": "Mark-15-21",
+            "footnotes": [
+                {
+                    "e": "Greek <i>impress</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015022,
+            "text": "\u00b6 And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015023,
+            "text": "And they offered him wine mingled with myrrh: but he received it not. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015024,
+            "text": "And they crucify him, and part his garments among them, casting lots upon them, what each should take. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015025,
+            "text": "And it was the third hour, and they crucified him. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015026,
+            "text": "And the superscription of his accusation was written over, <b>LORD</b>. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015027,
+            "text": "And with him they crucify two robbers; one on his right hand, and one on his left. <i>[f]</i> ",
+            "version": "ASV",
+            "clsstr": "Mark-15-27",
+            "footnotes": [
+                {
+                    "f": "Many ancient authorities insert [[verse 28]] <i>And the scripture was fulfilled, which saith, And he was reckoned with transgressors</i>. See [[Lk. 22:37]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015029,
+            "text": "And they that passed by railed on him, wagging their heads, and saying, Ha! thou that destroyest the <i>[g]</i>temple, and buildest it in three days, ",
+            "version": "ASV",
+            "clsstr": "Mark-15-29",
+            "footnotes": [
+                {
+                    "g": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015030,
+            "text": "save thyself, and come down from the cross. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015031,
+            "text": "In like manner also the chief priests mocking among themselves with the scribes said, He saved others; <i>[h]</i>himself he cannot save. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-31",
+            "footnotes": [
+                {
+                    "h": "Or, <i>can he not save himself?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015032,
+            "text": "Let the Christ, the King of Israel, now come down from the cross, that we may see and believe. And they that were crucified with him reproached him.",
+            "version": "ASV",
+            "clsstr": "Mark-15-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015033,
+            "text": "\u00b6 And when the sixth hour was come, there was darkness over the whole <i>[i]</i>land until the ninth hour. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-33",
+            "footnotes": [
+                {
+                    "i": "Or, <i>earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015034,
+            "text": "And at the ninth hour Jesus cried with a loud voice, Eloi, Eloi, lama sabachthani? which is, being interpreted, <i>[j]</i>My God, my God, <i>[k]</i>why hast thou forsaken me? ",
+            "version": "ASV",
+            "clsstr": "Mark-15-34",
+            "footnotes": [
+                {
+                    "j": "[[Ps. 22:1]]."
+                },
+                {
+                    "k": "Or, <i>why didst thou forsake me?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015035,
+            "text": "And some of them that stood by, when they heard it, said, Behold, he calleth Elijah. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015036,
+            "text": "And one ran, and filling a sponge full of vinegar, put it on a reed, and gave him to drink, saying, Let be; let us see whether Elijah cometh to take him down. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015037,
+            "text": "And Jesus uttered a loud voice, and gave up the ghost. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015038,
+            "text": "And the veil of the <i>[l]</i>temple was rent in two from the top to the bottom. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-38",
+            "footnotes": [
+                {
+                    "l": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015039,
+            "text": "And when the centurion, who stood by over against him, saw that he <i>[m]</i>so gave up the ghost, he said, Truly this man was <i>[n]</i>the Son of God. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-39",
+            "footnotes": [
+                {
+                    "m": "Many ancient authorities read <i>so cried out, and gave up the ghost</i>."
+                },
+                {
+                    "n": "Or, <i>a son of God</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015040,
+            "text": "And there were also women beholding from afar: among whom both Mary Magdalene, and Mary the mother of <i>[o]</i>James the <i>[p]</i>less and of Joses, and Salome; ",
+            "version": "ASV",
+            "clsstr": "Mark-15-40",
+            "footnotes": [
+                {
+                    "o": "Or, <i>Jacob</i>"
+                },
+                {
+                    "p": "Greek <i>little</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015041,
+            "text": "who, when he was in Galilee, followed him, and ministered unto him; and many other women that came up with him unto Jerusalem.",
+            "version": "ASV",
+            "clsstr": "Mark-15-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015042,
+            "text": "\u00b6 And when even was now come, because it was the Preparation, that is, the day before the sabbath, ",
+            "version": "ASV",
+            "clsstr": "Mark-15-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015043,
+            "text": "there came Joseph of Arimathaea, a councillor of honorable estate, who also himself was looking for the kingdom of God; and he boldly went in unto Pilate, and asked for the body of Jesus. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015044,
+            "text": "And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether <i>[q]</i>he had been any while dead. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-44",
+            "footnotes": [
+                {
+                    "q": "Many ancient authorities read <i>were already dead</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015045,
+            "text": "And when he learned it of the centurion, he granted the corpse to Joseph. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015046,
+            "text": "And he bought a linen cloth, and taking him down, wound him in the linen cloth, and laid him in a tomb which had been hewn out of a rock; and he rolled a stone against the door of the tomb. ",
+            "version": "ASV",
+            "clsstr": "Mark-15-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41015047,
+            "text": "And Mary Magdalene and Mary the  of Joses beheld where he was laid.",
+            "version": "ASV",
+            "clsstr": "Mark-15-47",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 15
+}

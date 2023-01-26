@@ -1,0 +1,411 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 43,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 43,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 43010001,
+            "text": "\u00b6 Verily, verily, I say unto you, He that entereth not by the door into the fold of the sheep, but climbeth up some other way, the same is a thief and a robber. ",
+            "version": "ASV",
+            "clsstr": "John-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010002,
+            "text": "But he that entereth in by the door is <i>[a]</i>the shepherd of the sheep. ",
+            "version": "ASV",
+            "clsstr": "John-10-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>a shepherd</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010003,
+            "text": "To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out. ",
+            "version": "ASV",
+            "clsstr": "John-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010004,
+            "text": "When he hath put forth all his own, he goeth before them, and the sheep follow him: for they know his voice. ",
+            "version": "ASV",
+            "clsstr": "John-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010005,
+            "text": "And a stranger will they not follow, but will flee from him: for they know not the voice of strangers. ",
+            "version": "ASV",
+            "clsstr": "John-10-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010006,
+            "text": "This <i>[b]</i>parable spake Jesus unto them: but they understood not what things they were which he spake unto them.",
+            "version": "ASV",
+            "clsstr": "John-10-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>proverb</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010007,
+            "text": "\u00b6 Jesus therefore said unto them again, Verily, verily, I say unto you, I am the door of the sheep. ",
+            "version": "ASV",
+            "clsstr": "John-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010008,
+            "text": "All that came <i>[c]</i>before me are thieves and robbers: but the sheep did not hear them. ",
+            "version": "ASV",
+            "clsstr": "John-10-8",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities omit <i>before me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010009,
+            "text": "I am the door; by me if any man enter in, he shall be saved, and shall go in and go out, and shall find pasture. ",
+            "version": "ASV",
+            "clsstr": "John-10-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010010,
+            "text": "The thief cometh not, but that he may steal, and kill, and destroy: I came that they may have life, and may <i>[d]</i>have  abundantly. ",
+            "version": "ASV",
+            "clsstr": "John-10-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>have abundance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010011,
+            "text": "I am the good shepherd: the good shepherd layeth down his life for the sheep. ",
+            "version": "ASV",
+            "clsstr": "John-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010012,
+            "text": "He that is a hireling, and not a shepherd, whose own the sheep are not, beholdeth the wolf coming, and leaveth the sheep, and fleeth, and the wolf snatcheth them, and scattereth : ",
+            "version": "ASV",
+            "clsstr": "John-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010013,
+            "text": " because he is a hireling, and careth not for the sheep. ",
+            "version": "ASV",
+            "clsstr": "John-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010014,
+            "text": "I am the good shepherd; and I know mine own, and mine own know me, ",
+            "version": "ASV",
+            "clsstr": "John-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010015,
+            "text": "even as the Father knoweth me, and I know the Father; and I lay down my life for the sheep. ",
+            "version": "ASV",
+            "clsstr": "John-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010016,
+            "text": "And other sheep I have, which are not of this fold: them also I must <i>[e]</i>bring, and they shall hear my voice; and <i>[f]</i>they shall become one flock, one shepherd. ",
+            "version": "ASV",
+            "clsstr": "John-10-16",
+            "footnotes": [
+                {
+                    "e": "Or, <i>lead</i>"
+                },
+                {
+                    "f": "Or, <i>there shall be one flock</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010017,
+            "text": "Therefore doth the Father love me, because I lay down my life, that I may take it again. ",
+            "version": "ASV",
+            "clsstr": "John-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010018,
+            "text": "No one <i>[g]</i>taketh it away from me, but I lay it down of myself. I have <i>[h]</i>power to lay it down, and I have <i>[i]</i>power to take it again. This commandment received I from my Father.",
+            "version": "ASV",
+            "clsstr": "John-10-18",
+            "footnotes": [
+                {
+                    "g": "Some ancient authorities read <i>took it away</i>."
+                },
+                {
+                    "h": "Or, <i>right</i>"
+                },
+                {
+                    "i": "Or, <i>right</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010019,
+            "text": "\u00b6 There arose a division again among the Jews because of these words. ",
+            "version": "ASV",
+            "clsstr": "John-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010020,
+            "text": "And many of them said, He hath a demon, and is mad; why hear ye him? ",
+            "version": "ASV",
+            "clsstr": "John-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010021,
+            "text": "Others said, These are not the sayings of one possessed with a demon. Can a demon open the eyes of the blind?",
+            "version": "ASV",
+            "clsstr": "John-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010022,
+            "text": "\u00b6 <i>[j]</i>And it was the feast of the dedication at Jerusalem: ",
+            "version": "ASV",
+            "clsstr": "John-10-22",
+            "footnotes": [
+                {
+                    "j": "Some ancient authorities read <i>At that time was the feast</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010023,
+            "text": "it was winter; and Jesus was walking in the temple in Solomon\u2019s <i>[k]</i>porch. ",
+            "version": "ASV",
+            "clsstr": "John-10-23",
+            "footnotes": [
+                {
+                    "k": "Or, <i>portico</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010024,
+            "text": "The Jews therefore came round about him, and said unto him, How long dost thou hold us in suspense? If thou art the Christ, tell us plainly. ",
+            "version": "ASV",
+            "clsstr": "John-10-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010025,
+            "text": "Jesus answered them, I told you, and ye believe not: the works that I do in my Father\u2019s name, these bear witness of me. ",
+            "version": "ASV",
+            "clsstr": "John-10-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010026,
+            "text": "But ye believe not, because ye are not of my sheep. ",
+            "version": "ASV",
+            "clsstr": "John-10-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010027,
+            "text": "My sheep hear my voice, and I know them, and they follow me: ",
+            "version": "ASV",
+            "clsstr": "John-10-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010028,
+            "text": "and I give unto them eternal life; and they shall never perish, and no one shall snatch them out of my hand. ",
+            "version": "ASV",
+            "clsstr": "John-10-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010029,
+            "text": " <i>[l]</i>My Father, who hath given unto me, is greater than all; and no one is able to snatch <i>[m]</i> out of the Father\u2019s hand. ",
+            "version": "ASV",
+            "clsstr": "John-10-29",
+            "footnotes": [
+                {
+                    "l": "Some ancient authorities read <i>That which my Father hath given unto me</i>."
+                },
+                {
+                    "m": "Or, aught"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010030,
+            "text": "I and the Father are one. ",
+            "version": "ASV",
+            "clsstr": "John-10-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010031,
+            "text": "The Jews took up stones again to stone him. ",
+            "version": "ASV",
+            "clsstr": "John-10-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010032,
+            "text": "Jesus answered them, Many good works have I showed you from the Father; for which of those works do ye stone me? ",
+            "version": "ASV",
+            "clsstr": "John-10-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010033,
+            "text": "The Jews answered him, For a good work we stone thee not, but for blasphemy; and because that thou, being a man, makest thyself God. ",
+            "version": "ASV",
+            "clsstr": "John-10-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010034,
+            "text": "Jesus answered them, Is it not written in your law, <i>[n]</i>I said, Ye are gods? ",
+            "version": "ASV",
+            "clsstr": "John-10-34",
+            "footnotes": [
+                {
+                    "n": "[[Ps. 82:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010035,
+            "text": "If he called them gods, unto whom the word of God came (and the scripture cannot be broken), ",
+            "version": "ASV",
+            "clsstr": "John-10-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010036,
+            "text": "say ye of him, whom the Father <i>[o]</i>sanctified and sent into the world, Thou blasphemest; because I said, I am  Son of God? ",
+            "version": "ASV",
+            "clsstr": "John-10-36",
+            "footnotes": [
+                {
+                    "o": "Or, <i>consecrated</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010037,
+            "text": "If I do not the works of my Father, believe me not. ",
+            "version": "ASV",
+            "clsstr": "John-10-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010038,
+            "text": "But if I do them, though ye believe not me, believe the works: that ye may know and understand that the Father is in me, and I in the Father. ",
+            "version": "ASV",
+            "clsstr": "John-10-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010039,
+            "text": "They sought again to take him: and he went forth out of their hand.",
+            "version": "ASV",
+            "clsstr": "John-10-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010040,
+            "text": "\u00b6 And he went away again beyond the Jordan into the place where John was at the first baptizing; and there he abode. ",
+            "version": "ASV",
+            "clsstr": "John-10-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010041,
+            "text": "And many came unto him; and they said, John indeed did no sign: but all things whatsoever John spake of this man were true. ",
+            "version": "ASV",
+            "clsstr": "John-10-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 43010042,
+            "text": "And many believed on him there.",
+            "version": "ASV",
+            "clsstr": "John-10-42",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "John",
+    "chapters": 10
+}

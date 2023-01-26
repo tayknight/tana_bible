@@ -1,0 +1,391 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11011001,
+            "text": "\u00b6 Now king Solomon loved many foreign women, <i>[a]</i>together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>besides</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011002,
+            "text": "of the nations concerning which Jehovah said unto the children of Israel, Ye shall not go among them, neither shall they come among you; for surely they will turn away your heart after their gods: Solomon clave unto these in love. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011003,
+            "text": "And he had seven hundred wives, princesses, and three hundred concubines; and his wives turned away his heart. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011004,
+            "text": "For it came to pass, when Solomon was old, that his wives turned away his heart after other gods; and his heart was not perfect with Jehovah his God, as was the heart of David his father. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011005,
+            "text": "For Solomon went after Ashtoreth the goddess of the Sidonians, and after Milcom the abomination of the Ammonites. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011006,
+            "text": "And Solomon did that which was evil in the sight of Jehovah, and went not fully after Jehovah, as did David his father. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011007,
+            "text": "Then did Solomon build a high place for Chemosh the abomination of Moab, in the mount that is before Jerusalem, and for Molech the abomination of the children of Ammon. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011008,
+            "text": "And so did he for all his foreign wives, who burnt incense and sacrificed unto their gods.",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011009,
+            "text": "\u00b6 And Jehovah was angry with Solomon, because his heart was turned away from Jehovah, the God of Israel, who had appeared unto him twice, ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011010,
+            "text": "and had commanded him concerning this thing, that he should not go after other gods: but he kept not that which Jehovah commanded. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011011,
+            "text": "Wherefore Jehovah said unto Solomon, Forasmuch as this <i>[b]</i>is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-11",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>is with thee</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011012,
+            "text": "Notwithstanding in thy days I will not do it, for David thy father\u2019s sake: but I will rend it out of the hand of thy son. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011013,
+            "text": "Howbeit I will not rend away all the kingdom; but I will give one tribe to thy son, for David my servant\u2019s sake, and for Jerusalem\u2019s sake which I have chosen.",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011014,
+            "text": "\u00b6 And Jehovah raised up an adversary unto Solomon, Hadad the Edomite: he was of the king\u2019s seed in Edom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011015,
+            "text": "For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, and had smitten every male in Edom ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011016,
+            "text": "(for Joab and all Israel remained there six months, until he had cut off every male in Edom); ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011017,
+            "text": "that Hadad fled, he and certain Edomites of his father\u2019s servants with him, to go into Egypt, Hadad being yet a little child. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011018,
+            "text": "And they arose out of Midian, and came to Paran; and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt, who gave him a house, and appointed him victuals, and gave him land. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011019,
+            "text": "And Hadad found great favor in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011020,
+            "text": "And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh\u2019s house; and Genubath was in Pharaoh\u2019s house among the sons of Pharaoh. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011021,
+            "text": "And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011022,
+            "text": "Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit only let me depart.",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011023,
+            "text": "\u00b6 And God raised up  adversary unto him, Rezon the son of Eliada, who had fled from his lord Hadadezer king of Zobah. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011024,
+            "text": "And he gathered men unto him, and became captain over a troop, when David slew them : and they went to Damascus, and dwelt therein, and reigned in Damascus. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011025,
+            "text": "And he was an adversary to Israel all the days of Solomon, besides the mischief that Hadad : and he abhorred Israel, and reigned over Syria.",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011026,
+            "text": "\u00b6 And Jeroboam the son of Nebat, an Ephraimite of Zeredah, a servant of Solomon, whose mother\u2019s name was Zeruah, a widow, he also lifted up his hand against the king. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011027,
+            "text": "And this was the reason why he lifted up his hand against the king: Solomon built Millo, and <i>[c]</i>repaired the breach of the city of David his father. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-27",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>closed up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011028,
+            "text": "And the man Jeroboam was a mighty man of valor; and Solomon saw the young man that he was industrious, and he gave him charge over all the <i>[d]</i>labor of the house of Joseph. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-28",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>burden</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011029,
+            "text": "And it came to pass at that time, when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; now  had clad himself with a new garment; and they two were alone in the field. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011030,
+            "text": "And Ahijah laid hold of the new garment that was on him, and rent it in twelve pieces. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011031,
+            "text": "And he said to Jeroboam, Take thee ten pieces; for thus saith Jehovah, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011032,
+            "text": "(but he shall have one tribe, for my servant David\u2019s sake and for Jerusalem\u2019s sake, the city which I have chosen out of all the tribes of Israel); ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011033,
+            "text": "because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Sidonians, Chemosh the god of Moab, and Milcom the god of the children of Ammon; and they have not walked in my ways, to do that which is right in mine eyes, and  my statutes and mine ordinances, as did David his father. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011034,
+            "text": "Howbeit I will not take the whole kingdom out of his hand; but I will make him prince all the days of his life, for David my servant\u2019s sake whom I chose, <i>[e]</i>who kept my commandments and my statutes; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-34",
+            "footnotes": [
+                {
+                    "e": "Or, <i>because he kept</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011035,
+            "text": "but I will take the kingdom out of his son\u2019s hand, and will give it unto thee, even ten tribes. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011036,
+            "text": "And unto his son will I give one tribe, that David my servant may have a lamp alway before me in Jerusalem, the city which I have chosen me to put my name there. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011037,
+            "text": "And I will take thee, and thou shalt reign <i>[f]</i>according to all that thy soul desireth, and shalt be king over Israel. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-37",
+            "footnotes": [
+                {
+                    "f": "Or, <i>over all</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011038,
+            "text": "And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do that which is right in mine eyes, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and will build thee a sure house, as I built for David, and will give Israel unto thee. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011039,
+            "text": "And I will for this afflict the seed of David, but not for ever. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011040,
+            "text": "Solomon sought therefore to kill Jeroboam; but Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011041,
+            "text": "\u00b6 Now the rest of the <i>[g]</i>acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon? ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-41",
+            "footnotes": [
+                {
+                    "g": "Or, <i>words</i>. Or, <i>matters</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011042,
+            "text": "And the time that Solomon reigned in Jerusalem over all Israel was forty years. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11011043,
+            "text": "And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "1Kgs-11-43",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 11
+}

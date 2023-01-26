@@ -1,0 +1,257 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45004001,
+            "text": "\u00b6 What then shall we say <i>[a]</i>that Abraham, <i>[b]</i>our forefather, hath found according to the flesh? ",
+            "version": "ASV",
+            "clsstr": "Rom-4-1",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities read <i>of Abraham, our forefather according to the flesh?</i>"
+                },
+                {
+                    "b": "Or, <i>our forefather according to the flesh hath found?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004002,
+            "text": "For if Abraham was justified <i>[c]</i>by works, he hath whereof to glory; but not toward God. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-2",
+            "footnotes": [
+                {
+                    "c": "Greek <i>out of</i>. [[Gal. 3:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004003,
+            "text": "For what saith the scripture? <i>[d]</i>And Abraham believed God, and it was reckoned unto him for righteousness. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-3",
+            "footnotes": [
+                {
+                    "d": "[[Gen. 15:6]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004004,
+            "text": "Now to him that worketh, the reward is not reckoned as of grace, but as of debt. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004005,
+            "text": "But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is reckoned for righteousness. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004006,
+            "text": "Even as David also pronounceth blessing upon the man, unto whom God reckoneth righteousness apart from works, ",
+            "version": "ASV",
+            "clsstr": "Rom-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004007,
+            "text": ",\u00b6   <i>[e]</i>Blessed are they whose iniquities are forgiven,\n    And whose sins are covered.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-4-7",
+            "footnotes": [
+                {
+                    "e": "[[Ps. 32:1f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004008,
+            "text": "    Blessed is the man to whom the Lord will not reckon sin.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004009,
+            "text": "\u00b6 Is this blessing then pronounced upon the circumcision, or upon the uncircumcision also? for we say, To Abraham his faith was reckoned for righteousness. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004010,
+            "text": "How then was it reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision: ",
+            "version": "ASV",
+            "clsstr": "Rom-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004011,
+            "text": "and he received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision: that he might be the father of all them that believe, though they be in uncircumcision, that righteousness might be reckoned unto them; ",
+            "version": "ASV",
+            "clsstr": "Rom-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004012,
+            "text": "and the father of circumcision to them who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham which he had in uncircumcision. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004013,
+            "text": "For not <i>[f]</i>through the law was the promise to Abraham or to his seed that he should be heir of the world, but through the righteousness of faith. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>through law</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004014,
+            "text": "For if they that are of the law are heirs, faith is made void, and the promise is made of none effect: ",
+            "version": "ASV",
+            "clsstr": "Rom-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004015,
+            "text": "for the law worketh wrath; but where there is no law, neither is there transgression. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004016,
+            "text": "For this cause  of faith, that  according to grace; to the end that the promise may be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all ",
+            "version": "ASV",
+            "clsstr": "Rom-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004017,
+            "text": "(as it is written, <i>[g]</i>A father of many nations have I made thee) before him whom he believed,  God, who giveth life to the dead, and calleth the things that are not, as though they were. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-17",
+            "footnotes": [
+                {
+                    "g": "[[Gen. 17:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004018,
+            "text": "Who in hope believed against hope, to the end that he might become a father of many nations, according to that which had been spoken, <i>[h]</i>So shall thy seed be. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-18",
+            "footnotes": [
+                {
+                    "h": "[[Gen. 15:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004019,
+            "text": "And without being weakened in faith he considered his own body <i>[i]</i>now as good as dead (he being about a hundred years old), and the deadness of Sarah\u2019s <i>[j]</i>womb; ",
+            "version": "ASV",
+            "clsstr": "Rom-4-19",
+            "footnotes": [
+                {
+                    "i": "Many ancient authorities omit <i>now</i>."
+                },
+                {
+                    "j": "Or, <i>womb: yea, etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004020,
+            "text": "yet, looking unto the promise of God, he wavered not through unbelief, but waxed strong through faith, giving glory to God, ",
+            "version": "ASV",
+            "clsstr": "Rom-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004021,
+            "text": "and being fully assured that what he had promised, he was able also to perform. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004022,
+            "text": "Wherefore also it was reckoned unto him for righteousness. ",
+            "version": "ASV",
+            "clsstr": "Rom-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004023,
+            "text": "Now it was not written for his sake alone, that it was reckoned unto him; ",
+            "version": "ASV",
+            "clsstr": "Rom-4-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004024,
+            "text": "but for our sake also, unto whom it shall be reckoned, who believe on him that raised Jesus our Lord from the dead, ",
+            "version": "ASV",
+            "clsstr": "Rom-4-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45004025,
+            "text": "who was delivered up for our trespasses, and was raised for our justification.",
+            "version": "ASV",
+            "clsstr": "Rom-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 4
+}

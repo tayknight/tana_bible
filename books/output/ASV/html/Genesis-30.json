@@ -1,0 +1,419 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1030001,
+            "text": "\u00b6 And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and she said unto Jacob, Give me children, or else I die. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030002,
+            "text": "And Jacob\u2019s anger was kindled against Rachel: and he said, Am I in God\u2019s stead, who hath withheld from thee the fruit of the womb? ",
+            "version": "ASV",
+            "clsstr": "Gen-30-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030003,
+            "text": "And she said, Behold, my maid Bilhah, go in unto her; that she may bear upon my knees, and I also may <i>[a]</i>obtain children by her. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>be builded by her</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030004,
+            "text": "And she gave him Bilhah her handmaid to wife: and Jacob went in unto her. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030005,
+            "text": "And Bilhah conceived, and bare Jacob a son. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030006,
+            "text": "And Rachel said, God hath <i>[b]</i>judged me, and hath also heard my voice, and hath given me a son: therefore called she his name Dan. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-6",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>dan</i>, he judged."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030007,
+            "text": "And Bilhah Rachel\u2019s handmaid conceived again, and bare Jacob a second son. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030008,
+            "text": "And Rachel said, With <i>[c]</i>mighty wrestlings have I <i>[d]</i>wrestled with my sister, and have prevailed: and she called his name Naphtali.",
+            "version": "ASV",
+            "clsstr": "Gen-30-8",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>wrestlings of God</i>."
+                },
+                {
+                    "d": "Hebrew <i>niphtal</i>, he wrestled."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030009,
+            "text": "\u00b6 When Leah saw that she had left off bearing, she took Zilpah her handmaid, and gave her to Jacob to wife. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030010,
+            "text": "And Zilpah Leah\u2019s handmaid bare Jacob a son. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030011,
+            "text": "And Leah said, <i>[e]</i>Fortunate! and she called his name <i>[f]</i>Gad. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-11",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>With fortune!</i> Another reading is, <i>Fortune is come</i>."
+                },
+                {
+                    "f": "That is, <i>Fortune</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030012,
+            "text": "And Zilpah Leah\u2019s handmaid bare Jacob a second son. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030013,
+            "text": "And Leah said, <i>[g]</i>Happy am I! for the daughters will call me happy: and she called his name <i>[h]</i>Asher.",
+            "version": "ASV",
+            "clsstr": "Gen-30-13",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>With my happiness!</i>"
+                },
+                {
+                    "h": "That is, <i>Happy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030014,
+            "text": "\u00b6 And Reuben went in the days of wheat harvest, and found <i>[i]</i>mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son\u2019s mandrakes. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-14",
+            "footnotes": [
+                {
+                    "i": "Or, <i>love apples</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030015,
+            "text": "And she said unto her, Is it a small matter that thou hast taken away my husband? and wouldest thou take away my son\u2019s mandrakes also? And Rachel said, Therefore he shall lie with thee to-night for thy son\u2019s mandrakes. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030016,
+            "text": "And Jacob came from the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for I have surely hired thee with my son\u2019s mandrakes. And he lay with her that night. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030017,
+            "text": "And God hearkened unto Leah, and she conceived, and bare Jacob a fifth son. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030018,
+            "text": "And Leah said, God hath given me my <i>[j]</i>hire, because I gave my handmaid to my husband: and she called his name Issachar. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-18",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>sachar</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030019,
+            "text": "And Leah conceived again, and bare a sixth son to Jacob. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030020,
+            "text": "And Leah said, God hath endowed me with a good dowry; now will my husband <i>[k]</i>dwell with me, because I have borne him six sons: and she called his name Zebulun. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-20",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>zabal</i>, he dwelt."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030021,
+            "text": "And afterwards she bare a daughter, and called her name Dinah. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030022,
+            "text": "And God remembered Rachel, and God hearkened to her, and opened her womb. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030023,
+            "text": "And she conceived, and bare a son: and said, God hath taken away my reproach: ",
+            "version": "ASV",
+            "clsstr": "Gen-30-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030024,
+            "text": "and she called his name Joseph, saying, Jehovah <i>[l]</i>add to me another son.",
+            "version": "ASV",
+            "clsstr": "Gen-30-24",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>joseph</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030025,
+            "text": "\u00b6 And it came to pass, when Rachel had borne Joseph, that Jacob said unto Laban, Send me away, that I may go unto mine own place, and to my country. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030026,
+            "text": "Give me my wives and my children for whom I have served thee, and let me go: for thou knowest my service wherewith I have served thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030027,
+            "text": "And Laban said unto him, If now I have found favor in thine eyes, :  I have divined that Jehovah hath blessed me for thy sake. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030028,
+            "text": "And he said, Appoint me thy wages, and I will give it. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030029,
+            "text": "And he said unto him, Thou knowest how I have served thee, and how thy cattle have fared with me. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030030,
+            "text": "For it was little which thou hadst before I came, and it hath <i>[m]</i>increased unto a multitude; and Jehovah hath blessed thee <i>[n]</i>whithersoever I turned: and now when shall I provide for mine own house also? ",
+            "version": "ASV",
+            "clsstr": "Gen-30-30",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>broken forth</i>."
+                },
+                {
+                    "n": "Hebrew <i>at my foot</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030031,
+            "text": "And he said, What shall I give thee? And Jacob said, Thou shalt not give me aught: if thou wilt do this thing for me, I will again feed thy flock and keep it. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030032,
+            "text": "I will pass through all thy flock to-day, removing from thence every speckled and spotted one, and every black one among the sheep, and the spotted and speckled among the goats: and  shall be my hire. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030033,
+            "text": "So shall my righteousness answer for me hereafter, when thou shalt come concerning my hire that is before thee: every one that is not speckled and spotted among the goats, and black among the sheep, that,  with me, shall be counted stolen. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030034,
+            "text": "And Laban said, Behold, I would it might be according to thy word. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030035,
+            "text": "And he removed that day the he-goats that were ringstreaked and spotted, and all the she-goats that were speckled and spotted, every one that had white in it, and all the black ones among the sheep, and gave them into the hand of his sons; ",
+            "version": "ASV",
+            "clsstr": "Gen-30-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030036,
+            "text": "and he set three days\u2019 journey betwixt himself and Jacob: and Jacob fed the rest of Laban\u2019s flocks.",
+            "version": "ASV",
+            "clsstr": "Gen-30-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030037,
+            "text": "\u00b6 And Jacob took him rods of fresh <i>[o]</i>poplar, and of the almond and of the plane-tree; and peeled white streaks in them, and made the white appear which was in the rods. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-37",
+            "footnotes": [
+                {
+                    "o": "Or, <i>storax-tree</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030038,
+            "text": "And he set the rods which he had peeled over against the flocks in the gutters in the watering-troughs where the flocks came to drink; and they conceived when they came to drink. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030039,
+            "text": "And the flocks conceived before the rods, and the flocks brought forth ringstreaked, speckled, and spotted. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030040,
+            "text": "And Jacob separated the lambs, and set the faces of the flocks toward the ringstreaked and all the black in the flock of Laban: and he put his own droves apart, and put them not unto Laban\u2019s flock. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030041,
+            "text": "And it came to pass, whensoever the stronger of the flock did conceive, that Jacob laid the rods before the eyes of the flock in the gutters, that they might conceive among the rods; ",
+            "version": "ASV",
+            "clsstr": "Gen-30-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030042,
+            "text": "but when the flock were feeble, he put them not in: so the feebler were Laban\u2019s, and the stronger Jacob\u2019s. ",
+            "version": "ASV",
+            "clsstr": "Gen-30-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1030043,
+            "text": "And the man increased exceedingly, and had large flocks, and maid-servants and men-servants, and camels and asses.",
+            "version": "ASV",
+            "clsstr": "Gen-30-43",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 30
+}

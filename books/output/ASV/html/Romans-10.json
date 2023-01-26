@@ -1,0 +1,251 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 45,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 27,
+            "end_book": null
+        }
+    ],
+    "book": 45,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 45010001,
+            "text": "\u00b6 Brethren, my heart\u2019s <i>[a]</i>desire and my supplication to God is for them, that they may be saved. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>good pleasure</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010002,
+            "text": "For I bear them witness that they have a zeal for God, but not according to knowledge. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010003,
+            "text": "For being ignorant of God\u2019s righteousness, and seeking to establish their own, they did not subject themselves to the righteousness of God. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010004,
+            "text": "For Christ is the end of the law unto righteousness to every one that believeth. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010005,
+            "text": "For Moses writeth that <i>[b]</i>the man that doeth the righteousness which is of the law shall live thereby. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-5",
+            "footnotes": [
+                {
+                    "b": "[[Lev. 18:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010006,
+            "text": "But the righteousness which is of faith saith thus, <i>[c]</i>Say not in thy heart, Who shall ascend into heaven? (that is, to bring Christ down:) ",
+            "version": "ASV",
+            "clsstr": "Rom-10-6",
+            "footnotes": [
+                {
+                    "c": "[[Dt. 30:12f]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010007,
+            "text": "or, Who shall descend into the abyss? (that is, to bring Christ up from the dead.) ",
+            "version": "ASV",
+            "clsstr": "Rom-10-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010008,
+            "text": "But what saith it? <i>[d]</i>The word is nigh thee, in thy mouth, and in thy heart: that is, the word of faith, which we preach: ",
+            "version": "ASV",
+            "clsstr": "Rom-10-8",
+            "footnotes": [
+                {
+                    "d": "[[Dt. 30:14]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010009,
+            "text": " <i>[e]</i>because if thou shalt <i>[f]</i>confess with thy mouth Jesus  Lord, and shalt believe in thy heart that God raised him from the dead, thou shalt be saved: ",
+            "version": "ASV",
+            "clsstr": "Rom-10-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>that</i>"
+                },
+                {
+                    "f": "Some ancient authorities read <i>confess the word with thy mouth, that Jesus</i> is <i>Lord</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010010,
+            "text": "for with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010011,
+            "text": "For the scripture saith, <i>[g]</i>Whosoever believeth on him shall not be put to shame. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-11",
+            "footnotes": [
+                {
+                    "g": "[[Isa. 28:16]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010012,
+            "text": "For there is no distinction between Jew and Greek: for the same  is Lord of all, and is rich unto all that call upon him: ",
+            "version": "ASV",
+            "clsstr": "Rom-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010013,
+            "text": "for, <i>[h]</i>Whosoever shall call upon the name of the Lord shall be saved. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-13",
+            "footnotes": [
+                {
+                    "h": "[[Joel 2:32]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010014,
+            "text": "How then shall they call on him in whom they have not believed? and how shall they believe in him whom they have not heard? and how shall they hear without a preacher? ",
+            "version": "ASV",
+            "clsstr": "Rom-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010015,
+            "text": "and how shall they preach, except they be sent? even as it is written, <i>[i]</i>How beautiful are the feet of them that bring <i>[j]</i>glad tidings of good things!",
+            "version": "ASV",
+            "clsstr": "Rom-10-15",
+            "footnotes": [
+                {
+                    "i": "[[Isa. 52:7]]."
+                },
+                {
+                    "j": "Or, <i>a gospel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010016,
+            "text": "\u00b6 But they did not all hearken to the <i>[k]</i>glad tidings. For Isaiah saith, <i>[l]</i>Lord, who hath believed our report? ",
+            "version": "ASV",
+            "clsstr": "Rom-10-16",
+            "footnotes": [
+                {
+                    "k": "Or, <i>gospel</i>"
+                },
+                {
+                    "l": "[[Isa. 53:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010017,
+            "text": "So belief  of hearing, and hearing by the word of Christ. ",
+            "version": "ASV",
+            "clsstr": "Rom-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010018,
+            "text": "But I say, Did they not hear? Yea, verily,\u00b6  <i>[m]</i>Their sound went out into all the earth,\n  And their words unto the ends of <i>[n]</i>the world.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-10-18",
+            "footnotes": [
+                {
+                    "m": "[[Ps. 19:4]]."
+                },
+                {
+                    "n": "Greek <i>the inhabited earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010019,
+            "text": "\u00b6 But I say, Did Israel not know? First Moses saith,\u00b6   <i>[o]</i>I will provoke you to jealousy with that which is no nation,\n    With a nation void of understanding will I anger you.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-10-19",
+            "footnotes": [
+                {
+                    "o": "[[Dt. 32:21]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010020,
+            "text": "\u00b6 And Isaiah is very bold, and saith,\u00b6   <i>[p]</i>I was found of them that sought me not;\n    I became manifest unto them that asked not of me.\n    ",
+            "version": "ASV",
+            "clsstr": "Rom-10-20",
+            "footnotes": [
+                {
+                    "p": "[[Isa. 65:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 45010021,
+            "text": "\u00b6 But as to Israel he saith, <i>[q]</i>All the day long did I spread out my hands unto a disobedient and gainsaying people.",
+            "version": "ASV",
+            "clsstr": "Rom-10-21",
+            "footnotes": [
+                {
+                    "q": "[[Isa. 65:2]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Romans",
+    "chapters": 10
+}

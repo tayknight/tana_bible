@@ -1,0 +1,95 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 14,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 14,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 14027001,
+            "text": "\u00b6 Jotham was twenty and five years old when he began to reign; and he reigned sixteen years in Jerusalem: and his mother\u2019s name was Jerushah the daughter of Zadok. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027002,
+            "text": "And he did that which was right in the eyes of Jehovah, according to all that his father Uzziah had done: howbeit he entered not into the temple of Jehovah. And the people did yet corruptly. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027003,
+            "text": "He built the upper gate of the house of Jehovah, and on the wall of Ophel he built much. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027004,
+            "text": "Moreover he built cities in the hill-country of Judah, and in the forests he built castles and towers. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027005,
+            "text": "He fought also with the king of the children of Ammon, and prevailed against them. And the children of Ammon gave him the same year a hundred talents of silver, and ten thousand <i>[a]</i>measures of wheat, and ten thousand of barley. So much did the children of Ammon render unto him, in the second year also, and in the third. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>cors</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027006,
+            "text": "So Jotham became mighty, because he ordered his ways before Jehovah his God. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027007,
+            "text": "Now the rest of the acts of Jotham, and all his wars, and his ways, behold, they are written in the book of the kings of Israel and Judah. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027008,
+            "text": "He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "2Chr-27-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 14027009,
+            "text": "And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "2Chr-27-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Chronicles",
+    "chapters": 27
+}

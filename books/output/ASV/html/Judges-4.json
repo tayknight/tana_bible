@@ -1,0 +1,241 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 7,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 7,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 7004001,
+            "text": "\u00b6 And the children of Israel again did that which was evil in the sight of Jehovah, when Ehud was dead. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004002,
+            "text": "And Jehovah sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, who dwelt in Harosheth of the <i>[a]</i>Gentiles. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>nations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004003,
+            "text": "And the children of Israel cried unto Jehovah: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
+            "version": "ASV",
+            "clsstr": "Judg-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004004,
+            "text": "\u00b6 Now Deborah, a prophetess, the wife of Lappidoth, she judged Israel at that time. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004005,
+            "text": "And she <i>[b]</i>dwelt under the palm-tree of Deborah between Ramah and Beth-el in the hill-country of Ephraim: and the children of Israel came up to her for judgment. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>sat</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004006,
+            "text": "And she sent and called Barak the son of Abinoam out of Kedesh-naphtali, and said unto him, Hath not Jehovah, the God of Israel, commanded, , Go and draw unto mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun? ",
+            "version": "ASV",
+            "clsstr": "Judg-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004007,
+            "text": "And I will draw unto thee, to the river Kishon, Sisera, the captain of Jabin\u2019s army, with his chariots and his multitude; and I will deliver him into thy hand. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004008,
+            "text": "And Barak said unto her, If thou wilt go with me, then I will go; but if thou wilt not go with me, I will not go. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004009,
+            "text": "And she said, I will surely go with thee: notwithstanding, the journey that thou takest shall not be for thine honor; for Jehovah will sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004010,
+            "text": "And Barak called Zebulun and Naphtali together to Kedesh; and there went up ten thousand men at his feet: and Deborah went up with him.",
+            "version": "ASV",
+            "clsstr": "Judg-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004011,
+            "text": "\u00b6 Now Heber <i>[c]</i>the Kenite had separated himself from the Kenites, even from the children of Hobab the <i>[d]</i>brother-in-law of Moses, and had pitched his tent as far as the <i>[e]</i>oak in Zaanannim, which is by Kedesh.",
+            "version": "ASV",
+            "clsstr": "Judg-4-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>Kain</i>. See [[Num. 24:22]]."
+                },
+                {
+                    "d": "Or, <i>father-in-law</i>"
+                },
+                {
+                    "e": "Or, <i>terebinth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004012,
+            "text": "\u00b6 And they told Sisera that Barak the son of Abinoam was gone up to mount Tabor. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004013,
+            "text": "And Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people that were with him, from Harosheth of the <i>[f]</i>Gentiles, unto the river Kishon. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>nations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004014,
+            "text": "And Deborah said unto Barak, Up; for this is the day in which Jehovah hath delivered Sisera into thy hand; is not Jehovah gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004015,
+            "text": "And Jehovah discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; and Sisera alighted from his chariot, and fled away on his feet. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004016,
+            "text": "But Barak pursued after the chariots, and after the host, unto Harosheth of the <i>[g]</i>Gentiles: and all the host of Sisera fell by the edge of the sword; there was not a man left.",
+            "version": "ASV",
+            "clsstr": "Judg-4-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>nations</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004017,
+            "text": "\u00b6 Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004018,
+            "text": "And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And he turned in unto her into the tent, and she covered him with a rug. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004019,
+            "text": "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004020,
+            "text": "And he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say, Is there any man here? that thou shalt say, No. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004021,
+            "text": "Then Jael Heber\u2019s wife took a tent-pin, and took a hammer in her hand, and went softly unto him, and smote the pin into his temples, and it pierced through into the ground; for he was <i>[h]</i>in a deep sleep; so he swooned and died. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-21",
+            "footnotes": [
+                {
+                    "h": "Or, <i>in a deep sleep and weary; so he died</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004022,
+            "text": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will show thee the man whom thou seekest. And he came unto her; and, behold, Sisera lay dead, and the tent-pin was in his temples.",
+            "version": "ASV",
+            "clsstr": "Judg-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004023,
+            "text": "\u00b6 So God subdued on that day Jabin the king of Canaan before the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Judg-4-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7004024,
+            "text": "And the hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.",
+            "version": "ASV",
+            "clsstr": "Judg-4-24",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Judges",
+    "chapters": 4
+}

@@ -1,0 +1,107 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19047001,
+            "text": "<b>God the King of the Earth.</b>\n\u00b6 For the Chief Musician. A Psalm of the sons of Korah.\u00b6     Oh clap your hands, all ye peoples;\n    Shout unto God with the voice of triumph.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047002,
+            "text": "  For <i>[a]</i>Jehovah Most High is terrible;\n    He is a great King over all the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Jehovah is most high</i> and <i>terrible</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047003,
+            "text": "    He subdueth peoples under us,\n    And nations under our feet.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047004,
+            "text": "  He chooseth our inheritance for us,\n  The glory of Jacob whom he <i>[b]</i>loved. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>loveth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047005,
+            "text": "    God is gone up with a shout,\n    Jehovah with the sound of a trumpet.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047006,
+            "text": "    Sing praises to God, sing praises:\n    Sing praises unto our King, sing praises.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047007,
+            "text": "  For God is the King of all the earth:\n  Sing ye praises <i>[c]</i>with understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>in a skilful psalm</i>. Hebrew <i>Maschil</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047008,
+            "text": "    God reigneth over the nations:\n    God sitteth upon his holy throne.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19047009,
+            "text": "  The princes of the peoples are gathered together\n   <i>[d]</i> the people of the God of Abraham;\n    For the shields of the earth belong unto God:\n    He is greatly exalted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-47-9",
+            "footnotes": [
+                {
+                    "d": "Or, Unto <i>the people</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 47
+}

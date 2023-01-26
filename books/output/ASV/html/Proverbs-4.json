@@ -1,0 +1,265 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20004001,
+            "text": "\u00b6     Hear,  sons, the instruction of a father,\n    And attend to know understanding:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004002,
+            "text": "  For I give you good doctrine;\n  Forsake ye not my <i>[a]</i>law.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004003,
+            "text": "  For I was a son unto my father,\n  Tender and <i>[b]</i>only beloved in the sight of my mother.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>an only one</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004004,
+            "text": "    And he taught me, and said unto me:\n    Let thy heart retain my words;\n    Keep my commandments, and live;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004005,
+            "text": "    Get wisdom, get understanding;\n    Forget not, neither decline from the words of my mouth;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004006,
+            "text": "    Forsake her not, and she will preserve thee;\n    Love her, and she will keep thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004007,
+            "text": "  <i>[c]</i>Wisdom the principal thing; get wisdom;\n  Yea, with all <i>[d]</i>thy getting get understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>The beginning of wisdom</i> is, <i>Get wisdom</i>"
+                },
+                {
+                    "d": "Or, <i>thou hast gotten</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004008,
+            "text": "    Exalt her, and she will promote thee;\n    She will bring thee to honor, when thou dost embrace her.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004009,
+            "text": "  She will give to thy head a chaplet of grace;\n  A crown of <i>[e]</i>beauty will she deliver to thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>glory</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004010,
+            "text": "\u00b6     Hear, O my son, and receive my sayings;\n    And the years of thy life shall be many.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004011,
+            "text": "    I have taught thee in the way of wisdom;\n    I have led thee in paths of uprightness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004012,
+            "text": "    When thou goest, thy steps shall not be straitened;\n    And if thou runnest, thou shalt not stumble.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004013,
+            "text": "    Take fast hold of instruction; let her not go:\n    Keep her; for she is thy life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004014,
+            "text": "    Enter not into the path of the wicked,\n    And walk not in the way of evil men.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004015,
+            "text": "    Avoid it, pass not by it;\n    Turn from it, and pass on.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004016,
+            "text": "    For they sleep not, except they do evil;\n    And their sleep is taken away, unless they cause some to fall.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004017,
+            "text": "    For they eat the bread of wickedness,\n    And drink the wine of violence.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004018,
+            "text": "    But the path of the righteous is as the dawning light,\n    That shineth more and more unto the perfect day.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004019,
+            "text": "    The way of the wicked is as darkness:\n    They know not at what they stumble.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004020,
+            "text": "\u00b6     My son, attend to my words;\n    Incline thine ear unto my sayings.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004021,
+            "text": "    Let them not depart from thine eyes;\n    Keep them in the midst of thy heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004022,
+            "text": "    For they are life unto those that find them,\n    And health to all their flesh.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004023,
+            "text": "  Keep thy heart <i>[f]</i>with all diligence;\n    For out of it are the issues of life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-23",
+            "footnotes": [
+                {
+                    "f": "Or, <i>above all that thou guardest</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004024,
+            "text": "    Put away from thee a wayward mouth,\n    And perverse lips put far from thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004025,
+            "text": "    Let thine eyes look right on,\n    And let thine eyelids look straight before thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004026,
+            "text": "  <i>[g]</i>Make level the path of thy feet,\n  And let all thy ways be <i>[h]</i>established.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-26",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Weigh carefully</i>"
+                },
+                {
+                    "h": "Or, <i>ordered aright</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20004027,
+            "text": "    Turn not to the right hand nor to the left:\n    Remove thy foot from evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-4-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 4
+}

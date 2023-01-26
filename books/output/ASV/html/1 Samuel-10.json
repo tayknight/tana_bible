@@ -1,0 +1,277 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9010001,
+            "text": "\u00b6 Then Samuel took the vial of oil, and poured it upon his head, and kissed him, and said, Is it not that Jehovah hath anointed thee to be prince over his inheritance? ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010002,
+            "text": "When thou art departed from me to-day, then thou shalt find two men by Rachel\u2019s sepulchre, in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found; and, lo, thy father hath left off caring for the asses, and is anxious for you, saying, What shall I do for my son? ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010003,
+            "text": "Then shalt thou go on forward from thence, and thou shalt come to the <i>[a]</i>oak of Tabor; and there shall meet thee there three men going up to God to Beth-el, one carrying three kids, and another carrying three loaves of bread, and another carrying a <i>[b]</i>bottle of wine: ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>terebinth</i>"
+                },
+                {
+                    "b": "Or, <i>skin</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010004,
+            "text": "and they will salute thee, and give thee two loaves of bread, which thou shalt receive of their hand. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010005,
+            "text": "After that thou shalt come to <i>[c]</i>the hill of God, where is the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a band of prophets coming down from the high place with a psaltery, and a timbrel, and a pipe, and a harp, before them; and they will be prophesying: ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Gibeah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010006,
+            "text": "and the Spirit of Jehovah will come mightily upon thee, and thou shalt prophesy with them, and shalt be turned into another man. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010007,
+            "text": "And <i>[d]</i>let it be, when these signs are come unto thee, <i>[e]</i>that thou do as occasion shall serve thee; for God is with thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-7",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>it shall come to pass, that when these signs etc.</i>"
+                },
+                {
+                    "e": "Hebrew <i>do for thee as thy hand shall find</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010008,
+            "text": "And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt-offerings, and to sacrifice sacrifices of peace-offerings: seven days shalt thou tarry, till I come unto thee, and show thee what thou shalt do.",
+            "version": "ASV",
+            "clsstr": "1Sam-10-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010009,
+            "text": "\u00b6 And it was so, that, when he had turned his back to go from Samuel, God <i>[f]</i>gave him another heart: and all those signs came to pass that day. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-9",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>turned</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010010,
+            "text": "And when they came thither to <i>[g]</i>the hill, behold, a band of prophets met him; and the Spirit of God came mightily upon him, and he prophesied among them. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-10",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Gibeah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010011,
+            "text": "And it came to pass, when all that knew him beforetime saw that, behold, he prophesied with the prophets, then the people said one to another, What is this that is come unto the son of Kish? Is Saul also among the prophets? ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010012,
+            "text": "And one of the same place answered and said, And who is their father? Therefore it became a proverb, Is Saul also among the prophets? ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010013,
+            "text": "And when he had made an end of prophesying, he came to the high place.",
+            "version": "ASV",
+            "clsstr": "1Sam-10-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010014,
+            "text": "\u00b6 And Saul\u2019s uncle said unto him and to his servant, Whither went ye? And he said, To seek the asses; and when we saw that they were not found, we came to Samuel. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010015,
+            "text": "And Saul\u2019s uncle said, Tell me, I pray thee, what Samuel said unto you. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010016,
+            "text": "And Saul said unto his uncle, He told us plainly that the asses were found. But concerning the matter of the kingdom, whereof Samuel spake, he told him not.",
+            "version": "ASV",
+            "clsstr": "1Sam-10-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010017,
+            "text": "\u00b6 And Samuel called the people together unto Jehovah to Mizpah; ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010018,
+            "text": "and he said unto the children of Israel, Thus saith Jehovah, the God of Israel, I brought up Israel out of Egypt, and I delivered you out of the hand of the Egyptians, and out of the hand of all the kingdoms that oppressed you: ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010019,
+            "text": "but ye have this day rejected your God, who himself saveth you out of all your calamities and your distresses; and ye have said unto him, , but set a king over us. Now therefore present yourselves before Jehovah by your tribes, and by your thousands. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010020,
+            "text": "So Samuel brought all the tribes of Israel near, and the tribe of Benjamin was taken. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010021,
+            "text": "And he brought the tribe of Benjamin near by their families; and the family of the Matrites was taken; and Saul the son of Kish was taken: but when they sought him, he could not be found. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010022,
+            "text": "Therefore they asked of Jehovah further, <i>[h]</i>Is there yet a man to come hither? And Jehovah answered, Behold, he hath hid himself among the baggage. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-22",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Is the man yet come hither?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010023,
+            "text": "And they ran and fetched him thence; and when he stood among the people, he was higher than any of the people from his shoulders and upward. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010024,
+            "text": "And Samuel said to all the people, See ye him whom Jehovah hath chosen, that there is none like him among all the people? And all the people shouted, and said,  live the king.",
+            "version": "ASV",
+            "clsstr": "1Sam-10-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010025,
+            "text": "\u00b6 Then Samuel told the people the manner of the kingdom, and wrote it in <i>[i]</i>a book, and laid it up before Jehovah. And Samuel sent all the people away, every man to his house. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-25",
+            "footnotes": [
+                {
+                    "i": "Or, <i>the</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010026,
+            "text": "And Saul also went to his house to Gibeah; and there went with him the <i>[j]</i>host, whose hearts God had touched. ",
+            "version": "ASV",
+            "clsstr": "1Sam-10-26",
+            "footnotes": [
+                {
+                    "j": "Or, men of <i>valor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9010027,
+            "text": "But certain worthless fellows said, How shall this man save us? And they despised him, and brought him no present. <i>[k]</i>But he held his peace.",
+            "version": "ASV",
+            "clsstr": "1Sam-10-27",
+            "footnotes": [
+                {
+                    "k": "Or, <i>But he was as though he had been deaf</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 10
+}

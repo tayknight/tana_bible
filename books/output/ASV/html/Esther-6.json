@@ -1,0 +1,139 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 17,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 10,
+            "end_verse": 3,
+            "end_book": null
+        }
+    ],
+    "book": 17,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 17006001,
+            "text": "\u00b6 On that night <i>[a]</i>could not the king sleep; and he commanded to bring the book of records of the chronicles, and they were read before the king. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>the king\u2019s sleep fled</i> from him."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006002,
+            "text": "And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king\u2019s chamberlains, of those that kept the threshold, who had sought to lay hands on the king Ahasuerus. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006003,
+            "text": "And the king said, What honor and dignity hath been bestowed on Mordecai for this? Then said the king\u2019s servants that ministered unto him, There is nothing done for him. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006004,
+            "text": "And the king said, Who is in the court? Now Haman was come into the outward court of the king\u2019s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006005,
+            "text": "And the king\u2019s servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006006,
+            "text": "So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honor? Now Haman said in his heart, To whom would the king delight to do honor more than to myself? ",
+            "version": "ASV",
+            "clsstr": "Esth-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006007,
+            "text": "And Haman said unto the king, For the man whom the king delighteth to honor, ",
+            "version": "ASV",
+            "clsstr": "Esth-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006008,
+            "text": "let royal apparel be brought which the king useth to wear, and the horse that the king rideth upon, <i>[b]</i>and on the head of which a crown royal is set: ",
+            "version": "ASV",
+            "clsstr": "Esth-6-8",
+            "footnotes": [
+                {
+                    "b": "Or, <i>and the crown royal which is set upon his head</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006009,
+            "text": "and let the apparel and the horse be delivered to the hand of one of the king\u2019s most noble princes, that they may array the man therewith whom the king delighteth to honor, and cause him to ride on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honor.",
+            "version": "ASV",
+            "clsstr": "Esth-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006010,
+            "text": "\u00b6 Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king\u2019s gate: let nothing fail of all that thou hast spoken. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006011,
+            "text": "Then took Haman the apparel and the horse, and arrayed Mordecai, and caused him to ride through the street of the city, and proclaimed before him, Thus shall it be done unto the man whom the king delighteth to honor. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006012,
+            "text": "And Mordecai came again to the king\u2019s gate. But Haman hasted to his house, mourning and having his head covered. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006013,
+            "text": "And Haman recounted unto Zeresh his wife and all his friends everything that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai, before whom thou hast begun to fall, be of the seed of the Jews, thou shalt not prevail against him, but shalt surely fall before him. ",
+            "version": "ASV",
+            "clsstr": "Esth-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 17006014,
+            "text": "While they were yet talking with him, came the king\u2019s chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.",
+            "version": "ASV",
+            "clsstr": "Esth-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Esther",
+    "chapters": 6
+}

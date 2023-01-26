@@ -1,0 +1,119 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 22,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 8,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 22,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 22003001,
+            "text": "\u00b6     By night on my bed\n    I sought him whom my soul loveth:\n    I sought him, but I found him not.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003002,
+            "text": "    , I will rise now, and go about the city;\n    In the streets and in the broad ways\n    I will seek him whom my soul loveth:\n    I sought him, but I found him not.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003003,
+            "text": "    The watchmen that go about the city found me;\n    , Saw ye him whom my soul loveth?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003004,
+            "text": "    It was but a little that I passed from them,\n    When I found him whom my soul loveth:\n    I held him, and would not let him go,\n    Until I had brought him into my mother\u2019s house,\n    And into the chamber of her that conceived me.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003005,
+            "text": "\u00b6   I adjure you, O daughters of Jerusalem,\n  By the roes, or by the hinds of the field,\n  That ye stir not up, nor awake love,\n  Until <i>[a]</i>he please.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>it</i>. Or, <i>she</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003006,
+            "text": "\u00b6     Who is this that cometh up from the wilderness\n    Like pillars of smoke,\n    Perfumed with myrrh and frankincense,\n    With all powders of the merchant?\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003007,
+            "text": "    Behold, it is the litter of Solomon;\n    Threescore mighty men are about it,\n    Of the mighty men of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003008,
+            "text": "    They all handle the sword,  are expert in war:\n    Every man hath his sword upon his thigh,\n    Because of fear in the night.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003009,
+            "text": "  King Solomon made himself a <i>[b]</i>palanquin\n    Of the wood of Lebanon.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>car of state</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003010,
+            "text": "  He made the pillars thereof of silver,\n  The bottom thereof of gold, the seat of it of purple,\n  The midst thereof being <i>[c]</i>paved with love,\n    From the daughters of Jerusalem.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>inlaid</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22003011,
+            "text": "    Go forth, O ye daughters of Zion, and behold king Solomon,\n    With the crown wherewith his mother hath crowned him\n    In the day of his espousals,\n    And in the day of the gladness of his heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Song of Solomon",
+    "chapters": 3
+}

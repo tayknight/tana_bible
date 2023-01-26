@@ -1,0 +1,288 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5003001,
+            "text": "\u00b6 Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, unto battle at Edrei. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003002,
+            "text": "And Jehovah said unto me, Fear him not; for I have delivered him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, who dwelt at Heshbon. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003003,
+            "text": "So Jehovah our God delivered into our hand Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003004,
+            "text": "And we took all his cities at that time; there was not a city which we took not from them; threescore cities, all the region of Argob, the kingdom of Og in Bashan. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003005,
+            "text": "All these were cities fortified with high walls, gates, and bars; besides the <i>[a]</i>unwalled towns a great many. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>country towns</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003006,
+            "text": "And we <i>[b]</i>utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying every <i>[c]</i>inhabited city, with the women and the little ones. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-6",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>devoted</i>."
+                },
+                {
+                    "c": "Hebrew <i>city of men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003007,
+            "text": "But all the cattle, and the spoil of the cities, we took for a prey unto ourselves. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003008,
+            "text": "And we took the land at that time out of the hand of the two kings of the Amorites that were beyond the Jordan, from the valley of the Arnon unto mount Hermon ",
+            "version": "ASV",
+            "clsstr": "Deut-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003009,
+            "text": "( Hermon the Sidonians call Sirion, and the Amorites call it Senir); ",
+            "version": "ASV",
+            "clsstr": "Deut-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003010,
+            "text": "all the cities of the <i>[d]</i>plain, and all Gilead, and all Bashan, unto Salecah and Edrei, cities of the kingdom of Og in Bashan. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>table-land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003011,
+            "text": "(For only Og king of Bashan remained of the remnant of the Rephaim; behold, his bedstead was a bedstead of iron; is it not in Rabbah of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man.)",
+            "version": "ASV",
+            "clsstr": "Deut-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003012,
+            "text": "\u00b6 And this land we took in possession at that time: from Aroer, which is by the valley of the Arnon, and half the hill-country of Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites: ",
+            "version": "ASV",
+            "clsstr": "Deut-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003013,
+            "text": "and the rest of Gilead, and all Bashan, the kingdom of Og, gave I unto the half-tribe of Manasseh; <i>[e]</i>all the region of Argob, <i>[f]</i>even all Bashan. (The same is called the land of Rephaim. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-13",
+            "footnotes": [
+                {
+                    "e": "Or, <i>all the region of Argob. (All that Bashan is called etc.</i>"
+                },
+                {
+                    "f": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003014,
+            "text": "Jair the son of Manasseh took all the region of Argob, unto the border of the Geshurites and the Maacathites, and called them, even Bashan, after his own name, Havvoth-jair, unto this day.) ",
+            "version": "ASV",
+            "clsstr": "Deut-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003015,
+            "text": "And I gave Gilead unto Machir. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003016,
+            "text": "And unto the Reubenites and unto the Gadites I gave from Gilead even unto the valley of the Arnon, the middle of the valley, <i>[g]</i>and the border , even unto the river Jabbok, which is the border of the children of Ammon; ",
+            "version": "ASV",
+            "clsstr": "Deut-3-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>for a border</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003017,
+            "text": "the Arabah also, and the Jordan <i>[h]</i>and the border , from Chinnereth even unto the sea of the Arabah, the Salt Sea, under the <i>[i]</i>slopes of Pisgah eastward.",
+            "version": "ASV",
+            "clsstr": "Deut-3-17",
+            "footnotes": [
+                {
+                    "h": "Or, <i>for a border</i>"
+                },
+                {
+                    "i": "Or, <i>springs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003018,
+            "text": "\u00b6 And I commanded you at that time, saying, Jehovah your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all the men of valor. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003019,
+            "text": "But your wives, and your little ones, and your cattle, (I know that ye have much cattle,) shall abide in your cities which I have given you, ",
+            "version": "ASV",
+            "clsstr": "Deut-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003020,
+            "text": "until Jehovah give rest unto your brethren, as unto you, and they also possess the land which Jehovah your God giveth them beyond the Jordan: then shall ye return every man unto his possession, which I have given you. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003021,
+            "text": "And I commanded Joshua at that time, saying, Thine eyes have seen all that Jehovah your God hath done unto these two kings: so shall Jehovah do unto all the kingdoms whither thou goest over. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003022,
+            "text": "Ye shall not fear them; for Jehovah your God, he it is that fighteth for you.",
+            "version": "ASV",
+            "clsstr": "Deut-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003023,
+            "text": "\u00b6 And I besought Jehovah at that time, saying, ",
+            "version": "ASV",
+            "clsstr": "Deut-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003024,
+            "text": "O Lord Jehovah, thou hast begun to show thy servant thy greatness, and thy strong hand: for what god is there in heaven or in earth, that can do according to thy works, and according to thy mighty acts? ",
+            "version": "ASV",
+            "clsstr": "Deut-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003025,
+            "text": "Let me go over, I pray thee, and see the good land that is beyond the Jordan, that goodly <i>[j]</i>mountain, and Lebanon. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-25",
+            "footnotes": [
+                {
+                    "j": "Or, <i>hill-country</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003026,
+            "text": "But Jehovah was wroth with me for your sakes, and hearkened not unto me; and Jehovah said unto me, Let it suffice thee; speak no more unto me of this matter. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003027,
+            "text": "Get thee up unto the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold with thine eyes: for thou shalt not go over this Jordan. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003028,
+            "text": "But charge Joshua, and encourage him, and strengthen him; for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see. ",
+            "version": "ASV",
+            "clsstr": "Deut-3-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5003029,
+            "text": "So we abode in the valley over against Beth-peor.",
+            "version": "ASV",
+            "clsstr": "Deut-3-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 3
+}

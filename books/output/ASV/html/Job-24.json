@@ -1,0 +1,278 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18024001,
+            "text": "\u00b6   <i>[a]</i>Why are times not laid up by the Almighty?\n    And why do not they that know him see his days?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Why is it, seeing times are not hidden from the Almighty, That they who know him see not his days?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024002,
+            "text": "    There are that remove the landmarks;\n    They violently take away flocks, and feed them.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024003,
+            "text": "    They drive away the ass of the fatherless;\n    They take the widow\u2019s ox for a pledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024004,
+            "text": "  They turn the needy out of the way:\n  The <i>[b]</i>poor of the earth all hide themselves.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>meek</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024005,
+            "text": "  Behold, as wild asses in the desert\n  They go forth to their work, seeking diligently for <i>[c]</i>food;\n    The wilderness  them bread for their children.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-5",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>prey</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024006,
+            "text": "  They cut <i>[d]</i>their provender in the field;\n    And they glean the vintage of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-6",
+            "footnotes": [
+                {
+                    "d": "Or, <i>his</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024007,
+            "text": "    They lie all night naked without clothing,\n    And have no covering in the cold.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024008,
+            "text": "    They are wet with the showers of the mountains,\n    And embrace the rock for want of a shelter.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024009,
+            "text": "  There are that pluck the fatherless from the breast,\n  And <i>[e]</i>take a pledge of the poor;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>take in pledge that which is on the poor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024010,
+            "text": "     they go about naked without clothing,\n    And being hungry they carry the sheaves.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024011,
+            "text": "    They make oil within the walls of these men;\n    They tread  winepresses, and suffer thirst.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024012,
+            "text": "  From out of the <i>[f]</i>populous city men groan,\n    And the soul of the wounded crieth out:\n    Yet God regardeth not the folly.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-12",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>city of men</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024013,
+            "text": "\u00b6     These are of them that rebel against the light;\n    They know not the ways thereof,\n    Nor abide in the paths thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024014,
+            "text": "    The murderer riseth with the light;\n    He killeth the poor and needy;\n    And in the night he is as a thief.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024015,
+            "text": "  The eye also of the adulterer waiteth for the twilight,\n  Saying, No eye shall see me:\n  And he <i>[g]</i>disguiseth his face.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-15",
+            "footnotes": [
+                {
+                    "g": "Or, <i>putteth a covering on his face</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024016,
+            "text": "  In the dark they dig through houses:\n   <i>[h]</i>They shut themselves up in the day-time;\n    They know not the light.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-16",
+            "footnotes": [
+                {
+                    "h": "Or, Which <i>they had marked for themselves</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024017,
+            "text": "  For <i>[i]</i>the morning is to all of them as thick darkness;\n    For they know the terrors of the thick darkness.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>thick darkness is to all of them as the morning; For they etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024018,
+            "text": "\u00b6   <i>[j]</i>Swiftly they  upon the face of the waters;\n    Their portion is cursed in the earth:\n    They turn not into the way of the vineyards.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-18",
+            "footnotes": [
+                {
+                    "j": "Or, Ye say, <i>Swiftly etc.</i> Hebrew <i>Swift is he etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024019,
+            "text": "  Drought and heat <i>[k]</i>consume the snow waters:\n     Sheol  have sinned.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-19",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>violently take away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024020,
+            "text": "  The womb shall forget him;\n  The worm shall feed sweetly on him;\n  He shall be no more remembered;\n  And unrighteousness shall be broken <i>[l]</i>as a tree.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-20",
+            "footnotes": [
+                {
+                    "l": "Or, <i>as a tree; even he that devoureth etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024021,
+            "text": "    He devoureth the barren that beareth not,\n    And doeth not good to the widow.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024022,
+            "text": "    Yet  preserveth the mighty by his power:\n    He riseth up that hath no assurance of life.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024023,
+            "text": "   giveth them to be in security, and they rest thereon;\n   <i>[m]</i>And his eyes are upon their ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-23",
+            "footnotes": [
+                {
+                    "m": "Or, <i>But</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024024,
+            "text": " They are exalted; yet a little while, and they are gone;\n  <i>[n]</i>Yea, they are brought low, they are <i>[o]</i>taken out of the way as all others,\n    And are cut off as the tops of the ears of grain.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-24",
+            "footnotes": [
+                {
+                    "n": "Or, <i>And when they are etc.</i>"
+                },
+                {
+                    "o": "Or, <i>gathered in</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18024025,
+            "text": "    And if it be not so now, who will prove me a liar,\n    And make my speech nothing worth?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-24-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 24
+}

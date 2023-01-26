@@ -1,0 +1,186 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26031001,
+            "text": "\u00b6 And it came to pass in the eleventh year, in the third , in the first  of the month, that the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031002,
+            "text": "Son of man, say unto Pharaoh king of Egypt, and to his multitude: Whom art thou like in thy greatness? ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031003,
+            "text": "Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a forest-like shade, and of high stature; and its top was among the <i>[a]</i>thick boughs. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>clouds</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031004,
+            "text": "The waters nourished it, the deep made it to grow: the rivers thereof ran round about its plantation; and it sent out its channels unto all the trees of the field. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031005,
+            "text": "Therefore its stature was exalted above all the trees of the field; and its boughs were multiplied, and its branches became long by reason of <i>[b]</i>many waters, when it shot  forth. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>great</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031006,
+            "text": "All the birds of the heavens made their nests in its boughs; and under its branches did all the beasts of the field bring forth their young; and under its shadow dwelt all great nations. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031007,
+            "text": "Thus was it fair in its greatness, in the length of its branches; for its root was by <i>[c]</i>many waters. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>great</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031008,
+            "text": "The cedars in the garden of God could not hide it; the fir-trees were not like its boughs, and the plane-trees were not as its branches; nor was any tree in the garden of God like unto it in its beauty. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031009,
+            "text": "I made it fair by the multitude of its branches, so that all the trees of Eden, that were in the garden of God, envied it. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031010,
+            "text": "Therefore thus <i>[d]</i>said the Lord Jehovah: Because thou art exalted in stature, and he hath set his top among the <i>[e]</i>thick boughs, and his heart is lifted up in his height; ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>saith</i>"
+                },
+                {
+                    "e": "Or, <i>clouds</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031011,
+            "text": "I will even deliver him into the hand of the mighty one of the nations; he shall surely deal with him; I have driven him out for his wickedness. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031012,
+            "text": "And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the watercourses of the land; and all the peoples of the earth are gone down from his shadow, and have left him. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031013,
+            "text": "Upon his ruin all the birds of the heavens shall dwell, and all the beasts of the field shall be upon his branches; ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031014,
+            "text": "to the end that none of all the trees by the waters exalt themselves in their stature, neither set their top among the thick boughs, nor that their mighty ones stand up in their height,  all that drink water: for they are all delivered unto death, to the nether parts of the earth, in the midst of the children of men, with them that go down to the pit.",
+            "version": "ASV",
+            "clsstr": "Ezek-31-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031015,
+            "text": "\u00b6 Thus saith the Lord Jehovah: In the day when he went down to Sheol I caused a mourning: I covered the deep for him, and I restrained the rivers thereof; and the great waters were stayed; and I caused Lebanon <i>[f]</i>to mourn for him, and all the trees of the field fainted for him. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-15",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>to be black</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031016,
+            "text": "I made the nations to shake at the sound of his fall, when I cast him down to Sheol with them that descend into the pit; and all the trees of Eden, the choice and best of Lebanon, all that drink water, were comforted in the nether parts of the earth. ",
+            "version": "ASV",
+            "clsstr": "Ezek-31-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031017,
+            "text": "They also went down into Sheol with him unto them that are slain by the sword; yea, they that were his arm,  dwelt under his shadow in the midst of the nations.",
+            "version": "ASV",
+            "clsstr": "Ezek-31-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26031018,
+            "text": "\u00b6 To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised, with them that are slain by the sword. This is Pharaoh and all his multitude, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-31-18",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 31
+}

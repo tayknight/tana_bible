@@ -1,0 +1,329 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18022001,
+            "text": "\u00b6 Then answered Eliphaz the Temanite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-22-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022002,
+            "text": "\u00b6     Can a man be profitable unto God?\n    Surely he that is wise is profitable unto himself.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022003,
+            "text": "    Is it any pleasure to the Almighty, that thou art righteous?\n    Or is it gain , that thou makest thy ways perfect?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022004,
+            "text": "  Is it <i>[a]</i>for thy fear  that he reproveth thee,\n    That he entereth with thee into judgment?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for fear of thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022005,
+            "text": "    Is not thy wickedness great?\n    Neither is there any end to thine iniquities.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022006,
+            "text": "    For thou hast taken pledges of thy brother for nought,\n    And stripped the naked of their clothing.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022007,
+            "text": "    Thou hast not given water to the weary to drink,\n    And thou hast withholden bread from the hungry.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022008,
+            "text": " But as for <i>[b]</i>the mighty man, he had the <i>[c]</i>earth;\n  And <i>[d]</i>the honorable man, he dwelt in it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-8",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>the man of arm</i>."
+                },
+                {
+                    "c": "Or, <i>land</i>"
+                },
+                {
+                    "d": "Hebrew <i>he whose person is accepted</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022009,
+            "text": "    Thou hast sent widows away empty,\n    And the arms of the fatherless have been broken.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022010,
+            "text": "    Therefore snares are round about thee,\n    And sudden fear troubleth thee,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022011,
+            "text": "   <i>[e]</i>Or darkness, so that thou canst not see,\n    And abundance of waters cover thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-11",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Or dost thou not see the darkness, And the flood of waters that covereth thee?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022012,
+            "text": "\u00b6   Is not God in the height of heaven?\n  And behold the <i>[f]</i>height of the stars, how high they are!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-12",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>head</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022013,
+            "text": "    And thou sayest, What doth God know?\n    Can he judge through the thick darkness?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022014,
+            "text": "    Thick clouds are a covering to him, so that he seeth not;\n    And he walketh on the vault of heaven.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022015,
+            "text": "   <i>[g]</i>Wilt thou keep the old way\n    Which wicked men have trodden?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-15",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Dost thou mark</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022016,
+            "text": "    Who were snatched away before their time,\n    Whose foundation was poured out as a stream,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022017,
+            "text": " Who said unto God, Depart from us;\n And, What can the Almighty do <i>[h]</i>for <i>[i]</i>us?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-17",
+            "footnotes": [
+                {
+                    "h": "Or, <i>to</i>"
+                },
+                {
+                    "i": "Hebrew <i>them</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022018,
+            "text": "    Yet he filled their houses with good things:\n    But the counsel of the wicked is far from me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022019,
+            "text": "    The righteous see it, and are glad;\n    And the innocent laugh them to scorn,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022020,
+            "text": "  , Surely they that did rise up against us are cut off,\n  And <i>[j]</i>the remnant of them the fire hath consumed.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-20",
+            "footnotes": [
+                {
+                    "j": "Or, <i>that which remained to them</i>. Or, <i>their abundance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022021,
+            "text": "\u00b6   Acquaint now thyself with him, and be at peace:\n   <i>[k]</i>Thereby good shall come unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-21",
+            "footnotes": [
+                {
+                    "k": "Or, as otherwise read, <i>Thereby shall thine increase be good</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022022,
+            "text": "  Receive, I pray thee, <i>[l]</i>the law from his mouth,\n    And lay up his words in thy heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-22",
+            "footnotes": [
+                {
+                    "l": "Or, <i>instruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022023,
+            "text": "  If thou return to the Almighty, thou shalt be built up,\n   <i>[m]</i>If thou put away unrighteousness far from thy tents.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-23",
+            "footnotes": [
+                {
+                    "m": "Or, <i>Thou shalt put away\u00a0.\u00a0.\u00a0. And shalt lay up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022024,
+            "text": " And lay thou <i>[n]</i>treasure <i>[o]</i>in the dust,\n    And  Ophir among the stones of the brooks;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-24",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>ore</i>."
+                },
+                {
+                    "o": "Or, <i>on the earth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022025,
+            "text": " And the Almighty will be thy <i>[p]</i>treasure,\n  And <i>[q]</i>precious silver unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-25",
+            "footnotes": [
+                {
+                    "p": "Hebrew <i>ore</i>."
+                },
+                {
+                    "q": "Or, <i>precious silver shall be thine</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022026,
+            "text": "    For then shalt thou delight thyself in the Almighty,\n    And shalt lift up thy face unto God.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022027,
+            "text": "    Thou shalt make thy prayer unto him, and he will hear thee;\n    And thou shalt pay thy vows.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022028,
+            "text": "    Thou shalt also decree a thing, and it shall be established unto thee;\n    And light shall shine upon thy ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022029,
+            "text": " When they <i>[r]</i>cast down, thou shalt say, lifting up;\n  And <i>[s]</i>the humble person he will save.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-29",
+            "footnotes": [
+                {
+                    "r": "Or, <i>are made low</i>"
+                },
+                {
+                    "s": "Hebrew <i>him that is lowly of eyes</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18022030,
+            "text": "    He will deliver  him that is not innocent:\n    Yea, he shall be delivered through the cleanness of thy hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-22-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 22
+}

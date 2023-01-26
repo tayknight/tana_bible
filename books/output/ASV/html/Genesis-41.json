@@ -1,0 +1,515 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1041001,
+            "text": "\u00b6 And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the <i>[a]</i>river. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-1",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Yeor</i>, that is, the Nile."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041002,
+            "text": "And, behold, there came up out of the river seven kine, well-favored and fat-fleshed; and they fed in the reed-grass. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041003,
+            "text": "And, behold, seven other kine came up after them out of the river, ill-favored and lean-fleshed, and stood by the other kine upon the brink of the river. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041004,
+            "text": "And the ill-favored and lean-fleshed kine did eat up the seven well-favored and fat kine. So Pharaoh awoke. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041005,
+            "text": "And he slept and dreamed a second time: and, behold, seven ears of grain came up upon one stalk, <i>[b]</i>rank and good. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>fat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041006,
+            "text": "And, behold, seven ears, thin and blasted with the east wind, sprung up after them. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041007,
+            "text": "And the thin ears swallowed up the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041008,
+            "text": "And it came to pass in the morning that his spirit was troubled; and he sent and called for all the <i>[c]</i>magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh.",
+            "version": "ASV",
+            "clsstr": "Gen-41-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>sacred scribes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041009,
+            "text": "\u00b6 Then spake the chief butler unto Pharaoh, saying, I <i>[d]</i>do remember my faults this day: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>will make mention of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041010,
+            "text": "Pharaoh was wroth with his servants, and put me in ward in the house of the captain of the guard, me and the chief baker: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041011,
+            "text": "and we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041012,
+            "text": "And there was with us there a young man, a Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041013,
+            "text": "And it came to pass, as he interpreted to us, so it was; <i>[e]</i>me he restored unto mine office, and him he hanged.",
+            "version": "ASV",
+            "clsstr": "Gen-41-13",
+            "footnotes": [
+                {
+                    "e": "Or, <i>I was restored\u00a0.\u00a0.\u00a0. and he was hanged</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041014,
+            "text": "\u00b6 Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved himself, and changed his raiment, and came in unto Pharaoh. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041015,
+            "text": "And Pharaoh said unto Joseph, I have dreamed a dream, and there is none that can interpret it: and I have heard say of thee, that when thou hearest a dream thou canst interpret it. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041016,
+            "text": "And Joseph answered Pharaoh, saying, It is not in me: God will give Pharaoh an answer of peace. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041017,
+            "text": "And Pharaoh spake unto Joseph, In my dream, behold, I stood upon the brink of the river: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041018,
+            "text": "and, behold, there came up out of the river seven kine, fat-fleshed and well-favored; and they fed in the reed-grass: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041019,
+            "text": "and, behold, seven other kine came up after them, poor and very ill-favored and lean-fleshed, such as I never saw in all the land of Egypt for badness: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041020,
+            "text": "and the lean and ill-favored kine did eat up the first seven fat kine: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041021,
+            "text": "and when they had eaten them up, it could not be known that they had eaten them; but they were still ill-favored, as at the beginning. So I awoke. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041022,
+            "text": "And I saw in my dream, and, behold, seven ears came up upon one stalk, full and good: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041023,
+            "text": "and, behold, seven ears, withered, thin,  blasted with the east wind, sprung up after them: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041024,
+            "text": "and the thin ears swallowed up the seven good ears: and I told it unto the magicians; but there was none that could declare it to me.",
+            "version": "ASV",
+            "clsstr": "Gen-41-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041025,
+            "text": "\u00b6 And Joseph said unto Pharaoh, The dream of Pharaoh is one: what God is about to do he hath declared unto Pharaoh. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041026,
+            "text": "The seven good kine are seven years; and the seven good ears are seven years: the dream is one. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041027,
+            "text": "And the seven lean and ill-favored kine that came up after them are seven years, and also the seven empty ears blasted with the east wind; they shall be seven years of famine. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041028,
+            "text": "That is the thing which I spake unto Pharaoh: what God is about to do he hath showed unto Pharaoh. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041029,
+            "text": "Behold, there come seven years of great plenty throughout all the land of Egypt: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041030,
+            "text": "and there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land; ",
+            "version": "ASV",
+            "clsstr": "Gen-41-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041031,
+            "text": "and the plenty shall not be known in the land by reason of that famine which followeth; for it shall be very grievous. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041032,
+            "text": "And for that the dream was doubled unto Pharaoh, it is because the thing is established by God, and God will shortly bring it to pass. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041033,
+            "text": "Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041034,
+            "text": "Let Pharaoh do , and let him appoint overseers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041035,
+            "text": "And let them gather all the food of these good years that come, and lay up grain under the hand of Pharaoh for food in the cities, and let them keep it. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041036,
+            "text": "And the food shall be for a store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.",
+            "version": "ASV",
+            "clsstr": "Gen-41-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041037,
+            "text": "\u00b6 And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041038,
+            "text": "And Pharaoh said unto his servants, Can we find such a one as this, a man in whom the spirit of God is? ",
+            "version": "ASV",
+            "clsstr": "Gen-41-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041039,
+            "text": "And Pharaoh said unto Joseph, Forasmuch as God hath showed thee all this, there is none so discreet and wise as thou: ",
+            "version": "ASV",
+            "clsstr": "Gen-41-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041040,
+            "text": "thou shalt be over my house, and according unto thy word shall all my people <i>[f]</i>be ruled: only in the throne will I be greater than thou. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-40",
+            "footnotes": [
+                {
+                    "f": "Or, <i>order themselves</i>. Or, <i>do homage</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041041,
+            "text": "And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041042,
+            "text": "And Pharaoh took off his signet ring from his hand, and put it upon Joseph\u2019s hand, and arrayed him in vestures of <i>[g]</i>fine linen, and put a gold chain about his neck; ",
+            "version": "ASV",
+            "clsstr": "Gen-41-42",
+            "footnotes": [
+                {
+                    "g": "Or, <i>cotton</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041043,
+            "text": "and he made him to ride in the second chariot which he had; and they cried before him, <i>[h]</i>Bow the knee: and he set him over all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-43",
+            "footnotes": [
+                {
+                    "h": "<i>Abrech</i>, probably an Egyptian word, similar in sound to the Hebrew word meaning <i>to kneel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041044,
+            "text": "And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or his foot in all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041045,
+            "text": "And Pharaoh called Joseph\u2019s name Zaphenath-paneah; and he gave him to wife Asenath, the daughter of Poti-phera priest of On. And Joseph went out over the land of Egypt.",
+            "version": "ASV",
+            "clsstr": "Gen-41-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041046,
+            "text": "\u00b6 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041047,
+            "text": "And in the seven plenteous years the earth brought forth by handfuls. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041048,
+            "text": "And he gathered up all the food of the seven years which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041049,
+            "text": "And Joseph laid up grain as the sand of the sea, very much, until he left off numbering; for it was without number. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041050,
+            "text": "And unto Joseph were born two sons before the year of famine came, whom Asenath, the daughter of Potiphera priest of On, bare unto him. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041051,
+            "text": "And Joseph called the name of the first-born <i>[i]</i>Manasseh: For, , God hath made me forget all my toil, and all my father\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-51",
+            "footnotes": [
+                {
+                    "i": "That is, <i>Making to forget</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041052,
+            "text": "And the name of the second called he <i>[j]</i>Ephraim: For God hath made me fruitful in the land of my affliction. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-52",
+            "footnotes": [
+                {
+                    "j": "From a Hebrew word signifying <i>to be fruitful</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041053,
+            "text": "And the seven years of plenty, that was in the land of Egypt, came to an end. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041054,
+            "text": "And the seven years of famine began to come, according as Joseph had said: and there was famine in all lands; but in all the land of Egypt there was bread. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041055,
+            "text": "And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041056,
+            "text": "And the famine was over all the face of the earth: and Joseph opened all the store-houses, and sold unto the Egyptians; and the famine was sore in the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "Gen-41-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1041057,
+            "text": "And all countries came into Egypt to Joseph to buy grain, because the famine was sore in all the earth.",
+            "version": "ASV",
+            "clsstr": "Gen-41-57",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 41
+}

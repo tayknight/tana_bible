@@ -1,0 +1,288 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40001001,
+            "text": "\u00b6 <i>[a]</i>The book of the <i>[b]</i>generation of Jesus Christ, the son of David, the son of Abraham.",
+            "version": "ASV",
+            "clsstr": "Matt-1-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>The genealogy of Jesus Christ</i>"
+                },
+                {
+                    "b": "Or, <i>birth</i>: as in [[verse 18]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001002,
+            "text": "\u00b6 Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judah and his brethren; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001003,
+            "text": "and Judah begat Perez and Zerah of Tamar; and Perez begat Hezron; and Hezron begat <i>[c]</i>Ram; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-3",
+            "footnotes": [
+                {
+                    "c": "Greek <i>Aram</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001004,
+            "text": "and <i>[d]</i>Ram begat Amminadab; and Amminadab begat Nahshon; and Nahshon begat Salmon; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-4",
+            "footnotes": [
+                {
+                    "d": "Greek <i>Aram</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001005,
+            "text": "and Salmon begat Boaz of Rahab; and Boaz begat Obed of Ruth; and Obed begat Jesse; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001006,
+            "text": "and Jesse begat David the king.\u00b6 And David begat Solomon of her  of Uriah; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001007,
+            "text": "and Solomon begat Rehoboam; and Rehoboam begat Abijah; and Abijah begat <i>[e]</i>Asa; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-7",
+            "footnotes": [
+                {
+                    "e": "Greek <i>Asaph</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001008,
+            "text": "and <i>[f]</i>Asa begat Jehoshaphat; and Jehoshaphat begat Joram; and Joram begat Uzziah; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-8",
+            "footnotes": [
+                {
+                    "f": "Greek <i>Asaph</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001009,
+            "text": "and Uzziah begat Jotham; and Jotham begat Ahaz; and Ahaz begat Hezekiah; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001010,
+            "text": "and Hezekiah begat Manasseh; and Manasseh begat <i>[g]</i>Amon; and <i>[h]</i>Amon begat Josiah; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-10",
+            "footnotes": [
+                {
+                    "g": "Greek <i>Amos</i>."
+                },
+                {
+                    "h": "Greek <i>Amos</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001011,
+            "text": "and Josiah begat Jechoniah and his brethren, at the time of the <i>[i]</i>carrying away to Babylon.",
+            "version": "ASV",
+            "clsstr": "Matt-1-11",
+            "footnotes": [
+                {
+                    "i": "Or, <i>removal to Babylon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001012,
+            "text": "\u00b6 And after the <i>[j]</i>carrying away to Babylon, Jechoniah begat <i>[k]</i>Shealtiel; and <i>[l]</i>Shealtiel begat Zerubbabel; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-12",
+            "footnotes": [
+                {
+                    "j": "Or, <i>removal to Babylon</i>"
+                },
+                {
+                    "k": "Greek <i>Salathiel</i>."
+                },
+                {
+                    "l": "Greek <i>Salathiel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001013,
+            "text": "and Zerubbabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001014,
+            "text": "and Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001015,
+            "text": "and Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001016,
+            "text": "and Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.",
+            "version": "ASV",
+            "clsstr": "Matt-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001017,
+            "text": "\u00b6 So all the generations from Abraham unto David are fourteen generations; and from David unto the <i>[m]</i>carrying away to Babylon fourteen generations; and from the <i>[n]</i>carrying away to Babylon unto the Christ fourteen generations.",
+            "version": "ASV",
+            "clsstr": "Matt-1-17",
+            "footnotes": [
+                {
+                    "m": "Or, <i>removal to Babylon</i>"
+                },
+                {
+                    "n": "Or, <i>removal to Babylon</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001018,
+            "text": "\u00b6 Now the <i>[o]</i>birth <i>[p]</i>of Jesus Christ was on this wise: When his mother Mary had been betrothed to Joseph, before they came together she was found with child of the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Matt-1-18",
+            "footnotes": [
+                {
+                    "o": "Or, <i>generation</i>: as in [[verse 1]]."
+                },
+                {
+                    "p": "Some ancient authorities read <i>of the Christ</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001019,
+            "text": "And Joseph her husband, being a righteous man, and not willing to make her a public example, was minded to put her away privily. ",
+            "version": "ASV",
+            "clsstr": "Matt-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001020,
+            "text": "But when he thought on these things, behold, an angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is <i>[q]</i>conceived in her is of the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Matt-1-20",
+            "footnotes": [
+                {
+                    "q": "Greek <i>begotten</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001021,
+            "text": "And she shall bring forth a son; and thou shalt call his name <b>LORD</b>; for it is he that shall save his people from their sins. ",
+            "version": "ASV",
+            "clsstr": "Matt-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001022,
+            "text": "Now all this is come to pass, that it might be fulfilled which was spoken by the Lord through the prophet, saying,",
+            "version": "ASV",
+            "clsstr": "Matt-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001023,
+            "text": "\u00b6  <i>[r]</i>Behold, the virgin shall be with child, and shall bring forth a son,\n  And they shall call his name <i>[s]</i>Immanuel;\n    \u00b6 which is, being interpreted, God with us. ",
+            "version": "ASV",
+            "clsstr": "Matt-1-23",
+            "footnotes": [
+                {
+                    "r": "[[Isa. 7:14]]."
+                },
+                {
+                    "s": "Greek <i>Emmanuel</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001024,
+            "text": "And Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took unto him his wife; ",
+            "version": "ASV",
+            "clsstr": "Matt-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40001025,
+            "text": "and knew her not till she had brought forth a son: and he called his name <b>LORD</b>.",
+            "version": "ASV",
+            "clsstr": "Matt-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 1
+}

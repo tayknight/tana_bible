@@ -1,0 +1,130 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19030001,
+            "text": "<b>Thanksgiving for deliverance from death.</b>\n\u00b6 A Psalm; a Song at the Dedication of the House. of David.\u00b6   I will extol thee, O Jehovah; for thou hast <i>[a]</i>raised me up,\n    And hast not made my foes to rejoice over me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>drawn</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030002,
+            "text": "    O Jehovah my God,\n    I cried unto thee, and thou hast healed me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030003,
+            "text": "  O Jehovah, thou hast brought up my soul from Sheol;\n  Thou hast kept me alive, <i>[b]</i>that I should not go down to the pit.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-3",
+            "footnotes": [
+                {
+                    "b": "Another reading is, <i>from among them that go down to the pit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030004,
+            "text": "    Sing praise unto Jehovah, O ye saints of his,\n    And give thanks to his holy memorial .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030005,
+            "text": " For his anger is but for a moment;\n  <i>[c]</i>His favor is for a life-time:\n  Weeping <i>[d]</i>may tarry for the night,\n    But joy  in the morning.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>In his favor is life</i>"
+                },
+                {
+                    "d": "Hebrew <i>may come in to lodge at even</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030006,
+            "text": "    As for me, I said in my prosperity,\n    I shall never be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030007,
+            "text": "    Thou, Jehovah, of thy favor hadst made my mountain to stand strong:\n    Thou didst hide thy face; I was troubled.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030008,
+            "text": "    I cried to thee, O Jehovah;\n    And unto Jehovah I made supplication:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030009,
+            "text": "    What profit is there in my blood, when I go down to the pit?\n    Shall the dust praise thee? shall it declare thy truth?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030010,
+            "text": "    Hear, O Jehovah, and have mercy upon me:\n    Jehovah, be thou my helper.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030011,
+            "text": "    Thou hast turned for me my mourning into dancing;\n    Thou hast loosed my sackcloth, and girded me with gladness;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19030012,
+            "text": "    To the end that  glory may sing praise to thee, and not be silent.\n    O Jehovah my God, I will give thanks unto thee for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-30-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 30
+}

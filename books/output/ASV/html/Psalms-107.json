@@ -1,0 +1,379 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19107001,
+            "text": "\u00b6 Book V\n<b>Jehovah delivers men from manifold troubles.</b>\n\u00b6     Oh give thanks unto Jehovah; for he is good;\n    For his lovingkindness  for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107002,
+            "text": "    Let the redeemed of Jehovah say ,\n    Whom he hath redeemed from the hand of the adversary,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107003,
+            "text": "  And gathered out of the lands,\n  From the east and from the west,\n  From the north and <i>[a]</i>from the south.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>from the sea</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107004,
+            "text": "\u00b6     They wandered in the wilderness in a desert way;\n    They found no city of habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107005,
+            "text": "    Hungry and thirsty,\n    Their soul fainted in them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107006,
+            "text": "    Then they cried unto Jehovah in their trouble,\n    And he delivered them out of their distresses,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107007,
+            "text": "    He led them also by a straight way,\n    That they might go to a city of habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107008,
+            "text": "    Oh that men would praise Jehovah for his lovingkindness,\n    And for his wonderful works to the children of men!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107009,
+            "text": "    For he satisfieth the longing soul,\n    And the hungry soul he filleth with good.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107010,
+            "text": "\u00b6     Such as sat in darkness and in the shadow of death,\n    Being bound in affliction and iron,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107011,
+            "text": "    Because they rebelled against the words of God,\n    And contemned the counsel of the Most High:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107012,
+            "text": "    Therefore he brought down their heart with labor;\n    They fell down, and there was none to help.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107013,
+            "text": "    Then they cried unto Jehovah in their trouble,\n    And he saved them out of their distresses.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107014,
+            "text": "    He brought them out of darkness and the shadow of death,\n    And brake their bonds in sunder.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107015,
+            "text": "    Oh that men would praise Jehovah for his lovingkindness,\n    And for his wonderful works to the children of men!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107016,
+            "text": "    For he hath broken the gates of brass,\n    And cut the bars of iron in sunder.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107017,
+            "text": "\u00b6   Fools because of <i>[b]</i>their transgression,\n    And because of their iniquities, are afflicted.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-17",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>the way of their transgression</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107018,
+            "text": "    Their soul abhorreth all manner of food;\n    And they draw near unto the gates of death.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107019,
+            "text": "    Then they cry unto Jehovah in their trouble,\n    And he saveth them out of their distresses.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107020,
+            "text": "  He sendeth his word, and healeth them,\n  And delivereth from their <i>[c]</i>destructions.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-20",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>pits</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107021,
+            "text": "    Oh that men would praise Jehovah for his lovingkindness,\n    And for his wonderful works to the children of men!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107022,
+            "text": "    And let them offer the sacrifices of thanksgiving,\n    And declare his works with singing.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107023,
+            "text": "\u00b6     They that go down to the sea in ships,\n    That do business in great waters;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107024,
+            "text": "    These see the works of Jehovah,\n    And his wonders in the deep.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107025,
+            "text": "    For he commandeth, and raiseth the stormy wind,\n    Which lifteth up the waves thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107026,
+            "text": "    They mount up to the heavens, they go down again to the depths:\n    Their soul melteth away because of trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107027,
+            "text": "  They reel to and fro, and stagger like a drunken man,\n  And <i>[d]</i>are at their wits\u2019 end.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-27",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>all their wisdom is swallowed up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107028,
+            "text": "    Then they cry unto Jehovah in their trouble,\n    And he bringeth them out of their distresses.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107029,
+            "text": "    He maketh the storm a calm,\n    So that the waves thereof are still.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107030,
+            "text": "    Then are they glad because they are quiet;\n    So he bringeth them unto their desired haven.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107031,
+            "text": "    Oh that men would praise Jehovah for his lovingkindness,\n    And for his wonderful works to the children of men!\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107032,
+            "text": "    Let them exalt him also in the assembly of the people,\n    And praise him in the seat of the elders.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107033,
+            "text": "\u00b6     He turneth rivers into a wilderness,\n    And watersprings into a thirsty ground;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107034,
+            "text": "    A fruitful land into a salt desert,\n    For the wickedness of them that dwell therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107035,
+            "text": "    He turneth a wilderness into a pool of water,\n    And a dry land into watersprings.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107036,
+            "text": "    And there he maketh the hungry to dwell,\n    That they may prepare a city of habitation,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107037,
+            "text": "    And sow fields, and plant vineyards,\n    And get them fruits of increase.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107038,
+            "text": "    He blesseth them also, so that they are multiplied greatly;\n    And he suffereth not their cattle to decrease.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107039,
+            "text": "    Again, they are diminished and bowed down\n    Through oppression, trouble, and sorrow.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107040,
+            "text": "    He poureth contempt upon princes,\n    And causeth them to wander in the waste, where there is no way.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107041,
+            "text": "    Yet setteth he the needy on high from affliction,\n    And maketh  families like a flock.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107042,
+            "text": "    The upright shall see it, and be glad;\n    And all iniquity shall stop her mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19107043,
+            "text": "    Whoso is wise will give heed to these things;\n    And they will consider the lovingkindnesses of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-107-43",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 107
+}

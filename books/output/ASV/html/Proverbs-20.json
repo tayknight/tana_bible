@@ -1,0 +1,309 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20020001,
+            "text": "\u00b6   Wine is a mocker, strong drink a brawler;\n  And whosoever <i>[a]</i>erreth thereby is not wise.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>reeleth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020002,
+            "text": " The terror of a king is as the roaring of a lion:\n He that <i>[b]</i>provoketh him to anger sinneth his own <i>[c]</i>life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-2",
+            "footnotes": [
+                {
+                    "b": "Or, <i>angereth himself against him</i>"
+                },
+                {
+                    "c": "Hebrew <i>soul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020003,
+            "text": "  It is an honor for a man to <i>[d]</i>keep aloof from strife;\n    But every fool will be quarrelling.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>cease</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020004,
+            "text": "  The sluggard will not plow by reason of the winter;\n   <i>[e]</i>Therefore he shall beg in harvest, and have nothing.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-4",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Therefore when he seeketh in harvest, there shall be nothing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020005,
+            "text": "    Counsel in the heart of man is  deep water;\n    But a man of understanding will draw it out.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020006,
+            "text": "   <i>[f]</i>Most men will proclaim every one his own kindness;\n    But a faithful man who can find?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-6",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Many a man will meet one that is kind to him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020007,
+            "text": "    A righteous man that walketh in his integrity,\n    Blessed are his children after him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020008,
+            "text": "  A king that sitteth on the throne of judgment\n   <i>[g]</i>Scattereth away all evil with his eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-8",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Winnoweth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020009,
+            "text": "    Who can say, I have made my heart clean,\n    I am pure from my sin?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020010,
+            "text": "   <i>[h]</i>Diverse weights, and diverse measures,\n    Both of them alike are an abomination to Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-10",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>A stone and a stone, an ephah and an ephah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020011,
+            "text": "    Even a child maketh himself known by his doings,\n    Whether his work be pure, and whether it be right.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020012,
+            "text": "    The hearing ear, and the seeing eye,\n    Jehovah hath made even both of them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020013,
+            "text": "    Love not sleep, lest thou come to poverty;\n    Open thine eyes,  thou shalt be satisfied with bread.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020014,
+            "text": "    It is bad, it is bad, saith the buyer;\n    But when he is gone his way, then he boasteth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020015,
+            "text": "    There is gold, and abundance of rubies;\n    But the lips of knowledge are a precious jewel.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020016,
+            "text": " Take his garment that is surety for a stranger;\n And <i>[i]</i>hold him in pledge for <i>[j]</i>foreigners.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-16",
+            "footnotes": [
+                {
+                    "i": "Or, <i>take a pledge of him</i>"
+                },
+                {
+                    "j": "Another reading is, <i>a foreign woman</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020017,
+            "text": "    Bread of falsehood is sweet to a man;\n    But afterwards his mouth shall be filled with gravel.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020018,
+            "text": "    Every purpose is established by counsel;\n    And by wise guidance make thou war.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020019,
+            "text": "    He that goeth about as a tale-bearer revealeth secrets;\n    Therefore company not with him that openeth wide his lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020020,
+            "text": "    Whoso curseth his father or his mother,\n    His lamp shall be put out in blackness of darkness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020021,
+            "text": "    An inheritance  gotten hastily at the beginning;\n    But the end thereof shall not be blessed.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020022,
+            "text": "    Say not thou, I will recompense evil:\n    Wait for Jehovah, and he will save thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020023,
+            "text": "  Diverse weights are an abomination to Jehovah;\n  And <i>[k]</i>a false balance is not good.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-23",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>a balance of deceit</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020024,
+            "text": "    A man\u2019s goings are of Jehovah;\n    How then can man understand his way?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020025,
+            "text": "  It is a snare to a man <i>[l]</i>rashly to say,  holy,\n    And after vows to make inquiry.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-25",
+            "footnotes": [
+                {
+                    "l": "Or, <i>rashly to utter holy</i> words. Or, <i>to devour</i> that which is <i>holy</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020026,
+            "text": "    A wise king winnoweth the wicked,\n    And bringeth the -wheel over them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020027,
+            "text": "    The spirit of man is the lamp of Jehovah,\n    Searching all his innermost parts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020028,
+            "text": "  Kindness and truth preserve the king;\n  And <i>[m]</i>his throne is upholden by kindness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-28",
+            "footnotes": [
+                {
+                    "m": "Or, <i>he upholdeth his throne</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020029,
+            "text": "    The glory of young men is their strength;\n    And the beauty of old men is the hoary head.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20020030,
+            "text": "    Stripes that wound cleanse away evil;\n    And strokes  the innermost parts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-20-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 20
+}

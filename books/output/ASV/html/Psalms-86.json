@@ -1,0 +1,159 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19086001,
+            "text": "<b>A psalm of supplication and trust.</b>\n\u00b6 A Prayer of David.\u00b6     Bow down thine ear, O Jehovah, and answer me;\n    For I am poor and needy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086002,
+            "text": "    Preserve my soul; for I am godly:\n    O thou my God, save thy servant that trusteth in thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086003,
+            "text": "    Be merciful unto me, O Lord;\n    For unto thee do I cry all the day long.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086004,
+            "text": "    Rejoice the soul of thy servant;\n    For unto thee, O Lord, do I lift up my soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086005,
+            "text": "    For thou, Lord, art good, and ready to forgive,\n    And abundant in lovingkindness unto all them that call upon thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086006,
+            "text": "    Give ear, O Jehovah, unto my prayer;\n    And hearken unto the voice of my supplications.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086007,
+            "text": "    In the day of my trouble I will call upon thee;\n    For thou wilt answer me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086008,
+            "text": "    There is none like unto thee among the gods, O Lord;\n    Neither  like unto thy works.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086009,
+            "text": "    All nations whom thou hast made shall come and worship before thee, O Lord;\n    And they shall glorify thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086010,
+            "text": "    For thou art great, and doest wondrous things:\n    Thou art God alone.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086011,
+            "text": "    Teach me thy way, O Jehovah; I will walk in thy truth:\n    Unite my heart to fear thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086012,
+            "text": "    I will praise thee, O Lord my God, with my whole heart;\n    And I will glorify thy name for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086013,
+            "text": "    For great is thy lovingkindness toward me;\n    And thou hast delivered my soul from the lowest Sheol.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086014,
+            "text": "    O God, the proud are risen up against me,\n    And a company of violent men have sought after my soul,\n    And have not set thee before them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086015,
+            "text": "    But thou, O Lord, art a God merciful and gracious,\n    Slow to anger, and abundant in lovingkindness and truth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086016,
+            "text": "  Oh turn unto me, and <i>[a]</i>have mercy upon me;\n    Give thy strength unto thy servant,\n    And save the son of thy handmaid.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-16",
+            "footnotes": [
+                {
+                    "a": "Or, <i>be gracious unto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19086017,
+            "text": "    Show me a token for good,\n    That they who hate me may see it, and be put to shame,\n    Because thou, Jehovah, hast helped me, and comforted me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-86-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 86
+}

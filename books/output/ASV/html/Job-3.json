@@ -1,0 +1,270 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18003001,
+            "text": "\u00b6 After this opened Job his mouth, and cursed his day.",
+            "version": "ASV",
+            "clsstr": "Job-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003002,
+            "text": "\u00b6     And Job answered and said:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003003,
+            "text": "    Let the day perish wherein I was born,\n    And the night which said, There is a man-child conceived.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003004,
+            "text": "    Let that day be darkness;\n    Let not God from above seek for it,\n    Neither let the light shine upon it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003005,
+            "text": "  Let darkness and <i>[a]</i>the shadow of death claim it for their own;\n    Let a cloud dwell upon it;\n    Let all that maketh black the day terrify it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>deep darkness</i> (and so elsewhere)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003006,
+            "text": "    As for that night, let thick darkness seize upon it:\n    Let it not rejoice among the days of the year;\n    Let it not come into the number of the months.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003007,
+            "text": "  Lo, let that night be <i>[b]</i>barren;\n    Let no joyful voice come therein.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>solitary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003008,
+            "text": "  Let them curse it that curse the day,\n  Who are <i>[c]</i>ready to rouse up leviathan.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>skilful</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003009,
+            "text": "    Let the stars of the twilight thereof be dark:\n    Let it look for light, but have none;\n    Neither let it behold the eyelids of the morning:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003010,
+            "text": "    Because it shut not up the doors of my  womb,\n    Nor hid trouble from mine eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003011,
+            "text": "    Why died I not from the womb?\n    Why did I not give up the ghost when my mother bare me?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003012,
+            "text": "    Why did the knees receive me?\n    Or why the breasts, that I should suck?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003013,
+            "text": "    For now should I have lain down and been quiet;\n    I should have slept; then had I been at rest,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003014,
+            "text": "  With kings and counsellors of the earth,\n  Who <i>[d]</i>built up waste places for themselves;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-14",
+            "footnotes": [
+                {
+                    "d": "Or, <i>built solitary piles</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003015,
+            "text": "    Or with princes that had gold,\n    Who filled their houses with silver:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003016,
+            "text": "    Or as a hidden untimely birth I had not been,\n    As infants that never saw light.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003017,
+            "text": "  There the wicked cease from <i>[e]</i>troubling;\n    And there the weary are at rest.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-17",
+            "footnotes": [
+                {
+                    "e": "Or, <i>raging</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003018,
+            "text": "    There the prisoners are at ease together;\n    They hear not the voice of the taskmaster.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003019,
+            "text": "    The small and the great are there:\n    And the servant is free from his master.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003020,
+            "text": "\u00b6     Wherefore is light given to him that is in misery,\n    And life unto the bitter in soul;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003021,
+            "text": "  Who <i>[f]</i>long for death, but it cometh not,\n    And dig for it more than for hid treasures;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-21",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>wait</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003022,
+            "text": "  Who rejoice <i>[g]</i>exceedingly,\n    And are glad, when they can find the grave?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-22",
+            "footnotes": [
+                {
+                    "g": "Or, <i>unto exultation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003023,
+            "text": "     to a man whose way is hid,\n    And whom God hath hedged in?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003024,
+            "text": " For my sighing cometh <i>[h]</i>before I eat,\n  And my <i>[i]</i>groanings are poured out like water.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-24",
+            "footnotes": [
+                {
+                    "h": "Or, <i>like my food</i>"
+                },
+                {
+                    "i": "Hebrew <i>roarings</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003025,
+            "text": "  For <i>[j]</i>the thing which I fear cometh upon me,\n    And that which I am afraid of cometh unto me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-25",
+            "footnotes": [
+                {
+                    "j": "Or, <i>the thing which I feared is come etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18003026,
+            "text": "  I <i>[k]</i>am not at ease, neither am I quiet, neither have I rest;\n    But trouble cometh.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-3-26",
+            "footnotes": [
+                {
+                    "k": "Or, <i>was not at ease\u00a0.\u00a0.\u00a0. yet trouble came</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 3
+}

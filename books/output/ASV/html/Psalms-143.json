@@ -1,0 +1,130 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19143001,
+            "text": "<b>Prayer for deliverance and guidance.</b>\n\u00b6 A Psalm of David.\u00b6     Hear my prayer, O Jehovah; give ear to my supplications:\n    In thy faithfulness answer me,  in thy righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143002,
+            "text": "    And enter not into judgment with thy servant;\n    For in thy sight no man living is righteous.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143003,
+            "text": "    For the enemy hath persecuted my soul;\n    He hath smitten my life down to the ground:\n    He hath made me to dwell in dark places, as those that have been long dead.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143004,
+            "text": "  Therefore <i>[a]</i>is my spirit overwhelmed within me;\n    My heart within me is desolate.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>my spirit fainteth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143005,
+            "text": "    I remember the days of old;\n    I meditate on all thy doings;\n    I muse on the work of thy hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143006,
+            "text": "    I spread forth my hands unto thee:\n    My soul  after thee, as a weary land. \n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143007,
+            "text": "    Make haste to answer me, O Jehovah; my spirit faileth:\n    Hide not thy face from me,\n    Lest I become like them that go down into the pit.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143008,
+            "text": "    Cause me to hear thy lovingkindness in the morning;\n    For in thee do I trust:\n    Cause me to know the way wherein I should walk;\n    For I lift up my soul unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143009,
+            "text": "  Deliver me, O Jehovah, from mine enemies:\n   <i>[b]</i>I flee unto thee to hide me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-9",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>Unto thee have I hidden</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143010,
+            "text": " Teach me to do thy will;\n For thou art my God:\n  <i>[c]</i>Thy Spirit is good;\n  Lead me in <i>[d]</i>the land of uprightness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Let thy good Spirit lead me</i>"
+                },
+                {
+                    "d": "Or, <i>a plain country</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143011,
+            "text": "    Quicken me, O Jehovah, for thy name\u2019s sake:\n    In thy righteousness bring my soul out of trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19143012,
+            "text": "    And in thy lovingkindness cut off mine enemies,\n    And destroy all them that afflict my soul;\n    For I am thy servant.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-143-12",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 143
+}

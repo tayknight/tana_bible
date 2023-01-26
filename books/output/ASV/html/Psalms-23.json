@@ -1,0 +1,82 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19023001,
+            "text": "<b>Jehovah the psalmist\u2019s shepherd.</b>\n\u00b6 A Psalm of David.\u00b6     Jehovah is my shepherd; I shall not want.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-23-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19023002,
+            "text": "  He maketh me to lie down in green pastures;\n  He leadeth me beside <i>[a]</i>still waters.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-23-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>waters of rest</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19023003,
+            "text": "    He restoreth my soul:\n    He guideth me in the paths of righteousness for his name\u2019s sake.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-23-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19023004,
+            "text": "  Yea, though I walk through the valley of <i>[b]</i>the shadow of death,\n    I will fear no evil; for thou art with me;\n    Thy rod and thy staff, they comfort me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-23-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>deep darkness</i> (and so elsewhere)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19023005,
+            "text": "    Thou preparest a table before me in the presence of mine enemies:\n    Thou hast anointed my head with oil;\n    My cup runneth over.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-23-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19023006,
+            "text": "  <i>[c]</i>Surely goodness and lovingkindness shall follow me all the days of my life;\n  And I shall dwell in the house of Jehovah <i>[d]</i>for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-23-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Only</i>"
+                },
+                {
+                    "d": "Hebrew <i>for length of days</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 23
+}

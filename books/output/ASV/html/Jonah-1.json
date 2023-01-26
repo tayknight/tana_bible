@@ -1,0 +1,159 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 32,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 11,
+            "end_book": null
+        }
+    ],
+    "book": 32,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 32001001,
+            "text": "\u00b6 Now the word of Jehovah came unto Jonah the son of Amittai, saying, ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001002,
+            "text": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001003,
+            "text": "But Jonah rose up to flee unto Tarshish from the presence of Jehovah; and he went down to Joppa, and found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jonah-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001004,
+            "text": "\u00b6 But Jehovah <i>[a]</i>sent out a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship was like to be broken. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>hurled</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001005,
+            "text": "Then the mariners were afraid, and cried every man unto his god; and they cast forth the wares that were in the ship into the sea, to lighten it unto them. But Jonah was gone down into the innermost parts of the ship; and he lay, and was fast asleep. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001006,
+            "text": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001007,
+            "text": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001008,
+            "text": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; what is thine occupation? and whence comest thou? what is thy country? and of what people art thou? ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001009,
+            "text": "And he said unto them, I am a Hebrew; and I fear Jehovah, the God of heaven, who hath made the sea and the dry land. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001010,
+            "text": "Then were the men exceedingly afraid, and said unto him, What is this that thou hast done? For the men knew that he was fleeing from the presence of Jehovah, because he had told them.",
+            "version": "ASV",
+            "clsstr": "Jonah-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001011,
+            "text": "\u00b6 Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea grew more and more tempestuous. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001012,
+            "text": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001013,
+            "text": "Nevertheless the men rowed hard to get them back to the land; but they could not: for the sea grew more and more tempestuous against them. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001014,
+            "text": "Wherefore they cried unto Jehovah, and said, We beseech thee, O Jehovah, we beseech thee, let us not perish for this man\u2019s life, and lay not upon us innocent blood; for thou, O Jehovah, hast done as it pleased thee. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001015,
+            "text": "So they took up Jonah, and cast him forth into the sea; and the sea ceased from its raging. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001016,
+            "text": "Then the men feared Jehovah exceedingly; and they offered a sacrifice unto Jehovah, and made vows.",
+            "version": "ASV",
+            "clsstr": "Jonah-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 32001017,
+            "text": "\u00b6 And Jehovah prepared a great fish to swallow up Jonah; and Jonah was in the belly of the fish three days and three nights. ",
+            "version": "ASV",
+            "clsstr": "Jonah-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jonah",
+    "chapters": 1
+}

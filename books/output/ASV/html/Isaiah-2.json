@@ -1,0 +1,226 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23002001,
+            "text": "\u00b6 The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
+            "version": "ASV",
+            "clsstr": "Isa-2-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002002,
+            "text": "\u00b6 And it shall come to pass in the latter days, that the mountain of Jehovah\u2019s house shall be established <i>[a]</i>on the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>at the head</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002003,
+            "text": "And many peoples shall go and say, Come ye, and let us go up to the mountain of Jehovah, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth <i>[b]</i>the law, and the word of Jehovah from Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>instruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002004,
+            "text": "And he will judge <i>[c]</i>between the nations, and will decide concerning many peoples; and they shall beat their swords into plowshares, and their spears into pruning-hooks; nation shall not lift up sword against nation, neither shall they learn war any more.",
+            "version": "ASV",
+            "clsstr": "Isa-2-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002005,
+            "text": "\u00b6 O house of Jacob, come ye, and let us walk in the light of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002006,
+            "text": "For thou hast forsaken thy people the house of Jacob, because they are filled  from the east, and  soothsayers like the Philistines, and they strike hands with the children of foreigners. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002007,
+            "text": "And their land is full of silver and gold, neither is there any end of their treasures; their land also is full of horses, neither is there any end of their chariots. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002008,
+            "text": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002009,
+            "text": "And the mean man <i>[d]</i>is bowed down, and the great man <i>[e]</i>is brought low: therefore forgive them not. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-9",
+            "footnotes": [
+                {
+                    "d": "Or, <i>boweth down</i>"
+                },
+                {
+                    "e": "Or, <i>humbleth himself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002010,
+            "text": "Enter into the rock, and hide thee in the dust, from before the terror of Jehovah, and from the glory of his majesty. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002011,
+            "text": "The lofty looks of man shall be brought low, and the haughtiness of men shall be bowed down, and Jehovah alone shall be exalted in that day.",
+            "version": "ASV",
+            "clsstr": "Isa-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002012,
+            "text": "\u00b6 For <i>[f]</i>there shall be a day of Jehovah of hosts upon all that is proud and haughty, and upon all that is lifted up; and it shall be brought low; ",
+            "version": "ASV",
+            "clsstr": "Isa-2-12",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Jehovah of hosts hath a day</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002013,
+            "text": "and upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan, ",
+            "version": "ASV",
+            "clsstr": "Isa-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002014,
+            "text": "and upon all the high mountains, and upon all the hills that are lifted up, ",
+            "version": "ASV",
+            "clsstr": "Isa-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002015,
+            "text": "and upon every lofty tower, and upon every fortified wall, ",
+            "version": "ASV",
+            "clsstr": "Isa-2-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002016,
+            "text": "and upon all the ships of Tarshish, and upon all pleasant <i>[g]</i>imagery. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>watch-towers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002017,
+            "text": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be brought low; and Jehovah alone shall be exalted in that day. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002018,
+            "text": "And the idols shall utterly pass away. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002019,
+            "text": "And men shall go into the caves of the rocks, and into the holes of the <i>[h]</i>earth, from before the terror of Jehovah, and from the glory of his majesty, when he ariseth to shake mightily the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-19",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>dust</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002020,
+            "text": "In that day men shall cast away their idols of silver, and their idols of gold, which have been made for them to worship, to the moles and to the bats; ",
+            "version": "ASV",
+            "clsstr": "Isa-2-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002021,
+            "text": "to go into the caverns of the rocks, and into the clefts of the ragged rocks, from before the terror of Jehovah, and from the glory of his majesty, when he ariseth to shake mightily the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23002022,
+            "text": "Cease ye from man, whose breath is in his nostrils; for wherein is he to be accounted of?",
+            "version": "ASV",
+            "clsstr": "Isa-2-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 2
+}

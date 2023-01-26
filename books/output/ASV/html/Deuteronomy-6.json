@@ -1,0 +1,223 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5006001,
+            "text": "\u00b6 Now this is the commandment, the statutes, and the ordinances, which Jehovah your God commanded to teach you, that ye might do them in the land whither ye go over to possess it; ",
+            "version": "ASV",
+            "clsstr": "Deut-6-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006002,
+            "text": "that thou mightest fear Jehovah thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son\u2019s son, all the days of thy life; and that thy days may be prolonged. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006003,
+            "text": "Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as Jehovah, the God of thy fathers, hath promised unto thee, in a land flowing with milk and honey.",
+            "version": "ASV",
+            "clsstr": "Deut-6-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006004,
+            "text": "\u00b6 Hear, O Israel: <i>[a]</i>Jehovah our God is one Jehovah: ",
+            "version": "ASV",
+            "clsstr": "Deut-6-4",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Jehovah our God, Jehovah is one</i>. Or, <i>Jehovah is our God, Jehovah is one</i>. Or, <i>Jehovah is our God, Jehovah alone</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006005,
+            "text": "and thou shalt love Jehovah thy God with all thy heart, and with all thy soul, and with all thy might. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006006,
+            "text": "And these words, which I command thee this day, shall be upon thy heart; ",
+            "version": "ASV",
+            "clsstr": "Deut-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006007,
+            "text": "and thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thy house, and when thou walkest by the way, and when thou liest down, and when thou risest up. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006008,
+            "text": "And thou shalt bind them for a sign upon thy hand, and they shall be for frontlets between thine eyes. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006009,
+            "text": "And thou shalt write them upon the door-posts of thy house, and upon thy gates.",
+            "version": "ASV",
+            "clsstr": "Deut-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006010,
+            "text": "\u00b6 And it shall be, when Jehovah thy God shall bring thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee, great and goodly cities, which thou buildest not, ",
+            "version": "ASV",
+            "clsstr": "Deut-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006011,
+            "text": "and houses full of all good things, which thou filledst not, and cisterns hewn out, which thou hewedst not, vineyards and olive-trees, which thou plantedst not, and thou shalt eat and be full; ",
+            "version": "ASV",
+            "clsstr": "Deut-6-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006012,
+            "text": "then beware lest thou forget Jehovah, who brought thee forth out of the land of Egypt, out of the house of bondage. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006013,
+            "text": "Thou shalt fear Jehovah thy God; and him shalt thou serve, and shalt swear by his name. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006014,
+            "text": "Ye shall not go after other gods, of the gods of the peoples that are round about you; ",
+            "version": "ASV",
+            "clsstr": "Deut-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006015,
+            "text": "for Jehovah thy God in the midst of thee is a jealous God; lest the anger of Jehovah thy God be kindled against thee, and he destroy thee from off the face of the earth.",
+            "version": "ASV",
+            "clsstr": "Deut-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006016,
+            "text": "\u00b6 Ye shall not tempt Jehovah your God, as ye tempted him in Massah. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006017,
+            "text": "Ye shall diligently keep the commandments of Jehovah your God, and his testimonies, and his statutes, which he hath commanded thee. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006018,
+            "text": "And thou shalt do that which is right and good in the sight of Jehovah; that it may be well with thee, and that thou mayest go in and possess the good land which Jehovah sware unto thy fathers, ",
+            "version": "ASV",
+            "clsstr": "Deut-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006019,
+            "text": "to thrust out all thine enemies from before thee, as Jehovah hath spoken.",
+            "version": "ASV",
+            "clsstr": "Deut-6-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006020,
+            "text": "\u00b6 When thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the ordinances, which Jehovah our God hath commanded you? ",
+            "version": "ASV",
+            "clsstr": "Deut-6-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006021,
+            "text": "then thou shalt say unto thy son, We were Pharaoh\u2019s bondmen in Egypt: and Jehovah brought us out of Egypt with a mighty hand; ",
+            "version": "ASV",
+            "clsstr": "Deut-6-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006022,
+            "text": "and Jehovah showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his house, before our eyes; ",
+            "version": "ASV",
+            "clsstr": "Deut-6-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006023,
+            "text": "and he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006024,
+            "text": "And Jehovah commanded us to do all these statutes, to fear Jehovah our God, for our good always, that he might preserve us alive, as at this day. ",
+            "version": "ASV",
+            "clsstr": "Deut-6-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5006025,
+            "text": "And it shall be righteousness unto us, if we observe to do all this commandment before Jehovah our God, as he hath commanded us.",
+            "version": "ASV",
+            "clsstr": "Deut-6-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 6
+}

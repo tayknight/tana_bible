@@ -1,0 +1,201 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 12,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 25,
+            "end_verse": 30,
+            "end_book": null
+        }
+    ],
+    "book": 12,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 12016001,
+            "text": "\u00b6 In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016002,
+            "text": "Twenty years old was Ahaz when he began to reign; and he reigned sixteen years in Jerusalem: and he did not that which was right in the eyes of Jehovah his God, like David his father. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016003,
+            "text": "But he walked in the way of the kings of Israel, yea, and made his son to pass through the fire, according to the abominations of the nations, whom Jehovah cast out from before the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016004,
+            "text": "And he sacrificed and burnt incense in the high places, and on the hills, and under every green tree.",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016005,
+            "text": "\u00b6 Then Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz, but could not overcome him. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016006,
+            "text": "At that time Rezin king of Syria recovered Elath to Syria, and drove the Jews from <i>[a]</i>Elath; and the <i>[b]</i>Syrians came to Elath, and dwelt there, unto this day.",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-6",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Eloth</i>."
+                },
+                {
+                    "b": "According to another reading, <i>Edomites</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016007,
+            "text": "\u00b6 So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, I am thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, who rise up against me. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016008,
+            "text": "And Ahaz took the silver and gold that was found in the house of Jehovah, and in the treasures of the king\u2019s house, and sent it for a present to the king of Assyria. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016009,
+            "text": "And the king of Assyria hearkened unto him; and the king of Assyria went up against Damascus, and took it, and carried  it captive to Kir, and slew Rezin.",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016010,
+            "text": "\u00b6 And king Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, and saw the altar that was at Damascus; and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016011,
+            "text": "And Urijah the priest built an altar: according to all that king Ahaz had sent from Damascus, so did Urijah the priest make it against the coming of king Ahaz from Damascus. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016012,
+            "text": "And when the king was come from Damascus, the king saw the altar: and the king drew near unto the altar, and <i>[c]</i>offered thereon. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>went up unto it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016013,
+            "text": "And he burnt his burnt-offering and his meal-offering, and poured his drink-offering, and sprinkled the blood of <i>[d]</i>his peace-offerings, upon the altar. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-13",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>the peace-offerings which were his</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016014,
+            "text": "And the brazen altar, which was before Jehovah, he brought from the forefront of the house, from between his altar and the house of Jehovah, and put it on the north side of his altar. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016015,
+            "text": "And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt-offering, and the evening meal-offering, and the king\u2019s burnt-offering, and his meal-offering, with the burnt-offering of all the people of the land, and their meal-offering, and their drink-offerings; and sprinkle upon it all the blood of the burnt-offering, and all the blood of the sacrifice: but the brazen altar shall be for me to inquire by. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016016,
+            "text": "Thus did Urijah the priest, according to all that king Ahaz commanded.",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016017,
+            "text": "\u00b6 And king Ahaz cut off the panels of the bases, and removed the laver from off them, and took down the sea from off the brazen oxen that were under it, and put it upon a pavement of stone. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016018,
+            "text": "And the <i>[e]</i>covered way for the sabbath that they had built in the house, and the king\u2019s entry without, turned he <i>[f]</i>unto the house of Jehovah, because of the king of Assyria. ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-18",
+            "footnotes": [
+                {
+                    "e": "Or, <i>covered place</i>"
+                },
+                {
+                    "f": "Or, <i>round</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016019,
+            "text": "Now the rest of the acts of Ahaz which he did, are they not written in the book of the chronicles of the kings of Judah? ",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 12016020,
+            "text": "And Ahaz slept with his fathers, and was buried with his fathers in the city of David: and Hezekiah his son reigned in his stead.",
+            "version": "ASV",
+            "clsstr": "2Kgs-16-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "2 Kings",
+    "chapters": 16
+}

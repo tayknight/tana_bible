@@ -1,0 +1,466 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24048001,
+            "text": "\u00b6 Of Moab. Thus saith Jehovah of hosts, the God of Israel: Woe unto Nebo! for it is laid waste; Kiriathaim is put to shame, it is taken; <i>[a]</i>Misgab is put to shame and <i>[b]</i>broken down. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the high fort</i>"
+                },
+                {
+                    "b": "Or, <i>dismayed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048002,
+            "text": "The praise of Moab is no more; in Heshbon they have devised evil against her: Come, and let us cut her off from being a nation. Thou also, O Madmen, shalt be brought to silence; the sword shall pursue thee. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048003,
+            "text": "The sound of a cry from Horonaim, desolation and great destruction! ",
+            "version": "ASV",
+            "clsstr": "Jer-48-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048004,
+            "text": "Moab is destroyed; her little ones have caused a cry to be heard. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048005,
+            "text": "For by the ascent of Luhith with continual weeping shall they go up; for at the descent of Horonaim they have heard the distress of the cry of destruction. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048006,
+            "text": "Flee, save your lives, and be like the heath in the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048007,
+            "text": "For, because thou hast trusted in thy works and in thy treasures, thou also shalt be taken: and Chemosh shall go forth into captivity, his priests and his princes together. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048008,
+            "text": "And the destroyer shall come upon every city, and no city shall escape; the valley also shall perish, and the plain shall be destroyed; as Jehovah hath spoken. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048009,
+            "text": "Give wings unto Moab, <i>[c]</i>that she may fly and get her away: and her cities shall become a desolation, without any to dwell therein. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>for she must fly: and her cities etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048010,
+            "text": "Cursed be he that doeth the work of Jehovah <i>[d]</i>negligently; and cursed be he that keepeth back his sword from blood.",
+            "version": "ASV",
+            "clsstr": "Jer-48-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>deceitfully</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048011,
+            "text": "\u00b6 Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remaineth in him, and his scent is not changed. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048012,
+            "text": "Therefore, behold, the days come, saith Jehovah, that I will send unto him them that <i>[e]</i>pour off, and they shall <i>[f]</i>pour him off; and they shall empty his vessels, and break their <i>[g]</i>bottles in pieces. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-12",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>tilt</i> (a vessel)."
+                },
+                {
+                    "f": "Hebrew <i>tilt</i> (a vessel)."
+                },
+                {
+                    "g": "Or, <i>jars</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048013,
+            "text": "And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Beth-el their confidence. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048014,
+            "text": "How say ye, We are mighty men, and valiant men for the war? ",
+            "version": "ASV",
+            "clsstr": "Jer-48-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048015,
+            "text": "Moab is laid waste, and <i>[h]</i>they are gone up into his cities, and his chosen young men are gone down to the slaughter, saith the King, whose name is Jehovah of hosts. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>his cities are gone up</i> in smoke"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048016,
+            "text": "The calamity of Moab is near to come, and his affliction hasteth fast. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048017,
+            "text": "All ye that are round about him, bemoan him, and all ye that know his name; say, How is the strong <i>[i]</i>staff broken, the beautiful rod! ",
+            "version": "ASV",
+            "clsstr": "Jer-48-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>sceptre</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048018,
+            "text": "O thou daughter that <i>[j]</i>dwellest in Dibon, come down from thy glory, and sit in thirst; for the destroyer of Moab is come up against thee, he hath destroyed thy strongholds. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-18",
+            "footnotes": [
+                {
+                    "j": "Or, <i>art seated</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048019,
+            "text": "O <i>[k]</i>inhabitant of Aroer, stand by the way, and watch: ask him that fleeth, and her that escapeth; say, What hath been done? ",
+            "version": "ASV",
+            "clsstr": "Jer-48-19",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>inhabitress</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048020,
+            "text": "Moab is put to shame; for it is <i>[l]</i>broken down: wail and cry; tell ye it by the Arnon, that Moab is laid waste. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-20",
+            "footnotes": [
+                {
+                    "l": "Or, <i>dismayed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048021,
+            "text": "And judgment is come upon the plain country, upon Holon, and upon Jahzah, and upon Mephaath, ",
+            "version": "ASV",
+            "clsstr": "Jer-48-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048022,
+            "text": "and upon Dibon, and upon Nebo, and upon Beth-diblathaim, ",
+            "version": "ASV",
+            "clsstr": "Jer-48-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048023,
+            "text": "and upon Kiriathaim, and upon Beth-gamul, and upon Beth-meon, ",
+            "version": "ASV",
+            "clsstr": "Jer-48-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048024,
+            "text": "and upon Kerioth, and upon Bozrah, and upon all the cities of the land of Moab, far or near. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048025,
+            "text": "The horn of Moab is cut off, and his arm is broken, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-48-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048026,
+            "text": "\u00b6 Make ye him drunken; for he magnified himself against Jehovah: and Moab shall wallow in his vomit, and he also shall be in derision. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048027,
+            "text": "For was not Israel a derision unto thee? was he found among thieves? for as often as thou speakest of him, thou waggest the head. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048028,
+            "text": "O ye inhabitants of Moab, leave the cities, and dwell in the rock; and be like the dove that maketh her nest over the mouth of the abyss. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048029,
+            "text": "We have heard of the pride of Moab,  he is very proud; his loftiness, and his pride, and his arrogancy, and the haughtiness of his heart. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048030,
+            "text": "I know his wrath, saith Jehovah, that it is nought; his boastings have wrought nothing. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048031,
+            "text": "Therefore will I wail for Moab; yea, I will cry out for all Moab: for the men of Kir-heres shall they mourn. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048032,
+            "text": "With more than the weeping of Jazer will I weep for thee, O vine of Sibmah: thy branches passed over the sea, they reached even to the sea of Jazer: upon thy summer fruits and upon thy vintage the destroyer is fallen. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048033,
+            "text": "And gladness and joy is taken away from the fruitful field and from the land of Moab; and I have caused wine to cease from the winepresses: none shall tread with shouting; the shouting shall be no shouting. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048034,
+            "text": "From the cry of Heshbon even unto Elealeh, even unto Jahaz have they uttered their voice, from Zoar even unto Horonaim, <i>[m]</i>to Eglath-shelishiyah: for the waters of Nimrim also shall become <i>[n]</i>desolate. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-34",
+            "footnotes": [
+                {
+                    "m": "Or, as <i>a heifer three years old</i>"
+                },
+                {
+                    "n": "Hebrew <i>desolations</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048035,
+            "text": "Moreover I will cause to cease in Moab, saith Jehovah, him that offereth in the high place, and him that burneth incense to his gods.",
+            "version": "ASV",
+            "clsstr": "Jer-48-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048036,
+            "text": "\u00b6 Therefore my heart soundeth for Moab like pipes, and my heart soundeth like pipes for the men of Kir-heres: therefore the abundance that he hath gotten is perished. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048037,
+            "text": "For every head is bald, and every beard clipped: upon all the hands are cuttings, and upon the loins sackcloth. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048038,
+            "text": "On all the housetops of Moab and in the streets thereof there is lamentation every where; for I have broken Moab like a vessel wherein none delighteth, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048039,
+            "text": "How is it broken down! <i>[o]</i> do they wail! how hath Moab turned the back with shame! so shall Moab become a derision and a terror to all that are round about him. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-39",
+            "footnotes": [
+                {
+                    "o": "Or, <i>wail ye!</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048040,
+            "text": "For thus saith Jehovah: Behold, he shall fly as an eagle, and shall spread out his wings against Moab. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048041,
+            "text": " <i>[p]</i>Kerioth is taken, and the strongholds are seized, and the heart of the mighty men of Moab at that day shall be as the heart of a woman in her pangs. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-41",
+            "footnotes": [
+                {
+                    "p": "Or, <i>The cities are taken</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048042,
+            "text": "And Moab shall be destroyed from being a people, because he hath magnified himself against Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048043,
+            "text": "Fear, and the pit, and the snare, are upon thee, O inhabitant of Moab, saith Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048044,
+            "text": "He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon him, even upon Moab, the year of their visitation, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-48-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048045,
+            "text": "\u00b6 <i>[q]</i>They that fled stand without strength under the shadow of Heshbon; <i>[r]</i>for a fire is gone forth out of Heshbon, and a flame from the midst of Sihon, and hath devoured the corner of Moab, and the crown of the head of the tumultuous ones. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-45",
+            "footnotes": [
+                {
+                    "q": "Or, <i>Fleeing because of the force, they stand under</i>"
+                },
+                {
+                    "r": "Or, <i>but</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048046,
+            "text": "Woe unto thee, O Moab! the people of Chemosh is undone; for thy sons are taken away captive, and thy daughters into captivity. ",
+            "version": "ASV",
+            "clsstr": "Jer-48-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24048047,
+            "text": "Yet will I <i>[s]</i>bring back the captivity of Moab in the latter days, saith Jehovah. Thus far is the judgment of Moab.",
+            "version": "ASV",
+            "clsstr": "Jer-48-47",
+            "footnotes": [
+                {
+                    "s": "Or, <i>return to</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 48
+}

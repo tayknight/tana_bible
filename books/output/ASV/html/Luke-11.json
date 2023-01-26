@@ -1,0 +1,548 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42011001,
+            "text": "\u00b6 And it came to pass, as he was praying in a certain place, that when he ceased, one of his disciples said unto him, Lord, teach us to pray, even as John also taught his disciples. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011002,
+            "text": "And he said unto them, When ye pray, say, <i>[a]</i>Father, Hallowed be thy name. Thy kingdom come. <i>[b]</i> ",
+            "version": "ASV",
+            "clsstr": "Luke-11-2",
+            "footnotes": [
+                {
+                    "a": "Many ancient authorities read <i>Our Father, who art in heaven</i>. See [[Mt. 6:9]]."
+                },
+                {
+                    "b": "Many ancient authorities add <i>Thy will be done, as in heaven, so on earth.</i> See [[Mt. 6:10]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011003,
+            "text": "Give us day by day <i>[c]</i>our daily bread. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-3",
+            "footnotes": [
+                {
+                    "c": "Greek <i>our bread for the coming day</i>. Or, <i>our needful bread</i>: as in [[Mt. 6:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011004,
+            "text": "And forgive us our sins; for we ourselves also forgive every one that is indebted to us. And bring us not into temptation <i>[d]</i>.",
+            "version": "ASV",
+            "clsstr": "Luke-11-4",
+            "footnotes": [
+                {
+                    "d": "Many ancient authorities add <i>but deliver us from the evil</i> one (or, <i>from evil</i>). See [[Mt. 6:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011005,
+            "text": "\u00b6 And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say to him, Friend, lend me three loaves; ",
+            "version": "ASV",
+            "clsstr": "Luke-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011006,
+            "text": "for a friend of mine is come to me from a journey, and I have nothing to set before him; ",
+            "version": "ASV",
+            "clsstr": "Luke-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011007,
+            "text": "and he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee? ",
+            "version": "ASV",
+            "clsstr": "Luke-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011008,
+            "text": "I say unto you, Though he will not rise and give him because he is his friend, yet because of his importunity he will arise and give him <i>[e]</i>as many as he needeth. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>whatsoever things</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011009,
+            "text": "And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011010,
+            "text": "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011011,
+            "text": "And of which of you that is a father shall his son ask <i>[f]</i>a loaf, and he give him a stone? or a fish, and he for a fish give him a serpent? ",
+            "version": "ASV",
+            "clsstr": "Luke-11-11",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities omit <i>a loaf, and he give him a stone? or</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011012,
+            "text": "Or  he shall ask an egg, will he give him a scorpion? ",
+            "version": "ASV",
+            "clsstr": "Luke-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011013,
+            "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall  heavenly Father give the Holy Spirit to them that ask him?",
+            "version": "ASV",
+            "clsstr": "Luke-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011014,
+            "text": "\u00b6 And he was casting out a demon  dumb. And it came to pass, when the demon was gone out, the dumb man spake; and the multitudes marvelled. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011015,
+            "text": "But some of them said, <i>[g]</i>By <i>[h]</i>Beelzebub the prince of the demons casteth he out demons. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-15",
+            "footnotes": [
+                {
+                    "g": "Or, <i>In</i>"
+                },
+                {
+                    "h": "Greek <i>Beelzebul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011016,
+            "text": "And others, trying , sought of him a sign from heaven. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011017,
+            "text": "But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; <i>[i]</i>and a house  against a house falleth. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>and house falleth upon house</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011018,
+            "text": "And if Satan also is divided against himself, how shall his kingdom stand? because ye say that I cast out demons <i>[j]</i>by <i>[k]</i>Beelzebub. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-18",
+            "footnotes": [
+                {
+                    "j": "Or, <i>In</i>"
+                },
+                {
+                    "k": "Greek <i>Beelzebul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011019,
+            "text": "And if I <i>[l]</i>by <i>[m]</i>Beelzebub cast out demons, by whom do your sons cast them out? therefore shall they be your judges. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-19",
+            "footnotes": [
+                {
+                    "l": "Or, <i>In</i>"
+                },
+                {
+                    "m": "Greek <i>Beelzebul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011020,
+            "text": "But if I by the finger of God cast out demons, then is the kingdom of God come upon you. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011021,
+            "text": "When the strong  fully armed guardeth his own court, his goods are in peace: ",
+            "version": "ASV",
+            "clsstr": "Luke-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011022,
+            "text": "but when a stronger than he shall come upon him, and overcome him, he taketh from him his whole armor wherein he trusted, and divideth his spoils. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011023,
+            "text": "He that is not with me is against me; and he that gathereth not with me scattereth. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011024,
+            "text": "The unclean spirit when <i>[n]</i>he is gone out of the man, passeth through waterless places, seeking rest, and finding none, he saith, I will turn back unto my house whence I came out. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-24",
+            "footnotes": [
+                {
+                    "n": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011025,
+            "text": "And when <i>[o]</i>he is come, <i>[p]</i>he findeth it swept and garnished. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-25",
+            "footnotes": [
+                {
+                    "o": "Or, <i>it</i>"
+                },
+                {
+                    "p": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011026,
+            "text": "Then goeth <i>[q]</i>he, and taketh seven other spirits more evil than <i>[r]</i>himself; and they enter in and dwell there: and the last state of that man becometh worse than the first.",
+            "version": "ASV",
+            "clsstr": "Luke-11-26",
+            "footnotes": [
+                {
+                    "q": "Or, <i>it</i>"
+                },
+                {
+                    "r": "Or, <i>itself</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011027,
+            "text": "\u00b6 And it came to pass, as he said these things, a certain woman out of the multitude lifted up her voice, and said unto him, Blessed is the womb that bare thee, and the breasts which thou didst suck. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011028,
+            "text": "But he said, Yea rather, blessed are they that hear the word of God, and keep it.",
+            "version": "ASV",
+            "clsstr": "Luke-11-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011029,
+            "text": "\u00b6 And when the multitudes were gathering together unto him, he began to say, This generation is an evil generation: it seeketh after a sign; and there shall no sign be given to it but the sign of Jonah. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011030,
+            "text": "For even as Jonah became a sign unto the Ninevites, so shall also the Son of man be to this generation. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011031,
+            "text": "The queen of the south shall rise up in the judgment with the men of this generation, and shall condemn them: for she came from the ends of the earth to hear the wisdom of Solomon; and behold, <i>[s]</i>a greater than Solomon is here. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-31",
+            "footnotes": [
+                {
+                    "s": "Greek <i>more than</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011032,
+            "text": "The men of Nineveh shall stand up in the judgment with this generation, and shall condemn it: for they repented at the preaching of Jonah; and behold, <i>[t]</i>a greater than Jonah is here.",
+            "version": "ASV",
+            "clsstr": "Luke-11-32",
+            "footnotes": [
+                {
+                    "t": "Greek <i>more than</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011033,
+            "text": "\u00b6 No man, when he hath lighted a lamp, putteth it in a cellar, neither under the bushel, but on the stand, that they which enter in may see the light. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011034,
+            "text": "The lamp of thy body is thine eye: when thine eye is single, thy whole body also is full of light; but when it is evil, thy body also is full of darkness. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011035,
+            "text": "Look therefore whether the light that is in thee be not darkness. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011036,
+            "text": "If therefore thy whole body be full of light, having no part dark, it shall be wholly full of light, as when the lamp with its bright shining doth give thee light.",
+            "version": "ASV",
+            "clsstr": "Luke-11-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011037,
+            "text": "\u00b6 Now as he spake, a Pharisee asketh him to <i>[u]</i>dine with him: and he went in, and sat down to meat. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-37",
+            "footnotes": [
+                {
+                    "u": "Greek <i>breakfast</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011038,
+            "text": "And when the Pharisee saw it, he marvelled that he had not first bathed himself before <i>[v]</i>dinner. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-38",
+            "footnotes": [
+                {
+                    "v": "Greek <i>breakfast</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011039,
+            "text": "And the Lord said unto him, Now ye the Pharisees cleanse the outside of the cup and of the platter; but your inward part is full of extortion and wickedness. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011040,
+            "text": "Ye foolish ones, did not he that made the outside make the inside also? ",
+            "version": "ASV",
+            "clsstr": "Luke-11-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011041,
+            "text": "But give for alms those things which <i>[w]</i>are within; and behold, all things are clean unto you.",
+            "version": "ASV",
+            "clsstr": "Luke-11-41",
+            "footnotes": [
+                {
+                    "w": "Or, <i>ye can</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011042,
+            "text": "\u00b6 But woe unto you Pharisees! for ye tithe mint and rue and every herb, and pass over justice and the love of God: but these ought ye to have done, and not to leave the other undone. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011043,
+            "text": "Woe unto you Pharisees! for ye love the chief seats in the synagogues, and the salutations in the marketplaces. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011044,
+            "text": "Woe unto you! for ye are as the tombs which appear not, and the men that walk over  know it not.",
+            "version": "ASV",
+            "clsstr": "Luke-11-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011045,
+            "text": "\u00b6 And one of the lawyers answering saith unto him, Teacher, in saying this thou reproachest us also. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011046,
+            "text": "And he said, Woe unto you lawyers also! for ye load men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011047,
+            "text": "Woe unto you! for ye build the tombs of the prophets, and your fathers killed them. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011048,
+            "text": "So ye are witnesses and consent unto the works of your fathers: for they killed them, and ye build . ",
+            "version": "ASV",
+            "clsstr": "Luke-11-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011049,
+            "text": "Therefore also said the wisdom of God, I will send unto them prophets and apostles; and  of them they shall kill and persecute; ",
+            "version": "ASV",
+            "clsstr": "Luke-11-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011050,
+            "text": "that the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation; ",
+            "version": "ASV",
+            "clsstr": "Luke-11-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011051,
+            "text": "from the blood of Abel unto the blood of Zachariah, who perished between the altar and the <i>[x]</i>sanctuary: yea, I say unto you, it shall be required of this generation. ",
+            "version": "ASV",
+            "clsstr": "Luke-11-51",
+            "footnotes": [
+                {
+                    "x": "Greek <i>house</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011052,
+            "text": "Woe unto you lawyers! for ye took away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered.",
+            "version": "ASV",
+            "clsstr": "Luke-11-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011053,
+            "text": "\u00b6 And when he was come out from thence, the scribes and the Pharisees began to <i>[y]</i>press upon vehemently, and to provoke him to speak of <i>[z]</i>many things; ",
+            "version": "ASV",
+            "clsstr": "Luke-11-53",
+            "footnotes": [
+                {
+                    "y": "Or, <i>set themselves vehemently against</i> him"
+                },
+                {
+                    "z": "Or, <i>more</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42011054,
+            "text": "laying wait for him, to catch something out of his mouth.",
+            "version": "ASV",
+            "clsstr": "Luke-11-54",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 11
+}

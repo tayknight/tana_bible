@@ -1,0 +1,511 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 42,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 42,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 42008001,
+            "text": "\u00b6 And it came to pass soon afterwards, that he went about through cities and villages, preaching and bringing the <i>[a]</i>good tidings of the kingdom of God, and with him the twelve, ",
+            "version": "ASV",
+            "clsstr": "Luke-8-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>gospel</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008002,
+            "text": "and certain women who had been healed of evil spirits and infirmities: Mary that was called Magdalene, from whom seven demons had gone out, ",
+            "version": "ASV",
+            "clsstr": "Luke-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008003,
+            "text": "and Joanna the wife of Chuzas Herod\u2019s steward, and Susanna, and many others, who ministered unto <i>[b]</i>them of their substance.",
+            "version": "ASV",
+            "clsstr": "Luke-8-3",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008004,
+            "text": "\u00b6 And when a great multitude came together, and they of every city resorted unto him, he spake by a parable: ",
+            "version": "ASV",
+            "clsstr": "Luke-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008005,
+            "text": "The sower went forth to sow his seed: and as he sowed, some fell by the way side; and it was trodden under foot, and the birds of the heaven devoured it. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008006,
+            "text": "And other fell on the rock; and as soon as it grew, it withered away, because it had no moisture. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008007,
+            "text": "And other fell amidst the thorns; and the thorns grew with it, and choked it. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008008,
+            "text": "And other fell into the good ground, and grew, and brought forth fruit a hundredfold. As he said these things, he cried, He that hath ears to hear, let him hear.",
+            "version": "ASV",
+            "clsstr": "Luke-8-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008009,
+            "text": "\u00b6 And his disciples asked him what this parable might be. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008010,
+            "text": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to the rest in parables; that seeing they may not see, and hearing they may not understand. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008011,
+            "text": "Now the parable is this: The seed is the word of God. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008012,
+            "text": "And those by the way side are they that have heard; then cometh the devil, and taketh away the word from their heart, that they may not believe and be saved. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008013,
+            "text": "And those on the rock  they who, when they have heard, receive the word with joy; and these have no root, who for a while believe, and in time of temptation fall away. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008014,
+            "text": "And that which fell among the thorns, these are they that have heard, and as they go on their way they are choked with cares and riches and pleasures of  life, and bring no fruit to perfection. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008015,
+            "text": "And that in the good ground, these are such as in an honest and good heart, having heard the word, hold it fast, and bring forth fruit with <i>[c]</i>patience.",
+            "version": "ASV",
+            "clsstr": "Luke-8-15",
+            "footnotes": [
+                {
+                    "c": "Or, <i>stedfastness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008016,
+            "text": "\u00b6 And no man, when he hath lighted a lamp, covereth it with a vessel, or putteth it under a bed; but putteth it on a stand, that they that enter in may see the light. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008017,
+            "text": "For nothing is hid, that shall not be made manifest; nor  secret, that shall not be known and come to light. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008018,
+            "text": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken away even that which he <i>[d]</i>thinketh he hath.",
+            "version": "ASV",
+            "clsstr": "Luke-8-18",
+            "footnotes": [
+                {
+                    "d": "Or, <i>seemeth to have</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008019,
+            "text": "\u00b6 And there came to him his mother and brethren, and they could not come at him for the crowd. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008020,
+            "text": "And it was told him, Thy mother and thy brethren stand without, desiring to see thee. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008021,
+            "text": "But he answered and said unto them, My mother and my brethren are these that hear the word of God, and do it.",
+            "version": "ASV",
+            "clsstr": "Luke-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008022,
+            "text": "\u00b6 Now it came to pass on one of those days, that he entered into a boat, himself and his disciples; and he said unto them, Let us go over unto the other side of the lake: and they launched forth. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008023,
+            "text": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filling , and were in jeopardy. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008024,
+            "text": "And they came to him, and awoke him, saying, Master, master, we perish. And he awoke, and rebuked the wind and the raging of the water: and they ceased, and there was a calm. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008025,
+            "text": "And he said unto them, Where is your faith? And being afraid they marvelled, saying one to another, Who then is this, that he commandeth even the winds and the water, and they obey him?",
+            "version": "ASV",
+            "clsstr": "Luke-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008026,
+            "text": "\u00b6 And they arrived at the country of the <i>[e]</i>Gerasenes, which is over against Galilee. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-26",
+            "footnotes": [
+                {
+                    "e": "Many ancient authorities read <i>Gergesenes</i> others <i>Gadarenes</i>: and so in [[verse 37]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008027,
+            "text": "And when he was come forth upon the land, there met him a certain man out of the city, who had demons; and for a long time he had worn no clothes, and abode not in  house, but in the tombs. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008028,
+            "text": "And when he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of the Most High God? I beseech thee, torment me not. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008029,
+            "text": "For he was commanding the unclean spirit to come out from the man. For <i>[f]</i>oftentimes it had seized him: and he was kept under guard, and bound with chains and fetters; and breaking the bands asunder, he was driven of the demon into the deserts. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-29",
+            "footnotes": [
+                {
+                    "f": "Or, <i>of a long time</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008030,
+            "text": "And Jesus asked him, What is thy name? And he said, Legion; for many demons were entered into him. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008031,
+            "text": "And they entreated him that he would not command them to depart into the abyss. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008032,
+            "text": "Now there was there a herd of many swine feeding on the mountain: and they entreated him that he would give them leave to enter into them. And he gave them leave. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008033,
+            "text": "And the demons came out from the man, and entered into the swine: and the herd rushed down the steep into the lake, and were drowned. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008034,
+            "text": "And when they that fed them saw what had come to pass, they fled, and told it in the city and in the country. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008035,
+            "text": "And they went out to see what had come to pass; and they came to Jesus, and found the man, from whom the demons were gone out, sitting, clothed and in his right mind, at the feet of Jesus: and they were afraid. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008036,
+            "text": "And they that saw it told them how he that was possessed with demons was <i>[g]</i>made whole. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-36",
+            "footnotes": [
+                {
+                    "g": "Or, <i>saved</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008037,
+            "text": "And all the people of the country of the Gerasenes round about asked him to depart from them; for they were holden with great fear: and he entered into a boat, and returned. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008038,
+            "text": "But the man from whom the demons were gone out prayed him that he might be with him: but he sent him away, saying, ",
+            "version": "ASV",
+            "clsstr": "Luke-8-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008039,
+            "text": "Return to thy house, and declare how great things God hath done for thee. And he went his way, publishing throughout the whole city how great things Jesus had done for him.",
+            "version": "ASV",
+            "clsstr": "Luke-8-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008040,
+            "text": "\u00b6 And as Jesus returned, the multitude welcomed him; for they were all waiting for him. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008041,
+            "text": "And behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus\u2019 feet, and besought him to come into his house; ",
+            "version": "ASV",
+            "clsstr": "Luke-8-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008042,
+            "text": "for he had an only daughter, about twelve years of age, and she was dying. But as he went the multitudes thronged him.",
+            "version": "ASV",
+            "clsstr": "Luke-8-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008043,
+            "text": "\u00b6 And a woman having an issue of blood twelve years, who <i>[h]</i>had spent all her living upon physicians, and could not be healed of any, ",
+            "version": "ASV",
+            "clsstr": "Luke-8-43",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities omit <i>had spent all her living upon physicians, and</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008044,
+            "text": "came behind him, and touched the border of his garment: and immediately the issue of her blood stanched. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008045,
+            "text": "And Jesus said, Who is it that touched me? And when all denied, Peter said, <i>[i]</i>and they that were with him, Master, the multitudes press thee and crush . ",
+            "version": "ASV",
+            "clsstr": "Luke-8-45",
+            "footnotes": [
+                {
+                    "i": "Some ancient authorities omit <i>and they that were with him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008046,
+            "text": "But Jesus said, Some one did touch me; for I perceived that power had gone forth from me. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008047,
+            "text": "And when the woman saw that she was not hid, she came trembling, and falling down before him declared in the presence of all the people for what cause she touched him, and how she was healed immediately. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008048,
+            "text": "And he said unto her, Daughter, thy faith hath <i>[j]</i>made thee whole; go in peace.",
+            "version": "ASV",
+            "clsstr": "Luke-8-48",
+            "footnotes": [
+                {
+                    "j": "Or, <i>saved thee</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008049,
+            "text": "\u00b6 While he yet spake, there cometh one from the ruler of the synagogue\u2019s , saying, Thy daughter is dead; trouble not the Teacher. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008050,
+            "text": "But Jesus hearing it, answered him, Fear not: only believe, and she shall be <i>[k]</i>made whole. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-50",
+            "footnotes": [
+                {
+                    "k": "Or, <i>saved</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008051,
+            "text": "And when he came to the house, he suffered not any man to enter in with him, save Peter, and John, and James, and the father of the maiden and her mother. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008052,
+            "text": "And all were weeping, and bewailing her: but he said, Weep not; for she is not dead, but sleepeth. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008053,
+            "text": "And they laughed him to scorn, knowing that she was dead. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008054,
+            "text": "But he, taking her by the hand, called, saying, Maiden, arise. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008055,
+            "text": "And her spirit returned, and she rose up immediately: and he commanded that  be given her to eat. ",
+            "version": "ASV",
+            "clsstr": "Luke-8-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 42008056,
+            "text": "And her parents were amazed: but he charged them to tell no man what had been done.",
+            "version": "ASV",
+            "clsstr": "Luke-8-56",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Luke",
+    "chapters": 8
+}

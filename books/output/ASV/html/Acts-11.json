@@ -1,0 +1,286 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 44,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 44,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 44011001,
+            "text": "\u00b6 Now the apostles and the brethren that were in Judaea heard that the Gentiles also had received the word of God. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011002,
+            "text": "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him, ",
+            "version": "ASV",
+            "clsstr": "Acts-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011003,
+            "text": "saying, Thou wentest in to men uncircumcised, and didst eat with them. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011004,
+            "text": "But Peter began, and expounded  unto them in order, saying, ",
+            "version": "ASV",
+            "clsstr": "Acts-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011005,
+            "text": "I was in the city of Joppa praying: and in a trance I saw a vision, a certain vessel descending, as it were a great sheet let down from heaven by four corners; and it came even unto me: ",
+            "version": "ASV",
+            "clsstr": "Acts-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011006,
+            "text": "upon which when I had fastened mine eyes, I considered, and saw the fourfooted beasts of the earth and wild beasts and creeping things and birds of the heaven. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011007,
+            "text": "And I heard also a voice saying unto me, Rise, Peter; kill and eat. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011008,
+            "text": "But I said, Not so, Lord: for nothing common or unclean hath ever entered into my mouth. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011009,
+            "text": "But a voice answered the second time out of heaven, What God hath cleansed, make not thou common. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011010,
+            "text": "And this was done thrice: and all were drawn up again into heaven. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011011,
+            "text": "And behold, forthwith three men stood before the house in which we were, having been sent from Caesarea unto me. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011012,
+            "text": "And the Spirit bade me go with them, making no distinction. And these six brethren also accompanied me; and we entered into the man\u2019s house: ",
+            "version": "ASV",
+            "clsstr": "Acts-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011013,
+            "text": "and he told us how he had seen the angel standing in his house, and saying, Send to Joppa, and fetch Simon, whose surname is Peter; ",
+            "version": "ASV",
+            "clsstr": "Acts-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011014,
+            "text": "who shall speak unto thee words, whereby thou shalt be saved, thou and all thy house. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011015,
+            "text": "And as I began to speak, the Holy Spirit fell on them, even as on us at the beginning. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011016,
+            "text": "And I remembered the word of the Lord, how he said, John indeed baptized with water; but ye shall be baptized <i>[a]</i>in the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-16",
+            "footnotes": [
+                {
+                    "a": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011017,
+            "text": "If then God gave unto them the like gift as  also unto us, when we believed on the Lord Jesus Christ, who was I, that I could withstand God? ",
+            "version": "ASV",
+            "clsstr": "Acts-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011018,
+            "text": "And when they heard these things, they held their peace, and glorified God, saying, Then to the Gentiles also hath God granted repentance unto life.",
+            "version": "ASV",
+            "clsstr": "Acts-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011019,
+            "text": "\u00b6 They therefore that were scattered abroad upon the tribulation that arose about Stephen travelled as far as Phoenicia, and Cyprus, and Antioch, speaking the word to none save only to Jews. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011020,
+            "text": "But there were some of them, men of Cyprus and Cyrene, who, when they were come to Antioch, spake unto the <i>[b]</i>Greeks also, <i>[c]</i>preaching the Lord Jesus. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-20",
+            "footnotes": [
+                {
+                    "b": "Many ancient authorities read <i>Grecian Jews</i>. See [[6:1]]."
+                },
+                {
+                    "c": "See marginal note on [[5:42]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011021,
+            "text": "And the hand of the Lord was with them: and a great number that believed turned unto the Lord. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011022,
+            "text": "And the report concerning them came to the ears of the church which was in Jerusalem: and they sent forth Barnabas as far as Antioch: ",
+            "version": "ASV",
+            "clsstr": "Acts-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011023,
+            "text": "who, when he was come, and had seen the grace of God, was glad; and he exhorted them all, <i>[d]</i>that with purpose of heart they would cleave unto the Lord: ",
+            "version": "ASV",
+            "clsstr": "Acts-11-23",
+            "footnotes": [
+                {
+                    "d": "Some ancient authorities read <i>that they would cleave unto the purpose of their heart in the Lord</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011024,
+            "text": "for he was a good man, and full of the Holy Spirit and of faith: and much people was added unto the Lord. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011025,
+            "text": "And he went forth to Tarsus to seek for Saul; ",
+            "version": "ASV",
+            "clsstr": "Acts-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011026,
+            "text": "and when he had found him, he brought him unto Antioch. And it came to pass, that even for a whole year they were gathered together <i>[e]</i>with the church, and taught much people; and that the disciples were called Christians first in Antioch.",
+            "version": "ASV",
+            "clsstr": "Acts-11-26",
+            "footnotes": [
+                {
+                    "e": "Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011027,
+            "text": "\u00b6 Now in these days there came down prophets from Jerusalem unto Antioch. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011028,
+            "text": "And there stood up one of them named Agabus, and signified by the Spirit that there should be a great famine over all <i>[f]</i>the world: which came to pass in the days of Claudius. ",
+            "version": "ASV",
+            "clsstr": "Acts-11-28",
+            "footnotes": [
+                {
+                    "f": "Greek <i>the inhabited earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011029,
+            "text": "And the disciples, every man according to his ability, determined to send <i>[g]</i>relief unto the brethren that dwelt in Judaea: ",
+            "version": "ASV",
+            "clsstr": "Acts-11-29",
+            "footnotes": [
+                {
+                    "g": "Greek <i>for ministry</i>. Compare [[6:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 44011030,
+            "text": "which also they did, sending it to the elders by the hand of Barnabas and Saul.",
+            "version": "ASV",
+            "clsstr": "Acts-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Acts",
+    "chapters": 11
+}

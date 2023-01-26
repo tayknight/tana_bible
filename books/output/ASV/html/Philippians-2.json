@@ -1,0 +1,310 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 50,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 4,
+            "end_verse": 23,
+            "end_book": null
+        }
+    ],
+    "book": 50,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 50002001,
+            "text": "\u00b6 If there is therefore any exhortation in Christ, if any <i>[a]</i>consolation of love, if any fellowship of the Spirit, if any tender mercies and compassions, ",
+            "version": "ASV",
+            "clsstr": "Phil-2-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>persuasion</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002002,
+            "text": "make full my joy, that ye be of the same mind, having the same love, being of one accord, <i>[b]</i>of one mind; ",
+            "version": "ASV",
+            "clsstr": "Phil-2-2",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities read <i>of the same mind</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002003,
+            "text": " nothing through faction or through vainglory, but in lowliness of mind each counting other better than himself; ",
+            "version": "ASV",
+            "clsstr": "Phil-2-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002004,
+            "text": "not looking each of you to his own things, but each of you also to the things of others. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002005,
+            "text": "Have this mind in you, which was also in Christ Jesus: ",
+            "version": "ASV",
+            "clsstr": "Phil-2-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002006,
+            "text": "who, existing in the form of God, counted not the being on an equality with God a thing to be grasped, ",
+            "version": "ASV",
+            "clsstr": "Phil-2-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002007,
+            "text": "but emptied himself, taking the form of a <i>[c]</i>servant, <i>[d]</i>being made in the likeness of men; ",
+            "version": "ASV",
+            "clsstr": "Phil-2-7",
+            "footnotes": [
+                {
+                    "c": "Greek <i>bondservant</i>."
+                },
+                {
+                    "d": "Greek <i>becoming in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002008,
+            "text": "and being found in fashion as a man, he humbled himself, becoming obedient  unto death, yea, the death of the cross. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002009,
+            "text": "Wherefore also God highly exalted him, and gave unto him the name which is above every name; ",
+            "version": "ASV",
+            "clsstr": "Phil-2-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002010,
+            "text": "that in the name of Jesus every knee should bow, of in heaven and on earth and <i>[e]</i> under the earth, ",
+            "version": "ASV",
+            "clsstr": "Phil-2-10",
+            "footnotes": [
+                {
+                    "e": "Or, things <i>of the world below</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002011,
+            "text": "and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+            "version": "ASV",
+            "clsstr": "Phil-2-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002012,
+            "text": "\u00b6 So then, my beloved, even as ye have always obeyed, not <i>[f]</i>as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling; ",
+            "version": "ASV",
+            "clsstr": "Phil-2-12",
+            "footnotes": [
+                {
+                    "f": "Some ancient authorities omit <i>as</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002013,
+            "text": "for it is God who worketh in you both to will and to work, for his good pleasure. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002014,
+            "text": "Do all things without murmurings and questionings: ",
+            "version": "ASV",
+            "clsstr": "Phil-2-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002015,
+            "text": "that ye may become blameless and harmless, children of God without blemish in the midst of a crooked and perverse generation, among whom ye are seen as <i>[g]</i>lights in the world, ",
+            "version": "ASV",
+            "clsstr": "Phil-2-15",
+            "footnotes": [
+                {
+                    "g": "Greek <i>luminaries</i>. [[Wisd. 13:2]]; compare [[Rev. 21:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002016,
+            "text": "holding forth the word of life; that I may have whereof to glory in the day of Christ, that I did not run in vain neither labor in vain. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002017,
+            "text": "Yea, and if I am <i>[h]</i>offered upon the sacrifice and service of your faith, I joy, and rejoice with you all: ",
+            "version": "ASV",
+            "clsstr": "Phil-2-17",
+            "footnotes": [
+                {
+                    "h": "Greek <i>poured out as a drink-offering</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002018,
+            "text": "and in the same manner do ye also joy, and rejoice with me.",
+            "version": "ASV",
+            "clsstr": "Phil-2-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002019,
+            "text": "\u00b6 But I hope in the Lord Jesus to send Timothy shortly unto you, that I also may be of good comfort, when I know your state. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002020,
+            "text": "For I have no man likeminded, who will care <i>[i]</i>truly for your state. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-20",
+            "footnotes": [
+                {
+                    "i": "Greek <i>genuinely</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002021,
+            "text": "For they all seek their own, not the things of Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002022,
+            "text": "But ye know the proof of him, that, as a child a father, he served with me in furtherance of the <i>[j]</i>gospel. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-22",
+            "footnotes": [
+                {
+                    "j": "Greek <i>good tidings</i>. See [[1:5]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002023,
+            "text": "Him therefore I hope to send forthwith, so soon as I shall see how it will go with me: ",
+            "version": "ASV",
+            "clsstr": "Phil-2-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002024,
+            "text": "but I trust in the Lord that I myself also shall come shortly. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002025,
+            "text": "But I counted it necessary to send to you Epaphroditus, my brother and fellow-worker and fellow-soldier, and your <i>[k]</i>messenger and minister to my need; ",
+            "version": "ASV",
+            "clsstr": "Phil-2-25",
+            "footnotes": [
+                {
+                    "k": "Greek <i>apostle</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002026,
+            "text": "since he longed <i>[l]</i>after you all, and was sore troubled, because ye had heard that he was sick: ",
+            "version": "ASV",
+            "clsstr": "Phil-2-26",
+            "footnotes": [
+                {
+                    "l": "Many ancient authorities read <i>to see you all</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002027,
+            "text": "for indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, that I might not have sorrow upon sorrow. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002028,
+            "text": "I have sent him therefore the more diligently, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful. ",
+            "version": "ASV",
+            "clsstr": "Phil-2-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002029,
+            "text": "Receive him therefore in the Lord with all joy; and hold such in honor: ",
+            "version": "ASV",
+            "clsstr": "Phil-2-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 50002030,
+            "text": "because for the work of <i>[m]</i>Christ he came nigh unto death, hazarding his life to supply that which was lacking in your service toward me.",
+            "version": "ASV",
+            "clsstr": "Phil-2-30",
+            "footnotes": [
+                {
+                    "m": "Many ancient authorities read <i>the Lord</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Philippians",
+    "chapters": 2
+}

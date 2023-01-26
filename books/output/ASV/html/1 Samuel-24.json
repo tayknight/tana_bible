@@ -1,0 +1,207 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9024001,
+            "text": "\u00b6 And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of En-gedi. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024002,
+            "text": "Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024003,
+            "text": "And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet. Now David and his men were <i>[a]</i>abiding in the innermost parts of the cave. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>sitting</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024004,
+            "text": "And the men of David said unto him, Behold, the day of which Jehovah said unto thee, Behold, I will deliver thine enemy into thy hand, and thou shalt do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul\u2019s robe privily. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024005,
+            "text": "And it came to pass afterward, that David\u2019s heart smote him, because he had cut off Saul\u2019s skirt. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024006,
+            "text": "And he said unto his men, Jehovah forbid that I should do this thing unto my lord, Jehovah\u2019s anointed, to put forth my hand against him, seeing he is Jehovah\u2019s anointed. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024007,
+            "text": "So David checked his men with these words, and suffered them not to rise against Saul. And Saul rose up out of the cave, and went on his way.",
+            "version": "ASV",
+            "clsstr": "1Sam-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024008,
+            "text": "\u00b6 David also arose afterward, and went out of the cave, and cried after Saul, saying, My lord the king. And when Saul looked behind him, David bowed with his face to the earth, and did obeisance. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024009,
+            "text": "And David said to Saul, Wherefore hearkenest thou to men\u2019s words, saying, Behold, David seeketh thy hurt? ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024010,
+            "text": "Behold, this day thine eyes have seen how that Jehovah had delivered thee to-day into my hand in the cave: and some bade me kill thee; but  spared thee; and I said, I will not put forth my hand against my lord; for he is Jehovah\u2019s anointed. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024011,
+            "text": "Moreover, my father, see, yea, see the skirt of thy robe in my hand; for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in my hand, and I have not sinned against thee, though thou <i>[b]</i>huntest after my life to take it. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-11",
+            "footnotes": [
+                {
+                    "b": "Or, <i>layest wait for</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024012,
+            "text": "Jehovah judge between me and thee, and Jehovah avenge me of thee; but my hand shall not be upon thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024013,
+            "text": "As saith the proverb of the ancients, Out of the wicked cometh forth wickedness; but my hand shall not be upon thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024014,
+            "text": "After whom is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024015,
+            "text": "Jehovah therefore be judge, and give sentence between me and thee, and see, and plead my cause, and <i>[c]</i>deliver me out of thy hand.",
+            "version": "ASV",
+            "clsstr": "1Sam-24-15",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>give sentence for me</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024016,
+            "text": "\u00b6 And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this thy voice, my son David? And Saul lifted up his voice, and wept. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024017,
+            "text": "And he said to David, Thou art more righteous than I; for thou hast rendered unto me good, whereas I have rendered unto thee evil. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024018,
+            "text": "And thou hast declared this day how that thou hast dealt well with me, forasmuch as when Jehovah had delivered me up into thy hand, thou killedst me not. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024019,
+            "text": "For if a man find his enemy, will he let him go well away? wherefore Jehovah reward thee good for that which thou hast done unto me this day. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024020,
+            "text": "And now, behold, I know that thou shalt surely be king, and that the kingdom of Israel shall be established in thy hand. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024021,
+            "text": "Swear now therefore unto me by Jehovah, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father\u2019s house. ",
+            "version": "ASV",
+            "clsstr": "1Sam-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9024022,
+            "text": "And David sware unto Saul. And Saul went home; but David and his men gat them up unto the stronghold.",
+            "version": "ASV",
+            "clsstr": "1Sam-24-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 24
+}

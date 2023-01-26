@@ -1,0 +1,322 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 66,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 66,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 66021001,
+            "text": "\u00b6 And I saw a new heaven and a new earth: for the first heaven and the first earth are passed away; and the sea is no more. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021002,
+            "text": "And I saw <i>[a]</i>the holy city, new Jerusalem, coming down out of heaven from God, made ready as a bride adorned for her husband. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the holy city Jerusalem coming down new out of heaven</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021003,
+            "text": "And I heard a great voice out of the throne saying, Behold, the tabernacle of God is with men, and he shall <i>[b]</i>dwell with them, and they shall be his peoples, and God himself shall be with them, <i>[c]</i> their God: ",
+            "version": "ASV",
+            "clsstr": "Rev-21-3",
+            "footnotes": [
+                {
+                    "b": "Greek <i>tabernacle</i>."
+                },
+                {
+                    "c": "Some ancient authorities omit, and be <i>their God</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021004,
+            "text": "and he shall wipe away every tear from their eyes; and death shall be no more; neither shall there be mourning, nor crying, nor pain, any more: the first things are passed away. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021005,
+            "text": "And he that sitteth on the throne said, Behold, I make all things new. And he saith, <i>[d]</i>Write: for these words are faithful and true. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Write, These words are faithful and true</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021006,
+            "text": "And he said unto me, They are come to pass. I am the Alpha and the Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021007,
+            "text": "He that overcometh shall inherit these things; and I will be his God, and he shall be my son. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021008,
+            "text": "But for the fearful, and unbelieving, and abominable, and murderers, and fornicators, and sorcerers, and idolaters, and all liars, their part  in the lake that burneth with fire and brimstone; which is the second death.",
+            "version": "ASV",
+            "clsstr": "Rev-21-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021009,
+            "text": "\u00b6 And there came one of the seven angels who had the seven bowls, who were laden with the seven last plagues; and he spake with me, saying, Come hither, I will show thee the bride, the wife of the Lamb. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021010,
+            "text": "And he carried me away in the Spirit to a mountain great and high, and showed me the holy city Jerusalem, coming down out of heaven from God, ",
+            "version": "ASV",
+            "clsstr": "Rev-21-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021011,
+            "text": "having the glory of God: her <i>[e]</i>light was like unto a stone most precious, as it were a jasper stone, clear as crystal: ",
+            "version": "ASV",
+            "clsstr": "Rev-21-11",
+            "footnotes": [
+                {
+                    "e": "Greek <i>luminary</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021012,
+            "text": "having a wall great and high; having twelve <i>[f]</i>gates, and at the <i>[g]</i>gates twelve angels; and names written thereon, which are  of the twelve tribes of the children of Israel: ",
+            "version": "ASV",
+            "clsstr": "Rev-21-12",
+            "footnotes": [
+                {
+                    "f": "Greek <i>portals</i>."
+                },
+                {
+                    "g": "Greek <i>portals</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021013,
+            "text": "on the east were three <i>[h]</i>gates; and on the north three <i>[i]</i>gates; and on the south three <i>[j]</i>gates; and on the west <i>[k]</i>three gates. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-13",
+            "footnotes": [
+                {
+                    "h": "Greek <i>portals</i>."
+                },
+                {
+                    "i": "Greek <i>portals</i>."
+                },
+                {
+                    "j": "Greek <i>portals</i>."
+                },
+                {
+                    "k": "Greek <i>portals</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021014,
+            "text": "And the wall of the city had twelve foundations, and on them twelve names of the twelve apostles of the Lamb. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021015,
+            "text": "And he that spake with me had for a measure a golden reed to measure the city, and the <i>[l]</i>gates thereof, and the wall thereof. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-15",
+            "footnotes": [
+                {
+                    "l": "Greek <i>portals</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021016,
+            "text": "And the city lieth foursquare, and the length thereof is as great as the breadth: and he measured the city with the reed, twelve thousand furlongs: the length and the breadth and the height thereof are equal. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021017,
+            "text": "And he measured the wall thereof, a hundred and forty and four cubits,  the measure of a man, that is, of an angel. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021018,
+            "text": "And the building of the wall thereof was jasper: and the city was pure gold, like unto pure glass. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021019,
+            "text": "The foundations of the wall of the city were adorned with all manner of precious stones. The first foundation was jasper; the second, <i>[m]</i>sapphire; the third, chalcedony; the fourth, emerald; ",
+            "version": "ASV",
+            "clsstr": "Rev-21-19",
+            "footnotes": [
+                {
+                    "m": "Or, <i>lapis lazuli</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021020,
+            "text": "the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, <i>[n]</i>jacinth; the twelfth, amethyst. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-20",
+            "footnotes": [
+                {
+                    "n": "Or, <i>sapphire</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021021,
+            "text": "And the twelve <i>[o]</i>gates were twelve pearls; each one of the several <i>[p]</i>gates was of one pearl: and the street of the city was pure gold, <i>[q]</i>as it were transparent glass. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-21",
+            "footnotes": [
+                {
+                    "o": "Greek <i>portals</i>."
+                },
+                {
+                    "p": "Greek <i>portals</i>."
+                },
+                {
+                    "q": "Or, <i>transparent as glass</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021022,
+            "text": "And I saw no <i>[r]</i>temple therein: for the Lord God the Almighty, and the Lamb, are the <i>[s]</i>temple thereof. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-22",
+            "footnotes": [
+                {
+                    "r": "Or, <i>sanctuary</i>"
+                },
+                {
+                    "s": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021023,
+            "text": "And the city hath no need of the sun, neither of the moon, to shine upon it: for the glory of God did lighten it, <i>[t]</i>and the lamp thereof  the Lamb. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-23",
+            "footnotes": [
+                {
+                    "t": "Or, <i>and the Lamb, the lamp thereof</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021024,
+            "text": "And the nations shall walk <i>[u]</i>amidst the light thereof: and the kings of the earth bring their glory into it. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-24",
+            "footnotes": [
+                {
+                    "u": "Or, <i>by</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021025,
+            "text": "And the <i>[v]</i>gates thereof shall in no wise be shut by day (for there shall be no night there): ",
+            "version": "ASV",
+            "clsstr": "Rev-21-25",
+            "footnotes": [
+                {
+                    "v": "Greek <i>portals</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021026,
+            "text": "and they shall bring the glory and the honor of the nations into it: ",
+            "version": "ASV",
+            "clsstr": "Rev-21-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66021027,
+            "text": "and there shall in no wise enter into it anything <i>[w]</i>unclean, or he that <i>[x]</i>maketh an abomination and a lie: but only they that are written in the Lamb\u2019s book of life. ",
+            "version": "ASV",
+            "clsstr": "Rev-21-27",
+            "footnotes": [
+                {
+                    "w": "Greek <i>common</i>."
+                },
+                {
+                    "x": "Or, <i>doeth</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Revelation",
+    "chapters": 21
+}

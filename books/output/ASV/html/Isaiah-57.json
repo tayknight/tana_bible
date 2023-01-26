@@ -1,0 +1,233 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23057001,
+            "text": "\u00b6 The righteous perisheth, and no man layeth it to heart; and <i>[a]</i>merciful men are taken away, none considering that the righteous is taken away <i>[b]</i>from the evil . ",
+            "version": "ASV",
+            "clsstr": "Isa-57-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>godly</i>"
+                },
+                {
+                    "b": "Or, <i>through wickedness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057002,
+            "text": "He entereth into peace; they rest in their beds, each one that walketh <i>[c]</i>in his uprightness.",
+            "version": "ASV",
+            "clsstr": "Isa-57-2",
+            "footnotes": [
+                {
+                    "c": "Or, <i>straight before him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057003,
+            "text": "\u00b6 But draw near hither, ye sons of the sorceress, the seed of the adulterer and the harlot. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057004,
+            "text": "Against whom do ye sport yourselves? against whom make ye a wide mouth, and put out the tongue? are ye not children of transgression, a seed of falsehood, ",
+            "version": "ASV",
+            "clsstr": "Isa-57-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057005,
+            "text": "ye that inflame yourselves <i>[d]</i>among the oaks, under every green tree; that slay the children in the valleys, under the clefts of the rocks? ",
+            "version": "ASV",
+            "clsstr": "Isa-57-5",
+            "footnotes": [
+                {
+                    "d": "Or, <i>with idols</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057006,
+            "text": "Among the smooth of the valley is thy portion; they, they are thy lot; even to them hast thou poured a drink-offering, thou hast offered <i>[e]</i>an oblation. Shall I be appeased for these things? ",
+            "version": "ASV",
+            "clsstr": "Isa-57-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>a meal-offering</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057007,
+            "text": "Upon a high and lofty mountain hast thou set thy bed; thither also wentest thou up to offer sacrifice. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057008,
+            "text": "And behind the doors and the posts hast thou set up thy memorial: for thou hast uncovered to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them: thou lovedst their bed where <i>[f]</i>thou sawest it. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-8",
+            "footnotes": [
+                {
+                    "f": "Or, <i>thou providedst room for it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057009,
+            "text": "And thou wentest to the king with oil, and didst increase thy perfumes, and didst send thine ambassadors far off, and didst debase thyself even unto Sheol. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057010,
+            "text": "Thou wast wearied with the length of thy way; yet saidst thou not, It is in vain: thou didst find <i>[g]</i>a quickening of thy strength; therefore thou wast not <i>[h]</i>faint.",
+            "version": "ASV",
+            "clsstr": "Isa-57-10",
+            "footnotes": [
+                {
+                    "g": "Hebrew <i>the life of thy hand</i>."
+                },
+                {
+                    "h": "Hebrew <i>sick</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057011,
+            "text": "\u00b6 And of whom hast thou been afraid and in fear, that thou liest, and hast not remembered me, nor laid it to thy heart? have not I held my peace even of long time, and thou fearest me not? ",
+            "version": "ASV",
+            "clsstr": "Isa-57-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057012,
+            "text": "I will declare thy righteousness; and as for thy works, they shall not profit thee. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057013,
+            "text": "When thou criest, let <i>[i]</i>them that thou hast gathered deliver thee; but the wind shall take them, a breath shall carry them all away: but he that taketh refuge in me shall possess the land, and shall inherit my holy mountain.",
+            "version": "ASV",
+            "clsstr": "Isa-57-13",
+            "footnotes": [
+                {
+                    "i": "Or, <i>thy rabble</i> of idols"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057014,
+            "text": "\u00b6 And <i>[j]</i>he will say, Cast ye up, cast ye up, prepare the way, take up the stumbling-block out of the way of my people. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-14",
+            "footnotes": [
+                {
+                    "j": "Or, <i>it shall be said</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057015,
+            "text": "For thus saith the high and lofty One that inhabiteth eternity, whose name is Holy: I dwell in the high and holy place, with him also that is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057016,
+            "text": "For I will not contend for ever, neither will I be always wroth; for the spirit would faint before me, and the souls that I have made. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057017,
+            "text": "For the iniquity of his covetousness was I wroth, and smote him; I hid and was wroth; and he went on <i>[k]</i>backsliding in the way of his heart. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-17",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>turning away</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057018,
+            "text": "I have seen his ways, and will heal him: I will lead him also, and <i>[l]</i>restore comforts unto him and to his mourners. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-18",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>recompense</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057019,
+            "text": "I create the fruit of the lips: Peace, peace, to him that is far off and to him that is near, saith Jehovah; and I will heal him. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057020,
+            "text": "But the wicked are like the troubled sea; for it cannot rest, and its waters cast up mire and dirt. ",
+            "version": "ASV",
+            "clsstr": "Isa-57-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23057021,
+            "text": "There is no peace, saith my God, to the wicked.",
+            "version": "ASV",
+            "clsstr": "Isa-57-21",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 57
+}

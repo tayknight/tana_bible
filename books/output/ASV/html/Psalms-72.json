@@ -1,0 +1,220 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19072001,
+            "text": "<b>The reign of the righteous king.</b>\n\u00b6  of Solomon.\u00b6     Give the king thy judgments, O God,\n    And thy righteousness unto the king\u2019s son.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072002,
+            "text": "   <i>[a]</i>He will judge thy people with righteousness,\n    And thy poor with justice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Let him</i> (and so throughout the Psalm)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072003,
+            "text": "    The mountains shall bring peace to the people,\n    And the hills, in righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072004,
+            "text": "    He will judge the poor of the people,\n    He will save the children of the needy,\n    And will break in pieces the oppressor.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072005,
+            "text": "  They shall fear thee while the sun endureth,\n  And <i>[b]</i>so long as the moon, throughout all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>before the moon</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072006,
+            "text": "    He will come down like rain upon the mown grass,\n    As showers that water the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072007,
+            "text": "    In his days shall the righteous flourish,\n    And abundance of peace, till the moon be no more.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072008,
+            "text": "    He shall have dominion also from sea to sea,\n    And from the River unto the ends of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072009,
+            "text": "    They that dwell in the wilderness shall bow before him;\n    And his enemies shall lick the dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072010,
+            "text": "    The kings of Tarshish and of the isles shall render tribute:\n    The kings of Sheba and Seba shall offer gifts.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072011,
+            "text": "    Yea, all kings shall fall down before him;\n    All nations shall serve him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072012,
+            "text": "  For he will deliver the needy when he crieth,\n  And the poor, <i>[c]</i>that hath no helper.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-12",
+            "footnotes": [
+                {
+                    "c": "Or, <i>and him that hath</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072013,
+            "text": "  He will have pity on the <i>[d]</i>poor and needy,\n    And the souls of the needy he will save.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-13",
+            "footnotes": [
+                {
+                    "d": "Or, <i>weak</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072014,
+            "text": "  He will redeem their soul from <i>[e]</i>oppression and violence;\n    And precious will their blood be in his sight:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>fraud</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072015,
+            "text": "  And <i>[f]</i>they shall live; and to him shall be given of the gold of Sheba:\n    And men shall pray for him continually;\n    They shall bless him all the day long.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-15",
+            "footnotes": [
+                {
+                    "f": "Or, <i>he</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072016,
+            "text": " There shall be <i>[g]</i>abundance of grain in the <i>[h]</i>earth upon the top of the mountains;\n    The fruit thereof shall shake like Lebanon:\n    And they of the city shall flourish like grass of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>a handful</i>"
+                },
+                {
+                    "h": "Or, <i>land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072017,
+            "text": " His name shall endure for ever;\n His name shall <i>[i]</i>be continued <i>[j]</i>as long as the sun:\n  And men shall <i>[k]</i>be blessed in him;\n    All nations shall call him happy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>have issue</i>"
+                },
+                {
+                    "j": "Hebrew <i>before the sun</i>."
+                },
+                {
+                    "k": "Or, <i>bless themselves</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072018,
+            "text": "\u00b6     Blessed be Jehovah God, the God of Israel,\n    Who only doeth wondrous things:\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072019,
+            "text": "    And blessed be his glorious name for ever;\n    And let the whole earth be filled with his glory.\n    Amen, and Amen.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19072020,
+            "text": "\u00b6     The prayers of David the son of Jesse are ended.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-72-20",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 72
+}

@@ -1,0 +1,379 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20008001,
+            "text": "\u00b6     Doth not wisdom cry,\n    And understanding put forth her voice?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008002,
+            "text": "    On the top of high places by the way,\n    Where the paths meet, she standeth;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008003,
+            "text": "    Beside the gates, at the entry of the city,\n    At the coming in at the doors, she crieth aloud:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008004,
+            "text": "    Unto you, O men, I call;\n    And my voice is to the sons of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008005,
+            "text": "    O ye simple, understand prudence;\n    And, ye fools, be of an understanding heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008006,
+            "text": "    Hear, for I will speak excellent things;\n    And the opening of my lips shall be right things.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008007,
+            "text": "    For my mouth shall utter truth;\n    And wickedness is an abomination to my lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008008,
+            "text": "  All the words of my mouth <i>[a]</i>are in righteousness;\n    There is nothing crooked or perverse in them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-8",
+            "footnotes": [
+                {
+                    "a": "Or, <i>are righteousness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008009,
+            "text": "    They are all plain to him that understandeth,\n    And right to them that find knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008010,
+            "text": "    Receive my instruction, and not silver;\n    And knowledge rather than choice gold.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008011,
+            "text": "    For wisdom is better than rubies;\n    And all the things that may be desired are not to be compared unto it.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008012,
+            "text": "\u00b6   I wisdom have made prudence my dwelling,\n  And find out <i>[b]</i>knowledge  discretion.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-12",
+            "footnotes": [
+                {
+                    "b": "Or, <i>knowledge of witty inventions</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008013,
+            "text": "    The fear of Jehovah is to hate evil:\n    Pride, and arrogancy, and the evil way,\n    And the perverse mouth, do I hate.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008014,
+            "text": "  Counsel is mine, and <i>[c]</i>sound knowledge:\n    I am understanding; I have might.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-14",
+            "footnotes": [
+                {
+                    "c": "Or, <i>effectual working</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008015,
+            "text": "    By me kings reign,\n    And princes decree justice.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008016,
+            "text": "  By me <i>[d]</i>princes rule,\n    And nobles,  all the judges of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>rulers</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008017,
+            "text": "  I love them that love me;\n  And those that seek me <i>[e]</i>diligently shall find me.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-17",
+            "footnotes": [
+                {
+                    "e": "Or, <i>early</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008018,
+            "text": "  Riches and honor are with me;\n  , <i>[f]</i>durable wealth and righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-18",
+            "footnotes": [
+                {
+                    "f": "Or, <i>ancient</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008019,
+            "text": "  My fruit is better than gold, yea, than fine gold;\n  And my <i>[g]</i>revenue than choice silver.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-19",
+            "footnotes": [
+                {
+                    "g": "Or, <i>increase</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008020,
+            "text": "    I walk in the way of righteousness,\n    In the midst of the paths of justice;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008021,
+            "text": "    That I may cause those that love me to inherit substance,\n    And that I may fill their treasuries.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008022,
+            "text": "\u00b6 Jehovah <i>[h]</i>possessed me in <i>[i]</i>the beginning of his way,\n   <i>[j]</i>Before his works of old.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-22",
+            "footnotes": [
+                {
+                    "h": "Or, <i>formed</i>"
+                },
+                {
+                    "i": "Or, <i>as</i>"
+                },
+                {
+                    "j": "Or, <i>The first of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008023,
+            "text": "    I was set up from everlasting, from the beginning,\n    Before the earth was.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008024,
+            "text": "    When there were no depths, I was brought forth,\n    When there were no fountains abounding with water.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008025,
+            "text": "    Before the mountains were settled,\n    Before the hills was I brought forth;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008026,
+            "text": "  While as yet he had not made the earth, nor the fields,\n  Nor the <i>[k]</i>beginning of the dust of the world.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-26",
+            "footnotes": [
+                {
+                    "k": "Or, <i>sum</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008027,
+            "text": "  When he <i>[l]</i>established the heavens, I was there:\n    When he set a circle upon the face of the deep,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-27",
+            "footnotes": [
+                {
+                    "l": "Or, <i>prepared</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008028,
+            "text": "    When he made firm the skies above,\n    When the fountains of the deep became strong,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008029,
+            "text": " When he gave to the sea <i>[m]</i>its bound,\n  That the waters should not transgress his commandment,\n  When he <i>[n]</i>marked out the foundations of the earth;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-29",
+            "footnotes": [
+                {
+                    "m": "Or, <i>his decree</i>"
+                },
+                {
+                    "n": "Or, <i>appointed</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008030,
+            "text": " Then I was by him, a master workman;\n And I <i>[o]</i>was daily delight,\n   <i>[p]</i>Rejoicing always before him,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-30",
+            "footnotes": [
+                {
+                    "o": "Or, <i>had delight continually</i>"
+                },
+                {
+                    "p": "Or, <i>Sporting</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008031,
+            "text": "   <i>[q]</i>Rejoicing in his habitable earth;\n    And my delight was with the sons of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-31",
+            "footnotes": [
+                {
+                    "q": "Or, <i>Sporting</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008032,
+            "text": "\u00b6     Now therefore,  sons, hearken unto me;\n    For blessed are they that keep my ways.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008033,
+            "text": "    Hear instruction, and be wise,\n    And refuse it not.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008034,
+            "text": "    Blessed is the man that heareth me,\n    Watching daily at my gates,\n    Waiting at the posts of my doors.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008035,
+            "text": "  For whoso findeth me findeth life,\n  And shall <i>[r]</i>obtain favor of Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-35",
+            "footnotes": [
+                {
+                    "r": "Hebrew <i>draw forth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20008036,
+            "text": "  But he that <i>[s]</i>sinneth against me wrongeth his own soul:\n    All they that hate me love death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-8-36",
+            "footnotes": [
+                {
+                    "s": "Or, <i>misseth me</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 8
+}

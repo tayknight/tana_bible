@@ -1,0 +1,91 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19098001,
+            "text": "<b>A call to praise Jehovah for his righteousness.</b>\n\u00b6 A Psalm.\u00b6     Oh sing unto Jehovah a new song;\n    For he hath done marvellous things:\n    His right hand, and his holy arm, hath wrought salvation for him.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098002,
+            "text": "    Jehovah hath made known his salvation:\n    His righteousness hath he openly showed in the sight of the nations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098003,
+            "text": "    He hath remembered his lovingkindness and his faithfulness toward the house of Israel:\n    All the ends of the earth have seen the salvation of our God.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098004,
+            "text": "    Make a joyful noise unto Jehovah, all the earth:\n    Break forth and sing for joy, yea, sing praises.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098005,
+            "text": "    Sing praises unto Jehovah with the harp;\n    With the harp and the voice of melody.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098006,
+            "text": "    With trumpets and sound of cornet\n    Make a joyful noise before the King, Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098007,
+            "text": "    Let the sea roar, and the fulness thereof;\n    The world, and they that dwell therein;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098008,
+            "text": "    Let the floods clap their hands;\n    Let the hills sing for joy together\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19098009,
+            "text": "    Before Jehovah; for he cometh to judge the earth:\n    He will judge the world with righteousness,\n    And the peoples with equity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-98-9",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 98
+}

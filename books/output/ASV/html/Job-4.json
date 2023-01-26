@@ -1,0 +1,233 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18004001,
+            "text": "\u00b6 Then answered Eliphaz the Temanite, and said,",
+            "version": "ASV",
+            "clsstr": "Job-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004002,
+            "text": "\u00b6     If one assay to commune with thee, wilt thou be grieved?\n    But who can withhold himself from speaking?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004003,
+            "text": "    Behold, thou hast instructed many,\n    And thou hast strengthened the weak hands.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004004,
+            "text": "  Thy words have upholden him that was falling,\n  And thou hast made firm the <i>[a]</i>feeble knees.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>bowing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004005,
+            "text": "  But now it is come unto thee, and thou <i>[b]</i>faintest;\n    It toucheth thee, and thou art troubled.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>art grieved</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004006,
+            "text": "    Is not thy fear  thy confidence,\n     the integrity of thy ways thy hope?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004007,
+            "text": "    Remember, I pray thee, who  perished, being innocent?\n    Or where were the upright cut off?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004008,
+            "text": "  According as I have seen, they that plow iniquity,\n  And sow <i>[c]</i>trouble, reap the same.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>mischief</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004009,
+            "text": "    By the breath of God they perish,\n    And by the blast of his anger are they consumed.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004010,
+            "text": "    The roaring of the lion, and the voice of the fierce lion,\n    And the teeth of the young lions, are broken.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004011,
+            "text": "    The old lion perisheth for lack of prey,\n    And the whelps of the lioness are scattered abroad.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004012,
+            "text": "\u00b6   Now a thing was <i>[d]</i>secretly brought to me,\n    And mine ear received a whisper thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-12",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>brought by stealth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004013,
+            "text": "    In thoughts from the visions of the night,\n    When deep sleep falleth on men,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004014,
+            "text": "    Fear came upon me, and trembling,\n    Which made all my bones to shake.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004015,
+            "text": "  Then <i>[e]</i>a spirit passed before my face;\n    The hair of my flesh stood up.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>a breath passed over</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004016,
+            "text": "  It stood still, but I could not discern the appearance thereof;\n  A form was before mine eyes:\n   <i>[f]</i> silence, and I heard a voice, ,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-16",
+            "footnotes": [
+                {
+                    "f": "Or, <i>I heard a still voice</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004017,
+            "text": " Shall mortal man <i>[g]</i>be more just than God?\n  Shall a man <i>[h]</i>be more pure than his Maker?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>be just before God</i>"
+                },
+                {
+                    "h": "Or, <i>be pure before his Maker</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004018,
+            "text": "    Behold, he putteth no trust in his servants;\n    And his angels he chargeth with folly:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004019,
+            "text": "  How much more them that dwell in houses of clay,\n  Whose foundation is in the dust,\n  Who are crushed <i>[i]</i>before the moth!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-19",
+            "footnotes": [
+                {
+                    "i": "Or, <i>like</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004020,
+            "text": "  <i>[j]</i>Betwixt morning and evening they are <i>[k]</i>destroyed:\n    They perish for ever without any regarding it.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-20",
+            "footnotes": [
+                {
+                    "j": "Or, <i>From morning to evening</i>"
+                },
+                {
+                    "k": "Hebrew <i>broken in pieces</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18004021,
+            "text": "   <i>[l]</i>Is not their tent-cord plucked up within them?\n    They die, and that without wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-4-21",
+            "footnotes": [
+                {
+                    "l": "Or, <i>Is not their excellency which is in them removed?</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 4
+}

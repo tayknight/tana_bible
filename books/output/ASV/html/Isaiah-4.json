@@ -1,0 +1,92 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23004001,
+            "text": "And seven women shall take hold of one man in that day, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name; take thou away our reproach.",
+            "version": "ASV",
+            "clsstr": "Isa-4-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23004002,
+            "text": "\u00b6 In that day shall the <i>[a]</i>branch of Jehovah be beautiful and glorious, and the fruit of the <i>[b]</i>land shall be <i>[c]</i>excellent and comely for them that are escaped of Israel. ",
+            "version": "ASV",
+            "clsstr": "Isa-4-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>shoot</i>. Or, <i>sprout</i>"
+                },
+                {
+                    "b": "Or, <i>earth</i>"
+                },
+                {
+                    "c": "Or, <i>majestic</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23004003,
+            "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written <i>[d]</i>among the living in Jerusalem; ",
+            "version": "ASV",
+            "clsstr": "Isa-4-3",
+            "footnotes": [
+                {
+                    "d": "Or, <i>unto life</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23004004,
+            "text": "when the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof, by the <i>[e]</i>spirit of justice, and by the <i>[f]</i>spirit of burning. ",
+            "version": "ASV",
+            "clsstr": "Isa-4-4",
+            "footnotes": [
+                {
+                    "e": "Or, <i>blast</i>"
+                },
+                {
+                    "f": "Or, <i>blast</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23004005,
+            "text": "And Jehovah will create over <i>[g]</i>the whole habitation of mount Zion, and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night; for over all the glory  a covering. ",
+            "version": "ASV",
+            "clsstr": "Isa-4-5",
+            "footnotes": [
+                {
+                    "g": "Or, <i>every dwelling-place</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23004006,
+            "text": "And there shall be a pavilion for a shade in the day-time from the heat, and for a refuge and for a covert from storm and from rain.",
+            "version": "ASV",
+            "clsstr": "Isa-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 4
+}

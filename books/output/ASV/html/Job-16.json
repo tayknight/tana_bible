@@ -1,0 +1,235 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18016001,
+            "text": "\u00b6 Then Job answered and said,",
+            "version": "ASV",
+            "clsstr": "Job-16-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016002,
+            "text": "\u00b6   I have heard many such things:\n   <i>[a]</i>Miserable comforters are ye all.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Wearisome</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016003,
+            "text": "  Shall <i>[b]</i>vain words have an end?\n    Or what provoketh thee that thou answerest?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-3",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>words of wind</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016004,
+            "text": "    I also could speak as ye do;\n    If your soul were in my soul\u2019s stead,\n    I could join words together against you,\n    And shake my head at you.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016005,
+            "text": "     I would strengthen you with my mouth,\n    And the solace of my lips would assuage .\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016006,
+            "text": "\u00b6   Though I speak, my grief is not assuaged;\n  And though I forbear, <i>[c]</i>what am I eased?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-6",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>what departeth from me?</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016007,
+            "text": "    But now he hath made me weary:\n    Thou hast made desolate all my company.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016008,
+            "text": "  And thou hast <i>[d]</i>laid fast hold on me,  is a witness :\n    And my leanness riseth up against me,\n    It testifieth to my face.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>shrivelled me up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016009,
+            "text": "  He hath torn me in his wrath, and <i>[e]</i>persecuted me;\n    He hath gnashed upon me with his teeth:\n    Mine adversary sharpeneth his eyes upon me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>hated</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016010,
+            "text": "    They have gaped upon me with their mouth;\n    They have smitten me upon the cheek reproachfully:\n    They gather themselves together against me.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016011,
+            "text": "    God delivereth me to the ungodly,\n    And casteth me into the hands of the wicked.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016012,
+            "text": "    I was at ease, and he brake me asunder;\n    Yea, he hath taken me by the neck, and dashed me to pieces:\n    He hath also set me up for his mark.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016013,
+            "text": "  His <i>[f]</i>archers compass me round about;\n    He cleaveth my reins asunder, and doth not spare;\n    He poureth out my gall upon the ground.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>arrows</i>. Or, <i>mighty ones</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016014,
+            "text": "  He breaketh me with breach upon breach;\n  He runneth upon me like a <i>[g]</i>giant.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>mighty man</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016015,
+            "text": "  I have sewed sackcloth upon my skin,\n  And have <i>[h]</i>laid my horn in the dust.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-15",
+            "footnotes": [
+                {
+                    "h": "Or, <i>defiled</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016016,
+            "text": "    My face is red with weeping,\n    And on my eyelids is the shadow of death;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016017,
+            "text": "    Although there is no violence in my hands,\n    And my prayer is pure.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016018,
+            "text": "\u00b6   O earth, cover not thou my blood,\n  And let my cry <i>[i]</i>have no -place.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-18",
+            "footnotes": [
+                {
+                    "i": "Or, <i>have no more place</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016019,
+            "text": "    Even now, behold, my witness is in heaven,\n    And he that voucheth for me is on high.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016020,
+            "text": "    My friends scoff at me:\n     mine eye poureth out tears unto God,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016021,
+            "text": "   <i>[j]</i>That he would maintain the right of a man with God,\n    And of a son of man with his neighbor!\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-21",
+            "footnotes": [
+                {
+                    "j": "Or, <i>That one might plead for a man with God, As a son of man</i> pleadeth <i>for his neighbor</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18016022,
+            "text": "    For when a few years are come,\n    I shall go the way whence I shall not return.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-16-22",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 16
+}

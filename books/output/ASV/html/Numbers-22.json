@@ -1,0 +1,367 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4022001,
+            "text": "And the children of Israel journeyed, and encamped in the plains of Moab beyond the Jordan at Jericho.",
+            "version": "ASV",
+            "clsstr": "Num-22-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022002,
+            "text": "\u00b6 And Balak the son of Zippor saw all that Israel had done to the Amorites. ",
+            "version": "ASV",
+            "clsstr": "Num-22-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022003,
+            "text": "And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel. ",
+            "version": "ASV",
+            "clsstr": "Num-22-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022004,
+            "text": "And Moab said unto the elders of Midian, Now will <i>[a]</i>this multitude lick up all that is round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of Moab at that time. ",
+            "version": "ASV",
+            "clsstr": "Num-22-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>the assembly</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022005,
+            "text": "And he sent messengers unto Balaam the son of Beor, to Pethor, which is by the River, to the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the <i>[b]</i>face of the earth, and they abide over against me. ",
+            "version": "ASV",
+            "clsstr": "Num-22-5",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>eye</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022006,
+            "text": "Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land; for I know that he whom thou blessest is blessed, and he whom thou cursest is cursed.",
+            "version": "ASV",
+            "clsstr": "Num-22-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022007,
+            "text": "\u00b6 And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak. ",
+            "version": "ASV",
+            "clsstr": "Num-22-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022008,
+            "text": "And he said unto them, Lodge here this night, and I will bring you word again, as Jehovah shall speak unto me: and the princes of Moab abode with Balaam. ",
+            "version": "ASV",
+            "clsstr": "Num-22-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022009,
+            "text": "And God came unto Balaam, and said, What men are these with thee? ",
+            "version": "ASV",
+            "clsstr": "Num-22-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022010,
+            "text": "And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, , ",
+            "version": "ASV",
+            "clsstr": "Num-22-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022011,
+            "text": "Behold, the people that is come out of Egypt, it covereth the <i>[c]</i>face of the earth: now, come curse me them; peradventure I shall be able to fight against them, and shall drive them out. ",
+            "version": "ASV",
+            "clsstr": "Num-22-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>eye</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022012,
+            "text": "And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people; for they are blessed. ",
+            "version": "ASV",
+            "clsstr": "Num-22-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022013,
+            "text": "And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land; for Jehovah refuseth to give me leave to go with you. ",
+            "version": "ASV",
+            "clsstr": "Num-22-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022014,
+            "text": "And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.",
+            "version": "ASV",
+            "clsstr": "Num-22-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022015,
+            "text": "\u00b6 And Balak sent yet again princes, more, and more honorable than they. ",
+            "version": "ASV",
+            "clsstr": "Num-22-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022016,
+            "text": "And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me: ",
+            "version": "ASV",
+            "clsstr": "Num-22-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022017,
+            "text": "for I will promote thee unto very great honor, and whatsoever thou sayest unto me I will do: come therefore, I pray thee, curse me this people. ",
+            "version": "ASV",
+            "clsstr": "Num-22-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022018,
+            "text": "And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of Jehovah my God, to do less or more. ",
+            "version": "ASV",
+            "clsstr": "Num-22-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022019,
+            "text": "Now therefore, I pray you, tarry ye also here this night, that I may know what Jehovah will speak unto me more. ",
+            "version": "ASV",
+            "clsstr": "Num-22-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022020,
+            "text": "And God came unto Balaam at night, and said unto him, If the men are come to call thee, rise up, go with them; but only the word which I speak unto thee, that shalt thou do.",
+            "version": "ASV",
+            "clsstr": "Num-22-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022021,
+            "text": "\u00b6 And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab. ",
+            "version": "ASV",
+            "clsstr": "Num-22-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022022,
+            "text": "And God\u2019s anger was kindled because he went; and the angel of Jehovah placed himself in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him. ",
+            "version": "ASV",
+            "clsstr": "Num-22-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022023,
+            "text": "And the ass saw the angel of Jehovah standing in the way, with his sword drawn in his hand; and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way. ",
+            "version": "ASV",
+            "clsstr": "Num-22-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022024,
+            "text": "Then the angel of Jehovah stood in a narrow path between the vineyards, a wall being on this side, and a wall on that side. ",
+            "version": "ASV",
+            "clsstr": "Num-22-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022025,
+            "text": "And the ass saw the angel of Jehovah, and she thrust herself unto the wall, and crushed Balaam\u2019s foot against the wall: and he smote her again. ",
+            "version": "ASV",
+            "clsstr": "Num-22-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022026,
+            "text": "And the angel of Jehovah went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left. ",
+            "version": "ASV",
+            "clsstr": "Num-22-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022027,
+            "text": "And the ass saw the angel of Jehovah, and she lay down under Balaam: and Balaam\u2019s anger was kindled, and he smote the ass with his staff. ",
+            "version": "ASV",
+            "clsstr": "Num-22-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022028,
+            "text": "And Jehovah opened the mouth of the ass, and she said unto Balaam, What have I done unto thee, that thou hast smitten me these three times? ",
+            "version": "ASV",
+            "clsstr": "Num-22-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022029,
+            "text": "And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in my hand, for now I had killed thee. ",
+            "version": "ASV",
+            "clsstr": "Num-22-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022030,
+            "text": "And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden all thy life long unto this day? was I ever wont to do so unto thee? and he said, Nay.",
+            "version": "ASV",
+            "clsstr": "Num-22-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022031,
+            "text": "\u00b6 Then Jehovah opened the eyes of Balaam, and he saw the angel of Jehovah standing in the way, with his sword drawn in his hand; and he bowed his head, and fell on his face. ",
+            "version": "ASV",
+            "clsstr": "Num-22-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022032,
+            "text": "And the angel of Jehovah said unto him, Wherefore hast thou smitten thine ass these three times? behold, I am come forth for an adversary, because thy way is <i>[d]</i>perverse before me: ",
+            "version": "ASV",
+            "clsstr": "Num-22-32",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>headlong</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022033,
+            "text": "and the ass saw me, and turned aside before me these three times: unless she had turned aside from me, surely now I had even slain thee, and saved her alive. ",
+            "version": "ASV",
+            "clsstr": "Num-22-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022034,
+            "text": "And Balaam said unto the angel of Jehovah, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again. ",
+            "version": "ASV",
+            "clsstr": "Num-22-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022035,
+            "text": "And the angel of Jehovah said unto Balaam, Go with the men; but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.",
+            "version": "ASV",
+            "clsstr": "Num-22-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022036,
+            "text": "\u00b6 And when Balak heard that Balaam was come, he went out to meet him unto the City of Moab, which is on the border of the Arnon, which is in the utmost part of the border. ",
+            "version": "ASV",
+            "clsstr": "Num-22-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022037,
+            "text": "And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honor? ",
+            "version": "ASV",
+            "clsstr": "Num-22-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022038,
+            "text": "And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to speak anything? the word that God putteth in my mouth, that shall I speak. ",
+            "version": "ASV",
+            "clsstr": "Num-22-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022039,
+            "text": "And Balaam went with Balak, and they came unto Kiriath-huzoth. ",
+            "version": "ASV",
+            "clsstr": "Num-22-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022040,
+            "text": "And Balak sacrificed oxen and sheep, and sent to Balaam, and to the princes that were with him.",
+            "version": "ASV",
+            "clsstr": "Num-22-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4022041,
+            "text": "\u00b6 And it came to pass in the morning, that Balak took Balaam, and brought him up into <i>[e]</i>the high places of Baal; and he saw from thence the utmost part of the people. ",
+            "version": "ASV",
+            "clsstr": "Num-22-41",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Bamoth-baal</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 22
+}

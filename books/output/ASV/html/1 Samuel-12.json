@@ -1,0 +1,238 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 9,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 9,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 9012001,
+            "text": "\u00b6 And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012002,
+            "text": "And now, behold, the king walketh before you; and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my youth unto this day. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012003,
+            "text": "Here I am: witness against me before Jehovah, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I taken a <i>[a]</i>ransom <i>[b]</i>to blind mine eyes therewith? and I will restore it you. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>bribe</i>"
+                },
+                {
+                    "b": "Or, <i>that I should hide mine eyes at him</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012004,
+            "text": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken aught of any man\u2019s hand. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012005,
+            "text": "And he said unto them, Jehovah is witness against you, and his anointed is witness this day, that ye have not found aught in my hand. And they said, He is witness.",
+            "version": "ASV",
+            "clsstr": "1Sam-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012006,
+            "text": "\u00b6 And Samuel said unto the people, It is Jehovah that <i>[c]</i>appointed Moses and Aaron, and that brought your fathers up out of the land of Egypt. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>made</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012007,
+            "text": "Now therefore stand still, that I may plead with you before Jehovah concerning all the righteous acts of Jehovah, which he did to you and to your fathers. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012008,
+            "text": "When Jacob was come into Egypt, and your fathers cried unto Jehovah, then Jehovah sent Moses and Aaron, who brought forth your fathers out of Egypt, and made them to dwell in this place. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012009,
+            "text": "But they forgat Jehovah their God; and he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab; and they fought against them. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012010,
+            "text": "And they cried unto Jehovah, and said, We have sinned, because we have forsaken Jehovah, and have served the Baalim and the Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012011,
+            "text": "And Jehovah sent Jerubbaal, and <i>[d]</i>Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side; and ye dwelt in safety. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-11",
+            "footnotes": [
+                {
+                    "d": "According to Septuagint and Syriac, <i>Barak</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012012,
+            "text": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay, but a king shall reign over us; when Jehovah your God was your king. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012013,
+            "text": "Now therefore behold the king whom ye have chosen, and whom ye have asked for: and, behold, Jehovah hath set a king over you. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012014,
+            "text": "If ye will fear Jehovah, and serve him, and hearken unto his voice, and not rebel against the commandment of Jehovah, <i>[e]</i>and both ye and also the king that reigneth over you be followers of Jehovah your God, : ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>then shall both ye\u00a0.\u00a0.\u00a0. Jehovah your God: but etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012015,
+            "text": "but if ye will not hearken unto the voice of Jehovah, but rebel against the commandment of Jehovah, then will the hand of Jehovah be against you, as it was against your fathers. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012016,
+            "text": "Now therefore stand still and see this great thing, which Jehovah will do before your eyes. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012017,
+            "text": "Is it not wheat harvest to-day? I will call unto Jehovah, that he may send thunder and rain; and ye shall know and see that your wickedness is great, which ye have done in the sight of Jehovah, in asking you a king. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012018,
+            "text": "So Samuel called unto Jehovah; and Jehovah sent thunder and rain that day: and all the people greatly feared Jehovah and Samuel.",
+            "version": "ASV",
+            "clsstr": "1Sam-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012019,
+            "text": "\u00b6 And all the people said unto Samuel, Pray for thy servants unto Jehovah thy God, that we die not; for we have added unto all our sins  evil, to ask us a king. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012020,
+            "text": "And Samuel said unto the people, Fear not: ye have indeed done all this evil; yet turn not aside from following Jehovah, but serve Jehovah with all your heart: ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012021,
+            "text": "and turn ye not aside; for  after vain things which cannot profit nor deliver, for they are vain. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012022,
+            "text": "For Jehovah will not forsake his people for his great name\u2019s sake, because it hath pleased Jehovah to make you a people unto himself. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012023,
+            "text": "Moreover as for me, far be it from me that I should sin against Jehovah in ceasing to pray for you: but I will instruct you in the good and the right way. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012024,
+            "text": "Only fear Jehovah, and serve him in truth with all your heart; for consider how great things he hath done for you. ",
+            "version": "ASV",
+            "clsstr": "1Sam-12-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 9012025,
+            "text": "But if ye shall still do wickedly, ye shall be consumed, both ye and your king.",
+            "version": "ASV",
+            "clsstr": "1Sam-12-25",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Samuel",
+    "chapters": 12
+}

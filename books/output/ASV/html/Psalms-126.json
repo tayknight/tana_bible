@@ -1,0 +1,71 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19126001,
+            "text": "<b>Thanksgiving for return from captivity.</b>\n\u00b6 A Song of Ascents.\u00b6     When Jehovah brought back those that returned to Zion,\n    We were like unto them that dream.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-126-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19126002,
+            "text": "    Then was our mouth filled with laughter,\n    And our tongue with singing:\n    Then said they among the nations,\n    Jehovah hath done great things for them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-126-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19126003,
+            "text": "    Jehovah hath done great things for us,\n     we are glad.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-126-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19126004,
+            "text": "    Turn again our captivity, O Jehovah,\n    As the streams in the South.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-126-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19126005,
+            "text": "    They that sow in tears shall reap in joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-126-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19126006,
+            "text": "  He that goeth forth and weepeth, <i>[a]</i>bearing seed for sowing,\n    Shall doubtless come again with joy, bringing his sheaves .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-126-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>bearing the measure of seed</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 126
+}

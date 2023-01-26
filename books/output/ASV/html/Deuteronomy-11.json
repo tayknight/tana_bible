@@ -1,0 +1,291 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5011001,
+            "text": "\u00b6 Therefore thou shalt love Jehovah thy God, and keep his charge, and his statutes, and his ordinances, and his commandments, alway. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011002,
+            "text": "And know ye this day: for not with your children that have not known, and that have not seen the <i>[a]</i>chastisement of Jehovah your God, his greatness, his mighty hand, and his outstretched arm, ",
+            "version": "ASV",
+            "clsstr": "Deut-11-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>instruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011003,
+            "text": "and his signs, and his works, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011004,
+            "text": "and what he did unto the army of Egypt, unto their horses, and to their chariots; how he made the water of the Red Sea to overflow them as they pursued after you, and how Jehovah hath destroyed them unto this day; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011005,
+            "text": "and what he did unto you in the wilderness, until ye came unto this place; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011006,
+            "text": "and what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben; how the earth opened its mouth, and swallowed them up, and their households, and their tents, and every living thing that followed them, in the midst of all Israel: ",
+            "version": "ASV",
+            "clsstr": "Deut-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011007,
+            "text": "but your eyes have seen all the great work of Jehovah which he did.",
+            "version": "ASV",
+            "clsstr": "Deut-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011008,
+            "text": "\u00b6 Therefore shall ye keep all the commandment which I command thee this day, that ye may be strong, and go in and possess the land, whither ye go over to possess it; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011009,
+            "text": "and that ye may prolong your days in the land, which Jehovah sware unto your fathers to give unto them and to their seed, a land flowing with milk and honey. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011010,
+            "text": "For the land, whither thou goest in to possess it, is not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst it with thy foot, as a garden of herbs; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011011,
+            "text": "but the land, whither ye go over to possess it, is a land of hills and valleys,  drinketh water of the rain of heaven, ",
+            "version": "ASV",
+            "clsstr": "Deut-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011012,
+            "text": "a land which Jehovah thy God <i>[b]</i>careth for: the eyes of Jehovah thy God are always upon it, from the beginning of the year even unto the end of the year.",
+            "version": "ASV",
+            "clsstr": "Deut-11-12",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>seeketh after</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011013,
+            "text": "\u00b6 And it shall come to pass, if ye shall hearken diligently unto my commandments which I command you this day, to love Jehovah your God, and to serve him with all your heart and with all your soul, ",
+            "version": "ASV",
+            "clsstr": "Deut-11-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011014,
+            "text": "that I will give the rain of your land in its season, the former rain and the latter rain, that thou mayest gather in thy grain, and thy new wine, and thine oil. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011015,
+            "text": "And I will give grass in thy fields for thy cattle, and thou shalt eat and be full. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011016,
+            "text": "Take heed to yourselves, lest your heart be deceived, and ye turn aside, and serve other gods, and worship them; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011017,
+            "text": "and the anger of Jehovah be kindled against you, and he shut up the heavens, so that there shall be no rain, and the land shall not yield its fruit; and ye perish quickly from off the good land which Jehovah giveth you.",
+            "version": "ASV",
+            "clsstr": "Deut-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011018,
+            "text": "\u00b6 Therefore shall ye lay up these my words in your heart and in your soul; and ye shall bind them for a sign upon your hand, and they shall be for frontlets between your eyes. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011019,
+            "text": "And ye shall teach them your children, talking of them, when thou sittest in thy house, and when thou walkest by the way, and when thou liest down, and when thou risest up. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011020,
+            "text": "And thou shalt write them upon the door-posts of thy house, and upon thy gates; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011021,
+            "text": "that your days may be multiplied, and the days of your children, in the land which Jehovah sware unto your fathers to give them, as the days of the heavens above the earth. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011022,
+            "text": "For if ye shall diligently keep all this commandment which I command you, to do it, to love Jehovah your God, to walk in all his ways, and to cleave unto him; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011023,
+            "text": "then will Jehovah drive out all these nations from before you, and ye shall dispossess nations greater and mightier than yourselves. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011024,
+            "text": "Every place whereon the sole of your foot shall tread shall be yours: from the wilderness, and Lebanon, from the river, the river Euphrates, even unto the <i>[c]</i>hinder sea shall be your border. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-24",
+            "footnotes": [
+                {
+                    "c": "That is, <i>western</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011025,
+            "text": "There shall no man be able to stand before you: Jehovah your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath spoken unto you.",
+            "version": "ASV",
+            "clsstr": "Deut-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011026,
+            "text": "\u00b6 Behold, I set before you this day a blessing and a curse: ",
+            "version": "ASV",
+            "clsstr": "Deut-11-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011027,
+            "text": "the blessing, if ye shall hearken unto the commandments of Jehovah your God, which I command you this day; ",
+            "version": "ASV",
+            "clsstr": "Deut-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011028,
+            "text": "and the curse, if ye shall not hearken unto the commandments of Jehovah your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011029,
+            "text": "And it shall come to pass, when Jehovah thy God shall bring thee into the land whither thou goest to possess it, that thou shalt set the blessing upon mount Gerizim, and the curse upon mount Ebal. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011030,
+            "text": "Are they not beyond the Jordan, behind the way of the going down of the sun, in the land of the Canaanites that dwell in the Arabah, over against Gilgal, beside the <i>[d]</i>oaks of Moreh? ",
+            "version": "ASV",
+            "clsstr": "Deut-11-30",
+            "footnotes": [
+                {
+                    "d": "Or, <i>terebinths</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011031,
+            "text": "For ye are to pass over the Jordan to go in to possess the land which Jehovah your God giveth you, and ye shall possess it, and dwell therein. ",
+            "version": "ASV",
+            "clsstr": "Deut-11-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5011032,
+            "text": "And ye shall observe to do all the statutes and the ordinances which I set before you this day.",
+            "version": "ASV",
+            "clsstr": "Deut-11-32",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 11
+}

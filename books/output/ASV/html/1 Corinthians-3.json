@@ -1,0 +1,237 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46003001,
+            "text": "\u00b6 And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, as unto babes in Christ. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003002,
+            "text": "I fed you with milk, not with meat; for ye were not yet able : nay, not even now are ye able; ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003003,
+            "text": "for ye are yet carnal: for whereas there is among you jealousy and strife, are ye not carnal, and do ye not walk after the manner of men? ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003004,
+            "text": "For when one saith, I am of Paul; and another, I am of Apollos; are ye not men? ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003005,
+            "text": "What then is Apollos? and what is Paul? Ministers through whom ye believed; and each as the Lord gave to him. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003006,
+            "text": "I planted, Apollos watered; but God gave the increase. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003007,
+            "text": "So then neither is he that planteth anything, neither he that watereth; but God that giveth the increase. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003008,
+            "text": "Now he that planteth and he that watereth are one: but each shall receive his own reward according to his own labor. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003009,
+            "text": "For we are God\u2019s fellow-workers: ye are God\u2019s <i>[a]</i>husbandry, God\u2019s building.",
+            "version": "ASV",
+            "clsstr": "1Cor-3-9",
+            "footnotes": [
+                {
+                    "a": "Greek <i>tilled land</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003010,
+            "text": "\u00b6 According to the grace of God which was given unto me, as a wise masterbuilder I laid a foundation; and another buildeth thereon. But let each man take heed how he buildeth thereon. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003011,
+            "text": "For other foundation can no man lay than that which is laid, which is Jesus Christ. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003012,
+            "text": "But if any man buildeth on the foundation gold, silver, costly stones, wood, hay, stubble; ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003013,
+            "text": "each man\u2019s work shall be made manifest: for the day shall declare it, because it is revealed in fire; <i>[b]</i>and the fire itself shall prove each man\u2019s work of what sort it is. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-13",
+            "footnotes": [
+                {
+                    "b": "Or, <i>and each man\u2019s work, of what sort it is, the fire shall prove it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003014,
+            "text": "If any man\u2019s work shall abide which he built thereon, he shall receive a reward. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003015,
+            "text": "If any man\u2019s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as through fire.",
+            "version": "ASV",
+            "clsstr": "1Cor-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003016,
+            "text": "\u00b6 Know ye not that ye are a <i>[c]</i>temple of God, and  the Spirit of God dwelleth in you? ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-16",
+            "footnotes": [
+                {
+                    "c": "Or, <i>sanctuary</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003017,
+            "text": "If any man destroyeth the <i>[d]</i>temple of God, him shall God destroy; for the <i>[e]</i>temple of God is holy, <i>[f]</i>and such are ye.",
+            "version": "ASV",
+            "clsstr": "1Cor-3-17",
+            "footnotes": [
+                {
+                    "d": "Or, <i>sanctuary</i>"
+                },
+                {
+                    "e": "Or, <i>sanctuary</i>"
+                },
+                {
+                    "f": "Or, <i>which</i> temple <i>ye are</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003018,
+            "text": "\u00b6 Let no man deceive himself. If any man thinketh that he is wise among you in this <i>[g]</i>world, let him become a fool, that he may become wise. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-18",
+            "footnotes": [
+                {
+                    "g": "Or, <i>age</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003019,
+            "text": "For the wisdom of this world is foolishness with God. For it is written, <i>[h]</i>He that taketh the wise in their craftiness: ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-19",
+            "footnotes": [
+                {
+                    "h": "[[Job 5:13]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003020,
+            "text": "and again, <i>[i]</i>The Lord knoweth the reasonings of the wise, that they are vain. ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-20",
+            "footnotes": [
+                {
+                    "i": "[[Ps. 94:11]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003021,
+            "text": "Wherefore let no one glory in men. For all things are yours; ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003022,
+            "text": "whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours; ",
+            "version": "ASV",
+            "clsstr": "1Cor-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46003023,
+            "text": "and ye are Christ\u2019s; and Christ is God\u2019s.",
+            "version": "ASV",
+            "clsstr": "1Cor-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 3
+}

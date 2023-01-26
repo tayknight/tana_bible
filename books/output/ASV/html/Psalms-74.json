@@ -1,0 +1,246 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19074001,
+            "text": "<b>A complaint over the devastation of the land by the enemy.</b>\n\u00b6 Maschil of Asaph.\u00b6     O God, why hast thou cast  off for ever?\n    Why doth thine anger smoke against the sheep of thy pasture?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074002,
+            "text": "    Remember thy congregation, which thou hast gotten of old,\n    Which thou hast redeemed to be the tribe of thine inheritance;\n     mount Zion, wherein thou hast dwelt.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074003,
+            "text": "  Lift up thy feet unto the perpetual ruins,\n   <i>[a]</i>All the evil that the enemy hath done in the sanctuary.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>The enemy hath wrought all evil</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074004,
+            "text": "    Thine adversaries have roared in the midst of thine assembly;\n    They have set up their ensigns for signs.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074005,
+            "text": "  They <i>[b]</i>seemed as men that lifted up\n    Axes upon a thicket of trees.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>made themselves known</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074006,
+            "text": "    And now all the carved work thereof\n    They break down with hatchet and hammers.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074007,
+            "text": "    They have set thy sanctuary on fire;\n    They have profaned the dwelling-place of thy name  to the ground.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074008,
+            "text": "  They said in their heart, Let us make havoc of them altogether:\n  They have burned up all the <i>[c]</i>synagogues of God in the land.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>places of assembly</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074009,
+            "text": "    We see not our signs:\n    There is no more any prophet;\n    Neither is there among us any that knoweth how long.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074010,
+            "text": "    How long, O God, shall the adversary reproach?\n    Shall the enemy blaspheme thy name for ever?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074011,
+            "text": "    Why drawest thou back thy hand, even thy right hand?\n     out of thy bosom  consume .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074012,
+            "text": "\u00b6     Yet God is my King of old,\n    Working salvation in the midst of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074013,
+            "text": "  Thou didst <i>[d]</i>divide the sea by thy strength:\n    Thou brakest the heads of the sea-monsters in the waters.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-13",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>break up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074014,
+            "text": "    Thou brakest the heads of leviathan in pieces;\n    Thou gavest him to be food to the people inhabiting the wilderness.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074015,
+            "text": "  Thou didst cleave fountain and flood:\n  Thou driedst up <i>[e]</i>mighty rivers.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-15",
+            "footnotes": [
+                {
+                    "e": "Or, <i>ever-flowing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074016,
+            "text": "  The day is thine, the night also is thine:\n  Thou hast prepared the <i>[f]</i>light and the sun.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-16",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>luminary</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074017,
+            "text": "    Thou hast set all the borders of the earth:\n    Thou hast made summer and winter.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074018,
+            "text": "  Remember this, that the enemy <i>[g]</i>hath reproached, O Jehovah,\n    And that a foolish people hath blasphemed thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-18",
+            "footnotes": [
+                {
+                    "g": "Or, <i>hath reproached Jehovah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074019,
+            "text": " Oh deliver not <i>[h]</i>the soul of thy turtle-dove unto the wild beast:\n  Forget not the <i>[i]</i>life of thy poor for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-19",
+            "footnotes": [
+                {
+                    "h": "Or, <i>thy turtle-dove unto the greedy multitude</i>"
+                },
+                {
+                    "i": "Or, <i>multitude</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074020,
+            "text": "  Have respect unto the covenant;\n  For the dark places of the <i>[j]</i>earth are full of the habitations of violence.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-20",
+            "footnotes": [
+                {
+                    "j": "Or, <i>land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074021,
+            "text": "    Oh let not the oppressed return ashamed:\n    Let the poor and needy praise thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074022,
+            "text": "    Arise, O God, plead thine own cause:\n    Remember how the foolish man reproacheth thee all the day.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19074023,
+            "text": "  Forget not the voice of thine adversaries:\n  The tumult of those that rise up against thee <i>[k]</i>ascendeth continually.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-74-23",
+            "footnotes": [
+                {
+                    "k": "Or, <i>which ascendeth</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 74
+}

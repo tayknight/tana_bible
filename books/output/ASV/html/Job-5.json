@@ -1,0 +1,274 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18005001,
+            "text": "\u00b6     Call now; is there any that will answer thee?\n    And to which of the holy ones wilt thou turn?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005002,
+            "text": "  For vexation killeth the foolish man,\n  And <i>[a]</i>jealousy slayeth the silly one.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>indignation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005003,
+            "text": "    I have seen the foolish taking root:\n    But suddenly I cursed his habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005004,
+            "text": "    His children are far from safety,\n    And they are crushed in the gate,\n    Neither is there any to deliver them:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005005,
+            "text": "  Whose harvest the hungry eateth up,\n  And taketh it even out of the thorns;\n  And <i>[b]</i>the snare gapeth for their substance.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-5",
+            "footnotes": [
+                {
+                    "b": "According to Vulgate, <i>the thirsty swallow up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005006,
+            "text": "  For <i>[c]</i>affliction cometh not forth from the dust,\n    Neither doth trouble spring out of the ground;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-6",
+            "footnotes": [
+                {
+                    "c": "Or, <i>iniquity</i>. See [[4:8]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005007,
+            "text": "  But man is born unto trouble,\n  As <i>[d]</i>the sparks fly upward.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-7",
+            "footnotes": [
+                {
+                    "d": "Hebrew <i>the sons of flame</i> (or <i>of lightning</i>)."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005008,
+            "text": "\u00b6     But as for me, I would seek unto God,\n    And unto God would I commit my cause;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005009,
+            "text": "    Who doeth great things and unsearchable,\n    Marvellous things without number:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005010,
+            "text": "    Who giveth rain upon the earth,\n    And sendeth waters upon the fields;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005011,
+            "text": "    So that he setteth up on high those that are low,\n    And those that mourn are exalted to safety.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005012,
+            "text": "  He frustrateth the devices of the crafty,\n  So that their hands <i>[e]</i>cannot perform their enterprise.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>can perform nothing of worth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005013,
+            "text": "    He taketh the wise in their own craftiness;\n    And the counsel of the cunning is carried headlong.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005014,
+            "text": "    They meet with darkness in the day-time,\n    And grope at noonday as in the night.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005015,
+            "text": "  But he saveth from the sword <i>[f]</i>of their mouth,\n    Even the needy from the hand of the mighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-15",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>out of their mouth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005016,
+            "text": "    So the poor hath hope,\n    And iniquity stoppeth her mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005017,
+            "text": "\u00b6   Behold, happy is the man whom God <i>[g]</i>correcteth:\n    Therefore despise not thou the chastening of the Almighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>reproveth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005018,
+            "text": "    For he maketh sore, and bindeth up;\n    He woundeth, and his hands make whole.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005019,
+            "text": "    He will deliver thee in six troubles;\n    Yea, in seven there shall no evil touch thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005020,
+            "text": "    In famine he will redeem thee from death;\n    And in war from the power of the sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005021,
+            "text": "    Thou shalt be hid from the scourge of the tongue;\n    Neither shalt thou be afraid of destruction when it cometh.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005022,
+            "text": "    At destruction and dearth thou shalt laugh;\n    Neither shalt thou be afraid of the beasts of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005023,
+            "text": "    For thou shalt be in league with the stones of the field;\n    And the beasts of the field shall be at peace with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005024,
+            "text": " And thou shalt know that thy tent is in peace;\n And thou shalt visit thy <i>[h]</i>fold, and <i>[i]</i>shalt miss nothing.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-24",
+            "footnotes": [
+                {
+                    "h": "Or, <i>habitation</i>"
+                },
+                {
+                    "i": "Or, <i>shalt not err</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005025,
+            "text": "    Thou shalt know also that thy seed shall be great,\n    And thine offspring as the grass of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005026,
+            "text": "    Thou shalt come to thy grave in a full age,\n    Like as a shock of grain cometh in in its season.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18005027,
+            "text": "  Lo this, we have searched it, so it is;\n  Hear it, and know thou it <i>[j]</i>for thy good.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-5-27",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>for thyself</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 5
+}

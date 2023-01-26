@@ -1,0 +1,87 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19121001,
+            "text": "<b>Jehovah the keeper of his people.</b>\n\u00b6 A Song of Ascents.\u00b6     I will lift up mine eyes unto the mountains:\n    From whence shall my help come?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19121002,
+            "text": "    My help  from Jehovah,\n    Who made heaven and earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19121003,
+            "text": "\u00b6   <i>[a]</i>He will not suffer thy foot to be moved:\n    He that keepeth thee will not slumber.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Let him not suffer\u00a0.\u00a0.\u00a0. Let him not slumber that etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19121004,
+            "text": "    Behold, he that keepeth Israel\n    Will neither slumber nor sleep.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19121005,
+            "text": "    Jehovah is thy keeper:\n    Jehovah is thy shade upon thy right hand.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19121006,
+            "text": "    The sun shall not smite thee by day,\n    Nor the moon by night.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19121007,
+            "text": "    Jehovah will keep thee from all evil;\n    He will keep thy soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19121008,
+            "text": "    Jehovah will keep thy going out and thy coming in\n    From this time forth and for evermore.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-121-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 121
+}

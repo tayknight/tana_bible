@@ -1,0 +1,183 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 23,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 66,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 23,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 23011001,
+            "text": "\u00b6 And there shall come forth a shoot out of the stock of Jesse, and a branch out of his roots shall bear fruit. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011002,
+            "text": "And the Spirit of Jehovah shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011003,
+            "text": "And <i>[a]</i>his <i>[b]</i>delight shall be in the fear of Jehovah; and he shall not judge after the sight of his eyes, neither decide after the hearing of his ears; ",
+            "version": "ASV",
+            "clsstr": "Isa-11-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>he shall be of quick understanding</i>"
+                },
+                {
+                    "b": "Hebrew <i>scent</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011004,
+            "text": "but with righteousness shall he judge the poor, and decide with equity for the meek of the <i>[c]</i>earth; and he shall smite the <i>[d]</i>earth with the rod of his mouth; and with the breath of his lips shall he slay the wicked. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-4",
+            "footnotes": [
+                {
+                    "c": "Or, <i>land</i>"
+                },
+                {
+                    "d": "Or, <i>land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011005,
+            "text": "And righteousness shall be the girdle of his waist, and faithfulness the girdle of his loins.",
+            "version": "ASV",
+            "clsstr": "Isa-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011006,
+            "text": "\u00b6 And the wolf shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011007,
+            "text": "And the cow and the bear shall feed; their young ones shall lie down together; and the lion shall eat straw like the ox. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011008,
+            "text": "And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the adder\u2019s den. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011009,
+            "text": "They shall not hurt nor destroy in all my holy mountain; for the earth shall be full of the knowledge of Jehovah, as the waters cover the sea.",
+            "version": "ASV",
+            "clsstr": "Isa-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011010,
+            "text": "\u00b6 And it shall come to pass in that day, that the root of Jesse, that standeth for an ensign of the peoples, unto him shall the nations seek; and his resting-place shall be <i>[e]</i>glorious.",
+            "version": "ASV",
+            "clsstr": "Isa-11-10",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>glory</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011011,
+            "text": "\u00b6 And it shall come to pass in that day, that the Lord <i>[f]</i>will set his hand again the second time to <i>[g]</i>recover the remnant of his people, that shall remain, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the <i>[h]</i>islands of the sea. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>will again the second time recover with his hand</i>"
+                },
+                {
+                    "g": "Or, <i>purchase</i>. See [[Ex. 15:16]]."
+                },
+                {
+                    "h": "Or, <i>coast-lands</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011012,
+            "text": "And he will set up an ensign for the nations, and will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011013,
+            "text": "The envy also of Ephraim shall depart, and they that vex <i>[i]</i>Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-13",
+            "footnotes": [
+                {
+                    "i": "Or, <i>in Judah</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011014,
+            "text": "And they shall fly down upon the shoulder of the Philistines on the west; together shall they despoil the children of the east: they shall put forth their hand upon Edom and Moab; and the children of Ammon shall obey them. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011015,
+            "text": "And Jehovah will <i>[j]</i>utterly destroy the tongue of the Egyptian sea; and with his scorching wind will he wave his hand over the River, and will smite it into seven streams, and cause men to march over dryshod. ",
+            "version": "ASV",
+            "clsstr": "Isa-11-15",
+            "footnotes": [
+                {
+                    "j": "Hebrew <i>devote</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 23011016,
+            "text": "And there shall be a highway for the remnant of his people, that shall remain, from Assyria; like as there was for Israel in the day that he came up out of the land of Egypt.",
+            "version": "ASV",
+            "clsstr": "Isa-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Isaiah",
+    "chapters": 11
+}

@@ -1,0 +1,265 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 11,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 53,
+            "end_book": null
+        }
+    ],
+    "book": 11,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 11003001,
+            "text": "\u00b6 And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh\u2019s daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of Jehovah, and the wall of Jerusalem round about. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003002,
+            "text": "Only the people sacrificed in the high places, because there was no house built for the name of Jehovah until those days. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003003,
+            "text": "And Solomon loved Jehovah, walking in the statutes of David his father: only he sacrificed and burnt incense in the high places.",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003004,
+            "text": "\u00b6 And the king went to Gibeon to sacrifice there; for that was the great high place: a thousand burnt-offerings did Solomon offer upon that altar. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003005,
+            "text": "In Gibeon Jehovah appeared to Solomon in a dream by night; and God said, Ask what I shall give thee. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003006,
+            "text": "And Solomon said, Thou hast showed unto thy servant David my father great lovingkindness, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great lovingkindness, that thou hast given him a son to sit on his throne, as it is this day. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003007,
+            "text": "And now, O Jehovah my God, thou hast made thy servant king instead of David my father: and I am but a little child; I know not how to go out or come in. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003008,
+            "text": "And thy servant is in the midst of thy people which thou hast chosen, a great people, that cannot be numbered nor counted for multitude. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003009,
+            "text": "Give thy servant therefore an <i>[a]</i>understanding heart to judge thy people, that I may discern between good and evil; for who is able to judge this thy <i>[b]</i>great people?",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-9",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>hearing</i>."
+                },
+                {
+                    "b": "Hebrew <i>heavy</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003010,
+            "text": "\u00b6 And the speech pleased the Lord, that Solomon had asked this thing. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003011,
+            "text": "And God said unto him, Because thou hast asked this thing, and hast not asked for thyself <i>[c]</i>long life, neither hast asked riches for thyself, nor hast asked the life of thine enemies, but hast asked for thyself understanding to <i>[d]</i>discern justice; ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>many days</i>."
+                },
+                {
+                    "d": "Hebrew <i>hear</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003012,
+            "text": "behold, I have done according to thy word: lo, I have given thee a wise and an <i>[e]</i>understanding heart; so that there hath been none like thee before thee, neither after thee shall any arise like unto thee. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-12",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>hearing</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003013,
+            "text": "And I have also given thee that which thou hast not asked, both riches and honor, so that there <i>[f]</i>shall not be any among the kings like unto thee, all thy days. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>hath not been</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003014,
+            "text": "And if thou wilt walk in my ways, to keep my statutes and my commandments, as thy father David did walk, then I will lengthen thy days. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003015,
+            "text": "And Solomon awoke; and, behold, it was a dream: and he came to Jerusalem, and stood before the ark of the covenant of Jehovah, and offered up burnt-offerings, and offered peace-offerings, and made a feast to all his servants.",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003016,
+            "text": "\u00b6 Then there came two women that were harlots, unto the king, and stood before him. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003017,
+            "text": "And the one woman said, Oh, my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003018,
+            "text": "And it came to pass the third day after I was delivered, that this woman was delivered also; and we were together; there was no stranger with us in the house, save we two in the house. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003019,
+            "text": "And this woman\u2019s child died in the night, because she lay upon it. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003020,
+            "text": "And she arose at midnight, and took my son from beside me, while thy handmaid slept, and laid it in her bosom, and laid her dead child in my bosom. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003021,
+            "text": "And when I rose in the morning to give my child suck, behold, it was dead; but when I had looked at it in the morning, behold, it was not my son, whom I did bear. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003022,
+            "text": "And the other woman said, Nay; but the living is my son, and the dead is thy son. And this said, No; but the dead is thy son, and the living is my son. Thus they spake before the king.",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003023,
+            "text": "\u00b6 Then said the king, The one saith, This is my son that liveth, and thy son is the dead: and the other saith, Nay; but thy son is the dead, and my son is the living. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003024,
+            "text": "And the king said, Fetch me a sword. And they brought a sword before the king. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003025,
+            "text": "And the king said, Divide the living child in two, and give half to the one, and half to the other. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003026,
+            "text": "Then spake the woman whose the living child was unto the king, for her heart yearned over her son, and she said, Oh, my lord, give her the living child, and in no wise slay it. But the other said, It shall be neither mine nor thine; divide it. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003027,
+            "text": "Then the king answered and said, Give her the living child, and in no wise slay it: she is the mother thereof. ",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 11003028,
+            "text": "And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do justice.",
+            "version": "ASV",
+            "clsstr": "1Kgs-3-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Kings",
+    "chapters": 3
+}

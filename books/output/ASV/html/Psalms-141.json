@@ -1,0 +1,118 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19141001,
+            "text": "<b>An evening prayer for sanctification and protection.</b>\n\u00b6 A Psalm of David.\u00b6     Jehovah, I have called upon thee; make haste unto me:\n    Give ear unto my voice, when I call unto thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141002,
+            "text": "  Let my prayer be set forth as incense before thee;\n  The lifting up of my hands as the evening <i>[a]</i>sacrifice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>oblation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141003,
+            "text": "    Set a watch, O Jehovah, before my mouth;\n    Keep the door of my lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141004,
+            "text": "    Incline not my heart to any evil thing,\n    To practise deeds of wickedness\n    With men that work iniquity:\n    And let me not eat of their dainties.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141005,
+            "text": " Let the righteous smite me, a kindness;\n And let him reprove me, oil upon the head;\n Let not my head refuse it:\n For <i>[b]</i>even in their <i>[c]</i>wickedness shall my prayer continue.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-5",
+            "footnotes": [
+                {
+                    "b": "Or, <i>still is my prayer against their wickedness</i>"
+                },
+                {
+                    "c": "Or, <i>calamities</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141006,
+            "text": "    Their judges are thrown down by the sides of the rock;\n    And they shall hear my words; for they are sweet.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141007,
+            "text": "    As when one ploweth and cleaveth the earth,\n    Our bones are scattered at the mouth of Sheol.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141008,
+            "text": "  For mine eyes are unto thee, O Jehovah the Lord:\n  In thee do I take refuge; <i>[d]</i>leave not my soul destitute.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-8",
+            "footnotes": [
+                {
+                    "d": "Or, <i>pour thou not out my life</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141009,
+            "text": "    Keep me from the snare which they have laid for me,\n    And from the gins of the workers of iniquity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19141010,
+            "text": "  Let the wicked fall into their own nets,\n  Whilst that I withal <i>[e]</i>escape.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-141-10",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>pass over</i>."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 141
+}

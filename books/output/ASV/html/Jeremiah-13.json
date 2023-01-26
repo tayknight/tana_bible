@@ -1,0 +1,283 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24013001,
+            "text": "\u00b6 Thus saith Jehovah unto me, Go, and buy thee a linen girdle, and put it upon thy loins, and put it not in water. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013002,
+            "text": "So I bought a girdle according to the word of Jehovah, and put it upon my loins. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013003,
+            "text": "And the word of Jehovah came unto me the second time, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-13-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013004,
+            "text": "Take the girdle that thou hast bought, which is upon thy loins, and arise, go to the Euphrates, and hide it there in a cleft of the rock. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013005,
+            "text": "So I went, and hid it by the Euphrates, as Jehovah commanded me. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013006,
+            "text": "And it came to pass after many days, that Jehovah said unto me, Arise, go to the Euphrates, and take the girdle from thence, which I commanded thee to hide there. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013007,
+            "text": "Then I went to the Euphrates, and digged, and took the girdle from the place where I had hid it; and, behold, the girdle was marred, it was profitable for nothing.",
+            "version": "ASV",
+            "clsstr": "Jer-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013008,
+            "text": "\u00b6 Then the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013009,
+            "text": "Thus saith Jehovah, After this manner will I mar the pride of Judah, and the great pride of Jerusalem. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013010,
+            "text": "This evil people, that refuse to hear my words, that walk in the stubbornness of their heart, and are gone after other gods to serve them, and to worship them, shall even be as this girdle, which is profitable for nothing. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013011,
+            "text": "For as the girdle cleaveth to the loins of a man, so have I caused to cleave unto me the whole house of Israel and the whole house of Judah, saith Jehovah; that they may be unto me for a people, and for a name, and for a praise, and for a glory: but they would not hear.",
+            "version": "ASV",
+            "clsstr": "Jer-13-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013012,
+            "text": "\u00b6 Therefore thou shalt speak unto them this word: Thus saith Jehovah, the God of Israel, Every <i>[a]</i>bottle shall be filled with wine: and they shall say unto thee, Do we not certainly know that every <i>[b]</i>bottle shall be filled with wine? ",
+            "version": "ASV",
+            "clsstr": "Jer-13-12",
+            "footnotes": [
+                {
+                    "a": "Or, <i>jar</i>"
+                },
+                {
+                    "b": "Or, <i>jar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013013,
+            "text": "Then shalt thou say unto them, Thus saith Jehovah, Behold, I will fill all the inhabitants of this land, even the kings that sit <i>[c]</i>upon David\u2019s throne, and the priests, and the prophets, and all the inhabitants of Jerusalem, with drunkenness. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-13",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>for David upon his throne</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013014,
+            "text": "And I will dash them one against another, even the fathers and the sons together, saith Jehovah: I will not pity, nor spare, nor have compassion, that I should not destroy them.",
+            "version": "ASV",
+            "clsstr": "Jer-13-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013015,
+            "text": "\u00b6 Hear ye, and give ear; be not proud; for Jehovah hath spoken. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013016,
+            "text": "Give glory to Jehovah your God, before <i>[d]</i>he cause darkness, and before your feet stumble upon the <i>[e]</i>dark mountains, and, while ye look for light, he turn it into <i>[f]</i>the shadow of death, and make it gross darkness. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-16",
+            "footnotes": [
+                {
+                    "d": "Or, <i>it grow dark</i>"
+                },
+                {
+                    "e": "Hebrew <i>mountains of twilight</i>."
+                },
+                {
+                    "f": "Or, <i>deep darkness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013017,
+            "text": "But if ye will not hear it, my soul shall weep in secret for  pride; and mine eye shall weep sore, and run down with tears, because Jehovah\u2019s flock is taken captive.",
+            "version": "ASV",
+            "clsstr": "Jer-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013018,
+            "text": "\u00b6 Say thou unto the king and to the queen-mother, <i>[g]</i>Humble yourselves, sit down; for your headtires are come down, even <i>[h]</i>the crown of your glory. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-18",
+            "footnotes": [
+                {
+                    "g": "Or, <i>Sit ye down low</i>"
+                },
+                {
+                    "h": "Or, <i>your beautiful crown</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013019,
+            "text": "The cities of the South are shut up, and there is none to open them: Judah is carried away captive, all of it; it is wholly carried away captive.",
+            "version": "ASV",
+            "clsstr": "Jer-13-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013020,
+            "text": "\u00b6 Lift up your eyes, and behold them that come from the north: where is the flock that was given thee, thy beautiful flock? ",
+            "version": "ASV",
+            "clsstr": "Jer-13-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013021,
+            "text": " <i>[i]</i>What wilt thou say, when he shall set over thee as head those whom thou hast thyself taught to be friends to thee? shall not sorrows take hold of thee, as of a woman in travail? ",
+            "version": "ASV",
+            "clsstr": "Jer-13-21",
+            "footnotes": [
+                {
+                    "i": "Or, <i>What wilt thou say, when he shall visit thee, seeing thou thyself hast instructed them against thee, even</i> they <i>friends to be head</i> over thee?"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013022,
+            "text": "And if thou say in thy heart, Wherefore are these things come upon me? for the <i>[j]</i>greatness of thine iniquity are thy skirts uncovered, and thy heels suffer violence. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-22",
+            "footnotes": [
+                {
+                    "j": "Or, <i>multitude</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013023,
+            "text": "Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are <i>[k]</i>accustomed to do evil. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-23",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>taught</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013024,
+            "text": "Therefore will I scatter them, as the stubble that passeth away, <i>[l]</i>by the wind of the wilderness. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-24",
+            "footnotes": [
+                {
+                    "l": "Or, <i>unto</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013025,
+            "text": "This is thy lot, the portion measured unto thee from me, saith Jehovah; because thou hast forgotten me, and trusted in falsehood. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013026,
+            "text": "Therefore will I also uncover thy skirts <i>[m]</i>upon thy face, and thy shame shall appear. ",
+            "version": "ASV",
+            "clsstr": "Jer-13-26",
+            "footnotes": [
+                {
+                    "m": "Or, <i>before</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24013027,
+            "text": "I have seen thine abominations, even thine adulteries, and thy neighings, the lewdness of thy whoredom, on the hills in the field. Woe unto thee, O Jerusalem! thou wilt not be made clean; how long shall it yet be?",
+            "version": "ASV",
+            "clsstr": "Jer-13-27",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 13
+}

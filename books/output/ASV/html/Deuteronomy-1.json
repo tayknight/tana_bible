@@ -1,0 +1,399 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 5,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 34,
+            "end_verse": 12,
+            "end_book": null
+        }
+    ],
+    "book": 5,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 5001001,
+            "text": "\u00b6 These are the words which Moses spake unto all Israel beyond the Jordan in the wilderness, in the <i>[a]</i>Arabah over against Suph, between Paran, and Tophel, and Laban, and Hazeroth, and Di-zahab. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-1",
+            "footnotes": [
+                {
+                    "a": "That is, the deep valley running north and south of the Dead Sea."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001002,
+            "text": "It is eleven days\u2019  from Horeb by the way of mount Seir unto Kadesh-barnea. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001003,
+            "text": "And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that Jehovah had given him in commandment unto them; ",
+            "version": "ASV",
+            "clsstr": "Deut-1-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001004,
+            "text": "after he had smitten Sihon the king of the Amorites, who dwelt in Heshbon, and Og the king of Bashan, who dwelt in Ashtaroth, at Edrei. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001005,
+            "text": "Beyond the Jordan, in the land of Moab, began Moses to declare this law, saying, ",
+            "version": "ASV",
+            "clsstr": "Deut-1-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001006,
+            "text": "Jehovah our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mountain: ",
+            "version": "ASV",
+            "clsstr": "Deut-1-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001007,
+            "text": "turn you, and take your journey, and go to the hill-country of the Amorites, and unto all  nigh thereunto, in the Arabah, in the hill-country, and in the lowland, and in the South, and by the sea-shore, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001008,
+            "text": "Behold, I have set the land before you: go in and possess the land which Jehovah sware unto your fathers, to Abraham, to Isaac, and to Jacob, to give unto them and to their seed after them.",
+            "version": "ASV",
+            "clsstr": "Deut-1-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001009,
+            "text": "\u00b6 And I spake unto you at that time, saying, I am not able to bear you myself alone: ",
+            "version": "ASV",
+            "clsstr": "Deut-1-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001010,
+            "text": "Jehovah your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001011,
+            "text": "Jehovah, the God of your fathers, make you a thousand times as many as ye are, and bless you, as he hath promised you! ",
+            "version": "ASV",
+            "clsstr": "Deut-1-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001012,
+            "text": "How can I myself alone bear your cumbrance, and your burden, and your strife? ",
+            "version": "ASV",
+            "clsstr": "Deut-1-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001013,
+            "text": "Take you wise men, and understanding, and known, according to your tribes, and I will make them heads over you. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001014,
+            "text": "And ye answered me, and said, The thing which thou hast spoken is good  to do. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001015,
+            "text": "So I took the heads of your tribes, wise men, and known, and made them heads over you, captains of thousands, and captains of hundreds, and captains of fifties, and captains of tens, and officers, according to your tribes. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001016,
+            "text": "And I charged your judges at that time, saying, Hear  between your brethren, and judge righteously between a man and his brother, and the sojourner that is with him. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001017,
+            "text": "Ye shall not respect persons in judgment; ye shall hear the small and the great alike; ye shall not be afraid of the face of man; for the judgment is God\u2019s: and the cause that is too hard for you ye shall bring unto me, and I will hear it. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001018,
+            "text": "And I commanded you at that time all the things which ye should do.",
+            "version": "ASV",
+            "clsstr": "Deut-1-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001019,
+            "text": "\u00b6 And we journeyed from Horeb, and went through all that great and terrible wilderness which ye saw, by the way to the hill-country of the Amorites, as Jehovah our God commanded us; and we came to Kadesh-barnea. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001020,
+            "text": "And I said unto you, Ye are come unto the hill-country of the Amorites, which Jehovah our God giveth unto us. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001021,
+            "text": "Behold, Jehovah thy God hath set the land before thee: go up, take possession, as Jehovah, the God of thy fathers, hath spoken unto thee; fear not, neither be dismayed. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001022,
+            "text": "And ye came near unto me every one of you, and said, Let us send men before us, that they may search the land for us, and bring us word again of the way by which we must go up, and the cities unto which we shall come. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001023,
+            "text": "And the thing pleased me well; and I took twelve men of you, one man for every tribe: ",
+            "version": "ASV",
+            "clsstr": "Deut-1-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001024,
+            "text": "and they turned and went up into the hill-country, and came unto the valley of Eshcol, and spied it out. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001025,
+            "text": "And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which Jehovah our God giveth unto us.",
+            "version": "ASV",
+            "clsstr": "Deut-1-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001026,
+            "text": "\u00b6 Yet ye would not go up, but rebelled against the commandment of Jehovah your God: ",
+            "version": "ASV",
+            "clsstr": "Deut-1-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001027,
+            "text": "and ye murmured in your tents, and said, Because Jehovah hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001028,
+            "text": "Whither are we going up? our brethren have made our heart to melt, saying, The people are greater and taller than we; the cities are great and fortified up to heaven; and moreover we have seen the sons of the Anakim there. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001029,
+            "text": "Then I said unto you, Dread not, neither be afraid of them. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001030,
+            "text": "Jehovah your God who goeth before you, he will fight for you, according to all that he did for you in Egypt before your eyes, ",
+            "version": "ASV",
+            "clsstr": "Deut-1-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001031,
+            "text": "and in the wilderness, where thou hast seen how that Jehovah thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came unto this place. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001032,
+            "text": "Yet <i>[b]</i>in this thing ye did not believe Jehovah your God, ",
+            "version": "ASV",
+            "clsstr": "Deut-1-32",
+            "footnotes": [
+                {
+                    "b": "Or, <i>for</i> all <i>this thing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001033,
+            "text": "who went before you in the way, to seek you out a place to pitch your tents in, in fire by night, to show you by what way ye should go, and in the cloud by day.",
+            "version": "ASV",
+            "clsstr": "Deut-1-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001034,
+            "text": "\u00b6 And Jehovah heard the voice of your words, and was wroth, and sware, saying, ",
+            "version": "ASV",
+            "clsstr": "Deut-1-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001035,
+            "text": "Surely there shall not one of these men of this evil generation see the good land, which I sware to give unto your fathers, ",
+            "version": "ASV",
+            "clsstr": "Deut-1-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001036,
+            "text": "save Caleb the son of Jephunneh; he shall see it; and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001037,
+            "text": "Also Jehovah was angry with me for your sakes, saying, Thou also shalt not go in thither: ",
+            "version": "ASV",
+            "clsstr": "Deut-1-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001038,
+            "text": "Joshua the son of Nun, who standeth before thee, he shall go in thither: encourage thou him; for he shall cause Israel to inherit it. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001039,
+            "text": "Moreover your little ones, that ye said should be a prey, and your children, that this day have no knowledge of good or evil, they shall go in thither, and unto them will I give it, and they shall possess it. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001040,
+            "text": "But as for you, turn you, and take your journey into the wilderness by the way to the Red Sea.",
+            "version": "ASV",
+            "clsstr": "Deut-1-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001041,
+            "text": "\u00b6 Then ye answered and said unto me, We have sinned against Jehovah, we will go up and fight, according to all that Jehovah our God commanded us. And ye girded on every man his weapons of war, and <i>[c]</i>were forward to go up into the hill-country. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-41",
+            "footnotes": [
+                {
+                    "c": "Or, <i>deemed it a light thing</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001042,
+            "text": "And Jehovah said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001043,
+            "text": "So I spake unto you, and ye hearkened not; but ye rebelled against the commandment of Jehovah, and were presumptuous, and went up into the hill-country. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001044,
+            "text": "And the Amorites, that dwelt in that hill-country, came out against you, and chased you, as bees do, and beat you down in Seir, even unto Hormah. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001045,
+            "text": "And ye returned and wept before Jehovah; but Jehovah hearkened not to your voice, nor gave ear unto you. ",
+            "version": "ASV",
+            "clsstr": "Deut-1-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 5001046,
+            "text": "So ye abode in Kadesh many days, according unto the days that ye abode .",
+            "version": "ASV",
+            "clsstr": "Deut-1-46",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Deuteronomy",
+    "chapters": 1
+}

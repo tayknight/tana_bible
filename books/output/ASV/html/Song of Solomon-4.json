@@ -1,0 +1,202 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 22,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 8,
+            "end_verse": 14,
+            "end_book": null
+        }
+    ],
+    "book": 22,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 22004001,
+            "text": "\u00b6 Behold, thou art fair, my love; behold, thou art fair;\n <i>[a]</i>Thine eyes are doves behind thy <i>[b]</i>veil.\n  Thy hair is as a flock of goats,\n  That <i>[c]</i>lie along the side of mount Gilead.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Thou hast doves\u2019 eyes</i>"
+                },
+                {
+                    "b": "Or, <i>locks</i>"
+                },
+                {
+                    "c": "Or, <i>appear on mount Gilead</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004002,
+            "text": "  Thy teeth are like a flock that are shorn,\n  Which are come up from the washing,\n   <i>[d]</i>Whereof every one hath twins,\n    And none is bereaved among them.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-2",
+            "footnotes": [
+                {
+                    "d": "Or, <i>Which are all of them in pairs</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004003,
+            "text": " Thy lips are like a thread of scarlet,\n And thy <i>[e]</i>mouth is comely.\n  Thy temples are like a piece of a pomegranate\n  Behind thy <i>[f]</i>veil.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-3",
+            "footnotes": [
+                {
+                    "e": "Or, <i>speech</i>"
+                },
+                {
+                    "f": "Or, <i>locks</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004004,
+            "text": "  Thy neck is like the tower of David\n  Builded <i>[g]</i>for an armory,\n    Whereon there hang a thousand bucklers,\n    All the shields of the mighty men.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-4",
+            "footnotes": [
+                {
+                    "g": "Or, <i>with turrets</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004005,
+            "text": "  Thy two breasts are like two fawns\n  That are twins of a <i>[h]</i>roe,\n    Which feed among the lilies.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-5",
+            "footnotes": [
+                {
+                    "h": "Or, <i>gazelle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004006,
+            "text": "\u00b6     Until the day be cool, and the shadows flee away,\n    I will get me to the mountain of myrrh,\n    And to the hill of frankincense.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004007,
+            "text": "\u00b6     Thou art all fair, my love;\n    And there is no spot in thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004008,
+            "text": "  Come with me from Lebanon, bride,\n  With me from Lebanon:\n   <i>[i]</i>Look from the top of Amana,\n    From the top of Senir and Hermon,\n    From the lions\u2019 dens,\n    From the mountains of the leopards.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-8",
+            "footnotes": [
+                {
+                    "i": "Or, <i>Go</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004009,
+            "text": " Thou hast <i>[j]</i>ravished my heart, my sister, bride;\n Thou hast <i>[k]</i>ravished my heart with <i>[l]</i>one of thine eyes,\n    With one chain of thy neck.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-9",
+            "footnotes": [
+                {
+                    "j": "Or, <i>given me courage</i>"
+                },
+                {
+                    "k": "Or, <i>given me courage</i>"
+                },
+                {
+                    "l": "Or, <i>one</i> look <i>from thine eyes</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004010,
+            "text": "    How fair is thy love, my sister,  bride!\n    How much better is thy love than wine!\n    And the fragrance of thine oils than all manner of spices!\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004011,
+            "text": "  Thy lips, O bride, <i>[m]</i>drop  the honeycomb:\n    Honey and milk are under thy tongue;\n    And the smell of thy garments is like the smell of Lebanon.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-11",
+            "footnotes": [
+                {
+                    "m": "Or, <i>drop honey</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004012,
+            "text": "  A garden <i>[n]</i>shut up is my sister,  bride;\n    A spring shut up, a fountain sealed.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-12",
+            "footnotes": [
+                {
+                    "n": "Hebrew <i>barred</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004013,
+            "text": "  Thy shoots are <i>[o]</i>an orchard of pomegranates, with precious fruits;\n    Henna with spikenard plants,\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-13",
+            "footnotes": [
+                {
+                    "o": "Or, <i>a paradise</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004014,
+            "text": "    Spikenard and saffron,\n    Calamus and cinnamon, with all trees of frankincense;\n    Myrrh and aloes, with all the chief spices.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004015,
+            "text": "     a fountain of gardens,\n    A well of living waters,\n    And flowing streams from Lebanon.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 22004016,
+            "text": "\u00b6     Awake, O north wind; and come, thou south;\n    Blow upon my garden, that the spices thereof may flow out.\n    Let my beloved come into his garden,\n    And eat his precious fruits.\n    ",
+            "version": "ASV",
+            "clsstr": "Song-4-16",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Song of Solomon",
+    "chapters": 4
+}

@@ -1,0 +1,167 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26025001,
+            "text": "\u00b6 And the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025002,
+            "text": "Son of man, set thy face toward the children of Ammon, and prophesy <i>[a]</i>against them: ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>concerning</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025003,
+            "text": "and say unto the children of Ammon, Hear the word of the Lord Jehovah: Thus saith the Lord Jehovah, Because thou saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was made desolate; and against the house of Judah, when they went into captivity: ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025004,
+            "text": "therefore, behold, I will deliver thee to the children of the east for a possession, and they shall set their encampments in thee, and make their dwellings in thee; they shall eat thy fruit, and they shall drink thy milk. ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025005,
+            "text": "And I will make Rabbah a stable for camels, and the children of Ammon a couching-place for flocks: and ye shall know that I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025006,
+            "text": "For thus saith the Lord Jehovah: Because thou hast clapped thy hands, and stamped with the feet, and rejoiced with all the despite of thy soul against the land of Israel; ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025007,
+            "text": "therefore, behold, I have stretched out my hand upon thee, and will deliver thee for a spoil to the nations; and I will cut thee off from the peoples, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-25-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025008,
+            "text": "\u00b6 Thus saith the Lord Jehovah: Because that Moab and Seir do say, Behold, the house of Judah is like unto all the nations; ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025009,
+            "text": "therefore, behold, I will open the side of Moab from the cities, from his cities which are <i>[b]</i>on his frontiers, the glory of the country, Beth-jeshimoth, Baal-meon, and Kiriathaim, ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in every quarter</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025010,
+            "text": " <i>[c]</i>unto the children of the east,  against the children of Ammon; and I will give them for a possession, that the children of Ammon may not be remembered among the nations: ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>together with the children of Ammon, unto the children of the east</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025011,
+            "text": "and I will execute judgments upon Moab; and they shall know that I am Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-25-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025012,
+            "text": "\u00b6 Thus saith the Lord Jehovah: Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them; ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025013,
+            "text": "therefore thus saith the Lord Jehovah, I will stretch out my hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; even unto Dedan shall they fall by the sword. ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025014,
+            "text": "And I will lay my vengeance upon Edom by the hand of my people Israel; and they shall do in Edom according to mine anger and according to my wrath; and they shall know my vengeance, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-25-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025015,
+            "text": "\u00b6 Thus saith the Lord Jehovah: Because the Philistines have dealt by revenge, and have taken vengeance with despite of soul to destroy with perpetual enmity; ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025016,
+            "text": "therefore thus saith the Lord Jehovah, Behold, I will stretch out my hand upon the Philistines, and I will cut off the Cherethites, and destroy the remnant of the sea coast. ",
+            "version": "ASV",
+            "clsstr": "Ezek-25-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26025017,
+            "text": "And I will execute great vengeance upon them with wrathful rebukes; and they shall know that I am Jehovah, when I shall lay my vengeance upon them.",
+            "version": "ASV",
+            "clsstr": "Ezek-25-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 25
+}

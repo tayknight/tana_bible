@@ -1,0 +1,176 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19017001,
+            "text": "<b>Prayer for protection against oppressors.</b>\n\u00b6 A Prayer of David.\u00b6     Hear the right, O Jehovah, attend unto my cry;\n    Give ear unto my prayer, that goeth not out of feigned lips.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017002,
+            "text": "  Let my sentence come forth from thy presence;\n   <i>[a]</i>Let thine eyes look upon equity.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Thine eyes behold with equity</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017003,
+            "text": "  Thou hast proved my heart; thou hast visited me in the night;\n  Thou hast tried me, and <i>[b]</i>findest nothing;\n    I am purposed that my mouth shall not transgress.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>findest no evil purpose in me; My mouth etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017004,
+            "text": "    As for the works of men, by the word of thy lips\n    I have kept me from the ways of the violent.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017005,
+            "text": "    My steps have held fast to thy paths,\n    My feet have not slipped.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017006,
+            "text": "    I have called upon thee, for thou wilt answer me, O God:\n    Incline thine ear unto me,  hear my speech.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017007,
+            "text": "  Show thy marvellous lovingkindness,\n  O thou that savest <i>[c]</i>by thy right hand them that take refuge \n    From those that rise up .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>them that take refuge\u00a0.\u00a0.\u00a0. rise up against thy right hand</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017008,
+            "text": "    Keep me as the apple of the eye;\n    Hide me under the shadow of thy wings,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017009,
+            "text": "    From the wicked that oppress me,\n    My deadly enemies, that compass me about.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017010,
+            "text": "   <i>[d]</i>They are inclosed in their own fat:\n    With their mouth they speak proudly.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>They have shut up their heart</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017011,
+            "text": "    They have now compassed us in our steps;\n    They set their eyes to cast  down to the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017012,
+            "text": "    He is like a lion that is greedy of his prey,\n    And as it were a young lion lurking in secret places.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017013,
+            "text": " Arise, O Jehovah,\n  <i>[e]</i>Confront him, cast him down:\n  Deliver my soul from <i>[f]</i>the wicked by thy sword;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-13",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Forestall</i>"
+                },
+                {
+                    "f": "Or, <i>the wicked, who is thy sword</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017014,
+            "text": " From <i>[g]</i>men by thy hand, O Jehovah,\n  From men <i>[h]</i>of the world, whose portion is in  life,\n    And whose belly thou fillest with thy treasure:\n    They are satisfied with children,\n    And leave the rest of their substance to their babes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-14",
+            "footnotes": [
+                {
+                    "g": "Or, <i>men who are thy hand</i>"
+                },
+                {
+                    "h": "Or, <i>whose portion in life is of the world</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19017015,
+            "text": " As for me, <i>[i]</i>I shall behold thy face in righteousness;\n   <i>[j]</i>I shall be satisfied, when I awake, with  thy form.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-17-15",
+            "footnotes": [
+                {
+                    "i": "Or, <i>let me</i>"
+                },
+                {
+                    "j": "Or, <i>let me</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 17
+}

@@ -1,0 +1,318 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 24,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 52,
+            "end_verse": 34,
+            "end_book": null
+        }
+    ],
+    "book": 24,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 24007001,
+            "text": "\u00b6 The word that came to Jeremiah from Jehovah, saying, ",
+            "version": "ASV",
+            "clsstr": "Jer-7-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007002,
+            "text": "Stand in the gate of Jehovah\u2019s house, and proclaim there this word, and say, Hear the word of Jehovah, all ye of Judah, that enter in at these gates to worship Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007003,
+            "text": "Thus saith Jehovah of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007004,
+            "text": "Trust ye not in lying words, saying, The temple of Jehovah, the temple of Jehovah, the temple of Jehovah, are these. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007005,
+            "text": "For if ye thoroughly amend your ways and your doings; if ye thoroughly execute justice between a man and his neighbor; ",
+            "version": "ASV",
+            "clsstr": "Jer-7-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007006,
+            "text": "if ye oppress not the sojourner, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your own hurt: ",
+            "version": "ASV",
+            "clsstr": "Jer-7-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007007,
+            "text": "then will I cause you to dwell in this place, in the land that I gave to your fathers, from of old even for evermore.",
+            "version": "ASV",
+            "clsstr": "Jer-7-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007008,
+            "text": "\u00b6 Behold, ye trust in lying words, that cannot profit. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007009,
+            "text": "Will ye steal, murder, and commit adultery, and swear falsely, and burn incense unto Baal, and walk after other gods that ye have not known, ",
+            "version": "ASV",
+            "clsstr": "Jer-7-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007010,
+            "text": "and come and stand before me in this house, <i>[a]</i>which is called by my name, and say, We are delivered; that ye may do all these abominations? ",
+            "version": "ASV",
+            "clsstr": "Jer-7-10",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>whereupon my name is called</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007011,
+            "text": "Is this house, which is called by my name, become a den of robbers in your eyes? Behold, I, even I, have seen it, saith Jehovah.",
+            "version": "ASV",
+            "clsstr": "Jer-7-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007012,
+            "text": "\u00b6 But go ye now unto my place which was in Shiloh, where I caused my name to dwell at the first, and see what I did to it for the wickedness of my people Israel. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007013,
+            "text": "And now, because ye have done all these works, saith Jehovah, and I spake unto you, rising up early and speaking, but ye heard not; and I called you, but ye answered not: ",
+            "version": "ASV",
+            "clsstr": "Jer-7-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007014,
+            "text": "therefore will I do unto the house which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I did to Shiloh. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007015,
+            "text": "And I will cast you out of my sight, as I have cast out all your brethren, even the whole seed of Ephraim.",
+            "version": "ASV",
+            "clsstr": "Jer-7-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007016,
+            "text": "\u00b6 Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me; for I will not hear thee. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007017,
+            "text": "Seest thou not what they do in the cities of Judah and in the streets of Jerusalem? ",
+            "version": "ASV",
+            "clsstr": "Jer-7-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007018,
+            "text": "The children gather wood, and the fathers kindle the fire, and the women knead the dough, to make cakes to the queen of heaven, and to pour out drink-offerings unto other gods, that they may provoke me to anger. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007019,
+            "text": "Do they provoke me to anger? saith Jehovah;  not  themselves, to the confusion of their own faces? ",
+            "version": "ASV",
+            "clsstr": "Jer-7-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007020,
+            "text": "Therefore thus saith the Lord Jehovah: Behold, mine anger and my wrath shall be poured out upon this place, upon man, and upon beast, and upon the trees of the field, and upon the fruit of the ground; and it shall burn, and shall not be quenched.",
+            "version": "ASV",
+            "clsstr": "Jer-7-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007021,
+            "text": "\u00b6 Thus saith Jehovah of hosts, the God of Israel: Add your burnt-offerings unto your sacrifices, and eat ye flesh. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007022,
+            "text": "For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt-offerings or sacrifices: ",
+            "version": "ASV",
+            "clsstr": "Jer-7-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007023,
+            "text": "but this thing I commanded them, saying, Hearken unto my voice, and I will be your God, and ye shall be my people; and walk ye in all the way that I command you, that it may be well with you. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007024,
+            "text": "But they hearkened not, nor inclined their ear, but walked in counsels in the stubbornness of their evil heart, and <i>[b]</i>went backward, and not forward. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-24",
+            "footnotes": [
+                {
+                    "b": "Or, <i>turned their back, and not their face</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007025,
+            "text": "Since the day that your fathers came forth out of the land of Egypt unto this day, I have sent unto you all my servants the prophets, daily rising up early and sending them: ",
+            "version": "ASV",
+            "clsstr": "Jer-7-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007026,
+            "text": "yet they hearkened not unto me, nor inclined their ear, but made their neck stiff: they did worse than their fathers.",
+            "version": "ASV",
+            "clsstr": "Jer-7-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007027,
+            "text": "\u00b6 And thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007028,
+            "text": "And thou shalt say unto them, This is the nation that hath not hearkened to the voice of Jehovah their God, nor received <i>[c]</i>instruction: <i>[d]</i>truth is perished, and is cut off from their mouth.",
+            "version": "ASV",
+            "clsstr": "Jer-7-28",
+            "footnotes": [
+                {
+                    "c": "Or, <i>correction</i>"
+                },
+                {
+                    "d": "Or, <i>faithfulness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007029,
+            "text": "\u00b6 Cut off <i>[e]</i>thy hair, , and cast it away, and take up a lamentation on the bare heights; for Jehovah hath rejected and forsaken the generation of his wrath. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-29",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>thy crown</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007030,
+            "text": "For the children of Judah have done that which is evil in my sight, saith Jehovah: they have set their abominations in the house which is called by my name, to defile it. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007031,
+            "text": "And they have built the high places of Topheth, which is in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded not, neither came it into my <i>[f]</i>mind. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-31",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007032,
+            "text": "Therefore, behold, the days come, saith Jehovah, that it shall no more be called Topheth, nor The valley of the son of Hinnom, but The valley of Slaughter: for they shall bury in Topheth, <i>[g]</i>till there be no place . ",
+            "version": "ASV",
+            "clsstr": "Jer-7-32",
+            "footnotes": [
+                {
+                    "g": "Or, <i>because there shall be no place else</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007033,
+            "text": "And the dead bodies of this people shall be food for the birds of the heavens, and for the beasts of the earth; and none shall frighten them away. ",
+            "version": "ASV",
+            "clsstr": "Jer-7-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 24007034,
+            "text": "Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land shall become a waste.",
+            "version": "ASV",
+            "clsstr": "Jer-7-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Jeremiah",
+    "chapters": 7
+}

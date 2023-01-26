@@ -1,0 +1,116 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19110001,
+            "text": "<b>Jehovah gives dominion to the king.</b>\n\u00b6 A Psalm of David.\u00b6     Jehovah saith unto my Lord, Sit thou at my right hand,\n    Until I make thine enemies thy footstool.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-110-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19110002,
+            "text": " Jehovah will <i>[a]</i>send forth the <i>[b]</i>rod of thy strength out of Zion:\n    Rule thou in the midst of thine enemies.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-110-2",
+            "footnotes": [
+                {
+                    "a": "Or, <i>stretch</i>"
+                },
+                {
+                    "b": "Or, <i>sceptre</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19110003,
+            "text": " Thy people <i>[c]</i>offer themselves willingly\n In the day of thy <i>[d]</i>power, <i>[e]</i>in holy array:\n  Out of the womb of the morning\n   <i>[f]</i>Thou hast the dew of thy youth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-110-3",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>are freewill-offerings</i>."
+                },
+                {
+                    "d": "Or, <i>army</i>"
+                },
+                {
+                    "e": "Or, <i>in the beauty of holiness</i>"
+                },
+                {
+                    "f": "Or, <i>Thy youth are to thee</i> as <i>the dew</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19110004,
+            "text": "  Jehovah hath sworn, and will not repent:\n  Thou art a priest for ever\n  After the <i>[g]</i>order of Melchizedek.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-110-4",
+            "footnotes": [
+                {
+                    "g": "Or, <i>manner</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19110005,
+            "text": "  The Lord at thy right hand\n   <i>[h]</i>Will strike through kings in the day of his wrath.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-110-5",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Hath stricken</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19110006,
+            "text": " He will judge among the nations,\n <i>[i]</i>He <i>[j]</i>will fill with dead bodies;\n He <i>[k]</i>will strike through the head <i>[l]</i>in many countries.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-110-6",
+            "footnotes": [
+                {
+                    "i": "Or, The places <i>are full of etc.</i>"
+                },
+                {
+                    "j": "Or, <i>hath filled</i>"
+                },
+                {
+                    "k": "Or, <i>Hath stricken</i>"
+                },
+                {
+                    "l": "Or, <i>over a wide land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19110007,
+            "text": "    He will drink of the brook in the way:\n    Therefore will he lift up the head.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-110-7",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 110
+}

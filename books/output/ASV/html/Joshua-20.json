@@ -1,0 +1,114 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 6,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 24,
+            "end_verse": 33,
+            "end_book": null
+        }
+    ],
+    "book": 6,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 6020001,
+            "text": "\u00b6 And Jehovah spake unto Joshua, saying, ",
+            "version": "ASV",
+            "clsstr": "Josh-20-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020002,
+            "text": "Speak to the children of Israel, saying, Assign you the cities of refuge, whereof I spake unto you by Moses, ",
+            "version": "ASV",
+            "clsstr": "Josh-20-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020003,
+            "text": "that the manslayer that killeth any person <i>[a]</i>unwittingly  unawares may flee thither: and they shall be unto you for a refuge from the avenger of blood. ",
+            "version": "ASV",
+            "clsstr": "Josh-20-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>through error</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020004,
+            "text": "And he shall flee unto one of those cities, and shall stand at the entrance of the gate of the city, and declare his cause in the ears of the elders of that city; and they shall <i>[b]</i>take him into the city unto them, and give him a place, that he may dwell among them. ",
+            "version": "ASV",
+            "clsstr": "Josh-20-4",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>gather</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020005,
+            "text": "And if the avenger of blood pursue after him, then they shall not deliver up the manslayer into his hand; because he smote his neighbor unawares, and hated him not beforetime. ",
+            "version": "ASV",
+            "clsstr": "Josh-20-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020006,
+            "text": "And he shall dwell in that city, until he stand before the congregation for judgment, until the death of the high priest that shall be in those days: then shall the manslayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.",
+            "version": "ASV",
+            "clsstr": "Josh-20-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020007,
+            "text": "\u00b6 And they <i>[c]</i>set apart Kedesh in <i>[d]</i>Galilee in the hill-country of Naphtali, and Shechem in the hill-country of Ephraim, and Kiriath-arba (the same is Hebron) in the hill-country of Judah. ",
+            "version": "ASV",
+            "clsstr": "Josh-20-7",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>sanctified</i>."
+                },
+                {
+                    "d": "Hebrew <i>Galil</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020008,
+            "text": "And beyond the Jordan at Jericho eastward, they assigned Bezer in the wilderness in the <i>[e]</i>plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh. ",
+            "version": "ASV",
+            "clsstr": "Josh-20-8",
+            "footnotes": [
+                {
+                    "e": "Or, <i>table-land</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 6020009,
+            "text": "These were the appointed cities for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person <i>[f]</i>unwittingly might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.",
+            "version": "ASV",
+            "clsstr": "Josh-20-9",
+            "footnotes": [
+                {
+                    "f": "Or, <i>through error</i>"
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Joshua",
+    "chapters": 20
+}

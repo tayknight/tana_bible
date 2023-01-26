@@ -1,0 +1,336 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46011001,
+            "text": "Be ye imitators of me, even as I also am of Christ.",
+            "version": "ASV",
+            "clsstr": "1Cor-11-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011002,
+            "text": "\u00b6 Now I praise you that ye remember me in all things, and hold fast the traditions, even as I delivered them to you. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011003,
+            "text": "But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011004,
+            "text": "Every man praying or prophesying, having his head covered, dishonoreth his head. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011005,
+            "text": "But every woman praying or prophesying with her head unveiled dishonoreth her head; for it is one and the same thing as if she were shaven. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011006,
+            "text": "For if a woman is not veiled, let her also be shorn: but if it is a shame to a woman to be shorn or shaven, let her be veiled. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011007,
+            "text": "For a man indeed ought not to have his head veiled, forasmuch as he is the image and glory of God: but the woman is the glory of the man. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011008,
+            "text": "For the man is not of the woman; but the woman of the man: ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011009,
+            "text": "for neither was the man created for the woman; but the woman for the man: ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011010,
+            "text": "for this cause ought the woman to have  authority on her head, because of the angels. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011011,
+            "text": "Nevertheless, neither is the woman without the man, nor the man without the woman, in the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011012,
+            "text": "For as the woman is of the man, so is the man also by the woman; but all things are of God. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011013,
+            "text": "Judge ye <i>[a]</i>in yourselves: is it seemly that a woman pray unto God unveiled? ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-13",
+            "footnotes": [
+                {
+                    "a": "Or, <i>among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011014,
+            "text": "Doth not even nature itself teach you, that, if a man have long hair, it is a dishonor to him? ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011015,
+            "text": "But if a woman have long hair, it is a glory to her: for her hair is given her for a covering. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011016,
+            "text": "But if any man seemeth to be contentious, we have no such custom, neither the churches of God.",
+            "version": "ASV",
+            "clsstr": "1Cor-11-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011017,
+            "text": "\u00b6 But in giving you this charge, I praise you not, that ye come together not for the better but for the worse. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011018,
+            "text": "For first of all, when ye come together <i>[b]</i>in the church, I hear that <i>[c]</i>divisions exist among you; and I partly believe it. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-18",
+            "footnotes": [
+                {
+                    "b": "Or, <i>in congregation</i>"
+                },
+                {
+                    "c": "Greek <i>schisms</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011019,
+            "text": "For there must be also <i>[d]</i>factions among you, that they that are approved may be made manifest among you. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-19",
+            "footnotes": [
+                {
+                    "d": "Greek <i>heresies</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011020,
+            "text": "When therefore ye assemble yourselves together, it is not possible to eat the Lord\u2019s supper: ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011021,
+            "text": "for in your eating each one taketh before  his own supper; and one is hungry, and another is drunken. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011022,
+            "text": "What, have ye not houses to eat and to drink in? or despise ye the <i>[e]</i>church of God, and put them to shame that <i>[f]</i>have not? What shall I say to you? <i>[g]</i>shall I praise you? In this I praise you not. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-22",
+            "footnotes": [
+                {
+                    "e": "Or, <i>congregation</i>"
+                },
+                {
+                    "f": "Or, <i>having nothing</i>"
+                },
+                {
+                    "g": "Or, <i>shall I praise you in this? I praise you not</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011023,
+            "text": "For I received of the Lord that which also I delivered unto you, that the Lord Jesus in the night in which he was <i>[h]</i>betrayed took bread; ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-23",
+            "footnotes": [
+                {
+                    "h": "Or, <i>delivered up</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011024,
+            "text": "and when he had given thanks, he brake it, and said, This is my body, which <i>[i]</i>is for you: this do in remembrance of me. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-24",
+            "footnotes": [
+                {
+                    "i": "Many ancient authorities read <i>is broken for you</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011025,
+            "text": "In like manner also the cup, after supper, saying, This cup is the new covenant in my blood: this do, as often as ye drink , in remembrance of me. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011026,
+            "text": "For as often as ye eat this bread, and drink the cup, ye proclaim the Lord\u2019s death till he come. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011027,
+            "text": "Wherefore whosoever shall eat the bread or drink the cup of the Lord in an unworthy manner, shall be guilty of the body and the blood of the Lord. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011028,
+            "text": "But let a man prove himself, and so let him eat of the bread, and drink of the cup. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011029,
+            "text": "For he that eateth and drinketh, eateth and drinketh judgment unto himself, if he <i>[j]</i>discern not the body. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-29",
+            "footnotes": [
+                {
+                    "j": "Greek <i>discriminate</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011030,
+            "text": "For this cause many among you are weak and sickly, and not a few sleep. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011031,
+            "text": "But if we <i>[k]</i>discerned ourselves, we should not be judged. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-31",
+            "footnotes": [
+                {
+                    "k": "Greek <i>discriminated</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011032,
+            "text": "But <i>[l]</i>when we are judged, we are chastened of the Lord, that we may not be condemned with the world. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-32",
+            "footnotes": [
+                {
+                    "l": "Or, <i>when we are judged of the Lord, we are chastened</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011033,
+            "text": "Wherefore, my brethren, when ye come together to eat, wait one for another. ",
+            "version": "ASV",
+            "clsstr": "1Cor-11-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46011034,
+            "text": "If any man is hungry, let him eat at home; that your coming together be not unto judgment. And the rest will I set in order whensoever I come.",
+            "version": "ASV",
+            "clsstr": "1Cor-11-34",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 11
+}

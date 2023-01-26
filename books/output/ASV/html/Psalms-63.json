@@ -1,0 +1,126 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19063001,
+            "text": "<b>The thirsting soul satisfied in God.</b>\n\u00b6 A Psalm of David, when he was in the wilderness of Judah.\u00b6     O God, thou art my God; earnestly will I seek thee:\n    My soul thirsteth for thee, my flesh longeth for thee,\n    In a dry and weary land, where no water is.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063002,
+            "text": "    So have I looked upon thee in the sanctuary,\n    To see thy power and thy glory.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063003,
+            "text": "    Because thy lovingkindness is better than life,\n    My lips shall praise thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063004,
+            "text": "    So will I bless thee while I live:\n    I will lift up my hands in thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063005,
+            "text": "  My soul shall be satisfied as with <i>[a]</i>marrow and fatness;\n    And my mouth shall praise thee with joyful lips;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-5",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>fat</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063006,
+            "text": "  When I remember thee upon my bed,\n   <i>[b]</i> meditate on thee in the night-watches.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>I meditate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063007,
+            "text": "    For thou hast been my help,\n    And in the shadow of thy wings will I rejoice.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063008,
+            "text": "    My soul followeth hard after thee:\n    Thy right hand upholdeth me.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063009,
+            "text": "  But those that seek my soul, <i>[c]</i>to destroy it,\n    Shall go into the lower parts of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-9",
+            "footnotes": [
+                {
+                    "c": "Or, <i>shall be destroyed; They shall etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063010,
+            "text": " They shall be <i>[d]</i>given over to the power of the sword:\n  They shall be a portion for <i>[e]</i>foxes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-10",
+            "footnotes": [
+                {
+                    "d": "Or, <i>poured out by</i>"
+                },
+                {
+                    "e": "Or, <i>jackals</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19063011,
+            "text": "    But the king shall rejoice in God:\n    Every one that sweareth by him shall glory;\n    For the mouth of them that speak lies shall be stopped.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-63-11",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 63
+}

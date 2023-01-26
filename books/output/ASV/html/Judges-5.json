@@ -1,0 +1,345 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 7,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 21,
+            "end_verse": 25,
+            "end_book": null
+        }
+    ],
+    "book": 7,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 7005001,
+            "text": "\u00b6 Then sang Deborah and Barak the son of Abinoam on that day, saying,",
+            "version": "ASV",
+            "clsstr": "Judg-5-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005002,
+            "text": "\u00b6     For that the leaders took the lead in Israel,\n    For that the people offered themselves willingly,\n    Bless ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005003,
+            "text": "    Hear, O ye kings; give ear, O ye princes;\n    I,  I, will sing unto Jehovah;\n    I will sing praise to Jehovah, the God of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005004,
+            "text": "    Jehovah, when thou wentest forth out of Seir,\n    When thou marchedst out of the field of Edom,\n    The earth trembled, the heavens also dropped,\n    Yea, the clouds dropped water.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005005,
+            "text": "  The mountains <i>[a]</i>quaked at the presence of Jehovah,\n    Even yon Sinai at the presence of Jehovah, the God of Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-5",
+            "footnotes": [
+                {
+                    "a": "Or, <i>flowed down</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005006,
+            "text": "\u00b6  In the days of Shamgar the son of Anath,\n In the days of Jael, <i>[b]</i>the highways were unoccupied,\n  And the travellers walked through <i>[c]</i>byways.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>the caravans ceased</i>"
+                },
+                {
+                    "c": "Hebrew <i>crooked ways</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005007,
+            "text": "   <i>[d]</i>The rulers ceased in Israel, they ceased,\n    Until that I Deborah arose,\n    That I arose a mother in Israel.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>The villages were unoccupied</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005008,
+            "text": "    They chose new gods;\n    Then was war in the gates:\n    Was there a shield or spear seen\n    Among forty thousand in Israel?\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005009,
+            "text": "  My heart is toward the governors of Israel,\n   <i>[e]</i>That offered themselves willingly among the people:\n    Bless ye Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>Ye that offered yourselves willingly among the people, bless etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005010,
+            "text": "    Tell , ye that ride on white asses,\n    Ye that sit on rich carpets,\n    And ye that walk by the way.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005011,
+            "text": "  <i>[f]</i>Far from the noise of archers, in the places of drawing water,\n  There shall they rehearse the righteous acts of Jehovah,\n   the righteous acts <i>[g]</i>of his rule in Israel.\n    Then the people of Jehovah went down to the gates.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-11",
+            "footnotes": [
+                {
+                    "f": "Or, <i>Because of the voice of the archers\u00a0.\u00a0.\u00a0. there let them rehearse</i>"
+                },
+                {
+                    "g": "Or, <i>toward his villages</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005012,
+            "text": "\u00b6     Awake, awake, Deborah;\n    Awake, awake, utter a song:\n    Arise, Barak, and lead away thy captives, thou son of Abinoam.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005013,
+            "text": " <i>[h]</i>Then came down a remnant of the nobles <i>[i]</i> the people;\n  Jehovah came down for me <i>[j]</i>against the mighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>Then go down, O remnant, for the nobles\u00a0.\u00a0.\u00a0. O Jehovah, go down for me against the mighty</i>. Or, <i>Then made he a remnant to have dominion over the nobles</i> and <i>the people; Jehovah made me have dominion over the mighty</i>"
+                },
+                {
+                    "i": "Or, as otherwise read, <i>the people of Jehovah came down for me against</i> (or <i>among</i>) <i>the mighty</i>"
+                },
+                {
+                    "j": "Or, <i>among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005014,
+            "text": " Out of Ephraim they whose root is in Amalek;\n After thee, Benjamin, among thy peoples;\n Out of Machir came down <i>[k]</i>governors,\n  And out of Zebulun they that handle <i>[l]</i>the marshal\u2019s staff.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-14",
+            "footnotes": [
+                {
+                    "k": "Or, <i>lawgivers</i>"
+                },
+                {
+                    "l": "Or, <i>the staff of the scribe</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005015,
+            "text": "  And <i>[m]</i>the princes of Issachar were with Deborah;\n    As was Issachar, so was Barak;\n    Into the valley they rushed forth at his feet.\n    By the watercourses of Reuben\n    There were great resolves of heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-15",
+            "footnotes": [
+                {
+                    "m": "Or, <i>my princes in Issachar</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005016,
+            "text": "    Why sattest thou among the sheepfolds,\n    To hear the pipings for the flocks?\n    At the watercourses of Reuben\n    There were great searchings of heart.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005017,
+            "text": "  Gilead abode beyond the Jordan:\n  And Dan, why did he remain in ships?\n  Asher sat still at the <i>[n]</i>haven of the sea,\n    And abode by his creeks.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-17",
+            "footnotes": [
+                {
+                    "n": "Or, <i>shore</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005018,
+            "text": "    Zebulun was a people that jeoparded their lives unto the death,\n    And Naphtali, upon the high places of the field.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005019,
+            "text": "\u00b6     The kings came and fought;\n    Then fought the kings of Canaan,\n    In Taanach by the waters of Megiddo:\n    They took no gain of money.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005020,
+            "text": "    From heaven fought the stars,\n    From their courses they fought against Sisera.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005021,
+            "text": "  The river Kishon swept them away,\n  That ancient river, the river Kishon.\n  O my soul, <i>[o]</i>march on with strength.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-21",
+            "footnotes": [
+                {
+                    "o": "Or, <i>thou hast trodden down strength</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005022,
+            "text": "    Then did the horsehoofs stamp\n    By reason of the prancings, the prancings of their strong ones.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005023,
+            "text": "  Curse ye Meroz, said the angel of Jehovah.\n  Curse ye bitterly the inhabitants thereof,\n  Because they came not to the help of Jehovah,\n  To the help of Jehovah <i>[p]</i>against the mighty.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-23",
+            "footnotes": [
+                {
+                    "p": "Or, <i>among</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005024,
+            "text": "\u00b6  Blessed <i>[q]</i>above women shall Jael be,\n  The wife of Heber the Kenite;\n  Blessed shall she be <i>[r]</i>above women in the tent.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-24",
+            "footnotes": [
+                {
+                    "q": "Or, <i>of</i>"
+                },
+                {
+                    "r": "Or, <i>of</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005025,
+            "text": "    He asked water,  she gave him milk;\n    She brought him butter in a lordly dish.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005026,
+            "text": "    She put her hand to the tent-pin,\n    And her right hand to the workmen\u2019s hammer;\n    And with the hammer she smote Sisera, she smote through his head;\n    Yea, she pierced and struck through his temples.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005027,
+            "text": "  At her feet he bowed, he fell, he lay;\n  At her feet he bowed, he fell:\n  Where he bowed, there he fell down <i>[s]</i>dead.\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-27",
+            "footnotes": [
+                {
+                    "s": "Or, <i>overpowered</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005028,
+            "text": "\u00b6   Through the window she looked forth, and cried,\n  The mother of Sisera through the lattice,\n  Why is his chariot so long in coming?\n  Why tarry the <i>[t]</i>wheels of his chariots?\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-28",
+            "footnotes": [
+                {
+                    "t": "Hebrew <i>steps</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005029,
+            "text": "  Her wise ladies answered her,\n   <i>[u]</i>Yea, she returned answer to herself,\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-29",
+            "footnotes": [
+                {
+                    "u": "Or (<i>Yet she repeateth her words unto herself</i>)"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005030,
+            "text": "    Have they not found, have they not divided the spoil?\n    A damsel, two damsels to every man;\n    To Sisera a spoil of dyed garments,\n    A spoil of dyed garments embroidered,\n    Of dyed garments embroidered on both sides, on the necks of the spoil?\n    ",
+            "version": "ASV",
+            "clsstr": "Judg-5-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 7005031,
+            "text": "    So let all thine enemies perish, O Jehovah:\n    But let them that love him be as the sun when he goeth forth in his might.\n    \u00b6 And the land had rest forty years.",
+            "version": "ASV",
+            "clsstr": "Judg-5-31",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Judges",
+    "chapters": 5
+}

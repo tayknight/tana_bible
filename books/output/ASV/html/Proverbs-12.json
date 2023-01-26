@@ -1,0 +1,293 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20012001,
+            "text": "\u00b6   Whoso loveth <i>[a]</i>correction loveth knowledge;\n    But he that hateth reproof is brutish.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>instruction</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012002,
+            "text": "    A good man shall obtain favor of Jehovah;\n    But a man of wicked devices will he condemn.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012003,
+            "text": "    A man shall not be established by wickedness;\n    But the root of the righteous shall not be moved.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012004,
+            "text": "    A worthy woman is the crown of her husband;\n    But she that maketh ashamed is as rottenness in his bones.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012005,
+            "text": "    The thoughts of the righteous are just;\n     the counsels of the wicked are deceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012006,
+            "text": "  The words of the wicked <i>[b]</i>are of lying in wait for blood;\n    But the mouth of the upright shall deliver them.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>are a lying in wait</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012007,
+            "text": "   <i>[c]</i>The wicked are overthrown, and are not;\n    But the house of the righteous shall stand.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-7",
+            "footnotes": [
+                {
+                    "c": "Or, <i>Overthrow the wicked, and they are not</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012008,
+            "text": "    A man shall be commended according to his wisdom;\n    But he that is of a perverse heart shall be despised.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012009,
+            "text": "    Better is he that is lightly esteemed, and hath a servant,\n    Than he that honoreth himself, and lacketh bread.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012010,
+            "text": "    A righteous man regardeth the life of his beast;\n    But the tender mercies of the wicked are cruel.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012011,
+            "text": "  He that tilleth his land shall have plenty of bread;\n  But he that followeth after <i>[d]</i>vain  is void of understanding.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>vain</i> things"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012012,
+            "text": "  The wicked desireth <i>[e]</i>the net of evil men;\n    But the root of the righteous yieldeth .\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-12",
+            "footnotes": [
+                {
+                    "e": "Or, <i>the prey</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012013,
+            "text": "  In the transgression of the lips is <i>[f]</i>a snare to the evil man;\n    But the righteous shall come out of trouble.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-13",
+            "footnotes": [
+                {
+                    "f": "Or, <i>an evil snare</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012014,
+            "text": "    A man shall be satisfied with good by the fruit of his mouth;\n    And the doings of a man\u2019s hands shall be rendered unto him.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012015,
+            "text": "    The way of a fool is right in his own eyes;\n    But he that is wise hearkeneth unto counsel.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012016,
+            "text": "  A fool\u2019s vexation is <i>[g]</i>presently known;\n    But a prudent man concealeth shame.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-16",
+            "footnotes": [
+                {
+                    "g": "Or, <i>openly</i>. Hebrew <i>in the day</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012017,
+            "text": "  He that <i>[h]</i>uttereth truth showeth forth righteousness;\n    But a false witness, deceit.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-17",
+            "footnotes": [
+                {
+                    "h": "Hebrew <i>breatheth out</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012018,
+            "text": "    There is that speaketh rashly like the piercings of a sword;\n    But the tongue of the wise is health.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012019,
+            "text": "    The lip of truth shall be established for ever;\n    But a lying tongue is but for a moment.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012020,
+            "text": "    Deceit is in the heart of them that devise evil;\n    But to the counsellors of peace is joy.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012021,
+            "text": "    There shall no mischief happen to the righteous;\n    But the wicked shall be filled with evil.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012022,
+            "text": "    Lying lips are an abomination to Jehovah;\n    But they that deal truly are his delight.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012023,
+            "text": "    A prudent man concealeth knowledge;\n    But the heart of fools proclaimeth foolishness.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012024,
+            "text": "  The hand of the diligent shall bear rule;\n  But <i>[i]</i>the slothful shall be put under taskwork.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-24",
+            "footnotes": [
+                {
+                    "i": "Hebrew <i>slothfulness</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012025,
+            "text": "   <i>[j]</i>Heaviness in the heart of a man maketh it stoop;\n    But a good word maketh it glad.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-25",
+            "footnotes": [
+                {
+                    "j": "Or, <i>Care</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012026,
+            "text": "    The righteous is a guide to his neighbor;\n    But the way of the wicked causeth them to err.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012027,
+            "text": " <i>[k]</i>The slothful man <i>[l]</i>roasteth not that which he took in hunting;\n  But the precious substance of men <i>[m]</i> the diligent.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-27",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>slothfulness</i>."
+                },
+                {
+                    "l": "Or, <i>catcheth not his prey</i>"
+                },
+                {
+                    "m": "Or, is to be <i>diligent</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20012028,
+            "text": "    In the way of righteousness is life;\n    And in the pathway thereof there is no death.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-12-28",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 12
+}

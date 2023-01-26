@@ -1,0 +1,139 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19019001,
+            "text": "<b>The works and the Word of God.</b>\n\u00b6 For the Chief Musician. A Psalm of David.\u00b6     The heavens declare the glory of God;\n    And the firmament showeth his handiwork.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019002,
+            "text": "    Day unto day uttereth speech,\n    And night unto night showeth knowledge.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019003,
+            "text": "    There is no speech nor language;\n    Their voice is not heard.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019004,
+            "text": "  Their line is gone out through all the earth,\n  And their words to the end of the world.\n  In them hath he set a <i>[a]</i>tabernacle for the sun,\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-4",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>tent</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019005,
+            "text": "    Which is as a bridegroom coming out of his chamber,\n    And rejoiceth as a strong man to run his course.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019006,
+            "text": "    His going forth is from the end of the heavens,\n    And his circuit unto the ends of it;\n    And there is nothing hid from the heat thereof.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019007,
+            "text": "\u00b6     The law of Jehovah is perfect, restoring the soul:\n    The testimony of Jehovah is sure, making wise the simple.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019008,
+            "text": "    The precepts of Jehovah are right, rejoicing the heart:\n    The commandment of Jehovah is pure, enlightening the eyes.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019009,
+            "text": "    The fear of Jehovah is clean, enduring for ever:\n    The ordinances of Jehovah are true,  righteous altogether.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019010,
+            "text": "    More to be desired are they than gold, yea, than much fine gold;\n    Sweeter also than honey and the droppings of the honeycomb.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019011,
+            "text": "    Moreover by them is thy servant warned:\n    In keeping them there is great reward.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019012,
+            "text": "    Who can discern  errors?\n    Clear thou me from hidden .\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019013,
+            "text": "  Keep back thy servant also <i>[b]</i>from presumptuous ;\n    Let them not have dominion over me:\n    Then shall I be upright,\n    And I shall be clear from great transgression.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-13",
+            "footnotes": [
+                {
+                    "b": "Or, <i>from the proud</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19019014,
+            "text": "    Let the words of my mouth and the meditation of my heart\n    Be acceptable in thy sight,\n    O Jehovah, my rock, and my redeemer.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-19-14",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 19
+}

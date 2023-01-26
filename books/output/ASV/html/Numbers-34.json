@@ -1,0 +1,259 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 4,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 36,
+            "end_verse": 13,
+            "end_book": null
+        }
+    ],
+    "book": 4,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 4034001,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-34-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034002,
+            "text": "Command the children of Israel, and say unto them, When ye come into the land of Canaan (this is the land that shall fall unto you for an inheritance, even the land of Canaan according to the borders thereof), ",
+            "version": "ASV",
+            "clsstr": "Num-34-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034003,
+            "text": "then your south quarter shall be from the wilderness of Zin along by the side of Edom, and your south border shall be from the end of the Salt Sea eastward; ",
+            "version": "ASV",
+            "clsstr": "Num-34-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034004,
+            "text": "and your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and the goings out thereof shall be southward of Kadesh-barnea; and it shall go forth to Hazar-addar, and pass along to Azmon; ",
+            "version": "ASV",
+            "clsstr": "Num-34-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034005,
+            "text": "and the border shall turn about from Azmon unto the brook of Egypt, and the goings out thereof shall be at the sea.",
+            "version": "ASV",
+            "clsstr": "Num-34-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034006,
+            "text": "\u00b6 And for the western border, ye shall have the great sea <i>[a]</i>and the border : this shall be your west border.",
+            "version": "ASV",
+            "clsstr": "Num-34-6",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for a border</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034007,
+            "text": "\u00b6 And this shall be your north border: from the great sea ye shall mark out for you mount Hor; ",
+            "version": "ASV",
+            "clsstr": "Num-34-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034008,
+            "text": "from mount Hor ye shall mark out unto the entrance of Hamath; and the goings out of the border shall be at Zedad; ",
+            "version": "ASV",
+            "clsstr": "Num-34-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034009,
+            "text": "and the border shall go forth to Ziphron, and the goings out thereof shall be at Hazar-enan: this shall be your north border.",
+            "version": "ASV",
+            "clsstr": "Num-34-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034010,
+            "text": "\u00b6 And ye shall mark out your east border from Hazar-enan to Shepham; ",
+            "version": "ASV",
+            "clsstr": "Num-34-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034011,
+            "text": "and the border shall go down from Shepham to Riblah, on the east side of Ain; and the border shall go down, and shall reach unto the <i>[b]</i>side of the sea of Chinnereth eastward; ",
+            "version": "ASV",
+            "clsstr": "Num-34-11",
+            "footnotes": [
+                {
+                    "b": "Hebrew <i>shoulder</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034012,
+            "text": "and the border shall go down to the Jordan, and the goings out thereof shall be at the Salt Sea. This shall be your land according to the borders thereof round about.",
+            "version": "ASV",
+            "clsstr": "Num-34-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034013,
+            "text": "\u00b6 And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which Jehovah hath commanded to give unto the nine tribes, and to the half-tribe; ",
+            "version": "ASV",
+            "clsstr": "Num-34-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034014,
+            "text": "for the tribe of the children of Reuben according to their fathers\u2019 houses, and the tribe of the children of Gad according to their fathers\u2019 houses, have received, and the half-tribe of Manasseh have received, their inheritance: ",
+            "version": "ASV",
+            "clsstr": "Num-34-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034015,
+            "text": "the two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrising.",
+            "version": "ASV",
+            "clsstr": "Num-34-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034016,
+            "text": "\u00b6 And Jehovah spake unto Moses, saying, ",
+            "version": "ASV",
+            "clsstr": "Num-34-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034017,
+            "text": "These are the names of the men that shall divide the land unto you for inheritance: Eleazar the priest, and Joshua the son of Nun. ",
+            "version": "ASV",
+            "clsstr": "Num-34-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034018,
+            "text": "And ye shall take one prince of every tribe, to divide the land for inheritance. ",
+            "version": "ASV",
+            "clsstr": "Num-34-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034019,
+            "text": "And these are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh. ",
+            "version": "ASV",
+            "clsstr": "Num-34-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034020,
+            "text": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud. ",
+            "version": "ASV",
+            "clsstr": "Num-34-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034021,
+            "text": "Of the tribe of Benjamin, Elidad the son of Chislon. ",
+            "version": "ASV",
+            "clsstr": "Num-34-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034022,
+            "text": "And of the tribe of the children of Dan a prince, Bukki the son of Jogli. ",
+            "version": "ASV",
+            "clsstr": "Num-34-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034023,
+            "text": "Of the children of Joseph: of the tribe of the children of Manasseh a prince, Hanniel the son of Ephod. ",
+            "version": "ASV",
+            "clsstr": "Num-34-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034024,
+            "text": "And of the tribe of the children of Ephraim a prince, Kemuel the son of Shiphtan. ",
+            "version": "ASV",
+            "clsstr": "Num-34-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034025,
+            "text": "And of the tribe of the children of Zebulun a prince, Elizaphan the son of Parnach. ",
+            "version": "ASV",
+            "clsstr": "Num-34-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034026,
+            "text": "And of the tribe of the children of Issachar a prince, Paltiel the son of Azzan. ",
+            "version": "ASV",
+            "clsstr": "Num-34-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034027,
+            "text": "And of the tribe of the children of Asher a prince, Ahihud the son of Shelomi. ",
+            "version": "ASV",
+            "clsstr": "Num-34-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034028,
+            "text": "And of the tribe of the children of Naphtali a prince, Pedahel the son of Ammihud. ",
+            "version": "ASV",
+            "clsstr": "Num-34-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 4034029,
+            "text": "These are they whom Jehovah commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
+            "version": "ASV",
+            "clsstr": "Num-34-29",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Numbers",
+    "chapters": 34
+}

@@ -1,0 +1,272 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 26,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 48,
+            "end_verse": 35,
+            "end_book": null
+        }
+    ],
+    "book": 26,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 26028001,
+            "text": "\u00b6 The word of Jehovah came again unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028002,
+            "text": "Son of man, say unto the prince of Tyre, Thus saith the Lord Jehovah: Because thy heart is lifted up, and thou hast said, I am a god, I sit in the seat of God, in the <i>[a]</i>midst of the seas; yet thou art man, and not God, though thou didst set thy heart as the heart of God;\u2014",
+            "version": "ASV",
+            "clsstr": "Ezek-28-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028003,
+            "text": "behold, thou art wiser than Daniel; there is no secret that is hidden from thee; ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028004,
+            "text": "by thy wisdom and by thine understanding thou hast gotten thee <i>[b]</i>riches, and hast gotten gold and silver into thy treasures; ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-4",
+            "footnotes": [
+                {
+                    "b": "Or, <i>power</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028005,
+            "text": "by thy great wisdom by thy traffic hast thou increased thy <i>[c]</i>riches, and thy heart is lifted up because of thy <i>[d]</i>riches;\u2014",
+            "version": "ASV",
+            "clsstr": "Ezek-28-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>power</i>"
+                },
+                {
+                    "d": "Or, <i>power</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028006,
+            "text": "therefore thus saith the Lord Jehovah: Because thou hast set thy heart as the heart of God, ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028007,
+            "text": "therefore, behold, I will bring strangers upon thee, the terrible of the nations; and they shall draw their swords against the beauty of thy wisdom, and they shall <i>[e]</i>defile thy brightness. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-7",
+            "footnotes": [
+                {
+                    "e": "Or, <i>profane</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028008,
+            "text": "They shall bring thee down to the pit; and thou shalt die the death of them that are slain, in the heart of the seas. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028009,
+            "text": "Wilt thou yet say before him that slayeth thee, I am God? but thou art man, and not God, in the hand of him that <i>[f]</i>woundeth thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-9",
+            "footnotes": [
+                {
+                    "f": "Or, <i>profaneth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028010,
+            "text": "Thou shalt die the death of the uncircumcised by the hand of strangers: for I have spoken it, saith the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-28-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028011,
+            "text": "\u00b6 Moreover the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028012,
+            "text": "Son of man, take up a lamentation over the king of Tyre, and say unto him, Thus saith the Lord Jehovah: Thou sealest up the <i>[g]</i>sum, full of wisdom, and perfect in beauty. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-12",
+            "footnotes": [
+                {
+                    "g": "Or, <i>measure</i>. Or, <i>pattern</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028013,
+            "text": "Thou wast in Eden, the garden of God; every precious stone was thy covering, the <i>[h]</i>sardius, the topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the <i>[i]</i>emerald, and the <i>[j]</i>carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was in thee; in the day that thou wast created they were prepared. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-13",
+            "footnotes": [
+                {
+                    "h": "Or, <i>ruby</i>"
+                },
+                {
+                    "i": "Or, <i>carbuncle</i>"
+                },
+                {
+                    "j": "Or, <i>emerald</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028014,
+            "text": "Thou wast the anointed cherub that covereth: and I set thee,  thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028015,
+            "text": "Thou wast perfect in thy ways from the day that thou wast created, till unrighteousness was found in thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028016,
+            "text": "By the abundance of thy traffic they filled the midst of thee with violence, and thou hast sinned: therefore have I cast thee as profane out of the mountain of God; and I have destroyed thee, O covering cherub, from the midst of the stones of fire. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028017,
+            "text": "Thy heart was lifted up because of thy beauty; thou hast corrupted thy wisdom by reason of thy brightness: I have cast thee to the ground; I have laid thee before kings, that they may behold thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028018,
+            "text": "By the multitude of thine iniquities, in the unrighteousness of thy traffic, thou hast profaned thy sanctuaries; therefore have I brought forth a fire from the midst of thee; it hath devoured thee, and I have turned thee to ashes upon the earth in the sight of all them that behold thee. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028019,
+            "text": "All they that know thee among the peoples shall be astonished at thee: thou art become <i>[k]</i>a terror, and thou shalt nevermore have any being.",
+            "version": "ASV",
+            "clsstr": "Ezek-28-19",
+            "footnotes": [
+                {
+                    "k": "Or, <i>a destruction</i>. Hebrew <i>terrors</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028020,
+            "text": "\u00b6 And the word of Jehovah came unto me, saying, ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028021,
+            "text": "Son of man, set thy face toward Sidon, and prophesy against it, ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028022,
+            "text": "and say, Thus saith the Lord Jehovah: Behold, I am against thee, O Sidon; and I will be glorified in the midst of thee; and they shall know that I am Jehovah, when I shall have executed judgments in her, and shall be sanctified in her. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028023,
+            "text": "For I will send pestilence into her, and blood into her streets; and the wounded shall <i>[l]</i>fall in the midst of her, with the sword upon her on every side; and they shall know that I am Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-23",
+            "footnotes": [
+                {
+                    "l": "Or, <i>be judged</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028024,
+            "text": "And there shall be no more a pricking brier unto the house of Israel, nor a hurting thorn of any that are round about them, that did despite unto them; and they shall know that I am the Lord Jehovah.",
+            "version": "ASV",
+            "clsstr": "Ezek-28-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028025,
+            "text": "\u00b6 Thus saith the Lord Jehovah: When I shall have gathered the house of Israel from the peoples among whom they are scattered, and shall be sanctified in them in the sight of the nations, then shall they dwell in their own land which I gave to my servant Jacob. ",
+            "version": "ASV",
+            "clsstr": "Ezek-28-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 26028026,
+            "text": "And they shall dwell securely therein; yea, they shall build houses, and plant vineyards, and shall dwell securely, when I have executed judgments upon all those that do them despite round about them; and they shall know that I am Jehovah their God.",
+            "version": "ASV",
+            "clsstr": "Ezek-28-26",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Ezekiel",
+    "chapters": 28
+}

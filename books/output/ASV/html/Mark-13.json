@@ -1,0 +1,346 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 41,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 41,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 41013001,
+            "text": "\u00b6 And as he went forth out of the temple, one of his disciples saith unto him, Teacher, behold, what manner of stones and what manner of buildings! ",
+            "version": "ASV",
+            "clsstr": "Mark-13-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013002,
+            "text": "And Jesus said unto him, Seest thou these great buildings? there shall not be left here one stone upon another, which shall not be thrown down.",
+            "version": "ASV",
+            "clsstr": "Mark-13-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013003,
+            "text": "\u00b6 And as he sat on the mount of Olives over against the temple, Peter and <i>[a]</i>James and John and Andrew asked him privately, ",
+            "version": "ASV",
+            "clsstr": "Mark-13-3",
+            "footnotes": [
+                {
+                    "a": "Or, <i>Jacob</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013004,
+            "text": "Tell us, when shall these things be? and what  the sign when these things are all about to be accomplished? ",
+            "version": "ASV",
+            "clsstr": "Mark-13-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013005,
+            "text": "And Jesus began to say unto them, Take heed that no man lead you astray. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013006,
+            "text": "Many shall come in my name, saying, I am ; and shall lead many astray. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013007,
+            "text": "And when ye shall hear of wars and rumors of wars, be not troubled:  must needs come to pass; but the end is not yet. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013008,
+            "text": "For nation shall rise against nation, and kingdom against kingdom; there shall be earthquakes in divers places; there shall be famines: these things are the beginning of travail.",
+            "version": "ASV",
+            "clsstr": "Mark-13-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013009,
+            "text": "\u00b6 But take ye heed to yourselves: for they shall deliver you up to councils; and in synagogues shall ye be beaten; and before governors and kings shall ye stand for my sake, for a testimony unto them. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013010,
+            "text": "And the <i>[b]</i>gospel must first be preached unto all the nations. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-10",
+            "footnotes": [
+                {
+                    "b": "See marginal note on [[1:1]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013011,
+            "text": "And when they lead you , and deliver you up, be not anxious beforehand what ye shall speak: but whatsoever shall be given you in that hour, that speak ye; for it is not ye that speak, but the Holy Spirit. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013012,
+            "text": "And brother shall <i>[c]</i>deliver up brother to death, and the father his child; and children shall rise up against parents, and <i>[d]</i>cause them to be put to death. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-12",
+            "footnotes": [
+                {
+                    "c": "See [[3:19]]."
+                },
+                {
+                    "d": "Or, <i>put them to death</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013013,
+            "text": "And ye shall be hated of all men for my name\u2019s sake: but he that endureth to the end, the same shall be saved.",
+            "version": "ASV",
+            "clsstr": "Mark-13-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013014,
+            "text": "\u00b6 But when ye see the abomination of desolation standing where he ought not (let him that readeth understand), then let them that are in Judaea flee unto the mountains: ",
+            "version": "ASV",
+            "clsstr": "Mark-13-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013015,
+            "text": "and let him that is on the housetop not go down, nor enter in, to take anything out of his house: ",
+            "version": "ASV",
+            "clsstr": "Mark-13-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013016,
+            "text": "and let him that is in the field not return back to take his cloak. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013017,
+            "text": "But woe unto them that are with child and to them that give suck in those days! ",
+            "version": "ASV",
+            "clsstr": "Mark-13-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013018,
+            "text": "And pray ye that it be not in the winter. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013019,
+            "text": "For those days shall be tribulation, such as there hath not been the like from the beginning of the creation which God created until now, and never shall be. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013020,
+            "text": "And except the Lord had shortened the days, no flesh would have been saved; but for the elect\u2019s sake, whom he chose, he shortened the days. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013021,
+            "text": "And then if any man shall say unto you, Lo, here is the Christ; or, Lo, there; believe <i>[e]</i> not: ",
+            "version": "ASV",
+            "clsstr": "Mark-13-21",
+            "footnotes": [
+                {
+                    "e": "Or, him"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013022,
+            "text": "for there shall arise false Christs and false prophets, and shall show signs and wonders, that they may lead astray, if possible, the elect. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013023,
+            "text": "But take ye heed: behold, I have told you all things beforehand.",
+            "version": "ASV",
+            "clsstr": "Mark-13-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013024,
+            "text": "\u00b6 But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light, ",
+            "version": "ASV",
+            "clsstr": "Mark-13-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013025,
+            "text": "and the stars shall be falling from heaven, and the powers that are in the heavens shall be shaken. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013026,
+            "text": "And then shall they see the Son of man coming in clouds with great power and glory. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013027,
+            "text": "And then shall he send forth the angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.",
+            "version": "ASV",
+            "clsstr": "Mark-13-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013028,
+            "text": "\u00b6 Now from the fig tree learn her parable: when her branch is now become tender, and putteth forth its leaves, ye know that the summer is nigh; ",
+            "version": "ASV",
+            "clsstr": "Mark-13-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013029,
+            "text": "even so ye also, when ye see these things coming to pass, know ye that <i>[f]</i>he is nigh,  at the doors. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-29",
+            "footnotes": [
+                {
+                    "f": "Or, <i>it</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013030,
+            "text": "Verily I say unto you, This generation shall not pass away, until all these things be accomplished. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013031,
+            "text": "Heaven and earth shall pass away: but my words shall not pass away. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013032,
+            "text": "But of that day or that hour knoweth no one, not even the angels in heaven, neither the Son, but the Father.",
+            "version": "ASV",
+            "clsstr": "Mark-13-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013033,
+            "text": "\u00b6 Take ye heed, watch <i>[g]</i>and pray: for ye know not when the time is. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-33",
+            "footnotes": [
+                {
+                    "g": "Some ancient authorities omit <i>and pray</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013034,
+            "text": " as a man, sojourning in another country, having left his house, and given authority to his <i>[h]</i>servants, to each one his work, commanded also the porter to watch. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-34",
+            "footnotes": [
+                {
+                    "h": "Greek <i>bondservants</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013035,
+            "text": "Watch therefore: for ye know not when the lord of the house cometh, whether at even, or at midnight, or at cockcrowing, or in the morning; ",
+            "version": "ASV",
+            "clsstr": "Mark-13-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013036,
+            "text": "lest coming suddenly he find you sleeping. ",
+            "version": "ASV",
+            "clsstr": "Mark-13-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 41013037,
+            "text": "And what I say unto you I say unto all, Watch.",
+            "version": "ASV",
+            "clsstr": "Mark-13-37",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Mark",
+    "chapters": 13
+}

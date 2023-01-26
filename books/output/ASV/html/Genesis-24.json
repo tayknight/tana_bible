@@ -1,0 +1,566 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 1,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 50,
+            "end_verse": 26,
+            "end_book": null
+        }
+    ],
+    "book": 1,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 1024001,
+            "text": "\u00b6 And Abraham was old,  well stricken in age: and Jehovah had blessed Abraham in all things. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024002,
+            "text": "And Abraham said unto his servant, the elder of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh: ",
+            "version": "ASV",
+            "clsstr": "Gen-24-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024003,
+            "text": "and I will make thee swear by Jehovah, the God of heaven and the God of the earth, that thou wilt not take a wife for my son of the daughters of the Canaanites, among whom I dwell: ",
+            "version": "ASV",
+            "clsstr": "Gen-24-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024004,
+            "text": "but thou shalt go unto my country, and to my kindred, and take a wife for my son Isaac. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024005,
+            "text": "And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest? ",
+            "version": "ASV",
+            "clsstr": "Gen-24-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024006,
+            "text": "And Abraham said unto him, Beware thou that thou bring not my son thither again. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024007,
+            "text": "Jehovah, the God of heaven, who took me from my father\u2019s house, and from the land of my nativity, and who spake unto me, and who sware unto me, saying, Unto thy seed will I give this land; he will send his angel before thee, and thou shalt take a wife for my son from thence. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024008,
+            "text": "And if the woman be not willing to follow thee, then thou shalt be clear from this my oath; only thou shalt not bring my son thither again. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024009,
+            "text": "And the servant put his hand under the thigh of Abraham his master, and sware to him concerning this matter.",
+            "version": "ASV",
+            "clsstr": "Gen-24-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024010,
+            "text": "\u00b6 And the servant took ten camels, of the camels of his master, and departed, <i>[a]</i>having all goodly things of his master\u2019s in his hand: and he arose, and went to <i>[b]</i>Mesopotamia, unto the city of Nahor. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-10",
+            "footnotes": [
+                {
+                    "a": "Or, <i>for all the goods of his master were in his hand</i>"
+                },
+                {
+                    "b": "Hebrew <i>Aram-naharaim</i>, that is, <i>Aram of the two rivers</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024011,
+            "text": "And he made the camels to kneel down without the city by the well of water at the time of evening, the time that women go out to draw water. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024012,
+            "text": "And he said, O Jehovah, the God of my master Abraham, send me, I pray thee, good speed this day, and show kindness unto my master Abraham. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024013,
+            "text": "Behold, I am standing by the fountain of water; and the daughters of the men of the city are coming out to draw water: ",
+            "version": "ASV",
+            "clsstr": "Gen-24-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024014,
+            "text": "and let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast showed kindness unto my master. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024015,
+            "text": "And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel the son of Milcah, the wife of Nahor, Abraham\u2019s brother, with her pitcher upon her shoulder. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024016,
+            "text": "And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the fountain, and filled her pitcher, and came up. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024017,
+            "text": "And the servant ran to meet her, and said, Give me to drink, I pray thee, a little water from thy pitcher. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024018,
+            "text": "And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024019,
+            "text": "And when she had done giving him drink, she said, I will draw for thy camels also, until they have done drinking. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-19",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024020,
+            "text": "And she hasted, and emptied her pitcher into the trough, and ran again unto the well to draw, and drew for all his camels. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024021,
+            "text": "And the man looked stedfastly on her, holding his peace, to know whether Jehovah had made his journey prosperous or not. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024022,
+            "text": "And it came to pass, as the camels had done drinking, that the man took a golden ring of <i>[c]</i>half a shekel weight, and two bracelets for her hands of ten shekels weight of gold, ",
+            "version": "ASV",
+            "clsstr": "Gen-24-22",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>a beka</i>. See [[Ex. 38:26]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024023,
+            "text": "and said, Whose daughter art thou? tell me, I pray thee. Is there room in thy father\u2019s house for us to lodge in? ",
+            "version": "ASV",
+            "clsstr": "Gen-24-23",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024024,
+            "text": "And she said unto him, I am the daughter of Bethuel the son of Milcah, whom she bare unto Nahor. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024025,
+            "text": "She said moreover unto him, We have both straw and provender enough, and room to lodge in. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024026,
+            "text": "And the man bowed his head, and worshipped Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024027,
+            "text": "And he said, Blessed be Jehovah, the God of my master Abraham, who hath not forsaken his lovingkindness and his truth toward my master: as for me, Jehovah hath led me in the way to the house of my master\u2019s brethren.",
+            "version": "ASV",
+            "clsstr": "Gen-24-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024028,
+            "text": "\u00b6 And the damsel ran, and told her mother\u2019s house according to these words. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024029,
+            "text": "And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the fountain. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024030,
+            "text": "And it came to pass, when he saw the ring, and the bracelets upon his sister\u2019s hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he was standing by the camels at the fountain. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-30",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024031,
+            "text": "And he said, Come in, thou blessed of Jehovah; wherefore standest thou without? for I have prepared the house, and room for the camels. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024032,
+            "text": "And the man came into the house, and he ungirded the camels; and he gave straw and provender for the camels, and water to wash his feet and the feet of the men that were with him. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024033,
+            "text": "And there was set food before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024034,
+            "text": "And he said, I am Abraham\u2019s servant. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024035,
+            "text": "And Jehovah hath blessed my master greatly; and he is become great: and he hath given him flocks and herds, and silver and gold, and men-servants and maid-servants, and camels and asses. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-35",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024036,
+            "text": "And Sarah my master\u2019s wife bare a son to my master when she was old: and unto him hath he given all that he hath. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-36",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024037,
+            "text": "And my master made me swear, saying, Thou shalt not take a wife for my son of the daughters of the Canaanites, in whose land I dwell: ",
+            "version": "ASV",
+            "clsstr": "Gen-24-37",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024038,
+            "text": "but thou shalt go unto my father\u2019s house, and to my kindred, and take a wife for my son. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-38",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024039,
+            "text": "And I said unto my master, Peradventure the woman will not follow me. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-39",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024040,
+            "text": "And he said unto me, Jehovah, before whom I walk, will send his angel with thee, and prosper thy way; and thou shalt take a wife for my son of my kindred, and of my father\u2019s house: ",
+            "version": "ASV",
+            "clsstr": "Gen-24-40",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024041,
+            "text": "then shalt thou be clear from my oath, when thou comest to my kindred; and if they give her not to thee, thou shalt be clear from my oath. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-41",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024042,
+            "text": "And I came this day unto the fountain, and said, O Jehovah, the God of my master Abraham, if now thou do prosper my way which I go: ",
+            "version": "ASV",
+            "clsstr": "Gen-24-42",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024043,
+            "text": "behold, I am standing by the fountain of water; and let it come to pass, that the maiden that cometh forth to draw, to whom I shall say, Give me, I pray thee, a little water from thy pitcher to drink; ",
+            "version": "ASV",
+            "clsstr": "Gen-24-43",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024044,
+            "text": "and she shall say to me, Both drink thou, and I will also draw for thy camels: let the same be the woman whom Jehovah hath appointed for my master\u2019s son. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-44",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024045,
+            "text": "And before I had done speaking in my heart, behold, Rebekah came forth with her pitcher on her shoulder; and she went down unto the fountain, and drew: and I said unto her, Let me drink, I pray thee. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-45",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024046,
+            "text": "And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-46",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024047,
+            "text": "And I asked her, and said, Whose daughter art thou? And she said, The daughter of Bethuel, Nahor\u2019s son, whom Milcah bare unto him: and I put the ring upon her nose, and the bracelets upon her hands. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-47",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024048,
+            "text": "And I bowed my head, and worshipped Jehovah, and blessed Jehovah, the God of my master Abraham, who had led me in the right way to take my master\u2019s brother\u2019s daughter for his son. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-48",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024049,
+            "text": "And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left.",
+            "version": "ASV",
+            "clsstr": "Gen-24-49",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024050,
+            "text": "\u00b6 Then Laban and Bethuel answered and said, The thing proceedeth from Jehovah: we cannot speak unto thee bad or good. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-50",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024051,
+            "text": "Behold, Rebekah is before thee, take her, and go, and let her be thy master\u2019s son\u2019s wife, as Jehovah hath spoken. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-51",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024052,
+            "text": "And it came to pass, that, when Abraham\u2019s servant heard their words, he bowed himself down to the earth unto Jehovah. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-52",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024053,
+            "text": "And the servant brought forth jewels of silver, and jewels of gold, and raiment, and gave them to Rebekah: he gave also to her brother and to her mother precious things. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-53",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024054,
+            "text": "And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-54",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024055,
+            "text": "And her brother and her mother said, Let the damsel abide with us  days, at the least ten; after that she shall go. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-55",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024056,
+            "text": "And he said unto them, Hinder me not, seeing Jehovah hath prospered my way; send me away that I may go to my master. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-56",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024057,
+            "text": "And they said, We will call the damsel, and inquire at her mouth. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-57",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024058,
+            "text": "And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-58",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024059,
+            "text": "And they sent away Rebekah their sister, and her nurse, and Abraham\u2019s servant, and his men. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-59",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024060,
+            "text": "And they blessed Rebekah, and said unto her, Our sister, be thou  of thousands of ten thousands, and let thy seed possess the gate of those that hate them.",
+            "version": "ASV",
+            "clsstr": "Gen-24-60",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024061,
+            "text": "\u00b6 And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-61",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024062,
+            "text": "And Isaac came from the way of Beer-lahai-roi; for he dwelt in the land of the South. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-62",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024063,
+            "text": "And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, there were camels coming. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-63",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024064,
+            "text": "And Rebekah lifted up her eyes, and when she saw Isaac, she alighted from the camel. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-64",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024065,
+            "text": "And she said unto the servant, What man is this that walketh in the field to meet us? And the servant said, It is my master: and she took her veil, and covered herself. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-65",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024066,
+            "text": "And the servant told Isaac all the things that he had done. ",
+            "version": "ASV",
+            "clsstr": "Gen-24-66",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 1024067,
+            "text": "And Isaac brought her into his mother Sarah\u2019s tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother\u2019s death.",
+            "version": "ASV",
+            "clsstr": "Gen-24-67",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Genesis",
+    "chapters": 24
+}

@@ -1,0 +1,94 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19012001,
+            "text": "<b>God a helper against the treacherous.</b>\n\u00b6 For the Chief Musician; set to <i>[a]</i>the Sheminith. A Psalm of David.\u00b6   Help, Jehovah; for the godly man ceaseth;\n  For <i>[b]</i>the faithful fail from among the children of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>the eighth</i>"
+                },
+                {
+                    "b": "Or, <i>faithfulness faileth</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19012002,
+            "text": "    They speak falsehood every one with his neighbor:\n    With flattering lip, and with a double heart, do they speak.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19012003,
+            "text": "    Jehovah will cut off all flattering lips,\n    The tongue that speaketh great things;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19012004,
+            "text": "  Who have said, With our tongue will we prevail;\n  Our lips are <i>[c]</i>our own: who is lord over us?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-4",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>with us</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19012005,
+            "text": "    Because of the oppression of the poor, because of the sighing of the needy,\n    Now will I arise, saith Jehovah;\n    I will set him in the safety he panteth for.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19012006,
+            "text": "    The words of Jehovah are pure words;\n    As silver tried in a furnace on the earth,\n    Purified seven times.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19012007,
+            "text": "    Thou wilt keep them, O Jehovah,\n    Thou wilt preserve them from this generation for ever.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19012008,
+            "text": "    The wicked walk on every side,\n    When vileness is exalted among the sons of men.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-12-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 12
+}

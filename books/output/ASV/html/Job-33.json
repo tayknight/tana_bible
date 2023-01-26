@@ -1,0 +1,347 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 18,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 42,
+            "end_verse": 17,
+            "end_book": null
+        }
+    ],
+    "book": 18,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 18033001,
+            "text": "\u00b6     Howbeit, Job, I pray thee, hear my speech,\n    And hearken to all my words.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033002,
+            "text": "  Behold now, I have opened my mouth;\n  My tongue hath spoken in my <i>[a]</i>mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-2",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>palate</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033003,
+            "text": "    My words  the uprightness of my heart;\n    And that which my lips know they shall speak sincerely.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033004,
+            "text": "    The Spirit of God hath made me,\n    And the breath of the Almighty giveth me life.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033005,
+            "text": "    If thou canst, answer thou me;\n    Set  in order before me, stand forth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033006,
+            "text": "  Behold, <i>[b]</i>I am toward God even as thou art:\n    I also am formed out of the clay.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-6",
+            "footnotes": [
+                {
+                    "b": "Or, <i>I am according to thy wish in God\u2019s stead</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033007,
+            "text": "    Behold, my terror shall not make thee afraid,\n    Neither shall my pressure be heavy upon thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033008,
+            "text": "\u00b6     Surely thou hast spoken in my hearing,\n    And I have heard the voice of  words, ,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033009,
+            "text": "    I am clean, without transgression;\n    I am innocent, neither is there iniquity in me:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033010,
+            "text": "  Behold, he findeth <i>[c]</i>occasions against me,\n    He counteth me for his enemy;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-10",
+            "footnotes": [
+                {
+                    "c": "Or, <i>causes of alienation</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033011,
+            "text": "    He putteth my feet in the stocks,\n    He marketh all my paths.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-11",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033012,
+            "text": "  Behold, <i>[d]</i>I will answer thee, in this thou art not just;\n    For God is greater than man.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-12",
+            "footnotes": [
+                {
+                    "d": "Or, <i>in this thou art not just: I will answer thee; For etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033013,
+            "text": "\u00b6     Why dost thou strive against him,\n    For that he giveth not account of any of his matters?\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033014,
+            "text": "  For God speaketh <i>[e]</i>once,\n    Yea twice,  regardeth it not.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-14",
+            "footnotes": [
+                {
+                    "e": "Or, <i>in one way, yea, in two</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033015,
+            "text": "    In a dream, in a vision of the night,\n    When deep sleep falleth upon men,\n    In slumberings upon the bed;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033016,
+            "text": "  Then he <i>[f]</i>openeth the ears of men,\n    And sealeth their instruction,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-16",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>uncovereth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033017,
+            "text": "   <i>[g]</i>That he may withdraw man  purpose,\n    And hide pride from man;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-17",
+            "footnotes": [
+                {
+                    "g": "Or, <i>That man may put away</i> his <i>purpose, And that he may hide</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033018,
+            "text": "  <i>[h]</i>He keepeth back his soul from the pit,\n  And his life from perishing by the <i>[i]</i>sword.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-18",
+            "footnotes": [
+                {
+                    "h": "Or, <i>That he may keep back</i>"
+                },
+                {
+                    "i": "Or, <i>weapons</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033019,
+            "text": "\u00b6   He is chastened also with pain upon his bed,\n   <i>[j]</i>And with continual strife in his bones;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-19",
+            "footnotes": [
+                {
+                    "j": "Another reading is, <i>While all his bones are firm</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033020,
+            "text": "    So that his life abhorreth bread,\n    And his soul dainty food.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-20",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033021,
+            "text": "    His flesh is consumed away, that it cannot be seen;\n    And his bones that were not seen stick out.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033022,
+            "text": "    Yea, his soul draweth near unto the pit,\n    And his life to the destroyers.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-22",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033023,
+            "text": "\u00b6 If there be with him <i>[k]</i>an angel,\n An interpreter, one <i>[l]</i>among a thousand,\n  To show unto man <i>[m]</i>what is right for him;\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-23",
+            "footnotes": [
+                {
+                    "k": "Or, <i>a messenger</i>"
+                },
+                {
+                    "l": "Or, <i>of the thousand</i>"
+                },
+                {
+                    "m": "Or, <i>his uprightness</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033024,
+            "text": "   <i>[n]</i>Then  is gracious unto him, and saith,\n    Deliver him from going down to the pit,\n    I have found a ransom.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-24",
+            "footnotes": [
+                {
+                    "n": "Or, <i>And he be gracious\u00a0.\u00a0.\u00a0. and say\u00a0.\u00a0.\u00a0. ransom: his flesh etc.</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033025,
+            "text": "    His flesh shall be fresher than a child\u2019s;\n    He returneth to the days of his youth.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033026,
+            "text": "    He prayeth unto God, and he is favorable unto him,\n    So that he seeth his face with joy:\n    And he restoreth unto man his righteousness.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-26",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033027,
+            "text": " He <i>[o]</i>singeth before men, and saith,\n  I have sinned, and perverted that which was right,\n  And <i>[p]</i>it profited me not:\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-27",
+            "footnotes": [
+                {
+                    "o": "Or, <i>looketh upon men</i>"
+                },
+                {
+                    "p": "Or, <i>it was not requited unto me</i>. Or, <i>it was not meet for me</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033028,
+            "text": "    He hath redeemed my soul from going into the pit,\n    And my life shall behold the light.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033029,
+            "text": "\u00b6     Lo, all these things doth God work,\n    Twice,  thrice, with a man,\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-29",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033030,
+            "text": "  To bring back his soul from the pit,\n  That he may be enlightened with the light of <i>[q]</i>the living.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-30",
+            "footnotes": [
+                {
+                    "q": "Or, <i>life</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033031,
+            "text": "    Mark well, O Job, hearken unto me:\n    Hold thy peace, and I will speak.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033032,
+            "text": "    If thou hast anything to say, answer me:\n    Speak, for I desire to justify thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-32",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 18033033,
+            "text": "    If not, hearken thou unto me:\n    Hold thy peace, and I will teach thee wisdom.\n    ",
+            "version": "ASV",
+            "clsstr": "Job-33-33",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Job",
+    "chapters": 33
+}

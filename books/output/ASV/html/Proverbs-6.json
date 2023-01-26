@@ -1,0 +1,383 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 20,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 31,
+            "end_verse": 31,
+            "end_book": null
+        }
+    ],
+    "book": 20,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 20006001,
+            "text": "\u00b6   My son, if thou art become surety for thy neighbor,\n  If thou hast stricken <i>[a]</i>thy hands for a stranger;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-1",
+            "footnotes": [
+                {
+                    "a": "Or, <i>thy hand with a stranger</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006002,
+            "text": "    Thou art snared with the words of thy mouth,\n    Thou art taken with the words of thy mouth.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006003,
+            "text": "  Do this now, my son, and deliver thyself,\n  Seeing thou art come into the hand of thy neighbor:\n  Go, <i>[b]</i>humble thyself, and importune thy neighbor;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-3",
+            "footnotes": [
+                {
+                    "b": "Or, <i>bestir</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006004,
+            "text": "    Give not sleep to thine eyes,\n    Nor slumber to thine eyelids;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006005,
+            "text": "  Deliver thyself as a <i>[c]</i>roe from the hand ,\n    And as a bird from the hand of the fowler.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-5",
+            "footnotes": [
+                {
+                    "c": "Or, <i>gazelle</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006006,
+            "text": "\u00b6     Go to the ant, thou sluggard;\n    Consider her ways, and be wise:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006007,
+            "text": "  Which having no <i>[d]</i>chief,\n    Overseer, or ruler,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-7",
+            "footnotes": [
+                {
+                    "d": "Or, <i>judge</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006008,
+            "text": "    Provideth her bread in the summer,\n    And gathereth her food in the harvest.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006009,
+            "text": "  How long wilt thou <i>[e]</i>sleep, O sluggard?\n    When wilt thou arise out of thy sleep?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-9",
+            "footnotes": [
+                {
+                    "e": "Hebrew <i>lie down</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006010,
+            "text": "   a little sleep, a little slumber,\n  A little folding of the hands to <i>[f]</i>sleep:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-10",
+            "footnotes": [
+                {
+                    "f": "Hebrew <i>lie down</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006011,
+            "text": " So shall thy poverty come as a <i>[g]</i>robber,\n  And thy want as <i>[h]</i>an armed man.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-11",
+            "footnotes": [
+                {
+                    "g": "Or, <i>rover</i>"
+                },
+                {
+                    "h": "Hebrew <i>a man with a shield</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006012,
+            "text": "    A worthless person, a man of iniquity,\n    Is he that walketh with a perverse mouth;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006013,
+            "text": " That winketh with his eyes, that <i>[i]</i>speaketh with his feet,\n  That <i>[j]</i>maketh signs with his fingers;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-13",
+            "footnotes": [
+                {
+                    "i": "Or, <i>shuffleth</i>"
+                },
+                {
+                    "j": "Or, <i>teacheth with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006014,
+            "text": "  In whose heart is perverseness,\n  Who deviseth evil continually,\n  Who <i>[k]</i>soweth discord.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-14",
+            "footnotes": [
+                {
+                    "k": "Hebrew <i>letteth loose</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006015,
+            "text": "    Therefore shall his calamity come suddenly;\n    On a sudden shall he be broken, and that without remedy.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-15",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006016,
+            "text": "  There are six things which Jehovah hateth;\n  Yea, seven which are an abomination <i>[l]</i>unto him:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-16",
+            "footnotes": [
+                {
+                    "l": "Hebrew <i>of his soul</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006017,
+            "text": "    Haughty eyes, a lying tongue,\n    And hands that shed innocent blood;\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006018,
+            "text": "    A heart that deviseth wicked purposes,\n    Feet that are swift in running to mischief,\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-18",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006019,
+            "text": " A false witness that <i>[m]</i>uttereth lies,\n  And he that <i>[n]</i>soweth discord among brethren.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-19",
+            "footnotes": [
+                {
+                    "m": "Hebrew <i>breatheth out</i>."
+                },
+                {
+                    "n": "Hebrew <i>letteth loose</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006020,
+            "text": "\u00b6   My son, keep the commandment of thy father,\n  And forsake not the <i>[o]</i>law of thy mother:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-20",
+            "footnotes": [
+                {
+                    "o": "Or, <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006021,
+            "text": "    Bind them continually upon thy heart;\n    Tie them about thy neck.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-21",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006022,
+            "text": "  When thou walkest, it shall lead thee;\n  When thou <i>[p]</i>sleepest, it shall watch over thee;\n    And when thou awakest, it shall talk with thee.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-22",
+            "footnotes": [
+                {
+                    "p": "Hebrew <i>liest down</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006023,
+            "text": " For <i>[q]</i>the commandment is a lamp; and <i>[r]</i>the law is light;\n    And reproofs of instruction are the way of life:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-23",
+            "footnotes": [
+                {
+                    "q": "Or, their <i>commandment</i>"
+                },
+                {
+                    "r": "Or, their <i>teaching</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006024,
+            "text": "    To keep thee from the evil woman,\n    From the flattery of the foreigner\u2019s tongue.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-24",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006025,
+            "text": "    Lust not after her beauty in thy heart;\n    Neither let her take thee with her eyelids.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-25",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006026,
+            "text": "  For on account of a harlot to a piece of bread;\n  And <i>[s]</i>the adulteress hunteth for the precious life.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-26",
+            "footnotes": [
+                {
+                    "s": "Hebrew <i>a man\u2019s wife</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006027,
+            "text": "    Can a man take fire in his bosom,\n    And his clothes not be burned?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-27",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006028,
+            "text": "    Or can one walk upon hot coals,\n    And his feet not be scorched?\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-28",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006029,
+            "text": "  So he that goeth in to his neighbor\u2019s wife;\n  Whosoever toucheth her shall not be <i>[t]</i>unpunished.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-29",
+            "footnotes": [
+                {
+                    "t": "Hebrew <i>held innocent</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006030,
+            "text": "  Men do not despise a thief, if he steal\n  To satisfy <i>[u]</i>himself when he is hungry:\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-30",
+            "footnotes": [
+                {
+                    "u": "Or, <i>his appetite</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006031,
+            "text": "    But if he be found, he shall restore sevenfold;\n    He shall give all the substance of his house.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-31",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006032,
+            "text": "  He that committeth adultery with a woman is void of <i>[v]</i>understanding:\n    He doeth it who would destroy his own soul.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-32",
+            "footnotes": [
+                {
+                    "v": "Hebrew <i>heart</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006033,
+            "text": "    Wounds and dishonor shall he get;\n    And his reproach shall not be wiped away.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-33",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006034,
+            "text": "    For jealousy is the rage of a man;\n    And he will not spare in the day of vengeance.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-34",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 20006035,
+            "text": "    He will not regard any ransom;\n    Neither will he rest content, though thou givest many gifts.\n    ",
+            "version": "ASV",
+            "clsstr": "Prov-6-35",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Proverbs",
+    "chapters": 6
+}

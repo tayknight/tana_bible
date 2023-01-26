@@ -1,0 +1,197 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 66,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 22,
+            "end_verse": 21,
+            "end_book": null
+        }
+    ],
+    "book": 66,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 66006001,
+            "text": "\u00b6 And I saw when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying as with a voice of thunder, Come <i>[a]</i>. ",
+            "version": "ASV",
+            "clsstr": "Rev-6-1",
+            "footnotes": [
+                {
+                    "a": "Some ancient authorities add <i>and see</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006002,
+            "text": "And I saw, and behold, a white horse, and he that sat thereon had a bow; and there was given unto him a crown: and he came forth conquering, and to conquer.",
+            "version": "ASV",
+            "clsstr": "Rev-6-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006003,
+            "text": "\u00b6 And when he opened the second seal, I heard the second living creature saying, Come <i>[b]</i>. ",
+            "version": "ASV",
+            "clsstr": "Rev-6-3",
+            "footnotes": [
+                {
+                    "b": "Some ancient authorities add <i>and see</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006004,
+            "text": "And another came forth, a red horse: and to him that sat thereon it was given to take <i>[c]</i>peace from the earth, and that they should slay one another: and there was given unto him a great sword.",
+            "version": "ASV",
+            "clsstr": "Rev-6-4",
+            "footnotes": [
+                {
+                    "c": "Some ancient authorities read <i>the peace of the earth</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006005,
+            "text": "\u00b6 And when he opened the third seal, I heard the third living creature saying, Come. <i>[d]</i>And I saw, and behold, a black horse; and he that sat thereon had a balance in his hand. ",
+            "version": "ASV",
+            "clsstr": "Rev-6-5",
+            "footnotes": [
+                {
+                    "d": "Some ancient authorities add <i>and see</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006006,
+            "text": "And I heard as it were a voice in the midst of the four living creatures saying, <i>[e]</i>A measure of wheat for a <i>[f]</i>shilling, and three measures of barley for a <i>[g]</i>shilling; and the oil and the wine hurt thou not.",
+            "version": "ASV",
+            "clsstr": "Rev-6-6",
+            "footnotes": [
+                {
+                    "e": "Or, <i>A choenix</i> (i.e. about a quart) <i>of wheat for a shilling</i>\u2014implying great scarcity. Compare [[Ezek. 4:16f]]; [[5:16]]."
+                },
+                {
+                    "f": "See marginal note on [[Mt. 18:28]]."
+                },
+                {
+                    "g": "See marginal note on [[Mt. 18:28]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006007,
+            "text": "\u00b6 And when he opened the fourth seal, I heard the voice of the fourth living creature saying, Come <i>[h]</i>. ",
+            "version": "ASV",
+            "clsstr": "Rev-6-7",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities add <i>and see</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006008,
+            "text": "And I saw, and behold, a pale horse: and he that sat upon him, his name was Death; and Hades followed with him. And there was given unto them authority over the fourth part of the earth, to kill with sword, and with famine, and with <i>[i]</i>death, and by the wild beasts of the earth.",
+            "version": "ASV",
+            "clsstr": "Rev-6-8",
+            "footnotes": [
+                {
+                    "i": "Or, <i>pestilence</i>. Compare [[2:23]] margin."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006009,
+            "text": "\u00b6 And when he opened the fifth seal, I saw underneath the altar the souls of them that had been slain for the word of God, and for the testimony which they held: ",
+            "version": "ASV",
+            "clsstr": "Rev-6-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006010,
+            "text": "and they cried with a great voice, saying, How long, O Master, the holy and true, dost thou not judge and avenge our blood on them that dwell on the earth? ",
+            "version": "ASV",
+            "clsstr": "Rev-6-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006011,
+            "text": "And there was given them to each one a white robe; and it was said unto them, that they should rest yet for a little time, until their fellow-servants also and their brethren, who should be killed even as they were, should <i>[j]</i>have fulfilled .",
+            "version": "ASV",
+            "clsstr": "Rev-6-11",
+            "footnotes": [
+                {
+                    "j": "Some ancient authorities read <i>be fulfilled</i> in number; [[2 Esdr. 4:36]]"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006012,
+            "text": "\u00b6 And I saw when he opened the sixth seal, and there was a great earthquake; and the sun became black as sackcloth of hair, and the whole moon became as blood; ",
+            "version": "ASV",
+            "clsstr": "Rev-6-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006013,
+            "text": "and the stars of the heaven fell unto the earth, as a fig tree casteth her unripe figs when she is shaken of a great wind. ",
+            "version": "ASV",
+            "clsstr": "Rev-6-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006014,
+            "text": "And the heaven was removed as a scroll when it is rolled up; and every mountain and island were moved out of their places. ",
+            "version": "ASV",
+            "clsstr": "Rev-6-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006015,
+            "text": "And the kings of the earth, and the princes, and the <i>[k]</i>chief captains, and the rich, and the strong, and every bondman and freeman, hid themselves in the caves and in the rocks of the mountains; ",
+            "version": "ASV",
+            "clsstr": "Rev-6-15",
+            "footnotes": [
+                {
+                    "k": "Or, <i>military tribunes</i>. Greek <i>chiliarchs</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006016,
+            "text": "and they say to the mountains and to the rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: ",
+            "version": "ASV",
+            "clsstr": "Rev-6-16",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 66006017,
+            "text": "for the great day of their wrath is come; and who is able to stand?",
+            "version": "ASV",
+            "clsstr": "Rev-6-17",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Revelation",
+    "chapters": 6
+}

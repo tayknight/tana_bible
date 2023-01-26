@@ -1,0 +1,138 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19079001,
+            "text": "<b>A lament over the destruction of Jerusalem, and prayer for help.</b>\n\u00b6 A Psalm of Asaph.\u00b6     O God, the nations are come into thine inheritance;\n    Thy holy temple have they defiled;\n    They have laid Jerusalem in heaps.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079002,
+            "text": "    The dead bodies of thy servants have they given to be food unto the birds of the heavens,\n    The flesh of thy saints unto the beasts of the earth.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079003,
+            "text": "    Their blood have they shed like water round about Jerusalem;\n    And there was none to bury them.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079004,
+            "text": "    We are become a reproach to our neighbors,\n    A scoffing and derision to them that are round about us.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079005,
+            "text": "    How long, O Jehovah? wilt thou be angry for ever?\n    Shall thy jealousy burn like fire?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079006,
+            "text": "    Pour out thy wrath upon the nations that know thee not,\n    And upon the kingdoms that call not upon thy name.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079007,
+            "text": "  For they have devoured Jacob,\n  And laid waste his <i>[a]</i>habitation.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-7",
+            "footnotes": [
+                {
+                    "a": "Or, <i>pasture</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079008,
+            "text": "    Remember not against us the iniquities of our forefathers:\n    Let thy tender mercies speedily meet us;\n    For we are brought very low.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-8",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079009,
+            "text": "  Help us, O God of our salvation, for the glory of thy name;\n  And deliver us, and <i>[b]</i>forgive our sins, for thy name\u2019s sake.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-9",
+            "footnotes": [
+                {
+                    "b": "Or, <i>expiate</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079010,
+            "text": "    Wherefore should the nations say, Where is their God?\n    Let the avenging of the blood of thy servants which is shed\n    Be known among the nations in our sight.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079011,
+            "text": " Let the sighing of the prisoner come before thee:\n According to the greatness of <i>[c]</i>thy power preserve thou <i>[d]</i>those that are appointed to death;\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-11",
+            "footnotes": [
+                {
+                    "c": "Hebrew <i>thine arm</i>."
+                },
+                {
+                    "d": "Hebrew <i>the children of death</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079012,
+            "text": "    And render unto our neighbors sevenfold into their bosom\n    Their reproach, wherewith they have reproached thee, O Lord.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19079013,
+            "text": "    So we thy people and sheep of thy pasture\n    Will give thee thanks for ever:\n    We will show forth thy praise to all generations.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-79-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 79
+}

@@ -1,0 +1,87 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 19,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 150,
+            "end_verse": 6,
+            "end_book": null
+        }
+    ],
+    "book": 19,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 19130001,
+            "text": "<b>Hope in the Lord\u2019s forgiving love.</b>\n\u00b6 A Song of Ascents.\u00b6     Out of the depths have I cried unto thee, O Jehovah.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19130002,
+            "text": "    Lord, hear my voice:\n    Let thine ears be attentive\n    To the voice of my supplications.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19130003,
+            "text": "  If thou, <i>[a]</i>Jehovah, shouldest mark iniquities,\n    O Lord, who could stand?\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-3",
+            "footnotes": [
+                {
+                    "a": "Hebrew <i>Jah</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19130004,
+            "text": "    But there is forgiveness with thee,\n    That thou mayest be feared.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19130005,
+            "text": "    I wait for Jehovah, my soul doth wait,\n    And in his word do I hope.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19130006,
+            "text": "    My soul  for the Lord\n    More than watchmen  for the morning;\n     watchmen for the morning.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19130007,
+            "text": "    O Israel, hope in Jehovah;\n    For with Jehovah there is lovingkindness,\n    And with him is plenteous redemption.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 19130008,
+            "text": "    And he will redeem Israel\n    From all his iniquities.\n    ",
+            "version": "ASV",
+            "clsstr": "Ps-130-8",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Psalms",
+    "chapters": 130
+}

@@ -1,0 +1,149 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 46,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 16,
+            "end_verse": 24,
+            "end_book": null
+        }
+    ],
+    "book": 46,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 46008001,
+            "text": "\u00b6 Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffeth up, but love <i>[a]</i>edifieth. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-1",
+            "footnotes": [
+                {
+                    "a": "Greek <i>buildeth up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008002,
+            "text": "If any man thinketh that he knoweth anything, he knoweth not yet as he ought to know; ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008003,
+            "text": "but if any man loveth God, the same is known by him. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-3",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008004,
+            "text": "Concerning therefore the eating of things sacrificed to idols, we know that no idol is  in the world, and that there is no God but one. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008005,
+            "text": "For though there be that are called gods, whether in heaven or on earth; as there are gods many, and lords many; ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008006,
+            "text": "yet to us there is one God, the Father, of whom are all things, and we unto him; and one Lord, Jesus Christ, through whom are all things, and we through him. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008007,
+            "text": "Howbeit there is not in all men that knowledge: but some, being used until now to the idol, eat as  a thing sacrificed to an idol; and their conscience being weak is defiled. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-7",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008008,
+            "text": "But food will not <i>[b]</i>commend us to God: neither, if we eat not, <i>[c]</i>are we the worse; nor, if we eat, <i>[d]</i>are we the better. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-8",
+            "footnotes": [
+                {
+                    "b": "Greek <i>present</i>."
+                },
+                {
+                    "c": "Greek <i>do we lack</i>."
+                },
+                {
+                    "d": "Greek <i>do we abound</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008009,
+            "text": "But take heed lest by any means this <i>[e]</i>liberty of yours become a stumblingblock to the weak. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-9",
+            "footnotes": [
+                {
+                    "e": "Or, <i>power</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008010,
+            "text": "For if a man see thee who hast knowledge sitting at meat in an idol\u2019s temple, will not his conscience, if he is weak, <i>[f]</i>be emboldened to eat things sacrificed to idols? ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-10",
+            "footnotes": [
+                {
+                    "f": "Greek <i>be builded up</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008011,
+            "text": "For <i>[g]</i>through thy knowledge he that is weak perisheth, the brother for whose sake Christ died. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-11",
+            "footnotes": [
+                {
+                    "g": "Greek <i>in</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008012,
+            "text": "And thus, sinning against the brethren, and wounding their conscience when it is weak, ye sin against Christ. ",
+            "version": "ASV",
+            "clsstr": "1Cor-8-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 46008013,
+            "text": "Wherefore, if meat causeth my brother to stumble, I will eat no flesh for evermore, that I cause not my brother to stumble.",
+            "version": "ASV",
+            "clsstr": "1Cor-8-13",
+            "footnotes": [],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "1 Corinthians",
+    "chapters": 8
+}

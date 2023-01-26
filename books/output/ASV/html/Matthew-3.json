@@ -1,0 +1,189 @@
+{
+    "_b": [
+        true,
+        {
+            "book": 40,
+            "start_chapter": 1,
+            "start_verse": 1,
+            "end_chapter": 28,
+            "end_verse": 20,
+            "end_book": null
+        }
+    ],
+    "book": 40,
+    "version": "ASV",
+    "verses": [
+        {
+            "verse_id": 40003001,
+            "text": "\u00b6 And in those days cometh John the Baptist, preaching in the wilderness of Judaea, saying, ",
+            "version": "ASV",
+            "clsstr": "Matt-3-1",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003002,
+            "text": "Repent ye; for the kingdom of heaven is at hand. ",
+            "version": "ASV",
+            "clsstr": "Matt-3-2",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003003,
+            "text": "For this is he that was spoken of through Isaiah the prophet, saying,\u00b6   <i>[a]</i>The voice of one crying in the wilderness,\n    Make ye ready the way of the Lord,\n    Make his paths straight.\n    ",
+            "version": "ASV",
+            "clsstr": "Matt-3-3",
+            "footnotes": [
+                {
+                    "a": "[[Isa. 40:3]]."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003004,
+            "text": "\u00b6 Now John himself had his raiment of camel\u2019s hair, and a leathern girdle about his loins; and his food was locusts and wild honey. ",
+            "version": "ASV",
+            "clsstr": "Matt-3-4",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003005,
+            "text": "Then went out unto him Jerusalem, and all Judaea, and all the region round about the Jordan; ",
+            "version": "ASV",
+            "clsstr": "Matt-3-5",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003006,
+            "text": "and they were baptized of him in the river Jordan, confessing their sins. ",
+            "version": "ASV",
+            "clsstr": "Matt-3-6",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003007,
+            "text": "But when he saw many of the Pharisees and Sadducees coming <i>[b]</i>to his baptism, he said unto them, Ye offspring of vipers, who warned you to flee from the wrath to come? ",
+            "version": "ASV",
+            "clsstr": "Matt-3-7",
+            "footnotes": [
+                {
+                    "b": "Or, <i>for baptism</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003008,
+            "text": "Bring forth therefore fruit worthy of <i>[c]</i>repentance: ",
+            "version": "ASV",
+            "clsstr": "Matt-3-8",
+            "footnotes": [
+                {
+                    "c": "Or, <i>your repentance</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003009,
+            "text": "and think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham. ",
+            "version": "ASV",
+            "clsstr": "Matt-3-9",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003010,
+            "text": "And even now the axe lieth at the root of the trees: every tree therefore that bringeth not forth good fruit is hewn down, and cast into the fire. ",
+            "version": "ASV",
+            "clsstr": "Matt-3-10",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003011,
+            "text": "I indeed baptize you <i>[d]</i>in water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not <i>[e]</i>worthy to bear: he shall baptize you <i>[f]</i>in the Holy Spirit and  fire: ",
+            "version": "ASV",
+            "clsstr": "Matt-3-11",
+            "footnotes": [
+                {
+                    "d": "Or, <i>with</i>"
+                },
+                {
+                    "e": "Greek <i>sufficient</i>."
+                },
+                {
+                    "f": "Or, <i>with</i>"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003012,
+            "text": "whose fan is in his hand, and he will thoroughly cleanse his threshing-floor; and he will gather his wheat into the garner, but the chaff he will burn up with unquenchable fire.",
+            "version": "ASV",
+            "clsstr": "Matt-3-12",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003013,
+            "text": "\u00b6 Then cometh Jesus from Galilee to the Jordan unto John, to be baptized of him. ",
+            "version": "ASV",
+            "clsstr": "Matt-3-13",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003014,
+            "text": "But John would have hindered him, saying, I have need to be baptized of thee, and comest thou to me? ",
+            "version": "ASV",
+            "clsstr": "Matt-3-14",
+            "footnotes": [],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003015,
+            "text": "But Jesus answering said unto him, Suffer <i>[g]</i> now: for thus it becometh us to fulfil all righteousness. Then he suffereth him. ",
+            "version": "ASV",
+            "clsstr": "Matt-3-15",
+            "footnotes": [
+                {
+                    "g": "Or, me"
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003016,
+            "text": "And Jesus, when he was baptized, went up straightway from the water: and lo, the heavens were opened <i>[h]</i>unto him, and he saw the Spirit of God descending as a dove, and coming upon him; ",
+            "version": "ASV",
+            "clsstr": "Matt-3-16",
+            "footnotes": [
+                {
+                    "h": "Some ancient authorities omit <i>unto him</i>."
+                }
+            ],
+            "crossrefs": []
+        },
+        {
+            "verse_id": 40003017,
+            "text": "and lo, a voice out of the heavens, saying, <i>[i]</i>This is my beloved Son, in whom I am well pleased.",
+            "version": "ASV",
+            "clsstr": "Matt-3-17",
+            "footnotes": [
+                {
+                    "i": "Or, <i>This is my Son; my beloved in whom I am well pleased.</i> See [[12:18]]."
+                }
+            ],
+            "crossrefs": []
+        }
+    ],
+    "short_title": "Matthew",
+    "chapters": 3
+}
