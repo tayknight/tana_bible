@@ -128,7 +128,7 @@ if __name__ == '__main__':
             
             this_book = Book(bookinfo=book, version=config["version"])
             
-            if bible.get_references(this_book.book)[0].book in b:
+            if bible.get_references(this_book.book)[0].book in b or args["books"] is None:
                 print(this_book.book)
 
                 for chapter_num in tqdm(range(1, this_book.chapters), initial=1, unit="verse", total=this_book.chapters):
