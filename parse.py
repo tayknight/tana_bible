@@ -491,8 +491,7 @@ if __name__ == '__main__':
                 for v in this_book.verses:
                     if v.text == "":
                         problem_verses.append("Something wrong with {} {} {}.".format(this_book.book.title, chapter_num, v.verse))
-                    # Some part of the process is appending a newline (or <br>) before section
-                    # headings. # TODO figure out why.
+                    
                     if v.text.startswith("\n<b>"):
                         v.text = v.text[1:]
 
@@ -511,6 +510,3 @@ if __name__ == '__main__':
     # TODO space in 2nd clause of Matthew 1:6
     # TODO double line breaks in poetry
     # TODO fix James 1 in NRSVUE
-    # TODO use pythonbible to find references in footnote and crossreference strings.
-    # TODO let pythonbible try to find footnote verse_ref, if fails prepend book name
-    #      and try again.

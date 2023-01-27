@@ -100,14 +100,6 @@ if __name__ == '__main__':
                         chapter_path = output_path = Path("books", "input", config["version"], "html")
                         chapter_path.mkdir(parents=True, exist_ok=True)
 
-
-
-                        # with open(Path(chapter_path, "{}-{}.html".format(
-                        #     title,
-                        #     count
-                        # )), "wb") as f:
-                        #     for chunk in r.iter_content(chunk_size=128):
-                        #         f.write(chunk)
                         passage_soup = BeautifulSoup(r.text, "html.parser")
                         passage = passage_soup.find(class_="passage-col")
 

@@ -297,10 +297,6 @@ if __name__ == '__main__':
                                     key = list(this_key.keys())[0]
                                     c_i += 1
                                 try:
-                                    # Try to get a reference from the text of the individual cross reference
-                                    # element. Throw an error if the verse can't be processed.
-                                    # TODO set a flag and continue so that the text of the reference can be
-                                    # included.
                                     bible_ref = bible.get_references(this_key[key])
                                 except ValueError as e:
                                     tqdm.write("Problem with {} {}:{}. {}".format(
