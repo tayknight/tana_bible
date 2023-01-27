@@ -30,7 +30,7 @@ The `config.json` file needs to be updated if you want to use a version other th
 
 The `human_name` of this version is `American-Standard-Version`. The version is the part between the `human_name` and `-Bible` in the URL. So, in this case, `ASV`.
 
-`output_format` can be `html` or `markdown`, but the script has really only been tested for the Tana Import Format with `html`.
+`output_format` can be `html` or `markdown`, but the script has really only been tested for the Tana Import Format with `html`. This switch only affects how text *inside* the node inside the json file is formatted. It doesn't output markdown formatted files.
 
 ## Scripts
 ### download.py
@@ -45,6 +45,7 @@ The `human_name` of this version is `American-Standard-Version`. The version is 
 `-o` output. What to name the output file?
 
 `-b` books. Which groups of books should be included. Valid values are:
+  * OLD_TESTAMENT_
   * OLD_TESTAMENT_LAW
   * OLD_TESTAMENT_HISTORY
   * OLD_TESTAMENT_POETRY_WISDOM
@@ -57,7 +58,7 @@ The `human_name` of this version is `American-Standard-Version`. The version is 
   * NEW_TESTAMENT_EPISTLES
   * NEW_TESTAMENT_PAUL_EPISTLES
   * NEW_TESTAMENT_GENERAL_EPISTLES
-  * NEW_TESTAMENT_APOCALYPTIC
+  * ~~NEW_TESTAMENT_APOCALYPTIC~~
 
 For example `python.exe generate_tif.py -b OLD_TESTAMENT_LAW OLD_TESTAMENT_HISTORY -o 1.json`
 
