@@ -44,7 +44,7 @@ The `human_name` of this version is `American-Standard-Version`. The version is 
 
 `-o` output. What to name the output file?
 
-`-b` books. Which groups of books should be included. Valid values are:
+`-b` books. Which groups of books should be included. Multiple values are allowed Valid values are:
   * OLD_TESTAMENT_
   * OLD_TESTAMENT_LAW
   * OLD_TESTAMENT_HISTORY
@@ -77,10 +77,12 @@ to discuss what you would like to change.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## General TODOs / wishlist.
+  * Refactor the whole shebang as a proper python script that can call download, parse, generate.
   * Figure out how to include the apocrapha. This may involve forking pythonbible and allowing per-version book configuration.
   * Add config or switch options to allow runtime specification of Book-Chapter-Verse processing.
   * Think about how to store references like Job 38.26–28 or Gen 3.7, 10, 11. In Tana should these be broken out into a footnote/cross refs for each verse?
   * Fix compound NRSVUE James 1 verse(s) 7,8.
   * In generate_tif fix the ref that looks like 'Job 38:26-Job 38:28'. This is currently a limitation of pythonbible.
   * In generate_tif fix the ref that looks like '1 Chronicles 1:5-1 Chronicles 1:7'. This is currently a limitation of pythonbible.
-  
+  * Add script to generate Tana paste formatted clipboard entries for creating search nodes for each book.
+  * Add documentation for how to format the #verse supertag in Tana.
